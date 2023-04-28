@@ -1,5 +1,3 @@
-# 1. Project Title
+# 1. Business Case
 
-Bregghan Point of Sale System
-
-# 2. Project Professor
+[Aurora_Business-Case .pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11349376/Aurora_Business-Case.pdf)
