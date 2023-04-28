@@ -14,7 +14,8 @@ Mr. Jose Eugenio L. Quesada | PROJMAN Professor | jlquesada@apc.edu.ph
 <!--EndFragment-->
 </body>
 </html>
-###    2.2 Project Adviser
+
+### 2.2 Project Adviser
 
 ###    2.3 Project Team
 
