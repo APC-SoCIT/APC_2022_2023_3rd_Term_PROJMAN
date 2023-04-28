@@ -174,61 +174,39 @@ The group plans to further address the general objective of the project to:
 ***
 ### 4.12 Project Performance
 The project team will assess the performance of the project by examining and analyzing the following forms, completed during testing by both the developers and the client:
-
-• Test Cases
+* Test Cases
 
 This document is where the development team tests each feature of the system and assigns a "PASS" or "FAIL" status to each feature. They also document all possible scenarios to thoroughly test each feature.
 
 **The project's performance will be measured through the following metrics:**
-
-• Schedule adherence: comparing actual project completion dates to planned dates
-
-• Budget adherence: comparing actual project expenditures to planned budget
-
-• Quality assurance: monitoring adherence to project quality standards
-
-• Stakeholder satisfaction: conducting surveys or interviews to gauge satisfaction with project outcomes
-
-• Risk management: monitoring and addressing potential risks and issues throughout the project lifecycle
-
-• Change management: tracking changes made to the project scope or plan and assessing their impact on project performance.
+* Schedule adherence: comparing actual project completion dates to planned dates
+* Budget adherence: comparing actual project expenditures to planned budget
+* Quality assurance: monitoring adherence to project quality standards
+* Stakeholder satisfaction: conducting surveys or interviews to gauge satisfaction with project outcomes
+* Risk management: monitoring and addressing potential risks and issues throughout the project lifecycle
+* Change management: tracking changes made to the project scope or plan and assessing their impact on project performance.
 
 ***
 ### 4.13 Project Assumptions
-
-• All necessary funding and resources will be secured and available for the duration of the project.
-
-• All stakeholders will be available and able to provide input as needed throughout the project lifecycle.
-
-• There will be no major technological or market disruptions that would impact the project's success.
-
-• The project team will have the necessary expertise and skill sets to complete the project successfully.
-
-• All regulatory and legal requirements will be met and any necessary permits or approvals will be obtained.
-
-• The project will be completed within the proposed timeline and budget.
-
-• The project scope will remain consistent throughout the project lifecycle, and any changes will be managed through a formal change control process.
-
-• The project team will be able to effectively communicate and collaborate throughout the project lifecycle.
-
-• The project will not have a significant negative impact on the environment, community, or stakeholders.
-
-• The project will result in the anticipated benefits and outcomes as described in the business case.
+* All necessary funding and resources will be secured and available for the duration of the project.******
+* All stakeholders will be available and able to provide input as needed throughout the project lifecycle.
+* There will be no major technological or market disruptions that would impact the project's success.
+* The project team will have the necessary expertise and skill sets to complete the project successfully.
+* All regulatory and legal requirements will be met and any necessary permits or approvals will be obtained.
+* The project will be completed within the proposed timeline and budget.
+* The project scope will remain consistent throughout the project lifecycle, and any changes will be managed through a formal change control process.
+* The project team will be able to effectively communicate and collaborate throughout the project lifecycle.
+* The project will not have a significant negative impact on the environment, community, or stakeholders.
+* The project will result in the anticipated benefits and outcomes as described in the business case.
 
 ***
 ### 4.15 Project Constraints
-**• Budget constraints:** The project cannot exceed a certain budget, which may limit the scope or timeline of the project.
-
-**• Time constraints:** The project must be completed within the designated timestamp of the subject course Project Management (PROJMAN).
-
-**• Resource constraints:** The project team may have limited staff, expertise, or technology available to complete the project.
-
-**• Regulatory constraints:** The project must comply with specific laws, regulations, or standards that may limit the project's scope or approach.
-
-**• Technical constraints:** The project may be limited by the available technology or infrastructure.
-
-**• Organizational constraints:** The project may be limited by organizational policies, culture, or priorities.
+* Budget constraints: The project cannot exceed a certain budget, which may limit the scope or timeline of the project.
+* Time constraints: The project must be completed within the designated timestamp of the subject course Project Management (PROJMAN).
+* Resource constraints: The project team may have limited staff, expertise, or technology available to complete the project.
+* Regulatory constraints: The project must comply with specific laws, regulations, or standards that may limit the project's scope or approach.
+* Technical constraints: The project may be limited by the available technology or infrastructure.
+* Organizational constraints: The project may be limited by organizational policies, culture, or priorities.
 
 ***
 ### 4.16  Major Project Milestone
@@ -250,13 +228,11 @@ Milestone 5: | Receive feedback from stakeholdersand conduct comprehensive testi
 
 ***
 ### 4.17 Strategic Alignment
-**• Strategic Plan: Increase Efficiency and Effectiveness**
+* Strategic Plan: Increase Efficiency and Effectiveness
 The strategic plan calls for improving efficiency and effectiveness of organizational processes and systems to better serve customers and stakeholders. The proposed project will introduce a new software system that will streamline and automate key business processes, resulting in increased efficiency and effectiveness.
-
-**• Strategic Plan: Enhance Customer Experience**
+* Strategic Plan: Enhance Customer Experience
 The strategic plan calls for enhancing the customer experience through improved products and services. The proposed project will enable the organization to better track and respond to customer needs, resulting in improved customer satisfaction.
-
-**• Strategic Plan: Achieve Financial Sustainability**
+* Strategic Plan: Achieve Financial Sustainability
 The strategic plan calls for achieving financial sustainability through improved financial management and revenue generation. The proposed project will enable the organization to more accurately track and analyze financial data, resulting in improved financial management and potential revenue generation opportunities.
 
 ***
