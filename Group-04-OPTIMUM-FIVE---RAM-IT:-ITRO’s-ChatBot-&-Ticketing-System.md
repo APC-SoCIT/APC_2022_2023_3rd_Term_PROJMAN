@@ -38,19 +38,23 @@
 		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">John Brian M.Gutierrez</p></td>
-		<td><p style="text-align:center;">jmgutierrez@student.apc.edu.ph</p></td>
+		<td><p style="text-align:center;">Jayson Aloya</p></td>
+		<td><p style="text-align:center;">jqaloya@student.apc.edu.ph</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Mary Ann Santiago</p></td>
-		<td><p style="text-align:center;">mcsantiago@student.apc.edu.ph</p></td>
+		<td><p style="text-align:center;">Jan Gabriel Prion</p></td>
+		<td><p style="text-align:center;">jbprion@student.apc.edu.ph</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Timoteo Aricayos</p></td>
-		<td><p style="text-align:center;">traricayos@student.apc.edu.ph</p></td>
+		<td><p style="text-align:center;">John Christopher Langcauon</p></td>
+		<td><p style="text-align:center;">jtlangcauon@student.apc.edu.ph</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Jan Lester Hernandez</p></td>
-		<td><p style="text-align:center;">aphernandez@student.apc.edu.ph</p></td>
+		<td><p style="text-align:center;">Marc Julian Sajul</p></td>
+		<td><p style="text-align:center;">mdsajul@student.apc.edu.ph</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Marc Zamora</p></td>
+		<td><p style="text-align:center;">mezamora@student.apc.edu.ph</p></td>
 	</tr>
 </table>
