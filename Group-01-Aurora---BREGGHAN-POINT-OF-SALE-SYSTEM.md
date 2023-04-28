@@ -1,2 +1,1 @@
-**# 1. Project Title**
-Bregghan Point of Sale System
+**# 1 Project Title**
