@@ -366,3 +366,72 @@ Success of the Bregghan Sales and Stock Tracer Responsive Web Application will b
 ***
 ### 5.15 Project Manager
 Benedict Elloso is named as the Project Manager for the duration of the project. Mr. Elloso’s responsibility is to manage all project tasks including the scheduling and communication through the client regarding this project. His team, consists of two programmers and two documenters will work on the project. Mr. Elloso is the one who will be coordinating with the client. 
+
+***
+## 6. Scope Management Strategy
+### 6.1 Introduction
+Bregghan mini grocery store is a family-owned business which is being managed by Ms. Devilyn Ligligen. It is located at Mt. Makiling Street. Makati City. On a regular basis, the grocery store is managed by 2 staff personnel, and both are selling the products to customers. The grocery store supplies retail/wholesale/bulk to residents and “sari-sari” stores in the area. The store only accommodates 1-5 persons walk-in. In addition, the store offers different varieties of products ranging from Dairy, Beverages, Liquor, Frozen foods, Canned goods, etc.
+
+The objectives of the project is to develop a responsive web application that tracks sales and stocks for the client and decreases the number of steps that the user can do in the whole transaction for faster checkouts.
+
+***
+### 6.2 Key Stakeholder
+The key stakeholder of the project would be Ms. Devilyn Ligligen. She is the owner of the Bregghan mini grocery store and she will be the one using the project along with her personnel(cashier). All the necessary features that are requested by the client should be included hence, she will have a weekly check-up on the team to monitor the progress and to ensure that her requirements are met.
+
+***
+### 6.3 Stakeholder Analysis
+The stakeholder that the project has is Ms. Devilyn Ligligen. She is the client of the team and is categorized as the priority during the development of the project. Her needs/requirements should be adhered by the team and all of her requests must be taken into consideration. Furthermore, the client should always be present during meetings for her to monitor the progress of the team and to make sure that all her requirements are met. The technique that the team would incorporate is the SWOT analysis. This will help the team identify the things that the client lacks and it helps them understand the potential impact that the stakeholder could have on the project.
+
+***
+### 6.4 Strengths
+
+***
+### 6.5 Weakness
+* Bregghan only use pen and paper as a system to manage their stocks/supplies.
+* Customers' purchases are manually calculated using a calculator, which might lead to human error.
+* Receipts are handwritten.
+* Stocks are only replenished when the staff notices that there are no items stored.
+* The store’s basis to record the items that was sold is only in the form of a receipt.
+* Human errors might occur with their current POS system since all items that are bought from the store are written in a booklet of receipt.
+* Miscalculation of the stocks when checking every night.
+
+***
+### 6.6 Opportunities
+* Client buys supplies from corporations/ big companies.
+* Bregghan store is a growing grocery around the vicinity with no competitors.
+* The store is located on a high populated residential area which is accessible within a few individuals.
+
+***
+### 6.7 Threats
+* Sundry types of stores are growing and visible in the area.
+* An external hazard like the pandemic may affect the store sales due to the closing of sari sari stores in the area.
+* Rehabilitation of streets are frequent in the area which may result to a narrower street which is hard for the suppliers of the store to reach it.
+
+***
+## 7. Scope Management Plan
+
+***
+## 8. Cost Management Plan
+
+***
+## 9. Schedule Management Plan
+
+***
+## 10. Quality Management Plan
+
+***
+## 11. Human Resource Management Plan
+
+***
+## 12. Work Breakdown Structure
+
+***
+## 13. Procurement Management Plan
+
+***
+## 14. Risk Management Plan
+
+***
+## 15. Communication Management Plan
+
+***
