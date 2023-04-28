@@ -127,3 +127,11 @@ Team Members | Done Paolo Y. Tarinay
 ***
 ### 4.7 Problem Statement
 Bregghan mini grocery store is currently facing several issues in their daily operations, which are mainly caused by their manual recording and tracking system. Specifically, the store experiences difficulty in monitoring their inventory, which can result in insufficient stocks or overstocking. Additionally, the manual computation of sold items often leads to errors, which affects the accuracy of their sales records. As a result, the store loses potential customers due to a lack of available items, leading to decreased profits. Furthermore, the current process of tracking sales and stocks is time consuming, which can lead to slower checkouts and longer queues. Overall, the business problem is the need for a more efficient and accurate system to monitor inventory and sales to improve the overall customer experience and increase revenue.
+
+***
+### 4.8 Organizational Impact
+The implementation of the proposed project will have a significant impact on the organizational processes, tools, hardware, and software of Bregghan mini grocery store. It will require the adoption of new technology and the implementation of new processes to manage sales and inventory in a digitized and automated way. The system will replace the traditional pen-and-paper method of tracking sales and inventory, which will require staff to be trained in the use of the new technology.
+
+New roles will be created to manage the system and ensure its proper functioning. The manager will have access to the system's reporting tools to generate daily, weekly, monthly, and yearly reports on sales and inventory. The system will also require the creation of a database of products that the store offers, and this will need to be updated and maintained regularly.
+
+The proposed project will bring a positive impact to the organizational processes, increasing the efficiency and accuracy of sales and inventory tracking. The store staff will be able to manage the stock level in real-time, making restocking more efficient and reducing the risk of stockouts. The system will also provide better insight into product performance and inventory management, allowing for better decision-making and more informed business strategies.
