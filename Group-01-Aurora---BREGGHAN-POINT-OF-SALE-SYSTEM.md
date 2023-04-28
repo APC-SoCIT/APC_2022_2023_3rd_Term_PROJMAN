@@ -1,4 +1,6 @@
 # 1. Project Title
+Bregghan Point of Sale System
+
 # 2. Project Members
 ##    2.1 Project Professor
 ##    2.2 Project Adviser
