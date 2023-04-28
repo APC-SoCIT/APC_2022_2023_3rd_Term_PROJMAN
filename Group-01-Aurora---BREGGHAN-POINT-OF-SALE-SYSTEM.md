@@ -265,8 +265,32 @@ Milestone 5: | Receive feedback from stakeholdersand conduct comprehensive testi
 **• Strategic Plan: Increase Efficiency and Effectiveness**
 The strategic plan calls for improving efficiency and effectiveness of organizational processes and systems to better serve customers and stakeholders. The proposed project will introduce a new software system that will streamline and automate key business processes, resulting in increased efficiency and effectiveness.
 
-**• Strategic Plan: Enhance Customer Experience **
+**• Strategic Plan: Enhance Customer Experience**
 The strategic plan calls for enhancing the customer experience through improved products and services. The proposed project will enable the organization to better track and respond to customer needs, resulting in improved customer satisfaction.
 
 **• Strategic Plan: Achieve Financial Sustainability**
 The strategic plan calls for achieving financial sustainability through improved financial management and revenue generation. The proposed project will enable the organization to more accurately track and analyze financial data, resulting in improved financial management and potential revenue generation opportunities.
+
+***
+### 4.18 Cost Benefit Analysis
+**Benefits:**
+
+A well-designed and properly implemented POS system can provide benefits such as improved inventory management, faster transaction processing, better customer tracking, and more accurate sales reporting. These benefits can lead to more efficient operations, better customer service, and potentially increased sales. The actual impact on sales will depend on various factors, including the specific features and capabilities of the POS system, the business processes and strategies, and the overall market conditions.
+
+**Costs**
+
+The costs related to the Bregghan POS System project are outlined as follows:
+
+• The cost estimate for using a tablet for the cashier in the Bregghan POS System project is ₱ 15,000.00.
+
+• The cost estimate for using a barcode scanner is ₱ 2,000.00.
+
+• The cost estimate for using a printer is ₱ 1,000.00.
+
+• The estimated cost for hosting the system at AWS is up to ₱ 1,595.00.
+
+• The estimated cost for the client's internet service provider through Converge ICT Solutions is up to ₱ 2,500.00.
+
+• All other costs associated with running Bregghan Store, including expenses for the project system, electricity, water, and other operational expenses, will add up to ₱ 22,095.00.
+
+***
