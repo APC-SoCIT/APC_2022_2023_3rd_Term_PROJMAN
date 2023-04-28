@@ -125,3 +125,5 @@ Team Members | Done Paolo Y. Tarinay
 </html>
 
 ***
+### 4.7 Problem Statement
+Bregghan mini grocery store is currently facing several issues in their daily operations, which are mainly caused by their manual recording and tracking system. Specifically, the store experiences difficulty in monitoring their inventory, which can result in insufficient stocks or overstocking. Additionally, the manual computation of sold items often leads to errors, which affects the accuracy of their sales records. As a result, the store loses potential customers due to a lack of available items, leading to decreased profits. Furthermore, the current process of tracking sales and stocks is time consuming, which can lead to slower checkouts and longer queues. Overall, the business problem is the need for a more efficient and accurate system to monitor inventory and sales to improve the overall customer experience and increase revenue.
