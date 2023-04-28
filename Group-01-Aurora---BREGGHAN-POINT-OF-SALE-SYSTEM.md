@@ -1,9 +1,9 @@
-### 1	Project Title
-### 2	Project Members
-### 2.1	Project Professor
-### 2.2	Project Adviser
+### 1 Project Title
+### 2 Project Members
+###  2.1 Project Professor
+###  2.2 Project Adviser
 ### 2.3	Project Team
-### 3	Company Profile
+### 3 Company Profile
 ### 4	Business Case
 ### 4.1	Executive Summary
 ### 4.2	Issue
