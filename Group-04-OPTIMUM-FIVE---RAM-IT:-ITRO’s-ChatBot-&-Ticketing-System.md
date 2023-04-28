@@ -15,3 +15,18 @@
 		<td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
 	</tr>
 </table>
+
+==Project Adviser==
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Jo Anne M. de la Cuesta</p></td>
+<td><p style="text-align:center;">PROJMAN Adviser</p></td>
+		<td><p style="text-align:center;">joannec@apc.edu.ph</p></td>
+	</tr>
+</table>
