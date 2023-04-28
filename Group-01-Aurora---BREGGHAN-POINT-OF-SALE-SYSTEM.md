@@ -2,4 +2,16 @@
 Bregghan Point of Sale System
 
 ***
-### Project Members
+## 2. Project Members
+### 2.1 Project Professor
+<html>
+<body>
+<!--StartFragment-->
+
+NAME | POSITION | EMAIL
+-- | -- | --
+Mr. Jose Eugenio L. Quesada | PROJMAN Professor | jlquesada@apc.edu.ph
+
+<!--EndFragment-->
+</body>
+</html>
