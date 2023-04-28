@@ -71,4 +71,18 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 ***
 ### 4.3 Anticipated Outcomes
 **Improved inventory management:**
-The implementation of a digitized sales and stock tracking system will allow Bregghan mini grocery store to have accurate and real-time data on their inventory. This will enable them to make informed decisions on when to replenish stock, which products to order, and how much stock to order, leading to a reduction in stockouts and overstocking.
+The implementation of a digitized sales and stock tracking system will allow Bregghan mini grocery store to have accurate and real-time data on their inventory. This will enable them to make informed decisions on when to replenish stock, which products to order, and how much stock to order, leading to a reduction in stock outs and overstocking.
+
+**Increased sales:**
+With the implementation of a Point-of-Sale (POS) system, the checkout process will be faster and more efficient. Customers will have a better experience and may be more likely to return. The system will also be able to generate reports on the top-selling products, which can help the store to make informed decisions on product placement and marketing strategies.
+
+**Reduced errors:**
+The automated computation of items sold will significantly reduce the occurrence of human errors, which can lead to miscounting of inventory and discrepancies in sales records. This will result in more accurate sales and inventory data.
+
+**Enhanced customer experience:**
+The system will provide a better copy of receipts, allowing customers to keep track of their purchases. This can help in building customer trust and loyalty.
+
+**Increased productivity:**
+The implementation of a digitized sales and stock tracking system will reduce the workload of the staff, as they will no longer have to manually record sales and inventory. This will free up their time, allowing them to focus on other tasks that can improve the store's operations.
+
+***
