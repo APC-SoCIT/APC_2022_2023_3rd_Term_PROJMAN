@@ -300,3 +300,61 @@ To observe the success of the Bregghan Sales and Stocks Tracer Web Application, 
 * Develop an admin system that can monitor the stocks and sales real time.
 * Fully develop an Admin System
 * Fully develop a POS System 
+
+***
+### 5.7 Requirements
+This project must meet the following list of requirements in order to achieve success:
+* The client’s needs are met.
+* The processes and features of the project is adequate.
+
+***
+### 5.8 Constraints
+The following constraints pertain to the Bregghan Sales and Stocks Tracer Web Application:
+* All security hardware and software must be compatible with our current IT platforms.
+* All hardware and software must be purchased in accordance with the allocated budget and timeline.
+* Two IT specialists and one security specialist will be provided as resources for this project.
+
+***
+### 5.9 Assumptions
+The following is the list of the assumptions. Upon agreement and accepting this document at the end, all parties acknowledge that these assumptions are true and correct:
+* This project has the full support of the Client.
+* The client will be informed of the project before deployment.
+
+***
+### 5.10 Preliminary Scope Statement
+A digitized system will be developed as part of the proposed solution for the Bregghan mini grocery store. All hardware and software resources will be managed by the team. The project will be independent as it goes in progress daily and all the testing will be done by the team as well as the client as she can recommend some changes the way the clients want the project. The project manager will oversee all the deliverables if it reaches accordingly as planned. The project will be finished when the final report is sent 30 days after the project is tested and deployed.
+
+***
+### 5.11 Risks
+The following risks for the PBL project is identified. The developers should implement avoidance strategies appropriate to minimize the likelihood of these risks:
+* Backlogs from the team due to workload from other academic subjects.
+* Backlogs due to equipment break down.
+
+***
+### 5.12 Project Deliverables
+The following deliverables must be met upon the successful completion of the ISA project. Any changes to these deliverables must be approved by the project sponsor:
+* Fully deployed intranet security solution.
+* Technical documentation for intranet security solution.
+* Recommendation list for future security considerations.
+
+***
+### 5.13 Summary Milestone Schedule
+The project Summary Milestone Schedule is presented below. As requirements are more clearly defined this schedule may be modified. Any changes will be communicated through project status meetings by the project manager.
+
+**Summary Milestone Schedule – List key project milestones relative to project start. **
+<html>
+<body>
+<!--StartFragment-->
+
+Project Milestones | Target Date (mm/dd/yyy)
+-- | --
+Project Start (MNTSDEV) | 05/06/2022
+Planning (MNTSDEV) | 08/15/2022
+Approved Solution (MSYADD1) | 11/27/2022
+Development of System (MCSPROJ) | 10/18/2022
+Project Deployment | 03/06/2023
+Completed Project | 3/11/2023
+
+<!--EndFragment-->
+</body>
+</html>
