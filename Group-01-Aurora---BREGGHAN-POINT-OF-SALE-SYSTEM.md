@@ -67,3 +67,8 @@ The current sales tracking process relies on hand-written receipts, which can le
 
 **Lack of real-time monitoring:**
 Without a digital system, the staff at Bregghan mini grocery store are unable to monitor stocks and sales in real-time. This can result in missed opportunities to replenish stock levels and can make it difficult for the store to keep up with customer demand.
+
+***
+### 4.3 Anticipated Outcomes
+**Improved inventory management:**
+The implementation of a digitized sales and stock tracking system will allow Bregghan mini grocery store to have accurate and real-time data on their inventory. This will enable them to make informed decisions on when to replenish stock, which products to order, and how much stock to order, leading to a reduction in stockouts and overstocking.
