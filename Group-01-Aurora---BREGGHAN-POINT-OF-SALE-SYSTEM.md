@@ -2,3 +2,4 @@
 Bregghan Point of Sale System
 
 ***
+Project Members
