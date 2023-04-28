@@ -243,3 +243,19 @@ This document is where the development team tests each feature of the system and
 **• Organizational constraints:** The project may be limited by organizational policies, culture, or priorities.
 
 ***
+### 4.16  Major Project Milestone
+<html>
+<body>
+<!--StartFragment-->
+
+Milestone | Deliverables
+-- | --
+Milestone 1: | The team finished the planning and conducted the necessary research and developed problem statements to propose a solution.
+Milestone 2: | The team successfully created the Unified Modeling Language for specifying, constructing, and documenting the artifacts of systems. 
+Milestone 3: | The team successfully created the Website Application for the Bregghan Point of Sale System
+Milestone 4: | The team will unsure to finish the documentation and deliverables for the Project Management.
+Milestone 5: | Receive feedback from stakeholdersand conduct comprehensive testing for the deployment.
+
+<!--EndFragment-->
+</body>
+</html>
