@@ -204,3 +204,26 @@ This document is where the development team tests each feature of the system and
 • Risk management: monitoring and addressing potential risks and issues throughout the project lifecycle
 
 • Change management: tracking changes made to the project scope or plan and assessing their impact on project performance.
+
+***
+### 4.13 Project Assumptions
+
+• All necessary funding and resources will be secured and available for the duration of the project.
+
+• All stakeholders will be available and able to provide input as needed throughout the project lifecycle.
+
+• There will be no major technological or market disruptions that would impact the project's success.
+
+• The project team will have the necessary expertise and skill sets to complete the project successfully.
+
+• All regulatory and legal requirements will be met and any necessary permits or approvals will be obtained.
+
+• The project will be completed within the proposed timeline and budget.
+
+• The project scope will remain consistent throughout the project lifecycle, and any changes will be managed through a formal change control process.
+
+• The project team will be able to effectively communicate and collaborate throughout the project lifecycle.
+
+• The project will not have a significant negative impact on the environment, community, or stakeholders.
+
+• The project will result in the anticipated benefits and outcomes as described in the business case.
