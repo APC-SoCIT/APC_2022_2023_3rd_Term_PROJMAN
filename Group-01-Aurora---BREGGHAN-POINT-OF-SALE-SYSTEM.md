@@ -135,3 +135,9 @@ The implementation of the proposed project will have a significant impact on the
 New roles will be created to manage the system and ensure its proper functioning. The manager will have access to the system's reporting tools to generate daily, weekly, monthly, and yearly reports on sales and inventory. The system will also require the creation of a database of products that the store offers, and this will need to be updated and maintained regularly.
 
 The proposed project will bring a positive impact to the organizational processes, increasing the efficiency and accuracy of sales and inventory tracking. The store staff will be able to manage the stock level in real-time, making restocking more efficient and reducing the risk of stockouts. The system will also provide better insight into product performance and inventory management, allowing for better decision-making and more informed business strategies.
+
+***
+### 4.9 Technology Migration
+The plan for the Bregghan POS System involves the creation of a website and mobile application that will be powered by Amazon Web Services (AWS) for the database. AWS is a type of cloud service that allows businesses to rent computing resources like servers, storage, and databases. The developers chose AWS for the mini grocery store due to its scalability, allowing the store to scale up or down easily to meet changing demands in the future without worrying about managing their infrastructure. AWS is also highly reliable and can handle large volumes of traffic and data without slowing down. The data migration process will ensure that all necessary data is transferred to the new system, and the new system will undergo thorough testing to ensure reliability, efficiency, and security.
+
+***
