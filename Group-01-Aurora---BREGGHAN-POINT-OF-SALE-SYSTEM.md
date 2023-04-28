@@ -1,4 +1,4 @@
-### 1. Project Title
+### 1 Project Title
 Bregghan Point of Sale System
 
 ### 2 Project Members
