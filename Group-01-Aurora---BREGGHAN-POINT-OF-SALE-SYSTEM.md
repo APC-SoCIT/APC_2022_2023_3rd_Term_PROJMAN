@@ -329,3 +329,16 @@ The Bregghan Sales and Stocks Tracer Responsive Web Application is created to ch
 * Create a web and mobile application within the given timeframe which is the second term of the School Year 2022 – 2023
 
 * Accomplish all documentations and the implementation of the project within the second term of the School Year 2022 – 2023
+
+***
+### 5.5 Project Description
+This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency and the company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales. This will be accomplished by the implementing systems for the admin and its employee which is connected with each other, the admin monitoring the sales and stocks while the employee’s system or Point-of-Sale will handle outgoing stocks from the grocery.
+
+***
+### 5.6 Project Objectives and Success Criteria
+To observe the success of the Bregghan Sales and Stocks Tracer Web Application, these are the objectives that should be met with within the designated time of the PBL project development:
+
+* Develop a solution that can digitize the computation of sales within the PBL project.
+* Develop an admin system that can monitor the stocks and sales real time.
+* Fully develop an Admin System
+* Fully develop a POS System 
