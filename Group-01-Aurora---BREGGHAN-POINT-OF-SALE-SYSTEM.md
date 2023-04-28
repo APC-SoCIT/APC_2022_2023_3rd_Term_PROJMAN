@@ -145,3 +145,29 @@ The plan for the Bregghan POS System involves the creation of a website and mobi
 This section provides a broad overview of the Bregghan POS System, which encompasses a description, its goals and objectives, performance criteria, assumptions, constraints, and major milestones.
 
 The project will develop a sales and stock tracing system to address the business problem of Bregghan mini grocery store which is the lack of efficient monitoring of their stocks and sales. The purpose of the project is to develop a digital application that will provide the staff and manager of the store with an efficient way of monitoring their stocks and sales in real time, reducing the workload and potential for human errors. The project will consist of developing a POS-like system where users can monitor the items that go in and out of the store and can compute the total prices, and a system for generating and storing digital copies of receipts. The system will be developed using modern software development practices and technologies. The project will be executed in three terms, with clear milestones and deliverables to ensure that it stays on track and within scope.
+
+***
+### 4.11 Goals and Objectives
+**Goals:**
+• Improve inventory management and tracking processes
+• Increase efficiency and accuracy of sales and transaction data recording
+• Provide real-time monitoring and reporting capabilities
+• Enhance customer experience by providing detailed and accurate receipts
+
+**General Objectives:**
+• To develop a responsive web application that tracks sales and stocks for Bregghan mini
+grocery store.
+• Decreases the number of steps that the user can do in the whole transaction
+for faster checkouts.
+The group plans to further address the general objective of the project to:
+
+**Inventory:**
+• Digitize 100% the recording of stocks and sales.
+• Notifies the user that the stocks are at a critical level.
+
+**Sales:**
+• Computation of items that are sold are automated.
+
+**Reports:**
+• Produce a report that will show the records sold daily, weekly, monthly,
+and yearly
