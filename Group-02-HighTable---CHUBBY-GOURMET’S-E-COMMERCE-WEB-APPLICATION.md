@@ -1,5 +1,5 @@
 =Project Title=
-<b><font size="5"><p style="text-align:center">Project Management Plan for Just-In-Time E-Commerce Website</p></font></b>
+<h1 style="text-align:center">Project Management Plan for Just-In-Time E-Commerce Website</h1>
 
 =Project Members=
 ==Project Professor==
@@ -17,6 +17,6 @@
 </table>
 
 =Company Profile=
-<p><strong>Brief Background:</strong></p>
+<h2><strong>Brief Background:</strong></h2>
 <p>M.C. Manabat is a sole proprietorship business that mainly sells computer, computer peripherals, and Software. Currently the client only does things manually and they use mobile phones when receiving orders from the customers and ordering to the supplier.</p>
 <p>The business wants to adopts the J.I.T(Just-In-Time) approach because J.I.T (Just-In-Time) inventory system has several advantages like production runs remain short, reduces costs and eliminates warehouse storage needs, companies also spend less money on raw materials because they buy just enough to make the products and no more, just like the J.I.T ordering system they will only order the item from the supplier when the customer orders the item, reducing cost and eliminating warehouse storage needs.</p>
