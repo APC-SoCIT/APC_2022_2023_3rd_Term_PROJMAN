@@ -107,6 +107,11 @@ The implementation of a POS-like system will enable the store to provide better 
 
 ***
 ### 4.6 Business Case Analysis Team
+<html>
+<body>
+<!--StartFragment-->
+
+DESIGNATION | NAME
 -- | --
 Project Sponsor/Owner | Ms. Devilyn C. Ligligen
 Project Adviser | Dr. Manuel L. Calimlim Jr.
