@@ -30,3 +30,27 @@
 		<td><p style="text-align:center;">joannec@apc.edu.ph</p></td>
 	</tr>
 </table>
+
+==Project Team==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">John Brian M.Gutierrez</p></td>
+		<td><p style="text-align:center;">jmgutierrez@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Mary Ann Santiago</p></td>
+		<td><p style="text-align:center;">mcsantiago@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Timoteo Aricayos</p></td>
+		<td><p style="text-align:center;">traricayos@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Jan Lester Hernandez</p></td>
+		<td><p style="text-align:center;">aphernandez@student.apc.edu.ph</p></td>
+	</tr>
+</table>
