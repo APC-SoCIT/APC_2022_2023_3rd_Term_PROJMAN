@@ -58,3 +58,12 @@ Ms. Devilyn C. Ligligen is the owner of a small-scale retail outlet situated on 
 Bregghan Mini Grocery Store is a family-owned business that supplies retail, wholesale, and bulk products to residents and sari-sari stores in the area. The store's current system for tracking sales and stocks is manual, using pen and paper, which has led to difficulty in monitoring inventory and potential loss of sales due to items being out of stock. To address these pain points, our team aims to develop a responsive webapp that digitizes the recording of stocks and sales, notifies the user when stocks are at a critical level, and automates the computation of sold items. The webapp will also produce a report that shows daily, weekly, monthly, and yearly records sold.
 
 ***
+### 4.2 Issue
+**Manual inventory tracking:**
+The current system at Bregghan mini grocery store involves manual recording of stocks and sales on paper, which can be time-consuming and prone to errors. The lack of a proper inventory management system can result in out-of-stock items and missed sales opportunities. 
+
+**Inefficient sales tracking:**
+The current sales tracking process relies on hand-written receipts, which can lead to errors in the computation of sold items and total sales. This can result in inaccurate sales data and hinder the store's ability to make informed business decisions.
+
+**Lack of real-time monitoring:**
+Without a digital system, the staff at Bregghan mini grocery store are unable to monitor stocks and sales in real-time. This can result in missed opportunities to replenish stock levels and can make it difficult for the store to keep up with customer demand.
