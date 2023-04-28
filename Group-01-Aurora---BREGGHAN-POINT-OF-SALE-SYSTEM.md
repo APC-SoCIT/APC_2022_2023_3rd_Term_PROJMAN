@@ -48,3 +48,7 @@ Done Paolo Y. Tarinay | dytarinay@student.apc.edu.ph
 </html>
 
 ***
+## 3. Company Profile
+Brief Background:
+
+Ms. Devilyn C. Ligligen is the owner of a small-scale retail outlet situated on Mt. Makiling St., Post Proper Southside, Makati City. She caters to sari-sari stores and a diverse range of customers in the surrounding vicinity, providing goods for both wholesale and retail transactions.
