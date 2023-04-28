@@ -304,3 +304,5 @@ The costs related to the Bregghan POS System project are outlined as follows:
 vendor. However, this option was rejected due to the lack of control over the process and potential security risks associated with sharing confidential company information with external parties.
 
 ***
+### 4.20 Approvals
+The approval of the project should be obtained from the main stakeholder, Ms. Devilyn C. Ligligen, who is the owner of the business.
