@@ -277,7 +277,7 @@ The strategic plan calls for achieving financial sustainability through improved
 
 A well-designed and properly implemented POS system can provide benefits such as improved inventory management, faster transaction processing, better customer tracking, and more accurate sales reporting. These benefits can lead to more efficient operations, better customer service, and potentially increased sales. The actual impact on sales will depend on various factors, including the specific features and capabilities of the POS system, the business processes and strategies, and the overall market conditions.
 
-**Costs**
+**Costs:**
 
 The costs related to the Bregghan POS System project are outlined as follows:
 
@@ -292,5 +292,15 @@ The costs related to the Bregghan POS System project are outlined as follows:
 • The estimated cost for the client's internet service provider through Converge ICT Solutions is up to ₱ 2,500.00.
 
 • All other costs associated with running Bregghan Store, including expenses for the project system, electricity, water, and other operational expenses, will add up to ₱ 22,095.00.
+
+***
+### 4.19 Alternative Analysis
+
+**Status Quo:** The first alternative considered was to maintain the current process and not implement any changes.
+
+**Manual Process Improvement:** The second alternative considered was to improve the existing manual process by introducing new tools and technologies, such as automation software.
+
+**Outsourcing:** The third alternative considered was to outsource the process to a third-party
+vendor. However, this option was rejected due to the lack of control over the process and potential security risks associated with sharing confidential company information with external parties.
 
 ***
