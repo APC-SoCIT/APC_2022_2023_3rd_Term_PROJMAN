@@ -248,7 +248,7 @@ This document is where the development team tests each feature of the system and
 <body>
 <!--StartFragment-->
 
-Milestone | Deliverables
+Milestones | Deliverables
 -- | --
 Milestone 1: | The team finished the planning and conducted the necessary research and developed problem statements to propose a solution.
 Milestone 2: | The team successfully created the Unified Modeling Language for specifying, constructing, and documenting the artifacts of systems. 
@@ -259,3 +259,14 @@ Milestone 5: | Receive feedback from stakeholdersand conduct comprehensive testi
 <!--EndFragment-->
 </body>
 </html>
+
+***
+### 4.17 Strategic Alignment
+**• Strategic Plan: Increase Efficiency and Effectiveness**
+The strategic plan calls for improving efficiency and effectiveness of organizational processes and systems to better serve customers and stakeholders. The proposed project will introduce a new software system that will streamline and automate key business processes, resulting in increased efficiency and effectiveness.
+
+**• Strategic Plan: Enhance Customer Experience **
+The strategic plan calls for enhancing the customer experience through improved products and services. The proposed project will enable the organization to better track and respond to customer needs, resulting in improved customer satisfaction.
+
+**• Strategic Plan: Achieve Financial Sustainability**
+The strategic plan calls for achieving financial sustainability through improved financial management and revenue generation. The proposed project will enable the organization to more accurately track and analyze financial data, resulting in improved financial management and potential revenue generation opportunities.
