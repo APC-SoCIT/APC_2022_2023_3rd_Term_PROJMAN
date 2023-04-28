@@ -1,4 +1,5 @@
 Project Title
+
 Bregghan Point of Sale System
 
 <html>
@@ -7,7 +8,7 @@ Bregghan Point of Sale System
 
 NAME | POSITION | EMAIL
 -- | -- | --
-Lorena Rabago | PROJMAN Professor | lorenar@apc.edu.ph
+mr. Jose Eugenio L. Quesada | PROJMAN Professor | jlquesada@apc.edu.ph
 
 <!--EndFragment-->
 </body>
