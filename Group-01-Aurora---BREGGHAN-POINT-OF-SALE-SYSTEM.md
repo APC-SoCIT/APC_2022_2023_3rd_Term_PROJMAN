@@ -3,7 +3,7 @@ Bregghan Point of Sale System
 
 ### 2. Project Members
 
-### 2. 2.1 Project Professor
+###  2.1 Project Professor
 <html>
 <body>
 <!--StartFragment-->
