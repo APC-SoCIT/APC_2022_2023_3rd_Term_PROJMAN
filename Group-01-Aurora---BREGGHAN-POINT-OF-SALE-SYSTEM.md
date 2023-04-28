@@ -230,8 +230,10 @@ Milestone 5: | Receive feedback from stakeholdersand conduct comprehensive testi
 ### 4.17 Strategic Alignment
 * Strategic Plan: Increase Efficiency and Effectiveness
 The strategic plan calls for improving efficiency and effectiveness of organizational processes and systems to better serve customers and stakeholders. The proposed project will introduce a new software system that will streamline and automate key business processes, resulting in increased efficiency and effectiveness.
+
 * Strategic Plan: Enhance Customer Experience
 The strategic plan calls for enhancing the customer experience through improved products and services. The proposed project will enable the organization to better track and respond to customer needs, resulting in improved customer satisfaction.
+
 * Strategic Plan: Achieve Financial Sustainability
 The strategic plan calls for achieving financial sustainability through improved financial management and revenue generation. The proposed project will enable the organization to more accurately track and analyze financial data, resulting in improved financial management and potential revenue generation opportunities.
 
@@ -244,27 +246,21 @@ A well-designed and properly implemented POS system can provide benefits such as
 **Costs:**
 
 The costs related to the Bregghan POS System project are outlined as follows:
-
-• The cost estimate for using a tablet for the cashier in the Bregghan POS System project is ₱ 15,000.00.
-
-• The cost estimate for using a barcode scanner is ₱ 2,000.00.
-
-• The cost estimate for using a printer is ₱ 1,000.00.
-
-• The estimated cost for hosting the system at AWS is up to ₱ 1,595.00.
-
-• The estimated cost for the client's internet service provider through Converge ICT Solutions is up to ₱ 2,500.00.
-
-• All other costs associated with running Bregghan Store, including expenses for the project system, electricity, water, and other operational expenses, will add up to ₱ 22,095.00.
+* The cost estimate for using a tablet for the cashier in the Bregghan POS System project is ₱ 15,000.00.
+* The cost estimate for using a barcode scanner is ₱ 2,000.00.
+* The cost estimate for using a printer is ₱ 1,000.00.
+* The estimated cost for hosting the system at AWS is up to ₱ 1,595.00.
+* The estimated cost for the client's internet service provider through Converge ICT Solutions is up to ₱ 2,500.00.
+* All other costs associated with running Bregghan Store, including expenses for the project system, electricity, water, and other operational expenses, will add up to ₱ 22,095.00.
 
 ***
 ### 4.19 Alternative Analysis
 
-**Status Quo:** The first alternative considered was to maintain the current process and not implement any changes.
+* Status Quo: The first alternative considered was to maintain the current process and not implement any changes.
 
-**Manual Process Improvement:** The second alternative considered was to improve the existing manual process by introducing new tools and technologies, such as automation software.
+* Manual Process Improvement: The second alternative considered was to improve the existing manual process by introducing new tools and technologies, such as automation software.
 
-**Outsourcing:** The third alternative considered was to outsource the process to a third-party
+* Outsourcing: The third alternative considered was to outsource the process to a third-party
 vendor. However, this option was rejected due to the lack of control over the process and potential security risks associated with sharing confidential company information with external parties.
 
 ***
@@ -289,9 +285,7 @@ The Bregghan Sales and Stocks Tracer Responsive Web Application is created to ch
 **The business objectives for the project are listed below:**
 
 * Rid of the manual computation of sales and inventory management of the Bregghan mini grocery store and automate it by 100%
-
 * Create a web and mobile application within the given timeframe which is the second term of the School Year 2022 – 2023
-
 * Accomplish all documentations and the implementation of the project within the second term of the School Year 2022 – 2023
 
 ***
