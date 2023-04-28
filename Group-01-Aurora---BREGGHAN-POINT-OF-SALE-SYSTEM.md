@@ -166,7 +166,8 @@ grocery store.
 • Decreases the number of steps that the user can do in the whole transaction
 for faster checkouts.
 
-**The group plans to further address the general objective of the project to:**
+
+****The group plans to further address the general objective of the project to:****
 
 **Inventory:**
 
