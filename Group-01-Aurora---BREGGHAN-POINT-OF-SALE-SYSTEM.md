@@ -90,3 +90,17 @@ The implementation of a digitized sales and stock tracking system will reduce th
 To address the identified business problem of inefficient stock and sales monitoring at Bregghan mini grocery store, we recommend developing a responsive web application that digitizes the recording of stocks and sales, automates computation of sold items, and produces reports for daily, weekly, monthly, and yearly records. By implementing this solution, the staff and manager of Bregghan mini grocery store will be able to monitor stocks and sales in real-time, reducing workload and minimizing human error. This will lead to more efficient inventory management and faster checkouts, resulting in improved customer satisfaction and retention. The system will also provide alerts when stock levels reach a critical point, allowing the store to replenish inventory on time and avoid potential revenue loss due to out-of-stock items. Furthermore, the application's capability to produce detailed sales reports will provide useful insights to the business, allowing for data-driven decision-making to further optimize operations and profitability. Overall, we believe that the proposed solution will address the identified business problem and provide significant benefits to Bregghan mini grocery store, its staff, and its customers.
 
 ***
+### 4.5 Justification
+The implementation of the proposed project is justified by the following reasons:
+
+**Improved Efficiency:**
+The current manual system used by Bregghan mini grocery store for tracking sales and inventory is time-consuming and prone to errors. By implementing a digitized system, the staff and manager can track sales and inventory in real-time, reducing the workload, and improving overall efficiency.
+
+**Better Inventory Management:**
+The proposed project will allow for more accurate tracking of inventory levels and ensure that items are restocked on time, avoiding stock outs that can lead to lost sales.
+
+**Increased Sales:**
+With better inventory management and automated tracking of sales, the store can ensure that popular items are always in stock, leading to increased sales and customer satisfaction.
+
+**Improved Customer Experience:** 
+The implementation of a POS-like system will enable the store to provide better customer service, including faster checkouts and more accurate receipts.
