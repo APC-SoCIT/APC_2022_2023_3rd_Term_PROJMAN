@@ -227,3 +227,19 @@ This document is where the development team tests each feature of the system and
 • The project will not have a significant negative impact on the environment, community, or stakeholders.
 
 • The project will result in the anticipated benefits and outcomes as described in the business case.
+
+***
+### 4.15 Project Constraints
+**• Budget constraints:** The project cannot exceed a certain budget, which may limit the scope or timeline of the project.
+
+**• Time constraints:** The project must be completed within the designated timestamp of the subject course Project Management (PROJMAN).
+
+**• Resource constraints:** The project team may have limited staff, expertise, or technology available to complete the project.
+
+**• Regulatory constraints:** The project must comply with specific laws, regulations, or standards that may limit the project's scope or approach.
+
+**• Technical constraints:** The project may be limited by the available technology or infrastructure.
+
+**• Organizational constraints:** The project may be limited by organizational policies, culture, or priorities.
+
+***
