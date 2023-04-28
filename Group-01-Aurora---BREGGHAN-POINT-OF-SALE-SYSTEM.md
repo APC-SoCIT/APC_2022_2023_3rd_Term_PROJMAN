@@ -1,2 +1,2 @@
-1. Project Team
-1. 1. 
+Project Title
+Bregghan Point of Sale System
