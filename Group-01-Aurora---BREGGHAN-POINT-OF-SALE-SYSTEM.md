@@ -1,11 +1,11 @@
-### # 1. Project Title
+### 1. Project Title
 Bregghan Point of Sale System
 
 # 2. Project Members
 
-##    2.1 Project Professor
-##    2.2 Project Adviser
-##    2.3 Project Team
+### 2.1 Project Professor
+### 2.2 Project Adviser
+### 2.3 Project Team
 # 3. Project Profile
 # 4. Business Case
 ##    4.1 Executive Summary
