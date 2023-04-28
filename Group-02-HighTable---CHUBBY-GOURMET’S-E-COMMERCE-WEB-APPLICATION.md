@@ -1,5 +1,5 @@
 =Project Title=
-<h1 style="text-align:center">Project Management Plan for Just-In-Time E-Commerce Website</h1>
+<h1 style="text-align:center">Chubby Gourmet E-Commerce Web Application</h1>
 
 =Project Members=
 ==Project Professor==
