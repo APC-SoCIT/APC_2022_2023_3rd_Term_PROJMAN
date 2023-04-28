@@ -306,3 +306,26 @@ vendor. However, this option was rejected due to the lack of control over the pr
 ***
 ### 4.20 Approvals
 The approval of the project should be obtained from the main stakeholder, Ms. Devilyn C. Ligligen, who is the owner of the business.
+
+***
+## 5. Project Charter
+### 5.1 Executive Summary
+Ever since the establishment of the Bregghan mini grocery store, it has been using a pen and paper to track the stocks and sales that are going in and out of the store. In addition, the store’s current Point of Sales System is a manual computation and the receipts are hand written. With the integration of the project, it will provide technology solutions which produces efficiency among workload in the said company. 
+
+***
+### 5.2 Project Purpose/Justification
+This section of the paper will explain the purpose of the project that will be implemented which is the Bregghan Sales and Stocks Tracer Responsice Web Application. Furthermore, the business case will also discuss on why the project is needed since it is with relation to how the small business operates.
+
+***
+### 5.3 Business Need/Case
+The Bregghan Sales and Stocks Tracer Responsive Web Application is created to change the manual recording of pen and paper which is used by the company to track sales and stocks, into a digitized version that will be used by the owner and their employee. This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency. The company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales.
+
+***
+### 5.4 Business Objectives
+**The business objectives for the project are listed below:**
+
+* Rid of the manual computation of sales and inventory management of the Bregghan mini grocery store and automate it by 100%
+
+* Create a web and mobile application within the given timeframe which is the second term of the School Year 2022 – 2023
+
+* Accomplish all documentations and the implementation of the project within the second term of the School Year 2022 – 2023
