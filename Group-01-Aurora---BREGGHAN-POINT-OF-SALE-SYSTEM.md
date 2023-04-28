@@ -104,3 +104,19 @@ With better inventory management and automated tracking of sales, the store can 
 
 **Improved Customer Experience:** 
 The implementation of a POS-like system will enable the store to provide better customer service, including faster checkouts and more accurate receipts.
+
+***
+### 4.6 Business Case Analysis Team
+-- | --
+Project Sponsor/Owner | Ms. Devilyn C. Ligligen
+Project Adviser | Dr. Manuel L. Calimlim Jr.
+Project Manager | Ramon Benedict V. Elloso
+Team Members | Carlos C. Ligligen Jr.
+Team Members | Andrei Gabriel Palma
+Team Members | Done Paolo Y. Tarinay
+
+<!--EndFragment-->
+</body>
+</html>
+
+***
