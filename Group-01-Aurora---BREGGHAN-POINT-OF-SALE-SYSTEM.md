@@ -31,7 +31,7 @@ Dr. Manuel L. Calimlim Jr. | PROJMAN Adviser | manuelc@apc.edu.ph
 </html>
 
 ***
-## 2.3 Project Team
+### 2.3 Project Team
 <html>
 <body>
 <!--StartFragment-->
