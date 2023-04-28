@@ -54,3 +54,7 @@ Ms. Devilyn C. Ligligen is the owner of a small-scale retail outlet situated on 
 
 ***
 ## 4. Business Case
+### 4.1 Executive Summary
+Bregghan Mini Grocery Store is a family-owned business that supplies retail, wholesale, and bulk products to residents and sari-sari stores in the area. The store's current system for tracking sales and stocks is manual, using pen and paper, which has led to difficulty in monitoring inventory and potential loss of sales due to items being out of stock. To address these pain points, our team aims to develop a responsive webapp that digitizes the recording of stocks and sales, notifies the user when stocks are at a critical level, and automates the computation of sold items. The webapp will also produce a report that shows daily, weekly, monthly, and yearly records sold.
+
+***
