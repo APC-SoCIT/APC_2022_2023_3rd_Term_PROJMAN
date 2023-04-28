@@ -166,8 +166,7 @@ grocery store.
 • Decreases the number of steps that the user can do in the whole transaction
 for faster checkouts.
 
-
-****The group plans to further address the general objective of the project to:****
+The group plans to further address the general objective of the project to:
 
 **Inventory:**
 
@@ -183,3 +182,25 @@ for faster checkouts.
 
 • Produce a report that will show the records sold daily, weekly, monthly,
 and yearly
+
+***
+### 4.12 Project Performance
+The project team will assess the performance of the project by examining and analyzing the following forms, completed during testing by both the developers and the client:
+
+• Test Cases
+
+This document is where the development team tests each feature of the system and assigns a "PASS" or "FAIL" status to each feature. They also document all possible scenarios to thoroughly test each feature.
+
+**The project's performance will be measured through the following metrics:**
+
+• Schedule adherence: comparing actual project completion dates to planned dates
+
+• Budget adherence: comparing actual project expenditures to planned budget
+
+• Quality assurance: monitoring adherence to project quality standards
+
+• Stakeholder satisfaction: conducting surveys or interviews to gauge satisfaction with project outcomes
+
+• Risk management: monitoring and addressing potential risks and issues throughout the project lifecycle
+
+• Change management: tracking changes made to the project scope or plan and assessing their impact on project performance.
