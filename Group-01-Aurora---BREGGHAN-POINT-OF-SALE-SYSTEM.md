@@ -358,3 +358,11 @@ Completed Project | 3/11/2023
 <!--EndFragment-->
 </body>
 </html>
+
+***
+### 5.14 Project Approval Requirements
+Success of the Bregghan Sales and Stock Tracer Responsive Web Application will be achieved when the admin system and POS system is fully tested with the time and cost as being mentioned in this charter. We fully anticipate the need of this proposed solution in order to ease the workload of the client and as well as the employees of the client. The project sponsor, Ms. Devilyn Ligligen, will also approve the project by the project’s success.
+
+***
+### 5.15 Project Manager
+Benedict Elloso is named as the Project Manager for the duration of the project. Mr. Elloso’s responsibility is to manage all project tasks including the scheduling and communication through the client regarding this project. His team, consists of two programmers and two documenters will work on the project. Mr. Elloso is the one who will be coordinating with the client. 
