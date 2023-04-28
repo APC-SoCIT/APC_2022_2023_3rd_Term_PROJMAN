@@ -150,38 +150,26 @@ The project will develop a sales and stock tracing system to address the busines
 ### 4.11 Goals and Objectives
 **Goals:**
 
-• Improve inventory management and tracking processes
-
-• Increase efficiency and accuracy of sales and transaction data recording
-
-• Provide real-time monitoring and reporting capabilities
-
-• Enhance customer experience by providing detailed and accurate receipts
+* Improve inventory management and tracking processes
+* Increase efficiency and accuracy of sales and transaction data recording
+* Provide real-time monitoring and reporting capabilities
+* Enhance customer experience by providing detailed and accurate receipts
 
 **General Objectives:**
-
-• To develop a responsive web application that tracks sales and stocks for Bregghan mini
-grocery store.
-
-• Decreases the number of steps that the user can do in the whole transaction
-for faster checkouts.
+* To develop a responsive web application that tracks sales and stocks for Bregghan mini grocery store.
+* Decreases the number of steps that the user can do in the whole transaction for faster checkouts.
 
 The group plans to further address the general objective of the project to:
 
 **Inventory:**
-
-• Digitize 100% the recording of stocks and sales.
-
-• Notifies the user that the stocks are at a critical level.
+* Digitize 100% the recording of stocks and sales.
+* Notifies the user that the stocks are at a critical level.
 
 **Sales:**
-
-• Computation of items that are sold are automated.
+* Computation of items that are sold are automated.
 
 **Reports:**
-
-• Produce a report that will show the records sold daily, weekly, monthly,
-and yearly
+* Produce a report that will show the records sold daily, weekly, monthly, and yearly
 
 ***
 ### 4.12 Project Performance
