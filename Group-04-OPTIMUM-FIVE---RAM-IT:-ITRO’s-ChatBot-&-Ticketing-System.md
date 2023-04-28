@@ -1,5 +1,5 @@
 =Project Title=
-<b><font size="5"><p style="text-align:center">RAM-IT: ITRO'S CHATBOT AND TICKETING SYSTEM</p></font></b>
+<b><font size="20"><p style="text-align:center">RAM-IT: ITRO'S CHATBOT AND TICKETING SYSTEM</p></font></b>
 
 =Project Members=
 ==Project Professor==
