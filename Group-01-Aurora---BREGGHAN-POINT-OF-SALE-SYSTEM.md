@@ -2,6 +2,7 @@
 Bregghan Point of Sale System
 
 # 2. Project Members
+
 ##    2.1 Project Professor
 ##    2.2 Project Adviser
 ##    2.3 Project Team
@@ -22,3 +23,5 @@ Bregghan Point of Sale System
 ##    4.13 Major Project Milestone
 ##    4.14 Strategic Alignment
 ##    4.15 Executive Summary
+5. Project Charter
+      5.1
