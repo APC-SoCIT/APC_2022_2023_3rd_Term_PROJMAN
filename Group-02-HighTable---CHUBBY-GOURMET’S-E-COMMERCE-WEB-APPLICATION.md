@@ -23,7 +23,9 @@
 
 <h2>Issue</h2>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The current issue of the business that the proposed project will address is the lack of visibility for the Customer to view the products that M.C Manabat sells and most of the time the misunderstanding between M.C Manabat and the Supplier and also between M.C Manabat and the Customer because they communicate using mobile phones or telephones.</p>
+<p>The current issue of the business that the proposed project will address is the lack of visibility for the Customer to view the products that M.C Manabat sells and most of the time the misunderstanding between M.C Manabat and the Supplier and also between M.C Manabat and the Customer because they communicate using mobile phones or telephones.</p>
+
 <h2>Anticipated Outcomes</h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The anticipated outcome of this proposed project if it is successfully implemented is that it would increase the sale of the business by widening its market range because the products of M.C Manabat would be available online, this project will also help the business have its own platform wherein the M.C Manabat, the supplier and the customer can communicate.</p>
+
+<p>The anticipated outcome of this proposed project if it is successfully implemented is that it would increase the sale of the business by widening its market range because the products of M.C Manabat would be available online, this project will also help the business have its own platform wherein the M.C Manabat, the supplier and the customer can communicate.</p>
 
