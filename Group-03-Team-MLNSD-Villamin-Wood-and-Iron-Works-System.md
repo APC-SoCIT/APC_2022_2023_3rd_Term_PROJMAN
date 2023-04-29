@@ -372,3 +372,191 @@ The project sponsor will be responsible for maintaining the acknowledgement of t
 
 ## Scope Change
 <p>The project team will need to assess the impact of any changes to the project scope that have been approved by the project sponsor on the current schedule. The project manager may request that the schedule be re-baselined to consider any changes that must be made as part of the new project scope if it is determined that the scope change will significantly affect the current project schedule. This request must be reviewed and approved by the project sponsor before the schedule can be re-baselined. </p>
+
+***
+# Quality Management Plan
+## Introduction
+## Quality Management Approach
+## Quality Requirements / Standards
+## Quality Assurance
+## Quality Control
+## Quality Control Measurements
+
+***
+# Human Resource Management Plan
+## Introduction
+## Roles and Responsibilities
+## Project Organizational Charts
+### Staffing Management
+### Staff Acquisition
+### Resource Calendars
+### Training
+### Performance Reviews
+
+***
+# Work Breakdown Structure
+## Introduction
+lorem ipsum
+## Outline View
+
+Villamin Wood and Iron Works System <br>
+<p> &nbsp; I. Planning </p>
+<ul> Creation of Project <br>
+Choose Project/Client <br>
+Choose Adviser/Consultant <br>
+Design Thinking 1 <br>
+Chapter 1 <br>
+Chapter 2 <br>
+Chapter 3 <br>
+Midterm (Sprint 1) <br>
+Comments Matrix <br>
+Chapter 4 <br>
+Chapter 5 <br>
+Progression of Chapter 1, 2, and 3 <br>
+Finals (Sprint 2) <br>
+Updated Comments Matrix and Paper <br>
+Submission of Updated Comments Matrix and Final Paper <br> <br>
+</ul>
+
+<p> &nbsp; II. Analysis and Design</p>
+<ul> Choose Adviser/Consultant <br>
+Compilation of MNTSDEV Requirements <br>
+Software Design <br>
+MVC Infographic <br>
+GitHub Repository <br>
+Case in Point: Big Ten University <br>
+Event Table <br>
+Use Case Diagram <br>
+Use Case Full Description <br>
+Data Flow Diagram <br>
+Context Flow Diagram <br>
+Entity-Relationship Diagram <br>
+Adviser/Consultant Meeting 1 <br>
+Submission of Midterm Deliverables <br>
+Midterm (Sprint 3) <br>
+Comment Matrix <br>
+Paper Revision 1 <br>
+Activity Diagram <br>
+Object Diagram <br>
+Class Diagram <br>
+Sequence Diagram <br>
+State Machine Diagram <br>
+Package Diagram <br>
+Component Diagram <br>
+Deployment Diagram <br>
+Adviser/Consultant Meeting 2 <br>
+Adviser/Consultant Meeting 3 <br>
+Paper Revision 2 <br>
+Mock Presentation <br>
+Submission of Final Deliverables <br>
+Finals (Sprint 4) <br>
+Paper Revision 3 <br>
+Updated Comments Matrix and Paper <br> <br>
+</ul>
+
+<p> &nbsp; III. Development, Testing, and Deployment </p>
+<ul> Choose Adviser/Consultant <br>
+Compilation of MSYADD1 Requirements <br>
+Project Flow <br>
+Assigning of Parts for Statement of Work and Project Charter Plan
+</ul>
+<ul> Project Charter Plan (Long Version) <br>
+<ul> Executive Summary <br>
+Risks <br>
+Project Purpose/Justification <br>
+Project Description <br>
+Preliminary Scope Statement <br>
+Summary Milestone Schedule <br>
+Project Deliverables <br>
+Project Approval Requirements <br>
+Project Manager <br>
+Authorization <br>
+</ul></ul>
+<ul>Statement of Work <br>
+<ul>Introduction/Background <br>
+Scope of Work <br>
+Period of Performance <br>
+Place of Performance <br>
+Work Requirements <br>
+Schedule/Milestones <br>
+Acceptance Criteria <br>
+Other Requirements <br>
+Acceptance <br>
+</ul></ul>
+<ul>Project Vision and Scope <br>
+<ul> Revision History <br>
+Business Requirements <br>
+Business Objectives and Success Criteria <br>
+Vision of the Solution <br>
+Scope and Limitations <br>
+Business Context <br>
+</ul></ul>
+<ul>Activity List <br>
+MCSPROJ Course Paper <br>
+Team Meeting 1 <br>
+Work Breakdown Structure (WBS) <br>
+Team Meeting 2 <br>
+Improvement Matrix <br>
+Midterm (Sprint 5) <br>
+Midterm Comment Matrix <br>
+User Project Review <br>
+Team Meeting 2 <br>
+Test Case <br>
+Quality Management Plan <br>
+Software Requirement Specifications <br>
+Adviser/Consultant Meeting 4 <br>
+Adviser/Consultant Meeting 5 <br>
+Finals (Sprint 6) <br>
+</ul>
+<p> &nbsp; IV. Project Management</p>
+<ul>Team Meeting 3 <br>
+Business Case <br>
+Project Charter Plan (Short Version) <br>
+TOPCIT Project Management Quizlet <br>
+Stakeholder Analysis <br>
+Stakeholder Management Strategy <br>
+Choose Project Adviser and Consultant <br>
+Team Meeting 4 <br>
+Team Meeting 5 <br>
+Team Meeting 6 <br>
+Cost Management Plan <br>
+Schedule Management Plan <br>
+Scope Management Plan <br>
+Work Package Solution <br>
+Team Meeting 7 <br>
+Adviser/Consultant Meeting 6 <br>
+</ul>
+
+## WBS Dictionary
+## Glossary of Terms
+
+***
+# Procurement Management Plan
+## Introduction
+## Procurement Management Approach
+## Cost Determination and Procurement Definition
+## Type of Contract to be Used
+## Procurement Risks
+## Procurement Risk Management
+## Standardized Procurement Documentation
+## Procurement Constraints
+## Decision Criteria
+## Vendor Management
+## Performance Metrics for Procurement Activities
+
+***
+Risk Management Plan
+## Introduction
+## Top Three Risks
+## Risk Management Approach
+## Risk Identification
+## Risk Qualification and Prioritization
+## Risk Monitoring
+## Risk Mitigation and Avoidance
+
+***
+# Communication Management Plan
+## Introductions
+## Communication Management Approach
+## Communication Management Constraints
+## Roles
