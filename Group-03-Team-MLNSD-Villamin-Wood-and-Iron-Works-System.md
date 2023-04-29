@@ -54,3 +54,7 @@ NAME | POSITION | DESCRIPTION
 -- | -- | --
 Mabelle T. Aspeli | Project Manager | The person in charge makes sure the group works well together and finishes their work on schedule.
 Sofia Emmanuelle Villamin | Project Stakeholder | The person in charge of communicating with the client for the needed information in the project.
+Leigh Curtis B. Camara | Team Leader | The person in charge of supporting the project manager and guiding the other team members to complete the project within the given constraints.
+Nathaniel M. Sison | Team Developer | Works closely with the stakeholder and team leader. In charge of developing and implementing the project.
+Dale Joshua B. Domingo | Team Secretary/ Developer Support | Works as the support and with assisting the team’s developer. Also, in charge of supporting and assisting the team leader. 
+Ludwig Marco T. Angeles | Works closely with the team’s secretary, also works as a substitute whenever the secretary is busy with helping the developer.
