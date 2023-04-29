@@ -187,6 +187,29 @@ The following risks are what the team has foreseen that could affect the perform
 &nbsp; b. Despite having numerous methods of attacks (such as, insider leak, loss or theft of information, and unintended disclosure), the prior risks may also be a factor that may contribute to this. <br> <br>
 4. Cybersquatting <br> <br>
 &nbsp; a. Cybersquatting is a way for external affairs to take advantage of the websites' domain. <br>
-&nbsp; b. Cybersquatters manipulate the reputation, and domain of the company and use it to redirect users to a different service and/or platform.
+&nbsp; b. Cybersquatters manipulate the reputation and domain of the company and use it to redirect users to a different service and/or platform.
 
 <p> With the listed risks, the team will collaborate with the stakeholders and ensure that the foreseen risks will be tended to. In preparation to reinforce the project based on the risks listed, the team will create solutions that are aligned with the project budget and constraints. If the risks were to affect the system, the team will ensure this is handled with immediate response. </p>
+
+## Project Deliverables
+Following the project's successful conclusion, the following deliverables must be met. These deliverables cannot be altered without the project sponsor's consent. <br>
+1. Product <br>
+2. Logo <br>
+
+## Summary Milestone Schedule
+Below is a summary of the project's milestone schedule. This timeline may change as requirements become more specified. The project manager will convey any modifications through project status meetings.
+
+Summary Milestone Schedule - List key project milestones relative to project start.
+PROJECT MILESTONE | TARGET DATE (MM/DD/YY)
+-- | -- 
+Project Start | 3/30/22
+_Planning_ <br> Midterm Presentation <br> Finals Presentation |  <br> 5/2/2022 <br> 6/7/2022
+_Analysis and Design_ <br> MVC Infographic <br> Flow of Activities (Diagrams) <br> Initial Working Prototype | <br> 9/29/22 <br> 10/28/22 <br> 11/15/22
+_Development, Testing, and Deployment_ <br> GitHub Repository <br> Project Charter Plan <br> Project Scope and Vision <br> Quality Management Plan <br> Software System Requirements | <br> 12/15/22 <br> 1/12/23 <br> 1/15/23 <br> 2/15/23 <br> 2/20/23
+Project Complete | 2023
+
+## Project Approval Requirements
+The project will be considered successful when everything is completely deployed during the project's life span within the time restrictions specified in this charter. Furthermore, as we fully anticipate the need for this solution to evolve to avert future threats, this measure of success must contain a list of recommendations for consideration. The Project Sponsor, Mr. Manuel Villamin Jr., who will also approve the project's conclusion, will determine its success.
+
+## Project Manager
+For the Villamin Wood and Iron Works Project, Ms. Mabelle T. Aspeli, the Project Manager. All project tasks, scheduling, and communication regarding the system are her responsibility, and she can approve the allocated budget including additional resources. She will coordinate with the stakeholder, Ms. Sofia Villamin, for more understanding and easier gathering of information about the company. 
