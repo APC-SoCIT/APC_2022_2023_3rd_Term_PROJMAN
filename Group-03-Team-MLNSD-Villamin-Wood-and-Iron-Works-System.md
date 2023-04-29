@@ -62,3 +62,8 @@
 	</tr>
 </table>
 <br/>
+
+=Company Profile=
+<p><strong>Brief Background:</strong></p>
+<p>lorem ipsum</p>
+<p>lorem ipsum</p>
