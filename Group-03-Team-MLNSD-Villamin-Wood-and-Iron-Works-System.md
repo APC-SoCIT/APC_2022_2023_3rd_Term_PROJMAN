@@ -212,4 +212,46 @@ Project Complete | 2023
 The project will be considered successful when everything is completely deployed during the project's life span within the time restrictions specified in this charter. Furthermore, as we fully anticipate the need for this solution to evolve to avert future threats, this measure of success must contain a list of recommendations for consideration. The Project Sponsor, Mr. Manuel Villamin Jr., who will also approve the project's conclusion, will determine its success.
 
 ## Project Manager
-For the Villamin Wood and Iron Works Project, Ms. Mabelle T. Aspeli, the Project Manager. All project tasks, scheduling, and communication regarding the system are her responsibility, and she can approve the allocated budget including additional resources. She will coordinate with the stakeholder, Ms. Sofia Villamin, for more understanding and easier gathering of information about the company. 
+For the Villamin Wood and Iron Works Project, Ms. Mabelle T. Aspeli, the Project Manager. All project tasks, scheduling, and communication regarding the system are her responsibility, and she can approve the allocated budget including additional resources. She will coordinate with the stakeholder, Ms. Sofia Villamin, for more understanding and easier gathering of information about the company.
+
+***
+# Stakeholder Management Strategy
+## Introduction
+<p>The objectives and guiding principles for Villamin Wood and Iron Works' participants, staff, and employees are outlined in this paper. It provides a strategic plan to guarantee Villamin Wood and Iron Works' recognition as well as its continued growth and expansion.
+ 
+The organization must contribute to defining and enabling modern technology in a world marked by risk and uncertainty as well as an enormous opportunity. We think Villamin Wood and Iron Works is in an outstanding position to acquire the necessary abilities in all project participants and to have a business strategy that will assist the company's growth. 
+ 
+Villamin Wood and Iron Works affiliates directly contributed to the creation of our Strategic Plan for 2022–2023. Thus, the plan invites all stakeholders to actively participate as we build on our strengths, fix our flaws, and strive to reach our potential.
+</p>
+
+## Identify Stakeholders
+STAKEHOLDER NAME | ROLE | INTEREST LEVEL <br> H/L | EXPECTATIONS | ACTIONS REQUIRED | CONTACT
+-- | -- | -- | -- | -- | -- 
+Manuel C. Villamin Jr. | Business Owner | H | Detailed efficient plans and strategies for business operations | Liaise with stakeholder and provide company’s information | villaminmcverv@gmail.com
+Mabelle T. Aspeli | Project Manager | H | Acquire and approve the required documents that should be approved by the stakeholder. Follow up questions to the client if there are clarifications. | Align stakeholders around the vision of the product | mtaspeli@student.apc.edu.ph
+Leigh Curtis B. Camara | Team Leader | H | Timely updates on project progress | Delegate tasks and set deadlines | lbcamara2@student.apc.edu.ph
+Sofia Emmanuelle R. Villamin | Project Stakeholder | H | Reports and details of client’s demand | Provides resources and support for the project | srvillamin@student.apc.edu.ph
+Nathaniel M. Sison | Team Developer | H | Obtain project requirement and client’s demand | Liaise with team leader and stakeholder to execute suitable requisite. | nmsison@student.apc.edu.ph
+Dale Joshua B. Domingo | Team Secretary | L | Detailed records of problems that appear during testing | Facilitate and schedule team meetings | dbdomingo@student.apc.edu.ph
+Ludwig Marco T. Angeles | Team Secretary Support | L | lorem ipsum | Write and provide observation on product testing | ltangeles@student.apc.edu.ph
+
+## Key Stakeholders
+STAKEHOLDER NAME | ROLE | RESPONSIBILITIES | COMMENTS
+-- | -- | -- | -- 
+Mabelle T. Aspeli | Project Manager | Principal responsible party for the project's accomplishment. Work plan, resource allocation, risk management, scope change management, milestones monitoring, and project status communication to all stakeholders. | Notifies the Team Leader of any escalating risks, problems, or personnel difficulties.
+Leigh Curtis B. Camara | Team Leader | A person who leads, oversees, and manages a team of workers to accomplish objectives that advance the organization. | Authority to handle challenges, risk, and conflicts.
+Sofia Emmanuelle R. Villamin | Project Stakeholder | A person who is responsible for facilitating the project's success and provides resources and support. | Aim to remove eliminate barriers and approve the final plan.
+Nathaniel M. Sison | Team Developer | A person in charge of organizing a functional or technical area's work. | Emulate client's demand and develop the project.
+Dale Joshua B. Domingo | Team Secretary | A person in the position of setting up meetings, managing paperwork, and replying to communications. | Maintains the team's efficiency and organization.
+Ludwig Marco T. Angeles | Team Secretary Support | A person who is in control of carrying out particular project duties to meet its goals. | Updates the Team Leader and Project Manager on their work's progress as well as any relevant risks or difficulties.
+
+## Stakeholder Analysis
+STAKEHOLDER NAME | ROLE | IMPACT: HOW MUCH DOES THE PROJECT IMPACT THEM <br> (LOW, MEDIUM, HIGH) | INFLUENCE: HOW MUCH INFLUENCE DO THEY HAVE OVER THE PROJECT? <br> (LOW, MEDIUM, HIGH) | WHAT IS IMPORTANT TO THE STAKEHOLDER?
+-- | -- | -- | -- | -- 
+Manuel C. Villamin Jr. | Business Owner | High | High | Providing detailed and efficient plan to support the development of the team.
+Mabelle T. Aspeli | Project Manager | High | Medium | Keeping all stakeholders informed, involved, and on board throughout the project’s development.
+Leigh Curtis B. Camara | Team Leader | High | Medium | Ensuring that all parties involved can cooperate to accomplish the organization's aims and objectives.
+Sofia Emmanuelle R. Villamin | Project Stakeholder | High | High | Keeping them informed and updated per client request.
+Nathaniel M. Sison | Team Developer | High | High | Improving the project's quality to the fullest.
+Dale Joshua B. Domingo | Team Secretary | High | Medium | Keeping the deliverables organized and efficient.
+Ludwig Marco T. Angeles | Team Secretary Support | High | Medium | Maintaining work and support to the team throughout the project’s development.
