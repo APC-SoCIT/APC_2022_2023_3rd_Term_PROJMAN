@@ -143,3 +143,50 @@ There are other alternatives that the team has put into consideration for the Bu
 3. Sell products through available ecommerce websites.
 
 ***
+# Project Charter Plan
+## Executive Summary
+Since 1983, our company, Villamin Wood & Iron Works, has proven the durability of the products. But they lack customer reach and sales. Due to that problem, Villamin Wood & Iron Works System has been created to help reach out to more customers, not only through on-shop, but also through online, which will also help increase the company’s sales. The project is being created as a solution and in line with the current ordering system to accomplish both the customer and company’s needs.
+
+## Project Purpose/Justification
+### Business Need/Case
+The Villamin Wood & Iron Works System has been created to help the company increase their sales and customer reach to take back the loss in income from the sudden temporary closing of shop due to the pandemic. Also, to enhance the conveniency of their customers. In this approach, it will eliminate unnecessary expenses of the company. The cost to make the system successful will be covered by the company owner, recovered by the system's anticipated results.
+Business Objectives 
+### Business Objectives 
+1. Strengthen customer service.
+&nbsp;&nbsp;&nbsp;<p> Develop goals that motivate them and ensure that our customers and clients have a positive experience with our services. And emphasize the importance of providing an exceptional customer experience every time we connect with our customers and clients. </p>
+2. Sell a more reliable product.
+&nbsp;&nbsp;&nbsp;<p> Our company will set quality and troubleshooting goals to identify areas for improvement within our products. With this, we will be able to give constant enhancements and upgrades based on the demands of our clients. </p>
+
+## Project Description
+The Villamin Wood & Iron Works System will support the increase in the company’s sales and customer reach. The system will provide easy navigation and transaction to avoid complications while the system is being used by customers. The system will be an additional tool from the company’s current platform to attain their objectives while allowing customers to browse and process orders easily.
+
+### Project Objectives and Success Criteria
+#### Constraints
+These are the following constraints pertain to Villamin Wood and Iron works: <br>
+1. It is necessary to purchase if there are any additional requirements within the allocated budget and time limit. <br>
+2. The stakeholder will provide the necessary information for the project. <br>
+3. The software to be used must be suitable for our IT (Information Technology) platforms.
+#### Assumptions
+1. There will be communication between the team and the company if there are complications occur upon deployment. <br>
+2. If there are more resources, the company and the team will discuss.
+
+## Preliminary Scope Statement
+This project created by the MLNSD team will include designing, improving, testing and delivery of an improved online ordering system for the client, Villamin Wood & Iron Works. The improved system will require internet use to capture the orders and training of the client's staff to manage and administer the website. The project will conclude once the system is ready for deployment.
+
+## Risks
+The following risks are what the team has foreseen that could affect the performance output of the project proposed: <br>
+1. Denial of service <br> <br>
+&nbsp; a. Web Services that are not accessible to the users, render potential loss of profit. <br>
+&nbsp; b. A factor that causes Denial of Service is web traffic entering the system. When the system has received user requests beyond its capacity, it may lead to a system crash. <br>
+&nbsp; c. Malicious attacks also play a role. In which hackers flood/overflow the request, impair the servers, and cause inoperability. <br>
+&nbsp; d. Not only will customers suffer from the system's malfunction caused by external factors, but the company's workforce will not be able to complete the tasks required to fulfill the needed output. <br> <br> 
+2. SQL injections <br> <br>
+&nbsp; a. Hackers use this technique to alter the desired algorithm (within the source code) by the developers. This in return gives more control to them. It also increases the company's system vulnerabilities. <br> <br>
+3. Data breach <br> <br>
+&nbsp; a. Data breach is a process of hackers collecting data without any form of authorization from the product owners. The data can be used to damage the company and its stakeholder's reputation for the benefit of the infiltrator. <br>
+&nbsp; b. Despite having numerous methods of attacks (such as, insider leak, loss or theft of information, and unintended disclosure), the prior risks may also be a factor that may contribute to this. <br> <br>
+4. Cybersquatting <br> <br>
+&nbsp; a. Cybersquatting is a way for external affairs to take advantage of the websites' domain. <br>
+&nbsp; b. Cybersquatters manipulate the reputation, and domain of the company and use it to redirect users to a different service and/or platform.
+
+<p> With the listed risks, the team will collaborate with the stakeholders and ensure that the foreseen risks will be tended to. In preparation to reinforce the project based on the risks listed, the team will create solutions that are aligned with the project budget and constraints. If the risks were to affect the system, the team will ensure this is handled with immediate response. </p>
