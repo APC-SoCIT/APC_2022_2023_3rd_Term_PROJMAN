@@ -327,9 +327,48 @@ lorem ipsum
 <p>As part of the scope control process, the project's progress and outcomes will be evaluated on a regular basis to make sure they still adhere to the project scope that is stated in the Project Scope Statement. Any deviations from the scope will be assessed, and if fundamental, the changes in the scope will be documented and still follow the procedure in the existing scope. Monitoring and managing will be the responsibility of 
 the project manager alongside the team and stakeholders. The project manager will be reviewed on a regular basis to make sure that the project progress is still being followed. </p>
 
-<p>The following steps will be taken to modify the scope baseline during the scope control process for the Villamin Wood and Iron Works System project: <p>
+<p>The following steps will be taken to modify the scope baseline during the scope control process for the Villamin Wood and Iron Works System project: </p>
 
 1. The request for a change in scope will be evaluated by the Project Manager and the Project Sponsor to assess its potential impact on the project schedule, financial plan, and available resources. <br>
 2. Any stakeholder or team member who identifies a requirement for a change to the scope will initiate a scope change request. <br>
 3. If the request is approved, the Project Manager will create a plan of action to implement the change, revise the initial project scope, and communicate the change to all relevant stakeholders. <br>
 4. The project team will continue with the original scope if the request is rejected. <br>
+
+***
+# Schedule Management Plan
+## Introduction
+The schedule management plan is a roadmap for the process of executing the project. This is important as they provide the status of the project to the project team, sponsor, and stakeholders. The purpose of the schedule management plan is to specify the methodology the project team will employ in putting together the project schedule. The schedule management plan must be identified, analyzed, documented, prioritized, approved, or rejected, and published. This plan will help the team to monitor the progress of the project and manage the changes to the project schedule after being approved. 
+
+## Schedule Management Approach
+
+<p> The schedule management plan will be created with the help of the deliverables in the Work Breakdown Structure (WBS). The specific work packages that must be carried out to complete each deliverable will be identified by the activity definition. To determine the order of work packages, an activity sequencing will be used and assigned between project activities. The number of work periods necessary to finish work packages will be determined using activity duration estimation. To finish schedule development, resource estimating will be used to allocate resources to work packages. </p>
+
+<p> Once an initial schedule has been done, the project team and stakeholders will review the task and must agree on the proposed work package assignments, duration, and schedule. Afterwards, the project team will have it reviewed by the project sponsor for the approval and have the schedule baselined. </p>
+
+<p> The milestones for the projects schedule are as follows: </p>
+&nbsp; 1. Completion of deliverables <br>
+&nbsp; 2. Completion of scope management plan and Work Breakdown Structure (WBS) <br>
+&nbsp; 3. Approval of initial schedule baseline <br>
+&nbsp; 4. Project Sponsor budget approval <br>
+&nbsp; 5. Roles and responsibilities approval <br>
+&nbsp; 6. Acceptance of deliverables <br> <br>
+
+<p>Schedule development roles and responsibilities are the following: </p>
+
+1. Project Manager – responsible for facilitating and checking the progress of the deliverables. The project manager also supports the team, stakeholder, and project sponsor on validating the proposed schedule. <br>
+2. Project Team – responsible for working and completing the deliverables. The project team is also responsible for reviewing the proposed schedule and assigning activities after the schedule’s approval. <br>
+3. Project Stakeholders – responsible for reviewing of proposed schedule and assisting in approvals. <br>
+4. Project Sponsor - responsible for reviewing of proposed schedule and approval of the final schedule before baselined.
+
+## Schedule Control
+<p>The project schedule will be reviewed and updated on a twice a week basis with actual start, actual initial completion, and the final completion percentage which will be given and reviewed by the Project Manager. Additionally, the project manager will be responsible for holding meetings for the updates and reviews, submission of schedule change requests, and reports of the schedule status according to the project’s communication plan. 
+
+The project team will be responsible for participating in the meetings for updates and reviews, reporting any changes of actual start and actual initial completion to the project manager.
+
+The project sponsor will be responsible for maintaining the acknowledgement of the project schedule status, review and approve any schedule change requests that will be submitted by the project manager. </p>
+
+## Schedule Changes and Thresholds
+<p> If there’s a need for a change in the schedule, the team must hold a meeting with the project manager and identify the proposed changes as they will affect the tasks in progress. While holding the meeting, the team must identify the cause of change and other changes and find a way of taking an alternative action to use for the success of the proposed scheduled plan. Afterwards, the project manager may review the proposed changes and submit the schedule change request form to the project stakeholders and project sponsor. </p>
+
+## Scope Change
+<p>The project team will need to assess the impact of any changes to the project scope that have been approved by the project sponsor on the current schedule. The project manager may request that the schedule be re-baselined to consider any changes that must be made as part of the new project scope if it is determined that the scope change will significantly affect the current project schedule. This request must be reviewed and approved by the project sponsor before the schedule can be re-baselined. </p>
