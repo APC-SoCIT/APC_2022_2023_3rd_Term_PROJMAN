@@ -27,8 +27,8 @@ Ludwig Marco T. Angeles | ltangeles@student.apc.edu.ph
 
 ***
 ## Company Profile
-**Brief Background**<br><br>
-Mr. Manuel R. Villamin Jr, owner of Villamin Wood and Iron Works, established on 1983 located at MRT Ave, Taguig, 1633 Metro Manila, Philippines. It is a manufacturing enterprise where products are made to order, in which it has demonstrated that its products are made from high quality materials.
+### **Brief Background**
+<p>Mr. Manuel R. Villamin Jr, owner of Villamin Wood and Iron Works, established on 1983 located at MRT Ave, Taguig, 1633 Metro Manila, Philippines. It is a manufacturing enterprise where products are made to order, in which it has demonstrated that its products are made from high quality materials. </p>
 
 ***
 # Business Case
