@@ -10,22 +10,84 @@
 		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Lorena Rabago</p></td>
+		<td><p style="text-align:center;">Jose Eugenio L. Quesada</p></td>
 <td><p style="text-align:center;">PROJMAN Professor</p></td>
-		<td><p style="text-align:center;">lorenar@apc.edu.ph</p></td>
+		<td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
 	</tr>
 </table>
 
+==Project Adviser==
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Jo Anne M. de la Cuesta</p></td>
+<td><p style="text-align:center;">PROJMAN Adviser</p></td>
+		<td><p style="text-align:center;">joannec@apc.edu.ph</p></td>
+	</tr>
+</table>
+
+==Project Team==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Gianna Bernice R. Artajos</p></td>
+		<td><p style="text-align:center;">grartajos@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Marcus Philip L. Flores</p></td>
+		<td><p style="text-align:center;">mlflores@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">John Rysal C. Rosel</p></td>
+		<td><p style="text-align:center;">jcrosel@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Lester Dave M. Salazar</p></td>
+		<td><p style="text-align:center;">lmsalazar2@student.apc.edu.ph</p></td>
+	</tr>
+</table>
+<br />
+
 =Company Profile=
-<h2><strong>Brief Background:</strong></h2>
-<p>M.C. Manabat is a sole proprietorship business that mainly sells computer, computer peripherals, and Software. Currently the client only does things manually and they use mobile phones when receiving orders from the customers and ordering to the supplier.</p>
-<p>The business wants to adopts the J.I.T(Just-In-Time) approach because J.I.T (Just-In-Time) inventory system has several advantages like production runs remain short, reduces costs and eliminates warehouse storage needs, companies also spend less money on raw materials because they buy just enough to make the products and no more, just like the J.I.T ordering system they will only order the item from the supplier when the customer orders the item, reducing cost and eliminating warehouse storage needs.</p>
+<h2>Brief Background:</h2>
+<p>Insert text here</p>
 
-<h2>Issue</h2>
+=Business Case=
+<h2>Executive Summary</h2>
+<p>This section will give an overview of what issue the project is trying to solve, the anticipated outcomes to expect, recommendations on who to approach and solve the issue, and justifications as to why the project should be implemented for the client. </p>
 
-<p>The current issue of the business that the proposed project will address is the lack of visibility for the Customer to view the products that M.C Manabat sells and most of the time the misunderstanding between M.C Manabat and the Supplier and also between M.C Manabat and the Customer because they communicate using mobile phones or telephones.</p>
+<p>After the global pandemic struck COVID-19 and social distance was enforced strictly across the country, businesses were forced to come up with new ways of being able to serve their customers. Whether it be by implementing an online e-commerce system, implementing a non-contact delivery system, etc. Either way, these kinds of solutions will always be a struggle to gain an edge for local micro-to-small enterprises such as Chubby Gourmet. Chubby Gourmet (established in 2020) is a micro-enterprise that focuses on offering their food products via delivery and is stationed within the village of Laguna Bel Air 1, Sta. Rosa Laguna.  </p>
 
-<h2>Anticipated Outcomes</h2>
+<h3>Issue</h3>
+<p>HighTable was fortunate enough to meet with the business owner, Priscilla Mariano, to assess and discuss the problems surrounding her business. The main issue that was discovered was her current system, which is manually doing tasks such as order taking, which she needs to manually note down via pen and paper through getting her customer’s order via Facebook Messenger. Another problem found in their current system was the inventory management of her ingredients, food containers, etc. The last problem Miss Mariano stated was that she had to constantly keep answering individual frequently asked questions from her customers, since her Facebook page does not have a Frequently Asked Questions portion. </p>
 
-<p>The anticipated outcome of this proposed project if it is successfully implemented is that it would increase the sale of the business by widening its market range because the products of M.C Manabat would be available online, this project will also help the business have its own platform wherein the M.C Manabat, the supplier and the customer can communicate.</p>
+<p>Overall, all of these tasks take up most of her time before even cooking the orders from her customers which causes a concern for her in the long run of her business. She wishes to find a more efficient way of handling orders, transactions, inventory management, and answering queries all in one platform. </p>
+
+<h3>Anticipated Outcomes</h3>
+<p>With the issues stated above, HighTable wishes to establish the following anticipated outcomes of the solution: </p>
+<ul>
+  <li>Improve process problems found within Chubby Gourmet by implementing an E-commerce web application.</li>
+  <li>Continuously improving and adjusting the project to the client’s needs with little-to-no issue</li>
+  <li>Gain client satisfaction with little-to-no corrections needed</li>
+</ul>  
+<p>These anticipated outcomes will be guided by the client’s constant feedback, the group’s advisor, and thorough communication within the group. </p>
+
+<h3>Recommendation</h3>
+<p>With the issues stated above, HighTable recommends implementing an e-commerce web application to help Chubby Gourmet. Upon entering the web application, the user will be able to see and use the following features: </p>
+
+<ul>
+  <li>Product Management (Admin Side) </li>
+  <li>Tea</li>
+  <li>Milk</li>
+<li>Milk</li>
+<li>Milk</li>
+</ul>  
 
