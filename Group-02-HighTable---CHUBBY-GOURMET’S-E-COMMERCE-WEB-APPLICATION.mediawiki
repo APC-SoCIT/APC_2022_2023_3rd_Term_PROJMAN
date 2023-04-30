@@ -169,12 +169,185 @@
 <ul>
   <li>End-User Objectives
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>To find average response time of pages and transactions, slowest and fastest pages; </li>
+  <li>To make sure main pages (e.g. landing page) can be downloaded within acceptable time  </li>
+  <li>To find out maximum number of concurrent users, sessions and transactions that the application is able to support still providing a high level of service and without the system crashing </li>
+<li>To characterize more frequent user paths, the most used starting and exiting page; </li>
+  <li>To identify main reasons of site abandonment </li>
 </ul>  
 </li>
-
-  <li>System Objectives</li>
-  <li>Management Obejctives</li>
+  <li>System Objectives
+<ul>
+  <li>To correlate system resource utilization with load; </li>
+  <li>To find out possible actual hardware bottlenecks and prevent new ones (capacity planning); </li>
+  <li>To tune all the web application components to support as much load as possible using actual hardware; </li>
+<li>To find out how the application works when overloaded; </li>
 </ul>  
+</li>
+  <li>Management Obejctives
+<ul>
+  <li>To provide an objective measure of the usage of the site (e.g. the amount of electronics carts and number of items that were sold) </li>
+  <li>To provide a “business view” of the previous data (Comparing with the business’ previous system)   </li>
+</ul>  
+</li>
+</ul>  
+<p>The group will gauge the project’s performance by reviewing and evaluating the following documents and objectives filled out upon testing by both the developers and the stakeholders. </p>
+
+<h3>Project Assumptions</h3>
+<p>Listed below are the main assumptions for the project: </p>
+<ul>
+  <li> HighTable will be focusing on continuing the development and improvement of Chubby Gourmet’s E-Commerce Web Application until the release of the system. </li>
+  <li> The client (Ms. Priscilla Mariano) will agree to continue giving her honest feedback, suggestions, and concerns that pertain to the development of the system. </li>
+  <li>All stakeholders involved in the project will address all needed changes and improvements when necessary and will be accomplished by HighTable if applicable.</li>
+</ul>  
+
+<h3>Project Constraints</h3>
+<p>Listed below are the following constraints of the production of the project: </p>
+<ul>
+  <li>HighTable will only be working within the designated timespan of the subject course Project Management (PROJAMAN) and any additional subject courses that are required for the development of the project. </li>
+  <li>HighTable will not be involved in any monetary transactions whatsoever in the development of the project, excluding funds needed in hosting the web application when the project is ready for release.</li>
+
+</ul>  
+
+<h3>Major Project Milestones</h3>
+<p>Listed below are the milestones that HighTable has and should be able to accomplish: </p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">-</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">-</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Milestone 1 | MNTSDEV Deliverables <br>(Date 2021)  </p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>The group has identified a client, project advisor, and client problem </li>
+  <li>The group has accomplished the necessary research and problem statements to propose solution </li>
+  <li>The group has successfully passed the first half of documentation of the proposed system. </li>
+</ul>  
+ </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Milestone 2 | MYSADD1 <br>(Date 2022)  </p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>The group has accomplished the necessary diagrams for the proposed solution’s processes</li>
+  <li>The group has accomplished the second half of documentation </li>
+  <li>The group finishes drafting the front-end layout of the web application. </li>
+</ul>  
+</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Milestone 3 | MCSPROJ <br>(Date 2023) </p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>The group developed the following features in the web application: 
+<ul>
+  <li>Login and Register </li>
+  <li>Admin Dashboard </li>
+  <li>Category and Product Dashboard (Admin side) </li>
+<li>Menu, cart, checkout page of the store </li>
+  <li>Orders page (Admin side) </li>
+  <li>Payment creation </li>
+<li>Inventory page </li>
+  <li>Home page </li>
+  <li>Report page </li>
+</ul>  
+</li>
+  <li>The group finishes developing the front-end and backend of the web application. </li>
+</ul>  
+</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Milestone 4 | PROJMAN <br>(June 2023) </p></td>
+		<td><p style="text-align:center;"><ul>
+  <li>Finish further documentation of the project </li>
+</ul>  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Milestone 5 | SOFTDEV <br>(July 2023) </p></td>
+		<td><p style="text-align:center;"><ul>
+  <li>Complete the full testing from the stakeholders to receive feedback for further improvement </li>
+ <li>Complete all necessary documentation for stakeholders </li>
+</ul>  </p></td>
+	</tr>
+</table>
+
+<h2>Strategic Alignment</h2>
+<p>The implementation of the e-commerce web application for Chubby aligns with the 	business goals, including: </p>
+<ul>
+  <li>Improved operational efficiency: The automated system will streamline the order taking, inventory management, and customer inquiries processes, reducing the time and effort required to manage these tasks manually. This will result in improved operational efficiency and productivity for the business.   </li>
+  <li>Enhanced customer experience: The online platform will provide customers with a convenient and user-friendly way to place orders, track their orders, and receive updates on delivery schedules. This will lead to an enhanced customer experience and increased customer satisfaction. </li>
+  <li>Increased sales and revenue: The online presence and ease of ordering through the web application can attract more customers, resulting in increased sales and revenue for Chubby Gourmet. </li>
+</ul>  
+
+<h2>Cost Benefit Analysis </h2>
+<p>This section of the paper presents a cost-benefit analysis for the Chubby Gourmet e-commerce web application project. The purpose of this analysis is to evaluate the financial feasibility of the project, considering both the costs and the expected benefits of the proposed system. The results of the analysis will help to determine whether the project is a worthwhile investment for the client. </p>
+
+<p>Benefits:<br>The Chubby Gourmet e-commerce web application could offer several benefits to the client once fully implemented, including: </p>
+<ul>
+  <li>The client can potentially increase their sales revenue by reaching a wider audience, which is estimated to be x0.5 of the current sales allowing them to better showcase their products and services, and providing an easier purchasing experience for customers; </li>
+  <li>With an integrated e-commerce platform, the client can streamline their operations, reducing their overall operating costs by consolidating their marketing, sales, and payment processing functions onto a single platform; </li>
+  <li>With a more user-friendly and seamless e-commerce platform, customers are more likely to become repeat customers, leading to better overall customer experience; and </li>
+<li>By utilizing an e-commerce platform, the client can expand their reach beyond their physical store location, tapping into new geographic markets and demographic segments that were previously untapped. </li>
+</ul>  
+
+<p>Costs:<br>The Chubby Gourmet e-commerce web application project has the following costs associated with it: </p>
+<ul>
+  <li>Hosting for the Chubby Gourmet e-commerce web application project is estimated to cost ₱99.00. </li>
+  <li>The cost of the domain for the project is estimated at ₱908.00. </li>
+  <li>The internet fee, which includes the cost of high-speed internet access required for the project's development and implementation, is expected to amount to ₱20,388.00. </li>
+<li>The other expenses for the Chubby Gourmet e-commerce web application project amount to ₱92,085.00 per year, covering electricity, ingredients, water, gas, and other operational costs necessary for the successful and efficient running of the e-commerce platform. </li>
+</ul>  
+
+<p>The total cost of the project is ₱113,453.00 per year. </p>
+
+<p>It is important to note that the costs associated with development and maintenance are excluded from the analysis as the project is being undertaken for academic purposes and not for commercial gain. Additionally, contingency costs are also not included as they are part of the development process. </p>
+
+<p>The cost difference between the current system and the proposed project is not significant since the existing devices and operational expenses can be used for the new system. However, the potential benefits of the project, such as increased reach and sales revenue, are expected to be significant due to the expanded customer base and improved user experience offered by the project. </p>
+
+<p>The cost-benefit analysis indicates that pursuing the Chubby Gourmet e-commerce web application project is worth pursuing for the business. While there will be initial costs associated with hosting, domain, internet and electricity fees, as well as operational expenses, the potential benefits of the project such as increased sales revenue, and improved customer experience and retention, are expected to outweigh the initial investment in the long run. </p>
+
+<h2>Alternatives Analysis </h2>
+<p>This alternatives analysis aims to evaluate and compare the advantages and disadvantages of three options for the Chubby Gourmet business: doing nothing, using website builders, and hiring workers. The following sections present a detailed analysis of each option's pros and cons, including the reasons why they were not chosen as the proposed solution for the business. </p>
+
+<strong>Doing Nothing</strong>
+Pros:
+<ul>
+  <li>Low-cost option as it uses the current system of using Facebook to promote, manage orders, and process payments. </li>
+</ul>  
+Cons:
+<ul>
+  <li>Lacks the necessary features and functionalities to scale the business and meet customer demands. </li>
+  <li>It relies heavily on Facebook's algorithms, which can change at any time, resulting in a loss of business. </li>
+  <li>Limited control over the customer experience, which could lead to negative reviews and reduced customer retention. </li>
+</ul>  
+Conclusion:
+<p>This option was not chosen because it does not address the client's needs and long-term objectives. </p>
+
+<strong>Website Builders</strong>
+Pros:
+<ul>
+  <li>Offers pre-built templates and customizable features to create an e-commerce website. </li>
+</ul>  
+Cons:
+<ul>
+  <li>May not meet the specific needs of the client's business. </li>
+  <li>Requires technical expertise to customize and maintain the website. </li>
+  <li>Has recurring costs such as monthly subscription fees, transaction fees, and add-ons. </li>
+</ul>  
+Conclusion:
+<p>This option was not chosen because it may not provide the required functionalities, and the recurring costs may be higher than the proposed system's costs. </p>
+
+<strong>Hiring Workers</strong>
+Pros:
+<ul>
+  <li>Provides the opportunity to hire competent personnel to manage the Facebook page and process orders. </li>
+</ul>  
+Cons:
+<ul>
+  <li>Requires a significant amount of time and effort to find and train personnel. </li>
+  <li>Incurs additional expenses such as salaries, benefits, and insurance. </li>
+  <li>May not provide the scalability and flexibility required to meet customer demands. </li>
+</ul>  
+Conclusion:
+<p>This option was not chosen because it may not provide a cost-effective and long-term solution to the client's problem. </p>
