@@ -61,12 +61,12 @@
 <p>Insert text here</p>
 
 =Business Case=
-<h2>Executive Summary</h2>
+==Executive Summary==
 <p>This section will give an overview of what issue the project is trying to solve, the anticipated outcomes to expect, recommendations on who to approach and solve the issue, and justifications as to why the project should be implemented for the client. </p>
 
 <p>After the global pandemic struck COVID-19 and social distance was enforced strictly across the country, businesses were forced to come up with new ways of being able to serve their customers. Whether it be by implementing an online e-commerce system, implementing a non-contact delivery system, etc. Either way, these kinds of solutions will always be a struggle to gain an edge for local micro-to-small enterprises such as Chubby Gourmet. Chubby Gourmet (established in 2020) is a micro-enterprise that focuses on offering their food products via delivery and is stationed within the village of Laguna Bel Air 1, Sta. Rosa Laguna.  </p>
 
-==<h3>Issue</h3>==
+<h3>Issue</h3>
 <p>HighTable was fortunate enough to meet with the business owner, Priscilla Mariano, to assess and discuss the problems surrounding her business. The main issue that was discovered was her current system, which is manually doing tasks such as order taking, which she needs to manually note down via pen and paper through getting her customer’s order via Facebook Messenger. Another problem found in their current system was the inventory management of her ingredients, food containers, etc. The last problem Miss Mariano stated was that she had to constantly keep answering individual frequently asked questions from her customers, since her Facebook page does not have a Frequently Asked Questions portion. </p>
 
 <p>Overall, all of these tasks take up most of her time before even cooking the orders from her customers which causes a concern for her in the long run of her business. She wishes to find a more efficient way of handling orders, transactions, inventory management, and answering queries all in one platform. </p>
@@ -102,7 +102,7 @@
 <h3>Justification</h3>
 <p>The reason as to why this solution will be applicable for Chubby Gourmet is because in today’s standards, the world has adapted to using online commerce more and has become a new normal in the current market. By implementing the e-commerce web application, this allows Chubby Gourmet to establish their brand and services online for the public and allows HighTable to exercise their skills in developing a project that will meet the needs of the client through technical skills such as web development. </p>
 
-<h2>Business Case Analysis Team</h2>
+==Business Case Analysis Team==
 <p>Table 1 shows the team of professionals who will work on creating the plan and their roles on the plan: </p>
 <table border="1" width="70%" align="center">
 	<tr>
@@ -127,7 +127,7 @@
 	</tr>
 </table>
 
-<h2>Problem Definition</h2>
+==Problem Definition==
 <h3>Problem Statement</h3>
 <p>Chubby Gourmet is a one-woman food business located in Laguna, Philippines, which faces several difficulties in managing its operations. The business owner struggles to handle customer inquiries, accept orders, and track inventory due to limited resources and staff. Specifically, the business owner has trouble organizing orders received via Facebook Messenger, keeping track of inventory, and answering the same set of customer questions repeatedly, leading to a time-consuming and inefficient process. To address these challenges, the business needs an improved system that can streamline operations, provide a better customer experience, and allow the owner to focus on delivering quality food to customers. </p>
 
@@ -137,7 +137,7 @@
 <h3>Technology Migration </h3>
 <p>The proposed e-commerce web application for Chubby Gourmet will be developed using PHP and SQL technology. The web application will be hosted on Hostinger, a reliable and secure web hosting server. The data migration process will ensure that all relevant data is carried over to the new system. The new system will undergo extensive testing to ensure its reliability, efficiency, and security. Technical requirements and potential obstacles will be addressed during the development process to ensure a successful implementation. Chubby Gourmet's admin will receive instructions from developers to use the new system effectively and to take full advantage of its features, leading to a more streamlined and efficient process. </p>
 
-<h2>Project Overview</h2>
+==Project Overview==
 <p>This section will discuss high-level information about Chubby Gourmet’s e-commerce Web Application including its description, goals and objectives, performance criteria, assumptions, constraints, and milestones.  This section will also provide all project-specific information that will help in the contribution of the project. </p>
 
 <h3>Project Description</h3>
@@ -272,7 +272,7 @@
 	</tr>
 </table>
 
-<h2>Strategic Alignment</h2>
+==Strategic Alignment==
 <p>The implementation of the e-commerce web application for Chubby aligns with the 	business goals, including: </p>
 <ul>
   <li>Improved operational efficiency: The automated system will streamline the order taking, inventory management, and customer inquiries processes, reducing the time and effort required to manage these tasks manually. This will result in improved operational efficiency and productivity for the business.   </li>
@@ -280,7 +280,7 @@
   <li>Increased sales and revenue: The online presence and ease of ordering through the web application can attract more customers, resulting in increased sales and revenue for Chubby Gourmet. </li>
 </ul>  
 
-<h2>Cost Benefit Analysis </h2>
+==Cost Benefit Analysis==
 <p>This section of the paper presents a cost-benefit analysis for the Chubby Gourmet e-commerce web application project. The purpose of this analysis is to evaluate the financial feasibility of the project, considering both the costs and the expected benefits of the proposed system. The results of the analysis will help to determine whether the project is a worthwhile investment for the client. </p>
 
 <p>Benefits:<br>The Chubby Gourmet e-commerce web application could offer several benefits to the client once fully implemented, including: </p>
@@ -307,7 +307,7 @@
 
 <p>The cost-benefit analysis indicates that pursuing the Chubby Gourmet e-commerce web application project is worth pursuing for the business. While there will be initial costs associated with hosting, domain, internet and electricity fees, as well as operational expenses, the potential benefits of the project such as increased sales revenue, and improved customer experience and retention, are expected to outweigh the initial investment in the long run. </p>
 
-<h2>Alternatives Analysis </h2>
+==Alternatives Analysis==
 <p>This alternatives analysis aims to evaluate and compare the advantages and disadvantages of three options for the Chubby Gourmet business: doing nothing, using website builders, and hiring workers. The following sections present a detailed analysis of each option's pros and cons, including the reasons why they were not chosen as the proposed solution for the business. </p>
 
 <strong>Doing Nothing</strong>
