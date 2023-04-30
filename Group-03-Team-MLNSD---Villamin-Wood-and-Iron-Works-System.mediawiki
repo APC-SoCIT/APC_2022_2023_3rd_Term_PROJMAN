@@ -571,3 +571,78 @@
   development. </p></td>
  </tr>
 </table>
+
+=Scope Management Plan=
+==Introduction==
+<p>The Villamin Wood and Iron Works System plan for scope management describes the technologies and resources that will be used to create, document, and handle the project's context. Agile methodologies and collaborative tools will be utilized by the team to build an ordering system that meets the project's demands. </p>
+
+<ul> 1.	Collect Requirements – In order to gather and record the system's requirements, the project team will employ a variety of methods, including client interviews and discussions. </ul>
+<ul> 2. Define Scope – To establish the scope, the user stories and scope statement will be integrated into a project management plan. The plan will be revised periodically to accommodate any modifications in the project's scope during its advancement. </ul>
+<ul> 3. Verify Scope – The project group will utilize an agile methodology to test and confirm that the expectations of the undertaking meet the necessities and line up with the scope statement. </ul>
+<ul> 4. Control Scope – A formal change control process will be used to manage any changes to the project's scope. This process will look at how these changes will affect the project's schedule, budget, and quality. Additionally, each change solicitation guarantees that the change is fundamental, practical, and lined up with the project objectives. </ul>
+<ul> 5.	Create WBS – this process breaks project deliverables down into progressively smaller and more manageable components which, at the lowest level, are called work packages.  This hierarchical structure allows for more simplicity in scheduling, costing, monitoring, and controlling the project. </ul>
+
+==Scope Management Approach==
+<p>The Project Manager, Mabelle Aspeli, will have the authority and responsibility to manage scope management. Mabelle Aspeli will collaborate with the project sponsor, Mr. Manuel Villamin Jr, to establish and regulate the project's scope. </p>
+<ul> 1. The extent of the project will be assessed and confirmed by reports, frequent assessments of the project's advancement in comparison to the initial scope, and evaluation of the project's performance. If there are any variations from the initial scope, they will be identified and resolved through the scope change procedure. </ul>
+<ul> 2. Throughout the Villamin Wood and Iron Works process, the scope of the project will change, the Project Manager will have to accommodate a change request, and the project sponsor will give the final approval. To ensure that they align with the project objective and do not adversely affect the schedule or budget, any changes to the project scope must be thoroughly evaluated. </ul>
+<ul> 3. It is the duty of the Project Manager to make sure that all project requirements have been met so that the final deliverables are accepted and approved by the stakeholder and the project sponsor. Once all the deliverables are accepted and any remaining issues are resolved, the successful completion of the project will be confirmed. </ul>
+
+==Roles and Responsibilities==
+<ul> <i>Project Manager</i> – It is the responsibility of the Project Manager to manage and authorize modifications to the project's scope, as well as to establish and record the project's scope. </ul>
+<ul> <i>Project Sponsor</i> – Project Sponsor will have the authority to approve all changes, particularly in project budget, schedule, and project scope. </ul>
+<ul> <i>Project Team</i> - The project team’s responsibility is to verify the scope of the project and to ask any relevant questions regarding modifications that have been submitted. </ul>
+<ul> <i>Stakeholder</i> - Stakeholders are responsible for providing their insights into the project's requirements and scope as well as authorizing any necessary changes to the scope. </ul>
+
+==Scope Definition==
+<p>The team developed the project Villamin Wood and Iron Works System to build a system that resolves all the issues presented by the client and to meet their demands which includes the following: </p>
+
+<ul> 1. Creating an Ordering System in the online store to address the conflicts with their manual ordering process.  </ul>
+<ul> 2. Increasing the customer reach. </ul>
+<ul> 3. Monitor the inventory of stocks and orders. </ul>
+
+<p>The process of developing the detailed description of this project and its deliverables occurred through interviewing with the client and learning about their business process and understanding their struggles and how we can contribute to their business by providing the project.  Team meetings discussing and developing a plan is an important process in the development of the project as we identified all requirements, scope of the project, and how we can incorporate our ideas into the system. </p>
+
+==Project Scope Statement==
+<ul> <i>Product Scope Description</i> – The project will accomplish all requests made by the client based on the business problems they have provided which should be solved by the project.  </ul>
+
+<ul> <i>Product Acceptance Criteria</i> – Part of the acceptance criteria will be based on the overall satisfaction of the client. This can be broken down into specific parts which includes the deployment of a fully functioning online store, solving all the presented business problems, and catering to the needs of the customers through the online store.  </ul>
+
+<ul> <i>Project Exclusions</i> - The following is out of the scope of the project and will not be included:  </ul>
+<ul><ul> a. Modification of the system beyond what was discussed in the project scope statement.  </ul></ul>
+<ul><ul> b. Collaborations with other system/company outside of the scope of the project.  </ul></ul>
+
+<ul> <i>Project Constraints</i> - The following limits the project:  </ul>
+<ul><ul> a. Limited budget  </ul></ul>
+<ul><ul> b. Availability of tools to use </ul></ul>
+<ul><ul> c. Manpower </ul></ul>
+
+<ul> <i>Project Assumptions</i> - The following assumptions have been made about the project: </ul>
+<ul><ul> a. The project timeline will be followed. </ul></ul>
+<ul><ul> b. The project will stick to the discussed budget. </ul></ul>
+<ul><ul> c. The system will be fully functional and accessible to the client. </ul></ul>
+
+==Work Breakdown Structure==
+<p>lorem ipsum</p>
+
+==Scope Verification==
+<p>In ensuring that the deliverables are verified leading to the formal acceptance of the project, the team will use the following methods for scope verification: </p>
+
+<ul> <i>Quality checklists</i> – This list will check that the requirements are being fulfilled and verify that they pass the standards to advance to the next deliverable. </ul>
+
+<ul> <i>Work performance measurements</i> – The team will keep track of the progress of every deliverable, assuring that every member is contributing and fulfilling their roles in the development of the project. </ul>
+
+<ul> <i>Scope baseline</i> – This is used to ensure that the deliverables will meet the scope and make sure that it maintains the original project scope despite changes being implemented. </ul>
+
+<ul> <i>Formal Acceptance</i> – The acceptance of both the project sponsor, other stakeholders and the team is needed for the completion. This ensures that the team has met the demands and expectations of the client. That is why it is essential that there are consistent meetings and communications to ensure that the project and deliverables go as planned. </ul>
+
+==Scope Control==
+<p>As part of the scope control process, the project's progress and outcomes will be evaluated on a regular basis to make sure they still adhere to the project scope that is stated in the Project Scope Statement. Any deviations from the scope will be assessed, and if fundamental, the changes in the scope will be documented and still follow the procedure in the existing scope. Monitoring and managing will be the responsibility of 
+the project manager alongside the team and stakeholders. The project manager will be reviewed on a regular basis to make sure that the project progress is still being followed. </p>
+
+<p>The following steps will be taken to modify the scope baseline during the scope control process for the Villamin Wood and Iron Works System project: </p>
+
+<ul> 1.	The request for a change in scope will be evaluated by the Project Manager and the Project Sponsor to assess its potential impact on the project schedule, financial plan, and available resources. </ul>
+<ul> 2.	Any stakeholder or team member who identifies a requirement for a change to the scope will initiate a scope change request. </ul>
+<ul> 3.	If the request is approved, the Project Manager will create a plan of action to implement the change, revise the initial project scope, and communicate the change to all relevant stakeholders. </ul>
+<ul> 4.	The project team will continue with the original scope if the request is rejected. </ul>
