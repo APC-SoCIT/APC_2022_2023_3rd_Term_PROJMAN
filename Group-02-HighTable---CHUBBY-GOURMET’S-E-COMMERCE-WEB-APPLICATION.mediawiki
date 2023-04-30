@@ -85,9 +85,44 @@
 
 <ul>
   <li>Product Management (Admin Side) </li>
-  <li>Tea</li>
-  <li>Milk</li>
-<li>Milk</li>
-<li>Milk</li>
+  <li>Order Management (Admin Side) </li>
+  <li>Inventory Management (Admin Side)</li>
+  <li>Generation of Reports (Customer Side) </li>
+  <li>Print Reports (Customer Side) </li>
+  <li>Customer Account Creation (Customer Side) </li>
+  <li>Shopping Cart (Customer Side) </li>
+  <li>Checkout (Customer Side) </li>
+  <li>Payment (Customer Side) </li>
+  <li>Delivery Schedule (Customer Side) </li>
+  <li>Order Tracking (Customer and Admin Side)</li>
+  <li>Catering Schedule (Customer Side)</li>
 </ul>  
+<p>With these features suggested, the web application will be able to achieve the anticipated outcomes that the group has established and may even continue to improve further if needed. </p>
 
+<h3>Justification</h3>
+<p>The reason as to why this solution will be applicable for Chubby Gourmet is because in today’s standards, the world has adapted to using online commerce more and has become a new normal in the current market. By implementing the e-commerce web application, this allows Chubby Gourmet to establish their brand and services online for the public and allows HighTable to exercise their skills in developing a project that will meet the needs of the client through technical skills such as web development. </p>
+
+<h2>Business Case Analysis Team</h2>
+<p>Table 1 shows the team of professionals who will work on creating the plan and their roles on the plan: </p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">DESIGNATION</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor: </p></td>
+		<td><p style="text-align:center;">Ms. Priscilla Mariano  </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Adviser: </p></td>
+		<td><p style="text-align:center;">Ms. Jo Anne de la Cuesta </p><br>MIM Executive Director </td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Manager: </p></td>
+		<td><p style="text-align:center;">Gia Artajos </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Team Members: </p></td>
+		<td><p style="text-align:center;">Marcus Flores  </p><br>Scrum Master<br>Rysal Rosel<br>Product Developer<br>Lester Salazar<br>Product Designer</td>
+	</tr>
+</table>
