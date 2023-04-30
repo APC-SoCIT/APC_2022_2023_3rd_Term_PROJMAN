@@ -359,6 +359,113 @@ Conclusion:
 =Scope Management Plan=
 
 =Cost Management Plan=
+==Introduction==
+<p>Effective cost management is crucial for the success of any project, and the Chubby Gourmet e-commerce web application project is no exception. This Cost Management Plan document outlines the strategies and procedures that will be employed to ensure that project costs are managed efficiently and effectively throughout its lifecycle. </p>
+<p>The purpose of this plan is to establish the guidelines and standards for measuring, controlling, and reporting project costs. The plan identifies the individuals responsible for cost management, defines the authority levels for approving changes to the project budget, and outlines the mechanisms for measuring and reporting cost performance. </p>
+<p>By adhering to the standards set out in this plan, we can ensure that the Chubby Gourmet e-commerce web application project is completed within budget, on time, and to the satisfaction of all stakeholders.</p>
+
+==Cost Management Approach==
+<p>The Chubby Gourmet e-commerce web application project will utilize the Work Breakdown Structure (WBS) to effectively manage costs. As the project management team does not have a Project Management Information System, costs will be managed at the last level of each WBS activity, it can either be third, fourth, or fifth level of the WBS. This level of granularity strikes a balance between detailed cost management and manageable effort. </p>
+<p>At the last level of each WBS activity, Cost Accounts will be established for each major deliverable. Each Cost Account will be assigned a budget, and actual costs will be tracked against this budget. To ensure effective cost management, a Cost Account Manager will be designated for each Cost Account. They will be responsible for managing the costs associated with their respective Cost Account. </p>
+<p>Cost performance will be monitored by regularly reviewing actual costs against the budgeted costs for each Cost Account. Any variances will be thoroughly investigated, and corrective actions will be taken as necessary. Additionally, a cost performance index (CPI) and a schedule performance index (SPI) will be utilized to track cost and schedule performance. Monthly reports will be generated and presented to the Project Sponsor and other key stakeholders. </p>
+<p>All changes to the project scope or budget will require review and approval by the Project Manager and the Project Sponsor. If a cost change exceeds 10% of the total project budget, approval from the Project Sponsor will be necessary before implementation. </p>
+<p>By managing costs at the last level of the WBS and regularly reviewing cost performance, the Chubby Gourmet e-commerce web application project will be completed within the approved budget and to the satisfaction of all stakeholders. </p>
+
+==Measuring Project Costs==
+<p>This section will detail the Earned Value measurements that will be captured and reported upon, and whether any tools, such as project management software, will be used to assist in capturing Earned Value metrics. The section will also outline how future project costs will be forecasted and how cost performance will be reviewed over time, across work packages or schedule activities. </p>
+<p>Forecasting future project costs is an important aspect of cost management in any project. In the cost management plan for Chubby Gourmet e-commerce web application, the project team will use a combination of historical data and expert judgment to forecast future project costs. The team will also consider any changes in project scope, schedule, or resource requirements that may affect the project budget. </p>
+<p>To review cost performance across work packages or schedule activities, the team will analyze the data collected through the EVM measurements and identify the areas where the project is over or under budget. The team will then drill down to the specific work packages or activities that are causing the deviations and take corrective actions accordingly. This will help the team keep the project on track and prevent any cost overruns or schedule delays. </p>
+<p>To review cost performance over time, the team will use the earned value management (EVM) approach and measure Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI) regularly. These measurements will help the team identify any deviations from the budget and schedule and take corrective actions to keep the project on track. </p>
+<p>Schedule Variance (SV) will be used to measure the schedule performance of the project. It will be calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV). If SV is zero, the project is perfectly on schedule. If SV is greater than zero, the project is ahead of schedule. If SV is less than zero, the project is behind schedule. </p>
+<p>Cost Variance (CV) will be used to measure the budget performance of the project. It will be calculated by subtracting Actual Costs (AC) from Earned Value (EV). If the CV is zero, the project is perfectly on budget. If the CV is greater than zero, the project is under budget. If the CV is less than zero, the project is over budget. </p>
+<p>The Schedule Performance Index (SPI) will measure the progress achieved against what was planned. SPI will be calculated as EV/PV. A well-performing project should have its SPI as close to 1 as possible, or maybe even a little under 1. </p>
+<p>The Cost Performance Index (CPI) will measure the value of the work completed compared to the actual cost of the work completed. CPI will be calculated as EV/AC. If the CPI is greater than 1, the project is under budget. If it's less than 1, the project is over budget. If CPI is equal to 1, the project is perfectly on budget. </p>
+
+==Reporting Format==
+<p>The reporting format for the cost management plan of the Chubby Gourmet e-commerce web application will be a monthly report presented by the Project Manager to the stakeholders. The report should be easily understandable and accessible to all stakeholders, including the project team, stakeholders, and management. </p>
+<p>The report will include the following elements: </p>
+<p>Cost Summary 
+<br>
+A summary of the project's status in terms of the cost, including the total project cost, the cost incurred to date, and the cost forecast for the remainder of the project.</p>
+<p>Budget Overview 
+<br>
+A detailed breakdown of the project's budget, including the cost of each phase or deliverable, and the costs associated with each project resource (e.g., labor, equipment, etc.). </p>
+<p>Cost Variance Analysis 
+<br>
+A detailed analysis of any variances between the project's actual costs and the budgeted costs for the month. This should include a detailed explanation of the causes of the variances, the impact on the project, and any actions taken to address them. </p>
+<p>Budget Forecast 
+<br>
+A projection of the project's future costs, including any potential cost variances and their potential impact on the project. </p>
+<p>Cost Management Metrics 
+<br>
+A set of key performance indicators that provide a snapshot of the project's cost performance, including cost variance, cost performance index (CPI), and schedule performance index (SPI). </p>
+<p>Risks and Opportunities 
+<br>
+A summary of the identified risks and opportunities related to the cost of the project, including any updates to the risk and opportunity register. </p>
+<p>Change Requests 
+<br>
+A summary of any approved or pending change requests related to the cost of the project. </p>
+<p>Approval and Sign-off 
+<br>
+A section for the project manager and other key stakeholders to review, approve, and sign off on the cost management report. </p>
+
+==Cost Variance Response==
+<p>The Cost Variance Response Process for the Chubby Gourmet E-commerce Web Application project is outlined below: </p>
+<p>Identify the Cost Variance 
+<br>
+The project team will monitor and track all costs incurred and compare them to the budgeted costs. If the actual costs exceed the budgeted costs by a predetermined threshold, a cost variance will be identified. </p>
+<p>Analyze the Cost Variance 
+<br>
+The project team will analyze the cost variance to determine the root cause(s) of the deviation. This may involve a review of the project plan, a breakdown of cost components, and consultations with stakeholders. </p>
+<p> 
+Develop Options 
+<br>
+Based on the analysis, the project team will develop a range of options to address the cost variance. These may include reducing scope, changing resource allocations, renegotiating contracts, or seeking additional funding. </p>
+<p>Evaluate Options 
+<br>
+The project team will evaluate the options in terms of feasibility, effectiveness, and impact on the project objectives. The options will be presented to the project sponsor or other decision-makers for approval. </p>
+<p>Implement Chosen Option 
+<br>
+Once the chosen option is approved, the project team will implement the corrective action. This may involve revising the project plan, and reallocating resources. </p>
+<p>Monitor Progress 
+<br>
+The project team will continue to monitor and track costs to ensure that the corrective action is effective in addressing the cost variance. If necessary, additional corrective actions may be taken to further mitigate the cost variance. </p>
+<p>Communicate Status 
+<br>
+The project team will provide regular updates on the status of the cost variance and any corrective actions taken to stakeholders, including the project sponsor, management, and other relevant parties.</p>
+
+==Cost Change Control Process==
+<p>The Cost Change Control Process for the Chubby Gourmet e-commerce web application will be as follows: </p>
+<p>Request for Cost Change 
+<br>
+Any proposed changes to the project budget or costs must be submitted to the project manager in writing using the Cost Change Request Form. </p>
+<p>Initial Assessment 
+<br>
+The project manager will review the Cost Change Request Form and perform an initial assessment to determine the potential impact on the project budget, schedule, scope, and quality. </p>
+<p>Analysis of the Cost Change 
+<br>
+The project manager will analyze the Cost Change Request in consultation with the project team to determine the feasibility, risks, and benefits of the proposed change. </p>
+<p>Cost Change Approval 
+<br>
+The project manager will submit the Cost Change Request along with the analysis and recommendations to the project sponsor for approval. The project sponsor will review the request and either approve or reject it based on the impact analysis and the project's objectives and constraints. </p>
+<p>Implementation of the Cost Change 
+<br>
+Once approved, the project manager will implement the Cost Change in accordance with the approved plan and schedule. This may involve updating the project management plan, revising the budget, reallocating resources, changing the project scope or quality, or updating the risk management plan. </p>
+<p>Cost Change Monitoring 
+<br>
+The project manager will monitor the Cost Change to ensure that it is implemented as per the approved plan and schedule. The project team will track the cost performance and schedule performance to identify any variances or deviations from the plan and take corrective actions as necessary. </p>
+<p>Reporting on the Cost Change 
+<br>
+The project manager will report the Cost Change in the regular project status reports to the project sponsor, and other stakeholders as appropriate. The report will include the approved Cost Change Request, the analysis and recommendations, the implementation plan and schedule, the monitoring and control plan, and any other relevant financial data. </p>
+
+==Project Budget==
+<p>The budget for this project is detailed below.  Costs for this project are presented in various categories. </p>
+Approved Budget: ₱ 5,000,000.00 
+Manpower Cost:	₱ 4,009,000.00 
+Maintenance Cost:	₱ 40,000.00 
+Contingency Cost:	₱ 342,000.00 
+Total Project Cost:	₱ 4,391,000.00 
+
 
 =Time Management Plan=
 
