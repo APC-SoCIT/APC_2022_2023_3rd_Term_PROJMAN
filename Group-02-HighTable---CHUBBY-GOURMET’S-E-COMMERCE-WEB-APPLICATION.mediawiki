@@ -115,7 +115,7 @@
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Project Adviser: </p></td>
-		<td><p style="text-align:center;">Ms. Jo Anne de la Cuesta <br>MIM Executive Director </p></td>
+		<td><p style="text-align:center;">Ms. Jo Anne de la Cuesta <br><em>MIM Executive Director </em></p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Project Manager: </p></td>
@@ -126,3 +126,55 @@
 		<td><p style="text-align:center;">Marcus Flores  <br><em>Scrum Master</em><br>Rysal Rosel<br><em>Product Developer</em><br>Lester Salazar<br><em>Product Designer</em></p></td>
 	</tr>
 </table>
+
+<h2>Problem Definition</h2>
+<h3>Problem Statement</h3>
+<p>Chubby Gourmet is a one-woman food business located in Laguna, Philippines, which faces several difficulties in managing its operations. The business owner struggles to handle customer inquiries, accept orders, and track inventory due to limited resources and staff. Specifically, the business owner has trouble organizing orders received via Facebook Messenger, keeping track of inventory, and answering the same set of customer questions repeatedly, leading to a time-consuming and inefficient process. To address these challenges, the business needs an improved system that can streamline operations, provide a better customer experience, and allow the owner to focus on delivering quality food to customers. </p>
+
+<h3>Organizational Impact </h3>
+<p>The proposed e-commerce web application will bring a significant impact to the business processes of Chubby Gourmet. The new system will allow the business owner to handle customer inquiries and orders more efficiently and effectively, which will lead to a more streamlined process. Additionally, the online platform will allow customers to place their orders more conveniently and receive faster service. This will lead to an enhanced customer experience and increased customer satisfaction. With an automated system, Chubby Gourmet can focus on serving quality food and growing the business, rather than spending a significant amount of time on administrative tasks.  </p>
+
+<h3>Technology Migration </h3>
+<p>The proposed e-commerce web application for Chubby Gourmet will be developed using PHP and SQL technology. The web application will be hosted on Hostinger, a reliable and secure web hosting server. The data migration process will ensure that all relevant data is carried over to the new system. The new system will undergo extensive testing to ensure its reliability, efficiency, and security. Technical requirements and potential obstacles will be addressed during the development process to ensure a successful implementation. Chubby Gourmet's admin will receive instructions from developers to use the new system effectively and to take full advantage of its features, leading to a more streamlined and efficient process. </p>
+
+<h2>Project Overview</h2>
+<p>This section will discuss high-level information about Chubby Gourmet’s e-commerce Web Application including its description, goals and objectives, performance criteria, assumptions, constraints, and milestones.  This section will also provide all project-specific information that will help in the contribution of the project. </p>
+
+<h3>Project Description</h3>
+<p>HighTable intends to implement an e-commerce web application in Chubby Gourmet’s current system. The web application would have the usual e-commerce functionalities, all the while adding a mobile app version for the mobile users to gain access to. </p>
+<p>The project will be managed/executed using the agile methodology because the group sees this method as an effective method to accomplish tasks efficiently. HighTable has been using this method to accomplish previous tasks for the past three terms and will continue to use it throughout the duration of the production of the project. </p>
+<p>The general purpose as to why this project is being conducted is because not only is HighTable accomplishing this for their pre-requisite deliverable for BSIT, but they see it as a need to help micro-to-small enterprises like Chubby Gourmet to excel in the field they work in. </p>
+
+<h3>Goals and Objectives</h3>
+<p>HighTable intends to accomplish this project as effectively as possible and to help improve the current system Chubby Gourmet is using. These are the following specific objectives that the group must accomplish: </p>
+<ul>
+  <li>Organize customer orders faster by 80%, which contains details such as personal information, orders, and transaction details.</li>
+  <li>Digitize 100% of the inventory management allowing an easier way of tracking (add, update, delete) current inventory.</li>
+  <li>Display answers to common queries from customers with two (2) to three (3) clicks, so that Chubby Gourmet could spend less time answering questions every day. </li>
+</ul>  
+
+<h3>Project Performance</h3>
+<p>The group will gauge the project’s performance by reviewing and evaluating the following documents filled out upon testing by both the developers and the client: </p>
+
+<ul>
+  <li>Test Case </li>
+</ul>  
+<p>Under this document is where the developers of the group test each of the features developed and used a “PASS” or “FAIL” status on each of the features, noting down all possible scenarios to stress test the feature. </p>
+
+<ul>
+  <li>Web Performance Objectives </li>
+</ul>  
+<p>Written by Cassone et. Al, in the document entitled “Web Performance Testing and Measurement: a complete approach”, they were able to come up with three main objectives with sub-objectives that can be followed when evaluating the performance of a web application. </p>
+
+<ul>
+  <li>End-User Objectives
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+</li>
+
+  <li>System Objectives</li>
+  <li>Management Obejctives</li>
+</ul>  
