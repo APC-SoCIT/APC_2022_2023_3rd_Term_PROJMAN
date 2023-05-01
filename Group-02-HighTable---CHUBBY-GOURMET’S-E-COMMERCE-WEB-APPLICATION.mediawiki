@@ -1985,11 +1985,14 @@ The project sponsor will review and approve scope changes based on the establish
 ==WBS Dictionary==
 <p>The Work Breakdown Structure (WBS) Dictionary is a companion document to the WBS that provides a comprehensive list of all the tasks, sub-tasks, and work packages included in the project. The WBS Dictionary contains important information such as the description of each work package and the estimated duration. It serves as a reference guide for the project team, ensuring that everyone is on the same page regarding the project's scope and objectives. A well-developed WBS Dictionary is essential for project management and helps to ensure that the project stays on track and is completed within the schedule.</p>
 <table width="780" border="1" align="center">
+<thead>
 	<tr>
 		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
 		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
 		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
 	</tr>
+</thead>
+<tbody>
         <tr>
 		<td width="141"><p>1</p></td>
 		<td width="64"><p>1</p></td>
@@ -2995,6 +2998,7 @@ The project sponsor will review and approve scope changes based on the establish
     <td width="64"><p>1.5.2.7</p></td>
     <td width="228"><p>Week 14: Go Live</p></td>
   </tr>
+</tbody>
 </table>
 <br>
 
