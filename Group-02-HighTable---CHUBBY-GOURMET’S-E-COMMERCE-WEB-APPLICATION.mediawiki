@@ -1937,12 +1937,20 @@ The project sponsor will review and approve scope changes based on the establish
   </thead>
   <tbody>
     <tr>
-      <td rowspan="200">1. Chubby Gourmet Web Application</td>
+      <td rowspan="1">1. Chubby Gourmet Web Application</td>
       <td rowspan="27">1.2  Analysis and Design</td>
       <td rowspan="27">1.2.1 Initial Deliverables<br>1.2.2 Team Meetings<br>1.2.3 Midterm Deliverables<br>1.2.4 Final Deliverables</td>
       <td rowspan="27">1.1.1.1 Creation of project group<br>1.1.1.2 Choose project/client<br>1.1.1.3 Choose adviser/consultant<br>1.1.1.4 Design Thinking 1<br>1.1.2.1 Client meeting 1<br>1.1.2.2 Adviser meeting 1<br>1.1.2.3 Client meeting 2<br>1.1.2.4 Adviser meeting 2<br>1.1.2.5 Adviser meeting 3<br>1.1.2.6 Client meeting 3<br>1.1.2.7 Adviser meeting 4<br>1.1.2.8 Adviser meeting 5<br>1.1.2.9 Adviser meeting 6<br>1.1.3.1 Project paper<br>1.1.3.2 Powerpoint Deck<br>1.1.3.3 Midterm Presentation<br>1.1.3.4 Comments matrix<br>1.1.3.5 Revised Midterm paper<br>1.1.4.1 Initial Low-Fidelity Prototype<br>1.1.5.1 Project paper<br>1.1.5.2 Teaser Video<br>1.1.5.3 Powerpoint Deck<br>1.1.5.4 Final Presentation<br>1.1.5.5 Comments matrix<br>1.1.5.6 Revised Final paper</td>
       <td rowspan="27">1.1.3.1.1 Chap 1 Introduction<br>1.1.3.1.2 Chap 2 RRL/RRS<br>1.1.3.1.3 Chap 3 Methodology<br>1.1.3.1.4 Chap 4 Results and Discussions<br>1.1.3.1.5 Chap 5 Conclusion<br>1.1.5.1.1 Chap 1 Introduction<br>1.1.5.1.2 Chap 2 RRL/RRS<br>1.1.5.1.3 Chap 3 Methodology<br>1.1.5.1.4 Chap 4 Results and Discussions<br>1.1.5.1.5 Chap 5 Conclusion</td>
     </tr>
+
+    <tr>
+      <td rowspan="27">1.2  Analysis and Design</td>
+      <td rowspan="27">1.2.1 Initial Deliverables<br>1.2.2 Team Meetings<br>1.2.3 Midterm Deliverables<br>1.2.4 Final Deliverables</td>
+      <td rowspan="27">1.1.1.1 Creation of project group<br>1.1.1.2 Choose project/client<br>1.1.1.3 Choose adviser/consultant<br>1.1.1.4 Design Thinking 1<br>1.1.2.1 Client meeting 1<br>1.1.2.2 Adviser meeting 1<br>1.1.2.3 Client meeting 2<br>1.1.2.4 Adviser meeting 2<br>1.1.2.5 Adviser meeting 3<br>1.1.2.6 Client meeting 3<br>1.1.2.7 Adviser meeting 4<br>1.1.2.8 Adviser meeting 5<br>1.1.2.9 Adviser meeting 6<br>1.1.3.1 Project paper<br>1.1.3.2 Powerpoint Deck<br>1.1.3.3 Midterm Presentation<br>1.1.3.4 Comments matrix<br>1.1.3.5 Revised Midterm paper<br>1.1.4.1 Initial Low-Fidelity Prototype<br>1.1.5.1 Project paper<br>1.1.5.2 Teaser Video<br>1.1.5.3 Powerpoint Deck<br>1.1.5.4 Final Presentation<br>1.1.5.5 Comments matrix<br>1.1.5.6 Revised Final paper</td>
+      <td rowspan="27">1.1.3.1.1 Chap 1 Introduction<br>1.1.3.1.2 Chap 2 RRL/RRS<br>1.1.3.1.3 Chap 3 Methodology<br>1.1.3.1.4 Chap 4 Results and Discussions<br>1.1.3.1.5 Chap 5 Conclusion<br>1.1.5.1.1 Chap 1 Introduction<br>1.1.5.1.2 Chap 2 RRL/RRS<br>1.1.5.1.3 Chap 3 Methodology<br>1.1.5.1.4 Chap 4 Results and Discussions<br>1.1.5.1.5 Chap 5 Conclusion</td>
+    </tr>
+
   </tbody>
 </table>
 
