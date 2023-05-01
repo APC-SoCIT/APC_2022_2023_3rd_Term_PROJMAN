@@ -1928,11 +1928,11 @@ The project sponsor will review and approve scope changes based on the establish
 <table>
   <thead>
     <tr>
-      <th width="120" rowspan="200">Level 1</th>
-      <th width="120" rowspan="25">Level 2</th>
+      <th width="80" rowspan="200">Level 1</th>
+      <th width="80" rowspan="25">Level 2</th>
       <th width="120" rowspan="25">Level 3</th>
-      <th width="120"></th>
-      <th width="120"></th>
+      <th width="120">Level 4</th>
+      <th width="120">Level 5</th>
     </tr>
   </thead>
   <tbody>
