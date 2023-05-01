@@ -1220,6 +1220,56 @@ The project sponsor will review and approve scope changes based on the establish
     <td width="64"><p>1.2.3.1.4</p></td>
     <td width="228"><p>Use Case Full Description</p></td>
   </tr>
+<tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.5</p></td>
+    <td width="228"><p>DFD</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.6</p></td>
+    <td width="228"><p>CFD</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.7</p></td>
+    <td width="228"><p>ERD</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.8</p></td>
+    <td width="228"><p>Activity Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.9</p></td>
+    <td width="228"><p>Object Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.10</p></td>
+    <td width="228"><p>Class Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.3.2</p></td>
+    <td width="228"><p>Project paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.1</p></td>
+    <td width="228"><p>Chap 1 Introduction</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.2</p></td>
+    <td width="228"><p>Chap 2 RRL/RRS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.3</p></td>
+    <td width="228"><p>Chap 3 Technical Background</p></td>
+  </tr>
 </table>
 
 =Work Packages=
