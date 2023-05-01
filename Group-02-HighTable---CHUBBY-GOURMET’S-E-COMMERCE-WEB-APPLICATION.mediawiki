@@ -1315,6 +1315,66 @@ The project sponsor will review and approve scope changes based on the establish
     <td width="64"><p>1.2.3.8</p></td>
     <td width="228"><p>Revised Midterm paper</p></td>
   </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="80"><p>1.2.4</p></td>
+    <td width="200"><p>Final Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="80"><p>1.2.4.1</p></td>
+    <td width="200"><p>Diagrams</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.1</p></td>
+    <td width="200"><p>Sequence Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.2</p></td>
+    <td width="200"><p>State Machine Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.3</p></td>
+    <td width="200"><p>Package Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.4</p></td>
+    <td width="200"><p>Component Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.5</p></td>
+    <td width="200"><p>Deployment Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.6</p></td>
+    <td width="200"><p>Data Dictionary</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="80"><p>1.2.4.2</p></td>
+    <td width="200"><p>Prototype</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.2.1</p></td>
+    <td width="200"><p>Updated Low-Fidelity Prototype</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="80"><p>1.2.4.3</p></td>
+    <td width="200"><p>Project paper</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.3.1</p></td>
+    <td width="200"><p>Chap 1 Introduction</p></td>
+  </tr>
 </table>
 
 =Work Packages=
