@@ -911,158 +911,74 @@ The project sponsor will review and approve scope changes based on the establish
 
 <table width="780" border="1" align="center">
 	<tr>
-		<td width="141" bgcolor="lightgreen">
-			<p>Level</p>
-		</td>
-		<td width="64" bgcolor="lightgreen">
-			<p>WBS Code</p>
-		</td>
-		<td width="228" bgcolor="lightgreen">
-			<p>Element Name</p>
-		</td>
+		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
+		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
 	</tr>
         <tr>
-		<td width="141">
-			<p>1</p>
-		</td>
-		<td width="64">
-			<p>1</p>
-		</td>
-		<td width="228">
-			<p>Chubby Gourmet Web Application </p>
-		</td>
+		<td width="141"><p>1</p></td>
+		<td width="64"><p>1</p></td>
+		<td width="228"><p>Chubby Gourmet Web Application </p></td>
 	</tr>
         <tr>
-		<td width="141">
-			<p>2</p>
-		</td>
-		<td width="64">
-			<p>1.1</p>
-		</td>
-		<td width="228">
-			<p>Planning </p>
-		</td>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.1</p></td>
+		<td width="228"><p>Planning </p></td>
 	</tr>
         <tr>
-		<td width="141">
-			<p>3</p>
-		</td>
-		<td width="64">
-			<p>1.1.1</p>
-		</td>
-		<td width="228">
-			<p>Project Preparation </p>
-		</td>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.1</p></td>
+		<td width="228"><p>Project Preparation </p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.1.1</p>
-		</td>
-		<td width="228">
-			<p>Creation of project group</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.1.1</p></td>
+		<td width="228"><p>Creation of project group</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.1.2</p>
-		</td>
-		<td width="228">
-			<p>Choose project/client</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.1.2</p></td>
+		<td width="228"><p>Choose project/client</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.1.3</p>
-		</td>
-		<td width="228">
-			<p>Choose adviser/consultant</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.1.3</p></td>
+		<td width="228"><p>Choose adviser/consultant</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.1.4</p>
-		</td>
-		<td width="228">
-			<p>Design Thinking 1</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.1.4</p></td>
+		<td width="228"><p>Design Thinking 1</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>3</p>
-		</td>
-		<td width="64">
-			<p>1.1.2</p>
-		</td>
-		<td width="228">
-			<p>Team Meetings</p>
-		</td>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.2</p></td>
+		<td width="228"><p>Team Meetings</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.2.1</p>
-		</td>
-		<td width="228">
-			<p>Client meeting 1</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.1</p></td>
+		<td width="228"><p>Client meeting 1</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.2.2</p>
-		</td>
-		<td width="228">
-			<p>Adviser meeting 1</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.2</p></td>
+		<td width="228"><p>Adviser meeting 1</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.2.3</p>
-		</td>
-		<td width="228">
-			<p>Client meeting 2</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.3</p></td>
+		<td width="228"><p>Client meeting 2</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.2.4</p>
-		</td>
-		<td width="228">
-			<p>Adviser meeting 2</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.4</p></td>
+		<td width="228"><p>Adviser meeting 2</p></td>
 	</tr>
 	<tr>
-		<td width="141">
-			<p>4</p>
-		</td>
-		<td width="64">
-			<p>1.1.2.5</p>
-		</td>
-		<td width="228">
-			<p>Adviser meeting 3</p>
-		</td>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.5</p></td>
+		<td width="228"><p>Adviser meeting 3</p></td>
 	</tr>
 </table>
 
