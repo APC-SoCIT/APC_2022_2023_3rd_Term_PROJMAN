@@ -412,7 +412,19 @@ The stakeholder that the project has is Ms. Devilyn Ligligen. She is the client 
 
 ***
 ## 8. Cost Management Plan
+## Introduction
+The Cost Management Plan is developed to ensure effective management of project costs throughout the project's lifecycle. It outlines the procedures and guidelines for measuring, reporting, and controlling costs associated with the Bregghan Mini Grocery Store project. The purpose of this plan is to identify the cost management approach, roles and responsibilities, and procedures for managing costs in a consistent and effective manner.
 
+***
+## Cost Management Approach
+The cost management approach for the Bregghan Mini Grocery Store project will be to ensure that all costs are identified and monitored throughout the project lifecycle. This will be done by tracking all costs associated with the project and comparing them against the project budget. Any deviations from the budget will be analyzed, and corrective action will be taken to keep costs within the approved budget.
+
+**ROLES AND RESPONSIBILITIES**
+The following individuals will be responsible for managing costs on the Bregghan Mini Grocery Store project:
+
+1. Project Manager - Responsible for overseeing the project budget and ensuring that costs are managed in accordance with the approved budget.
+2. Accounting Department - Responsible for recording all project costs and ensuring that they are allocated correctly.
+3. Project Team - Responsible for providing accurate and timely cost data
 ***
 ## 9. Schedule Management Plan
 
