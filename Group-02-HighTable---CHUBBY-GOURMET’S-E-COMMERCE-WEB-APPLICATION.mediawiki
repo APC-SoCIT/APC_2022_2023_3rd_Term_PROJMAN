@@ -910,11 +910,14 @@ The project sponsor will review and approve scope changes based on the establish
 <p>The hierarchical structure is an effective way to represent the Work Breakdown Structure (WBS) for the Chubby Gourmet project. It shows the breakdown of the project into smaller, manageable parts, with each level representing a more detailed and specific set of activities. This structure allows for a clear understanding of the dependencies between different tasks and deliverables and enables the project team to track progress and identify any potential issues at an early stage.</p>
 
 <table width="780" border="1" align="center">
+<thead>
 	<tr>
 		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
 		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
 		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
 	</tr>
+</thead>
+<tbody>
         <tr>
 		<td width="141"><p>1</p></td>
 		<td width="64"><p>1</p></td>
@@ -1920,6 +1923,7 @@ The project sponsor will review and approve scope changes based on the establish
     <td width="64"><p>1.5.2.7</p></td>
     <td width="228"><p>Week 14: Go Live</p></td>
   </tr>
+</tbody>
 </table>
 <br>
 
@@ -1990,6 +1994,8 @@ The project sponsor will review and approve scope changes based on the establish
 		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
 		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
 		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Definition</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Estimated Duration</p></td>
 	</tr>
 </thead>
 <tbody>
