@@ -1980,6 +1980,1023 @@ The project sponsor will review and approve scope changes based on the establish
 <p>The Tree Structure view provides an intuitive and easy-to-understand visual representation of the project's hierarchical structure, showing how each element contributes to the project as a whole.</p>
 <br>
 <img src="https://drive.google.com/uc?id=1ReVuQwpS9KFwHKGBcPMoNzhFWwz5HAXL">
+<br>
+
+==WBS Dictionary==
+<p>The Work Breakdown Structure (WBS) Dictionary is a companion document to the WBS that provides a comprehensive list of all the tasks, sub-tasks, and work packages included in the project. The WBS Dictionary contains important information such as the description of each work package and the estimated duration. It serves as a reference guide for the project team, ensuring that everyone is on the same page regarding the project's scope and objectives. A well-developed WBS Dictionary is essential for project management and helps to ensure that the project stays on track and is completed within the schedule.</p>
+<table width="780" border="1" align="center">
+	<tr>
+		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
+		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>1</p></td>
+		<td width="64"><p>1</p></td>
+		<td width="228"><p>Chubby Gourmet Web Application </p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.1</p></td>
+		<td width="228"><p>Planning </p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.1</p></td>
+		<td width="228"><p>Project Preparation </p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.1.1</p></td>
+		<td width="228"><p>Creation of project group</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.1.2</p></td>
+		<td width="228"><p>Choose project/client</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.1.3</p></td>
+		<td width="228"><p>Choose adviser/consultant</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.1.4</p></td>
+		<td width="228"><p>Design Thinking 1</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.2</p></td>
+		<td width="228"><p>Team Meetings</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.1</p></td>
+		<td width="228"><p>Client meeting 1</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.2</p></td>
+		<td width="228"><p>Adviser meeting 1</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.3</p></td>
+		<td width="228"><p>Client meeting 2</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.4</p></td>
+		<td width="228"><p>Adviser meeting 2</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.1.2.5</p></td>
+		<td width="228"><p>Adviser meeting 3</p></td>
+	</tr>
+<tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.2.6</p></td>
+    <td width="228"><p>Client meeting 3</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.2.7</p></td>
+    <td width="228"><p>Adviser meeting 4</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.2.8</p></td>
+    <td width="228"><p>Adviser meeting 5</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.2.9</p></td>
+    <td width="228"><p>Adviser meeting 6</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.1.3</p></td>
+    <td width="228"><p>Midterm Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.3.1</p></td>
+    <td width="228"><p>Project paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.3.1.1</p></td>
+    <td width="228"><p>Chap 1 Introduction</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.3.1.2</p></td>
+    <td width="228"><p>Chap 2 RRL/RRS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.3.1.3</p></td>
+    <td width="228"><p>Chap 3 Methodology</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.3.1.4</p></td>
+    <td width="228"><p>Chap 4 Results and Discussions</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.3.1.5</p></td>
+    <td width="228"><p>Chap 5 Conclusion</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.3.2</p></td>
+    <td width="228"><p>Powerpoint Deck</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.3.3</p></td>
+    <td width="228"><p>Midterm Presentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.3.4</p></td>
+    <td width="228"><p>Comments matrix</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.3.5</p></td>
+    <td width="228"><p>Revised Midterm paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.1.4</p></td>
+    <td width="228"><p>Prototype</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.4.1</p></td>
+    <td width="228"><p>Initial Low-Fidelity Prototype</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.1.5</p></td>
+    <td width="228"><p>Final Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.5.1</p></td>
+    <td width="228"><p>Project paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.5.1.1</p></td>
+    <td width="228"><p>Chap 1 Introduction</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.5.1.2</p></td>
+    <td width="228"><p>Chap 2 RRL/RRS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.5.1.3</p></td>
+    <td width="228"><p>Chap 3 Methodology</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.5.1.4</p></td>
+    <td width="228"><p>Chap 4 Results and Discussions</p></td>
+  </tr>
+<tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.1.5.1.5</p></td>
+    <td width="228"><p>Chap 5 Conclusion</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.5.2</p></td>
+    <td width="228"><p>Teaser Video</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.5.3</p></td>
+    <td width="228"><p>Powerpoint Deck</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.5.4</p></td>
+    <td width="228"><p>Final Presentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.5.5</p></td>
+    <td width="228"><p>Comments matrix</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.1.5.6</p></td>
+    <td width="228"><p>Revised Final paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>1.2</p></td>
+    <td width="228"><p>Analysis and Design</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.2.1</p></td>
+    <td width="228"><p>Initial Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.1.1</p></td>
+    <td width="228"><p>Submission of MNTSDEV Documents</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.1.2</p></td>
+    <td width="228"><p>Creation of Github Repository</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.1.3</p></td>
+    <td width="228"><p>Choose Adviser/Consultant</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.2.2</p></td>
+    <td width="228"><p>Team Meetings</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.2.1</p></td>
+    <td width="228"><p>Client meeting 1</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>4</p></td>
+    <td width="64"><p>1.2.2.2</p></td>
+    <td width="228"><p>Adviser meeting 1</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>4</p></td>
+    <td width="64"><p>1.2.2.3</p></td>
+    <td width="228"><p>Client meeting 2</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>4</p></td>
+    <td width="64"><p>1.2.2.4</p></td>
+    <td width="228"><p>Adviser meeting 2</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>4</p></td>
+    <td width="64"><p>1.2.2.5</p></td>
+    <td width="228"><p>Panelists meeting 1</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>4</p></td>
+    <td width="64"><p>1.2.2.6</p></td>
+    <td width="228"><p>Adviser meeting 3</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>4</p></td>
+    <td width="64"><p>1.2.2.7</p></td>
+    <td width="228"><p>Adviser meeting 4</p></td>
+  </tr>
+  <tr>
+    <td width="3"><p>3</p></td>
+    <td width="64"><p>1.2.3</p></td>
+    <td width="228"><p>Midterm Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>4</p></td>
+    <td width="64"><p>1.2.3.1</p></td>
+    <td width="228"><p>Diagrams</p></td>
+  </tr>
+  <tr>
+    <td width="5"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.1</p></td>
+    <td width="228"><p>MVC</p></td>
+  </tr>
+  <tr>
+    <td width="5"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.2</p></td>
+    <td width="228"><p>Event Table</p></td>
+  </tr>
+  <tr>
+    <td width="5"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.3</p></td>
+    <td width="228"><p>Use Case Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="5"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.4</p></td>
+    <td width="228"><p>Use Case Full Description</p></td>
+  </tr>
+<tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.5</p></td>
+    <td width="228"><p>DFD</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.6</p></td>
+    <td width="228"><p>CFD</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.7</p></td>
+    <td width="228"><p>ERD</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.8</p></td>
+    <td width="228"><p>Activity Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.9</p></td>
+    <td width="228"><p>Object Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.1.10</p></td>
+    <td width="228"><p>Class Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.3.2</p></td>
+    <td width="228"><p>Project paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.1</p></td>
+    <td width="228"><p>Chap 1 Introduction</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.2</p></td>
+    <td width="228"><p>Chap 2 RRL/RRS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.3</p></td>
+    <td width="228"><p>Chap 3 Technical Background</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.4</p></td>
+    <td width="228"><p>Chap 4 Methodology</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.5</p></td>
+    <td width="228"><p>Chap 5 Results and Discussions</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.3.2.6</p></td>
+    <td width="228"><p>Chap 6 Conclusion</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.3.3</p></td>
+    <td width="228"><p>Updated Teaser Video</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.3.4</p></td>
+    <td width="228"><p>Powerpoint Deck</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.3.5</p></td>
+    <td width="228"><p>Midterm Presentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.3.6</p></td>
+    <td width="228"><p>Midterm Rubric</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.3.7</p></td>
+    <td width="228"><p>Comments matrix</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.3.8</p></td>
+    <td width="228"><p>Revised Midterm paper</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="80"><p>1.2.4</p></td>
+    <td width="200"><p>Final Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="80"><p>1.2.4.1</p></td>
+    <td width="200"><p>Diagrams</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.1</p></td>
+    <td width="200"><p>Sequence Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.2</p></td>
+    <td width="200"><p>State Machine Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.3</p></td>
+    <td width="200"><p>Package Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.4</p></td>
+    <td width="200"><p>Component Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.5</p></td>
+    <td width="200"><p>Deployment Diagram</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.1.6</p></td>
+    <td width="200"><p>Data Dictionary</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="80"><p>1.2.4.2</p></td>
+    <td width="200"><p>Prototype</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.2.1</p></td>
+    <td width="200"><p>Updated Low-Fidelity Prototype</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="80"><p>1.2.4.3</p></td>
+    <td width="200"><p>Project paper</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>5</p></td>
+    <td width="80"><p>1.2.4.3.1</p></td>
+    <td width="200"><p>Chap 1 Introduction</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.4.3.2</p></td>
+    <td width="228"><p>Chap 2 RRL/RRS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.4.3.3</p></td>
+    <td width="228"><p>Chap 3 Technical Background</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.4.3.4</p></td>
+    <td width="228"><p>Chap 4 Methodology</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.4.3.5</p></td>
+    <td width="228"><p>Chap 5 Results and Discussions</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.2.4.3.6</p></td>
+    <td width="228"><p>Chap 6 Conclusion</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.4.4</p></td>
+    <td width="228"><p>Updated Teaser Video</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.4.5</p></td>
+    <td width="228"><p>Powerpoint Deck</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.4.6</p></td>
+    <td width="228"><p>Final Presentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.4.7</p></td>
+    <td width="228"><p>Final Rubric</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.4.8</p></td>
+    <td width="228"><p>Comments matrix</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.2.4.9</p></td>
+    <td width="228"><p>Revised Final paper</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>2</p></td>
+    <td width="50"><p>1.3</p></td>
+    <td width="150"><p>Development</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="50"><p>1.3.1</p></td>
+    <td width="150"><p>Initial Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="50"><p>1.3.1.1</p></td>
+    <td width="150"><p>Submission of MSSYADD1 Documents</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="50"><p>1.3.1.1</p></td>
+    <td width="150"><p>Choose Adviser/Consultant</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="50"><p>1.3.2</p></td>
+    <td width="150"><p>Team Meetings</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="50"><p>1.3.2.1</p></td>
+    <td width="150"><p>Client Meeting 1</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="50"><p>1.3.2.2</p></td>
+    <td width="150"><p>Client Meeting 2</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="50"><p>1.3.2.3</p></td>
+    <td width="150"><p>Adviser Meeting 1</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="50"><p>1.3.3</p></td>
+    <td width="150"><p>Releases</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="50"><p>1.3.3.1</p></td>
+    <td width="150"><p>Release 1</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>4</p></td>
+    <td width="50"><p>1.3.3.2</p></td>
+    <td width="150"><p>Release 2</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.3.4</p></td>
+    <td width="228"><p>Midterm Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.4.1</p></td>
+    <td width="228"><p>Project paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.1.1</p></td>
+    <td width="228"><p>Chap 1 Introduction</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.1.2</p></td>
+    <td width="228"><p>Chap 2 RRL/RRS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.1.3</p></td>
+    <td width="228"><p>Chap 3 Technical Background</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.1.4</p></td>
+    <td width="228"><p>Chap 4 Methodology</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.1.5</p></td>
+    <td width="228"><p>Chap 5 Results and Discussions</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.1.6</p></td>
+    <td width="228"><p>Chap 6 Conclusion</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.4.2</p></td>
+    <td width="228"><p>Updated Teaser Video</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.4.3</p></td>
+    <td width="228"><p>Powerpoint Deck</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.4.4</p></td>
+    <td width="228"><p>Midterm Presentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.4.5</p></td>
+    <td width="228"><p>Midterm Rubric</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.4.6</p></td>
+    <td width="228"><p>Improvement matrix</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.4.7</p></td>
+    <td width="228"><p>Revised Midterm paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.4.8</p></td>
+    <td width="228"><p>MCSPROJ Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.8.1</p></td>
+    <td width="228"><p>Vision and Scope Documentations</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.8.2</p></td>
+    <td width="228"><p>Gantt Chart</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.8.3</p></td>
+    <td width="228"><p>WBS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.8.4</p></td>
+    <td width="228"><p>Activity List</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.8.5</p></td>
+    <td width="228"><p>Project Charter</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.4.8.6</p></td>
+    <td width="228"><p>Statement of Work</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.3.5</p></td>
+    <td width="228"><p>Final Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.5.1</p></td>
+    <td width="228"><p>Project paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.1.1</p></td>
+    <td width="228"><p>Chap 1 Introduction</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.1.2</p></td>
+    <td width="228"><p>Chap 2 RRL/RRS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.1.3</p></td>
+    <td width="228"><p>Chap 3 Technical Background</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.1.4</p></td>
+    <td width="228"><p>Chap 4 Methodology</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.1.5</p></td>
+    <td width="228"><p>Chap 5 Results and Discussions</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.1.6</p></td>
+    <td width="228"><p>Chap 6 Conclusion</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.5.2</p></td>
+    <td width="228"><p>Updated Teaser Video</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.5.3</p></td>
+    <td width="228"><p>Powerpoint Deck</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.5.4</p></td>
+    <td width="228"><p>Final Presentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.5.5</p></td>
+    <td width="228"><p>Final Rubric</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.5.6</p></td>
+    <td width="228"><p>Improvement matrix</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.5.7</p></td>
+    <td width="228"><p>Revised Final paper</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.3.5.8</p></td>
+    <td width="228"><p>MCSPROJ Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.8.1</p></td>
+    <td width="228"><p>Quality Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.8.2</p></td>
+    <td width="228"><p>Change Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.8.3</p></td>
+    <td width="228"><p>Contingency Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.8.4</p></td>
+    <td width="228"><p>User Project Review</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.8.5</p></td>
+    <td width="228"><p>SRS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.8.6</p></td>
+    <td width="228"><p>Test Case</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.8.7</p></td>
+    <td width="228"><p>Project Sway</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>5</p></td>
+    <td width="64"><p>1.3.5.8.8</p></td>
+    <td width="228"><p>Proofread Request</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>1.4</p></td>
+    <td width="228"><p>Documentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.4.1</p></td>
+    <td width="228"><p>Midterm Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.1.1</p></td>
+    <td width="228"><p>Business Case</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.1.2</p></td>
+    <td width="228"><p>Project Charter</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.1.3</p></td>
+    <td width="228"><p>Stakeholders Management Strategy Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.1.4</p></td>
+    <td width="228"><p>Scope Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.1.5</p></td>
+    <td width="228"><p>Cost Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.1.6</p></td>
+    <td width="228"><p>Time Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.1.7</p></td>
+    <td width="228"><p>WBS</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.1.8</p></td>
+    <td width="228"><p>Work Packages</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.4.2</p></td>
+    <td width="228"><p>Final Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.1</p></td>
+    <td width="228"><p>Human Resource Management Processes</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.2</p></td>
+    <td width="228"><p>Quality Management Processes</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.3</p></td>
+    <td width="228"><p>Risk Management Processes</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.4</p></td>
+    <td width="228"><p>Communications Management Processes</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.5</p></td>
+    <td width="228"><p>Procurement Management Processes</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.6</p></td>
+    <td width="228"><p>Project Status Reports Distribution plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.7</p></td>
+    <td width="228"><p>Change Request Documentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.8</p></td>
+    <td width="228"><p>Project Execution Monitoring Report</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.9</p></td>
+    <td width="228"><p>Implementation Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.10</p></td>
+    <td width="228"><p>Change Management plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.11</p></td>
+    <td width="228"><p>Project Status Reports</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.12</p></td>
+    <td width="228"><p>Transition-Out Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.13</p></td>
+    <td width="228"><p>Project Turn Over Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.14</p></td>
+    <td width="228"><p>Post Project Review Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.4.2.15</p></td>
+    <td width="228"><p>Consolidated Project Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>1.5</p></td>
+    <td width="228"><p>Development II</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.5.1</p></td>
+    <td width="228"><p>Midterm Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.1.1</p></td>
+    <td width="228"><p>Week 1: Planning</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.1.2</p></td>
+    <td width="228"><p>Week 2: Analysis and User Requirements</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.1.3</p></td>
+    <td width="228"><p>Week 3: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.1.4</p></td>
+    <td width="228"><p>Week 4: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.1.5</p></td>
+    <td width="228"><p>Week 5: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.1.6</p></td>
+    <td width="228"><p>Week 6: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.1.7</p></td>
+    <td width="228"><p>Week 7: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.5.2</p></td>
+    <td width="228"><p>Final Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.2.1</p></td>
+    <td width="228"><p>Week 8: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.2.2</p></td>
+    <td width="228"><p>Week 9: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.2.3</p></td>
+    <td width="228"><p>Week 10: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.2.4</p></td>
+    <td width="228"><p>Week 11: System Design - Back-end</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.2.5</p></td>
+    <td width="228"><p>Week 12: Testing</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.2.6</p></td>
+    <td width="228"><p>Week 13: Testing</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>4</p></td>
+    <td width="64"><p>1.5.2.7</p></td>
+    <td width="228"><p>Week 14: Go Live</p></td>
+  </tr>
+</table>
+<br>
 
 
 =Work Packages=
