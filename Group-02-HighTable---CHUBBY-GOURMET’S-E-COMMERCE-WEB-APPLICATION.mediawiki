@@ -1947,8 +1947,8 @@ The project sponsor will review and approve scope changes based on the establish
     <tr>
       <td>1.2  Analysis and Design</td>
       <td>1.2.1 Initial Deliverables<br>1.2.2 Team Meetings<br>1.2.3 Midterm Deliverables<br>1.2.4 Final Deliverables</td>
-      <td></td>
-      <td></td>
+      <td>1.2.1.1 Submission of MNTSDEV Documents<br>1.2.1.2 Creation of Github Repository<br>1.2.1.3 Choose Adviser/Consultant<br>1.2.2.1 Client meeting 1<br>1.2.2.2 Adviser meeting 1<br>1.2.2.3 Client meeting 2<br>1.2.2.4 Adviser meeting 2<br>1.2.2.5 Panelists meeting 1<br>1.2.2.6 Adviser meeting 3<br>1.2.2.7 Adviser meeting 4<br>1.2.3.1 Diagrams<br>1.2.3.2 Project paper<br>1.2.3.3 Updated Teaser Video<br>1.2.3.4 Powerpoint Deck<br>1.2.3.5 Midterm Presentation<br>1.2.3.6 Midterm Rubric<br>1.2.3.7 Comments matrix<br>1.2.3.8 Revised Midterm paper<br>1.2.4.1 Diagrams<br>1.2.4.2 Prototype<br>1.2.4.3 Project paper<br>1.2.4.4 Updated Teaser Video<br>1.2.4.5 Powerpoint Deck<br>1.2.4.6 Final Presentation<br>1.2.4.7 Final Rubric<br>1.2.4.8 Comments matrix<br>1.2.4.9 Revised Final paper</td>
+      <td>1.2.3.1.1 MVC<br>1.2.3.1.2 Event Table<br>1.2.3.1.3 Use Case Diagram<br>1.2.3.1.4 Use Case Full Description<br>1.2.3.1.5 DFD<br>1.2.3.1.6 CFD<br>1.2.3.1.7 ERD<br>1.2.3.1.8 Activity Diagram<br>1.2.3.1.9 Object Diagram<br>1.2.3.1.10 Class Diagram<br>1.2.3.2.1 Chap 1 Introduction<br>1.2.3.2.2 Chap 2 RRL/RRS<br>1.2.3.2.3 Chap 3 Technical Background<br>1.2.3.2.4 Chap 4 Methodology<br>1.2.3.2.5 Chap 5 Results and Discussions<br>1.2.3.2.6 Chap 6 Conclusion<br>1.2.4.1.1 Sequence Diagram<br>1.2.4.1.2 State Machine Diagram<br>1.2.4.1.3 Package Diagram<br>1.2.4.1.4 Component Diagram<br>1.2.4.1.5 Deployment Diagram<br>1.2.4.1.6 Data Dictionary<br>1.2.4.2.1 Updated Low-Fidelity Prototype<br>1.2.4.3.1 Chap 1 Introduction<br>1.2.4.3.2 Chap 2 RRL/RRS<br>1.2.4.3.3 Chap 3 Technical Background<br>1.2.4.3.4 Chap 4 Methodology<br>1.2.4.3.5 Chap 5 Results and Discussions<br>1.2.4.3.6 Chap 6 Conclusion</td>
     </tr>
 
   </tbody>
