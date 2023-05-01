@@ -1926,13 +1926,13 @@ The project sponsor will review and approve scope changes based on the establish
 ==Tabular View==
 <p>The tabular view of the Work Breakdown Structure (WBS) for Chubby Gourmet presents a clear and organized overview of the project by displaying all tasks and subtasks in a table format.</p>
 <table>
-  <tr>
+  <th>
     <td width="120"><p>Level 1</p></td>
     <td width="120"><p>Level 2</p></td>
     <td width="120"><p>Level 3</p></td>
     <td width="120"><p>Level 4</p></td>
     <td width="120"><p>Level 5</p></td>
-  </tr>
+  </th>
   <tr>
     <td rowspan="200"><p>1. Chubby Gourmet Web Application</p></td>
     <td rowspan="25"><p>1.1 Planning</p></td>
