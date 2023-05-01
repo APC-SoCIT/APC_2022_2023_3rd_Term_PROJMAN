@@ -554,7 +554,6 @@ The project sponsor will review and approve scope changes based on the establish
 
 ==Outline View==
 <p>The outline view for the work breakdown structure (WBS) of Chubby Gourmet provides a straightforward and clear layout that is easy to understand. This layout is particularly useful during the development phase of the project as it enables the project team to make changes quickly and efficiently. The outline view displays the hierarchical structure of the WBS, which allows the project team to easily see the various levels of the project and how they relate to one another. With this view, the team can easily identify the major deliverables of the project and the sub-deliverables that contribute to the completion of each major deliverable. This helps ensure that the project team stays on track and is able to complete the project within the established timeline.</p>
-<br>
 
 <ul>1. Chubby Gourmet Web Application 
 <ul>1.1 Planning 
@@ -562,9 +561,21 @@ The project sponsor will review and approve scope changes based on the establish
 <ul>1.1.1 Project Preparation
 <ul>
 <ul>1.1.1.1 Creation of project group</ul>
-<ul>1.1.1.2 Choose project/client </ul>
+<ul>1.1.1.2 Choose project/client</ul>
 <ul>1.1.1.3 Choose adviser/consultant</ul>
-<ul>1.1.1.4 Design Thinking 1 </ul>
+<ul>1.1.1.4 Design Thinking 1</ul>
+</ul>
+<ul>1.1.2 Team Meetings
+<ul>1.1.2.1 Client meeting 1</ul>
+<ul>1.1.2.2 Adviser meeting 1</ul>
+<ul>1.1.2.3 Client meeting 2</ul>
+<ul>1.1.2.4 Adviser meeting 2</ul>
+<ul>1.1.2.5 Adviser meeting 3</ul>
+<ul>1.1.2.6 Client meeting 3</ul>
+<ul>1.1.2.7 Adviser meeting 4</ul>
+<ul>1.1.2.8 Adviser meeting 5</ul>
+<ul>1.1.2.9 Adviser meeting 6</ul>
+</ul>
 </ul>
 </ul>
 </ul>
