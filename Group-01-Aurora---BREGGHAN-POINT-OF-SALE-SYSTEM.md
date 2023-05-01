@@ -416,7 +416,7 @@ The stakeholder that the project has is Ms. Devilyn Ligligen. She is the client 
 The Cost Management Plan is developed to ensure effective management of project costs throughout the project's lifecycle. It outlines the procedures and guidelines for measuring, reporting, and controlling costs associated with the Bregghan Mini Grocery Store project. The purpose of this plan is to identify the cost management approach, roles and responsibilities, and procedures for managing costs in a consistent and effective manner.
 
 ***
-## Cost Management Approach
+## 8.1 Cost Management Approach
 The cost management approach for the Bregghan Mini Grocery Store project will be to ensure that all costs are identified and monitored throughout the project lifecycle. This will be done by tracking all costs associated with the project and comparing them against the project budget. Any deviations from the budget will be analyzed, and corrective action will be taken to keep costs within the approved budget.
 
 **ROLES AND RESPONSIBILITIES:**
@@ -428,7 +428,7 @@ The following individuals will be responsible for managing costs on the Bregghan
 3. Project Team - Responsible for providing accurate and timely cost data
 
 ***
-### Measuring Project Costs
+### 8.2 Measuring Project Costs
 In this section, the method for measuring the project's costs is outlined. The PMBOK places emphasis on the use of Earned Value Management as a tool for measuring and managing project costs. Given the comprehensive nature of Earned Value Management, it is suggested that project managers undergo formal training in this area.
 
 The project team intends to assess the project's schedule performance by computing the Schedule Variance (SV) through subtracting the Planned Value (PV) from the Earned Value (EV). The Earned Value refers to the actual value obtained in the project, while the PV pertains to the value anticipated in the project plan for the current point. By taking into account the deviation between the planned and actual value, the project team can determine if the project is on schedule, ahead of schedule, or behind schedule, according to the baseline schedule in the project plan.
@@ -440,21 +440,21 @@ Thea team will use Schedule Performance Index (SPI) to evaluate the actual progr
 The team will use Cost Performance Index (CPI) to compare the value of the work completed to the actual cost of that work. The formula for CPI is EV/AC, where EV represents the actual value earned in the project and AC represents the actual costs incurred to date. If the CPI equals 1, the project is on budget. If the CPI is greater than 1, the project is under budget, and if the CPI is less than 1, the project is over budget.
 
 ***
-Reporting Format
+### 8.3 Reporting Format
 
 Reporting for cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report.
 
 ***
-Cost Variance Response Process
+### 8.4 Cost Variance Response Process
 
 The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions.
 
 ***
-Cost Change Control Process
+### 8.5 Cost Change Control Process
 
 The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor.
 ***
-### Project Budget
+### 8.6 Project Budget
 The budget for this project is detailed below.  Costs for this project are presented in various categories:
 
 <html>
