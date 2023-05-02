@@ -142,19 +142,39 @@ The recommended project will have to be transform from manual data and processes
 
 <h2>Problem Statement</h2>
 
-<p>lorem</p>
+<p>The proponents discovered the Discipline Office’s (DO) pain points by utilizing the Problem Pyramid tool. Due to the tedious processes and excessively manual methods used in the Discipline Office, productivity and efficiency are compromised. On the other hand, out-of-date student records add to the office's challenges by delaying a prospective appointment with the individual in question. According to the disciplinary officer's insights, he performs 100% of the duty alone, resulting in the specific job consuming so much of his time and decreasing office efficiency. These constraints and difficulties might have an adverse effect on the officer in charge and the quality and quantity of work accomplished. Thus, the proponents acknowledge that implementing a student management system focusing on the DO's reporting system is critical to developing a more digitalized, efficient, and sustainable method of keeping up with the DO's daily operations.</p>
 
 <h2>Organizational Impact</h2>
 
-<p>lorem</p>
+<p>The Rams Violation Management System (RVMS) will impact Asia Pacific College in several ways.  The following provides a high-level explanation of how the organization, tools, processes, and roles and responsibilities will be affected because of the RVMS implementation:
+
+•	Tools: the existing tools for reporting violations and narrative reports will be phased out during the RVMS implementation. This will require training on how to use the RVMS tools, or at the very least orientation on how to use RVMS to report violations and narrative reports, and an explanation of how RVMS complements existing organizational tools.
+•	Processes: rather than requiring a lengthy and time-consuming communication process, the core design enables those teams to collaborate when necessary. This facilitates the efficient communication of messages, the more precise completion of specific tasks, and the advancement of the vision, mission, or goals established. The truly innovative part of the project lies in the integration of automated insights and analytics that will assist the Disciplinary Officer in determining what key parameters should always be kept in check such the following:
+o	Violation Count of all students
+o	Minor Offense Count
+o	Major Offense Count
+o	Most committed violations
+The parameters listed above will be automatically shown to the Disciplinary Officer making it easier for him to monitor students who need to be carefully observed. This project will greatly improve the way the disciplinary office will operate and will greatly improve its processes.
+•	Roles and Responsibilities: aside from reducing time-consuming and tedious processes and increasing office efficiency, the RVMS can also provide high-cost returns by freeing employees to perform more valuable tasks. This ensures that the organization's human resources are used efficiently, increasing overall productivity.
+•	Hardware/Software: along with the software and licensing required for the project, the organization will need to purchase additional servers to support the platform and its anticipated growth over the succeeding years.
+</p>
+
 <h2>Technology Migration</h2>
-<p>lorem</p>
+<p>To effectively create RVMS, a phased approach has been developed which will result in minimal/no disruption to day-to-day operations, administration, and payroll activities.  The following is a high-level overview of the phased approach for the development which is under the Design phase in the Work Breakdown Structure (WBS):
+
+Phase I: A prototype of the RVMS website will be created to easily visualize what the system will look like.
+Phase II: A working web application will be developed with basic functionalities wherein all new features for RVMS will be added.
+Phase III: A termly student record update will be implemented in the system which will enable the disciplinary officer to have an accurate record that they can utilize to accomplish their objectives faster and more efficiently.
+Phase IV:  A digital narrative report centralized system will be added in the system which will enable the Disciplinary Officer to investigate the document quickly and store the details of each case within a database, which will improve his efficiency and help the disciplinary officer deal with any accreditation purposes.
+Phase V: A new digital blue slip will be implemented for violators to speed up the process of exchanging slips from the guards to the disciplinary officer.
+</p>
+
 <h2>Project Overview</h2>
-<p>lorem</p>
+<p></p>
 
 <h2>Goals and Objectives</h2>
 
-<p>lorem</p>
+<p></p>
 
 <h2>Risks</h2>
 <table width="795" border="1" width="70%" align="center">
