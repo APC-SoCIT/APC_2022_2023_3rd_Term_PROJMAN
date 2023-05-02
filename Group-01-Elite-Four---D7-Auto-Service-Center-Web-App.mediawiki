@@ -289,24 +289,75 @@ The alternatives analysis was focused on providing an alternative solution for t
 
 =5. PROJECT CHARTER=
 ==5.1 Executive Summary==
-
+D7 has always done business in the automotive industry utilizing traditional logbooks and perform face-to-face transactions for over 16 years. Over these years, the business recently acquired an online platform, (Facebook) because of the pandemic, however, they struggled with its online presence, statistics, and the lack of functionality in their present system, including their reservation system. To solve these issues, the D7 Auto Service Center Web-App project was developed by the Elite Four of BSIT-MI 201. The project will offer improved technological solutions by introducing a new platform, giving the company greater flexibility to display their services and offers, comprehensive statistics, and a new reservation system. 
 ==5.2 Project Purpose/Justification==
 ===5.2.1 Business Need/Case===
+The D7 Auto Service Center Web-App was developed to help D7 have an additional platform, which aims to have a more user-friendly interface, allowing clients to access the company's services and offers more easily. 
 ===5.2.2 Business Objectives===
+The business objective for the subject is listed below: 
 
+* Achieve a 50% increase in customer reach within the first three months of launching the web-app by utilizing an additional online platform. 
+
+* Implement a centralized booking system for D7 to manage customer bookings and enable customers to request reservations 24/7. 
+
+* Enhance the Auto Service Center's customer support by creating a platform where both customers and D7 specialists can communicate and interact. 
 ==5.3 Project Description==
+The D7 Auto Service Center Web-App will allow the company to have more control of marketing their business and laying out their new platform. This project will utilize today’s technology in the form of a web application, integrated with features such as a reservation system, statistics, and of course, security. All the company’s current system will not be terminated, but will be improved, and merged with the new platform. 
+
 ===5.3.1 Project Objectives and Success Criteria===
+* To increase customer reach by up to 50% within the first three months of deployment of the web-app by leveraging an additional online platform.    
+
+* To develop a centralized system for D7 to manage the bookings of their customers and allow their customers to request reservations 24/7.   
+
+* To extend the Auto Service Center’s support for their customers, as well as potential customers, through an environment where both customers and D7 specialists can converse.   
+
+The success of this project, and its criteria will be determined under the completion of 	features being implemented, to be of completion, and fully working throughout the 	usage of the platform.  
 ===5.3.2 Requirements===
+For this project to succeed, it must adhere to the set of conditions below:  
+
+* The D7 Auto Service Center Web-App should be tested by the assigned team prior to deployment. 
+
+* The project must be implemented without interfering with the usual business operations of the company. 
+
+As the project advances, further specifications may be introduced as needed with the client authorization. 
+
+Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward. 
+
 ===5.3.3 Constraints===
+The following constraints pertain to the D7 Auto Service Center Web-App: • Each piece of security gear and software must work with our present IT (Information Technology) platforms. 
+
+* The budget and timetable for the procurement of all hardware and software must be followed.  
+
+* An assigned team will handle all the grounds of development for the web-app 
 ===5.3.4 Assumptions===
+The presumptions are as follows. All parties recognize that the following assumptions are 	true and accurate upon consent and signature at the end of this document.  
+
+* The client, stakeholders, and the team fully support this initiative. 
+
+* Prior to deployment, the company will be made aware of the project’s goal. 
 ===5.3.5 Preliminary Scope Statement===
-
+The D7 Auto Service Center Web-App will include the design, creation, testing, and delivery of the new platform for the business. The project team will manage all hardware, software, and clients. All the development process will be carried out in a manner that is separate from regular business activities, and all testing will be done in the work area only. The project manager will oversee all project funding up to and including the funds allotted in this agreement. The project sponsor must consent before receiving any further funding. 
 ==5.4 Risks==
-==5.5 Project Deliverables==
-==5.6 Summary Milestones Schedule==
-==5.7 Project Approval Requirements==
-==5.8 Project Manager==
+The risks that were identified for the D7 Auto Service Center were identified. Rest assured that the Elite Four team will determine workable solutions for the identified risks that the project poses: 
 
+* Data breach through the database of the D7 web-app.  
+
+* Bugs within the web-app that may cause system down-time and delays in the online reservation. 
+==5.5 Project Deliverables==
+The following deliverables must be met upon the successful completion of the D7 Auto Service Center Web-app. Any changes to these deliverables must be approved by the project sponsor: 
+
+* Fully deployed web-app  
+
+* Technical documentation for the solution  
+
+* Recommendation list for future upgrades/enhancements for the solution 
+==5.6 Summary Milestones Schedule==
+The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. 
+
+==5.7 Project Approval Requirements==
+Success for the D7 Auto Service Center Web-app project will be achieved when a fully tested web-app, and all technical documentation, is fully deployed throughout the company within the time and cost constraints indicated in this charter. Additionally, this measure of success must include a recommendation list for future recommendations for upgrades/enhancements, as we approach this solution to also be secured to prevent/minimize future threats. Success will be determined by the Project Sponsor, Ms. Anne Sydney Simpelo, who will also authorize project completion. 
+==5.8 Project Manager==
+Andre O. Viernes is assigned Project Manager for the D7 Auto Service Center Project. Mr. Viernes’s responsibility is to manage all project tasks, scheduling, and communication regarding the D7 Auto Service Center project. His team consists of two developers, one product owner, and one product stakeholder from BSIT-MI 201. Mr. Viernes will coordinate all resource requirements through the subject course adviser, Prof. Manuel Sebastian Sanchez. 
 
 =6. STAKEHOLDER STRATEGY MANAGEMENT PLAN=
 ==6.1 Introduction==
