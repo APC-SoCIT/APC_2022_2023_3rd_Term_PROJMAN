@@ -3805,39 +3805,16 @@ https://image.ibb.co/nDAfjp/Capture.png</center>
 		</tr>
 </table>
 <h2>Glossary of Terms </h2>
-<p><strong>Scrum</strong> – is a process encourages practitioners to work with what they have and continually evaluate what is working and what is not working. Communication, which is an important part of the process, is carried out through meetings, called Events. Sprint Planning Meeting - a sprint refers to the time frame in which work must be completed, and it's often 30 days. Everyone participates in setting the goals, and at the end, at least one increment -- a usable piece of software -- should be produced.</p>
-<p><strong>Sprint Review</strong> - this is the time to show off the increment. Sprint Retrospective - is a meeting that's held after a Sprint ends. During this meeting, everyone reflects on the Sprint process. A team-building exercise may also be offered. An important goal of a Sprint Retrospective is continuous improvement.</p>
-<p><strong>Sprint backlog</strong> - is a list of tasks that must be completed before selected product backlog items can be delivered. These are divided in to time-based user stories.</p>
-<p><strong>Product increment</strong> - refers to what's been accomplished during a Sprint -- all the product backlog items as well as what's been created during all previous Sprints. The product increment reflects how much progress has been made.</p>
-<p><strong>Cloud integration</strong> - is the process of configuring multiple application programs to share data in the cloud. In a network that incorporates cloud integration, diverse applications communicate either directly or through third-party software.</p>
-<p><strong>Risk management</strong> - is the process of identifying, assessing and controlling threats to an organization's capital and earnings.</p>
-<p><strong>Project Charter</strong> - is a formal, typically short document that describes your project in its entirety including what the objectives are, how it will be carried out, and who the stakeholders are.</p>
-<p>Level of Effort:       Level of Effort (LOE) is how much work is required to complete a task.</p>
-<p>WBS Code:              A unique identifier assigned to each element in a Work Breakdown Structure for designating the elements hierarchical location within the WBS.</p>
-<p>Work Package:         A Work Package is a deliverable or work component at the lowest level of its WBS branch.</p>
-<p>WBS Component:    A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
-<p>WBS Element:         A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
+
 
 =Procurement Management Plan=
 
 <h2>Introduction</h2>
-<p>
-	The procurement Management plan sets the plans for obtaining requirements for the development to closure. It will serve as a guide for managing obtaining requirements in the JIT Project and will updated if there are any changes in the plan that involves acquisition of requirements. This plan identifies the related technologies to be obtain as listed in the requirements as well as the justification why would it require and when should the technologies should be obtained. This plan also identifies the type of contract to be used, risk associated with procurement management, of course, includes a mitigation plan, determining the cost the procured technologies and how are the JIT Project are going to used it, how multiple suppliers will be managed, contract approval process, decision criteria. This plan would layout how critical procurement and contracts are coordinated with the JIT&rsquo;s Project scope, budget, and schedule or any constraints relevant to procurement, and performance metrics for the procurement activities. This also includes the identification of the sellers.
-</p>
+
 <h2>Procurement Management Approach</h2>
-<p>
-	The Project Manager will oversight and manage for all procurement activities in JIT Project. The Project manager will collaborate with the project team to identify all technologies that are required to procure for the succession of the JIT project. The Meeting will be held to be reviewed the list of procurement as well as description why the JIT Project Management would need them prior to submitting it to the contracts and purchasing department. The result of the meeting would determine whether the list of procurements is valid and reasonable to make or buy the items, then it will start selecting stores, bidding, purchasing, and the contracting process.
-</p>
+
 <h2>Cost Determination and Procurement Definition</h2>
-<p>
-	The JIT Project Management will issue a Request for Proposal (RFP) to obtain proposal from numerous services which will describe the advantages of their services to meet the JIT Project Requirements and the cost of the subscription. All the proposal must include the vendors services of Host Server Capabilities, Security, Performance, and the Subscription Cost. The Vendor must outline how the service should be rendered, who are the personnel the service, the vendor&rsquo;s experience in providing customer support from the service, Customer feedbacks, Background of the employees performing the service, and a line-service breakdown of all cost. Additionally, the vendors will be required to submit work breakdown structures (WBSs) and work schedules to show their understanding of the work to be performed and their ability to meet the project schedule.
-</p>
-<p>
-	All information must be included in each proposal as the proposals will be used as the foundation of our selection criteria. Proposals which omit solicited information or contain incomplete information will be discarded from consideration.
-</p>
-<p>
-	The following list of items or services, justification, and timeline are the identified items that is essential to complete the JIT Project. Note that the table is the list of items waiting for approval of the Project Management for them to review and analyze.
-</p>
+
 <table border="1" width="70%" align="center">
 		<tr>
 			<td bgcolor="lightblue">
@@ -4019,11 +3996,9 @@ https://image.ibb.co/nDAfjp/Capture.png</center>
 	Project Director
 </p>
 <h2>Type of Contract to be Used</h2>
-<p>
-	All services to be procured for the JIT Project will be requested through Time and Material contracts (T&amp;M). The JIT Project Management decided T&amp;M because most of the procured are services subscription. Additionally, the JIT Project requires to have a research and development to ensure that the JIT Project will improve the state of business as per stated in the scope. The Project Management will work with the contracts and purchasing department to define the subscription types, plans, services, and customer support. The Project Management will search services available online from various stores to procure the service within the required period and at a reasonable cost under the T&amp;M once the service is selected.
-</p>
+
 <h2>Procurement Risks</h2>
-<p>All procurement activities also have potential risk attach to them which the JIT Project must anticipate and prepare a backup plan or mitigation plan to ensure that project is still on the schedule. While all risk will be list down and managed in the JIT Project&rsquo;s Risk Management Plan, there are specific risk that are risk or problem to procurement which must be considered:</p>
+
 <ul>
 <ul>Weather conditions expectations of having unstable connection.</ul>
 <ul>Internet connection service failure.</ul>
@@ -4036,18 +4011,12 @@ https://image.ibb.co/nDAfjp/Capture.png</center>
 <ul>Potential service failure and impacts on cost and schedule</ul>
 <ul>Potential that final product does not meet required specifications</ul>
 </ul>
-<p>
-	The list does not cover all the potential risk in the service therefore standard risk management process of identifying, documenting, analyzing, mitigating, and managing risks will be used.
-</p>
+
 
 <h2>Procurement Risk Management</h2>
-<p>
-	The JIT Project Risk Management plan stated that all project risk involved with the JIT Project will be managed. However, for the risk related to procurement, there must be additional consideration since the vendors are not part of the JIT Project Management but as a third-party organization and potentially affect current and future business relationship as well as the internal service business operations. Because of these facts, The JIT Project Management will include the representative from the contracting department in all procurement meetings and status reviews.
-</p>
+
 <h2>Standardized Procurement Documentation</h2>
-<p>
-	The Project Management must utilize the cost and resource of the Project as well as to simplify the procurement management mean to facilitate successful completion of the contract and project. The JIT Project Management will use standard documentation for all the steps for the procurement process. Due to the reason that it provides adequate levels of detail which allows for easier comparison of proposal, more accurate pricing, more detailed responses and more efficient management of contract and vendors.
-</p>
+
 <p>
 	The following standard documents will be used for project procurement activities:
 </p>
@@ -4107,9 +4076,6 @@ https://image.ibb.co/nDAfjp/Capture.png</center>
 </ul>
 
 <h2>Procurement Constraints</h2>
-<p>
-	There are several constraints that must be considered as part of the project&rsquo;s procurement management plan. These constraints will be included in the RFP and communicated to all vendors to determine their ability to operate within these constraints. These constraints apply to several areas which include schedule, cost, scope, resources, and technology:
-</p>
 <p>
 	<strong>
 		Schedule:
