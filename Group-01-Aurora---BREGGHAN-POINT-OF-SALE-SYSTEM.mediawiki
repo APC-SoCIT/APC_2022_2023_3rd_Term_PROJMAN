@@ -1,77 +1,89 @@
-## 1. Project Title
-Bregghan Point of Sale System
+=Project Title=
+<h1 style="text-align:center">Bregghan Point of Sale System</h1>
 
-***
-## 2. Project Members
-### 2.1 Project Professor
-<html>
-<body>
-<!--StartFragment-->
+=Project Members=
+==Project Professor==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Jose Eugenio L. Quesada</p></td>
+<td><p style="text-align:center;">PROJMAN Professor</p></td>
+		<td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
+	</tr>
+</table>
 
-NAME | POSITION | EMAIL
--- | -- | --
-Mr. Jose Eugenio L. Quesada | PROJMAN Professor | jlquesada@apc.edu.ph
+==Project Adviser==
 
-<!--EndFragment-->
-</body>
-</html>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Doc. Manuel L. Calimlim Jr.</p></td>
+<td><p style="text-align:center;">PROJMAN Adviser</p></td>
+		<td><p style="text-align:center;">manuelc@apc.edu.ph</p></td>
+	</tr>
+</table>
 
-***
-### 2.2 Project Adviser
-<html>
-<body>
-<!--StartFragment-->
+==Project Team==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Ramon Benedict V. Elloso</p></td>
+		<td><p style="text-align:center;">rbelloso@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Carlos C. Ligligen Jr.</p></td>
+		<td><p style="text-align:center;">ccligligen@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Andrei Gabriel B. Palma</p></td>
+		<td><p style="text-align:center;">abpalma@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Done Paolo Y. Tarinay</p></td>
+		<td><p style="text-align:center;">dptarinay@student.apc.edu.ph</p></td>
+	</tr>
+</table>
+<br />
 
-NAME | POSITION | EMAIL
--- | -- | --
-Dr. Manuel L. Calimlim Jr. | PROJMAN Adviser | manuelc@apc.edu.ph
+=Company Profile=
+<h2>Brief Background:</h2>
+<p>Ms. Devilyn C. Ligligen is the owner of a small-scale retail outlet situated on Mt. Makiling St., Post Proper Southside, Makati City. She caters to sari-sari stores and a diverse range of customers in the surrounding vicinity, providing goods for both wholesale and retail transactions.</p>
 
-<!--EndFragment-->
-</body>
-</html>
+=Business Case=
+==Executive Summary==
+<p>Bregghan Mini Grocery Store is a family-owned business that supplies retail, wholesale, and bulk products to residents and sari-sari stores in the area. The store's current system for tracking sales and stocks is manual, using pen and paper, which has led to difficulty in monitoring inventory and potential loss of sales due to items being out of stock. To address these pain points, our team aims to develop a responsive webapp that digitizes the recording of stocks and sales, notifies the user when stocks are at a critical level, and automates the computation of sold items. The webapp will also produce a report that shows daily, weekly, monthly, and yearly records sold. </p>
 
-***
-### 2.3 Project Team
-<html>
-<body>
-<!--StartFragment-->
+<h3>Issue</h3>
+<p>Manual inventory tracking: </p>
+<p>The current system at Bregghan mini grocery store involves manual recording of stocks and sales on paper, which can be time-consuming and prone to errors. The lack of a proper inventory management system can result in out-of-stock items and missed sales opportunities.  </p>
 
-NAME | EMAIL
--- | --
-Ramon Benedict V. Elloso | rvelloso@student.apc.edu.ph
-Carlos C. Ligligen Jr. | ccligligen@student.apc.edu.ph
-Andrei Gabriel Palma | abpalma@student.apc.edu.ph
-Done Paolo Y. Tarinay | dytarinay@student.apc.edu.ph
+<p>Inefficient sales tracking: </p>
+<p>The current sales tracking process relies on hand-written receipts, which can lead to errors in the computation of sold items and total sales. This can result in inaccurate sales data and hinder the store's ability to make informed business decisions. </p>
 
-<!--EndFragment-->
-</body>
-</html>
+<p>Lack of real-time monitoring: </p>
+<p>Without a digital system, the staff at Bregghan mini grocery store are unable to monitor stocks and sales in real-time. This can result in missed opportunities to replenish stock levels and can make it difficult for the store to keep up with customer demand. </p>
 
-***
-## 3. Company Profile
-**Brief Background:**
-Ms. Devilyn C. Ligligen is the owner of a small-scale retail outlet situated on Mt. Makiling St., Post Proper Southside, Makati City. She caters to sari-sari stores and a diverse range of customers in the surrounding vicinity, providing goods for both wholesale and retail transactions.
+<h3>Anticipated Outcomes</h3>
+<p>Improved inventory management: </p>
+<p>The implementation of a digitized sales and stock tracking system will allow Bregghan mini grocery store to have accurate and real-time data on their inventory. This will enable them to make informed decisions on when to replenish stock, which products to order, and how much stock to order, leading to a reduction in stock outs and overstocking. </p>
 
-***
-## 4. Business Case
-### 4.1 Executive Summary
-Bregghan Mini Grocery Store is a family-owned business that supplies retail, wholesale, and bulk products to residents and sari-sari stores in the area. The store's current system for tracking sales and stocks is manual, using pen and paper, which has led to difficulty in monitoring inventory and potential loss of sales due to items being out of stock. To address these pain points, our team aims to develop a responsive webapp that digitizes the recording of stocks and sales, notifies the user when stocks are at a critical level, and automates the computation of sold items. The webapp will also produce a report that shows daily, weekly, monthly, and yearly records sold.
+<p>Increased sales: </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
-***
-### 4.2 Issue
-**Manual inventory tracking:**
-The current system at Bregghan mini grocery store involves manual recording of stocks and sales on paper, which can be time-consuming and prone to errors. The lack of a proper inventory management system can result in out-of-stock items and missed sales opportunities. 
 
-**Inefficient sales tracking:**
-The current sales tracking process relies on hand-written receipts, which can lead to errors in the computation of sold items and total sales. This can result in inaccurate sales data and hinder the store's ability to make informed business decisions.
-
-**Lack of real-time monitoring:**
-Without a digital system, the staff at Bregghan mini grocery store are unable to monitor stocks and sales in real-time. This can result in missed opportunities to replenish stock levels and can make it difficult for the store to keep up with customer demand.
-
-***
-### 4.3 Anticipated Outcomes
-**Improved inventory management:**
-The implementation of a digitized sales and stock tracking system will allow Bregghan mini grocery store to have accurate and real-time data on their inventory. This will enable them to make informed decisions on when to replenish stock, which products to order, and how much stock to order, leading to a reduction in stock outs and overstocking.
 
 **Increased sales:**
 With the implementation of a Point-of-Sale (POS) system, the checkout process will be faster and more efficient. Customers will have a better experience and may be more likely to return. The system will also be able to generate reports on the top-selling products, which can help the store to make informed decisions on product placement and marketing strategies.
