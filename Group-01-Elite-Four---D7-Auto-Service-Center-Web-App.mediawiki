@@ -1,0 +1,267 @@
+
+=1. PROJECT TITLE=
+
+<h2 style="text-align:center"> D7 Auto Service Center Web-App </h2>
+
+=2. PROJECT MEMBERS=
+
+==2.1 Project Instructor==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Jose Eugenio L. Quesada</p></td>
+		<td><p style="text-align:center;">jlquesada@student.apc.edu.ph</p></td>
+	</tr>
+</table>
+
+==2.2 Project Adviser==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Jo Anne M. de la Cuesta</p></td>
+		<td><p style="text-align:center;">joannec@apc.edu.ph</p></td>
+	</tr>
+</table>
+==2.3 Project Team==
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Andre O. Viernes</p></td>
+		<td><p style="text-align:center;">Project Manager</p></td>
+		<td><p style="text-align:center;">aoviernes@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Dan Micheal C. Alfaras</p></td>
+		<td><p style="text-align:center;">Product Owner</p></td>
+		<td><p style="text-align:center;">dcalfaras@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Alyssa L. Garcia</p></td>
+		<td><p style="text-align:center;"> Web Developer </p></td>
+		<td><p style="text-align:center;">algarcia@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">John Zenon Coquia</p></td>
+		<td><p style="text-align:center;"> Developer Assistant </p></td>
+		<td><p style="text-align:center;">@student.apc.edu.ph</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Francesca Erin Camino</p></td>
+		<td><p style="text-align:center;">Project Coordinator</p></td>
+		<td><p style="text-align:center;">frcamino@student.apc.edu.ph</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Darrell Royce Lazala</p></td>
+		<td><p style="text-align:center;">Project Coordinator Assistant</p></td>
+		<td><p style="text-align:center;">dalazala@student.apc.edu.ph</p></td>
+	</tr>
+</table>
+
+
+=3. COMPANY PROFILE=
+
+
+=4. BUSINESS CASE=
+==4.1 Executive Summary==
+
+
+===4.1.1 Issue===
+
+
+===4.1.2 Anticipated Outcomes===
+
+
+===4.1.3 Recommendation===
+
+
+===4.1.4 Justification===
+
+
+==4.2 Business Case Analysis Team==
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Manager</p></td>
+		<td><p width="517" style="text-align:center;"> </p></td>
+		<td><p style="text-align:center;"> Andre O. Viernes </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Product Owner</p></td>
+		<td><p width="517" style="text-align:center;">  </p></td>
+		<td><p style="text-align:center;"> Dan Micheal C. Alfaras </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;"> Web Developer </p></td>
+		<td><p width="517" style="text-align:center;"> </p></td>
+		<td><p style="text-align:center;"> Alyssa L Garcia </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;"> Web Developer Assistant </p></td>
+		<td><p width="517" style="text-align:center;"> </p></td>
+		<td><p style="text-align:center;"> John Zenon Coquia </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;"> Project Coordinator </p></td>
+		<td><p width="517" style="text-align:center;"></p></td>
+		<td><p style="text-align:center;"> Francesca Erin Camino <br><br>Carl James Garcia </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Coordinator</p></td>
+		<td><p width="517" style="text-align:center;">  </p></td>
+		<td><p style="text-align:center;"> Darrell Royce Lazala </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Stakeholder</p></td>
+		<td><p width="517" style="text-align:center;">  </p></td>
+		<td><p style="text-align:center;"> Anne Sydney Simpelo </p></td>
+	</tr>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Class Adviser</p></td>
+		<td><p width="517" style="text-align:center;">He is responsible for providing guidance and support to the Project Manager and team. He should ensure that the project aligns with any relevant academic requirements and provide advice on best practices for managing project scope. </p></td>
+		<td><p style="text-align:center;">Jose Eugenio L. Quesada</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Adviser</p></td>
+		<td><p width="517" style="text-align:center;"> </p></td>
+		<td><p style="text-align:center;"> Jo Anne M. de la Cuesta </p></td>
+	</tr>
+</table>
+
+==4.3 Problem Definition==
+===4.3.1 Problem Statement===
+
+
+===4.3.2 Organizational Impact===
+
+
+
+===4.3.1 Technology Migration===
+
+
+==4.4 Project Overview==
+===4.4.1 Project Description===
+
+
+===4.4.2 Goals and Objectives===
+
+
+===4.4.3 Project Performance===
+
+
+===4.4.4 Project Assumptions===
+
+===4.4.5 Project Constraints===
+
+
+===4.4.6 Major Project Milestones===
+
+==4.5 Strategic Alignment==
+ectives. 
+
+==4.6 Cost Benefit Analysis==
+==4.7 Alternative Analysis==
+
+
+=5. PROJECT CHARTER=
+==5.1 Executive Summary==
+
+==5.2 Project Purpose/Justification==
+===5.2.1 Business Need/Case===
+===5.2.2 Business Objectives===
+
+==5.3 Project Description==
+===5.3.1 Project Objectives and Success Criteria===
+===5.3.2 Requirements===
+===5.3.3 Constraints===
+===5.3.4 Assumptions===
+===5.3.5 Preliminary Scope Statement===
+
+==5.4 Risks==
+==5.5 Project Deliverables==
+==5.6 Summary Milestones Schedule==
+==5.7 Project Approval Requirements==
+==5.8 Project Manager==
+
+
+=6. STAKEHOLDER STRATEGY MANAGEMENT PLAN=
+==6.1 Introduction==
+==6.2 Identify Stakeholders==
+==6.3 Key Stakeholders==
+
+=7. SCOPE MANAGEMENT PLAN=
+
+==7.1 Introduction==
+
+==7.2 Scope Management Approach ==
+
+==7.3 Roles and Responsibilities==
+
+==7.4 Scope Definition==
+
+==7.5 Project Scope Statement==
+===7.5.1 Project Scope Description===
+===7.5.2 Product Acceptance Criteria===
+===7.5.3 Project Deliverables===
+===7.5.4 Project Exclusions===
+===7.5.5 Project Constraints===
+===7.5.6 Project Assumptions===
+
+==7.6 Work Breakdown Structure==
+
+==7.7 Scope Verification==
+
+==7.8 Scope Control==
+
+=8. COST MANAGEMENT PLAN=
+
+==8.1 Introduction==
+
+==8.1 Cost Management Approach==
+
+==8.2 Measuring Project Costs==
+
+==8.3 Reporting Format==
+
+==8.4 Cost Variance Response Process==
+
+==8.5 Cost Change Control Process ==
+
+==8.6 Project Budget==
+
+
+=9. SCHEDULE MANAGEMENT PLAN=
+
+==9.1 Introduction==
+==9.2 Schedule Management Approach==
+==9.3 Schedule Control==
+==9.4 Schedule Changes and Thresholds==
+==9.5 Scope Change==
+
+
+=10. WORK BREAKDOWN STRUCTURE=
+
+==10.1 Introduction==
+==10.2 Outline View==
+==10.3 Hierarchical Structure==
+==10.4 Tabular View ==
+==10.5 Tree Structure View==
+==10.6 WBS Dictionary==
+==10.7 Glossary of Terms==
+
