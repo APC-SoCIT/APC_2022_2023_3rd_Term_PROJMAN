@@ -2,14 +2,76 @@
 <h3>Rams Corner Ticketing Service System</h3>
 =Project members=
 ==Project Professor==
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Jose Eugenio Quesada</p></td>
+ <td><p style="text-align:center;">PROJMAN Professor</p></td>
+ <td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
+ </tr>
+ </table>
 ==Project Adviser==
-{| class="wikitable"
-! Name
-! Position
-! Email
-|-
-| Mr. Alvin C. Limpin
-| Project Adviser
-| alvinl@apc.edu.ph
-|}
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Mr. Alvin C. Limpin</p></td>
+ <td><p style="text-align:center;">Project Adviser</p></td>
+ <td><p style="text-align:center;">alvinl@apc.edu.ph</p></td>
+ </tr>
+ </table>
 
+==Project Team==
+<table border="1" width="70%" align="center">
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Ruth R. Morallos</p></td>
+  <td><p style="text-align:center;">rmorallos@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Allan Vincent Olayta Nefalar</p></td>
+  <td><p style="text-align:center;">aonefalar2@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Kieyl De Castro Ponce</p></td>
+  <td><p style="text-align:center;">kdponce@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Patrick Alvarez Cortez</p></td>
+  <td><p style="text-align:center;">pacortez@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Vincent Ablanido Nacor</p></td>
+  <td><p style="text-align:center;">vanacor@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Bryan Denylle Geneta</p></td>
+  <td><p style="text-align:center;">bmgeneta@student.apc.edu.ph</p></td>
+ </tr>
+</table>
+<br/>
+
+=Company Profile=
+<p><strong>Brief Background</strong></p>
+<p> ITRO or Information Technology Resource Group,  </p>
+
+=Business Case=
+==Issue==
+==Anticipated Outcomes==
+==Recommendation
+==Justification==
+==Business Case Analysis Team==
+==Problem Definition
+===Problem Statement===
+===Organizational Impact===
+===Technology Migration===
