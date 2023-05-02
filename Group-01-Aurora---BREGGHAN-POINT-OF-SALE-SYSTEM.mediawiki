@@ -323,16 +323,16 @@ vendor. However, this option was rejected due to the lack of control over the pr
 <p>The approval of the project should be obtained from the main stakeholder, Ms. Devilyn C. Ligligen, who is the owner of the business.</p>
 
 =Project Charter=
-<h3>Executive Summary</h3>
+==Executive Summary==
 <p>Ever since the establishment of the Bregghan mini grocery store, it has been using a pen and paper to track the stocks and sales that are going in and out of the store. In addition, the store’s current Point of Sales System is a manual computation and the receipts are hand written. With the integration of the project, it will provide technology solutions which produces efficiency among workload in the said company.</p>
 
 <h3>Project Purpose/Justification</h3>
 <p>This section of the paper will explain the purpose of the project that will be implemented which is the Bregghan Sales and Stocks Tracer Responsice Web Application. Furthermore, the business case will also discuss on why the project is needed since it is with relation to how the small business operates.</p>
 
-<h3>Business Need/Case</h3>
+==Business Need/Case==
 <p>The Bregghan Sales and Stocks Tracer Responsive Web Application is created to change the manual recording of pen and paper which is used by the company to track sales and stocks, into a digitized version that will be used by the owner and their employee. This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency. The company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales.</p>
 
-<h3>Business Objectives</h3>
+==>Business Objectives==
 <p>The business objectives for the project are listed below:</p>
 <ul>
   <li>Rid of the manual computation of sales and inventory management of the Bregghan mini grocery store and automate it by 100%.</li>
@@ -340,10 +340,10 @@ vendor. However, this option was rejected due to the lack of control over the pr
   <li>Accomplish all documentations and the implementation of the project within the second term of the School Year 2022 – 2023.</li>
 </ul>
 
-<h3>Project Description</h3>
+==Project Description==
 <p>This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency and the company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales. This will be accomplished by the implementing systems for the admin and its employee which is connected with each other, the admin monitoring the sales and stocks while the employee’s system or Point-of-Sale will handle outgoing stocks from the grocery.</p>
 
-<h3>Project Objectives and Success Criteria</h3>
+==Project Objectives and Success Criteria==
 <p>To observe the success of the Bregghan Sales and Stocks Tracer Web Application, these are the objectives that should be met with within the designated time of the PBL project development:</p>
 <ul>
   <li>Develop a solution that can digitize the computation of sales within the PBL project.</li>
@@ -352,14 +352,14 @@ vendor. However, this option was rejected due to the lack of control over the pr
   <li>Fully develop a POS System.</li>
 </ul>
 
-<h3>Requirements</h3>
+==Requirements==
 <p>This project must meet the following list of requirements in order to achieve success:</p>
 <ul>
   <li>The client’s needs are met.</li>
   <li>The processes and features of the project is adequate.</li>
 </ul>
 
-<h3>Constraints</h3>
+==Constraints==
 <p>The following constraints pertain to the Bregghan Sales and Stocks Tracer Web Application:</p>
 <ul>
   <li>All security hardware and software must be compatible with our current IT platforms.</li>
@@ -367,25 +367,24 @@ vendor. However, this option was rejected due to the lack of control over the pr
   <li>Two IT specialists and one security specialist will be provided as resources for this project.</li>
 </ul>
 
-***
-<h3>Assumptions</h3>
+==Assumptions==
 <p>The following is the list of the assumptions. Upon agreement and accepting this document at the end, all parties acknowledge that these assumptions are true and correct:</p>
 <ul>
   <li>This project has the full support of the client.</li>
   <li>The client will be informed of the project before deployment.</li>
 </ul>
 
-<h3>Preliminary Scope Statement<h3>
+==Preliminary Scope Statement==
 <p>A digitized system will be developed as part of the proposed solution for the Bregghan mini grocery store. All hardware and software resources will be managed by the team. The project will be independent as it goes in progress daily and all the testing will be done by the team as well as the client as she can recommend some changes the way the clients want the project. The project manager will oversee all the deliverables if it reaches accordingly as planned. The project will be finished when the final report is sent 30 days after the project is tested and deployed. </p>
 
-<h3>Risks<h3>
+==Risks==
 <p>The following risks for the PBL project is identified. The developers should implement avoidance strategies appropriate to minimize the likelihood of these risks:</p>
 <ul>
   <li>Backlogs from the team due to workload from other academic subjects.</li>
   <li>Backlogs due to equipment break down.</li>
 </ul>
 
-<h3>Project Deliverables</h3>
+==Project Deliverables==
 <p>The following deliverables must be met upon the successful completion of the ISA project. Any changes to these deliverables must be approved by the project sponsor:</p>
 <ul>
   <li>Fully deployed intranet security solution.</li>
@@ -394,159 +393,99 @@ vendor. However, this option was rejected due to the lack of control over the pr
 </ul>
 
 
-<h3>Summary Milestone Schedule</h3>
-<p>The project Summary Milestone Schedule is presented below. As requirements are more clearly defined this schedule may be modified. Any changes will be communicated through project status meetings by the project manager.</p>
+==Summary Milestone Schedule==
 
-**Summary Milestone Schedule – List key project milestones relative to project start. **
-<html>
-<body>
-<!--StartFragment-->
+==Project Approval Requirements==
+<p>Success of the Bregghan Sales and Stock Tracer Responsive Web Application will be achieved when the admin system and POS system is fully tested with the time and cost as being mentioned in this charter. We fully anticipate the need of this proposed solution in order to ease the workload of the client and as well as the employees of the client. The project sponsor, Ms. Devilyn Ligligen, will also approve the project by the project’s success.</p>
 
-Project Milestones | Target Date (mm/dd/yyy)
--- | --
-Project Start (MNTSDEV) | 05/06/2022
-Planning (MNTSDEV) | 08/15/2022
-Approved Solution (MSYADD1) | 11/27/2022
-Development of System (MCSPROJ) | 10/18/2022
-Project Deployment | 03/06/2023
-Completed Project | 3/11/2023
+==Project Manager==
+<p>Benedict Elloso is named as the Project Manager for the duration of the project. Mr. Elloso’s responsibility is to manage all project tasks including the scheduling and communication through the client regarding this project. His team, consists of two programmers and two documenters will work on the project. Mr. Elloso is the one who will be coordinating with the client. </p>
 
-<!--EndFragment-->
-</body>
-</html>
+=Stakeholder Management Strategy=
+==Introduction==
+<p>Bregghan mini grocery store is a family-owned business which is being managed by Ms. Devilyn Ligligen. It is located at Mt. Makiling Street. Makati City. On a regular basis, the grocery store is managed by 2 staff personnel, and both are selling the products to customers. The grocery store supplies retail/wholesale/bulk to residents and “sari-sari” stores in the area. The store only accommodates 1-5 persons walk-in. In addition, the store offers different varieties of products ranging from Dairy, Beverages, Liquor, Frozen foods, Canned goods, etc.</p>
 
-***
-### 5.14 Project Approval Requirements
-Success of the Bregghan Sales and Stock Tracer Responsive Web Application will be achieved when the admin system and POS system is fully tested with the time and cost as being mentioned in this charter. We fully anticipate the need of this proposed solution in order to ease the workload of the client and as well as the employees of the client. The project sponsor, Ms. Devilyn Ligligen, will also approve the project by the project’s success.
+<p>The objectives of the project is to develop a responsive web application that tracks sales and stocks for the client and decreases the number of steps that the user can do in the whole transaction for faster checkouts.</p>
 
-***
-### 5.15 Project Manager
-Benedict Elloso is named as the Project Manager for the duration of the project. Mr. Elloso’s responsibility is to manage all project tasks including the scheduling and communication through the client regarding this project. His team, consists of two programmers and two documenters will work on the project. Mr. Elloso is the one who will be coordinating with the client. 
+==Identify Stakeholders==
+<p>The methodology that the team developers will use is the  agile methodology, because the stakeholders are important to this project and they are the one’s who will  benefit in  this project.  The  said  methodology is  used  so  the  stakeholders will  have  a  remark along  the progress of the project. </p>
 
-***
-## 6. Scope Management Strategy
-### 6.1 Introduction
-Bregghan mini grocery store is a family-owned business which is being managed by Ms. Devilyn Ligligen. It is located at Mt. Makiling Street. Makati City. On a regular basis, the grocery store is managed by 2 staff personnel, and both are selling the products to customers. The grocery store supplies retail/wholesale/bulk to residents and “sari-sari” stores in the area. The store only accommodates 1-5 persons walk-in. In addition, the store offers different varieties of products ranging from Dairy, Beverages, Liquor, Frozen foods, Canned goods, etc.
+==Key Stakeholder==
+<p>The key stakeholder of the project would be Ms. Devilyn Ligligen. She is the owner of the Bregghan mini grocery store and she will be the one using the project along with her personnel(cashier). All the necessary features that are requested by the client should be included hence, she will have a weekly check-up on the team to monitor the progress and to ensure that her requirements are met.</p>
 
-The objectives of the project is to develop a responsive web application that tracks sales and stocks for the client and decreases the number of steps that the user can do in the whole transaction for faster checkouts.
+==Stakeholder Analysis==
+<p>The stakeholder that the project has is Ms. Devilyn Ligligen. She is the client of the team and is categorized as the priority during the development of the project. Her needs/requirements should be adhered by the team and all of her requests must be taken into consideration. Furthermore, the client should always be present during meetings for her to monitor the progress of the team and to make sure that all her requirements are met. The technique that the team would incorporate is the SWOT analysis. This will help the team identify the things that the client lacks and it helps them understand the potential impact that the stakeholder could have on the project.</p>
 
-***
-### 6.2 Key Stakeholder
-The key stakeholder of the project would be Ms. Devilyn Ligligen. She is the owner of the Bregghan mini grocery store and she will be the one using the project along with her personnel(cashier). All the necessary features that are requested by the client should be included hence, she will have a weekly check-up on the team to monitor the progress and to ensure that her requirements are met.
+==Strengths==
+<ul>
+  <li>Customers around the area are purchasing to Bregghan to resupply their sari sari stores.</li>
+  <li>Bregghan offers three kinds of sales for their customers. Wholesale, Bulk, and Retail.</li>
+  <li>Items are being priced competitively.</li>
+</ul>
 
-***
-### 6.3 Stakeholder Analysis
-The stakeholder that the project has is Ms. Devilyn Ligligen. She is the client of the team and is categorized as the priority during the development of the project. Her needs/requirements should be adhered by the team and all of her requests must be taken into consideration. Furthermore, the client should always be present during meetings for her to monitor the progress of the team and to make sure that all her requirements are met. The technique that the team would incorporate is the SWOT analysis. This will help the team identify the things that the client lacks and it helps them understand the potential impact that the stakeholder could have on the project.
+==Weakness==
+<ul>
+  <li>Bregghan only use pen and paper as a system to manage their stocks/supplies.</li>
+  <li>Customers' purchases are manually calculated using a calculator, which might lead to human error.</li>
+  <li>Receipts are handwritten.</li>
+  <li>Stocks are only replenished when the staff notices that there are no items stored.</li>
+  <li>The store’s basis to record the items that was sold is only in the form of a receipt.</li>
+  <li>Human errors might occur with their current POS system since all items that are bought from the store are written in a booklet of receipt.</li>
+  <li>Miscalculation of the stocks when checking every night.</li>
+</ul>
 
-***
-### 6.4 Strengths
+==Opportunities==
+<ul>
+  <li>Client buys supplies from corporations/ big companies.</li>
+  <li>Bregghan store is a growing grocery around the vicinity with no competitors.</li>
+  <li>The store is located on a high populated residential area which is accessible within a few individuals.</li>
+</ul>
 
-***
-### 6.5 Weakness
-* Bregghan only use pen and paper as a system to manage their stocks/supplies.
-* Customers' purchases are manually calculated using a calculator, which might lead to human error.
-* Receipts are handwritten.
-* Stocks are only replenished when the staff notices that there are no items stored.
-* The store’s basis to record the items that was sold is only in the form of a receipt.
-* Human errors might occur with their current POS system since all items that are bought from the store are written in a booklet of receipt.
-* Miscalculation of the stocks when checking every night.
+==Threats==
+<ul>
+  <li>Sundry types of stores are growing and visible in the area.</li>
+  <li>An external hazard like the pandemic may affect the store sales due to the closing of sari sari stores in the area.</li>
+  <li>Rehabilitation of streets are frequent in the area which may result to a narrower street which is hard for the suppliers of the store to reach it.</li>
+</ul>
 
-***
-### 6.6 Opportunities
-* Client buys supplies from corporations/ big companies.
-* Bregghan store is a growing grocery around the vicinity with no competitors.
-* The store is located on a high populated residential area which is accessible within a few individuals.
 
-***
-### 6.7 Threats
-* Sundry types of stores are growing and visible in the area.
-* An external hazard like the pandemic may affect the store sales due to the closing of sari sari stores in the area.
-* Rehabilitation of streets are frequent in the area which may result to a narrower street which is hard for the suppliers of the store to reach it.
+=Cost Management Plan=
+==Introduction==
+<p>The Cost Management Plan is developed to ensure effective management of project costs throughout the project's lifecycle. It outlines the procedures and guidelines for measuring, reporting, and controlling costs associated with the Bregghan Mini Grocery Store project. The purpose of this plan is to identify the cost management approach, roles and responsibilities, and procedures for managing costs in a consistent and effective manner.</p>
 
-***
-## 7. Scope Management Plan
+==Cost Management Approach==
+<p>The cost management approach for the Bregghan Mini Grocery Store project will be to ensure that all costs are identified and monitored throughout the project lifecycle. This will be done by tracking all costs associated with the project and comparing them against the project budget. Any deviations from the budget will be analyzed, and corrective action will be taken to keep costs within the approved budget.</p>
 
-***
-## 8. Cost Management Plan
-## Introduction
-The Cost Management Plan is developed to ensure effective management of project costs throughout the project's lifecycle. It outlines the procedures and guidelines for measuring, reporting, and controlling costs associated with the Bregghan Mini Grocery Store project. The purpose of this plan is to identify the cost management approach, roles and responsibilities, and procedures for managing costs in a consistent and effective manner.
+<p>ROLES AND RESPONSIBILITIES:</p>
 
-***
-###  8.1 Cost Management Approach
-The cost management approach for the Bregghan Mini Grocery Store project will be to ensure that all costs are identified and monitored throughout the project lifecycle. This will be done by tracking all costs associated with the project and comparing them against the project budget. Any deviations from the budget will be analyzed, and corrective action will be taken to keep costs within the approved budget.
+<p>The following individuals will be responsible for managing costs on the Bregghan Mini Grocery Store project:</p>
+<ul>
+  <li>Project Manager - Responsible for overseeing the project budget and ensuring that costs are managed in accordance with the approved budget.</li>
+  <li>Accounting Department - Responsible for recording all project costs and ensuring that they are allocated correctly.</li>
+  <li>Project Team - Responsible for providing accurate and timely cost data</li>
+</ul>
 
-**ROLES AND RESPONSIBILITIES:**
+==Measuring Project Costs==
+<p>In this section, the method for measuring the project's costs is outlined. The PMBOK places emphasis on the use of Earned Value Management as a tool for measuring and managing project costs. Given the comprehensive nature of Earned Value Management, it is suggested that project managers undergo formal training in this area.</p>
 
-The following individuals will be responsible for managing costs on the Bregghan Mini Grocery Store project:
+<p>The project team intends to assess the project's schedule performance by computing the Schedule Variance (SV) through subtracting the Planned Value (PV) from the Earned Value (EV). The Earned Value refers to the actual value obtained in the project, while the PV pertains to the value anticipated in the project plan for the current point. By taking into account the deviation between the planned and actual value, the project team can determine if the project is on schedule, ahead of schedule, or behind schedule, according to the baseline schedule in the project plan.</p>
 
-1. Project Manager - Responsible for overseeing the project budget and ensuring that costs are managed in accordance with the approved budget.
-2. Accounting Department - Responsible for recording all project costs and ensuring that they are allocated correctly.
-3. Project Team - Responsible for providing accurate and timely cost data
+<p>The team will determine the budget performance of the project by calculating the Cost Variance (CV), which is obtained by subtracting Actual Costs (AC) from Earned Value (EV). EV represents the actual value earned in the project, while AC reflects the actual costs incurred to date. Therefore, by subtracting the actual costs from the EV, the team can determine whether the budget are above or below budget. If the CV is zero, it means the project is on budget. A CV greater than zero indicates that you are earning more value than planned, and the project is under budget.</p>
 
-***
-### 8.2 Measuring Project Costs
-In this section, the method for measuring the project's costs is outlined. The PMBOK places emphasis on the use of Earned Value Management as a tool for measuring and managing project costs. Given the comprehensive nature of Earned Value Management, it is suggested that project managers undergo formal training in this area.
+<p>Thea team will use Schedule Performance Index (SPI) to evaluate the actual progress made against the planned progress. It is calculated by dividing EV by PV. If the value of EV is equal to PV, then the SPI is 1. If EV is lower than PV, then the SPI is less than 1, which indicates that the project is running behind schedule. If EV is greater than PV, then the SPI is greater than 1, which indicates that the project is ahead of schedule. An efficient project should have an SPI that is as close to 1 as possible, or perhaps even slightly below 1.</p>
 
-The project team intends to assess the project's schedule performance by computing the Schedule Variance (SV) through subtracting the Planned Value (PV) from the Earned Value (EV). The Earned Value refers to the actual value obtained in the project, while the PV pertains to the value anticipated in the project plan for the current point. By taking into account the deviation between the planned and actual value, the project team can determine if the project is on schedule, ahead of schedule, or behind schedule, according to the baseline schedule in the project plan.
+<p>The team will use Cost Performance Index (CPI) to compare the value of the work completed to the actual cost of that work. The formula for CPI is EV/AC, where EV represents the actual value earned in the project and AC represents the actual costs incurred to date. If the CPI equals 1, the project is on budget. If the CPI is greater than 1, the project is under budget, and if the CPI is less than 1, the project is over budget.</p>
 
-The team will determine the budget performance of the project by calculating the Cost Variance (CV), which is obtained by subtracting Actual Costs (AC) from Earned Value (EV). EV represents the actual value earned in the project, while AC reflects the actual costs incurred to date. Therefore, by subtracting the actual costs from the EV, the team can determine whether the budget are above or below budget. If the CV is zero, it means the project is on budget. A CV greater than zero indicates that you are earning more value than planned, and the project is under budget.
+==Reporting Format==
 
-Thea team will use Schedule Performance Index (SPI) to evaluate the actual progress made against the planned progress. It is calculated by dividing EV by PV. If the value of EV is equal to PV, then the SPI is 1. If EV is lower than PV, then the SPI is less than 1, which indicates that the project is running behind schedule. If EV is greater than PV, then the SPI is greater than 1, which indicates that the project is ahead of schedule. An efficient project should have an SPI that is as close to 1 as possible, or perhaps even slightly below 1.
+<p>Reporting for cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p>
 
-The team will use Cost Performance Index (CPI) to compare the value of the work completed to the actual cost of that work. The formula for CPI is EV/AC, where EV represents the actual value earned in the project and AC represents the actual costs incurred to date. If the CPI equals 1, the project is on budget. If the CPI is greater than 1, the project is under budget, and if the CPI is less than 1, the project is over budget.
+==Cost Variance Response Process==
+<p>The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions.</p>
 
-***
-### 8.3 Reporting Format
+==Cost Change Control Process==
+<p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor.</p>
 
-Reporting for cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report.
+==Project Budget==
+<p>The budget for this project is detailed below.  Costs for this project are presented in various categories:</p>
 
-***
-### 8.4 Cost Variance Response Process
-
-The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions.
-
-***
-### 8.5 Cost Change Control Process
-
-The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor.
-***
-### 8.6 Project Budget
-The budget for this project is detailed below.  Costs for this project are presented in various categories:
-
-<html>
-<body>
-<!--StartFragment-->
-
-Milestones | Deliverables
--- | --
-Approved Budget: | ₱ 500,00.00
-Manpower Cost: | ₱ 200,00.00
-Maintenance Cost: | ₱ 75,00.00
-Contingency Cost: | ₱ 100,00.00
-Total Project Cost: | ₱ 375,00.00
-
-<!--EndFragment-->
-</body>
-</html>
-***
-## 9. Schedule Management Plan
-
-***
-## 10. Quality Management Plan
-
-***
-## 11. Human Resource Management Plan
-
-***
-## 12. Work Breakdown Structure
-
-***
-## 13. Procurement Management Plan
-
-***
-## 14. Risk Management Plan
-
-***
-## 15. Communication Management Plan
-
-**
