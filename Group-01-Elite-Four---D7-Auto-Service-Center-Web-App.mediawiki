@@ -473,4 +473,34 @@ The Work Breakdown Structure presented here represents all the work required to 
 ==10.5 Tree Structure View==
 ==10.6 WBS Dictionary==
 ==10.7 Glossary of Terms==
+<table>
+  <tr>
+    <th>Terms</th>
+    <th>Definition</th>
+  </tr>
+  <tr>
+    <td>Level of Effort</td>
+    <td>Level of Effort (LOE) refers to the amount of work needed to accomplish a task.</td>
+  </tr>
+  <tr>
+    <td>WBS Code</td>
+    <td>A unique identifier assigned to each element in a Work Breakdown Structure to indicate its position within the hierarchical structure of the WBS.</td>
+  </tr>
+  <tr>
+    <td>Work Package</td>
+    <td>A Work Package is a unit of work or a deliverable that belongs to the lowest level of a specific branch in the Work Breakdown Structure (WBS).</td>
+  </tr>
+  <tr>
+    <td>WBS Component</td>
+    <td>A WBS component is a part of the Work Breakdown Structure that can be located at any level, and it can either be a Work Package or a WBS Element since there are no limitations on what a WBS Component can be.</td>
+  </tr>
+  <tr>
+    <td>WBS Element</td>
+    <td>A WBS Element is a fundamental unit of the Work Breakdown Structure that has distinct qualities and can be situated at any tier of the structure. It may consist of tasks that require completion, in addition to other WBS Elements or Work Packages that are nested within it.</td>
+  </tr>
+  <tr>
+    <td>WBS Estimated Duration</td>
+    <td>The Estimated Duration in WBS refers to the amount of time that is expected to be required for completing a particular task or activity.</td>
+  </tr>
+</table>
 
