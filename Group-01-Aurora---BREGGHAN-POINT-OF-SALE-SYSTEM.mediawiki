@@ -332,7 +332,7 @@ vendor. However, this option was rejected due to the lack of control over the pr
 ==Business Need/Case==
 <p>The Bregghan Sales and Stocks Tracer Responsive Web Application is created to change the manual recording of pen and paper which is used by the company to track sales and stocks, into a digitized version that will be used by the owner and their employee. This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency. The company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales.</p>
 
-==>Business Objectives==
+==Business Objectives==
 <p>The business objectives for the project are listed below:</p>
 <ul>
   <li>Rid of the manual computation of sales and inventory management of the Bregghan mini grocery store and automate it by 100%.</li>
