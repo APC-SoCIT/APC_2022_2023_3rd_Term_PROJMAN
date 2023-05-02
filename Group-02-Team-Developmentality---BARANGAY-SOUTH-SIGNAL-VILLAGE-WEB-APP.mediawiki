@@ -386,7 +386,7 @@ The Barangay South Signal Village Web Application Online Service is a comprehens
 
 The project scope statement for the Barangay South Signal Village Web App will detail the project’s deliverables and the work necessary to create these deliverables. 
 
-A. PRODUCT SCOPE DESCRIPTION
+A. <strong>PRODUCT SCOPE DESCRIPTION</strong>
 
 The Barangay South Signal Village Web App is a centralized and live web application for the residents of the Barangay South Signal Village that provides information about the barangay and caters to online services such as requesting documents online and submitting concerns to the barangay officials.
 
@@ -396,7 +396,7 @@ The barangay residents can register in the web application wherein they will hav
 
 On the client side, the web app will implement different roles, namely as the Barangay Secretary, Web-App administrator, and the Barangay Captain, wherein they will have their dashboard with different tasks and functions such as processing the online requests and concerns of the residents, manage the barangay employee accounts and resident's account in the web application, generating reports, and managing web applications.
 
-B. PRODUCT ACCEPTANCE CRITERIA
+B. <strong>PRODUCT ACCEPTANCE CRITERIA</strong>
 
 The Barangay South Signal Village Web App will be deemed successful once the following criteria are met:
 
@@ -410,7 +410,7 @@ The Barangay South Signal Village Web App will be deemed successful once the fol
 
 5. The team has created all necessary project deliverables, including the user manual for the barangay.
 
-C. PROJECT DELIVERABLES
+<strong>C. PROJECT DELIVERABLES</strong>
 
 The following list of deliverables will be provided upon successful completion of the project:
 
@@ -439,7 +439,7 @@ The following list of deliverables will be provided upon successful completion o
 - Project Turn-Over Plan 
 - Post Project Review Plan 
 
-D. PROJECT EXCLUSIONS
+<strong>D. PROJECT EXCLUSIONS</strong>
 
 The following work is outside the scope of this project and will not be included:
 
@@ -447,7 +447,7 @@ The following work is outside the scope of this project and will not be included
 - Integration of other systems or software that are not specifically mentioned in the project scope statement.
 - Full deployment process of this project.
 
-E. PROJECT CONSTRAINTS
+E. <strong>PROJECT CONSTRAINTS</strong>
 
 The following constraints pertain to the Barangay South Signal Village Web Application:
 
@@ -455,7 +455,7 @@ The following constraints pertain to the Barangay South Signal Village Web Appli
 2. The availability of some hardware and software that will be necessary in this project.
 3. Legal requirements and procedures due to being under the Local Government Unit (LGU) must be followed.
 
-F. PROJECT ASSUMPTIONS
+F. <strong>PROJECT ASSUMPTIONS</strong>
 
 The following is a list of assumptions. Upon agreement and signature of this document,
 
