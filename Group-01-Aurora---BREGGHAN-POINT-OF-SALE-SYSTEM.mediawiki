@@ -322,78 +322,80 @@ vendor. However, this option was rejected due to the lack of control over the pr
 ==Approvals==
 <p>The approval of the project should be obtained from the main stakeholder, Ms. Devilyn C. Ligligen, who is the owner of the business.</p>
 
-***
-==Project Charter==
+=Project Charter=
 <h3>Executive Summary</h3>
 <p>Ever since the establishment of the Bregghan mini grocery store, it has been using a pen and paper to track the stocks and sales that are going in and out of the store. In addition, the store’s current Point of Sales System is a manual computation and the receipts are hand written. With the integration of the project, it will provide technology solutions which produces efficiency among workload in the said company.</p>
 
 <h3>Project Purpose/Justification</h3>
 <p>This section of the paper will explain the purpose of the project that will be implemented which is the Bregghan Sales and Stocks Tracer Responsice Web Application. Furthermore, the business case will also discuss on why the project is needed since it is with relation to how the small business operates.</p>
 
-***
-### 5.3 Business Need/Case
-The Bregghan Sales and Stocks Tracer Responsive Web Application is created to change the manual recording of pen and paper which is used by the company to track sales and stocks, into a digitized version that will be used by the owner and their employee. This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency. The company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales.
+<h3>Business Need/Case</h3>
+<p>The Bregghan Sales and Stocks Tracer Responsive Web Application is created to change the manual recording of pen and paper which is used by the company to track sales and stocks, into a digitized version that will be used by the owner and their employee. This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency. The company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales.</p>
+
+<h3>Business Objectives</h3>
+<p>The business objectives for the project are listed below:</p>
+<ul>
+  <li>Rid of the manual computation of sales and inventory management of the Bregghan mini grocery store and automate it by 100%.</li>
+  <li>Create a web and mobile application within the given timeframe which is the second term of the School Year 2022 – 2023.</li>
+  <li>Accomplish all documentations and the implementation of the project within the second term of the School Year 2022 – 2023.</li>
+</ul>
+
+<h3>Project Description</h3>
+<p>This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency and the company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales. This will be accomplished by the implementing systems for the admin and its employee which is connected with each other, the admin monitoring the sales and stocks while the employee’s system or Point-of-Sale will handle outgoing stocks from the grocery.</p>
+
+<h3>Project Objectives and Success Criteria</h3>
+<p>To observe the success of the Bregghan Sales and Stocks Tracer Web Application, these are the objectives that should be met with within the designated time of the PBL project development:</p>
+<ul>
+  <li>Develop a solution that can digitize the computation of sales within the PBL project.</li>
+  <li>Develop an admin system that can monitor the stocks and sales real time.</li>
+  <li>Fully develop an Admin System.</li>
+  <li>Fully develop a POS System.</li>
+</ul>
+
+<h3>Requirements</h3>
+<p>This project must meet the following list of requirements in order to achieve success:</p>
+<ul>
+  <li>The client’s needs are met.</li>
+  <li>The processes and features of the project is adequate.</li>
+</ul>
+
+<h3>Constraints</h3>
+<p>The following constraints pertain to the Bregghan Sales and Stocks Tracer Web Application:</p>
+<ul>
+  <li>All security hardware and software must be compatible with our current IT platforms.</li>
+  <li>All hardware and software must be purchased in accordance with the allocated budget and timeline.</li>
+  <li>Two IT specialists and one security specialist will be provided as resources for this project.</li>
+</ul>
 
 ***
-### 5.4 Business Objectives
-**The business objectives for the project are listed below:**
+<h3>Assumptions</h3>
+<p>The following is the list of the assumptions. Upon agreement and accepting this document at the end, all parties acknowledge that these assumptions are true and correct:</p>
+<ul>
+  <li>This project has the full support of the client.</li>
+  <li>The client will be informed of the project before deployment.</li>
+</ul>
 
-* Rid of the manual computation of sales and inventory management of the Bregghan mini grocery store and automate it by 100%
-* Create a web and mobile application within the given timeframe which is the second term of the School Year 2022 – 2023
-* Accomplish all documentations and the implementation of the project within the second term of the School Year 2022 – 2023
+<h3>Preliminary Scope Statement<h3>
+<p>A digitized system will be developed as part of the proposed solution for the Bregghan mini grocery store. All hardware and software resources will be managed by the team. The project will be independent as it goes in progress daily and all the testing will be done by the team as well as the client as she can recommend some changes the way the clients want the project. The project manager will oversee all the deliverables if it reaches accordingly as planned. The project will be finished when the final report is sent 30 days after the project is tested and deployed. </p>
 
-***
-### 5.5 Project Description
-This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency and the company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales. This will be accomplished by the implementing systems for the admin and its employee which is connected with each other, the admin monitoring the sales and stocks while the employee’s system or Point-of-Sale will handle outgoing stocks from the grocery.
+<h3>Risks<h3>
+<p>The following risks for the PBL project is identified. The developers should implement avoidance strategies appropriate to minimize the likelihood of these risks:</p>
+<ul>
+  <li>Backlogs from the team due to workload from other academic subjects.</li>
+  <li>Backlogs due to equipment break down.</li>
+</ul>
 
-***
-### 5.6 Project Objectives and Success Criteria
-To observe the success of the Bregghan Sales and Stocks Tracer Web Application, these are the objectives that should be met with within the designated time of the PBL project development:
+<h3>Project Deliverables</h3>
+<p>The following deliverables must be met upon the successful completion of the ISA project. Any changes to these deliverables must be approved by the project sponsor:</p>
+<ul>
+  <li>Fully deployed intranet security solution.</li>
+  <li>Technical documentation for intranet security solution.</li>
+  <li>Recommendation list for future security considerations.</li>
+</ul>
 
-* Develop a solution that can digitize the computation of sales within the PBL project.
-* Develop an admin system that can monitor the stocks and sales real time.
-* Fully develop an Admin System
-* Fully develop a POS System 
 
-***
-### 5.7 Requirements
-This project must meet the following list of requirements in order to achieve success:
-* The client’s needs are met.
-* The processes and features of the project is adequate.
-
-***
-### 5.8 Constraints
-The following constraints pertain to the Bregghan Sales and Stocks Tracer Web Application:
-* All security hardware and software must be compatible with our current IT platforms.
-* All hardware and software must be purchased in accordance with the allocated budget and timeline.
-* Two IT specialists and one security specialist will be provided as resources for this project.
-
-***
-### 5.9 Assumptions
-The following is the list of the assumptions. Upon agreement and accepting this document at the end, all parties acknowledge that these assumptions are true and correct:
-* This project has the full support of the Client.
-* The client will be informed of the project before deployment.
-
-***
-### 5.10 Preliminary Scope Statement
-A digitized system will be developed as part of the proposed solution for the Bregghan mini grocery store. All hardware and software resources will be managed by the team. The project will be independent as it goes in progress daily and all the testing will be done by the team as well as the client as she can recommend some changes the way the clients want the project. The project manager will oversee all the deliverables if it reaches accordingly as planned. The project will be finished when the final report is sent 30 days after the project is tested and deployed.
-
-***
-### 5.11 Risks
-The following risks for the PBL project is identified. The developers should implement avoidance strategies appropriate to minimize the likelihood of these risks:
-* Backlogs from the team due to workload from other academic subjects.
-* Backlogs due to equipment break down.
-
-***
-### 5.12 Project Deliverables
-The following deliverables must be met upon the successful completion of the ISA project. Any changes to these deliverables must be approved by the project sponsor:
-* Fully deployed intranet security solution.
-* Technical documentation for intranet security solution.
-* Recommendation list for future security considerations.
-
-***
-### 5.13 Summary Milestone Schedule
-The project Summary Milestone Schedule is presented below. As requirements are more clearly defined this schedule may be modified. Any changes will be communicated through project status meetings by the project manager.
+<h3>Summary Milestone Schedule</h3>
+<p>The project Summary Milestone Schedule is presented below. As requirements are more clearly defined this schedule may be modified. Any changes will be communicated through project status meetings by the project manager.</p>
 
 **Summary Milestone Schedule – List key project milestones relative to project start. **
 <html>
