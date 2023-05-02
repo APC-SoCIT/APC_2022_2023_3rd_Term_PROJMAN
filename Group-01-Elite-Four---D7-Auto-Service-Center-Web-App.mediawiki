@@ -262,7 +262,7 @@ ectives. 
 The Work Breakdown Structure presented here represents all the work required to complete this project. It will be the initial version of the web-app and it shall go under version 1. This version will undergo the PBL (Project Based Learning) phases from planning to deployment. It is hereby outlined with the help of this project management tool that will aim to provide better division of work during each respective phase. The project has divided the work accordingly per sprint to have them assigned and accomplished by the Elite Four team.  
 ==10.2 Outline View==
 ==10.3 Hierarchical Structure==
-<table>
+<table border="1" width="70%" align="center >
   <tr>
     <th>Level</th>
     <th>WBS Code</th>
@@ -473,7 +473,7 @@ The Work Breakdown Structure presented here represents all the work required to 
 ==10.5 Tree Structure View==
 ==10.6 WBS Dictionary==
 ==10.7 Glossary of Terms==
-<table>
+<table border="1" width="70%" align="center>
   <tr>
     <th>Terms</th>
     <th>Definition</th>
