@@ -61,25 +61,29 @@
 <br />
 
 =Company Profile=
+<p><strong>Brief Background:</strong></p>
+<p>Mr. Jayvee Cabardo, Director of Project Development Office of Asia Pacific College, is the one who monitors the projects that are </p>
 
 =Business Case=
 <h2>Executive Summary</h2>
 
-
+<p>The Tracking Activity Project Management project aims to address common issues and problems in  project  management  by  using  tools  and  techniques  to  track  progress  and  manage  tasks.  By implementing  tracking  activity  project  management  tools,  project  managerscan  gain  better visibility into project status and identify potential bottlenecks or delays. This allows them to act and adjust to ensure the project stays on track. In  addition  to  tracking  progress,  project  management  tools  can  provide  many  other  benefits, including  improved  communication  between  team  members,  better  alignment  of  project objectives  with  overall  business  goals,  and  more  effective  prioritization  of  tasks.  Successful implementation  of  tracking  activity  project  management  tools  can  lead  to improved  project outcomes and greater efficiency and productivity for the organization. Overall,  the  Tracking  Activity  Project  Management  project  represents  a  valuable  initiative  to improve  project  outcomes  and  increase  efficiency  in  project  management.  By  implementing these tools and techniques, organizations can improve their project management practices and achieve better outcomes.</p>
 
 <h2>Issue</h2>
 
+<p>The Project Development Office of Asia Pacific is having difficulty monitoring the status of the school's internal and external projects promptly. This includes the lack of visibility into project status,  potential  bottlenecks  or  delays,  poor  communication  among  team  members,  and difficulty aligning project objectives with overall business goals. These issues often result in missed deadlines, cost overruns, and poor-quality outcomes.</p>
 
 <h2>Anticipated Outcomes</h2>
 
+<p>The implementation of Tracking Activity Project Management can lead to improved project outcomes,  including  meeting  project  timelines,  staying  within  budget,  delivering  quality products or services, improved communication among team members, better alignment of project  objectives  with  overall  business  goals,  and  more  effective  prioritization  of  tasks.  In which case, it should benefit the stakeholders in increased efficiency and productivity for the organization and better utilization of resources.</p>
 
 <h2>Recommendation</h2>
 
-
+<p>Implementing a systemwhich will solve the problem basedon lack of supervision, as such, a tool  that  will  be  used  in  improving  project  management  practices  and  achieve  better outcomes. Hence, the name Tracking Activity Project Management, will be a system that will provide real-time updates, task assignment, and progress tracking</p>
 
 <h2>Justification</h2>
 
-
+<p>By  implementing  the  Tracking  Activity  Project  Management system, we  willbe  focused onthe need to meet market demands, improve project outcomes, and stay competitive in the marketplace. In  addition,  this  system  can help optimize  resource  allocation,  enhance team collaboration, and increase efficiency, resulting in cost savings and improved IT security.By implementing these tools, organizations can establish best practices for project management and improve their overall efficiency and productivity.</p>
 
 <h2>Business Case Analysis Team</h2>
 
@@ -89,45 +93,22 @@
 		<td bgcolor="lightblue"><p style="text-align:center;">Responsibility</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;"><em>Project Client</em></p></td>
+		<td><p style="text-align:center;"><em>Project  Manager (Noreen Keziah Sioco)</em></p></td>
 		<td width="517">
-<p>·         <em>Approves Scope Management Plan. </em></p>
-<p>·         <em>Provides high-level scope definition (Project Charter).</em></p>
-<p>·         <em>Reviews escalated scope issues and provide direction for resolution.</em></p>
-<p>·         <em>Approves major scope change requests.</em></p>
-<p>·         <em>Overall decision-making responsibility for Scope Management activities.</em></p>
+<p>responsible  for  managing  theentire  business  case  analysis  procedure, making sure the project is finished on schedule and under budget. Furthermore, they could overseeorganizing team meetings, distributingtasks, and interacting with stakeholders.</p>
 </td>
 
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Manager</p></td>
+		<td><p style="text-align:center;">Business  Analyst (Mark Gerald Giba and Bea Angeline Cruz)</p></td>
 		<td width="517">
-<p>·         <em>Overall responsibility for scope management. </em></p>
-<p>·         <em>Oversees the development of the Scope Management Plan.</em></p>
-<p>·         <em>Oversees the scope change management process.</em></p>
-<p>·         <em>Approves scope change requests within his/her authority.</em></p>
-<p>·         <em>Escalates scope and change issues.</em></p>
-<p>·         <em>Ensures that scope changes are incorporated into appropriate project documents</em></p>
+<p> responsible  for  compiling  and  analyzing  information  about  issues  or opportunitiesand creating potential solutions.</p>
 </td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Team Members and Subject Matter Experts (SMEs)</p></td>
+		<td><p style="text-align:center;">Operations  Specialist (Jose Norberto Verde and Joseph Adrian Lebag)</p></td>
 		<td width="517">
-<p>·         <em>Help develop the project scope statement.</em></p>
-<p>·         <em>Submit scope change requests.</em></p>
-<p>·         <em>Review Scope Change requests when assigned.</em></p>
-<p>·         <em>Provide feedback as and when required.</em></p>
-<p>·         <em>Participate in team-level scope change reviews.</em></p>
-</td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Independent Verification and Validation (IV&amp;V)</p>
-<p style="text-align:center;">Project Adviser</p></td>
-<td width="517">
-<p>·         <em>Provides an ongoing independent review and analysis of project scope management practices.</em></p>
-<p>·         <em>Monitors scope changes and provide feedback.</em></p>
-<p>·         <em>Approves major scope change requests.</em></p>
-<p>·         <em>Approval of all documentation throughout the project.</em></p>
+<p>responsible  for  examining  the  operational  needs of  the  suggested solution and creating an implementation strategy. They can overseethe resources required to  put  the  solution  into  practice,  creating  an implementationschedule,  and  identifying potentialrisks and problems. </p>
 </td>
 	</tr>
 </table>
@@ -1893,31 +1874,22 @@
 <p> </p>
 
 <h2>Schedule Control</h2>
-<p>            In order for the project team to control the schedule throughout of the lifetime of the project, the project schedule will be monitored, reviewed and revised when necessary whether a new or old information is added, deleted or updated. The project team members who accomplished the task will also be presenting the completion percentages that will be discuss to the project team.</p>
-<p>            The project manager is responsible in managing schedule updates, meetings, and report as well as identifying the tasks that are scheduled for necessary modifications. Suggesting a schedule change requests and informing project schedule status to the stakeholder are also project manager's responsibilities.</p>
-<p>            The project team is required in participating for the scheduled updates and meetings of the project. The project team are required to collaborate to any changes of the schedule from start-to-finish dates to the project manager and project adviser; and participating in schedule variance resolution as needed. The project manager will keep the project client updated of the project schedule status and the project client will review/approve any schedule request submitted by the project manager.</p>
+
 <h2>Schedule Changes and Thresholds</h2>
-<p>            When the project schedule is created by the project team, it is necessary that the project sponsor sets a limit to organize the schedule parameters wherein the project is anticipated to be finished or operational, this is important because it is necessary to align the project client visions and expectations to the actual project. One of the factors that could affect the changes in schedule is poor schedule management which will require an extension or change of project schedule. If there are any circumstances that may possibly affect the schedule which exceeds the limits set by the project sponsor, the project manager should submit a schedule change request and it should be approved by the project sponsor before the schedule change is made.</p>
-<p>            The project manager will set a meeting with the project team to analyze and assess the change if any of the project team member concluded that an adjustment to the schedule is essential and an adjustment to the schedule is crucial to the succession of the project plan, the project manager, project team, project adviser, and the client must have a scheduled assessment meeting regarding the schedule adjustments. The project manager and the project team must decide which tasks will be affected by the potential change. A potential change and any alternative solutions activities must have materialized to see how they would affect the scope, schedule, and resources. After the analysis is completed, the project manager must resolve if any change will surpass the original schedule as planned or will go according to the schedule, then a schedule change request must be submitted.</p>
-<p>Submittal of a schedule change request to the project stakeholder for approval is required if the following conditions is true:</p>
+
 <ul>
 	<li>The recommended change is reducing the duration or deliverables of an individual Sprint Backlog in developing phase in the project, or increasing the duration of individual Sprint Backlog by 10% or more, to clarify adding it to the duration not extending the work over all duration.</li>
 	<li>Changes in the scope statement shall be considered to prevent inconsistencies in the documentation phase of the project. The project team must compile all the inconsistencies in the document before increasing the work packages by 5% or more to update the changes in all of documentation.</li>
 	<li>Another approach to the change is either to reduce the duration of the overall project schedule by 10% or more, or increase the duration of the overall project schedule by 2% or more.</li>
 </ul>
-<p>            Any change request that do not comply meet these thresholds are still viable to submission to the project manager for approval. Once the change request has been reviewed and analyze by the project manager consulting first with the project adviser is recommended then discussing it with the project client is a must. After approving the change request, the project manager is responsible of adjusting the schedule and updating all the change and effects to the project team and client. The project manager must also ensure that all change requests are archived in the project records repository.</p>
+
 <h2>Scope Change</h2>
-<p>            If an issue is arising in the project that needs a drastic change in the project scope requesting a change is the best course action. The process for recommending and estimating the change to the scope of the project are cautiously must executed. Any project team member, or project client can request changes to the project scope. All change request must be submitted to the project advisor in the form of a project change request document. The project advisor will then analyze the suggested change to the scope of the project. The project advisor will then either reject the change request if it does not in line with the purpose of the project, or convene a Change Control meeting between the project team and client to review the change request further and perform an impact assessment of the change. If the change request receives initial approval by the project advisor and client, the project manager will communicate the scope change to all project team members’ then they will update all the necessary documents, deliverables, and product backlogs.</p>
 
 =Quality Management Plan=
 <h2>Introduction</h2>
-<p>            The Quality Management Plan for the Just-In-Time Logistics E-Commerce Website (JIT) project will establish the activities, processes, and procedures for ensuring a quality product upon the conclusion of the project.  The Quality Management Plan documents the important procedures and information required to effectively execute the project quality assurance from project planning to execution of the project. It defines the project’s quality approaches, strategies, criteria for and territories of usage, and function and obligations.</p>
-<p>            During the Planning Phase of the project, The Quality Management Plan is developed and is considered as a core component of the Project Management Plan especially in Execution Phase. Its target group is the project manager, project team, project client, stakeholder, and project adviser whose support is expected to ensure quality is planned, define how quality will be managed, define quality assurance and control activities, and lastly, define acceptable quality standards.</p>
+
 <h2>Quality Management Approach</h2>
-<p>            The quality management approach for the JIT project will ensure quality is planned for both the product and processes.  In order to be successful, this project will meet its quality objectives by utilizing an integrated quality approach to define quality standards, measure quality and continuously improve quality. Website quality for the JIT project will be defined by the company’s current standards and criteria for its reliability, performance, and functionality of the website.  The focus is on the project’s deliverable and the standards and criteria being used will ensure the product meets established quality standards and customer satisfaction.</p>
-<p>            Process quality for the JIT project will focus on the processes by which the project deliverable will be developed.  Establishing process quality standards will ensure that all activities conform to an organizational standard which results in the successful delivery of the website.</p>
-<p>            The project team will work with the Quality Group to define and document all organizational and project specific quality standards for both product and processes.  All quality documentation will become part of the JIT Project Plan and will be transitioned to operations upon the successful completion of the project.</p>
-<p>            Metrics will be established and used to measure quality throughout the project life cycle for the product and processes.  The Quality Group Manager will be responsible for working with the project team to define these metrics, conduct measurements, and analyze results.  These product and process measurements will be used as one criterion in determining the success of the project and must be reviewed by the project sponsor.  Metrics will include:</p>
+
 <ul>
 	<li>Schedule</li>
 	<li>Resources</li>
@@ -1945,15 +1917,10 @@
 	</ul>
 	<li>Customer Satisfaction (as a result of field trials)</li>
 </ul>
-<p>Quality improvements will be identified by any member of the project team or quality group.  Each recommendation will be reviewed to determine the cost versus benefit of implementing the improvement and how the improvement will impact the product or processes.  If an improvement is implemented the project manager will update all project documentation to include the improvement and the quality manager will update the organizational documentation the improvement affects.</p>
+
 <h2>Quality Requirements / Standards</h2>
-<p>            The objective of this sector is to support an accurate and quantifiable definition of Quality for JIT project. This definition is expressed as far as general Quality Factors, particular framework arranged Quality Criteria to be estimated for each factor, and measured quality targets and Quality metrics.</p>
-<p>            The Quality Factors, Quality Criteria and Quality Metrics must be discussed in detail, right from the beginning of the project life cycle. Preceding to developing each JIT project component, the Quality Factors and Criteria must be evaluated to determine their relevance. Those variables and criteria deemed important must be considered as critical success factors for the component.</p>
+
 <p><strong><em>Quality Factors:</em></strong></p>
-<p>            Quality Factors are the user-perceived aspects of the JIT project components that conclude if JIT project meets user prerequisites.</p>
-<p>The Table below presents the fundamental quality factors of JIT project. The table recognizes and depicts each issue, and positions the most elevated factors of components that are the indispensable Success Factors of the project</p>
-<p>Note that the most imperative Quality Factor for JIT Project is Operability. This is Don Miguel Manabat's essential factor for deciding the quality of JIT Project. All other quality factors are subordinate to this objective.</p>
-<p> </p>
 
 <table border="1" width="70%" align="center">
 		<tr>
@@ -2155,11 +2122,6 @@
 </table>
 
 <h2>Quality Assurance</h2>
-<p> </p>
-<p>            The quality assurance of the JIT project focuses on the processes used in the Services of the JIT Website.  In order to ensure quality, an iterative quality process will be used throughout the project life cycle.  This iterative process includes measuring process metrics, analyzing process data, and continuously improving the processes. </p>
-<p> </p>
-<p>The JIT Project Manager and the project team will perform assessments at planned intervals throughout the project to ensure all processes are being correctly implemented and executed.  Key performance metrics for the modules of the JIT Website include two Automation Process Factors of the Website. The established project tolerances for these metrics are the organizational standards for website development.</p>
-<p>The table below provides the key quality assurance metrics for the JIT Project.</p>
 
 <table border="1" width="70%" align="center">
 		<tr>
@@ -2261,15 +2223,6 @@
 			</td>
 		</tr>
 </table>
-<p> </p>
-<p>The quality manager will provide per module quality management and create a test plan per module on a weekly basis, monitor process performance metrics, and assure all processes comply with project and organizational standards.  If discrepancies are found, the quality manager will meet with the Project Manager and review the identified discrepancies.</p>
-<p> </p>
-<p>The Project Manager will schedule regularly occurring project, management, and document reviews.  In these reviews, an agenda item will include a review of project processes, any discrepancies and/or audit findings from the quality manager, and a discussion on process improvement initiatives. </p>
-<p> </p>
-<p>Process improvement is another aspect of quality assurance.  Quality assurance reviews, findings, and assessments should always result in some form of process improvement and, as a result, product improvement.  All process improvement efforts must be documented, implemented, and communicated to all stakeholders as changes are made.</p>
-<h2>Quality Control</h2>
-<p> </p>
-<p>            The quality control of the JIT project focuses primarily on the JIT project and the acceptable standards and performance.  The quality performance standards for the JIT project are in accordance with the organizational standards of performance of a website.  However, there are several project-specific quality standards which were established specifically for the JIT project. The suggested innovation to the JIT project will be submitted to the quality management which will be analyzed and tested whether the modules meet the requirements of the expected performance. Additionally, all test cases will be conducted on each module to ensure compliance with established quality standards.  The table below illustrates all the quality criteria for the JIT Project:</p>
 
 
 
@@ -2489,9 +2442,6 @@
 </td>
 </tr>
 </table>
-<p>The Project team will perform all process measurements on the initial modules. The quality team will create test cases and test case all modules listed down in the JIT Project and will provide the results back to the project team as test case documents within three business days after the creation or update of the module. The quality team will ensure all process and performance standards are met for each module, perform audits, and assist the project team with creating or updating all documentations related to quality.</p>
-<p>The Project Manager will schedule regularly occurring project, management, and document reviews.  In these reviews, an agenda item will include a review of the JIT project test cases, any discrepancies and/or audit findings from the quality manager, and a discussion on product improvement initiatives.</p>
-<p>It is imperative to the success of the project that all of the established process and performance standards are met.  By doing so, the JIT Project Team will ensure that the project achieves the high level of customer satisfaction anticipated and that future website development will be in line with budget and resource allocations.</p>
 
 <h2>Quality Control Measurements</h2>
 <p> </p>
@@ -2714,8 +2664,7 @@
 =Human Resource Management Plan=
 
 <h2>Introduction</h2>
-<p>            Human resources management is a plan for JIT Project that guides the project team assigning roles and responsibilities of the team member in human resources activities stated in the Work Breakdown Structure (WBS) which covers the start until the closure of the project. The human resource management plan includes:</p>
-<p> </p>
+
 <ul>
 	<li>Roles and Responsibilities of the team member whether the members are tasked in quality, documents, development, etc.</li>
 	<li>Project Organization Charts that visualizes the activities and the member assigned to the activity that also measures the allotted time in the activity.</li>
