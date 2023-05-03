@@ -4176,4 +4176,75 @@ The project sponsor will review and approve scope changes based on the establish
 <br>
 
 =Work Packages=
-
+<table>
+  <tr>
+    <th>WBS:</th>
+    <td>1.1.1</td>
+  </tr>
+  <tr>
+    <th>Work Package:</th>
+    <td>Project Preparation</td>
+  </tr>
+  <tr>
+    <th>Package Owner:</th>
+    <td>Gianna Bernice Artajos</td>
+  </tr>
+  <tr>
+    <th>Owner Organization:</th>
+    <td>Roselle Wednesday L. Gardon</td>
+  </tr>
+  <tr>
+    <th>Participants:</th>
+    <td>Gianna Bernice Artajos, Product Owner<br>
+        Marcus Philip Flores, Scrum Master<br>
+        John Rysal Rosel, Product Developer<br>
+        Lester Dave Salazar, Product Designer
+    </td>
+  </tr>
+  <tr>
+    <th>Description:</th>
+    <td>This portion includes the following tasks: <br>
+        - Identify Client <br>
+        - Identify Advisor/Consultant <br>
+        - Forming of Group <br>
+        This work package mainly focuses on the preparation before the production of the actual project.
+    </td>
+  </tr>
+  <tr>
+    <th>Completion State:</th>
+    <td>When Ms. Gardon approves of the established individuals that will be involved in the project.</td>
+  </tr>
+  <tr>
+    <th>Assumptions:</th>
+    <td>
+      - All team members agree to stay and work in the same group until the full completion of the project. <br>
+      - Ms. Jo Anne will provide honest and necessary revisions that the group will comply with. <br>
+      - Ms. Gardon will assign the deadlines of submission for the chapter.
+    </td>
+  </tr>
+  <tr>
+    <th>Risks:</th>
+    <td>
+      - Team will not be able to accomplish the tasks on time <br>
+      - Client may second guess and back out of the project.
+    </td>
+  </tr>
+  <tr>
+    <th>Risk Mitigation:</th>
+    <td>
+      - Team members will communicate effectively and make use of the agile methodology to get tasks done on time. <br>
+      - The team will provide consistent updates every other week to reassure that there was progress made in the development of the project.
+    </td>
+  </tr>
+  <tr>
+    <th>Budget:</th>
+    <td>(Estimated cost with computations)</td>
+  </tr>
+  <tr>
+    <th>Reference Docs:</th>
+    <td>
+      <a href="#">Gianna Bernice Artajos: Group General Details</a> <br>
+      <a href="#">posted in MNTSDEV MI201/MI202/MI203 T3 AY2021-2022 / G04 HighTable at Tuesday, 19 April 2022 4:05:57 PM</a>
+    </td>
+  </tr>
+</table>
