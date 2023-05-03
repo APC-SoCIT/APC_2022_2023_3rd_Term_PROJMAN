@@ -441,239 +441,302 @@ The following is a list of assumptions.  Upon agreement and signature of this do
 ==7.6 Work Breakdown Structure==
 
 In this WBS, the project is divided into five main sections: Project Planning, Analysis and Design, System Development, Implementation, and Closeout. Each section is then further broken down into more specific tasks and subtasks. The WBS helps to provide a clear and organized view of the project scope and can aid in managing the project's progress and ensuring that all aspects are accounted for. 
-
 <table border="1" width="90%" align="center">
 
 		
 <tr>
 		<td >
-        <p style="font-size: 1.17em; font-weight: bold;"> PLANNING </p>
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> Project Preparation </p>
-* Creation of Project Groups
-* Choose Project/Client
-* Choose Adviser/Consultant
-* Design Thinking 1
+        <p style="font-size: 1.17em; font-weight: bold;"> 1.1 PLANNING </p>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.1 Project Preparation </p>
+* 1.1.1.1 Creation of Project Groups
+* 1.1.1.2 Choose Project/Client
+* 1.1.1.3 Choose Adviser/Consultant
+* 1.1.1.4 Design Thinking 1
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNTSDEV Team consultation </p>
-* Team meeting with Project adviser
-* Team meeting with Project Sponsor
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.2 MNTSDEV Team consultation </p>
+* 1.1.2.1 Team meeting with Project adviser
+* 1.1.2.2 Team meeting with Project Sponsor
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNTSDEV Creation of Midterm Paper </p>
-* Chapter 1 (Introduction)
-* Chapter 2 (RRL/RRS)
-* Chapter 3 (Methodology)
-* Chapter 4 (Results and Discussions)
-* Chapter 5 (Conclusion)
-* Proofreading
-* Creation of presentation deck
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.3 MNTSDEV Creation of Midterm Paper </p>
+* 1.1.3.1 Chapter 1 (Introduction)
+* 1.1.3.2 Chapter 2 (RRL/RRS)
+* 1.1.3.3 Chapter 3 (Methodology)
+* 1.1.3.4 Chapter 4 (Results and Discussions)
+* 1.1.3.5 Chapter 5 (Conclusion)
+* 1.1.3.6 Proofreading
+* 1.1.3.7 Creation of presentation deck
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNTSDEV Midterm Evaluation </p>
-* Midterm (Sprint1)
-* Comment Matrix
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.4 MNTSDEV Midterm Evaluation </p>
+* 1.1.4.1 Midterm (Sprint1)
+* 1.1.4.2 Comment Matrix
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> Initial Design </p>
-* Initial wireframe
-* Initial low-fidelity prototype
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.5 Initial Design </p>
+* 1.1.5.1 Initial wireframe
+* 1.1.5.2 Initial low-fidelity prototype
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNTSDEV Progression of Paper/Final Paper </p>
-* Chapter 1 (Introduction)
-* Chapter 2 (RRL/RRS)
-* Chapter 3 (Current System)
-* Chapter 4 (Proposed System)
-* Chapter 5 (Requirement Analysis)
-* Chapter 6 (Conclusion)
-* Proofreading
-* Creation of presentation deck
-* Submission of final Requirements for Final Presentation
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.6 MNTSDEV Progression of Paper/Final Paper </p>
+* 1.1.6.1 Chapter 1 (Introduction)
+* 1.1.6.2 Chapter 2 (RRL/RRS)
+* 1.1.6.3 Chapter 3 (Current System)
+* 1.1.6.4 Chapter 4 (Proposed System)
+* 1.1.6.5 Chapter 5 (Requirement Analysis)
+* 1.1.6.6 Chapter 6 (Conclusion)
+* 1.1.6.7 Proofreading
+* 1.1.6.8 Creation of presentation deck
+* 1.1.6.9 Submission of final Requirements for Final Presentation
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNSTDEV Finals Evaluation </p>
-* Final Presentation (Sprint 2)
-* Revision for Comment Matrix and Final Paper
-* Submission of MNSTDEV FINAL Documents
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.7 MNSTDEV Finals Evaluation </p>
+* 1.1.7.1 Final Presentation (Sprint 2)
+* 1.1.7.2 Revision for Comment Matrix and Final Paper
+* 1.1.7.3 Submission of MNSTDEV FINAL Documents
 </td>      
 </tr>
 <tr>
 <td>
-<p style="font-size: 1.17em; font-weight: bold;"> ANALYSIS AND DESIGN </p>
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Project Progression </p>
-* Initial analysis for Chapter 5 (Requirement Analysis)
-* Submission of MNSTDEV final documents
-* Implementation of GitHub Repository
-* Request letter for Adviser/Consultant
+<p style="font-size: 1.17em; font-weight: bold;"> 1.2 ANALYSIS AND DESIGN </p>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.1 MSYADD Project Progression </p>
+* 1.2.1.1 Initial analysis for Chapter 5 (Requirement Analysis)
+* 1.2.1.2 Submission of MNSTDEV final documents
+* 1.2.1.3 Implementation of GitHub Repository
+* 1.2.1.4 Request letter for Adviser/Consultant
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Team consultation </p>
-* Team meeting with Project adviser
-* Team meeting with Project Sponsor
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.2 MSYADD Team consultation </p>
+* 1.2.2.1 Team meeting with Project adviser
+* 1.2.2.2 Team meeting with Project Sponsor
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Inpidual Deliverables </p>
-* MSYADD Release Plan 
+* 1.2.4 MSYADD Release Plan 
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Release Plan </p>
-* Release Plan 1.1
-* Release Plan 1.2
+* 1.2.4.1 Release Plan 1.1
+* 1.2.4.2 Release Plan 1.2
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Week 3 - Week 4 </p>
-* Event Table
-* Use Case Diagram
-* Use Case Full Description
-* Data Flow Diagram
-* Context Flow Diagram
-* Entity Relationship Diagram
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.5 MSYADD Week 3 - Week 4 </p>
+* 1.2.5.1 Event Table
+* 1.2.5.2 Use Case Diagram
+* 1.2.5.3 Use Case Full Description
+* 1.2.5.4 Data Flow Diagram
+* 1.2.5.5 Context Flow Diagram
+* 1.2.5.6 Entity Relationship Diagram
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Week 5 - Week 7 </p>
-* Activity Diagram
-* Object Diagram
-* Class Diagram
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.6 MSYADD Week 5 - Week 7 </p>
+* 1.2.6.1 Activity Diagram
+* 1.2.6.2 Object Diagram
+* 1.2.6.3 Class Diagram
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Midterm Evaluation </p>
-* Pre-midterm Presentation (Sprint 3)
-* Midterm Presentation (Sprint 4)
-* Revision Midterm
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.7 MSYADD Midterm Evaluation </p>
+* 1.2.7.1 Pre-midterm Presentation (Sprint 3)
+* 1.2.7.2 Midterm Presentation (Sprint 4)
+* 1.2.7.3 Revision Midterm
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Week 8 - Week 9 </p>
-* Sequence Diagram
-* State Machine Diagram
-* Package Diagram
-* Deployment Diagram
-* Component Diagram
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.8 MSYADD Week 8 - Week 9 </p>
+* 1.2.8.1 Sequence Diagram
+* 1.2.8.2 State Machine Diagram
+* 1.2.8.3 Package Diagram
+* 1.2.8.4 Deployment Diagram
+* 1.2.8.5 Component Diagram
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Final Evaluation </p>
-* MSYADD Pre-final Presentation (Sprint 5)
-* MSYADD Final Presentation (Sprint 6)
-* Revision for Final Paper
-* Submission of Final Requirements
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.9 MSYADD Final Evaluation </p>
+* 1.2.9.1 MSYADD Pre-final Presentation (Sprint 5)
+* 1.2.9.2 MSYADD Final Presentation (Sprint 6)
+* 1.2.9.3 Revision for Final Paper
+* 1.2.9.4 Submission of Final Requirements
 </td>
 </tr>
 
 <tr>
 <td>
-<p style="font-size: 1.17em; font-weight: bold;"> DEVELOPMENT&nbsp; </p>
+<p style="font-size: 1.17em; font-weight: bold;"> 1.3 DEVELOPMENT&nbsp; </p>
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Project Progression  </p>
-* Submission of MSYADD Final Documents 
-* Request letter for Adviser/Consultant 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.1 MCSPROJ Project Progression  </p>
+* 1.3.1.1 Submission of MSYADD Final Documents 
+* 1.3.1.2 Request letter for Adviser/Consultant 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Release Plan    </p>
-* Finalizing Release 1 
-* Release Plan 2 
-* Release Plan 3 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.2 MCSPROJ Release Plan    </p>
+* 1.3.2.1 Finalizing Release 1 
+* 1.3.2.2 Release Plan 2 
+* 1.3.2.3 Release Plan 3 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Midterm Deliverables   </p>
-* Creation of Gantt Chart 
-* Creation of WBS 
-* Creation of Activity List 
-* Creation of Project Vision and Scope Progression 
-* Creation of Statement of Work Progression 
-* Creation of Project Charter Progression 
-* Pre-midterm Presentation (Sprint 7) 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.3 MCSPROJ Midterm Deliverables   </p>
+* 1.3.3.1 Creation of Gantt Chart 
+* 1.3.3.2 Creation of WBS 
+* 1.3.3.3 Creation of Activity List 
+* 1.3.3.4 Creation of Project Vision and Scope Progression 
+* 1.3.3.5 Creation of Statement of Work Progression 
+* 1.3.3.6 Creation of Project Charter Progression 
+* 1.3.3.7 Pre-midterm Presentation (Sprint 7) 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Team consultation   </p>
-* Team meeting with Project adviser 
-* Team meeting with Project Sponsor 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.4 MCSPROJ Team consultation   </p>
+* 1.3.4.1 Team meeting with Project adviser 
+* 1.3.4.2 Team meeting with Project Sponsor 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Midterm Evaluation   </p>
-* Submission of Midterm Requirement 
-* MCSPROJ Final Presentation (Sprint 8) 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.5 MCSPROJ Midterm Evaluation   </p>
+* 1.3.5.1 Submission of Midterm Requirement 
+* 1.3.5.2 MCSPROJ Final Presentation (Sprint 8) 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Finals Deliverables    </p>
-* Creation of Test Case 
-* Creation of Quality Plan 
-* Creation of User Acceptance 
-* Creation of Change Management Plan 
-* Updating MCSPROJ Final Paper 
-* Creation of Proofreading Endorsement 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.6 MCSPROJ Finals Deliverables    </p>
+* 1.3.6.1 Creation of Test Case 
+* 1.3.6.2 Creation of Quality Plan 
+* 1.3.6.3 Creation of User Acceptance 
+* 1.3.6.4 Creation of Change Management Plan 
+* 1.3.6.5 Updating MCSPROJ Final Paper 
+* 1.3.6.6 Creation of Proofreading Endorsement 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Finals Evaluation      </p>
-* Submission of MCSPROJ Final Requirements 
-* MCSPROJ Final Presentation (Sprint 9) 
-
-</td>
-</tr>
-
-<tr>
-<td>
-<p style="font-size: 1.17em; font-weight: bold;"> IMPLEMENTATION  </p>
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Project Progression    </p>
-* Submission of MCSPROJ Final Documents 
-* Request Letter for Adviser/Consultant 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 1-3     </p>
-* Creation of Project Charter 
-* Creation of Business Case 
-* Creation of Stakeholders Management Strategy Plan 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 4-6    </p>
-* Creation of Scope Management Plan 
-* Creation of Cost Management Plan 
-* Creation of Time Management Plan 
-* Creation of Work Breakdown Structure 
-* Creation of Work Packages based on WBS. 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> System Updates    </p>
-* Testing 1
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Midterm Evaluation    </p>
-* Submission of PROJMAN Midterm Requirements 
-* PROJMAN Midterm presentation (Sprint 10) 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 8-10     </p>
-* Creation of HR Management Plan 
-* Creation of Quality Management Plan 
-* Creation of Risk Management Plan 
-* Creation of Communications Management Plan 
-* Creation of Procurement Management Plan 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 11      </p>
-* Creation of Project Status Reports Distribution Plan 
-* Creation of Change Request Documentation 
-* Creation of Project Execution Monitoring Report 
-* Creation of Implementation Plan 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 12      </p>
-* Creation of Change Management Plan 
-* Creation of Project Status Reports 
-* Creation of Transition-Out Plan 
-* Creation of Project Turn-Over Plan 
-* Creation of Post Project Review Plan 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 13      </p>
-* Creation of Consolidated Project Plan
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Final Evaluatio      </p>
-* Submission of PROJMAN Final Requirements 
-* PROJMAN Final presentation (Sprint 11) 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.7 MCSPROJ Finals Evaluation      </p>
+* 1.3.7.1 Submission of MCSPROJ Final Requirements 
+* 1.3.7.2 MCSPROJ Final Presentation (Sprint 9) 
 
 </td>
 </tr>
 
 <tr>
 <td>
-<p style="font-size: 1.17em; font-weight: bold;"> CLOSEOUT  </p>
+<p style="font-size: 1.17em; font-weight: bold;"> 1.4 IMPLEMENTATION  </p>
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> System and documentation handover    </p>
-* System and documentation handover 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.1 PROJMAN Project Progression    </p>
+* 1.4.1.1 Submission of MCSPROJ Final Documents 
+* 1.4.1.2 Request Letter for Adviser/Consultant 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> Gain Formal Acceptance     </p>
-* Gain Formal Acceptance  
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.2 PROJMAN Week 1-3     </p>
+* 1.4.2.1 Creation of Project Charter 
+* 1.4.2.2 Creation of Business Case 
+* 1.4.2.3 Creation of Stakeholders Management Strategy Plan 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> Project close-out meeting.     </p>
-* Project close-out meeting. 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.3 PROJMAN Week 4-6    </p>
+* 1.4.3.1 Creation of Scope Management Plan 
+* 1.4.3.2 Creation of Cost Management Plan 
+* 1.4.3.3 Creation of Time Management Plan 
+* 1.4.3.4 Creation of Work Breakdown Structure 
+* 1.4.3.5 Creation of Work Packages based on WBS. 
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.4 System Updates    </p>
+* 1.4.4.1 Testing 1
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.5 PROJMAN Midterm Evaluation    </p>
+* 1.4.5.1 Submission of PROJMAN Midterm Requirements 
+* 1.4.5.2 PROJMAN Midterm presentation (Sprint 10) 
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.6 PROJMAN Week 8-10     </p>
+* 1.4.6.1 Creation of HR Management Plan 
+* 1.4.6.2 Creation of Quality Management Plan 
+* 1.4.6.3 Creation of Risk Management Plan 
+* 1.4.6.4 Creation of Communications Management Plan 
+* 1.4.6.5 Creation of Procurement Management Plan 
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.7 PROJMAN Week 11      </p>
+* 1.4.7.1 Creation of Project Status Reports Distribution Plan 
+* 1.4.7.2 Creation of Change Request Documentation 
+* 1.4.7.3 Creation of Project Execution Monitoring Report 
+* 1.4.7.4 Creation of Implementation Plan 
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.8 PROJMAN Week 12      </p>
+* 1.4.8.1 Creation of Change Management Plan 
+* 1.4.8.2 Creation of Project Status Reports 
+* 1.4.8.3 Creation of Transition-Out Plan 
+* 1.4.8.4 Creation of Project Turn-Over Plan 
+* 1.4.8.5 Creation of Post Project Review Plan 
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.9 PROJMAN Week 13      </p>
+* 1.4.9.1 Creation of Consolidated Project Plan
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.10 PROJMAN Final Evaluatio      </p>
+* 1.4.10.1 Submission of PROJMAN Final Requirements 
+* 1.4.10.2 PROJMAN Final presentation (Sprint 11) 
+
+</td>
+</tr>
+
+<tr>
+<td>
+<p style="font-size: 1.17em; font-weight: bold;"> 1.5 CLOSEOUT  </p>
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.5.1 System and documentation handover    </p>
+* 1.5.1.1 System and documentation handover 
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.5.2 Gain Formal Acceptance     </p>
+* 1.5.2.1 Gain Formal Acceptance  
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.5.3 Project close-out meeting.     </p>
+* 1.5.3.1 Project close-out meeting. 
 
 
 </td>
 </tr>
 </table>
 
+
+=9. SCHEDULE MANAGEMENT PLAN=
+
+==9.1 Introduction==
+
+The purpose of this Schedule Management Plan is to establish a clear, organized framework for managing the development and implementation of the South Signal Village Barangay Web Application Project. The significance of this plan lies in its ability to define the project timeline, coordinate team activities, ensure alignment with project goals, and allow for effective response to any changes or unexpected challenges. 
+
+This plan provides an overview of the project's key phases, from initial planning to final project closeout, each broken down into manageable sprints according to Agile methodologies within the Software Development Life Cycle (SDLC). It lays out the critical milestones, target dates, and corresponding activities, ensuring every step of the project is clearly outlined. 
+
+Moreover, the plan outlines the roles and responsibilities of each team member and stakeholder in maintaining the schedule and managing deviations. It introduces the approach for managing schedule changes and scope alterations, with a focus on thorough evaluation, documentation, and communication. 
+ 
+==9.2 Schedule Management Approach==
+
+Team Developmentality will utilize the Software Development Life Cycle (SDLC) throughout the project, specifically using the Agile Methodologies. The Software Development Cycle is one of the fundamental methods in developing software in a series of different phases. With the Agile method, the project will be broken down into smaller and more manageable parts called sprints. Each sprint focuses on delivering specific features or functionality that will guide the team thoroughly. 
+
+* '''A. Scheduling Tool''' <br> The team will use Project Libre to plan and record the project's progress by activities and phases. Based on the team schedule and the project scope, the project will be divided into five main phases:
+
+# '''Plannings''' <br> During this phase, the team defines the project's goals, requirements, scope, and objectives. The team then uses this information to develop a high-level project plan and a specific Sprint plan describing each sprint's activities and objectives. 
+# '''Analysis and Design''' <br> During this phase, the team evaluates the system analysis and detailed design identified in the planning phase. The primary goal of this phase is to create necessary system requirements that will guide the development team in creating the software. 
+# '''Development ''' <br> During this phase, the team will write codes and create the web app according to the created system analysis and detailed designs. 
+# '''Implementation''' <br> During this phase, the team will test the system using functional and performance testing to ensure the web app works appropriately based on the client's needs. The team will create necessary documents in this phase, such as the user manual for the Closeout phase.
+# '''Closeout''' <br> his phase will be the last phase of the project, wherein the team will hand over the system to the client.  
+
+* '''B. Schedule Milestones''' <br> The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined, this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. 
+   
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue" colspan="2"><p style="text-align:center;">'''Summary Milestone Schedule - List key project milestones relative to project start.'''</p></td>
+                
+	</tr>
+
+	<tr>
+		<td bgcolor="grey"><p style="text-align:center;">'''Project Milestone'''</p></td>
+                <td bgcolor="grey"><p style="text-align:center;">'''Target Date'''<br>'''(mm/dd/yyyy)'''</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Project Start'''</p></td>
+                <td bgcolor=""><p style="text-align:center;">03/30/2022 )</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Planning'''<br>- Midterm Presentation (Sprint 1)<br>- Final Presentation (Sprint 2)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>03/05/2022<br>04/06/2022</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Analysis and Design'''<br>- Pre-midterm presentation (Sprint 3)<br>- Midterm Presentation (Sprint 4)<br>- Final Requirement (Sprint 5)<br>- Pre-final Presentation (Sprint 5)<br>- Final Presentation (Sprint 6)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>09/23/2022<br>09/28/2022<br>10/03/2022<br>10/28/2022<br>11/02/2022</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Development'''<br>- Initial Release 1 Prototype<br>- Release 2<br>- Release 3<br>- Pre-midterm Presentation (Sprint 7)<br>- Midterm Presentation (Sprint 8)<br>Final Presentation (Sprint 9)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>08/22/2022<br>08/28/2022<br>01/12/2023<br>01/09/2023<br>01/09/2023<br>03/03/2023</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Implementation'''<br>- Midterm Presentation (Sprint 10)<br>- Final Presentation (Sprint 11)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>05/04/2023<br>06/26/2023</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Close-out'''<br>- System and Documentation Handover<br>- Gain Formal Acceptance<br>Project Close out meeting</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>06/05/2023<br>06/13/2023<br>06/25/2023</p></td>
+	</tr>
+</table>
+
+
 ==9.3 Schedule Control==
 
 Schedule Control is essential for project success and requires collaborative work from all team members and stakeholders. To ensure the schedule is under control, different roles and responsibilities for schedule development are as follows: 
 
 # '''Project Manager''' <br> responsible for developing and maintaining the project schedule, communicating progress to stakeholders, identifying, and managing schedule-related risks and issues, and updating the schedule as needed.
-# '''Product Owner'''  <br> works with the Project Manager and Scrum Team to ensure project deliverables align with the schedule, prioritize requirements according to the schedule, and provide input on changes to the schedule. 
-# '''Scrum Master''' <br> ensures the team follows the schedule and Scrum framework, manages schedule-related risks and issues, and works with the Project Manager and Product Owner to ensure the project progresses according to the schedule. 
-# '''Scrum Team'''  <br> develops project deliverables according to the schedule, communicates schedule-related risks or issues to the Project Manager and Scrum Master, and adheres to the schedule. 
-# '''Documentation Manager'''  <br> ensures project documentation aligns with the schedule and provides updates on any changes to the schedule. 
+# '''Product Owner''' <br> works with the Project Manager and Scrum Team to ensure project deliverables align with the schedule, prioritize requirements according to the schedule, and provide input on changes to the schedule. 
+# '''Scrum Master'''  
+ensures the team follows the schedule and Scrum framework, manages schedule-related risks and issues, and works with the Project Manager and Product Owner to ensure the project progresses according to the schedule. 
+# '''Scrum Team''' <br> develops project deliverables according to the schedule, communicates schedule-related risks or issues to the Project Manager and Scrum Master, and adheres to the schedule. 
+# '''Documentation Manager''' <br> ensures project documentation aligns with the schedule and provides updates on any changes to the schedule. 
 # '''Stakeholders''' <br> accept project deliverables as defined by the schedule and provide input on changes to the schedule.
 # '''Class Adviser and Project Adviser ''' <br> provide guidance on managing the project schedule and ensure alignment with relevant requirements and goals. 
 
@@ -686,6 +749,7 @@ The boundary conditions will be thoroughly discussed by the team with the projec
 ==9.5 Scope Change==
 
 The team needs to document all scope changes, including the reason for the change, the impact on the project, and any changes to the project schedule or budget. Update the project plan to reflect any scope changes. Communicate all scope changes to stakeholders, including the impact on the project's budget, schedule, and quality. Be transparent about the reasons for the change and the expected outcomes. 
+
 
 =10. WORK BREAKDOWN STRUCTURE=
 
