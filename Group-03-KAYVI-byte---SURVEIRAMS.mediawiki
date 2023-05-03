@@ -442,10 +442,10 @@ Phase V: A new digital blue slip will be implemented for violators to speed up t
 <h2>Executive Summary</h2>
 <p>Asia Pacific College (APC) has been using a manual process for recording incident reports and other activities using a logbook. This proved to be time-consuming as well as tedious due to its repetitiveness. SurveiRams is a mobile application that would address these concerns. It will automate the manual documentation process, as well as provide insights based on the data collected.</p>
 <h2>Project Purpose/Justification</h2>
-<h2>Business Need/Case</h2>
+<h3>Business Need/Case</h3>
 <p>The SurveiRams project has been created to improve the incident reporting process. The APC employees involved will be more productive, make less errors, as well as spend less time on one report by using the mobile application. </p>
 
-<h2>Business Objectives</h2>
+<h3>Business Objectives</h3>
 <p>The general business objective is to develop SurveiRams, a ticketing system for APC’s security personnel, ITRO, and BMO to record incident reports and logs. It will provide insights into the security personnel’s routes to ensure they have completed their assigned tasks.</p>
 <p>Specifically, the SurveiRams mobile application should act as the centralized location of the guards’ patrol logs, automate the log documentations, and provide analytics to help stakeholders in their decision-making.</p>
 
@@ -458,7 +458,7 @@ This is to digitize the security personnel’s recording process, as well as boo
 productivity. There will be different accessible features available depending on the 
 user, which is based on what office or department they are from.</p>
 
-<h2>Project Objectives and Success Criteria</h2>
+<h3>Project Objectives and Success Criteria</h3>
 <p>The objectives which mutually support the milestones and deliverables for this project have been identified.  In order to achieve success on the SurveiRams project, the following objectives must be met within the designated time and budget allocations:</p>
 
 <ul>
@@ -470,7 +470,7 @@ user, which is based on what office or department they are from.</p>
 <li>Implement the solution across the APC organization within the next term (SOFTDEV).</li>
 </ul>
 
-<h2>Requirements</h2>
+<h3>Requirements</h3>
 <p>This project must meet the following list of requirements in order to achieve success.</p>
 <ul>
 <li>The application must be tested and approved by the client, project sponsor, and other relevant stakeholders prior to deployment.</li>
@@ -478,7 +478,7 @@ user, which is based on what office or department they are from.</p>
 </ul>
 <p>Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward.</p>
 
-<h2>Constraints</h2>
+<h3>Constraints</h3>
 <p>The following constraints pertain to the SurveiRams project:</p>
 <ul>
 <li>All mobile devices to be used by the security personnel are exclusive of the allocated budget.</li>
@@ -486,7 +486,7 @@ user, which is based on what office or department they are from.</p>
 <li>Two software developers, two documentation specialists, and a project manager will be provided as resources for this project.</li>
 </ul>
 
-<h2>Assumptions</h2>
+<h3>Assumptions</h3>
 <p>The following are a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:</p>
 <ul>
 <li>This project has the full support of the client, project sponsor, stakeholders, and project adviser.</li>
@@ -494,7 +494,7 @@ user, which is based on what office or department they are from.</p>
 <li>The project adviser and project sponsor will provide additional resources if necessary.</li>
 </ul>
 
-<h2>Preliminary Scope Statement</h2>
+<h3>Preliminary Scope Statement</h3>
 <p>The SurveiRams project aims to create a more robust ticketing system for the entire organization. The project team will handle all aspects of the project, including administering personnel, hardware, and software resources, and all necessary testing will be conducted independently of daily operations. The Project Manager is responsible for securing project funding as outlined in this document. Additional funding must be approved by the project sponsor. The project will be considered complete once the SurveiRams system is tested and deployed throughout the organization, the final report is submitted within 30 days, and technical documentation is distributed to appropriate personnel.</p>
 
 <h2>Risks</h2>
@@ -593,16 +593,15 @@ user, which is based on what office or department they are from.</p>
 
 <h2>Summary Budget</h2>
 <p>The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project.</p>
-
+![image](https://user-images.githubusercontent.com/69951803/235903018-f7a53dda-b995-44e9-9a6a-b20492c64495.png)
 
 <h2>Project Approval Requirements</h2>
-<p>
-	lorem
-</p>
+<p>The ultimate objective of the SurveiRams project is to deploy a fully tested and well-documented ticketing system within the time and budget limitations specified in this charter. The project's success criteria will include a list of recommended future enhancements, as the solution is expected to evolve to accommodate future changes. The project sponsor, Mr. Jojo F. Castillo, who will authorize its completion, will ultimately determine whether the project has met the success criteria.</p>
+
 <h2>Project Manager</h2>
-<p>
-	lorem
-</p>
+<p>Alexis Martin has been designated as the Project Manager for the SurveiRams project. As the Project Manager, Mr. Martin will be responsible for overseeing the project's scope management, which includes collaborating with Mr. Jojo Castillo, the project sponsor, and other key stakeholders to define and effectively manage the project scope.<p>
+<p>He will oversee the fulfillment of all project requirements, ensuring that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders. Furthermore, he will have the authority to make decisions related to personnel, project expenditures, and scheduling, as determined by the organization and scope of the project. Throughout the project lifecycle, he will be responsible for ensuring that the project is completed successfully and all deliverables are accepted, and any outstanding issues are resolved.</p>
+
 =Stakeholder Strategy Management Plan=
 
 <h2>Introduction</h2>
