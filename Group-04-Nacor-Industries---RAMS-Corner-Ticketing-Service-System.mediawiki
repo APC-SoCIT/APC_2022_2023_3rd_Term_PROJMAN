@@ -314,7 +314,7 @@ The following are a list of assumptions.  Upon agreement and signature of this d
 === 5.3.5. Preliminary Scope Statement ===
 RAMS Corner Ticketing System will be designed, developed, and tested by Nacor Industries to deliver an alternative working environment for the ITRO to modernize and improve their workflow efficiency. All project-related work will be independent of daily and ongoing operations and all required testing will be done either within the APC school grounds or the team’s individual workplaces. Nacor Industries would also not be obliged to comply with or entertain all changes made or requested for the application after the end of the said subject’s duration, unless done so voluntarily. 
 
-== 5.4 Risk ==
+== 5.4. Risk ==
 The following denotes all the risks that have been identified upon the possible implementation of the RAMS Corner Ticketing System. To ensure the success of the project and to minimize the threat and possibilities of any of the following to occur, the team will be sure to mitigate and create an effort to minimize its effects.   
 
 *Potential disruption to operations during solution deployment 
@@ -325,7 +325,7 @@ The following denotes all the risks that have been identified upon the possible 
 
 *Probable refusal or lack of knowledge of some ITRO Clients about the newly implemented system 
 
-== 5.5 Project Deliverables ==
+== 5.5. Project Deliverables ==
 The following deliverables must be met upon the successful deployment of the RAMS Corner Ticketing System.  Any changes to these deliverables must be approved by the project adviser. 
 
 *Fully deployed and accessible web application for ITRO and their clients 
@@ -334,7 +334,7 @@ The following deliverables must be met upon the successful deployment of the RAM
 
 *Post-deployment surveys would also be given to the ITRO and their clients to assess the satisfaction rate as well as to receive any feedback regarding the concerns and recommendations regarding the application. 
 
-== 5.6 Summary Milestone Schedule ==
+== 5.6. Summary Milestone Schedule ==
 The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. 
 
 <table border="1" width="70%" align="center">
@@ -372,15 +372,15 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
                 <td bgcolor=""><p style="text-align:center;"><br>06/05/2023<br>06/13/2023<br>06/25/2023</p></td>
 	</tr>
 </table>
-== 5.7 Summary Budget ==
+== 5.7. Summary Budget ==
 
-== 5.8 Project Approval Requirements ==
+== 5.8. Project Approval Requirements ==
 RAMS Corner Ticketing System’s success will be achieved when fully fleshed-out software is published and is installed within the devices of the ITRO Office and their clientele within the time and cost constraints indicated in this charter. To further assess the success of the project, post-deployment surveys would be done in order to gauge the effectivity of the solution, along with any other possible recommendations or suggestions that might be useful for the betterment of the system which would be determined by the Project Adviser, Mr. Alvin Limpin, the Project’s Beneficiary, Mr. Jojo Castillo and the MCSPROJ Subject Course Adviser, Prof. Manuel Sebastian Sanchez, who will also authorize the completion of the project. 
 
-== 5.9 Project Manager ==
+== 5.9. Project Manager ==
 Allan Vincent Nefalar was named Project Manager until the completion of the RAMS Corner Ticketing System. Mr. Nefalar’s responsibility is to manage all project tasks, scheduling, and communication regarding the project. His team, the entirety of Nacor Industries, consists of four BSIT students of varying specialties and skillsets who will dedicate their efforts towards the development and completion of the project. The team will provide updates to the subject course adviser within the pre-scheduled dates.
 
-== 6.0 Authorization ==
+== 5.10. Authorization ==
 
 
 
