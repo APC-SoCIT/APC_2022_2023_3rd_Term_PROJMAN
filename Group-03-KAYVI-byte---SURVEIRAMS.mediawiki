@@ -590,10 +590,55 @@ user, which is based on what office or department they are from.</p>
 
 <h2>Stakeholder Analysis</h2>
 <table border="1" width="70%" align="center">
+<tr>
 <td width="394" bgcolor="lightblue">
 <p><strong>Milestone</strong></p>
 </td>
-
+<td width="190" bgcolor="lightblue">
+<p><strong>Timeline</strong></p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Project Charter</p>
+</td>
+<td width="190">
+<p>1<sup>st </sup>month</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Project Approval</p>
+</td>
+<td width="190">
+<p>2<sup>nd </sup>month</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Developing the Website</p>
+</td>
+<td width="190">
+<p>3<sup>rd </sup>to 8<sup>th</sup> month</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Complete Test Plan</p>
+</td>
+<td width="190">
+<p>9<sup>th</sup> month</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Finalizing the Document</p>
+</td>
+<td width="190">
+<p>10<sup>th</sup> month</p>
+</td>
+</tr>
+</table>
 
 
 
