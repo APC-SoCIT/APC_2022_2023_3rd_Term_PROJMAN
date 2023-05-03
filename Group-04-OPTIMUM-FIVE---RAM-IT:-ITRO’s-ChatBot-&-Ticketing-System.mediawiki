@@ -397,6 +397,15 @@ It will be possible to establish the scope baseline by incorporating the scope d
 <p>The Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed.  CPI is calculated as EV/AC.  If CPI is equal to 1 the project is perfectly on budget.  If the CPI is greater than 1 the project is under budget if it’s less than 1 the project is over budget. </p> <br>
 
 ==Reporting Format==
+<p>The reporting of the cost management plan will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Pl and will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p> <br>
+
+<p>The reports regarding the cost management plan will be part of the monthly project status report. It will be included in the section labeled “Cost Management”. The delivery of the reports will be curated as accessible and simple to understand for the client, project team, and stakeholders. </p>
+
 ==Cost Variance Reponse Process==
+
+<p>The Control Thresholds for this project are a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and how the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan, it will become a part of the project plan and the project will be updated to reflect the corrective actions. </p>
+
 ==Cost Change Control Process==
+<p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
 ==Project Budget==
+<p>The budget for this project is detailed below.  Costs for this project are presented in various categories... </p>
