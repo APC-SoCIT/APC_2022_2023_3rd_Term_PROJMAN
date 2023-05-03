@@ -103,43 +103,30 @@
 
 	</tr>
 	<tr>
-		<td><p style="text-align:center;"><em>Marc Julian Sajul</em></p></td>
-                <td><p style="text-align:center;"><em>Front End Developer</em></p></td>
+		<td><p style="text-align:center;">Project Manager</p></td>
 		<td width="517">
-<p><em>Programs the UI of RAM-IT.</em></p> </td>
+<p>·         <em>Manages the whole project and leads the project to success. Communicates with Stakeholders and oversees the whole team’s progress. </em></p>
 
 </td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;"><em>Marc Julian Sajul</em></p></td>
-                <td><p style="text-align:center;"><em>Front End Developer</em></p></td>
+		<td><p style="text-align:center;">Project Team Members and Subject Matter Experts (SMEs)</p></td>
 		<td width="517">
-<p><em>Programs the UI of RAM-IT.</em></p> </td>
-
+<p>·         <em>Help develop the project scope statement.</em></p>
+<p>·         <em>Submit scope change requests.</em></p>
+<p>·         <em>Review Scope Change requests when assigned.</em></p>
+<p>·         <em>Provide feedback as and when required.</em></p>
+<p>·         <em>Participate in team-level scope change reviews.</em></p>
 </td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;"><em>Marc Zamora</em></p></td>
-                <td><p style="text-align:center;"><em>Back End Developer</em></p></td>
-		<td width="517">
-<p><em>Programs the UX of RAM-IT.</em></p> </td>
-
-</td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;"><em>John Christopher Langcauon</em></p></td>
-                <td><p style="text-align:center;"><em>Documentation</em></p></td>
-		<td width="517">
-<p><em>Create the necessary paper deliverables of the project as well as documenting the entire process of completing the project.</em></p> </td>
-
-</td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;"><em>Jan Gabriel Prion</em></p></td>
-                <td><p style="text-align:center;"><em>Documentation</em></p></td>
-		<td width="517">
-<p><em>Create the necessary paper deliverables of the project as well as documenting the entire process of completing the project.</em></p> </td>
-
+		<td><p style="text-align:center;">Independent Verification and Validation (IV&amp;V)</p>
+<p style="text-align:center;">Project Adviser</p></td>
+<td width="517">
+<p>·         <em>Provides an ongoing independent review and analysis of project scope management practices.</em></p>
+<p>·         <em>Monitors scope changes and provide feedback.</em></p>
+<p>·         <em>Approves major scope change requests.</em></p>
+<p>·         <em>Approval of all documentation throughout the project.</em></p>
 </td>
 	</tr>
 </table>
@@ -148,14 +135,11 @@
 ==Problem Definition==
 <p> The ITRO has been handling inquiries regarding technical concerns, concerns can range from password problems, borrowing equipment, and many more. They do this with the use of Microsoft Outlook and allowing students to inquire in-person by visiting the ITRO office. The problem with this method however (especially for online inquiries) is that time for inquiries to be addressed will always vary with the ITRO’s availability. Another problem is that ITRO doesn’t have a method to track all their inquiries all at once in a single page, leading them to always backtrack within their e-mails. Lastly, they are unable to identify if the concerns being given to them are questions that already have answers to them before or specific questions that need their communication to be resolved.</p>
 ===Problem Statement===
-<p>The ITRO has been handling inquiries regarding technical concerns, concerns can range from password problems, borrowing equipment, and many more. They do this with the use of Microsoft Outlook and allowing students to inquire in-person by visiting the ITRO office. The problem with this method however (especially for online inquiries) is that time for inquiries to be addressed will always vary with the ITRO’s availability. Another problem is that ITRO doesn’t have a method to track all their inquiries all at once in a single page, leading them to always backtrack within their e-mails. Lastly, they are unable to identify if the concerns being given to them are questions that already have answers to them before or specific questions that need their communication to be resolved. </p>
-===Organizational Impact===
-<p>RAM-IT will influence how and where inquiries regarding ITRO will be sent and addressed. It will modify the way ITRO can track, delegate, and address inquiries, as well as make inquiries from APC community members more trackable and easier to follow. 
 
-Existing roles can change as documentation is given an emphasis in the first months of planning, with these developers are adjusted to assist on documentation roles, but later on when the development phase starts, they will continue on with their developer role.
- </p>
+===Organizational Impact===
+
 ===Technology Migration===
-<p>The project will have a tremendous impact in terms of proficiency on handling the basic necessity on answering the problems of the previous system that was in-place The project will be implemented in the cloud servers and promote the website from there on </p>
+
 ==Project Overview==
 
 ===Project Description===
@@ -175,6 +159,22 @@ Existing roles can change as documentation is given an emphasis in the first mon
 ==Cost Benefit Analysis==
 
 ==Alternative Analysis==
+
+=Scope Management Plan=
+==Introduction==
+<p> The RAMIT scope management plan will provide an overview of the best practices and modern instruments that will be used to specify, record, and manage the project's scope. The project team will be able to use agile approaches and real-time collaboration technologies to provide a cutting-edge tool that satisfies the requirements of all the stakeholders that are involved.</p>
+
+<p> The scope of RAMIT will be defined through the following activities: </p>
+
+==Requirements gathering==
+<p>The project team will employ a number of methods to collect and Include user interviews, focus groups, and online surveys while documenting the system's needs.</p>   
+
+==User stories==
+<p>In order to describe the functionality of the project, the project team will generate user stories. system from the viewpoint of the ultimate user. The order of these stories will be determined by the development process and it will be guided by the business value.</p>   
+
+==Verify Scope==
+
+==Executive Summary==
 
 =Schedule Management Plan=
 
