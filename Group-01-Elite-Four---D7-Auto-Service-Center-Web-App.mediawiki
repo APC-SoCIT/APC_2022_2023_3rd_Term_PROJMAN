@@ -564,10 +564,17 @@ The project assumptions for the project are as follows:
 
 
 ==7.6 Work Breakdown Structure==
+The WBS is used to break down the project scope into smaller, manageable deliverables that are tracked throughout the project's life. While, the WBS Dictionary provides a detailed description of each deliverable, including its scope, timeline, cost, and quality requirements. 
 
 ==7.7 Scope Verification==
+To ensure that all deliverables adhere to the original scope and specifications listed in the scope management plan, the scope verification process will be carried out. The project team will collaborate with the client and other key parties to guarantee that all needs have been met, and a precise checklist will be prepared for the acceptance requirements for each deliverable. Any deviations from the scope management plan will be noted and dealt with in consultation with the appropriate parties. The project team will receive formal sign-off from the client after confirming and accepting all deliverables before proceeding to the next stage.
 
 ==7.8 Scope Control==
+Within the project’s scope control, is the planning of the project itself, the system analysis and design of the project, the preparation and development of the project, and the deployment of the web-app.
+
+This project will be under control during the PBL or Project Based Learning of the Elite Four team. The Elite Four will not be in control of any actions that the project sponsor and D7 personnel will make upon release of the web-app to the webhosting service.
+
+Any changes that will be made after deployment, may it be through the services, and the other features of the web-app, and cancellation of the webhosting, is not under the control of the Elite Four, but under the control of D7 Auto Service Center and their personnel.
 
 =8. COST MANAGEMENT PLAN=
 
