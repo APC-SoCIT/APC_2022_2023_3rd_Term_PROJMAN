@@ -638,9 +638,19 @@ user, which is based on what office or department they are from.</p>
 <p>High</p>
 </td>
 
+<td width="190">
 <p>High</p>
+</td>
+
+<td width="190">
 <p>Directly receive reports</p>
+</td>
+
+<td width="190">
 <p>Project Approval and uses of the application</p>
+</td>
+
+<td width="190">
 <p>Set a meeting</p>
 </td>
 </tr>
@@ -679,6 +689,7 @@ user, which is based on what office or department they are from.</p>
 </td>
 </tr>
 </table>
+
 
 
 
