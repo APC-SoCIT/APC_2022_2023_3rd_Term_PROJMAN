@@ -2321,31 +2321,43 @@ The project sponsor will review and approve scope changes based on the establish
     <td width="141"><p>2</p></td>
     <td width="64"><p>1.2</p></td>
     <td width="228"><p>Analysis and Design</p></td>
+    <td width="250"><p>Gathering requirements, identifying solutions, and creating a plan for the development of the Chubby Gourmet web application.</p></td>
+    <td width="64"><p>79 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>3</p></td>
     <td width="64"><p>1.2.1</p></td>
     <td width="228"><p>Initial Deliverables</p></td>
+    <td width="250"><p>First set of items of MSYADD1 to be completed for the project.</p></td>
+    <td width="64"><p>18 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.2.1.1</p></td>
     <td width="228"><p>Submission of MNTSDEV Documents</p></td>
+    <td width="250"><p>Providing revised MNTSDEV documents.</p></td>
+    <td width="64"><p>1 day</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.2.1.2</p></td>
     <td width="228"><p>Creation of Github Repository</p></td>
+    <td width="250"><p>Creation of a GitHub repository for the project's source code and related files.</p></td>
+    <td width="64"><p>1 day</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.2.1.3</p></td>
     <td width="228"><p>Choose Adviser/Consultant</p></td>
+    <td width="250"><p>Selecting an adviser to provide guidance and expertise throughout the project.</p></td>
+    <td width="64"><p>18 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>3</p></td>
     <td width="64"><p>1.2.2</p></td>
     <td width="228"><p>Team Meetings</p></td>
+    <td width="250"><p>Scheduled meetings of project team members to discuss progress.</p></td>
+    <td width="64"><p>57 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
