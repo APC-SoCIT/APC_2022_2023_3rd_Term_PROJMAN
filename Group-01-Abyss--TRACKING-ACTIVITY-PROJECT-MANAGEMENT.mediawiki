@@ -143,9 +143,59 @@
 
 <h2>Project Overview</h2>
 
+<p>The project aims to develop a website/system that will help the Asia Pacific College's Project Development Office monitor the progress of their internal and external projects promptly. The system will provide a platform that can enhance the PDO's capacity to track projects and generate reports efficiently.</p>
+
+<p>The project group will develop the system with the following intentions:</p>
+
+<p>•   &nbsp; Design and deploy software during PBL1 that can assist the PDO in tracking projects and generating reports in a timely manner. The software should be user-friendly and easily accessible with the PDO.</p>
+
+<p>•   &nbsp; Develop a collaboration space that can facilitate the dissemination of files, ideas, and information between student groups and faculty members. The collaboration space should be well-suited for project-based learning, allowing students and faculty to work together efficiently and effectively. </p>
+
+<p>•   &nbsp; The system should have the capacity to monitor the status of projects under PBL2. It should provide real-time updates on the progress of the projects and allow the PDO to manage expectations for industry partners. </p>
+
+<p>The project group will follow a project management framework that includes the following phases: </p>
+
+<p>•   &nbsp; Initiation: In this phase, the project group will define the project's scope and objectives, identify stakeholders, and establish the project team. </p>
+
+<p>•   &nbsp; Planning: The project group will develop a project plan that includes the project timeline, budget, and resources required. The group will also define the system requirements and specifications during this phase. </p>
+
+<p>•   &nbsp; Execution: The project group will implement the project plan by designing and developing the system. The group will also conduct tests and quality assurance during this phase. </p>
+
+<p>•   &nbsp; Monitoring and Controlling: In this phase, the project group will monitor the project's progress and make any necessary changes to ensure it is on track. </p>
+
+<p>•   &nbsp; Closure: The project group will deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met. </p>
+
 <h2>Goals and Objectives</h2>
 
+<p>The listed goals and objectives below are designed to achieve the project's goals, which are to enhance the Project Development Office's capacity to track project progress and generate reports in a timely manner, improve project delivery and industry partner satisfaction, provide a collaboration space for student groups and faculty members, develop a system that can monitor the status of projects under PBL2 and allow the PDO to manage project expectations efficiently, and ensure the confidentiality of project information through a robust security mechanism. </p>
 
+<p>Goals: </p>
+
+<p>•   &nbsp; Enhance the Project Development Office's capacity to track project progress and generate reports in a timely manner. </p>
+
+<p>•   &nbsp; Improve project delivery and industry partner satisfaction through timely project completion. </p>
+
+<p>•   &nbsp; Provide a collaboration space for student groups and faculty members to disseminate files, ideas, and information. </p>
+
+<p>•   &nbsp; Develop a system that can monitor the status of projects under PBL2 and allow the PDO to manage project expectations efficiently. </p>
+
+<p>•   &nbsp; Ensure the confidentiality of project information through a robust security mechanism. </p>
+
+<p>Objectives: </p>
+
+<p>•   &nbsp; Design and deploy software during PBL1 that can assist the PDO in tracking projects and generating reports in a timely manner. </p>
+
+<p>•   &nbsp; Develop a collaboration space that can facilitate the dissemination of files, ideas, and information between student groups and faculty members. </p>
+
+<p>•   &nbsp; Develop a system that can provide real-time updates on the progress of projects under PBL2 and allow the PDO to manage project expectations efficiently. </p>
+
+<p>•   &nbsp; Ensure that the system is user-friendly and easily accessible with the PDO. </p>
+
+<p>•   &nbsp; Ensure that the system has a robust security mechanism to protect the confidentiality of project information. </p>
+
+<p>•   &nbsp; Complete the project within the given timeline and budget. </p>
+
+<p>•   &nbsp; Deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met. </p>
 
 <h2>Risks</h2>
 <table width="795" border="1" width="70%" align="center">
@@ -346,64 +396,36 @@
 </table>
 
 <h2>Major Project Milestones</h2>
-<table border="1" width="70%" align="center">
-<tr>
-<td width="394" bgcolor="lightblue">
-<p><strong>Milestone</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>Timeline</strong></p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Charter</p>
-</td>
-<td width="190">
-<p>1<sup>st </sup>month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Approval</p>
-</td>
-<td width="190">
-<p>2<sup>nd </sup>month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Developing the Website</p>
-</td>
-<td width="190">
-<p>3<sup>rd </sup>to 8<sup>th</sup> month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Complete Test Plan</p>
-</td>
-<td width="190">
-<p>9<sup>th</sup> month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Finalizing the Document</p>
-</td>
-<td width="190">
-<p>10<sup>th</sup> month</p>
-</td>
-</tr>
-</table>
+
+<p>The specific timeline and milestones for each phase of the project will depend on the project scope, complexity, and resource availability. By breaking down the project into these major milestones, you can track progress and ensure that the project stays on schedule and within budget. </p>
+
+<p>Here are some possible major project milestones for the development and deployment of the tracking activity project management: </p>
+
+<p>•   &nbsp; Project Planning: This involves defining the project scope, objectives, requirements, and constraints, and creating a project plan outlining the project timeline, budget, and resource allocation. </p>
+
+<p>•   &nbsp; System Design: This involves designing the system architecture, interface, functionality, and security mechanisms, and creating detailed system specifications and wireframes. </p>
+
+<p>•   &nbsp; System Development: This involves coding, testing, and debugging the system's front-end and back-end components, as well as integrating the system with the PDO's existing technology infrastructure. </p>
+
+<p>•   &nbsp; System Testing: This involves testing the system's functionality, performance, usability, and security, as well as conducting user acceptance testing with the PDO and other stakeholders. </p>
+
+<p>•   &nbsp; System Deployment: This involves deploying the system on the PDO's servers or on a cloud-based platform, as well as configuring the system's settings, access permissions, and security protocols. </p>
+
+<p>•   &nbsp; User Training: This involves providing user training and documentation to the PDO's staff, faculty, and students, as well as conducting system demonstrations and providing ongoing technical support. </p>
+
+<p>•   &nbsp; System Maintenance: This involves monitoring the system's performance, troubleshooting issues, applying software updates and security patches, and ensuring the system's ongoing reliability and security. </p>
 
 <h2>Strategic Alignment</h2>
 
+<p>The project aligns with the goals and vision of the faculty, teachers and PDO which includes the needs to provide efficiency, enhancement of academic performance and simple to use application for tracking progress, task completion, display project information and monitoring projects being managed. Also, this project will be useful in taking on projects like PBL2, which many projects are based on. </p>
 
+<p>The range of this project will mostly impact the Faculty, PDO, teachers, and students. 	The project team will conduct a stakeholder analysis to understand and meet the needs 	and expectations of the users who will be involved in the project, which will be included 	in the project plan. The team will also conduct a risk analysis to detect the potential 	problems that may hinder the project progress. </p>
+
+<p>The project will be conducted with the guidance of the advisors, teachers, client, and the students assigned will work on the project with intensive research, documentation, and enough programming skills to ensure the project meet the requirements of the stakeholders. Lastly, to measure the project's success is if it has reached the approval of the panelist, also, the project team will analyze the efficiency and impact the project has on the participants or users. </p>
 
 <h2>Cost Benefit Analysis</h2>
 
-
+<p>The project will mostly include the cost of developing the software, how to use our instruction for the applications, and the server that will be used. The benefit side of this project, upon forming the analysis it can improve the delivery of the project, increasing the satisfaction of the client, increasing efficiency, and saving the time on project tracking and reporting. Other benefits include better collaboration and communication with student groups and faculty/teachers, and security and privacy of project information. </p>
 
 =Project Charter=
 
