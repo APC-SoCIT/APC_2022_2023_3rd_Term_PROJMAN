@@ -80,11 +80,11 @@
 
 ===Recommendation===
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are types of technology that can solve business problems, but the proponents have decided that a ticketing system with a chatbot feature will be the optimal choice. This is because it enables the ITRO to have a better and more efficient way of handling FAQs through the chatbot having prompted answers for frequent concerns that come from the community. A more effective way of handling specific concerns that are asked online is through the ticketing system and its chat feature in which the inquirer can communicate with an ITRO staff via chat. This also assists them in managing these inquiries, in terms of delegation of tasks and prioritizing the urgent concerns. It also enables them to have records and reports to give them data regarding the concerns that they face and how abundant they are given a span of time which are all available and displayed in the system.  </p>
+<p>There are types of technology that can solve business problems, but the proponents have decided that a ticketing system with a chatbot feature will be the optimal choice. This is because it enables the ITRO to have a better and more efficient way of handling FAQs through the chatbot having prompted answers for frequent concerns that come from the community. A more effective way of handling specific concerns that are asked online is through the ticketing system and its chat feature in which the inquirer can communicate with an ITRO staff via chat. This also assists them in managing these inquiries, in terms of delegation of tasks and prioritizing the urgent concerns. It also enables them to have records and reports to give them data regarding the concerns that they face and how abundant they are given a span of time which are all available and displayed in the system.  </p>
 
 ===Justification===
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>RAM-IT should be implemented as a system that enables ITRO to handle and manage inquiries, because it improves efficiency in terms of time and method of answering inquiries. Helpdesks and/or ticketing systems have been implemented in numerous companies and schools because they are helpful on enabling their respective technical offices on managing their inquiries, as well as have the inquirers having a designated platform to track and send their inquiries to the ITRO. It should also be implemented as the system can be further improved upon by the ITRO, for example, adding more features that are present in other existing ticketing systems that may benefit the project. The unique feature about RAM-IT is that it enables an efficient communication for two kinds of questions whether it be frequently asked questions which are answered through the chatbot if the inquiry is present there or specific questions which are addressed by the ITRO and will be communicated with them through the chat feature.</p>
 <p>&nbsp;</p>
 
 <h2>Business Case Analysis Team</h2>
@@ -140,7 +140,7 @@
 <br />
 
 ==Problem Definition==
-
+<p> The ITRO has been handling inquiries regarding technical concerns, concerns can range from password problems, borrowing equipment, and many more. They do this with the use of Microsoft Outlook and allowing students to inquire in-person by visiting the ITRO office. The problem with this method however (especially for online inquiries) is that time for inquiries to be addressed will always vary with the ITRO’s availability. Another problem is that ITRO doesn’t have a method to track all their inquiries all at once in a single page, leading them to always backtrack within their e-mails. Lastly, they are unable to identify if the concerns being given to them are questions that already have answers to them before or specific questions that need their communication to be resolved.</p>
 ===Problem Statement===
 
 ===Organizational Impact===
