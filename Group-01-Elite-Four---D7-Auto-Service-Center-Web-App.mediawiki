@@ -644,6 +644,19 @@ g) Reporting and Communication: <br>
 
 
 ==8.2 Measuring Project Costs==
+This section defines how the project’s costs will be measured. The PMBOK focuses on Earned Value Management for measuring and controlling a project’s costs. Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management.
+
+In this section you should detail how you will measure the project costs. What Earned Value measurements will be captured and reported upon. Will you use any tools, such as project management software, to assist in capturing Earned Value metrics? How will you forecast future project costs? Will you review cost performance over time, across work packages or schedule activities?
+
+Our example in this section measures four Earned Value measurements; Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI) and Cost Performance Index (CPI). For most typical projects these four measurements can provide enough insight for effective management without overburdening the Project Manager with Earned Value calculations and measurements.
+
+Schedule Variance (SV) is a measurement of the schedule performance for a project. It’s calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV). Since EV is the actual value earned in the project and the PV is the value our project plan says we should have earned at this point, when we subtract what we planned from the actual we have a good measurement which tells us if we are ahead or behind the baseline schedule according to our project plan. If SV is zero, then the project is perfectly on schedule. If SV is greater than zero, the project is earning more value than planned thus it’s ahead of schedule. If SV is less than zero, the project is earning less value than planned thus it’s behind schedule.
+
+Cost Variance (CV) is a measurement of the budget performance for a project. CV is calculated by subtracting Actual Costs (AC) from Earned Value (EV). As we already know, EV is the actual value earned in the project. AC is the actual costs incurred to date, thus when we subtract what our actual costs from the EV we have a good measurement which tells us if we are above or below budget. If CV is zero, then the project is perfectly on budget. If CV is greater than zero, the project is earning more value than planned thus it’s under budget. If CV is less than zero, the project is earning less value than planned thus it’s over budget.
+
+Schedule Performance Index (SPI) measures the progress achieved against that which was planned. SPI is calculated as EV/PV. If EV is equal to PV the value of the SPI is 1. If EV is less than the PV then the value is less than 1, which means the project is behind schedule. If EV is greater than the PV the value of the SPI is greater than one, which means the project is ahead of schedule. A well performing project should have its SPI as close to 1 as possible, or maybe even a little under 1.
+
+Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed. CPI is calculated as EV/AC. If CPI is equal to 1 the project is perfectly on budget. If the CPI is greater than 1 the project is under budget, if it’s less than 1 the project is over budget.
 
 ==8.3 Reporting Format==
 The reporting format that would be best suited for the cost management plan of the D7 Auto Service Web-App should be a detailed and comprehensive spreadsheet or table, preferably in Microsoft Excel or something similar. Detailing the relevant cost information like project budget, actual cost, projected costs, and any variances or discrepancies and any relevant information should be included in this format. 
@@ -718,7 +731,83 @@ The cost change or any updates regarding it will be reported at each meeting of 
 This process or steps will be implemented to the cost change to make sure that the proposed changes in the budget or costs are properly rationalized and identified and approved by each stakeholder of the project.
 
 ==8.6 Project Budget==
+The budget for the D7 Auto Service Center Web-App project is detailed below:
 
+The approved budget: ₱2,500,000
+
+The project’s duration is 12 months from Planning to Turn Over. Planning however, will be excluded, since the project will begin after client has confirmed.
+
+Salary Breakdown:
+<table border="1" width="70%" align="center">
+<th>Position</th>
+<th>Salary</th>
+<th>No. of Months</th>
+<th>Total</th>
+
+<tr>
+<td>Project Manager</td>
+<td>35,486</td>
+<td>12</td>
+<td>₱425,832</td>
+</tr>
+
+<tr>
+<td>Product Owner</td>
+<td>64,477</td>
+<td>12</td>
+<td>₱773,724</td>
+</tr>
+
+<tr>
+<td>Web Developer</td>
+<td>32,968</td>
+<td>12</td>
+<td>₱395,616</td>
+</tr>
+
+<tr>
+<td>Project Coordinator</td>
+<td>23,504</td>
+<td>12</td>
+<td>₱282,048</td>
+</tr>
+
+<tr>
+<td>Assistant Web Developer</td>
+<td>25,000</td>
+<td>3</td>
+<td>₱75,000</td>
+</tr>
+
+<tr>
+<td>Assistant Project Coordinator</td>
+<td>20,000</td>
+<td>3</td>
+<td>₱60,000</td>
+</tr>
+
+</table>
+
+Total Salary: ₱2,012,220.00 
+
+Direct Costs: 
+
+1. Maintenance Cost: ₱2,000.00 (Annually after project Turnover) 
+
+2. Food Allowance Cost: ₱900 x 365 = ₱328,500.00 (for 6 employees)  
+
+3. Transportation Allowance Cost: ₱600.00 x 365 = ₱219,000.00  (for 6 employees) 
+
+4. Contingency Cost: ₱50,000.00 (for 12 months) 
+
+5. Manpower Cost: ₱2,012,220.00 (for 12 months) 
+
+
+Total Project Cost:  ₱2,611,720.00
+  
+Indirect Costs: <br>
+Utilities <br>
+Equipment  
 
 =9. SCHEDULE MANAGEMENT PLAN=
 
