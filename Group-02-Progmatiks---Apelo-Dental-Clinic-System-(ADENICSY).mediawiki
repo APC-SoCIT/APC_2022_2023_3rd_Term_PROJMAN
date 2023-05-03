@@ -1143,10 +1143,10 @@ In summary, the Cost Management Plan will ensure that the project costs are effe
 		<td><p style="text-align:center;">Progmatiks Members</p></td>
 	</tr>
         <tr>
-		<td><p style="text-align:center;">Description: <br>All work to implement a new widget management system.</p></td>
+		<td><p style="text-align:center;" colspan="5">Description: <br>All work to implement a new widget management system.</p></td>
 	</tr>
         <tr>
-		<td><p style="text-align:center;">Complete Statement: <br>The project was initiated by the project manager and the members of the group.</p></td>
+		<td><p style="text-align:center;" colspan="5">Complete Statement: <br>The project was initiated by the project manager and the members of the group.</p></td>
 	</tr>
         <tr>
 		<td><p style="text-align:center;">Reference Docs</p></td>
