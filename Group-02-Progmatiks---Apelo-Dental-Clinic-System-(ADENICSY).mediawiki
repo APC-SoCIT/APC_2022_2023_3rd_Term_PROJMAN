@@ -154,6 +154,134 @@ In addition, the project aims to improve the current process by introducing agil
 <p> The project approval should come from the project sponsor and key stakeholder – Dr. Denroe Apelo, Owner of Apelo Dental Clinic. </p>
 
 
+=Stakeholder Management Strategy=
+==Introduction==
+<p>The goal of the stakeholder management strategy for the project is to effectively engage and manage the expectations of all stakeholders throughout the project life cycle. This includes identifying and analyzing stakeholder needs and interests, developing a communication plan to keep stakeholders informed and engaged, and managing stakeholder expectations to ensure that the project delivers value and meets the needs of all stakeholders.</p>
+
+<p>In addition, this stakeholder management plan for Apelo Dental Clinic Management System (ADENICSY) will ensure that the needs and expectations of all stakeholders are considered and balanced in the design and operation of the system. This includes ensuring that the system is effective and efficient in meeting the needs of its users, as well as being responsive to the concerns and feedback of stakeholders such as the owner, the dentists, the staffs, and the Patients. The objectives of this strategy are to:</p>
+<ul>
+   <li>Identify all key stakeholders and their level of interest in the project.</li>
+   <li>Analyze the needs and expectations of each stakeholder group.</li>
+   <li>Develop a communication plan to keep stakeholders informed and engaged throughout the project.</li>
+   <li>Identify and manage potential conflicts or competing objectives among stakeholders.</li>
+   <li>Ensure that the project delivers value and meets the needs of all stakeholders.</li>
+   <li>Establish a system for ongoing stakeholder engagement and feedback to monitor and evaluate the effectiveness of the stakeholder management plan and ensure that the project remains aligned with stakeholder needs and expectations.</li>
+   <li>Involving the stakeholders in the planning and decision–making process to help ensure that the concerns of the stakeholders are all considered.</li>
+</ul>
+<br>
+<p>Some potential strategies for a ADENICSY to have better stakeholder management could include:</p>
+<ul>
+   <li><b>Improving communication and transparency:</b> It can help improve communication between different stakeholders, such as dentists, patients, and staffs providing one repository for information reducing the chance of illegible records and patients can see their account transactions anytime and verifying their payments real-time.</li>
+   <li><b>Increasing efficiency:</b>  The clinic currently uses an index card to record their patient records that are stored in a tray. ADENICSY can omit the use of index cards, also removing the need for retrieval of index cards which sometimes get lost.</li>
+   <li><b>Improving customer experience:</b> Patients will be able to get their queueing number in ADENICSY, eliminating the need to go to the clinic early in the morning and go back when their queuing number is near. They will also be able to track the current number in the clinic in real-time allowing them to estimate their arrival in the clinic, reducing the waiting time to get operated. </li>
+   <li><b>Enhancing decision-making:</b> ADENICSY provides dashboard to the owner insights from the clinic’s operation data such as the number of customers that has served throughout the day, how much is the doctor to patient ratio, how long is the handling time of a certain procedure, which day of the month does a peak in patient occurs and more. This will enable the owner to have a better understanding of what’s happening in the clinic and aid him in better decision-making.</li>
+</ul>
+
+==Identify Stakeholders==
+<p>The goal of the Stakeholder Management Strategy for the ADENICSY project is to ensure that all stakeholders are identified, their interests and influence on the project are understood, and their needs and expectations are effectively managed. In other words, the aim of the stakeholder management strategy for ADENICSY is to identify and engage with all individuals or groups that have a personal stake in the project and will be impacted by its implementation or success. To achieve this, the project team will follow a structured methodology to identify stakeholders. This will involve conducting interviews with key personnel, reviewing relevant documents and data sources, and engaging with various stakeholders through focus groups and other consultation processes.</p>
+<p>To identify its stakeholders, a structured method can be used which involves:</p>
+<ul>
+   <li>Identifying all potential stakeholders through a stakeholder analysis. This includes. identifying internal stakeholders (such as employees and management) and external stakeholders (such as customers, suppliers, and regulatory bodies).</li>
+   <li>Prioritizing stakeholders based on their level of influence, power, and impact on the project. This will help determine how much time and resources should be allocated. towards engaging with each stakeholder.</li>
+   <li>Developing a stakeholder engagement plan to outline how each stakeholder will be engaged and communicated with throughout the project.</li>
+   <li>Maintaining ongoing communication with stakeholders to ensure that their needs and concerns are addressed and that the project stays on track.</li>
+</ul>
+<br>
+<p>Stakeholders will be defined as any individuals or groups who have an interest in or are impacted by the project, such as employees, customers (Technicians and Managers), Management team, and/or other organizational team members. The project team will use a stakeholder analysis tool to categorize stakeholders based on their level of interest and influence and will develop tailored communication and engagement plans for each stakeholder group. This will help to ensure that all stakeholders are kept informed about the project's progress and are able to provide input and feedback as needed. By effectively managing stakeholders, the project team can build support for the project, address any concerns or issues that may arise, and increase the chances of project success.</p>
+
+==Key Stakeholders==
+<p>The key stakeholders in this ADENICSY are the patients, the dentists, the staff, and the owner. These individuals will be directly impacted by the project as they are the primary users of the system. As such, it is important to ensure that their needs and concerns are properly addressed during the development of the system.</p>
+<p>In addition, the project sponsor and project manager have also been identified as key stakeholders as they will be responsible for ensuring the successful delivery of the project. It is essential to involve these stakeholders in the decision-making process and ensure that their input is taken into consideration throughout the project.</p>
+
+<table border="1" width="70%" align="center">
+     <tr>
+          <td><b>NAME</b></td>
+          <td><b>POSITION</b></td>
+          <td><b>INTERNAL/EXTERNAL</b></td>
+          <td><b>PROJECT ROLE</b></td>
+          <td><b>CONTACT INFORMATION</b></td>
+     </tr>
+     <tr>
+          <td><b>Denroe Apelo</b></td>
+          <td>Owner of Apelo Cental Clinic</td>
+          <td>Internal</td>
+          <td>Project Sponsor</td>
+          <td>denroe2003@gmail.com</td>
+     </tr>
+     <tr>
+          <td><b>ADC Dentists</b></td>
+          <td>ADC Dentists</td>
+          <td>Internal</td>
+          <td>Internal User of the System</td>
+          <td></td>
+     </tr>
+     <tr>
+          <td><b>ADC Staff</b></td>
+          <td>ADC Staff</td>
+          <td>Internal</td>
+          <td>External User of the System</td>
+          <td></td>
+     </tr>
+     <tr>
+          <td><b>ADC Patients</b></td>
+          <td>ADC Patients</td>
+          <td>External</td>
+          <td>External User of the System</td>
+          <td></td>
+     </tr>
+     <tr>
+          <td><b>Janssen Pedrola</b></td>
+          <td>Student at Asia Pacific College</td>
+          <td>External</td>
+          <td>Project Manager</td>
+          <td>jtpedrola@student.apc.edu.ph</td>
+     </tr>
+</table>
+
+==Stakeholder Analysis==
+<p>Conducting a stakeholder analysis is a crucial element of the stakeholder management plan for ADENICSY. It involves identifying and evaluating all individuals or groups that have a vested interest in the project and will be impacted by its implementation or success. By conducting a stakeholder analysis, the project team can determine who the key stakeholders are, their level of influence and power, and their potential impact on the project. This information is crucial for developing an effective stakeholder management strategy, as it helps the project team to prioritize the stakeholders and determine how best to engage and communicate with them throughout the project. The table below outlines the stakeholders for the project, indicating those who have a high or low level of interest and power in the development process.</p>
+
+<table border="1" width="70%" align="center">
+<tr>
+     <td><b>NAME</b></td>
+     <td><b>POWER/INTEREST</b></td>
+     <td><b>CURRENT ENGAGEMENT</b></td>
+     <td><b>POTENTIAL MANAGEMENT STRATEGIES</b></td>
+</tr>
+<tr>
+     <td><b>Denroe Apelo</b></td>
+     <td>High</td>
+     <td>Supportive</td>
+     <td>Dr. Denroe collaborates well and is very hopeful for the implementation of the project as he put first his patient’s welfare in his clinic. Inform him at least 3 days ahead to set a meeting as he is a busy person.</td>
+</tr>
+<tr>
+     <td><b>ADC Dentists</b></td>
+     <td>Low</td>
+     <td>Neutral</td>
+     <td>Dr. Denroe can recommend a Dentist anytime if there’s a need for interaction with one. Dentists there will tell the team to ask Dr. Denroe first before the engaged with you with the project.</td>
+</tr>
+<tr>
+     <td><b>ADC Staffs</b></td>
+     <td>Low</td>
+     <td>Neutral</td>
+     <td>The staff are always occupied, especially during peak days in the clinic, but they are responsive when they are not busy. Hence, the team should set a meeting during non-peak days in the clinic.</td>
+</tr>
+<tr>
+     <td><b>ADC Patients</b></td>
+     <td>Low</td>
+     <td>Neutral</td>
+     <td>There are always patients in the clinic, but they have varied traits and characteristics given their demographics too. It’s better to get insights from various patients in different groups to get a rich insight about the clinic.</td>
+</tr>
+<tr>
+     <td><b>Janssen Pedrola</b></td>
+     <td>Low</td>
+     <td>Supportive</td>
+     <td>He is the project manager who oversees the progress of the project. He encourages collaboration in the team especially that they are all students, so it is important to be engaged and participative during discussions.</td>
+</tr>
+</table>
+
+
+
 
 =Scope Management Plan= 
 ==Introduction==
