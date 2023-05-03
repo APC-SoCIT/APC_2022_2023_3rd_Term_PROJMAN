@@ -409,3 +409,477 @@ It will be possible to establish the scope baseline by incorporating the scope d
 <p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
 ==Project Budget==
 <p>The budget for this project is detailed below.  Costs for this project are presented in various categories... </p>
+
+table width="744" border="1" align="center">
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+				<p><strong>INITIATION</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180" bgcolor="lightblue">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="lightblue">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198" bgcolor="lightblue">
+				<p><strong>Work Hours</strong></p>
+			</td>
+			<td style="height: 52px;" width="108" bgcolor="lightblue">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162" bgcolor="lightblue">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 23</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 37,000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 18,000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Business Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 160.5</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 284.00 * 14</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 17, 976.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 72, 976.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744">
+				<p><strong>PLANNING</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198">
+				<p><strong>Salary * No. of Days in February 2018</strong></p>
+			</td>
+			<td style="height: 52px;" width="108">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 32, 174.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 17</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 15,300.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Financial Consultant</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 125.00</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 000.00 * 12</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 12, 000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Business Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 160.5</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 284.00 * 12</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 15, 408.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 74, 882.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+				<p><strong>EXECUTION</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180" bgcolor="lightblue">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="lightblue">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198" bgcolor="lightblue">
+				<p><strong>Salary * No. of Days in March to August 2018</strong></p>
+			</td>
+			<td style="height: 52px;" width="108" bgcolor="lightblue">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162" bgcolor="lightblue">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 132</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 212, 348.40</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 57</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 51, 300.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Digital Designer</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 104.73</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 837.86 * 80</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 67, 028.80</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>System Developer</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 178.84</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 430.72 * 132</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>2</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 377, 710.08</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Quality Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 154.64</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 237.12 * 60</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 74, 227.20</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total</strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 782, 614.48</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+				<p><strong>CONTROL </strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180" bgcolor="lightblue">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="lightblue">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198" bgcolor="lightblue">
+				<p><strong>Salary * No. of Days in Septemer 2018</strong></p>
+			</td>
+			<td style="height: 52px;" width="108" bgcolor="lightblue">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162" bgcolor="lightblue">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 32, 174.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 17</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 15,300.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Quality Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 154.64</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 237.12 * 12</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 14, 845.44</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>System Developer (Head)</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 178.84</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 430.72 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 28, 614.40</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 90, 934.64</p>
+			</td>
+		</tr>
+		<tr style="height: 15px;">
+			<td style="height: 15px;" width="180"> </td>
+			<td style="height: 15px;" width="96"> </td>
+			<td style="height: 15px;" width="198"> </td>
+			<td style="height: 15px;" width="108"> </td>
+			<td style="height: 15px;" width="162"> </td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+				<p><strong>CLOSEOUT</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180" bgcolor="lightblue">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="lightblue">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198" bgcolor="lightblue">
+				<p><strong>Salary * No. of Days in October 2018</strong></p>
+			</td>
+			<td style="height: 52px;" width="108" bgcolor="lightblue">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162" bgcolor="lightblue">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 23</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 37,000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 18,000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 55, 000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱1,076,409.28</p>
+			</td>
+		</tr>
+</table>
