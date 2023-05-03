@@ -899,11 +899,79 @@ Equipment
 =9. SCHEDULE MANAGEMENT PLAN=
 
 ==9.1 Introduction==
-==9.2 Schedule Management Approach==
-==9.3 Schedule Control==
-==9.4 Schedule Changes and Thresholds==
-==9.5 Scope Change==
+The Elite Four's Schedule Management Plan was created during the planning phase of the project and is continually progressing throughout the last phase of the project. This plan serves as a roadmap for the project's execution and outlines the approach for managing the project schedule from start to finish throughout the project lifecycle. The plan establishes guidance and expectations for project schedule policies and procedures related to planning, development, management, implementation, and monitoring throughout the project lifecycle.
 
+==9.2 Schedule Management Approach==
+The Elite Four’s Project Schedule – Gantt Chart was created using Project Libre beginning with the deliverables as identified in its Work Breakdown Structure (WBS). The team will be following the Project-Based Learning (PBL) approach. It is an instructional approach where students learn by actively engaging in real-world and personally meaningful projects. In PBL, students collaborate with their peers, apply critical thinking skills, and solve complex problems while developing knowledge and skills. PBL is often used in educational settings to promote deeper learning and help students develop 21st-century competencies such as creativity, collaboration, communication, and critical thinking. The team will be utilizing Agile methodology, and any necessary changes will be made as required. The project is composed of five phases, starting from planning until the maintenance phase. 
+
+The project schedule milestones are identified as follows:
+
+Planning
+- The Planning Phase is the initial phase of the project where the team prepares for identifying the requirements, estimating resources and timeline of the project, and defining the scope, objectives, and deliverables.
+
+• Preparations
+• Midterm Paper
+• Sprint I Works
+• Paper Revisions
+• Final Paper
+• Sprint II Works
+
+Analysis & Design
+- Analysis & Design phase, where the team creates a detailed plan for the project. The phase mainly focuses on developing the project's technical requirements and detailed specifications.
+
+• Preparations
+• Event Table & Diagrams
+• Sprint III Works
+• Sprint IV Works
+• Sprint V Works
+• Final Requirements
+
+Development
+- In this phase where the actual development of the project begins, the team produces the deliverables accordingly.
+
+• Preparations
+• Charts
+
+Deployment
+- The Maintenance phase is the final phase of the project, where the team ensures that the deliverables continuously meet the required quality standard. This also involves monitoring and maintaining the project's deliverables.
+
+• Documentations
+• Web hosting
+• Cost breakdown
+
+
+The roles and responsibilities of Elite Four’s schedule development are as follows:
+
+• The Project manager and team leader are responsible for facilitating the definition of work packages, sequencing tasks, and estimating the required duration and resources with project members. They will also create the project schedule using Project Libre and validate it with the Elite Four team, stakeholders, and the project sponsor. Subsequently, the project manager will obtain schedule approval from the project sponsor and baseline the schedule.
+
+• The Project team – Elite Four team – will be in charge of cooperating and collaborating in work package definition, sequencing, and estimating resource requirements and duration. Additionally, the project members will review and validate the proposed schedule and subsequently perform assigned tasks once the schedule is approved.
+
+• The Project sponsor will also participate in reviews of the proposed schedule and approve the final schedule before it is baselined.  
+
+==9.3 Schedule Control==
+The project schedule will be reviewed and updated accordingly, with actual start and finish dates, as well as completion progresses, being provided by team members, and supervised by the project manager.
+
+The project manager – Andre Viernes, is in charge of holding weekly scheduled updates/reviews. He will also determine the effects of schedule variances, request changes to the schedule and communicate the status of the schedule according to the project’s communication plan.
+
+The project team – Elite Four members, are responsible for cooperating in weekly scheduled updates/reviews and will communicate to any changes from actual start/finish dates to the project manager and participating in schedule variance resolution activities as needed.
+
+The project sponsor – Ms. Anne Sydney Simpelo, will remain informed of the project schedule’s status and will be reviewing and approving all schedule change requests which are submitted by the project manager.
+
+==9.4 Schedule Changes and Thresholds==
+The team can effectively manage and evaluate any proposed schedule changes, ensuring that they do not negatively impact the project's scope, schedule, or resources by following the process below:
+
+1. If any of the Elite Four team members identifies a need for a schedule change, they should notify the project manager.
+
+2. The project manager and the team will hold a meeting to review and evaluate the proposed changes.
+
+3. During the evaluation, the team will determine the affected tasks and any variances that may result from the potential change.
+
+4. The team will consider alternatives or actions that may be taken to address and evaluate how they may impact the scope, schedule, and resources.
+
+5. After the evaluation, if the project manager concludes any proposed changes will exceed the established boundary condition, a schedule change request must be submitted.
+
+==9.5 Scope Change==
+If any changes are made to the project’s scope, rest assured it is approved by the project sponsor. The project manager is required to evaluate the impact of the scope change on the current schedule. If the project manager determines that the change will significantly affect the current project schedule, they may request a re-baselining of the schedule to reflect any necessary adjustments due to the new project scope. This request must be reviewed and approved by the project sponsor before the schedule can be re-baselined.
 
 =10. WORK BREAKDOWN STRUCTURE=
 
