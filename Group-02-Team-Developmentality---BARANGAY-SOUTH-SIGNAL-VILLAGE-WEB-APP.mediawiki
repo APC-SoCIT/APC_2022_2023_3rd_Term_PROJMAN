@@ -233,59 +233,141 @@ Based on these performance indicators, we believe that the web app project for B
 
 Below are the project constraints the team needs to identify and address that may impact on the project’s timeline. 
 
-'''Time''': The project has a deadline, the team needs to construct the project, launch the project, and meet the regulatory requirements. The team needs to plan to plot their project and finish the project within the given time frame.  
+* '''Time''': The project has a deadline, the team needs to construct the project, launch the project, and meet the regulatory requirements. The team needs to plan to plot their project and finish the project within the given time frame.  
 
-'''Scope''': The team needs to address their available resources such as their equipment and technology limitations. The team needs to make sure that they can work and finish the task to meet their project objectives.  
+* '''Scope''': The team needs to address their available resources such as their equipment and technology limitations. The team needs to make sure that they can work and finish the task to meet their project objectives.  
 
-'''Resources''': This will include their skills in how to make and create the project by using the full potential of their available materials and equipment to finish the project. The team should have the necessary resources to complete the project successfully.  
+* '''Resources''': This will include their skills in how to make and create the project by using the full potential of their available materials and equipment to finish the project. The team should have the necessary resources to complete the project successfully.  
 
-'''Stakeholder expectations''': The team needs to plan, address, and ensure that they can meet the stakeholder expectations but still consider their project constraints.  
+* '''Stakeholder expectations''': The team needs to plan, address, and ensure that they can meet the stakeholder expectations but still consider their project constraints.  
 
 
 The project manager's role is important here because they need to identify and manage the constraints the team will face to ensure their project is finished and completed successfully. 
 
 ===4.4.6 Major Project Milestones===
 
+The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue" colspan="2"><p style="text-align:center;">'''Summary Milestone Schedule - List key project milestones relative to project start.'''</p></td>
+                
+	</tr>
+
+	<tr>
+		<td bgcolor="grey"><p style="text-align:center;">'''Project Milestone'''</p></td>
+                <td bgcolor="grey"><p style="text-align:center;">'''Target Date'''<br>'''(mm/dd/yyyy)'''</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Project Start'''</p></td>
+                <td bgcolor=""><p style="text-align:center;">03/30/2022 )</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Planning'''<br>- Midterm Presentation (Sprint 1)<br>- Final Presentation (Sprint 2)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>03/05/2022<br>04/06/2022</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Analysis and Design'''<br>- Pre-midterm presentation (Sprint 3)<br>- Midterm Presentation (Sprint 4)<br>- Final Requirement (Sprint 5)<br>- Pre-final Presentation (Sprint 5)<br>- Final Presentation (Sprint 6)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>09/23/2022<br>09/28/2022<br>10/03/2022<br>10/28/2022<br>11/02/2022</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Development'''<br>- Initial Release 1 Prototype<br>- Release 2<br>- Release 3<br>- Pre-midterm Presentation (Sprint 7)<br>- Midterm Presentation (Sprint 8)<br>Final Presentation (Sprint 9)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>08/22/2022<br>08/28/2022<br>01/12/2023<br>01/09/2023<br>01/09/2023<br>03/03/2023</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Implementation'''<br>- Midterm Presentation (Sprint 10)<br>- Final Presentation (Sprint 11)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>05/04/2023<br>06/26/2023</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Close-out'''<br>- System and Documentation Handover<br>- Gain Formal Acceptance<br>Project Close out meeting</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>06/05/2023<br>06/13/2023<br>06/25/2023</p></td>
+	</tr>
+</table>
+
 ==4.5 Strategic Alignment==
 
 The Barangay South Signal Village Web Application project, aligned with the organization's strategic goals and objectives, aims to maximize value, and contribute to the community's long-term success. 
 
-''' The South Signal Village Web App seeks to enhance the quality of life for Barangay South Signal Village residents. '''
+* ''' The South Signal Village Web App seeks to enhance the quality of life for Barangay South Signal Village residents. ''' <br> This project supports this goal by simplifying access to information and services, improving communication, and promoting transparency within the local government. These enhancements will lead to a better living experience and foster a more connected and engaged community. 
 
-This project supports this goal by simplifying access to information and services, improving communication, and promoting transparency within the local government. These enhancements will lead to a better living experience and foster a more connected and engaged community. 
+* ''' The organization aims to adapt and innovate to address residents' evolving needs continuously. ''' <br> The web application project supports this goal by modernizing and consolidating access to local government services and information. The project will help the community stay up-to-date and competitive in an ever-changing world by embracing digital technologies and processes. 
 
-''' The organization aims to adapt and innovate to address residents' evolving needs continuously. ''' 
+* ''' The project aims to improve service delivery efficiency and accuracy, reduce delays, and ensure easy access to reliable information. ''' <br> By providing a higher level of service and support, the project will lead to increased satisfaction and trust among residents in their local government. 
 
-The web application project supports this goal by modernizing and consolidating access to local government services and information. The project will help the community stay up-to-date and competitive in an ever-changing world by embracing digital technologies and processes. 
-
-''' The project aims to improve service delivery efficiency and accuracy, reduce delays, and ensure easy access to reliable information. '''
-
-By providing a higher level of service and support, the project will lead to increased satisfaction and trust among residents in their local government. 
-
-''' The web app's goals and objectives are aligned with the barangay's priorities. '''
-
-The web app is aimed at achieving the priorities of the barangay, which are to enhance public safety, promote economic development, and improve access to healthcare and education, by offering information and services related to these areas to help the barangay achieve its objectives. 
+* ''' The web app's goals and objectives are aligned with the barangay's priorities. ''' <br> The web app is aimed at achieving the priorities of the barangay, which are to enhance public safety, promote economic development, and improve access to healthcare and education, by offering information and services related to these areas to help the barangay achieve its objectives. 
 
 ==4.6 Cost Benefit Analysis==
+
+''' COST '''
+
+* '''Manpower Estimated Cost'''<br> This includes the cost of the team members who will work on the project for 12 months. The team consists of: 
+
+# ''' Project Manager ''' : The average salary per month is ₱50,605.00, and the total salary for 12 months is ₱607,260.00. 
+# ''' Product Owner ''' : The average salary per month is ₱58,500.00, and the total salary for 12 months is ₱702,000.00.  
+# ''' Scrum Master/Developer ''' : The average salary per month is ₱79,500.00, and the total salary for 12 months is ₱954,000.00. 
+# ''' Scrum Member/Laravel Junior Developer ''' : The average salary per month is ₱40,000.00, and the total salary for 12 months is ₱960,000.00 (2 team members). 
+# ''' Documentation Manager ''' : The average salary per month is ₱41,059.00, and the total salary for 12 months is ₱492,708.00. 
+
+The total manpower cost estimate is ''''' ₱3,715,968.00 ''''' . 
+
+* '''Maintenance Estimated Cost '''<br> This includes the cost of maintaining the website after it has been developed.  The cost elements are: 
+
+# ''' Managed SSL Services ''' : The cost is ₱4,999.00 per year. 
+# ''' Website Security (Premium) ''' : The cost is ₱799.00 per month, which amounts to ₱9,588.00 per year. 
+# ''' Website Backup ''' : The cost is ₱99.00 per month, which amounts to ₱1,188.00 per year. 
+# ''' Scrum Member/Laravel Junior Developer ''' : The average salary per month is ₱40,000.00, and the total salary for 12 months is ₱960,000.00 (2 team members). 
+# ''' System Administrator ''' : The average salary per month is ₱41,059.00, and the total salary for 12 months is ₱492,708.00. 
+
+Maintenance (yearly): The total cost for maintenance per year is ''''' ₱375,775.00 '''''. 
+
+* '''Hosting and DNS Cost '''<br> This includes the cost of hosting and domain name system (DNS) protection for the website. The cost element is: 
+
+# ''' Hosting w/ DNS protection (36 months) ''' : The cost is ₱12,992.72 every 3 years.
+
+* '''Indirect Cost '''<br> This includes the cost of utilities, which is covered by the barangay. 
+
+# ''' Equipment ''' : No cost element is included for equipment. 
+# ''' Administrative Roles ''' : No cost element is included for administrative roles.
+
+<img src="https://user-images.githubusercontent.com/110672519/235835937-d329411b-853d-441a-90ed-5ea98c4b19ed.jpg" alt="Image description" style="display:block; margin:0 auto;">
+
+This table displays the estimated cost of the project, which includes the allocated budget and its duration. The budget of this project is estimated around ₱4,104,735.72 which intended to cover the 12-month duration of the project. In the table, the team shows four types of costs in this project which are the Manpower Estimated Cost, Maintenance Estimated Cost, Hosting and DNS Cost, and the Indirect cost. The total maintenance cost per year is ₱375,775.00. 
+
+''' BENEFITS '''
+<br> <br>
+<img src="https://user-images.githubusercontent.com/110672519/235844743-9462143b-d6f5-4b39-8031-5883ffac06f2.png" alt="Image description" style="display:block; margin:0 auto;">
+<br>
+This table presents the estimated revenue of the barangay for each year. The number of estimated requests was provided by the barangay secretary, and the project team estimates that there will be ''''' 70,000 ''''' requests per year at a cost of ''''' ₱50.00 ''''' each. This will result in a total revenue of ₱3,500,000.00 per year.
+
+''' COST BENEFIT ANALYSIS  ''''
+<br> <br>
+<img src="https://user-images.githubusercontent.com/110672519/235846460-09f6b622-7e1a-4d7b-8f38-b5b1e948bec3.jpg" alt="Image description" style="display:block; margin:0 auto;">
+<br>
+<img src="https://user-images.githubusercontent.com/110672519/235846600-6913d788-dd77-4d90-b2c7-c118908815ac.jpg" alt="Image description" style="display:block; margin:0 auto;">
+<br>
+Diagrams display the estimated yearly savings, with negative savings expected in the first year due to the cost of developing the project. However, in the following years, the project is expected to yield positive savings. The team expected that the number of requests would increase per year by ''' 10% '''. 
+
+In the year 2, the cost will be amounted to the maintenance of the web app and the salary of the System Administrator which has the total sum of ''''' ₱375,775.00 '''''. Additionally, every three years, the cost of renewing the hosting and DNS services, amounting to ''''' ₱12,992.72 ''''', will be added to the cost.
+
 ==4.7 Alternative Analysis==
 
-* ''' Do nothing (status quo) ''' the organization would continue to use the current system and maintain the current system process. 
+''' 1. Do nothing (status quo) ''' the organization would continue to use the current system and maintain the current system process. 
 
-''' Pros: ''' It can avoid unintended consequences because change can often lead to unintended consequences. It can also conserve resources such as money, time, and effort by making changes to the project. 
+* ''' Pros: ''' It can avoid unintended consequences because change can often lead to unintended consequences. It can also conserve resources such as money, time, and effort by making changes to the project. 
 
-''' Cons: ''' One of the downsides of status quo is it can miss out opportunities, it can lead to missing out potential opportunities for the organization and company. Also, failing to adapt to changing environments and continuously evolving markets may lead to stagnation and irrelevance.  
+* ''' Cons: ''' One of the downsides of status quo is it can miss out opportunities, it can lead to missing out potential opportunities for the organization and company. Also, failing to adapt to changing environments and continuously evolving markets may lead to stagnation and irrelevance.
 
-* ''' Jira Service Management ''' because it is used for software development to plant, track, and manage the work and projects. It is a flexible and powerful project management tool that can help the team increase their productivity to finish and complete the project. 
+''' 2. Jira Service Management ''' because it is used for software development to plant, track, and manage the work and projects. It is a flexible and powerful project management tool that can help the team increase their productivity to finish and complete the project. 
 
-''' Pros: ''' One advantage of Jira is its customizability; the Jira is highly customizable that allows organizations and companies to edit to their specific needs for their project. It can improve efficiency and productivity. It is also scalable that makes it more suitable for small companies with complex IT (Information Technology) operations.  
+* ''' Pros: ''' One advantage of Jira is its customizability; the Jira is highly customizable that allows organizations and companies to edit to their specific needs for their project. It can improve efficiency and productivity. It is also scalable that makes it more suitable for small companies with complex IT (Information Technology) operations.  
 
-''' Cons: ''' Main disadvantage of Jira is its Complexity because it can be overwhelming for inexperienced users for its advanced features that makes it complex. It required effort and time to configure it properly. Lastly is its cost, Jira is a paid software tool, and it can be an obstacle to some company or team that has not enough funds for their project. 
+* ''' Cons: ''' Main disadvantage of Jira is its Complexity because it can be overwhelming for inexperienced users for its advanced features that makes it complex. It required effort and time to configure it properly. Lastly is its cost, Jira is a paid software tool, and it can be an obstacle to some company or team that has not enough funds for their project. 
 
-* ''' Request Tracker ''' the team chose this because it is an open-source system that can be configured to handle document requests for the barangay south signal village web app.  
+''' 3. Request Tracker ''' the team chose this because it is an open-source system that can be configured to handle document requests for the barangay south signal village web app.  
 
-''' Pros: ''' It is an Open-source software that makes it free to use and can be edited to fit the specific needs of a company and organization. Also, it is scalable because it can handle large volumes of tickets and is suitable for small organizations with complex ticketing requirements.  
+* ''' Pros: ''' It is an Open-source software that makes it free to use and can be edited to fit the specific needs of a company and organization. Also, it is scalable because it can handle large volumes of tickets and is suitable for small organizations with complex ticketing requirements.  
 
-''' Cons: ''' One disadvantage is its complexity; it can be complex because of its high degree of customization making it hard to configure. It will require technical expertise to use properly. 
+* ''' Cons: ''' One disadvantage is its complexity; it can be complex because of its high degree of customization making it hard to configure. It will require technical expertise to use properly. 
 
 =5. PROJECT CHARTER=
 ==5.1 Executive Summary==
@@ -314,7 +396,6 @@ The intended effect of this business case is to enhance efficiency and effective
 ===5.2.2 Business Objectives===
 
 This objectives statement states the goal of the barangay and the plans to achieve it. This project is in direct support of our corporate strategic plan to improve the web-application of the Barangay South Signal Village.
- 
 * For the barangay to deploy the web app to the residents of Barangay South Signal Village within the timeline and track the number of residents using it to determine its success.
 * For the Barangay to see an improvement in the paperwork system by 90% that can reduce the risk of errors or discrepancies. It gives the officials time for other tasks, such as providing direct services to citizens or addressing pressing issues within the community.
 * For the Barangay see the increase of residents using the web app by at least 30% in the next few months with the given the resources and opportunities for optimization.
@@ -446,8 +527,14 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
 
 ==5.7 Summary Budget==
 
-[[File:https://user-images.githubusercontent.com/110672519/235835937-d329411b-853d-441a-90ed-5ea98c4b19ed.jpg|options|caption]]
+The estimated budget allocated for the proposed project, assuming that the project will meet the necessary deadlines, and is according to the milestone schedule, is as follows: 
 
+<img src="https://user-images.githubusercontent.com/110672519/235835937-d329411b-853d-441a-90ed-5ea98c4b19ed.jpg" alt="Image description" style="display:block; margin:0 auto;">
+
+
+<br>
+
+This table displays the estimated cost of the project, which includes the allocated budget and its duration. The estimated budget of this project is at least ''' ₱4,104,735.72 ''' which intended to cover the 12-month duration of the project. In the table, the team shows four types of costs in this project which are the Manpower Estimated Cost, Maintenance Estimated Cost, Hosting and DNS Cost, and the Indirect cost. 
 
 == 5.8 Project Approval Requirements ==
 
@@ -457,11 +544,178 @@ The Barangay South Signal Village Web-Application will only be deemed successful
 
 Mikedale B. Dellera is named Project Manager for the duration of the Barangay South Signal Web-Application. Mr. Dellera’s responsibility is to manage all project tasks, scheduling, consultation, and communication regarding the Barangay South Signal Village Web-Application. His team, consisting of a scrum master and four scrum members, will support the project. Mr. Dellera will coordinate all resource requirements through the course adviser, Prof. Jose Eugenio L. Quesada. Mr. Dellera is authorized to approve all changes regarding the documentation and the prototype. Any clarification and major changes must be requested through the Project Client, Hon. Michelle Odevilas. Mr. Dellera will provide timely updates to the Project Client.
 
-=6. STAKEHOLDER STRATEGY MANAGEMENT PLAN=
+=6. STAKEHOLDER MANAGEMENT STRATEGY=
+
 ==6.1 Introduction==
+
+Stakeholder management is a critical aspect of any project, and it is especially important in the development and implementation of a web app for Barangay South Signal Village. The success of the project depends on the support and involvement of key stakeholders, including community leaders, government officials, residents, and other interested parties. A comprehensive stakeholder management strategy is essential to ensure that these stakeholders are engaged, informed, and their needs and concerns are addressed throughout the project. This section outlines the stakeholder management strategy for the development and implementation of the web app in Barangay South Signal Village. It includes an overview of the key stakeholders, their roles and responsibilities, and the communication and engagement activities that will be used to manage their involvement in the project. The stakeholder management strategy is designed to ensure that the web app aligns with the needs and priorities of the community and that it is well-received and utilized by all stakeholders.
+  
+There are a number of strategies that could be employed to improve stakeholder management for the Barangay South Signal Village Web-App, such as:
+
+* ''' Improved Access to Information: ''' <br> The web-app will provide stakeholders with easy access to relevant and up-to-date information about public safety, economic development, healthcare, and education.
+* ''' Enhanced Communication: ''' <br> The web-app will facilitate communication between stakeholders, including community leaders, government officials, residents, and other interested parties, to help address concerns, share information, and collaborate on initiatives.
+* ''' Increased Efficiency: ''' <br> The web-app will streamline access to services and information, reducing the need for time-consuming and often confusing manual processes.
+* ''' Empowering Community Members: ''' <br> The web-app will provide community members with the tools and resources to take a more active role in their community's development and decision-making processes.
+* ''' Cost Savings: ''' <br> The web-app will help stakeholders save time and money by providing access to information and services online, reducing the need for in-person visits and paperwork.
+* ''' Greater Transparency: ''' <br> The web-app will promote greater transparency in local governance by providing stakeholders with access to information about government initiatives, policies, and decisions.
+
+
 ==6.2 Identify Stakeholders==
+
+The team has brainstormed the following steps to identify project stakeholders:
+
+* using a stakeholder analysis to locate all prospective stakeholders. This entails identifying internal and external stakeholders such as Barangay residents. Internal stakeholders include the employees within the barangay.
+* Creating a list of stakeholders based on how they will influence the web app, the power that they will have within the web app and lastly how they will be impacting the project.
+
+These steps will ensure proper engagement and communication between the team and the stakeholders within the project. Communications include the needs and the concerns of the stakeholders that need to be addressed. Completing these steps will guarantee that the project is on the right track.
+
 ==6.3 Key Stakeholders==
 
+Key stakeholders in the development and implementation of the web app for Barangay South Signal Village include:
+
+* ''' Barangay Captain: ''' <br> These are influential people in the Barangay community, such as captains, councilors, and other community organization leaders. They will play a key role in promoting the web app and ensuring that it meets the needs of their community.
+* ''' Barangay Secretary: ''' <br> They are responsible for maintaining the administrative and record-keeping functions of a Barangay. They play a key role in keeping accurate records of all meetings, ordinances, and transactions of the barangay. They ensure smooth and efficient operation in the Barangay.
+* ''' Barangay Council: ''' <br> Barangay officials and other municipal officials will be the key stakeholders in the project. They will be responsible for providing the funds, resources, and support for the project and ensuring that it aligns with the local government's priorities.
+* ''' Barangay South Signal Residents: ''' <br> The web app is designed to serve the needs of the residents of Barangay South Signal Village, so they are considered also essential stakeholders. They will be the primary users of the web app and will be able to provide valuable feedback on its functionality and effectiveness.
+
+These stakeholders have been identified as key stakeholders due to their potential influence over the project, their potential impact on the project's success, and their potential resistance to the change represented by the project. It is important to engage them early and often in the project's lifecycle and seek their feedback on their desired level of participation and communication.
+
+==6.4 Key Stakeholders==
+
+<table border="1" width="100%" align="center">
+<tbody>
+<tr>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Name'''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Department / Company '''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Position'''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Advisers'''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Objectives, Requirements, Interests '''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Influence'''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Project Contribution'''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Resistance '''</p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">Hon. Michelle Odevilas</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Barangay South Signal Village Official</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Barangay Captain</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">&nbsp;</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Enhance Communication, Promote Transparency, Secure Data Management, and Community Development.</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">High</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Supervised the team on what function should the system have and approve the overall project.</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Cost Concerns, Privacy and Security, Illiteracy, and Limited Technical Knowledge '</p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">Nerisa Caducio</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Barangay South Signal Village Official</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Barangay Secretary</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">&nbsp;</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Enhance Communication, Promote Transparency, Secure Data Management, and Community Development.</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Medium</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Support the team with required documents and address inquiries.</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Increase Workload, Limited Technical Knowledge, and Concerns about Data Accuracy.'</p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">Kgd. Norman H. Hortilano</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Barangay South Signal Village Official</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Barangay Council (Representative)</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">&nbsp;</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Enhance Communication, Promote Transparency, Secure Data Management, and Community Development.</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Medium</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Give supporting ideas, possible risk, and deep analysis.</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Security Concerns, Transparency Concerns. '</p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">Etelinda Villaret</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Barangay South Signal Village Official</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Barangay South Signal Village Resident</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">&nbsp;</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Access to Reliable and up-to-date Information, Accessibility to Different Request Documents and Submit Concerns Online.</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">High</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Providing Input and Feedback and Active Engagement.</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Privacy Concerns, Technological Barriers, Resistance to Change, and Mistrust in the Local Government '</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 =7. SCOPE MANAGEMENT PLAN=
 
@@ -481,7 +735,7 @@ The team follows a five-step process for Project Scope Management.
 
 The scope of the Barangay South Signal Village Web App is defined in Scope Definition, Project Scope Statement, Work Breakdown Structure (WBS) and WBS dictionary. The primary objective of the project is to develop a web application for the Barangay South Signal Village community. The web app will provide a platform for residents to access essential information, services, and resources provided by the barangay. The scope of the project includes the planning of the web app's functionalities, analyzing and designing the web app, developing the web app's functionalities, testing the web app for functionality, usability, and performance, and providing user manuals, training, and support. 
 
-<Strong>Scope Change Management:</strong>
+<strong>Scope Change Management:</strong>
 
 To manage any changes to the project scope, the project team will follow the following procedures: 
 
@@ -814,9 +1068,156 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 </tr>
 </table>
 
+==7.7 Scope Verification ==
+
+The project team that facilitates the Barangay South Signal Web App project will conduct scope verification with the client and the project adviser every meeting to ensure that the deliverables are in line with the original scope. This will guarantee that the deliverables are accepted by the client and the project advisor and will ensure that the project will be finished on time and within the scope and budget. 
+
+==7.8 Scope Control ==
+
+The project team will make sure that every change that happens within the project's scope is effectively communicated with the client and approved. The team will also adhere to proper documentation regarding the change within the scope to ensure that there is transparency between the team and the client.  
+
+=8. COST MANAGEMENT PLAN=
+
+==8.1 Introduction==
+
+The Cost Management Plan for the Barangay South Signal Village Web App project is designed to ensure that all costs associated with the project are effectively managed throughout its lifecycle. The plan outlines the format and standards by which the project costs will be measured, reported, and controlled. 
+
+# '''Cost management responsibilities''' 
+* The Project Manager will be responsible for overall cost management of the project and will be the primary point of contact for all cost-related issues. 
+* The Finance Team will be responsible for monitoring project costs and ensuring that they are within the approved budget. 
+# '''Cost change approval''' 
+* All cost changes must be approved by the Project Manager before they are implemented. 
+* If the cost change exceeds 10% of the total project budget, it must be approved by the Project Sponsor before it can be implemented. 
+# '''Cost measurement and reporting'''
+* Costs will be measured and reported monthly, using a cost performance index (CPI) and a schedule performance index (SPI). 
+* Reports will be presented to the Project Sponsor on a monthly basis. 
+# '''Budget format and standards''''
+* The budget will be presented in a clear and concise format, using a spreadsheet format such as Excel. 
+* The budget will be broken down into individual line items, with detailed cost estimates for each item. 
+* The budget will be updated on a monthly basis, with any changes clearly highlighted. 
+
+Overall, the Cost Management Plan for the Barangay South Signal Village Web App project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time. 
+
+==8.2 Cost Management Approach ==
+
+The cost management approach for the Barangay South Signal Village Web App will be based on the following principles: 
+
+# '''Cost Estimating: ''' <br> The project team will use a bottom-up approach to estimate the costs associated with developing and launching the web app. This approach involves breaking down the project into smaller tasks and estimating the cost of each task based on the resources required. The team will use historical data from similar projects, industry benchmarks, and expert judgment to estimate costs accurately. 
+# '''Budget Development ''' <br> Based on the cost estimates, the project team will develop a comprehensive project budget that covers all the costs associated with developing and launching the web app. The budget will be reviewed and approved by the project sponsor or steering committee before it is finalized. 
+# '''Cost Control ''' <br> Throughout the project, the project team will monitor actual costs against the approved budget to ensure that the project is on track financially. Any deviations from the approved budget will be documented and analyzed to determine the root cause. If necessary, corrective action will be taken to bring the project back in line with the budget. 
+# '''Change Management ''' <br> Any changes to the project scope, timeline, or resources may have an impact on the project budget. Therefore, all changes will be reviewed by the project sponsor or steering committee to assess their impact on the budget. If the changes are approved, the project budget will be updated accordingly. 
+# '''Reporting ''' <br> Regular cost reports will be produced and distributed to the project team, stakeholders, and the project sponsor or steering committee. These reports will show actual costs to date, compared to the approved budget, and any deviations from the budget. The reports will also include an analysis of the causes of any deviations and any corrective actions taken. 
+
+By following this Cost Management Approach, we aim to ensure that the Barangay South Signal Village Web App project is completed within the approved budget, while still meeting the project objectives and delivering a high-quality product that satisfies the needs of the community. 
+
+==8.3 Measuring Project Costs ==
+==8.4 Reporting Format ==
+
+The project team will generate a Monthly Project Status Report to update stakeholders on the cost status of the project. This report will include a "Cost Management" section that will highlight the Earned Value Metrics (EVM) previously mentioned, such as Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI), to evaluate the project's progress and cost performance. In case the project's cost exceeds the predefined thresholds, the report will include details of the issue along with the planned corrective actions. The report will also monitor any change requests resulting from cost overruns to ensure that they align with the project budget. These updates will be shared with stakeholders on a monthly basis to maintain transparency and ensure timely decision-making. 
+
+==8.5 Cost Variance Response Process ==
+
+Develop a corrective action plan to address the cost variance. The plan should include specific actions to reduce or eliminate the cost variance, as well as timelines and responsibilities for each action. Communicate with stakeholders to keep them informed about the cost variance and the corrective action plan. Be transparent about the impact on the project's budget, schedule, and scope. Re-evaluate the project plan to ensure that it is still feasible given the cost variance. Consider whether any adjustments need to be made to the project's schedule, scope, or quality to bring it back in line with the budget. 
+
+The Control Thresholds for this project are a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions. 
+
+==8.6 Cost Change Control Process ==
+
+The South Signal Village Barangay Web Application project aims to create a comprehensive digital platform that consolidates essential information and services for the residents, enhancing community engagement and service delivery efficiency in the barangay. 
+
+* '''Project Deliverables: '''
+
+# A fully functional South Signal Village Barangay Web Application, including
+## A user-friendly dashboard for barangay announcements, news, and updates.
+## A repository for important documents such as barangay resolutions, ordinances, and certificates. 
+## An integrated online services system for barangay clearance, ID issuance, and permit processing. 
+## A reporting module for residents to communicate concerns and complaints to barangay officials. ## A scheduling module to display the availability of barangay officials and facilitate appointments. 
+# A secure account creation and management system, including a. Identity verification using government-issued IDs. b. Robust security measures to prevent unauthorized access and protect user data. 
+# Documentation for the design, development, and implementation processes. 
+# User manuals and training materials for barangay officials and residents. 
+# Ongoing maintenance and support services as required. 
+
+* '''Project Work Breakdown: '''
+
+# Web Application Development: 
+## Design a responsive and accessible web application interface. 
+## Develop the dashboard, document repository, and online services modules. 
+## Implement the reporting and scheduling modules. 
+# Testing and Deployment: a. Conduct thorough web application testing for functionality, usability, and security. b. Deploy the web application and provide Training to barangay officials and residents.
+# Documentation and Training: 
+## Create documentation of the design, development, and implementation processes. 
+## Develop user manuals and training materials for barangay officials and residents. 
+
+==8.7 Project Budget ==
+
+The projected budget for this project is detailed below.  Costs for this project are presented in various: 
+* Direct Costs:  
+1. Manpower Cost 
+<table border="1" width="95%" align="center">
+
+
+	<tr>
+		<td bgcolor=""><p style="text-align:center;">Project Manager</p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 607,260.00</p></td>
+	</tr>
+  	<tr>
+		<td bgcolor=""><p style="text-align:center;">Product Owner</p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 702,000.00 </p></td>
+	</tr>
+  	<tr>
+		<td bgcolor=""><p style="text-align:center;">Scrum Master / Developer x 2</p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 954,000.00</p></td>
+	</tr>
+  	<tr>
+		<td bgcolor=""><p style="text-align:center;">Scrum Member / Laravel Junior Developer</p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 960,000.00</p></td>
+	</tr>
+  	<tr>
+		<td bgcolor=""><p style="text-align:center;">Documentation Manager </p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 492,708.00 </p></td>
+	</tr>
+  
+</table>
+
+2. Maintenance (Yearly after project closure) 
+<table border="1" width="95%" align="center">
+
+
+	<tr>
+		<td bgcolor=""><p style="text-align:center;">Managed SSL Services</p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 4,999.00</p></td>
+	</tr>
+  	<tr>
+		<td bgcolor=""><p style="text-align:center;">Website Security (Premium) </p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 9,588.00  </p></td>
+	</tr>
+  	<tr>
+		<td bgcolor=""><p style="text-align:center;">Website Backup</p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 1,188.00 </p></td>
+	</tr>
+  	<tr>
+		<td bgcolor=""><p style="text-align:center;">System Administrator</p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 360,000.00 	</p></td>
+	</tr>
+</table>
+
+3. Hosting and DNS (Every 3 years after project closure) 
+<table border="1" width="95%" align="center">
+	<tr>
+		<td bgcolor=""><p style="text-align:center;">Hosting w/ DNS protection (36 months)</p></td>
+        <td bgcolor=""><p style="text-align:center;">₱ 12,992.72 </p></td>
+	</tr>
+
+</table>
+
+* Indirect Costs:  
+# Utilities
+# Equipment
+# Administrative Roles 
+
+<img src="https://user-images.githubusercontent.com/110672519/235835937-d329411b-853d-441a-90ed-5ea98c4b19ed.jpg" alt="Image description" style="display:block; margin:0 auto;">
 
 =9. SCHEDULE MANAGEMENT PLAN=
-
 ==9.1 Introduction==
 
 The purpose of this Schedule Management Plan is to establish a clear, organized framework for managing the development and implementation of the South Signal Village Barangay Web Application Project. The significance of this plan lies in its ability to define the project timeline, coordinate team activities, ensure alignment with project goals, and allow for effective response to any changes or unexpected challenges. 
@@ -883,8 +1284,7 @@ Schedule Control is essential for project success and requires collaborative wor
 
 # '''Project Manager''' <br> responsible for developing and maintaining the project schedule, communicating progress to stakeholders, identifying, and managing schedule-related risks and issues, and updating the schedule as needed.
 # '''Product Owner''' <br> works with the Project Manager and Scrum Team to ensure project deliverables align with the schedule, prioritize requirements according to the schedule, and provide input on changes to the schedule. 
-# '''Scrum Master'''  
-ensures the team follows the schedule and Scrum framework, manages schedule-related risks and issues, and works with the Project Manager and Product Owner to ensure the project progresses according to the schedule. 
+# '''Scrum Master'''''' <br> ensures the team follows the schedule and Scrum framework, manages schedule-related risks and issues, and works with the Project Manager and Product Owner to ensure the project progresses according to the schedule. 
 # '''Scrum Team''' <br> develops project deliverables according to the schedule, communicates schedule-related risks or issues to the Project Manager and Scrum Master, and adheres to the schedule. 
 # '''Documentation Manager''' <br> ensures project documentation aligns with the schedule and provides updates on any changes to the schedule. 
 # '''Stakeholders''' <br> accept project deliverables as defined by the schedule and provide input on changes to the schedule.
@@ -900,14 +1300,88 @@ The boundary conditions will be thoroughly discussed by the team with the projec
 
 The team needs to document all scope changes, including the reason for the change, the impact on the project, and any changes to the project schedule or budget. Update the project plan to reflect any scope changes. Communicate all scope changes to stakeholders, including the impact on the project's budget, schedule, and quality. Be transparent about the reasons for the change and the expected outcomes. 
 
-
 =10. WORK BREAKDOWN STRUCTURE=
 
 ==10.1 Introduction==
+
+The Work Breakdown Structure or WBS is a hierarchical breakdown of the project deliverables into smaller, more manageable components. The WBS provides a framework for the team for organizing their project work and helps them to identify the activities needed to complete their project.
+
+The purpose of the WBS is to break down the project into manageable work packages that can be planned, monitored, and controlled. By breaking down the project into smaller components, it is easier for the team to estimate the effort required to complete each task, assign responsibilities to team members, and track progress against the project plan. It is an essential tool for project managers and provides a visual representation of the project scope and objectives. The WBS is a key component of the project management plan and is developed during the project's planning phase. The WBS helps the team to ensure that all project activities are accounted for, and nothing is overlooked or missed.
+
+Listed below are the project deliverables, project work, activities required to complete each deliverable and the resources needed to complete the project. Such as choosing a project client, choosing a consultant, creating all papers needed for the project, and the expected labor to cost. 
+
+The Work Breakdown Structure presented here represents all the work required to complete this project.
+
 ==10.2 Outline View==
+
+The Barangay South Signal Village Web App is a comprehensive project aimed at developing a web application that caters to the needs of the residents in the Barangay. The project is divided into four phases, namely planning, analysis and design, development, and implementation, with each phase having specific tasks and deliverables.
+
+
 ==10.3 Hierarchical Structure==
+
+The hierarchical structure makes it easy to see how the different components of a project fit together and how the work is distributed across the project team. It also helps to ensure that all the necessary work is identified and accounted for, which can reduce the risk of schedule delays or cost overruns for the team.
+
 ==10.4 Tabular View ==
+
+The Tabular View shows the WBS for the Barangay South Signal Village Web App project, organized in a table format with four main categories: Planning, Analysis and Design, Development, and Implementation, with a fifth category for project closeout. Each category is broken down into subcategories and tasks, making it easier to track project progress and ensure timely completion of tasks.
+
 ==10.5 Tree Structure View==
+
+
+
 ==10.6 WBS Dictionary==
+
+The WBS Dictionary is a document that contains all the essential details of the Work Breakdown Structure (WBS) required to complete a project successfully. It includes a definition of each Work Package, which acts as a mini scope statement. The WBS Dictionary is an important reference for project resources to understand the scope of the Work Package assigned to them. Typically, the WBS Dictionary includes more information than what is shown in the sample, such as Level of Effort, Cost Control Numbers, Resource Assignments, Responsibility Assignments, and other relevant information.
+
 ==10.7 Glossary of Terms==
 
+<table border="1" width="100%" align="center">
+<tbody>
+  
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">'''Level of Effort:'''</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">Level of Effort (LOE) is how much work is required to complete a task.</p>
+</td>
+</tr>
+  
+  <tr>
+<td bgcolor="">
+<p style="text-align: center;">'''WBS Code:'''</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">A unique identifier assigned to each element in a Work Breakdown Structure for the purpose of designating the elements’ hierarchical location within the WBS</p>
+</td>
+</tr>
+  
+  <tr>
+<td bgcolor="">
+<p style="text-align: center;">'''Work Package:'''</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">A Work Package is a deliverable or work component at the lowest level of its WBS branch.</p>
+</td>
+</tr>
+  
+  <tr>
+<td bgcolor="">
+<p style="text-align: center;">''WBS Component:'''</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
+</td>
+</tr>
+  
+  <tr>
+<td bgcolor="">
+<p style="text-align: center;">'''WBS Element:'''</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">A WBS Element is a single WBS component, and its associated attributes are located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
+</td>
+</tr>
+
+</tbody>
+</table>
