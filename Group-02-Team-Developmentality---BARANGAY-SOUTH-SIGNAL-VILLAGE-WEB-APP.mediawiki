@@ -447,18 +447,18 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 		
 <tr>
 		<td >
-        <h2> Planning </h2>
-<h3> Project Preparation </h3>
+        <p style="font-size: 1.17em; font-weight: bold;"> PLANNING </p>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> Project Preparation </p>
 * Creation of Project Groups
 * Choose Project/Client
 * Choose Adviser/Consultant
 * Design Thinking 1
 
-<h4> MNTSDEV Team consultation </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNTSDEV Team consultation </p>
 * Team meeting with Project adviser
 * Team meeting with Project Sponsor
 
-<h4> MNTSDEV Creation of Midterm Paper </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNTSDEV Creation of Midterm Paper </p>
 * Chapter 1 (Introduction)
 * Chapter 2 (RRL/RRS)
 * Chapter 3 (Methodology)
@@ -467,15 +467,15 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 * Proofreading
 * Creation of presentation deck
 
-<h4> MNTSDEV Midterm Evaluation </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNTSDEV Midterm Evaluation </p>
 * Midterm (Sprint1)
 * Comment Matrix
 
-<h4> Initial Design </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> Initial Design </p>
 * Initial wireframe
 * Initial low-fidelity prototype
 
-<h4> MNTSDEV Progression of Paper/Final Paper </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNTSDEV Progression of Paper/Final Paper </p>
 * Chapter 1 (Introduction)
 * Chapter 2 (RRL/RRS)
 * Chapter 3 (Current System)
@@ -486,7 +486,7 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 * Creation of presentation deck
 * Submission of final Requirements for Final Presentation
 
-<h4> MNSTDEV Finals Evaluation </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MNSTDEV Finals Evaluation </p>
 * Final Presentation (Sprint 2)
 * Revision for Comment Matrix and Final Paper
 * Submission of MNSTDEV FINAL Documents
@@ -494,25 +494,25 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 </tr>
 <tr>
 <td>
-<h3> ANALYSIS AND DESIGN </h3>
-<h4> MSYADD Project Progression </h4>
+<p style="font-size: 1.17em; font-weight: bold;"> ANALYSIS AND DESIGN </p>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Project Progression </p>
 * Initial analysis for Chapter 5 (Requirement Analysis)
 * Submission of MNSTDEV final documents
 * Implementation of GitHub Repository
 * Request letter for Adviser/Consultant
 
-<h4> MSYADD Team consultation </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Team consultation </p>
 * Team meeting with Project adviser
 * Team meeting with Project Sponsor
 
-<h4> MSYADD Individual Deliverables </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Inpidual Deliverables </p>
 * MSYADD Release Plan 
 
-<h4> MSYADD Release Plan </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Release Plan </p>
 * Release Plan 1.1
 * Release Plan 1.2
 
-<h4> MSYADD Week 3 - Week 4 </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Week 3 - Week 4 </p>
 * Event Table
 * Use Case Diagram
 * Use Case Full Description
@@ -520,24 +520,24 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 * Context Flow Diagram
 * Entity Relationship Diagram
 
-<h4> MSYADD Week 5 - Week 7 </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Week 5 - Week 7 </p>
 * Activity Diagram
 * Object Diagram
 * Class Diagram
 
-<h4> MSYADD Midterm Evaluation </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Midterm Evaluation </p>
 * Pre-midterm Presentation (Sprint 3)
 * Midterm Presentation (Sprint 4)
 * Revision Midterm
 
-<h4> MSYADD Week 8 - Week 9 </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Week 8 - Week 9 </p>
 * Sequence Diagram
 * State Machine Diagram
 * Package Diagram
 * Deployment Diagram
 * Component Diagram
 
-<h4> MSYADD Final Evaluation </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Final Evaluation </p>
 * MSYADD Pre-final Presentation (Sprint 5)
 * MSYADD Final Presentation (Sprint 6)
 * Revision for Final Paper
@@ -547,18 +547,18 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 
 <tr>
 <td>
-<h3> DEVELOPMENT  </h3>
+<p style="font-size: 1.17em; font-weight: bold;"> DEVELOPMENT&nbsp; </p>
 
-<h4> MCSPROJ Project Progression  </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Project Progression  </p>
 * Submission of MSYADD Final Documents 
 * Request letter for Adviser/Consultant 
 
-<h4> MCSPROJ Release Plan    </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Release Plan    </p>
 * Finalizing Release 1 
 * Release Plan 2 
 * Release Plan 3 
 
-<h4> MCSPROJ Midterm Deliverables   </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Midterm Deliverables   </p>
 * Creation of Gantt Chart 
 * Creation of WBS 
 * Creation of Activity List 
@@ -567,15 +567,15 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 * Creation of Project Charter Progression 
 * Pre-midterm Presentation (Sprint 7) 
 
-<h4> MCSPROJ Team consultation   </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Team consultation   </p>
 * Team meeting with Project adviser 
 * Team meeting with Project Sponsor 
 
-<h4> MCSPROJ Midterm Evaluation   </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Midterm Evaluation   </p>
 * Submission of Midterm Requirement 
 * MCSPROJ Final Presentation (Sprint 8) 
 
-<h4> MCSPROJ Finals Deliverables    </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Finals Deliverables    </p>
 * Creation of Test Case 
 * Creation of Quality Plan 
 * Creation of User Acceptance 
@@ -583,7 +583,7 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 * Updating MCSPROJ Final Paper 
 * Creation of Proofreading Endorsement 
 
-<h4> MCSPROJ Finals Evaluation      </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MCSPROJ Finals Evaluation      </p>
 * Submission of MCSPROJ Final Requirements 
 * MCSPROJ Final Presentation (Sprint 9) 
 
@@ -592,55 +592,55 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 
 <tr>
 <td>
-<h3> IMPLEMENTATION  </h3>
+<p style="font-size: 1.17em; font-weight: bold;"> IMPLEMENTATION  </p>
 
-<h4> PROJMAN Project Progression    </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Project Progression    </p>
 * Submission of MCSPROJ Final Documents 
 * Request Letter for Adviser/Consultant 
 
-<h4> PROJMAN Week 1-3     </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 1-3     </p>
 * Creation of Project Charter 
 * Creation of Business Case 
 * Creation of Stakeholders Management Strategy Plan 
 
-<h4> PROJMAN Week 4-6    </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 4-6    </p>
 * Creation of Scope Management Plan 
 * Creation of Cost Management Plan 
 * Creation of Time Management Plan 
 * Creation of Work Breakdown Structure 
 * Creation of Work Packages based on WBS. 
 
-<h4> System Updates    </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> System Updates    </p>
 * Testing 1
 
-<h4> PROJMAN Midterm Evaluation    </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Midterm Evaluation    </p>
 * Submission of PROJMAN Midterm Requirements 
 * PROJMAN Midterm presentation (Sprint 10) 
 
-<h4> PROJMAN Week 8-10     </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 8-10     </p>
 * Creation of HR Management Plan 
 * Creation of Quality Management Plan 
 * Creation of Risk Management Plan 
 * Creation of Communications Management Plan 
 * Creation of Procurement Management Plan 
 
-<h4> PROJMAN Week 11      </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 11      </p>
 * Creation of Project Status Reports Distribution Plan 
 * Creation of Change Request Documentation 
 * Creation of Project Execution Monitoring Report 
 * Creation of Implementation Plan 
 
-<h4> PROJMAN Week 12      </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 12      </p>
 * Creation of Change Management Plan 
 * Creation of Project Status Reports 
 * Creation of Transition-Out Plan 
 * Creation of Project Turn-Over Plan 
 * Creation of Post Project Review Plan 
 
-<h4> PROJMAN Week 13      </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Week 13      </p>
 * Creation of Consolidated Project Plan
 
-<h4> PROJMAN Final Evaluatio      </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> PROJMAN Final Evaluatio      </p>
 * Submission of PROJMAN Final Requirements 
 * PROJMAN Final presentation (Sprint 11) 
 
@@ -649,15 +649,15 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 
 <tr>
 <td>
-<h3> CLOSEOUT  </h3>
+<p style="font-size: 1.17em; font-weight: bold;"> CLOSEOUT  </p>
 
-<h4> System and documentation handover    </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> System and documentation handover    </p>
 * System and documentation handover 
 
-<h4> Gain Formal Acceptance     </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> Gain Formal Acceptance     </p>
 * Gain Formal Acceptance  
 
-<h4> Project close-out meeting.     </h4>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> Project close-out meeting.     </p>
 * Project close-out meeting. 
 
 
