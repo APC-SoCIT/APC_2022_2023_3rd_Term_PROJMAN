@@ -2923,206 +2923,288 @@ The project sponsor will review and approve scope changes based on the establish
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.4.8</p></td>
     <td width="228"><p>MCSPROJ Deliverables</p></td>
+    <td width="250"><p>Subject outputs that are expected to be produced by the developers.</p></td>
+    <td width="64"><p>43 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.4.8.1</p></td>
     <td width="228"><p>Vision and Scope Documentations</p></td>
+    <td width="250"><p>It defines the overall vision, goals, objectives, and scope of the Chubby Gourmet web application.</p></td>
+    <td width="64"><p>43 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.4.8.2</p></td>
     <td width="228"><p>Gantt Chart</p></td>
+    <td width="250"><p>A visual representation of the project schedule, displaying tasks and their duration over time.</p></td>
+    <td width="64"><p>38 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.4.8.3</p></td>
     <td width="228"><p>WBS</p></td>
+    <td width="250"><p>A hierarchical breakdown of the project's work and deliverables into smaller, more manageable components.</p></td>
+    <td width="64"><p>35 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.4.8.4</p></td>
     <td width="228"><p>Activity List</p></td>
+    <td width="250"><p>A list of all project activities, including their duration, dependencies, and resource requirements.</p></td>
+    <td width="64"><p>29 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.4.8.5</p></td>
     <td width="228"><p>Project Charter</p></td>
+    <td width="250"><p>A document that formally authorizes the project, defines its objectives, and assigns roles and responsibilities to the project team.</p></td>
+    <td width="64"><p>29 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.4.8.6</p></td>
     <td width="228"><p>Statement of Work</p></td>
+    <td width="250"><p>A document that describes in detail the scope of work, deliverables, and requirements for a project.</p></td>
+    <td width="64"><p>29 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>3</p></td>
     <td width="64"><p>1.3.5</p></td>
     <td width="228"><p>Final Deliverables</p></td>
+    <td width="250"><p>Preparing MCSPROJ Final Deliverables.</p></td>
+    <td width="64"><p>38 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.5.1</p></td>
     <td width="228"><p>Project paper</p></td>
+    <td width="250"><p>Dosumenting MCSPROJ Final Deliverables.</p></td>
+    <td width="64"><p>9 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.1.1</p></td>
     <td width="228"><p>Chap 1 Introduction</p></td>
+    <td width="250"><p>Updated Chapter 1 Introduction</p></td>
+    <td width="64"><p>9 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.1.2</p></td>
     <td width="228"><p>Chap 2 RRL/RRS</p></td>
+    <td width="250"><p>Updated Chapter 2 RRL/RRS</p></td>
+    <td width="64"><p>9 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.1.3</p></td>
     <td width="228"><p>Chap 3 Technical Background</p></td>
+    <td width="250"><p>Updated Chapter 3 Technical Background</p></td>
+    <td width="64"><p>9 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.1.4</p></td>
     <td width="228"><p>Chap 4 Methodology</p></td>
+    <td width="250"><p>Updated Chapter 4 Methodology</p></td>
+    <td width="64"><p>9 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.1.5</p></td>
     <td width="228"><p>Chap 5 Results and Discussions</p></td>
+    <td width="250"><p>Updated Chapter 5 Results and Discussions</p></td>
+    <td width="64"><p>9 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.1.6</p></td>
     <td width="228"><p>Chap 6 Conclusion</p></td>
+    <td width="250"><p></p></td>
+    <td width="64"><p>9 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.5.2</p></td>
     <td width="228"><p>Updated Teaser Video</p></td>
+    <td width="250"><p>Video that summarizes the entire deliverables.</p></td>
+    <td width="64"><p>1 day</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.5.3</p></td>
     <td width="228"><p>Powerpoint Deck</p></td>
+    <td width="250"><p>Powerpoint presentation for Final defense.</p></td>
+    <td width="64"><p>1 day</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.5.4</p></td>
     <td width="228"><p>Final Presentation</p></td>
+    <td width="250"><p>Presentation of MCSPROJ final progress.</p></td>
+    <td width="64"><p>1 day</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.5.5</p></td>
     <td width="228"><p>Final Rubric</p></td>
+    <td width="250"><p>Evaluating the progress and quality of the students' work halfway through the project.</p></td>
+    <td width="64"><p>1 day</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.5.6</p></td>
     <td width="228"><p>Improvement matrix</p></td>
+    <td width="250"><p>Feedback and comments received from panelists about improvement opportunities in the project.</p></td>
+    <td width="64"><p>5 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.5.7</p></td>
     <td width="228"><p>Revised Final paper</p></td>
+    <td width="250"><p>Reviewed and revised final paper based on panelists' comments.</p></td>
+    <td width="64"><p>0 day</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.3.5.8</p></td>
     <td width="228"><p>MCSPROJ Deliverables</p></td>
+    <td width="250"><p>Subject outputs that are expected to be produced by the developers.</p></td>
+    <td width="64"><p>15 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.8.1</p></td>
     <td width="228"><p>Quality Management Plan</p></td>
+    <td width="250"><p>A plan that outlines the processes and procedures to ensure the quality of the project deliverables.</p></td>
+    <td width="64"><p>15 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.8.2</p></td>
     <td width="228"><p>Change Management Plan</p></td>
+    <td width="250"><p>A plan that defines how changes to the project scope will be managed, controlled, and communicated.</p></td>
+    <td width="64"><p>15 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.8.3</p></td>
     <td width="228"><p>Contingency Plan</p></td>
+    <td width="250"><p>A plan that outlines the course of action to be taken if certain identified risks occur during the project.</p></td>
+    <td width="64"><p>15 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.8.4</p></td>
     <td width="228"><p>User Project Review</p></td>
+    <td width="250"><p>A review process where the user provides feedback on the project deliverables and the overall user experience.</p></td>
+    <td width="64"><p>15 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.8.5</p></td>
     <td width="228"><p>SRS</p></td>
+    <td width="250"><p>A document that outlines the functional and non-functional requirements of the software being developed.</p></td>
+    <td width="64"><p>15 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.8.6</p></td>
     <td width="228"><p>Test Case</p></td>
+    <td width="250"><p>A set of conditions used to determine if the system meets its intended requirements and functions correctly.</p></td>
+    <td width="64"><p>15 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.8.7</p></td>
     <td width="228"><p>Project Sway</p></td>
+    <td width="250"><p>Interactive web-based presentation of Chubby Gourmet web application.</p></td>
+    <td width="64"><p>15 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>5</p></td>
     <td width="64"><p>1.3.5.8.8</p></td>
     <td width="228"><p>Proofread Request</p></td>
+    <td width="250"><p>Requesting a proofread to the adviser to ensure that the documentation is free of errors and mistakes.</p></td>
+    <td width="64"><p>0 day</p></td>
   </tr>
   <tr>
     <td width="141"><p>2</p></td>
     <td width="64"><p>1.4</p></td>
     <td width="228"><p>Documentation</p></td>
+    <td width="250"><p>Creation of project documents, such as plans and processes.</p></td>
+    <td width="64"><p>69 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>3</p></td>
     <td width="64"><p>1.4.1</p></td>
     <td width="228"><p>Midterm Deliverables</p></td>
+    <td width="250"><p>Preparing PROJMAN Midterm Deliverables.</p></td>
+    <td width="64"><p>32 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.4.1.1</p></td>
     <td width="228"><p>Business Case</p></td>
+    <td width="250"><p>A document that justifies the need for the project and outlines its expected benefits and costs.</p></td>
+    <td width="64"><p>19 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.4.1.2</p></td>
     <td width="228"><p>Project Charter</p></td>
+    <td width="250"><p>Updated Project Charter.</p></td>
+    <td width="64"><p>19 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.4.1.3</p></td>
     <td width="228"><p>Stakeholders Management Strategy Plan</p></td>
+    <td width="250"><p>A plan that outlines how the developers will manage the needs and expectations of stakeholders.</p></td>
+    <td width="64"><p>19 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.4.1.4</p></td>
     <td width="228"><p>Scope Management Plan</p></td>
+    <td width="250"><p>A plan that outlines how the developers will define, validate, and control the project scope.</p></td>
+    <td width="64"><p>11 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.4.1.5</p></td>
     <td width="228"><p>Cost Management Plan</p></td>
+    <td width="250"><p>A plan that outlines how costs will be estimated, budgeted, and controlled throughout the project.</p></td>
+    <td width="64"><p>11 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.4.1.6</p></td>
     <td width="228"><p>Time Management Plan</p></td>
+    <td width="250"><p>A plan that outlines how the project schedule will be developed, monitored, and controlled.</p></td>
+    <td width="64"><p>11 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.4.1.7</p></td>
     <td width="228"><p>WBS</p></td>
+    <td width="250"><p>Updated Work Breakdown Structure</p></td>
+    <td width="64"><p>11 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
     <td width="64"><p>1.4.1.8</p></td>
     <td width="228"><p>Work Packages</p></td>
+    <td width="250"><p>A small unit of work that can be assigned, estimated, and tracked in the project management process.</p></td>
+    <td width="64"><p>11 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>3</p></td>
     <td width="64"><p>1.4.2</p></td>
     <td width="228"><p>Final Deliverables</p></td>
+    <td width="250"><p>Preparing PROJMAN Final Deliverables.</p></td>
+    <td width="64"><p>29 days</p></td>
   </tr>
   <tr>
     <td width="141"><p>4</p></td>
