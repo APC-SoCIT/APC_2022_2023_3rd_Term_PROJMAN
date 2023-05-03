@@ -110,7 +110,7 @@ The implementation of the Apelo Dental Clinic System is a worthwhile investment 
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
 <td><p style="text-align:center;">Provide technical support for the project. </p></td>
-		<td><p style="text-align:center;">Alfonzo Louise De Vera></td>
+		<td><p style="text-align:center;">Alfonzo Louise De Vera</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
@@ -1120,3 +1120,36 @@ In summary, the Cost Management Plan will ensure that the project costs are effe
 <p>Work Package:         A Work Package is a deliverable or work component at the lowest level of its WBS branch.</p>
 <p>WBS Component:    A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
 <p>WBS Element:         A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
+=Work Packages=
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">WBS:/p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center; ">Work Package:</p></td>
+		<td><p style="text-align:center;">Widget Management System</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center; ">Package Owner:</p></td>
+		<td><p style="text-align:center;">Janssen Pedrola</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Owner Organization:</p></td>
+		<td><p style="text-align:center;">Apelo Dental Clinic</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Participants:</p></td>
+		<td><p style="text-align:center;">Progmatiks Members</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Description: <br>All work to implement a new widget management system.</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Complete Statement: <br>The project was initiated by the project manager and the members of the group.</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Reference Docs</p></td>
+		<td><p style="text-align:center;"></p></td>
+	</tr>
+</table>
