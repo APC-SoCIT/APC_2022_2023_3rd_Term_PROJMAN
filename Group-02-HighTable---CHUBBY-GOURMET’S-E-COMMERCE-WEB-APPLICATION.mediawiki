@@ -388,6 +388,19 @@ Conclusion:
 <p>The following sections will outline the key components of the Stakeholder Management Strategy, including stakeholder identification, and analysis. It will also discuss the potential benefits of proper stakeholder management and the risks associated with inadequate stakeholder engagement. By implementing an effective Stakeholder Management Strategy, the project can maximize stakeholder support and achieve its objectives while minimizing potential negative impacts. </p><br>
 
 ==Identify Stakeholders==
+<p>The goal of identifying project stakeholders is to ensure that all individuals, groups, organizations, or entities with an interest in or affected by the project are identified and documented.</p><br>
+
+<h3>The primary goals of identifying stakeholders are as follows:</h3>
+<ul>
+    <li>Comprehensive Stakeholder Management: The project team can develop a comprehensive stakeholder management strategy by identifying all stakeholders, including both major and minor stakeholders. This enables effective communication, engagement, and management of stakeholders throughout the project's lifecycle, which can aid in the development of positive relationships, the management of expectations, and the mitigation of potential risks or issues.</li>
+    <li>Minimizing Project Risks: Identifying stakeholders helps in understanding their interests, concerns, and potential impacts on the project. This allows the project team to proactively address stakeholder needs and expectations and take appropriate actions to minimize potential risks. By identifying stakeholders early in the project, any potential obstacles or delays caused by unanticipated stakeholder issues can be mitigated or avoided.</li>
+    <li>Improving Project Success: Involving and engaging stakeholders in the project can help it succeed. Stakeholders can provide valuable input, feedback, and support, allowing for more informed decisions, better project outcomes, and achievement of project objectives. The team can build stakeholder trust, gain their support, and increase the likelihood of project success by identifying stakeholders and incorporating their interests into the project.</li>
+    <li>Compliance and Ethical Considerations: Identifying stakeholders is critical for compliance and ethics. Many projects have regulatory requirements or ethical considerations and identify all stakeholders' aids in ensuring compliance with applicable laws, regulations, and ethical standards. It also demonstrates a responsible and ethical project management approach by considering all stakeholders' interests.</li>
+    <li>Proactive Issue Management: The identification of stakeholders enables proactive issue management. The project team can anticipate and address potential issues or conflicts by understanding their concerns, interests, and potential consequences. This contributes to project momentum, disruption reduction, and smooth project execution.</li>
+</ul>
+
+<p>Overall, the goal of identifying stakeholders is to ensure that all relevant parties are identified, engaged, and managed effectively throughout the project's lifecycle to reduce risks, improve project success, and promote responsible project management practices. </p><br>
+
 
 ==Key Stakeholders==
 <p>The key stakeholder of the Chubby Gourmet e-commerce web application is Ms. Priscilla Mariano, the owner of the business. Ms. Mariano is the main user and decision-maker for the business and will be the primary beneficiary of the new system. As a one-woman business, she handles all aspects of the business, including managing orders, inventory, and customer inquiries. Therefore, it is crucial to ensure that the new web application is tailored to meet her specific needs and is user-friendly. </p><br>
@@ -411,9 +424,7 @@ Conclusion:
     <td>priscillamariano403@gmail.com</td>
   </tr>
 </table>
-
-==Stakeholder Analysis==
-
+<br>
 
 =Scope Management Plan=
 
