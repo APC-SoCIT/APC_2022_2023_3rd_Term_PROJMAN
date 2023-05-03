@@ -927,11 +927,24 @@ It will be possible to establish the scope baseline by incorporating the scope d
 <p>&nbsp;&nbsp;&nbsp; 3.&nbsp;&nbsp;&nbsp;&nbsp;APC Community Members - Moderate influence, high interest, moderate impact: students and other school staff may interact with the ticketing system to submit tickets for technical issues or other inquiries. While their influence may be moderate, their interest in the system is high as it directly affects their ability to receive support and resolve issues.</p>
 
 <table width="744" border="1" align="center">
-<tr style="height: 52px;" bgcolor="#04549B">
-                           <td style="height: 52px;" width="180">
+<tr style="height: 52px;">
+                           <td style="height: 52px;" width="180" bgcolor="#04549B">
 			       <p><strong>Name</strong></p> </td>
-                            <td style="height: 52px;" width="180">
-				<p><strong>Name</strong></p> </td>
+                            <td style="height: 52px;" width="180" bgcolor="#04549B">
+				<p><strong>Department/Company</strong></p> </td>
+                            <td style="height: 52px;" width="180" bgcolor="#04549B">
+				<p><strong>Position</strong></p> </td>
+                            <td style="height: 52px;" width="180" bgcolor="#04549B">
+				<p><strong>Advisers</strong></p> </td>
+                            <td style="height: 52px;" width="180" bgcolor="#04549B">
+				<p><strong>Objectives, Requirements, Interests</strong></p> </td>
+                            <td style="height: 52px;" width="180" bgcolor="#04549B">
+				<p><strong>Influence</strong></p> </td>
+                            <td style="height: 52px;" width="180" bgcolor="#04549B">
+				<p><strong>Project Contribution</strong></p> </td>
+                            <td style="height: 52px;" width="180" bgcolor="#04549B">
+				<p><strong>Resistance</strong></p> </td>
+
 
 </tr>
 </table>
