@@ -210,6 +210,34 @@ Budget format and standards:
 
 ==Schedule Management Approach==
 <p>The project team and the resources assigned to it will cautiously work on the initial schedule once it has been produced in order to prevent the project's schedule from being in the critical path. The proposed work package task, the length of the activities, and the project timeline require the approval of the project team and assets. Once this has been completed, the project adviser will check, approve, and baseline the schedule.</p>
+<br>
+<table border="1" width="70%" align="center">
+     <tr>
+        <td><p style="text-align:center;"><b>Milestone</b></p></td>
+        <td><p style="text-align:center;"><b>Timeline</b></p></td>
+     </tr>
+     <tr>
+        <td>Project Charter</td>
+        <td>1st Month</td>
+     </tr>
+     <tr>
+        <td>Project Approval</td>
+        <td>2nd Month</td>
+     </tr>
+     <tr>
+        <td>Developing the Web Application</td>
+        <td>3rd to 7th Month</td>
+     </tr>
+     <tr>
+        <td>Complete Test Plan</td>
+        <td>8th Month</td>
+     </tr>
+     <tr>
+        <td>Finalizing the Document</td>
+        <td>9th Month</td>
+     </tr>
+
+</table>
 
 ==Schedule Control==
 <p>For the duration of the project, the schedule must be precisely and effectively managed. Meetings, schedules, project updates, and even changes to the project schedule go through the project manager, who is also responsible for managing them. The project manager will also be responsible for informing and keeping the project client informed of the project's status.</p>
