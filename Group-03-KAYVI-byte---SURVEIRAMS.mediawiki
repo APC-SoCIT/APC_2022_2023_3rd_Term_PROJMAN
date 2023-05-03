@@ -842,63 +842,53 @@ If the project continues to exceed the Control Thresholds, the Project Manager w
 =Work Breakdown Structure=
 
 <h2>Introduction</h2>
-<p>            The Work Breakdown Structure is breakdown of all the work packages necessary to complete, presented here represents all the work required to complete this project. A WBS is constructed Outline View Structure to develop to easily navigate and understand the structure how to accomplish this project, it also represents the work identified in the approved Project Scope Statement and serves as an Initial Schedule Development and Cost Estimating. We do the WBS is help more accurately and specifically define and organize the scope of the whole project. Also, to help with assigning responsibilities, resource allocation, monitoring and controlling the project.</p>
+<p>A Work Breakdown Structure (WBS) has been developed to help clarify the project's goals and scope. The project is divided into smaller, more manageable components called work packages by the WBS, each of which represents a specific task that must be completed to achieve the project's overall objectives. The WBS acts as a hierarchical structure that aids in establishing a project schedule, budget, and resource plan as well as assisting the project team in understanding the relationships between various work packages. It is an essential tool for managing and controlling the SurveiRams System project because it also aids in tracking progress and spotting potential risks and problems.</p>
+
 <h2><strong>Outline View</strong></h2>
-<li>Just-In-Time E-Commerce Website
+<li>SurveiRams Ticketing System
 <ul>
 <ul>Initiation
 <ul>
-<ul>Determine Project Team</ul>
-<ul>Develop Project Charter</ul>
-<ul><em>Deliverable:</em> Submit Project Charter</ul>
-<ul>Project Sponsor Reviews Project Charter</ul>
-<ul>Project Charter Signed/Approved</ul>
-<ul><em>Deliverable:</em> Work Breakdown Structure</ul>
+<ul>Create a Business Case</ul>
+<ul>Conduct a Feasibility Study</ul>
+<ul>Project Charter</ul>
+<ul>Identify Stakeholder</ul>
+<ul>Final Review</ul>
 </ul>
 </ul>
-<ul>Planning
+<ul>Develop Project Charter and Plan
 <ul>
-<ul>Create Preliminary Scope Statement</ul>
-<ul>Project Team Initial Meeting</ul>
-<ul><em>Deliverable:</em> Stakeholder Management Plan</ul>
-<ul><em>Deliverable:</em> Schedule Management Plan</ul>
-<ul><em>Deliverable:</em> Cost Management Plan</ul>
-<ul>Submit Deliverables</ul>
-<ul>Project Team Meeting</ul>
-<ul><em>Milestone:</em> Project Plan Approval</ul>
+<ul>Project Description</ul>
+<ul>Business Need</ul>
+<ul>Cost Management Plan</ul>
+<ul>Schedule Management Plan</ul>
+<ul>Scope Management Plan</ul>
 </ul>
 </ul>
-<ul>Execution
+<ul>Analysis
 <ul>
-<ul>Project Team Meeting</ul>
-<ul>Verify &amp; Validate Stakeholder Requirements</ul>
-<ul>Design System</ul>
-<ul>Procure Hardware/Software</ul>
-<ul>Install Development System</ul>
-<ul>Sprint Planning Meeting</ul>
-<ul>Create Sprint Backlog</ul>
-<ul>Develop Sprint Backlog Items (Daily Scrum)</ul>
-<ul>Sprint Review Meeting</ul>
-<ul>Sprint Retrospective Meeting</ul>
-<ul>Integration to Cloud Server</ul>
+<ul>Project Risk Analysis</ul>
+<ul>Cost Benefit Analysis</ul>
 </ul>
 </ul>
-<ul>Control
+<ul>Design
 <ul>
-<ul>Quality Assurance Control</ul>
-<ul>Project Management</ul>
-<ul>Project Status Meetings</ul>
-<ul>Risk Management</ul>
-<ul>Update Project Management Plan</ul>
+<ul>Process Design</ul>
+<ul>User Interface</ul>
 </ul>
 </ul>
-<ul>Closeout
+<ul>Testing
 <ul>
-<ul>Audit Procurement</ul>
-<ul>Document Lessons Learned</ul>
-<ul>Update Files/Records</ul>
-<ul>Gain Formal Acceptance</ul>
-<ul>Archive Files/Documents</ul>
+<ul>System Test</ul>
+<ul>User Acceptance Test</ul>
+<ul>Unit and Integration Testing</ul>
+</ul>
+</ul>
+<ul>Implementation
+<ul>
+<ul>System Test</ul>
+<ul>Define Key Variables</ul>
+<ul>Determine Roles</ul>
 </ul>
 </ul>
 </ul>
