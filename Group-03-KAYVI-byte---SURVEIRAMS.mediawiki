@@ -498,78 +498,103 @@ user, which is based on what office or department they are from.</p>
 <p>The SurveiRams project aims to create a more robust ticketing system for the entire organization. The project team will handle all aspects of the project, including administering personnel, hardware, and software resources, and all necessary testing will be conducted independently of daily operations. The Project Manager is responsible for securing project funding as outlined in this document. Additional funding must be approved by the project sponsor. The project will be considered complete once the SurveiRams system is tested and deployed throughout the organization, the final report is submitted within 30 days, and technical documentation is distributed to appropriate personnel.</p>
 
 <h2>Risks</h2>
-<p>
-	lorem
-</p>
-<h2>Project Deliverables</h2>
+<p>The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:</p>
 <ul>
-	<li>
-		A fully functioning website complete with all the features will be helpfulto the MC Manabat&rsquo;s business.
-	</li>
-	<li>
-		A Cloud host server financially supported by the project sponsor for additional security options and good support maintenance of the host server.
-	</li>
-	<li>
-		The project required documents and manuals as well as the analysis and how the project came to be.
-	</li>
+<li>Potential disruption to internet service during testing phase and deployment</li>
+<li>Project Timeline Changes</li>
+<li>Project Cost</li>
 </ul>
+
+<h2>Project Deliverables</h2>
+<p>The following deliverables must be met upon the successful completion of the SurveiRams project.  Any changes to these deliverables must be approved by the project sponsor.</p>
+<ul>
+<li>Complete implementation of SurveiRams Ticketing System</li>
+<li>SurveiRams project’s technical documentation</li>
+<li>Recommendation list for future security considerations and enhancements</li>
+</ul>
+
 <h2>Summary Milestone Schedule</h2>
+<p>The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.</p>
 
 <table border="1" width="70%" align="center">
 <tr>
 <td width="394" bgcolor="lightblue">
-<p><strong>Milestone</strong></p>
+<p><strong>Project Milestones</strong></p>
 </td>
 <td width="190" bgcolor="lightblue">
-<p><strong>Timeline</strong></p>
+<p><strong>Target Date</strong></p>
 </td>
 </tr>
 <tr>
 <td width="394">
-<p>Project Charter</p>
+<p>Project Initiation</p>
 </td>
 <td width="190">
-<p>1<sup>st </sup>month</p>
+<p>03/31/2023</p>
 </td>
 </tr>
 <tr>
 <td width="394">
-<p>Project Approval</p>
+<p>Project Plan Review and Completion</p>
 </td>
 <td width="190">
-<p>2<sup>nd </sup>month</p>
+<p>04/14/2023</p>
 </td>
 </tr>
 <tr>
 <td width="394">
-<p>Developing the Website</p>
+<p>Project Kickoff</p>
 </td>
 <td width="190">
-<p>3<sup>rd </sup>to 8<sup>th</sup> month</p>
+<p>05/14/2023</p>
 </td>
 </tr>
 <tr>
 <td width="394">
-<p>Complete Test Plan</p>
+<p>Phase I  Complete – Analysis</p>
 </td>
 <td width="190">
-<p>9<sup>th</sup> month</p>
+<p>06/15/2023</p>
 </td>
 </tr>
 <tr>
 <td width="394">
-<p>Finalizing the Document</p>
+<p>Phase II  Complete – Design</p>
 </td>
 <td width="190">
-<p>10<sup>th</sup> month</p>
+<p>07/30/2023</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Phase III Complete – Testing</p>
+</td>
+<td width="190">
+<p>09/15/2023</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Phase IV Complete – Implementation</p>
+</td>
+<td width="190">
+<p>10/27/2023</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Closeout/Project Completion</p>
+</td>
+<td width="190">
+<p>11/10/2023</p>
 </td>
 </tr>
 </table>
 
 <h2>Summary Budget</h2>
-<p>
-	lorem
-</p>
+<p>The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project.</p>
+
+
 <h2>Project Approval Requirements</h2>
 <p>
 	lorem
@@ -578,8 +603,6 @@ user, which is based on what office or department they are from.</p>
 <p>
 	lorem
 </p>
-
-
 =Stakeholder Strategy Management Plan=
 
 <h2>Introduction</h2>
