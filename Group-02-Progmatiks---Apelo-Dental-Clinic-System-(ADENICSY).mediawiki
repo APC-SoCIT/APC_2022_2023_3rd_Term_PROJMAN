@@ -203,3 +203,652 @@ Budget format and standards:
   <li>The budget will be broken down into individual line items, with detailed cost estimates for each item.</li>
   <li>The budget will be updated on a monthly basis, with any changes clearly highlighted.</li>
 </ul>
+=Work Breakdown Structure=
+
+==Introduction==
+<p>The Apelo Dental Clinic System has the main goal to lessen the waiting time of the patients through queueing management, digitalization of patient’s dental records, and automating several manual processes to improve the clinic’s performance. The Work Breakdown Structure (WBS) for Apelo Dental Clinic System outlines the various work packages that must be accomplished to deliver a functional and user-friendly e-commerce web application. The WBS presents the project scope and helps in defining the deliverables that must be accomplished to meet the project objectives. This document will provide an overview of the WBS layout for Apelo Dental Clinic System.</p>
+<br>
+<p>The WBS is organized into five major phases, which include project planning, analysis and design, development, documentation, and development II. Each phase is further broken down into several sub-phases or work packages, which are numbered for easy reference. The WBS has been designed to accommodate the key stakeholders, including the project owner, Doctor Denroe Apelo. Doctor Apelo will have the opportunity to review the WBS to ensure that the project goals are being met, and any adjustments can be made before the project progresses too far.</p>
+<br>
+<p>Overall, the WBS for Apelo Dental Clinic System provides a comprehensive view of the tasks needed to deliver a fully-functional e-commerce web application. It is an essential tool that helps the project team in tracking and monitoring the progress of the project, ensuring that it is delivered on time and to the satisfaction of the stakeholders.</p>
+<br>
+
+==Outline View==
+<p>The outline view for the work breakdown structure (WBS) of Apelo Dental Clinic System provides a straightforward and clear layout that is easy to understand. This layout is particularly useful during the development phase of the project as it enables the project team to make changes quickly and efficiently. The outline view displays the hierarchical structure of the WBS, which allows the project team to easily see the various levels of the project and how they relate to one another. With this view, the team can easily identify the major deliverables of the project and the sub-deliverables that contribute to the completion of each major deliverable. This helps ensure that the project team stays on track and is able to complete the project within the established timeline.</p>
+
+<ul>Apelo Dental Clinic System
+<ul>
+<ul>1. Initiation
+<ul>
+<ul>1.1 Determine Project Team</ul>
+<ul>1.2 Develop Project Charter</ul>
+<ul>1.3 <i>Deliverable</i>: Submit Project Charter</ul>
+<ul>1.4 Project Sponsor Reviews Project Charter</ul>
+<ul>1.5 Project Charter Signed/Approved</ul>
+<ul>1.6 <i>Deliverable</i>: Work Breakdown Structure</ul>
+</ul>
+</ul>
+
+<ul>2. Planning
+<ul>
+<ul>2.1 Create Preliminary Scope Statement</ul>
+<ul>2.2 Project Team Initial Meeting</ul>
+<ul>2.3 <i>Deliverable</i>: Stakeholder Management Plan</ul>
+<ul>2.4 <i>Deliverable</i>: Schedule Management Plan</ul>
+<ul>2.5 <i>Deliverable</i>: Cost Management Plan</ul>
+<ul>2.6 Submit Deliverables</ul>
+<ul>2.7 Project Team Meeting</ul>
+<ul>2.8 <i>Milestone</i>: Project Plan Approval</ul>
+</ul>
+</ul>
+
+<ul>3. Execution
+<ul>
+<ul>3.1 Project Team Meeting</ul>
+<ul>3.2 Verify & Validate Stakeholder Requirements</ul>
+<ul>3.3 Design System</ul>
+<ul>3.4 Procure Hardware/Software</ul>
+<ul>3.5 Install Development System</ul>
+<ul>3.6 Sprint Planning Meeting</ul>
+<ul>3.7 Create Sprint Backlog</ul>
+<ul>3.8 Develop Sprint Backlog Items (Daily Scrums)</ul>
+<ul>3.9 Sprint Review Meeting</ul>
+<ul>3.10 Sprint Retrospective Meeting</ul>
+<ul>3.11 Integration to Server</ul>
+</ul>
+</ul>
+
+<ul>4. Control
+<ul>
+<ul>4.1 Quality Assurance Control</ul>
+<ul>4.2 Project Management</ul>
+<ul>4.3 Project Status Meeting</ul>
+<ul>4.4 Risk Management</ul>
+<ul>4.5 Update Project Management Plan</ul>
+</ul>
+</ul>
+
+<ul>5. Closeout
+<ul>
+<ul>5.1 Audit Procurement</ul>
+<ul>5.2 Document Lessons Learned</ul>
+<ul>5.3 Update Files/Records</ul>
+<ul>5.4 Gain Formal Acceptance</ul>
+<ul>5.5 Archive Files/Documents</ul>
+</ul>
+</ul>
+<br>
+
+==Hierarchical Structure==
+<p>The hierarchical structure is an effective way to represent the Work Breakdown Structure (WBS) for Apelo Dental Clinic System. It shows the breakdown of the project into smaller, manageable parts, with each level representing a more detailed and specific set of activities. This structure allows for a clear understanding of the dependencies between different tasks and deliverables and enables the project team to track progress and identify any potential issues at an early stage.</p>
+
+<table width="780" border="1" align="center">
+<thead>
+	<tr>
+		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
+		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
+	</tr>
+</thead>
+<tbody>
+        <tr>
+		<td width="141"><p>1</p></td>
+		<td width="64"><p>1</p></td>
+		<td width="228"><p>Apelo Dental Clinic System </p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.1</p></td>
+		<td width="228"><p>Initiation </p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2</p></td>
+		<td width="228"><p>Determine Project Team</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3</p></td>
+		<td width="228"><p>Develop Project Charter</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.4</p></td>
+		<td width="228"><p>Deliverable: Submit Project Charter</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5</p></td>
+		<td width="228"><p>Project Charter Signed/Approved</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6</p></td>
+		<td width="228"><p>Deliverable: Work Breakdown Structure</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>2.1</p></td>
+		<td width="228"><p>Planning</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.2</p></td>
+		<td width="228"><p>Create Preliminary Scope Statement</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.3</p></td>
+		<td width="228"><p>Project Team Initial Meeting</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.4</p></td>
+		<td width="228"><p>Deliverable: Stakeholder Management Plan</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.5</p></td>
+		<td width="228"><p>Deliverable: Schedule Management Plan</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.6</p></td>
+		<td width="228"><p>Deliverable:Cost Management Plan</p></td>
+	</tr>
+<tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>2.7</p></td>
+    <td width="228"><p>Submit Deliverables</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>2.8</p></td>
+    <td width="228"><p>Project Team Meeting</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>2.9</p></td>
+    <td width="228"><p>Milestone: Project Plan Approval</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>3.1</p></td>
+    <td width="228"><p>Execution</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.2</p></td>
+    <td width="228"><p>Project Team Meeting</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.3</p></td>
+    <td width="228"><p>Verify & Validate Stakeholder Requirements</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.4</p></td>
+    <td width="228"><p>Design System</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.5</p></td>
+    <td width="228"><p>Procure Hardware/Software</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.6</p></td>
+    <td width="228"><p>Install Development System</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.7</p></td>
+    <td width="228"><p>Sprint Planning Meeting</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.8</p></td>
+    <td width="228"><p>Create Sprint Backlog</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.9</p></td>
+    <td width="228"><p>Develop Sprint Backlog Items (Daily Scrums)</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.10</p></td>
+    <td width="228"><p>Sprint Review Meeting</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.11</p></td>
+    <td width="228"><p>Sprint Retrospective Meeting</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.12</p></td>
+    <td width="228"><p>Integration to Server</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>4.1</p></td>
+    <td width="228"><p>Control</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.2</p></td>
+    <td width="228"><p>Quality Assurance Control</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.3</p></td>
+    <td width="228"><p>Project Management</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.4</p></td>
+    <td width="228"><p>Project Status Meeting</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.5</p></td>
+    <td width="228"><p>Risk Management</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.6</p></td>
+    <td width="228"><p>Update Project Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>5.1</p></td>
+    <td width="228"><p>Closeout</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.2</p></td>
+    <td width="228"><p>Audit Procurement</p></td>
+  </tr>
+<tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.3</p></td>
+    <td width="228"><p>Document Lessons Learned</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.4</p></td>
+    <td width="228"><p>Update Files/Records</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.5</p></td>
+    <td width="228"><p>Gain Formal Acceptance</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.6</p></td>
+    <td width="228"><p>Archive Files/Documents</p></td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+==Tabular View==
+<p>The tabular view of the Work Breakdown Structure (WBS) for Apelo Dental Clinic presents a clear and organized overview of the project by displaying all tasks and subtasks in a table format.</p>
+<table>
+  <thead>
+    <tr>
+      <th width="70">Level 1</th>
+      <th width="70">Level 2</th>
+      <th width="120">Level 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">1. Apelo Dental Clinic System</td>
+      <td>1.1 Initiation</td>
+      <td>1.2 Determine Project Team<br>1.3 Develop Project Charter<br>1.4 Deliverable: Submit Project Charter<br>1.5 Project Charter Signed/Approved<br>1.6 Deliverable: Work Breakdown Structure</td>
+    </tr>
+
+    <tr>
+      <td>2.1 Planning</td>
+      <td>2.2 Create Preliminary Scope Statement<br>2.3 Project Team Initial Meeting<br>2.4 Deliverable: Stakeholder Management Plan<br>2.5 Deliverable: Schedule Management Plan<br>2.7 Submit Deliverables<br>2.8 Project Team Meeting<br>2.9 Milestone: Project Plan Approval </td>
+    </tr>
+
+    <tr>
+      <td>3.1  Execution</td>
+      <td>3.2 Project Team Meeting<br>3.3 Verify & Validate Stakeholder Requirements<br>3.4 Design System<br>3.5 Procure Hardware/Software<br>3.6 Install Development Systems<br>3.7 Sprint Planning Meeting<br>3.8 Create Sprint Backlog<br>3.9 Develop Sprint Backlog Items (Daily Scrums)<br>3.10 Sprint Review Meetings<br>3.11 Integration to Server</td>
+     </tr>
+
+    <tr>
+      <td>4.1 Control</td>
+      <td>4.2 Quality Assurance Control<br>4.3 Project Management<br>4.4 Project Status Meeting<br>4.5 Risk Management<br>4.6 Update Project Management Plan<br></td>
+    </tr>
+
+    <tr>
+      <td>5.1 Closeout</td>
+      <td>1.5.2 Audit Procurement<br>5.3 Document Lessons Learned<br>5.4 Update Files/Records<br>5.5 Gain Formal Acceptance<br>5.6 Archive Files/Documents</td>
+    </tr>
+
+  </tbody>
+</table>
+<br>
+
+==Tree Structure View==
+<p>The Tree Structure view provides an intuitive and easy-to-understand visual representation of the project's hierarchical structure, showing how each element contributes to the project as a whole.</p>
+<br>
+<img src="https://drive.google.com/uc?id=1ReVuQwpS9KFwHKGBcPMoNzhFWwz5HAXL">
+<br>
+
+==WBS Dictionary==
+<p>The Work Breakdown Structure (WBS) Dictionary is a companion document to the WBS that provides a comprehensive list of all the tasks, sub-tasks, and work packages included in the project. The WBS Dictionary contains important information such as the description of each work package and the estimated duration. It serves as a reference guide for the project team, ensuring that everyone is on the same page regarding the project's scope and objectives. A well-developed WBS Dictionary is essential for project management and helps to ensure that the project stays on track and is completed within the schedule.</p>
+<table width="780" border="1" align="center">
+<thead>
+	<tr>
+		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
+		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Definition</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Estimated Duration</p></td>
+	</tr>
+</thead>
+<tbody>
+        <tr>
+		<td width="141"><p>1</p></td>
+		<td width="64"><p>1</p></td>
+		<td width="228"><p>Apelo Dental Clinic System</p></td>
+		<td width="250"><p>Proposed web application system</p></td>
+                <td width="64"><p>-</p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.1</p></td>
+		<td width="228"><p>Initiation </p></td>
+		<td width="250"><p>The work to initiate the project.</p></td>
+                <td width="64"><p>30 days</p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2</p></td>
+		<td width="228"><p>Determine Project Team </p></td>
+		<td width="250"><p>Selecting team, client and task delegations.</p></td>
+                <td width="64"><p>7 days</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3</p></td>
+		<td width="228"><p>Develop Project Charter</p></td>
+		<td width="250"><p>Project Manager to develop the Project Charter. </p></td>
+                <td width="64"><p>10 days</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.4</p></td>
+		<td width="228"><p>Deliverable: Submit Project Charter</p></td>
+		<td width="250"><p>Project Charter is delivered to the Project Sponsor. </p></td>
+                <td width="64"><p>1 day</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5</p></td>
+		<td width="228"><p>Project Charter Signed/Approved</p></td>
+		<td width="250"><p>The Project Sponsor signs the Project Charter which authorizes the Project Manager to move to the Planning Process. </p></td>
+                <td width="64"><p>1 day</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6</p></td>
+		<td width="228"><p>Deliverable: Work Breakdown Structure</p></td>
+		<td width="250"><p>Breakdown of work to fully identify and focus on each part to be delivered.</p></td>
+                <td width="64"><p>7 days</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>2.1</p></td>
+		<td width="228"><p>Planning</p></td>
+		<td width="250"><p>The work for the planning process for the project.</p></td>
+                <td width="64"><p>5 days</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.2</p></td>
+		<td width="228"><p>Create Preliminary Scope Statement1</p></td>
+		<td width="250"><p>Project Manager creates a Preliminary Scope Statement.</p></td>
+                <td width="64"><p>21 days</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.3</p></td>
+		<td width="228"><p>Project Team Initial Meeting</p></td>
+		<td width="250"><p>Meeting to delegate tasks and create decisions about the product.</p></td>
+                <td width="64"><p>1 day</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.4</p></td>
+		<td width="228"><p>Deliverable: Stakeholder Management Plan</p></td>
+		<td width="250"><p>Meeting with the stakeholders to clarify the task created by the team and await approval.</p></td>
+                <td width="64"><p>7 days</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.5</p></td>
+		<td width="228"><p>Deliverable: Schedule Management Plan</p></td>
+		<td width="250"><p>Create a schedule/timeline for tasks to be done.</p></td>
+                <td width="64"><p>14 days</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>2.6</p></td>
+		<td width="228"><p>Deliverable:Cost Management</p></td>
+		<td width="250"><p>Meeting to discuss possible finances about the product. </p></td>
+                <td width="64"><p>5 days</p></td>
+	</tr>
+<tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>2.7</p></td>
+    <td width="228"><p>Submit Deliverables</p></td>
+    <td width="250"><p>Submit the created deliverables to the authorized personnel for further checking and decisions.</p></td>
+    <td width="64"><p>1 day</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>2.8</p></td>
+    <td width="228"><p>Project Team Meeting</p></td>
+    <td width="250"><p>Team meeting to discuss changes and improvements.</p></td>
+    <td width="64"><p>3 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>2.9</p></td>
+    <td width="228"><p>Milestone: Project Plan Approval</p></td>
+    <td width="250"><p>Plan and system approved by the necessary personnel.</p></td>
+    <td width="64"><p>3 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>3.1</p></td>
+    <td width="228"><p>Execution</p></td>
+    <td width="250"><p>Work involved to execute project.</p></td>
+    <td width="64"><p>14 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.2</p></td>
+    <td width="228"><p>Project Team Meeting</p></td>
+    <td width="250"><p>Team meeting to discuss improvements.</p></td>
+    <td width="64"><p>19 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.3</p></td>
+    <td width="228"><p>Verify & Validate Stakeholder Requirements</p></td>
+    <td width="250"><p>Check in with the stakeholders that the requirements are met.</p></td>
+    <td width="64"><p>7 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.4</p></td>
+    <td width="228"><p>Design System</p></td>
+    <td width="250"><p>Creation of tehcnical resources with designing the system</p></td>
+    <td width="64"><p>21 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.5</p></td>
+    <td width="228"><p>Procure Hardware/Software</p></td>
+    <td width="250"><p>Obtain the necessary hardware and software to test out and use the system.</p></td>
+    <td width="64"><p>8 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.6</p></td>
+    <td width="228"><p>Install Development System</p></td>
+    <td width="250"><p>Team installs a development system for testing and other customizations of user interfaces.</p></td>
+    <td width="64"><p>10 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.7</p></td>
+    <td width="228"><p>Sprint Planning Meeting</p></td>
+    <td width="250"><p>Team meets for sprint planning and other changes.</p></td>
+    <td width="64"><p>2 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.8</p></td>
+    <td width="228"><p>Create Sprint Backlog</p></td>
+    <td width="250"><p>Team finishes the remaining tasks that needs to be changed or improved</p></td>
+    <td width="64"><p>15 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.9</p></td>
+    <td width="228"><p>Develop Sprint Backlog Items (Daily Scrum)</p></td>
+    <td width="250"><p>Finish remaining tasks that needs to be changed or improved.</p></td>
+    <td width="64"><p>5 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.10</p></td>
+    <td width="228"><p>Sprint Review Meeting</p></td>
+    <td width="250"><p>Observing and finalizing changes.</p></td>
+    <td width="64"><p>2 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.11</p></td>
+    <td width="228"><p>Sprint Retrospective Meeting</p></td>
+    <td width="250"><p>Observing final decisions.</p></td>
+    <td width="64"><p>1 day</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>3.12</p></td>
+    <td width="228"><p>Integration to servers</p></td>
+    <td width="250"><p>Testing the system with the use of a server.</p></td>
+    <td width="64"><p>5 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>4.1</p></td>
+    <td width="228"><p>Control</p></td>
+    <td width="250"><p>The work involved for the control process of the project</p></td>
+    <td width="64"><p>2 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.2</p></td>
+    <td width="228"><p>Quality Assurance Control</p></td>
+    <td width="250"><p>Stress test and button checks, team also looks for bugs.</p></td>
+    <td width="64"><p>6 days</p></td>
+  </tr>
+    <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.3</p></td>
+    <td width="228"><p>Project Management</p></td>
+    <td width="250"><p>Overall management for the project.</p></td>
+    <td width="64"><p>2 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.4</p></td>
+    <td width="228"><p>Project Status Meetings</p></td>
+    <td width="250"><p>Checkup on the status of the system and latest obeservations.</p></td>
+    <td width="64"><p>7 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.5</p></td>
+    <td width="228"><p>Risk Management</p></td>
+    <td width="250"><p>Assess possible risks and counters</p></td>
+    <td width="64"><p>6 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>4.6</p></td>
+    <td width="228"><p>Update Project Management Plan</p></td>
+    <td width="250"><p>Update the needed changes</p></td>
+    <td width="64"><p>5 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>5.1</p></td>
+    <td width="228"><p>Closeout</p></td>
+    <td width="250"><p>The work to close-out the project</p></td>
+    <td width="64"><p>10 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.2</p></td>
+    <td width="228"><p>Audit Procurement</p></td>
+    <td width="250"><p>An audit of all hardware and software procured for the project, ensures that all procured products are accounted for and in the asset management system.</p></td>
+    <td width="64"><p>3 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.3</p></td>
+    <td width="228"><p>Document Lessons Learned</p></td>
+    <td width="250"><p>Document the learnings from development and changes</p></td>
+    <td width="64"><p>5 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.4</p></td>
+    <td width="228"><p>Update Files/Records</p></td>
+    <td width="250"><p>Update and transfer files from the testing.</p></td>
+    <td width="64"><p>10 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.5</p></td>
+    <td width="228"><p>Gain Formal Acceptance</p></td>
+    <td width="250"><p>The Project Sponsor formally accepts the project by signing the acceptance document included in the project plan.</p></td>
+    <td width="64"><p>4 days</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>5.6</p></td>
+    <td width="228"><p>Archive Files/Documents</p></td>
+    <td width="250"><p>All files/documents are formally archived.</p></td>
+    <td width="64"><p>4 days</p></td>
+  </tr>
+</tbody>
+</table>
+<br>
+
+==Glossary of Terms==
+<h2>Glossary of Terms </h2>
+<p><strong>Scrum</strong> – is a process encourages practitioners to work with what they have and continually evaluate what is working and what is not working. Communication, which is an important part of the process, is carried out through meetings, called Events. Sprint Planning Meeting - a sprint refers to the time frame in which work must be completed, and it's often 30 days. Everyone participates in setting the goals, and at the end, at least one increment -- a usable piece of software -- should be produced.</p>
+<p><strong>Sprint Review</strong> - this is the time to show off the increment. Sprint Retrospective - is a meeting that's held after a Sprint ends. During this meeting, everyone reflects on the Sprint process. A team-building exercise may also be offered. An important goal of a Sprint Retrospective is continuous improvement.</p>
+<p><strong>Sprint backlog</strong> - is a list of tasks that must be completed before selected product backlog items can be delivered. These are divided in to time-based user stories.</p>
+<p><strong>Cloud integration</strong> - is the process of configuring multiple application programs to share data in the cloud. In a network that incorporates cloud integration, diverse applications communicate either directly or through third-party software.</p>
+<p><strong>Risk management</strong> - is the process of identifying, assessing and controlling threats to an organization's capital and earnings.</p>
+<p><strong>Project Charter</strong> - is a formal, typically short document that describes your project in its entirety including what the objectives are, how it will be carried out, and who the stakeholders are.</p>
+<p>Level of Effort:       Level of Effort (LOE) is how much work is required to complete a task.</p>
+<p>WBS Code:              A unique identifier assigned to each element in a Work Breakdown Structure for designating the elements hierarchical location within the WBS.</p>
+<p>Work Package:         A Work Package is a deliverable or work component at the lowest level of its WBS branch.</p>
+<p>WBS Component:    A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
+<p>WBS Element:         A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
