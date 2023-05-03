@@ -1,6 +1,7 @@
 
 =1. PROJECT TITLE=
 
+
 <h2 style="text-align:center">Barangay South Signal Village Web App</h2>
 
 =2. PROJECT MEMBERS=
@@ -320,25 +321,11 @@ The scope of a project defines what work the team will do, and what deliverables
 
 The team follows a five-step process for Project Scope Management. 
 
-1. <strong>Collection Requirements</strong>
-
-Schedule one-on-one or group meetings with stakeholders to discuss their needs, wants, and expectations for the project. Use open-ended questions to encourage stakeholders to share as much detail as possible about their requirements. Take notes and document their responses. 
-
-2. <strong>Define Scope</strong>
-
-Review all project documentation, including contracts, agreements, and statements of work, to ensure that they align with the project's goals, objectives, and constraints. Use this information to help define the project's scope. 
-
-3. <strong>Create WBS</strong>  
-
-Involve the project team in its creation to ensure it is comprehensive and accurate. Use brainstorming sessions to gather input from team members and identify all the work packages required to complete the project. 
-
-4. <strong>Verify Scope</strong>  
-
-Perform a walkthrough of the project deliverables with stakeholders to ensure that they meet their needs and expectations. Allow stakeholders to provide feedback and make suggestions for improvement. 
-
-5. <strong>Control Scope</strong> 
-
-Update the project scope statement as needed to reflect any changes in the project's goals, objectives, or constraints. Communicate any changes to stakeholders to ensure that they are aware of the project's scope. 
+# <strong>Collection Requirements</strong> <br> Schedule one-on-one or group meetings with stakeholders to discuss their needs, wants, and expectations for the project. Use open-ended questions to encourage stakeholders to share as much detail as possible about their requirements. Take notes and document their responses. <br>
+# <strong>Define Scope</strong> <br> Review all project documentation, including contracts, agreements, and statements of work, to ensure that they align with the project's goals, objectives, and constraints. Use this information to help define the project's scope. <br>
+# <strong>Create WBS</strong> <br> Involve the project team in its creation to ensure it is comprehensive and accurate. Use brainstorming sessions to gather input from team members and identify all the work packages required to complete the project. <br>
+# <strong>Verify Scope</strong> <br> Perform a walkthrough of the project deliverables with stakeholders to ensure that they meet their needs and expectations. Allow stakeholders to provide feedback and make suggestions for improvement. <br>
+# <strong>Control Scope</strong> <br> Update the project scope statement as needed to reflect any changes in the project's goals, objectives, or constraints. Communicate any changes to stakeholders to ensure that they are aware of the project's scope. 
 
 ==7.2 Scope Management Approach ==
 
@@ -348,13 +335,10 @@ The scope of the Barangay South Signal Village Web App is defined in Scope Defin
 
 To manage any changes to the project scope, the project team will follow the following procedures: 
 
-1. All project scope changes will be documented and communicated to all relevant stakeholders. This ensures that all project participants are informed of any changes and understand how they may affect the project.
-
-2. The project team will examine the scope change's impact on the project's timeframe, budget, and resources. This study will help establish whether the change is possible and what changes to the project plan may be required.
-
-3. The project sponsor or steering committee will approve or reject changes to the project scope. This ensures that any adjustments are consistent with the overall project goals and priorities, and that all stakeholders support the proposed changes.
-
-4. If the change is approved, the project team will make the necessary changes to the scope, timeline, budget, and resources. This will aid in keeping the project on schedule and ensuring that all modifications are correctly accounted for in the project plan.
+# All project scope changes will be documented and communicated to all relevant stakeholders. This ensures that all project participants are informed of any changes and understand how they may affect the project.
+# The project team will examine the scope change's impact on the project's timeframe, budget, and resources. This study will help establish whether the change is possible and what changes to the project plan may be required.
+# The project sponsor or steering committee will approve or reject changes to the project scope. This ensures that any adjustments are consistent with the overall project goals and priorities, and that all stakeholders support the proposed changes.
+# If the change is approved, the project team will make the necessary changes to the scope, timeline, budget, and resources. This will aid in keeping the project on schedule and ensuring that all modifications are correctly accounted for in the project plan.
 
 By adhering to these rules, the project team will be able to efficiently manage any modifications to the project scope and ensure that the project is finished on time, on budget, and to the satisfaction of all stakeholders. 
 
@@ -362,21 +346,14 @@ By adhering to these rules, the project team will be able to efficiently manage 
 
 The following roles and responsibilities have been assigned in relation to scope management: 
 
-1. <strong>Project Manager:</strong> The Project Manager is responsible for managing the project's scope and ensuring that it remains within the defined boundaries. This includes identifying and managing any changes to the scope, communicating scope changes to the team and stakeholders, and ensuring that the project's deliverables align with the scope. The Project Manager is also responsible for ensuring that the project is completed on time and meets the specified quality standards.
-
-2. <strong>Product Owner:</strong> The Product Owner is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the stakeholders. They work closely with the Project Manager and Scrum Team to ensure that the project deliverables align with the scope.
-
-3. <strong>Scrum Master:</strong> The Scrum Master is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework. They work closely with the Project Manager and Product Owner to ensure that the project is progressing according to the defined scope. The Scrum Master is also responsible for identifying and managing any scope-related risks or issues.
-
-4. <strong>Scrum Team:</strong> The Scrum Team is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project. This includes understanding and adhering to the project's scope, identifying any scope-related risks or issues, and communicating these to the Project Manager and Scrum Master.
-
-5. <strong>Documentation Manager:</strong> The Documentation Manager is responsible for managing the project documentation and ensuring that it is complete and accurate. They work closely with the Project Manager and team to ensure that all project documentation aligns with the scope.
-
-6. <strong>Stakeholders:</strong> Stakeholders are responsible for providing input on the project's scope, including requirements and expectations. They are also responsible for accepting the project deliverables as defined by the project's scope. It is important for the Project Manager to communicate regularly with stakeholders to ensure that the project remains aligned with their needs and expectations.
-
-7. <strong>Class Adviser:</strong> The Class Adviser is responsible for providing guidance and support to the Project Manager and team. They should ensure that the project aligns with any relevant academic requirements and provide advice on best practices for managing project scope.
-
-8. <strong>Project Adviser:</strong> The Project Adviser is responsible for providing guidance and support to the Project Manager and team. They should ensure that the project aligns with the overall goals and objectives of the organization and provide advice on best practices for managing project scope.
+# <strong>Project Manager:</strong> The Project Manager is responsible for managing the project's scope and ensuring that it remains within the defined boundaries. This includes identifying and managing any changes to the scope, communicating scope changes to the team and stakeholders, and ensuring that the project's deliverables align with the scope. The Project Manager is also responsible for ensuring that the project is completed on time and meets the specified quality standards.
+# <strong>Product Owner:</strong> The Product Owner is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the stakeholders. They work closely with the Project Manager and Scrum Team to ensure that the project deliverables align with the scope.
+# <strong>Scrum Master:</strong> The Scrum Master is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework. They work closely with the Project Manager and Product Owner to ensure that the project is progressing according to the defined scope. The Scrum Master is also responsible for identifying and managing any scope-related risks or issues.
+# <strong>Scrum Team:</strong> The Scrum Team is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project. This includes understanding and adhering to the project's scope, identifying any scope-related risks or issues, and communicating these to the Project Manager and Scrum Master.
+# <strong>Documentation Manager:</strong> The Documentation Manager is responsible for managing the project documentation and ensuring that it is complete and accurate. They work closely with the Project Manager and team to ensure that all project documentation aligns with the scope.
+# <strong>Stakeholders:</strong> Stakeholders are responsible for providing input on the project's scope, including requirements and expectations. They are also responsible for accepting the project deliverables as defined by the project's scope. It is important for the Project Manager to communicate regularly with stakeholders to ensure that the project remains aligned with their needs and expectations.
+# <strong>Class Adviser:</strong> The Class Adviser is responsible for providing guidance and support to the Project Manager and team. They should ensure that the project aligns with any relevant academic requirements and provide advice on best practices for managing project scope.
+# <strong>Project Adviser:</strong> The Project Adviser is responsible for providing guidance and support to the Project Manager and team. They should ensure that the project aligns with the overall goals and objectives of the organization and provide advice on best practices for managing project scope.
 
 ==7.4 Scope Definition==
 
@@ -401,81 +378,55 @@ On the client side, the web app will implement different roles, namely as the Ba
 
 The Barangay South Signal Village Web App will be deemed successful once the following criteria are met:
 
-a. All features, modules, and functionalities outlined in the project scope statement have been developed and tested using the team's and the client's representative's approved test cases.
-
-b. The web app must be user-friendly and easy to navigate, with a clear and intuitive user interface (UI) and user experience (UX) design.
-
-c. The web app must be secure and protected from unauthorized access or data breaches.
-
-d. The web app has been successfully deployed by the barangay.
-
-e. The team has created all necessary project deliverables, including the user manual for the barangay.
+* All features, modules, and functionalities outlined in the project scope statement have been developed and tested using the team's and the client's representative's approved test cases.
+* The web app must be user-friendly and easy to navigate, with a clear and intuitive user interface (UI) and user experience (UX) design.
+* The web app must be secure and protected from unauthorized access or data breaches.
+* The web app has been successfully deployed by the barangay.
+* The team has created all necessary project deliverables, including the user manual for the barangay.
 
 ===7.5.3 Project Deliverables===
 
 The following list of deliverables will be provided upon successful completion of the project:
 
 * Fully functional web-application and the source code.
-
 * Recommendation lists for hardware and software that will be used.
-
 * Project documentation for the web-application solution:
-
 * User’s Manual 
-
 * Business Case 
-
 * Stakeholders Management Strategy Plan 
-
 * Scope Management Plan 
-
 * Cost Management Plan 
-
 * Time Management Plan 
-
 * Human Resource Management Plan 
-
 * Communication Management Plan 
-
 * Procurement Management Plan  
-
 * Project Status Reports Distribution plan 
-
 * Change Request Documentation 
-
 * Project Execution Monitoring Report 
-
 * Implementation Plan 
-
 * Change Management Plan 
-
 * Project Status Reports 
-
 * Transition-Out Plan 
-
 * Project Turn-Over Plan 
-
 * Post Project Review Plan 
 
 ===7.5.4 Project Exclusions===
 
 The following work is outside the scope of this project and will not be included:
 
-- Online Payment for requesting barangay documents.
+* Online Payment for requesting barangay documents.
 
-- Integration of other systems or software that are not specifically mentioned in the project scope statement.
+* Integration of other systems or software that are not specifically mentioned in the project scope statement.
 
-- Full deployment process of this project.
+* Full deployment process of this project.
 
 ===7.5.5 Project Constraints===
 
 The following constraints pertain to the Barangay South Signal Village Web Application:
 
-1. Limited budget for the project
-
-2. The availability of some hardware and software that will be necessary in this project.
-
-3. Legal requirements and procedures due to being under the Local Government Unit (LGU) must be followed.
+# Limited budget for the project
+# The availability of some hardware and software that will be necessary in this project.
+# Legal requirements and procedures due to being under the Local Government Unit (LGU) must be followed.
 
 ===7.5.6 Project Assumptions===
 
@@ -491,40 +442,250 @@ The following is a list of assumptions.  Upon agreement and signature of this do
 
 In this WBS, the project is divided into five main sections: Project Planning, Analysis and Design, System Development, Implementation, and Closeout. Each section is then further broken down into more specific tasks and subtasks. The WBS helps to provide a clear and organized view of the project scope and can aid in managing the project's progress and ensuring that all aspects are accounted for. 
 
-==7.7 Scope Verification==
+<table border="1" width="90%" align="center">
 
-The project team that facilitates the Barangay South Signal Web App project will conduct scope verification with the client and the project adviser every meeting to ensure that the deliverables are in line with the original scope. This will guarantee that the deliverables are accepted by the client and the project advisor and will ensure that the project will be finished on time and within the scope and budget. 
+		
+<tr>
+		<td >
+        <h2> Planning </h2>
+<h3> Project Preparation </h3>
+* Creation of Project Groups
+* Choose Project/Client
+* Choose Adviser/Consultant
+* Design Thinking 1
 
-==7.8 Scope Control==
+<h4> MNTSDEV Team consultation </h4>
+* Team meeting with Project adviser
+* Team meeting with Project Sponsor
 
-The project team will make sure that every change that happens within the project's scope is effectively communicated with the client and approved. The team will also adhere to proper documentation regarding the change within the scope to ensure that there is transparency between the team and the client.  
+<h4> MNTSDEV Creation of Midterm Paper </h4>
+* Chapter 1 (Introduction)
+* Chapter 2 (RRL/RRS)
+* Chapter 3 (Methodology)
+* Chapter 4 (Results and Discussions)
+* Chapter 5 (Conclusion)
+* Proofreading
+* Creation of presentation deck
 
- 
-=8. COST MANAGEMENT PLAN=
+<h4> MNTSDEV Midterm Evaluation </h4>
+* Midterm (Sprint1)
+* Comment Matrix
 
-==8.1 Introduction==
+<h4> Initial Design </h4>
+* Initial wireframe
+* Initial low-fidelity prototype
 
-==8.1 Cost Management Approach==
+<h4> MNTSDEV Progression of Paper/Final Paper </h4>
+* Chapter 1 (Introduction)
+* Chapter 2 (RRL/RRS)
+* Chapter 3 (Current System)
+* Chapter 4 (Proposed System)
+* Chapter 5 (Requirement Analysis)
+* Chapter 6 (Conclusion)
+* Proofreading
+* Creation of presentation deck
+* Submission of final Requirements for Final Presentation
 
-==8.2 Measuring Project Costs==
+<h4> MNSTDEV Finals Evaluation </h4>
+* Final Presentation (Sprint 2)
+* Revision for Comment Matrix and Final Paper
+* Submission of MNSTDEV FINAL Documents
+</td>      
+</tr>
+<tr>
+<td>
+<h3> ANALYSIS AND DESIGN </h3>
+<h4> MSYADD Project Progression </h4>
+* Initial analysis for Chapter 5 (Requirement Analysis)
+* Submission of MNSTDEV final documents
+* Implementation of GitHub Repository
+* Request letter for Adviser/Consultant
 
-==8.3 Reporting Format==
+<h4> MSYADD Team consultation </h4>
+* Team meeting with Project adviser
+* Team meeting with Project Sponsor
 
-==8.4 Cost Variance Response Process==
+<h4> MSYADD Individual Deliverables </h4>
+* MSYADD Release Plan 
 
-==8.5 Cost Change Control Process ==
+<h4> MSYADD Release Plan </h4>
+* Release Plan 1.1
+* Release Plan 1.2
 
-==8.6 Project Budget==
+<h4> MSYADD Week 3 - Week 4 </h4>
+* Event Table
+* Use Case Diagram
+* Use Case Full Description
+* Data Flow Diagram
+* Context Flow Diagram
+* Entity Relationship Diagram
+
+<h4> MSYADD Week 5 - Week 7 </h4>
+* Activity Diagram
+* Object Diagram
+* Class Diagram
+
+<h4> MSYADD Midterm Evaluation </h4>
+* Pre-midterm Presentation (Sprint 3)
+* Midterm Presentation (Sprint 4)
+* Revision Midterm
+
+<h4> MSYADD Week 8 - Week 9 </h4>
+* Sequence Diagram
+* State Machine Diagram
+* Package Diagram
+* Deployment Diagram
+* Component Diagram
+
+<h4> MSYADD Final Evaluation </h4>
+* MSYADD Pre-final Presentation (Sprint 5)
+* MSYADD Final Presentation (Sprint 6)
+* Revision for Final Paper
+* Submission of Final Requirements
+</td>
+</tr>
+
+<tr>
+<td>
+<h3> DEVELOPMENT  </h3>
+
+<h4> MCSPROJ Project Progression  </h4>
+* Submission of MSYADD Final Documents 
+* Request letter for Adviser/Consultant 
+
+<h4> MCSPROJ Release Plan    </h4>
+* Finalizing Release 1 
+* Release Plan 2 
+* Release Plan 3 
+
+<h4> MCSPROJ Midterm Deliverables   </h4>
+* Creation of Gantt Chart 
+* Creation of WBS 
+* Creation of Activity List 
+* Creation of Project Vision and Scope Progression 
+* Creation of Statement of Work Progression 
+* Creation of Project Charter Progression 
+* Pre-midterm Presentation (Sprint 7) 
+
+<h4> MCSPROJ Team consultation   </h4>
+* Team meeting with Project adviser 
+* Team meeting with Project Sponsor 
+
+<h4> MCSPROJ Midterm Evaluation   </h4>
+* Submission of Midterm Requirement 
+* MCSPROJ Final Presentation (Sprint 8) 
+
+<h4> MCSPROJ Finals Deliverables    </h4>
+* Creation of Test Case 
+* Creation of Quality Plan 
+* Creation of User Acceptance 
+* Creation of Change Management Plan 
+* Updating MCSPROJ Final Paper 
+* Creation of Proofreading Endorsement 
+
+<h4> MCSPROJ Finals Evaluation      </h4>
+* Submission of MCSPROJ Final Requirements 
+* MCSPROJ Final Presentation (Sprint 9) 
+
+</td>
+</tr>
+
+<tr>
+<td>
+<h3> IMPLEMENTATION  </h3>
+
+<h4> PROJMAN Project Progression    </h4>
+* Submission of MCSPROJ Final Documents 
+* Request Letter for Adviser/Consultant 
+
+<h4> PROJMAN Week 1-3     </h4>
+* Creation of Project Charter 
+* Creation of Business Case 
+* Creation of Stakeholders Management Strategy Plan 
+
+<h4> PROJMAN Week 4-6    </h4>
+* Creation of Scope Management Plan 
+* Creation of Cost Management Plan 
+* Creation of Time Management Plan 
+* Creation of Work Breakdown Structure 
+* Creation of Work Packages based on WBS. 
+
+<h4> System Updates    </h4>
+* Testing 1
+
+<h4> PROJMAN Midterm Evaluation    </h4>
+* Submission of PROJMAN Midterm Requirements 
+* PROJMAN Midterm presentation (Sprint 10) 
+
+<h4> PROJMAN Week 8-10     </h4>
+* Creation of HR Management Plan 
+* Creation of Quality Management Plan 
+* Creation of Risk Management Plan 
+* Creation of Communications Management Plan 
+* Creation of Procurement Management Plan 
+
+<h4> PROJMAN Week 11      </h4>
+* Creation of Project Status Reports Distribution Plan 
+* Creation of Change Request Documentation 
+* Creation of Project Execution Monitoring Report 
+* Creation of Implementation Plan 
+
+<h4> PROJMAN Week 12      </h4>
+* Creation of Change Management Plan 
+* Creation of Project Status Reports 
+* Creation of Transition-Out Plan 
+* Creation of Project Turn-Over Plan 
+* Creation of Post Project Review Plan 
+
+<h4> PROJMAN Week 13      </h4>
+* Creation of Consolidated Project Plan
+
+<h4> PROJMAN Final Evaluatio      </h4>
+* Submission of PROJMAN Final Requirements 
+* PROJMAN Final presentation (Sprint 11) 
+
+</td>
+</tr>
+
+<tr>
+<td>
+<h3> CLOSEOUT  </h3>
+
+<h4> System and documentation handover    </h4>
+* System and documentation handover 
+
+<h4> Gain Formal Acceptance     </h4>
+* Gain Formal Acceptance  
+
+<h4> Project close-out meeting.     </h4>
+* Project close-out meeting. 
 
 
-=9. SCHEDULE MANAGEMENT PLAN=
+</td>
+</tr>
+</table>
 
-==9.1 Introduction==
-==9.2 Schedule Management Approach==
 ==9.3 Schedule Control==
+
+Schedule Control is essential for project success and requires collaborative work from all team members and stakeholders. To ensure the schedule is under control, different roles and responsibilities for schedule development are as follows: 
+
+# '''Project Manager''' <br> responsible for developing and maintaining the project schedule, communicating progress to stakeholders, identifying, and managing schedule-related risks and issues, and updating the schedule as needed.
+# '''Product Owner'''  <br> works with the Project Manager and Scrum Team to ensure project deliverables align with the schedule, prioritize requirements according to the schedule, and provide input on changes to the schedule. 
+# '''Scrum Master''' <br> ensures the team follows the schedule and Scrum framework, manages schedule-related risks and issues, and works with the Project Manager and Product Owner to ensure the project progresses according to the schedule. 
+# '''Scrum Team'''  <br> develops project deliverables according to the schedule, communicates schedule-related risks or issues to the Project Manager and Scrum Master, and adheres to the schedule. 
+# '''Documentation Manager'''  <br> ensures project documentation aligns with the schedule and provides updates on any changes to the schedule. 
+# '''Stakeholders''' <br> accept project deliverables as defined by the schedule and provide input on changes to the schedule.
+# '''Class Adviser and Project Adviser ''' <br> provide guidance on managing the project schedule and ensure alignment with relevant requirements and goals. 
+
+To control the project schedule, it will be monitored, reviewed, and revised as needed, and the team will participate in updates and meetings, collaborate on changes, and resolve schedule variances. The Project Manager will update the client on the schedule status and submit any schedule change requests for approval. 
+
 ==9.4 Schedule Changes and Thresholds==
+
+The boundary conditions will be thoroughly discussed by the team with the project client. The team will monitor the project schedule as the project progresses, this includes all the changes made outside of the original plan. The team will then identify if these changes exceed the boundary conditions and thresholds and how much it will affect the project schedule. If the project manager determines the changes go beyond the boundary conditions and does not meet the change threshold, a schedule change request will be created. The changes that do not meet the threshold will be discussed with the project sponsor for approval. Once the change request is approved, the project manager will be in charge of modifying the schedule and communicating any changes and their effects on the plan. The project manager must also let the project team, project sponsor, and stakeholders know about the changes that have been accepted. 
+
 ==9.5 Scope Change==
 
+The team needs to document all scope changes, including the reason for the change, the impact on the project, and any changes to the project schedule or budget. Update the project plan to reflect any scope changes. Communicate all scope changes to stakeholders, including the impact on the project's budget, schedule, and quality. Be transparent about the reasons for the change and the expected outcomes. 
 
 =10. WORK BREAKDOWN STRUCTURE=
 
