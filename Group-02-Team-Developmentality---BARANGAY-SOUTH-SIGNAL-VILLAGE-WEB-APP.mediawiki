@@ -290,28 +290,178 @@ The web app is aimed at achieving the priorities of the barangay, which are to e
 =5. PROJECT CHARTER=
 ==5.1 Executive Summary==
 
+The product is a Web Application for Barangay South Signal Village that aims to provide an online service that takes on document requests and a ticketing system for inquiries to the community of the barangay. The Web Application will contain substantial information about the barangay such as organizational chart, history, demography, mission, vision and the hazard map. 
+
+The Barangay South Signal Village Web Application customers will only be limited to the Barangay South Signal Village residents. 
+
+The Barangay South Signal Village heavily relies on papers and most of their records and documents are stored in physical file cabinets, making their client wait for minutes that delay client service as well as their data being unsecured. 
+Integrate its current system into the digital setting by making a web application that provides information about the barangay and online service/s for their community in a more efficient, effective, and transparent way. 
+
+The team consists of 6 members who are currently studying and taking the Bachelor of Science course in Information Technology. All members of the team are students at Asia Pacific College.
+
 ==5.2 Project Purpose/Justification==
+
+This project's purpose is to provide online services to the barangay community. Which also contains information about the barangay, including its current officials and location. The reason is there are multiple problems identified in the current system of the Barangay South Signal Village, such as long processing time, common errors using manual input, manual search records of database and more. The result of this project may be beneficial to the officials and residents of Barangay South Signal Village.
+
 ===5.2.1 Business Need/Case===
+
+The business need for the Barangay South Signal Village Web App project is to address the long processing times and inefficiencies in the current manual processes used by the barangay administration. Residents experience delays and need more transparency when accessing community services and information.
+
+By developing a user-friendly web app that centralizes essential barangay information and services, the project will streamline communication and service delivery for both the administration and community members. This unified platform will eliminate confusion, reduce processing times, and improve accuracy in service requests and other interactions.
+
+The intended effect of this business case is to enhance efficiency and effectiveness in the barangay operations, allowing the administration to focus on other crucial tasks like addressing community concerns and managing resources. The web app will also improve transparency, enabling residents to monitor the progress of requests and access important information about the barangay. Ultimately, the Barangay South Signal Village Web App project will help the local administration better serve Its community, promote transparency, and improve overall satisfaction among residents.
+
 ===5.2.2 Business Objectives===
 
+This objectives statement states the goal of the barangay and the plans to achieve it. This project is in direct support of our corporate strategic plan to improve the web-application of the Barangay South Signal Village.
+ 
+* For the barangay to deploy the web app to the residents of Barangay South Signal Village within the timeline and track the number of residents using it to determine its success.
+* For the Barangay to see an improvement in the paperwork system by 90% that can reduce the risk of errors or discrepancies. It gives the officials time for other tasks, such as providing direct services to citizens or addressing pressing issues within the community.
+* For the Barangay see the increase of residents using the web app by at least 30% in the next few months with the given the resources and opportunities for optimization.
+* To achieve a 10% yearly increase in the number of requests after the deployment of the Barangay South Signal Village Web Application by the end of each calendar year.
+
+By setting up SMART objectives, barangay may determine their objectives and create a plan to achieve them. It enables tracking of development along the path and guarantees that objectives are reasonable and reachable.
+
 ==5.3 Project Description==
+
+The Barangay South Signal Village Web App is a centralized and live web application for the residents of the Barangay South Signal Village that provides information about the barangay and caters to online services such as requesting documents online and submitting concerns to the barangay officials. 
+On the barangay web app homepage, users (resident or non-residents of the barangay) can visit barangay information such as the announcements on the Homepage, barangay information on the About Us page, safety guidelines and map book of the barangay in the Safety Section page, list of contact information in Contact page, and the guidelines for requesting documents in Requirements Guidelines page. 
+
+The barangay residents can register in the web application wherein they will have their resident dashboard that will utilize the functions of the web app, such as requesting documents online, submitting concerns, tracking their requests, and viewing the transaction history.
+
+On the client side, the web app will implement different roles, namely as the Barangay Secretary, Web-App administrator, and the Barangay Captain, wherein they will have their dashboard with different tasks and functions such as processing the online requests and concerns of the residents, manage the barangay employee accounts and resident's account in the web application, generating reports, and managing web applications.
+
 ===5.3.1 Project Objectives and Success Criteria===
+
+The proposed web-application would be successful when the following standards have been upheld:
+# To create a web application that can handle online document requests that will reduce the processing time and time consumption for the constituents of the barangay to up to 80%.    
+# To help the community, especially the vulnerable residents such as PWDs and senior residents, to lessen the risk of acquiring contagious diseases such as COVID-19 in requesting barangay documents by applying through the web app that lessens their direct contact with other people.     
+# To create online forms to totally remove errors regarding illegible handwriting as well as reduce manual input errors by up to 90% through proper guidance in each part of information to be filled up in the form.
+# To provide barangay staff with real-time insights regarding the number of requests per day, number of pending requests/s, number of online requests, and number of registered accounts by going through a statistics dashboard/page.  
+# To build a secure and safe storage location for data by the use of cloud, which saves data over the internet, and this can only be access by the administrator or the barangay staff itself by logging in the account making it 90% more secure than using file cabinet/s. 
+# To provide the community with credible information through an official web application.
+
 ===5.3.2 Requirements===
+
+To be successful, this project, Barangay South Signal Village Web App, must comply with the following requirements:
+
+# The project should pass functional testing process, in which the team, along with any client representatives and some IT professionals, will evaluate the functionality of the program, determining whether the function is performing according to the required specification.
+# The project must be accomplished without disturbance to the client’s operations.
+# The barangay employees involved in the web app should understand how it operates on the client side and how to maintain it.
+
+As the project progresses, more criteria may be added as needed, with the project client’s permission.
+
 ===5.3.3 Constraints===
+
+The following constraints pertain to the Barangay South Signal Village Web Application 
+
+* Limited budget for the project
+* The availability of some hardware and software that will be necessary in this project.
+* Legal requirements and procedures due to being under the Local Government Unit (LGU) must be followed.
+
 ===5.3.4 Assumptions===
+
+The following is a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:
+* This project has the full support of the project sponsor, stakeholders, and all departments.
+* The purpose of this project will be communicated throughout the Barangay South Signal Village prior to deployment.
+* The IT personnel will provide additional resources if necessary.
+
 ===5.3.5 Preliminary Scope Statement===
 
-==5.4 Risks==
-==5.5 Project Deliverables==
-==5.6 Summary Milestones Schedule==
-==5.7 Project Approval Requirements==
-==5.8 Project Manager==
+The Barangay South Signal Village Web App project will include the design, testing, and delivery of an improved current system of the Barangay South Signal Village in requesting barangay documents and reporting for any problem within the vicinity of the barangay. It also includes the main web app that will display the information of the barangay, including the safety guidelines, contact information, history of the barangay, mission, vision, demography, and the organizational chart of the barangay officials. The project team, along with their project adviser and consultants, will oversee the whole project development process, from paperwork through analysis and design and up to software resources. The project team will organize the manual and training for the barangay employees who will be part of the web app. The team will also conduct a session with the Administrator, who will handle the maintenance of programming codes for the web app.
 
+==5.4 Risks==
+
+The following are the risks for the Barangay South Signal Village Web-Application that the team have identified. To reduce the likelihood of these hazards, the project manager will choose and use the proper risk reduction and avoidance measures.
+* External threats that may breach the web-app's security.
+* Potential disruption of work due to internet outage or power outage.
+* Potential data theft or data loss due to potential security breaches.
+
+==5.5 Project Deliverables==
+
+The following deliverables must be met upon the successful completion of the Barangay South Signal Web-Application.
+# Fully functional web-application and the source code.
+# Project documentation for the web-application solution
+* User’s Manual
+* Business Case
+* Stakeholders Management Strategy Plan
+* Scope Management Plan
+* Cost Management Plan
+* Time Management Plan
+* Human Resource Management Plan
+* Communication Management Plan
+* Procurement Management Plan 
+* Project Status Reports Distribution plan
+* Change Request Documentation
+* Project Execution Monitoring Report
+* Implementation Plan
+* Change Management Plan
+* Project Status Reports
+* Transition-Out Plan
+* Project Turn-Over Plan
+* Post Project Review Plan
+# Recommendation lists for hardware and software that will be used.
+
+==5.6 Summary Milestones Schedule ==
+
+The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue" colspan="2"><p style="text-align:center;">'''Summary Milestone Schedule - List key project milestones relative to project start.'''</p></td>
+                
+	</tr>
+
+	<tr>
+		<td bgcolor="grey"><p style="text-align:center;">'''Project Milestone'''</p></td>
+                <td bgcolor="grey"><p style="text-align:center;">'''Target Date'''<br>'''(mm/dd/yyyy)'''</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Project Start'''</p></td>
+                <td bgcolor=""><p style="text-align:center;">03/30/2022 )</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Planning'''<br>- Midterm Presentation (Sprint 1)<br>- Final Presentation (Sprint 2)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>03/05/2022<br>04/06/2022</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Analysis and Design'''<br>- Pre-midterm presentation (Sprint 3)<br>- Midterm Presentation (Sprint 4)<br>- Final Requirement (Sprint 5)<br>- Pre-final Presentation (Sprint 5)<br>- Final Presentation (Sprint 6)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>09/23/2022<br>09/28/2022<br>10/03/2022<br>10/28/2022<br>11/02/2022</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Development'''<br>- Initial Release 1 Prototype<br>- Release 2<br>- Release 3<br>- Pre-midterm Presentation (Sprint 7)<br>- Midterm Presentation (Sprint 8)<br>Final Presentation (Sprint 9)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>08/22/2022<br>08/28/2022<br>01/12/2023<br>01/09/2023<br>01/09/2023<br>03/03/2023</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Implementation'''<br>- Midterm Presentation (Sprint 10)<br>- Final Presentation (Sprint 11)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>05/04/2023<br>06/26/2023</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Close-out'''<br>- System and Documentation Handover<br>- Gain Formal Acceptance<br>Project Close out meeting</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>06/05/2023<br>06/13/2023<br>06/25/2023</p></td>
+	</tr>
+</table>
+
+
+
+==5.7 Summary Budget==
+
+[[File:https://user-images.githubusercontent.com/110672519/235835937-d329411b-853d-441a-90ed-5ea98c4b19ed.jpg|options|caption]]
+
+
+== 5.8 Project Approval Requirements ==
+
+The Barangay South Signal Village Web-Application will only be deemed successful if it has undergone thorough testing and all project material has been thoroughly distributed across the whole barangay within the constraints set forth in this charter. A recommendation for the ideal hardware and software specifications will also be included to fully measure the web- app's success. Success will be determined by the Project Client, Hon. Michelle Odevilas, who will also authorize the project's completion.
+
+==5.9 Project Manager==
+
+Mikedale B. Dellera is named Project Manager for the duration of the Barangay South Signal Web-Application. Mr. Dellera’s responsibility is to manage all project tasks, scheduling, consultation, and communication regarding the Barangay South Signal Village Web-Application. His team, consisting of a scrum master and four scrum members, will support the project. Mr. Dellera will coordinate all resource requirements through the course adviser, Prof. Jose Eugenio L. Quesada. Mr. Dellera is authorized to approve all changes regarding the documentation and the prototype. Any clarification and major changes must be requested through the Project Client, Hon. Michelle Odevilas. Mr. Dellera will provide timely updates to the Project Client.
 
 =6. STAKEHOLDER STRATEGY MANAGEMENT PLAN=
 ==6.1 Introduction==
 ==6.2 Identify Stakeholders==
 ==6.3 Key Stakeholders==
+
 
 =7. SCOPE MANAGEMENT PLAN=
 
