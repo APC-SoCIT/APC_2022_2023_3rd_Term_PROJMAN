@@ -236,7 +236,72 @@ Budget format and standards:
         <td>Finalizing the Document</td>
         <td>9th Month</td>
      </tr>
-
+</table>
+<br>
+<p>When such changes are made, the plans and baselines will be updated. Furthermore, the same are shown as outputs. The scheduling approach, method of evaluation, tools, management, and control of the schedule will all be impacted by the development strategy.</p>
+<br>
+<p>The following are the roles and responsibilities involved in developing a schedule:</p>
+<table border="1" width="70%" align="center">
+     <tr>
+        <td><b>Role</b></td>
+        <td><b>Responsibility</b></td>
+     </tr>
+     <tr>
+        <td>Project Client</td>
+        <td>
+           <ul>
+              <li>Approves Scope Management Plan.</li>
+              <li>Provides high-level scope definition (Project Charter).</li>
+              <li>Reviews escalated scope issues and provide direction for resolution.</li>
+              <li>Approves major scope change requests.</li>
+              <li>Overall decision-making responsibility for Scope Management activities.</li>
+           </ul>
+        </td>
+     </tr>
+     <tr>
+        <td>Project Manager</td>
+        <td>
+           <ul>
+              <li>Overall responsibility for scope management.</li>
+              <li>Oversees the development of the Scope Management Plan.</li>
+              <li>Oversees the scope change management process.</li>
+              <li>Approves scope change requests within his/her authority.</li>
+              <li>Escalates scope and change issues.</li>
+              <li>Ensures that scope changes are incorporated into appropriate project documents.</li>
+           </ul>
+        </td>
+     </tr>
+     <tr>
+        <td>Project Team Members and Subject Matter Experts (SMEs)</td>
+        <td>
+           <ul>
+              <li>Help develop the project scope statement.</li>
+              <li>Submit scope change requests.</li>
+              <li>Review Scope Change requests when assigned.</li>
+              <li>Provide feedback as and when required.</li>
+              <li>Participate in team-level scope change reviews.</li>
+           </ul>
+        </td>
+     </tr>
+     <tr>
+        <td>Independent Verification and Validation (IV&V)<br> Project Adviser</td>
+        <td>
+           <ul>
+              <li>Provides an ongoing independent review and analysis of project scope management practices.</li>
+              <li>Monitors scope changes and provide feedback.</li>
+              <li>Approves major scope change requests.</li>
+              <li>Approval of all documentation throughout the project.</li>
+           </ul>
+        </td>
+     </tr>
+     <tr>
+        <td>Stakeholders</td>
+        <td>
+           <ul>
+              <li><i>Key providers of requirements, scope, and the recipients of project deliverables associated with the project benefits. Most of the project deliverables will be based on their operations in the business and enhancing their business operations and environment.</i></li>
+           </ul>
+        </td>
+     </tr>
 </table>
 
 ==Schedule Control==
