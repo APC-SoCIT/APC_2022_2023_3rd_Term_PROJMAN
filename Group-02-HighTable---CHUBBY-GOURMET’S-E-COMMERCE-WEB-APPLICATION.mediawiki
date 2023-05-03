@@ -561,6 +561,508 @@ Conclusion:
 <br>
 
 =Scope Management Plan=
+==Introduction==
+	<p>Chubby Gourmet is a local food business that has been facing process problems in its daily operations. To address these issues, our group has undertaken the task of implementing an E-commerce web application to improve the business's overall efficiency. The success of this project will depend on effective scope management, which involves defining, controlling, and monitoring the project's scope.</p>
+	<p>In this paper, we will discuss our approach to scope management for the Chubby Gourmet web application project. We will first define the project's scope by identifying the objectives, deliverables, and constraints. We will then outline our strategy for controlling the scope by establishing a change control process and setting up a scope baseline. Lastly, we will discuss our approach to monitoring the project's scope, which involves tracking progress against the scope baseline and adjusting as necessary.</p>
+	<p>Overall, effective scope management is critical to the success of the Chubby Gourmet web application project. By clearly defining the project's scope, controlling changes, and monitoring progress, we can ensure that the project meets its objectives and delivers value to the business.</p>
+
+==Scope Management Approach==
+<p>In this portion, we will discuss our approach to scope management for the production of Chubby Gourmet’s E-Commerce Web Application. Below is a summary of how the group will approach each aspect:</p>
+
+<ul>
+	<li>Authority and responsibility for scope management will be held by the Project Owner, Gianna Artajos, who will work closely with the project sponsor, Ms. Priscilla Mariano and work alongside with their advisor Ms. Jo Anne de la Cuesta.</li>
+	<li>The scope of the project will be defined through the creation of the Scope Statement, and the Statement of Work (SOW). These two documents will clearly define the project’s deliverables, purpose and requirements, which will be reviewed and approved by the project sponsor and adviser before development begins.</li>
+	<li>The scope of the project will be measured and verified with the use of work performance measurements, and regular review of the project's progress against the scope baseline. Any deviations from the scope baseline will be identified and addressed through the scope change process.</li>
+<li>The scope change process for the development of Chubby Gourmet’s E-Commerce Web Application, will involve the submission of a scope change request by the Project Owner, with final approval being granted by the project adviser. Any changes to the scope of the project must be carefully evaluated to ensure that they align with the project's goals and objectives and does not negatively impact the project schedule. </li>
+<li>The final project deliverables will be accepted and approved by the project sponsor and project adviser and the current PBL head Mr. Jose Eugenio Quesada with the Product Owner being responsible for ensuring that all project requirements have been met. The successful completion of the project will be confirmed once all deliverables have been accepted and no comments or revisions are no longer necessary. </li>
+</ul>
+
+==Roles and Responsibilities==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Project Team</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Responsibilities</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
+<td><p style="text-align:center;">Client</p></td>
+		<td><p style="text-align:center;">Is responsible to define and prioritize the product backlog to maximize the value of the product being developed and ensure that it meets the needs of the customers and business. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Gia Artajos</p></td>
+<td><p style="text-align:center;">Product Owner</p></td>
+		<td><p style="text-align:center;">Is responsible to ensure that the development team delivers a high-quality product that meets the needs of the customers and business while following the principles and practices of the chosen methodology. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Marcus Flores</p></td>
+<td><p style="text-align:center;">Scrum Master</p></td>
+		<td><p style="text-align:center;">Is responsible to facilitate and ensure the effective implementation of the Scrum framework, coach the team, remove impediments, protect the team, and encourage continuous improvement. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Rysal Rosel</p></td>
+<td><p style="text-align:center;">Product Developer</p></td>
+		<td><p style="text-align:center;">Is responsible to the development team to design, develop, and deliver high-quality products that meet the requirements and specifications defined by the Product Owner or client. They are responsible for translating the product backlog into working software and ensuring that the product is delivered on time and within budget while meeting the required quality standards. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Lester Salazar</p></td>
+<td><p style="text-align:center;">Product Designer</p></td>
+		<td><p style="text-align:center;">Is responsible to work with the development team to create intuitive and user-friendly designs that meet the needs of the users and align with the product vision defined by the Product Owner or client. They are responsible for researching user needs, creating user personas, designing wireframes and prototypes, and collaborating with the development team to ensure the final product meets the desired design standards. </p></td>
+	</tr>
+</table>
+
+==Scope Definition== 
+<p>The scope of this project is to implement an E-commerce web application for Chubby Gourmet, a local food business, to address its process problems and improve overall efficiency. The web application will include the following features: product catalog with detailed descriptions and images, online ordering system with secure payment processing, customer account management, order tracking, and reporting. The project will also involve integration with existing systems such as inventory management and accounting. The project team will consist of a Product Owner, Scrum Master, developers, designers, and testers, who will work together to deliver a high-quality product within the agreed-upon timeline and budget. </p>
+
+==Project Scope Statement==
+<table border="1" width="70%" align="center">
+	
+	<tr>
+		<td><p style="text-align:center;">Project Scope Description </p></td>
+		<td><p style="text-align:center;">The proposed project aims to develop an E-commerce web application that addresses the current process problems faced by Chubby Gourmet, a local food business, by implementing a customer management system, digitizing the inventory management system, and implementing a customer query management system, with the success criteria based on organizing customer orders faster by 80%, digitizing 100% of the inventory management, and displaying answers to common queries within two to three clicks, while ensuring scalability, modularity, and adaptability to future changes in the business's operations, with the project timeline and budget finalized based on the development team's analysis of the project's complexity and scope. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Acceptance Criteria </p></td>
+		<td><p style="text-align:center;">The acceptance criteria for the proposed E-commerce web application for Chubby Gourmet include accurately and efficiently capturing customer information, orders, and transaction details, providing a secure and user-friendly platform for managing all aspects of the business, delivering the project within the agreed timeline and budget, ensuring scalability, modularity, and adaptability to future changes, resolving all bugs and issues before deployment, achieving the specific objectives mentioned in the problem statement, and ensuring customer satisfaction through positive feedback. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Deliverables </p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>E-commerce web application to improve Chubby Gourmet's processes.</li>
+  <li>Faster organization of customer orders by 80%, including personal information, orders, and transaction details.</li>
+  <li>Digitization of 100% of inventory management to allow for easier tracking of current inventory.</li>
+  <li>Display of common customer queries with 2-3 clicks for faster response time.</li>
+  <li>Increased customer satisfaction through improved ordering and delivery process.</li>
+  <li>Increased revenue for Chubby Gourmet through improved efficiency and online visibility.</li>
+  <li>Improved brand recognition and marketability through the E-commerce platform.</li>
+</ul>
+</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Exclusions</p></td>
+		<td><p style="text-align:center;">
+<ul>
+<li>Any work that would require additional resources or budget beyond what has been approved for the project.</li>
+<li>Procurement or installation of hardware or infrastructure beyond the scope of the project</li>
+</ul>
+</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Constraints</p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>The developers will be co-working with Chubby Gourmet on the design elements but will not be involved in arranging the products and services of the business.</li>
+  <li>The project functionalities are limited to the features agreed upon by the developers and Chubby Gourmet.</li>
+  <li>The project must integrate the agreed-upon features, including product management, order management, inventory management, report generation, customer account creation, shopping cart, checkout, payment, delivery schedule, and order tracking.</li>
+  <li>The developers have limited knowledge in making web applications but are open to learning more during the project.</li>
+</ul>
+</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Assumptions</p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>The project team assumes that the web application will be hosted on a reliable and secure web server.</li>
+  <li>The project team assumes that there will be no major issues with integrating the selected payment gateways and delivery.</li>
+  <li>The project team assumes that the web application will be tested thoroughly before deployment to ensure that it is free of major bugs and issues.</li>
+</ul>
+</p></td>
+	</tr>
+</table>
+
+==Work Breakdown Structure==
+<p>The Work Breakdown Structure (WBS) is a hierarchical representation of the project scope that divides the project into smaller, more manageable components. Each level in the WBS represents a progressively more detailed view of the project, starting with the highest level and moving down to the lowest level. </p>
+
+<ul>1. Chubby Gourmet Web Application 
+<ul>
+<ul>1.1 Planning 
+<ul>
+<ul>1.1.1 Project Preparation
+<ul>
+<ul>1.1.1.1 Creation of project group</ul>
+<ul>1.1.1.2 Choose project/client</ul>
+<ul>1.1.1.3 Choose adviser/consultant</ul>
+<ul>1.1.1.4 Design Thinking 1</ul>
+</ul>
+</ul>
+
+<ul>1.1.2 Team Meetings
+<ul>
+<ul>1.1.2.1 Client meeting 1</ul>
+<ul>1.1.2.2 Adviser meeting 1</ul>
+<ul>1.1.2.3 Client meeting 2</ul>
+<ul>1.1.2.4 Adviser meeting 2</ul>
+<ul>1.1.2.5 Adviser meeting 3</ul>
+<ul>1.1.2.6 Client meeting 3</ul>
+<ul>1.1.2.7 Adviser meeting 4</ul>
+<ul>1.1.2.8 Adviser meeting 5</ul>
+<ul>1.1.2.9 Adviser meeting 6</ul>
+</ul>
+</ul>
+
+<ul>1.1.3 Midterm Deliverables
+<ul>
+<ul>1.1.3.1 Project paper</ul>
+<ul>
+<ul>
+<ul>1.1.3.1.1 Chap 1 Introduction</ul>
+<ul>1.1.3.1.2 Chap 2 RRL/RRS</ul>
+<ul>1.1.3.1.3 Chap 3 Methodology</ul>
+<ul>1.1.3.1.4 Chap 4 Results and Discussions</ul>
+<ul>1.1.3.1.5 Chap 5 Conclusion</ul>
+</ul>
+</ul>
+<ul>1.1.3.2 Powerpoint Deck</ul>
+<ul>1.1.3.3 Midterm Presentation</ul>
+<ul>1.1.3.4 Comments matrix</ul>
+<ul>1.1.3.5 Revised Midterm paper</ul>
+</ul>
+</ul>
+
+<ul>1.1.4 Prototype
+<ul>
+<ul>1.1.4.1 Initial Low-Fidelity Prototype</ul>
+</ul>
+</ul>
+
+<ul>1.1.5 Final Deliverables
+<ul>
+<ul>1.1.5.1 Project paper</ul>
+<ul>
+<ul>
+<ul>1.1.5.1.1 Chap 1 Introduction</ul>
+<ul>1.1.5.1.2 Chap 2 RRL/RRS</ul>
+<ul>1.1.5.1.3 Chap 3 Methodology</ul>
+<ul>1.1.5.1.4 Chap 4 Results and Discussions</ul>
+<ul>1.1.5.1.5 Chap 5 Conclusion</ul>
+</ul>
+</ul>
+<ul>1.1.5.2 Teaser Video</ul>
+<ul>1.1.5.3 Powerpoint Deck</ul>
+<ul>1.1.5.4 Final Presentation</ul>
+<ul>1.1.5.5 Comments matrix</ul>
+<ul>1.1.5.6 Revised Final paper</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.2 Analysis and Design
+<ul>
+
+<ul>1.2.1 Initial Deliverables 
+<ul>
+<ul>1.2.1.1 Submission of MNTSDEV Documents</ul>
+<ul>1.2.1.2 Creation of Github Repository</ul>
+<ul>1.2.1.3 Choose Adviser/Consultant</ul>
+</ul>
+</ul>
+
+<ul>1.2.2 Team Meetings
+<ul>
+<ul>1.2.2.1 Client meeting 1</ul>
+<ul>1.2.2.2 Adviser meeting 1</ul>
+<ul>1.2.2.3 Client meeting 2</ul>
+<ul>1.2.2.4 Adviser meeting 2</ul>
+<ul>1.2.2.5 Panelists meeting 1</ul>
+<ul>1.2.2.6 Adviser meeting 3</ul>
+<ul>1.2.2.7 Adviser meeting 4</ul>
+</ul>
+</ul>
+
+<ul>1.2.3 Midterm Deliverables
+<ul>
+<ul>1.2.3.1 Diagrams
+<ul>
+<ul>1.2.3.1.1 MVC</ul>
+<ul>1.2.3.1.2 Event Table</ul>
+<ul>1.2.3.1.3 Use Case Diagram</ul>
+<ul>1.2.3.1.4 Use Case Full Description</ul>
+<ul>1.2.3.1.5 DFD</ul>
+<ul>1.2.3.1.6 CFD</ul>
+<ul>1.2.3.1.7 ERD</ul>
+<ul>1.2.3.1.8 Activity Diagram</ul>
+<ul>1.2.3.1.9 Object Diagram</ul>
+<ul>1.2.3.1.10 Class Diagram</ul>
+</ul>
+</ul>
+
+<ul>1.2.3.2 Project paper</ul>
+<ul>
+<ul>
+<ul>1.2.3.2.1 Chap 1 Introduction</ul>
+<ul>1.2.3.2.2 Chap 2 RRL/RRS</ul>
+<ul>1.2.3.2.3 Chap 3 Technical Background</ul>
+<ul>1.2.3.2.4 Chap 4 Methodology</ul>
+<ul>1.2.3.2.5 Chap 5 Results and Discussions</ul>
+<ul>1.2.3.2.6 Chap 6 Conclusion</ul>
+</ul>
+</ul>
+
+<ul>1.2.3.3 Updated Teaser Video</ul>
+<ul>1.2.3.4 Powerpoint Deck</ul>
+<ul>1.2.3.5 Midterm Presentation</ul>
+<ul>1.2.3.6 Midterm Rubric</ul>
+<ul>1.2.3.7 Comments matrix</ul>
+<ul>1.2.3.8 Revised Midterm paper</ul>
+</ul>
+</ul>
+
+<ul>1.2.4 Final Deliverables
+<ul>
+<ul>1.2.4.1 Diagrams
+<ul>
+<ul>1.2.4.1.1 Sequence Diagram</ul>
+<ul>1.2.4.1.2 State Machine Diagram</ul>
+<ul>1.2.4.1.3 Package Diagram</ul>
+<ul>1.2.4.1.4 Component Diagram</ul>
+<ul>1.2.4.1.5 Deployment Diagram</ul>
+<ul>1.2.4.1.6 Data Dictionary</ul>
+</ul>
+</ul>
+
+<ul>1.2.4.2 Prototype
+<ul>
+<ul>1.2.4.2.1 Updated Low-Fidelity Prototype</ul>
+</ul>
+</ul>
+
+<ul>1.2.4.3 Project paper
+<ul>
+<ul>1.2.4.3.1 Chap 1 Introduction</ul>
+<ul>1.2.4.3.2 Chap 2 RRL/RRS</ul>
+<ul>1.2.4.3.3 Chap 3 Technical Background</ul>
+<ul>1.2.4.3.4 Chap 4 Methodology</ul>
+<ul>1.2.4.3.5 Chap 5 Results and Discussions</ul>
+<ul>1.2.4.3.6 Chap 6 Conclusion</ul>
+</ul>
+</ul>
+
+<ul>1.2.4.4 Updated Teaser Video</ul>
+<ul>1.2.4.5 Powerpoint Deck</ul>
+<ul>1.2.4.6 Final Presentation</ul>
+<ul>1.2.4.7 Final Rubric</ul>
+<ul>1.2.4.8 Comments matrix</ul>
+<ul>1.2.4.9 Revised Final paper</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>1.3 Development
+<ul>
+<ul>1.3.1 Initial Deliverables 
+<ul>
+<ul>1.3.1.1 Submission of MSSYADD1 Documents</ul>
+<ul>1.3.1.2 Choose Adviser/Consultant</ul>
+</ul>
+</ul>
+
+<ul>1.3.2 Team Meetings
+<ul>
+<ul>1.3.2.1 Client meeting 1</ul>
+<ul>1.3.2.2 Client meeting 2</ul>
+<ul>1.3.2.3 Adviser meeting 1</ul>
+</ul>
+</ul>
+
+<ul>1.3.3 Releases
+<ul>
+<ul>1.3.3.1 Release 1</ul>
+<ul>1.3.3.2 Release 2</ul>
+</ul>
+</ul>
+
+<ul>1.3.4 Midterm Deliverables
+<ul>
+<ul>1.3.4.1 Project paper</ul>
+<ul>
+<ul>
+<ul>1.3.4.1.1 Chap 1 Introduction</ul>
+<ul>1.3.4.1.2 Chap 2 RRL/RRS</ul>
+<ul>1.3.4.1.3 Chap 3 Technical Background</ul>
+<ul>1.3.4.1.4 Chap 4 Methodology</ul>
+<ul>1.3.4.1.5 Chap 5 Results and Discussions</ul>
+<ul>1.3.4.1.6 Chap 6 Conclusion</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.3.4.2 Updated Teaser Video</ul>
+<ul>1.3.4.3 Powerpoint Deck</ul>
+<ul>1.3.4.4 Midterm Presentation</ul>
+<ul>1.3.4.5 Midterm Rubric</ul>
+<ul>1.3.4.6 Improvement matrix</ul>
+<ul>1.3.4.7 Revised Midterm paper</ul>
+<ul>1.3.4.8 MCSPROJ Deliverables</ul>
+<ul>
+<ul>
+<ul>1.3.4.8.1 Vision and Scope Documentations</ul>
+<ul>1.3.4.8.2 Gantt Chart</ul>
+<ul>1.3.4.8.3 WBS</ul>
+<ul>1.3.4.8.4 Activity List</ul>
+<ul>1.3.4.8.5 Project Charter</ul>
+<ul>1.3.4.8.6 Statement of Work</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.3.5 Final Deliverables
+<ul>
+<ul>1.3.5.1 Project paper</ul>
+<ul>
+<ul>
+<ul>1.3.5.1.1 Chap 1 Introduction</ul>
+<ul>1.3.5.1.2 Chap 2 RRL/RRS</ul>
+<ul>1.3.5.1.3 Chap 3 Technical Background</ul>
+<ul>1.3.5.1.4 Chap 4 Methodology</ul>
+<ul>1.3.5.1.5 Chap 5 Results and Discussions</ul>
+<ul>1.3.5.1.6 Chap 6 Conclusion</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.3.5.2 Updated Teaser Video</ul>
+<ul>1.3.5.3 Powerpoint Deck</ul>
+<ul>1.3.5.4 Final Presentation</ul>
+<ul>1.3.5.5 Final Rubric</ul>
+<ul>1.3.5.6 Improvement matrix</ul>
+<ul>1.3.5.7 Revised Final paper</ul>
+<ul>1.3.5.8 MCSPROJ Deliverables</ul>
+<ul>
+<ul>
+<ul>1.3.5.8.1 Quality Management Plan</ul>
+<ul>1.3.5.8.2 Change Management Plan</ul>
+<ul>1.3.5.8.3 Contingency Plan</ul>
+<ul>1.3.5.8.4 User Project Review</ul>
+<ul>1.3.5.8.5 SRS</ul>
+<ul>1.3.5.8.6 Test Case</ul>
+<ul>1.3.5.8.7 Project Sway</ul>
+<ul>1.3.5.8.8 Proofread Request</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>1.4 Documentation
+<ul>
+<ul>1.4.1 Midterm Deliverables
+<ul>
+<ul>1.4.1.1 Business Case</ul>
+<ul>1.4.1.2 Project Charter</ul>
+<ul>1.4.1.3 Stakeholders Management Strategy Plan</ul>
+<ul>1.4.1.4 Scope Management Plan</ul>
+<ul>1.4.1.5 Cost Management Plan</ul>
+<ul>1.4.1.6 Time Management Plan</ul>
+<ul>1.4.1.7 WBS</ul>
+<ul>1.4.1.8 Work Packages</ul>
+</ul>
+</ul>
+
+<ul>1.4.2 Final Deliverables
+<ul>
+<ul>1.4.2.1 Human Resource Management Processes</ul>
+<ul>1.4.2.2 Quality Management Processes</ul>
+<ul>1.4.2.3 Risk Management Processes</ul>
+<ul>1.4.2.4 Communications Management Processes</ul>
+<ul>1.4.2.5 Procurement Management Processes</ul>
+<ul>1.4.2.6 Project Status Reports Distribution Plan</ul>
+<ul>1.4.2.7 Change Request Documentation</ul>
+<ul>1.4.2.8 Project Execution Monitoring Report</ul>
+<ul>1.4.2.9 Implementation Plan</ul>
+<ul>1.4.2.10 Change Management Plan</ul>
+<ul>1.4.2.11 Project Status Reports</ul>
+<ul>1.4.2.12 Transition-Out Plan</ul>
+<ul>1.4.2.13 Project Turn Over Plan</ul>
+<ul>1.4.2.14 Post Project Review Plan</ul>
+<ul>1.4.2.15 Consolidated Project Plan</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.5 Development II
+<ul>
+<ul>1.5.1 Midterm Deliverables
+<ul>
+<ul>1.5.1.1 Week 1: Planning</ul>
+<ul>1.5.1.2 Week 2: Analysis and User Requirements</ul>
+<ul>1.5.1.3 Week 3: System Design - Back-end</ul>
+<ul>1.5.1.4 Week 4: System Design - Back-end</ul>
+<ul>1.5.1.5 Week 5: System Design - Back-end</ul>
+<ul>1.5.1.6 Week 6: System Design - Back-end</ul>
+<ul>1.5.1.7 Week 7: System Design - Back-end</ul>
+</ul>
+</ul>
+
+<ul>1.5.2 Final Deliverables
+<ul>
+<ul>1.5.2.1 Week 8: System Design - Back-end</ul>
+<ul>1.5.2.2 Week 9: System Design - Back-end</ul>
+<ul>1.5.2.3 Week 10: System Design - Back-end</ul>
+<ul>1.5.2.4 Week 11: System Design - Back-end</ul>
+<ul>1.5.2.5 Week 12: Testing</ul>
+<ul>1.5.2.6 Week 13: Testing</ul>
+<ul>1.5.2.7 Week 14: Go Live</ul>
+</ul>
+</ul>
+</ul>
+
+</ul>
+</ul>
+</ul>
+
+==Scope Verification==
+  <p>To ensure that the deliverables from Chubby Gourmet’s E-Commerce Web Application meets the original scope, the project team will use a variety of methods for scope verification. These methods may include the following:</p>
+  <ul>
+    <li>Work Performance Measurements</li>
+    <p>HighTable will keep track and measure whenever a task is being worked on. With this, it will be able to help the team identify any potential issues or deviation from the original plan.</p>
+    <li>Scope Baseline</li>
+    <p>Any changes and updates that may happen throughout the course of the development of the project, will be documented and approved before they are implemented. The scope baseline will be used to ensure that the final deliverables will meet the original scope.</p>
+    <li>Formal Acceptance</li>
+    <p>The project sponsor, project adviser and PBL Head will formally accept each deliverable as it is completed. This ensures that the project team is accomplishing all expectations of all relevant individuals— allowing any necessary feedback or changes to be made in a timely manner.</p>
+  </ul>
+
+==Scope Control==
+  <p>The scope control process for the Chubby Gourmet’s E-Commerce Web Application will involve the following steps for making changes to the scope baseline:</p>
+  <ol>
+    <li>A scope change request will be initiated by any stakeholder or team member who identifies a need for a change to the scope.</li>
+    <li>The scope change request will be reviewed by the Product Owner and the Project Adviser to assess the impact of the change on the project schedule, budget, and resources.</li>
+    <li>If the change is deemed low impact, the Product Owner can approve or deny the request. If the change is deemed high impact, the Product Owner can approve or deny the request. Any low impact change request approved or denied by the Project Manager can be reviewed by the adviser and overruled by the Project Sponsor.</li>
+    <li>If the request is approved, the Product Owner will create an action plan to proceed with the change and update the scope baseline and notify all relevant parties of the change.</li>
+    <li>If the request is rejected, the project team will continue with the original scope.</li>
+  </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 =Cost Management Plan=
 ==Introduction==
