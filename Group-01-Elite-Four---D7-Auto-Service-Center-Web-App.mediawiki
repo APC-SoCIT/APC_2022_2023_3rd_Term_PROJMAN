@@ -353,7 +353,40 @@ The following deliverables must be met upon the successful completion of the D7 
 * Recommendation list for future upgrades/enhancements for the solution 
 ==5.6 Summary Milestones Schedule==
 The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. 
-
+<table border="1" width="70%" align="center>
+  <tr>
+    <th>Project Milestone</th>
+    <th>Target Date (mm/dd/yy)</th>
+  </tr>
+  <tr>
+    <td>Project Start</td>
+    <td>03/30/22</td>
+  </tr>
+  <tr>
+    <td>Complete Solution Start</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>Planning</td>
+    <td>03/30/22</td>
+  </tr>
+  <tr>
+    <td>System Analysis & Design</td>
+    <td>08/15/22</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>11/26/22</td>
+  </tr>
+  <tr>
+    <td>Deploy Solution & Maintenance</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>Project Complete</td>
+    <td>2023</td>
+  </tr>
+</table>
 ==5.7 Project Approval Requirements==
 Success for the D7 Auto Service Center Web-app project will be achieved when a fully tested web-app, and all technical documentation, is fully deployed throughout the company within the time and cost constraints indicated in this charter. Additionally, this measure of success must include a recommendation list for future recommendations for upgrades/enhancements, as we approach this solution to also be secured to prevent/minimize future threats. Success will be determined by the Project Sponsor, Ms. Anne Sydney Simpelo, who will also authorize project completion. 
 ==5.8 Project Manager==
@@ -420,7 +453,7 @@ Andre O. Viernes is assigned Project Manager for the D7 Auto Service Center Proj
 The Work Breakdown Structure presented here represents all the work required to complete this project. It will be the initial version of the web-app and it shall go under version 1. This version will undergo the PBL (Project Based Learning) phases from planning to deployment. It is hereby outlined with the help of this project management tool that will aim to provide better division of work during each respective phase. The project has divided the work accordingly per sprint to have them assigned and accomplished by the Elite Four team.  
 ==10.2 Outline View==
 ==10.3 Hierarchical Structure==
-<table border="1" width="70%" align="center >
+<table border="1" width="100%">
   <tr>
     <th>Level</th>
     <th>WBS Code</th>
@@ -631,7 +664,7 @@ The Work Breakdown Structure presented here represents all the work required to 
 ==10.5 Tree Structure View==
 ==10.6 WBS Dictionary==
 ==10.7 Glossary of Terms==
-<table border="1" width="70%" align="center>
+<table border="1" width="70%" align="center">
   <tr>
     <th>Terms</th>
     <th>Definition</th>
