@@ -1127,60 +1127,41 @@ user, which is based on what office or department they are from.</p>
 <h2> Work Breakdown Structure </h2>
 <p>For the succession of the project the management are required to work together but to be effective the project must work subdivided into individual work bundles not to surpass 20 hours of work. This will enable the Project Manager to more successfully deal with the venture's degree as the undertaking group takes a shot at the assignments important for venture culmination. The undertaking is separated into three stages: the outline stage, the Analyzing stage, and the Designing stage. Every one of these stages is then subdivided additionally down to work bundles that are assessed to require close to 20 hours of work and no under 2 hours of work.</p>
 <h2> Scope Verification </h2>
-<p>As the Project progress, the Project Advisor will verify the scopes and project deliverables compared to the original scope as defined in the scope statement, WBS, and WBS Dictionary. Once the client verifies the scope of the project satisfies the requirements defined in the project plan, the Project Advisor and Client will communicate for formal acknowledgment of the deliverable. Amid this gathering the Project Advisor will exhibit the deliverable to the Project Client for formal acknowledgment. The Project Client will acknowledge the deliverable by marking an undertaking deliverable acknowledgment archive. This will guarantee that venture work stays inside the extent of the task on a predictable premise for the duration of the life of the undertaking. An example of how the project adviser, client, and manager will verify the deliverables are drawn below:</p>
-<table border="1" width="70%" align="center">
-		<tr>
-			<td bgcolor="lightblue">
-				<p>Inputs</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>In Scope</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Out</p>
-				<p>Scope</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Date</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Outputs</p>
-			</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-</table>
+<p>
+The project team will use various techniques for scope verification to guarantee that the SurveiRams System project deliverables satisfy the original scope. These methods include:
+</p>
+<p>
+<b>Quality Checklists</b>
+</p>
+<p>
+ The project team will use checklists that outline the essential requirements for each deliverable to be accepted. These checklists will be employed to ensure that each deliverable satisfies all necessary criteria before progressing.
+</p>
+<p>
+<b>Work Performance Measurements</b>
+</p>
+<p>
+ The team will use work performance measurements to monitor and gauge the advancement of each deliverable during the development phase. This approach will enable the team to detect any possible issues or deviations from the original scope and take prompt corrective measures.
+</p>
+<p>
+<b>Scope Baseline</b>
+</p>
+<p>
+The team will establish a scope baseline, which captures a snapshot of the initial project scope. Any modifications to the scope must be recorded and authorized before being implemented. The scope baseline will be employed to ensure that the final deliverables align with the original project scope.
+</p>
+<p>
+<b>Formal Acceptance</b>
+ Each deliverable will be formally accepted by the project sponsor, customer, and other stakeholders upon completion. This ensures that the project team meets the expectations of all relevant parties and allows any necessary feedback or changes to be made promptly.
+</p>
+<p>
+Overall, it is critical that the project team maintains open communication and cooperation with the client and other stakeholders throughout the project to ensure that the deliverables meet the original scope and are formally approved.
+</p>
+</p>
+
 <h2> Scope Control </h2>
 <p>The Project adviser and the project team will discuss and identify on controlling the scope of the project. The project team will have based the statement of the work using WBS Dictionary and Product Backlogs for each Scope. The project team will guarantee that they execute the job based on the description of the WBS Dictionary and generate the defined deliverable for each WBS element. The project advisor will monitor the project team and their progression the project to provide guidance that the scope control process is followed and progress is reported through the Project Scope measurement tools.</p>
 
 <h2> Scope Change </h2>
-<p>If an issue is arising in the project that needs a drastic change in the project scope requesting a change is the best course action. The process for recommending and estimating the change to the scope of the project are cautiously must executed. Any project team member, or project client can request changes to the project scope. All change request must be submitted to the project advisor in the form of a project change request document. The project advisor will then analyze the suggested change to the scope of the project. The project advisor will then either reject the change request if it does not in line with the purpose of the project, or convene a Change Control meeting between the project team and client to review the change request further and perform an impact assessment of the change. If the change request receives initial approval by the project advisor and client, the project manager will communicate the scope change to all project team members then they will update all the necessary documents, deliverables, and product backlogs.</p>
+<p>The team will need to evaluate the impact of any change in project scope that is authorized by the project sponsor on the present timetable. When an issue arises in the project that requires a substantial revision of the project scope, a change proposal can be considered. The team should approach any modification carefully given that the outcome could have a favorable or negative impact on the project's advancement. Any team member may request modifications, but they must be submitted in the form of a project change request document to the project stakeholder. </p>
 
 
 =Cost Management Plan=
