@@ -3435,6 +3435,63 @@ The project sponsor will review and approve scope changes based on the establish
 <br>
 
 ==Glossary of Terms==
+<p>The Glossary of Terms for the Work Breakdown Structure (WBS) of Chubby Gourmet provides clear definitions and explanations of technical terms and acronyms used within the WBS, helping stakeholders better understand the project's language and concepts.</p>
+
+<table>
+  <tr>
+    <th>Term</th>
+    <th>Definition</th>
+  </tr>
+  <tr>
+    <td>Work Breakdown Structure (WBS)</td>
+    <td>A hierarchical representation of the project's tasks and deliverables, broken down into sub-tasks and work packages.</td>
+  </tr>
+  <tr>
+    <td>Project Planning</td>
+    <td>The initial phase of the project that involves defining project scope, objectives, and resources needed.</td>
+  </tr>
+  <tr>
+    <td>Analysis and Design</td>
+    <td>Gathering requirements, identifying solutions, and creating a plan for the development of the Chubby Gourmet web application.</td>
+  </tr>
+  <tr>
+    <td>Development</td>
+    <td>Creating, designing, and building the web application for Chubby Gourmet.</td>
+  </tr>
+  <tr>
+    <td>Documentation</td>
+    <td>Creation of project documents, such as plans and processes.</td>
+  </tr>
+  <tr>
+    <td>Development II</td>
+    <td>Additional development phase for improvements and upgrades of the Chubby Gourmet web application.</td>
+  </tr>
+  <tr>
+    <td>Sub-Phases</td>
+    <td>Smaller divisions within each major phase of the project.</td>
+  </tr>
+  <tr>
+    <td>Project Owner</td>
+    <td>The person responsible for overseeing the project's progress and ensuring that the project goals are met.</td>
+  </tr>
+  <tr>
+    <td>Hierarchy</td>
+    <td>A system of organizing tasks and deliverables into levels that are specific and detailed.</td>
+  </tr>
+  <tr>
+    <td>Tabular View</td>
+    <td>A table format that presents all tasks and subtasks in an organized overview.</td>
+  </tr>
+  <tr>
+    <td>Tree Structure View</td>
+    <td>A visual representation of the project's hierarchical structure.</td>
+  </tr>
+  <tr>
+    <td>WBS Dictionary</td>
+    <td>A companion document to the WBS that provides a comprehensive list of all the tasks, sub-tasks, and work packages included in the project.</td>
+  </tr>
+</table>
+<br>
 
 =Work Packages=
 
