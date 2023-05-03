@@ -521,5 +521,83 @@ The Control Thresholds for this project is a CPI or SPI of less than 0.8 or grea
 == 8.6 Cost Change Control Process ==
 == 8.7 Project Budget ==
       
+= 10. Work Breakdown Structure = 
+== 10. 1 Introduction ==
+The Work Breakdown Structure presented here represents all the work required to complete this project.
+== 10.2 Outline View == 
+=== 1.	RAMs Corner : ITRO Ticketing System ===
+<dl>
+<dt>1.1	Initiation</dt>
+<dd>1.1.1	Initial Planning/Brainstorming </dd>
+<dd>1.1.2	Client Selection </dd>
+<dd>1.1.3	Advisor Selection </dd>
+<dd>1.1.4	Advisor/Consultant/Client Signed Forms </dd>
+<dd>1.1.5	Deliverable: Project Idea </dd>
+
+<dt>1.2	Planning </dt>
+<dd>1.2.1	Project Meeting with Members </dd>
+<dd>1.2.2	Project Meeting with Advisor </dd>
+<dd>1.2.3	Project Meeting with Client </dd>
+<dd>1.2.4	Project Proposal Drafting </dd>
+<dd>1.2.5	SOP Progression </dd>
+<dd>1.2.6	Objective Progression </dd>
+<dd>1.2.7	Wireframe Progression </dd>
+<dd>1.2.8	Project Proposal Editing </dd>
+<dd>1.2.9	Deliverable: Project Proposal Submission </dd>
+<dd>1.2.10	Project Proposal Revision </dd>
+<dd>1.2.11	Milestone: Project Proposal Approval </dd>
+
+<dt>1.3	Systems Analysis and Design</dt>
+<dd>1.3.1	Project Meeting with Members </dd>
+<dd>1.3.2	Project Meeting with Advisor </dd>
+<dd>1.3.3	Project Meeting with Client </dd>
+<dd>1.3.4	Deliverable: System Design </dd>
+<dd>1.3.5	System Design Editing </dd>
+<dd>1.3.6	System Design Submission </dd>
+<dd>1.3.7	System Prototype Design </dd>
+<dd>1.3.8	Milestone: System Design Approval </dd>
+
+<dt>1.4	Project Development </dt>
+<dd>1.4.1	Project Meeting with Members </dd>
+<dd>1.4.2	Project Meeting with Advisor </dd>
+<dd>1.4.3	Project Meeting with Client </dd>
+<dd>1.4.4	Deliverable: Working Prototype </dd>
+<dd>1.4.5	Initial Prototype UI/UX </dd>
+<dd>1.4.6	Milestone 1: Release 1 of Working Prototype </dd>
+<dd>1.4.7	Backend Development </dd>
+<dd>1.4.8	Milestone 2: Release 2 of Working Prototype </dd>
+<dd>1.4.9	Working Prototype Revision </dd>
+<dd>1.4.10	Milestone 3: Release 3 of Working Prototype </dd>
+
+<dt>1.5	Execution</dt>
+<dd>1.5.1	Project Meeting with Members</dd>
+<dd>1.5.2	Project Meeting with Advisor</dd>
+<dd>1.5.3	Project Meeting with Client</dd>
+<dd>1.5.4	Verify Use Case Requirements</dd>
+<dd>1.5.5	Procure Hardware/Software Materials</dd>
+<dd>1.5.6	Run the system on browser</dd>
+<dd>1.5.7	Isolated Testing</dd>
+<dd>1.5.8	Promotion/Advertisement</dd>
+<dd>1.5.9	Set up Kiosk for localize deployment</dd>
+<dd>1.5.10	Deploy running system to internal users (ITRO)</dd>
+<dd>1.5.11	Train general users</dd>
+<dd>1.5.12	Deploy whole running system (ITRO/Clients)</dd>
+
+<dt>1.6	Control  </dt>
+<dd>1.6.1	Project Management </dd>
+<dd>1.6.2	Project Meeting with Members</dd>
+<dd>1.6.3	Project Meeting with Advisor</dd>
+<dd>1.6.4	Project Meeting with Client</dd>
+<dd>1.6.5	Risk Management</dd>
+<dd>1.6.6	Project Maintenance</dd>
+<dd>1.6.7	Update Project Management</dd>
+<dt>1.7	Closeout</dt>
+<dd>1.7.1	Auditing</dd>
+<dd>1.7.2	Narrative Reports </dd>
+<dd>1.7.3	Update Reports </dd>
+<dd>1.7.4	Gain Formal Acceptance </dd>
+<dd>1.7.5	Archive Files/Documents </dd>
+</dl>
+
 
 
