@@ -427,7 +427,16 @@ Identified Key Stakeholders:
 <img src="https://github.com/rth-rm/Nacor-Industries/blob/051b54b219a3a67aae69122b78e15d7f1d87b04a/Stakeholder%20analysis.png" alt="Image description" style="display:block; margin:0 auto;">
 
 = 7. SCOPE MANAGEMENT PLAN =
+
 == 7.1 Introduction == 
+Towards the start of the project, the team, Nacor Industries has already set a list of scope and limitations that would enable the group to focus on the tasks at hand and not be swayed nor distracted by minor issues nor inconveniences prior, during and after the development phase. This Scope Management Plan aims to identify and elaborate the necessary processes used to define, control, approach, delegate, and verify the project’s scope which involves—but are not limited to—the following: 
+1. Requirement Collection; 
+2. Scope Definition; 
+3. Work Breakdown Structure (WBS) Creation; 
+4. Scope Verification and; 
+5. Scope Control 
+Which would all be explained in the preceding parts of this document. 
+
 == 7.2 Scope Management Approach ==
 == 7.3 Roles and Responsibilities == 
 == 7.4 Scope Definition ==
@@ -437,11 +446,78 @@ Identified Key Stakeholders:
 == 7.8 Scope Control ==
 
 = 8. COST MANAGEMENT PLAN =
+
 == 8.1 Introduction == 
+The purpose of the Cost Management Plan for the Rams Corner Ticketing Service System is to efficiently manage all expenses related to the project from start to finish. The plan establishes guidelines and criteria for measuring, reporting, and regulating the project's costs. 
+1. Cost Management Responsibilities
+*In addition to overseeing the project's cost management, the Project Manager will collaborate with the project team and stakeholders to establish cost management objectives, develop cost estimates, and monitor and control project expenses to ensure that the project stays within budget. 
+
+2. Cost Change Approval
+*The designated authority would review the proposed change and assess its impact on the project's budget, schedule, and overall goals. They would then decide whether to approve or reject the change based on these factors. 
+*If the additional cost represents less than 10% of the total project budget, you will need approval from the Project Manager. However, if the cost increase exceeds 10% of the total project budget, you would need to seek approval from the Project Sponsor. 
+
+3. Cost Measurements and Reports
+*Cost performance can be quantitatively measured and reported upon by analysing the planned versus actual costs incurred during a project. 
+*These reports may include metrics such as Cost Performance Index (CPI) and Schedule Performance Index (SPI), which provide a quantitative assessment of cost and schedule performance, respectively. 
+
+4. Budget Format
+*The budget for the project will be presented in a straightforward and easy-to-understand format, using a spreadsheet program such as Excel. The budget will be itemized into individual line items, each with a detailed cost estimate, and updated monthly with any changes clearly marked. 
+
+In essence, the Cost Management Plan devised for the RAMS Corner Ticketing Service System aims to guarantee that every expense related to the project is efficiently handled and regulated, thus enabling the project to be executed within the agreed-upon budget. Such a plan would contribute to the successful and timely completion of the project. 
+
 == 8.2 Cost Management Approach ==
+The Cost Management Approach of the RAMS Corner Ticketing Service System will be based upon the following. 
+=== Planning ===
+*The team will monitor project expenses, regularly report on deviations from the budget, and take corrective action when necessary, ensuring transparency and accountability throughout the project's lifecycle. 
+
+=== Cost Estimation ===
+*The cost estimate will be regularly updated to reflect any changes in the project's scope or budget and will serve as a baseline against which all project costs will be measured. This will enable the team to track and manage project costs effectively, adjusting as needed to ensure that the project is completed within budget and on schedule. 
+
+=== Budgeting ===
+*The budget will serve as a guide for managing project expenses, and it will be regularly monitored and adjusted as necessary to ensure that the project remains on track. The project team will use the budget to prioritize expenditures, allocate resources effectively, and make informed decisions that maximize the value delivered to the community. 
+
+=== Cost Reporting ===
+*These reports will be reviewed by project stakeholders to ensure that everyone is aware of the project's financial status and can take appropriate action if necessary. The team will use the reports to identify trends and patterns in project costs, allowing them to adjust their cost management strategies accordingly. In addition, these reports will provide transparency and accountability, ensuring that stakeholders can make informed decisions based on accurate and up-to-date information. 
+
+=== Risk Management ===
+*The project team will conduct ongoing risk assessments to identify potential risks that may impact project costs and develop strategies to mitigate these risks. The team will also regularly monitor the effectiveness of these strategies and maintain a risk register to document all identified risks and their corresponding mitigation plans. 
+
+The Cost Management Approach we have devised intends to guarantee that the RAMS Corner Ticketing Service System is executed within the authorized budget, adheres to project objectives, and provides a product of superior quality that caters to the community's requirements. 
+
 == 8.3 Measuring Project Cost ==
+Measuring cost performance is a crucial aspect of controlling project costs, and there are several techniques that can be used for this purpose. These techniques include methods such as cost variance, earned value management (EVM), cost performance index, and the Schedule Performance Index.  
+
+Below, we'll provide more information about each of these methods for measuring cost performance. 
+=== Cost Variance ===
+*Cost variance (CV) is a technique used for measuring the difference between the earned value (EV) and the actual cost (AC) of the work completed. It provides an indication of whether the project is under budget or over budget. CV is calculated by subtracting the actual cost (AC) from the earned value (EV). 
+
+CV = EV - AC 
+
+=== Earned Value Management ===
+*Earned Value Management (EVM) is a widely accepted and effective technique for measuring project performance in project management. The technique integrates the three key elements of scope, time, and cost, providing a holistic view of the project's progress and performance. 
+
+(SV) = EV – PV 
+
+=== Cost Performance Index ===
+*The CPI provides a measurement of the value of work accomplished in relation to the actual cost of the work completed. It is calculated by dividing the earned value (EV) by the actual cost (AC). 
+
+(CPI) = EV / AC 
+
+=== Schedule Performance Index ===
+*The Schedule Performance Index (SPI) is a technique used to measure the project's schedule performance. The SPI provides a measurement of the progress achieved in relation to the work scheduled. It is calculated by dividing the earned value (EV) by the planned value (PV). The SPI value greater than 1 indicates that the project is ahead of schedule, while an SPI value less than 1 indicates that the project is behind schedule. 
+
+(SPI) = EV / PV
+
 == 8.4 Reporting Format ==
+The stakeholders will receive a progress report on a weekly basis to update them on the cost status of the project. The report will have a section called "Cost Management" which will provide information on the Earned Value Metrics (EVM), including Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI), for evaluating the project's progress and cost performance. If the project's cost goes beyond the predefined limits, the report will include details of the issue and the corrective actions planned. The report will also monitor change requests resulting from cost overruns to ensure they align with the project budget. These updates will be shared with stakeholders weekly to ensure timely decision-making and maintain transparency. 
+
 == 8.5 Cost Variance Response Process ==
+The process for responding to cost variances involves identifying the root causes of the variance, assessing its impact on the project, and developing a plan to address it. First, the project team will investigate the causes of the cost variance, which could be due to changes in scope, resource allocation, or unexpected expenses. Once the causes have been identified, the team will assess the impact of the variance on the project's budget and schedule to determine the severity of the situation. 
+
+Based on this assessment, the team will develop a plan to address the cost variance. This plan may involve cutting costs in other areas of the project, renegotiating contracts with vendors, or requesting additional funding from stakeholders. The plan will be presented to the project sponsor or steering committee for approval before any action is taken. Once the plan has been approved, the team will implement it and monitor its effectiveness to ensure that the project stays on track. 
+
+The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance+ Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions. 
+
 == 8.6 Cost Change Control Process ==
 == 8.7 Project Budget ==
       
