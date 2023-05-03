@@ -58,10 +58,6 @@
 		<td><p style="text-align:center;">Patricia Anne Meltran</p></td>
 		<td><p style="text-align:center;">plmeltran@student.apc.edu.ph</p></td>
 	</tr>
-	<tr>
-		<td><p style="text-align:center;">Ivan Emmanuel Flores</p></td>
-		<td><p style="text-align:center;">ilflores@student.apc.edu.ph</p></td>
-	</tr>
 </table>
 <br />
 
@@ -144,7 +140,7 @@ The implementation of the Apelo Dental Clinic System is a worthwhile investment 
 The company employs manual procedures for its daily operations, which involve using paper-based systems for queuing management and index cards to keep track of patient data. This results in a delay of approximately 1 to 4 hours to obtain a number, and patient information retrieval is time-consuming and occupies significant space in the dental clinic. All the current manual procedures are vulnerable to human mistakes and data loss. Despite efforts to maintain a large amount of data, some are still lost, and patients experience excessive waiting times, making it difficult for the company to maintain all the data of their patients and accommodate all the patients in their dental clinic.</p>
 
 <p><b>Organizational Impact</b></p>
-<p>The implementation of Apelo Dental Clinic will have a significant impact on the company. By reducing long waiting times in queuing and improving the manual process of recording records, the clinic can redirect its savings toward other important initiatives. This will help drive the overall performance and efficiency of the company. <t>
+<p>The implementation of Apelo Dental Clinic will have a significant impact on the company. By reducing long waiting times in queuing and improving the manual process of recording records, the clinic can redirect its savings toward other important initiatives. This will help drive the overall performance and efficiency of the company. <t></t>
 
 In addition, the project aims to improve the current process by introducing agility into the system. By eliminating the need for patients to physically obtain numbers for queuing, the process becomes more efficient and saves time for both the patients and the clinic staff. Additionally, the project will address the challenge of storing patient information by reducing the amount of space required for physical storage. With these improvements, the clinic can focus on providing quality healthcare services and enhancing patient experiences. Overall, the project will revolutionize the healthcare sector by creating a seamless and hassle-free process for patients and healthcare providers alike.</p>
 
