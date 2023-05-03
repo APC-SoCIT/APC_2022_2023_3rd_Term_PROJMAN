@@ -164,13 +164,89 @@ RAMS Corner Ticketing System is a web-based application that would make use of a
 
 === 4.4.2. Goals and Objectives ===
 The business objectives for this project are to direct support of our team’s strategic plan to provide an alternative work environment for the ITRO and improve their workflow efficiency.
+
+*Complete implementation of the RAMS Corner Ticketing System within the next 90 days (about 3 months) to replace the current email-based system.
+*Shorten time duration of ITRO’s interactions with their clients by 85% after the app deployment.
+*Minimize the number of inquiries that does not reach the ITRO by at least 70%—within the next month after the full app deployment  
+
 === 4.4.3. Project Performance ===
+The objectives which mutually support the milestones and deliverables for this project have been identified. In order to achieve success on the ISA project, the following objectives must be met within the designated time and budget allocations:
+
+*Finish the development of the app’s user interface within the next 50 days (about 1 and a half months)
+*Retrieve all the necessary data of the ITRO and their clients for the database within the next 25 days (about 3 and a half weeks)
+*Present a working prototype with at least 50% of its functions realized within the next 35 days (about 1 month 4 and a half days)
+*Present the beta version of the application with all its functions intact within the next 100 days (about 3 and a half months)
+*Conduct an isolated deployment of the application within the next 100 days (about 3 and a half months)
+*Deploy the application for the use of ITRO and their clients within the next 120 days (about 4 months)
+
 === 4.4.4. Project Assumptions ===
+Listed below are the team’s project assumptions revolving regarding the deployment of RAMS Corner Ticketing System.
+
+*The ITRO, as well as their clients have access to the internet through APC Rams Wi-Fi (or personal data/ISP) along with the necessary devices to use the web application.
+*The ITRO Staff would be trained in using the new web application.
+*The web application will be developed without any major technical issues or roadblocks.
+*The web-app will be deployed by the client using their resources with sufficient processing power, memory, and storage.
+*The web application will be developed within the given timeline (the entirety of PBL1).
+*The APC faculty and students would utilize the new system instead of the email-based reporting system.
+*The ITRO would properly launch and promote the new system.
+*The email notification system will work without any issues.
+
+
 === 4.4.5. Project Constraints ===
+Listed below are the possible project constraints revolving around RAMS Corner’s design and implementation which involves—but are not limited to--the following:
+ 
+<h3> Data Privacy </h3>
+*Upon takeover, the ITRO would be the one fully responsible for the web-application, and any other authorization regarding the APC faculty and the user’s credentials.
+
+<h3> Deployment Budget </h3>
+*The development team would not ask for any form of payment, and the ITRO would be the ones in charge of the system’s deployment within their budget, along with any other preceding financial needs that the app might incur.
+
+<h3> Manpower / Workforce </h3>
+*The web-application has been made with the limited manpower that the ITRO currently has, however, their lack of workforce should be dealt with to have more hands-on deck to ensure that there would always be an eye out to see the updates within the system.
+
+<h3> Training / System Migration </h3>
+*The ITRO staff are bound to learn and familiarize themselves with the new system to utilize it to its fullest extent along with its features and functionalities.
+
 === 4.4.6. Major Project Milestones ===
 
 == 4.5. Strategic Alignment ==
+A. The ITRO follows the following mission and objectives for each of the ITRO sub-department:
+
+B. External environment analysis:
+*Mostly, it is the growing trend and increase in volume of the demand for cloud-based technologies
+
+C. Internal Resources and capabilities analysis:
+*People: ITRO only has a few staff. These staff are highly skilled in terms of technology handling
+*Process: Follows specific receive-process-deliver steps in completing a request/solving a problem. No data gathering tools are used for better decision-making.
+*Technology: Equipped with latest technology tools.
+
+D. Strategic Goals
+*Launch an app that is specifically used to manage the problems and inquiries of APC Community
+*Lower the requests/inquiries that are frequently asked to the ITRO by 10% very year 
+*Increase the percentage of the people who are accommodated by 20% within a year
+*Keep track of the interaction between ITRO and its clients as a basis for decision-making and for record-keeping 
+
+E. Strategic Plan
+*Develop a web application that is accessible both in desktop, laptop, or smartphone, with or without connectivity issues, with an uptime of 95% a year
+*Include a library for solutions as a feature of the web app to lower the percentage of receiving redundant request
+*Create Service Level Agreement (SLA) for the problems/request raised to the ITRO according to its impact and severity to an individual, a group of individuals or the whole APC Community
+*Data analytics 
+
+By following this strategic alignment, the ITRO can leverage or improve its internal resources and capabilities to be able to manage the external environment issues and achieve the objectives of their department whilst retaining their success in providing service for the APC Community in the following years
+
 == 4.6. Cost Benefit Analysis ==
+RAMS Corner Ticketing System, and the team of developers behind it: Nacor Industries would be working voluntarily and would not require any form of compensation from the project stakeholders aside from donations that would be very much welcome. Considering these of course, Nacor Industries is only limited to whatever hardware or time the group has for the Project Management course (PROJMAN) as of the moment. Neither the team nor the individuals are compelled to take part in any financial investments towards the development of the system since the application would be done as a requirement for the course which would take about two more terms to fully realize, or about four to five months before being deployed. Making RAMS Corner the most obvious choice for the client as it will be tailor-made and free.
+
 == 4.7. Alternatives Analysis ==
+Upon various discussions with the project stakeholders through an agile-based methodology, the team managed to list down the following as the alternatives that have been found prior to the project development:
+
+<h3> Maintain Current System </h3>
+*By maintaining ITRO’s current system, this means that they would still be using their email-based reporting and inquiry method for their clients and stakeholders. It would save them from having to implement and learn to navigate a new user interface, but they would ultimately sacrifice their productivity as it will lead to stagnation. 
+
+<h3> Subscribe to Freshdesk </h3>
+*o Freshdesk is delivered as a SaaS or Software-as-a-Service that is both powerful and easily customizable by the user. This software needs little to no training to be implemented by an organization – big or small – but it does come at a price. The set of features introduced in this software focuses on helping the users maximize their worktime by utilizing the creation and organization of tickets such as the Team Inbox for tracking the incoming tickets from a multitude of channels, Agent Collision Detection to avoid having the different personnel work on the same ticket. They also include a self-service feature so that customers can solve their own problems without the need to contact a live person by using forums and articles. They also have a feature to organize the team’s tasks so that they can improve the efficiency of their work. Despite its features though, it would not benefit ITRO all that much as they are just a small organization yet the price for subscription would be $15 per agent per month, furthermore, utilizing a third-party software such as this would induce the ITRO’s lack of identity as they won’t be able to customize nor carry out their brand along with Asia Pacific College’s.
+
+By weighing down the pros and cons of each option, the team ultimately decided to partner up with the client in order to create a tailor-made ticketing service system that would utilize their brand and identity while still providing the necessary functions to tend to their needs to save their time and finances altogether. 
+
 == 4.8. Approvals ==
 
