@@ -1,7 +1,7 @@
-= 1. Project Title = 
+= 1. PROJECT TITLE = 
 <h3>Rams Corner Ticketing Service System</h3>
 
-= 2. Project Members =
+= 2. PROJECT MEMBERS =
 == 2.1. Project Professor ==
 <table border="1" width="70%" align="center">
 <tr>
@@ -63,11 +63,11 @@
 </table>
 <br/>
 
-= 3. Company Profile =
+= 3. COMPANY PROFILE =
 <p><strong>Brief Background</strong></p>
 <p> ITRO or Information Technology Resource Group, </p>
 
-= 4. Business Case = 
+= 4. BUSINESS CASE = 
 
 == 4.1. Executive Summary ==
 Through the cooperation of Asia Pacific College’s Information Technology Resource Office (APC-ITRO), Nacor Industries could help them improve their workflow and minimize any unwanted outcome that was prevalent before by making them an application suited more for their jobs as our client. The issue, anticipated outcomes, recommendation, and justification are provided in this report. 
@@ -249,4 +249,135 @@ Upon various discussions with the project stakeholders through an agile-based me
 By weighing down the pros and cons of each option, the team ultimately decided to partner up with the client in order to create a tailor-made ticketing service system that would utilize their brand and identity while still providing the necessary functions to tend to their needs to save their time and finances altogether. 
 
 == 4.8. Approvals ==
+
+= 5. PROJECT CHARTER  = 
+
+== 5.1. Executive Summary ==
+Upon meeting the head of the Asia Pacific College’s Information Technology Resource Office (APC-ITRO), Mr. Castillo himself has stated that it is getting “harder and more inconvenient” for them to continue their work through the same method that they have been continually doing. Even though everyone could reach the ITRO through emails, they could not always afford to get back at them and reply immediately, rendering the requests or questions futile since they would only be left unattended regardless of the urgency or importance of the task at hand, hence the reason why they are very much willing to explore other possible ways to make their workflow more efficient. Through the cooperation of APC-ITRO, Nacor Industries could help them improve their workflow and minimize any unwanted outcome that was prevalent before by making them an application suited more for their jobs as our client.
+
+== 5.2. Project Purpose / Justification ==
+=== 5.2.1 Business Need/Case ===
+RAMS Corner Ticketing System aims to modernize and introduce a more efficient and manageable workflow for the ITRO to replace their current email-based reporting system. The software to be developed will be free of charge and could be accessed by them, and their clients through the use of any device.
+
+=== 5.2.2. Business Objectives ===
+The business objectives for this project are to direct support of our team’s strategic plan to provide an alternative work environment for the ITRO and improve their workflow efficiency. 
+
+*Complete implementation of the RAMS Corner Ticketing System within the next 90 days to replace the current email-based system. 
+
+*Shorten time duration of ITRO’s interactions with their clients by 85% after the app deployment 
+
+*Minimize the number of inquiries that does not reach the ITRO by at least 70%—within the next month after the full app deployment 
+
+== 5.3. Project Description ===
+RAMS Corner Ticketing System is a web-based application that would make use of a ticketing method similar to that of Discord and other outsourcing companies that would not only help the students and teachers get an equal chance to be given audience by the ITRO, but also to provide automated questions to frequently-asked-questions through a dedicated knowledge base that would be done by surveying them before the development phase. Making troubleshooting easier and much more convenient.
+
+=== 5.3.1. Project Objectives and Success Criteria ===
+The objectives which mutually support the milestones and deliverables for this project have been identified.  In order to achieve success on the ISA project, the following objectives must be met within the designated time and budget allocations: 
+
+*Finish the development of the app’s user interface within the next 15 days 
+
+*Retrieve all the necessary data of the ITRO and their clients for the database within the next 25 days 
+
+*Present a working prototype with at least 50% of its functions realized within the next 35 days 
+
+*Present the beta version of the application with all of its functions intact within the next 70 days 
+
+*Conduct an isolated deployment of the application within the next 80 days 
+
+*Deploy the application for the use of ITRO and their clients within the next 120 days 
+
+=== 5.3.2. Requirements ===
+This project must meet the following list of requirements in order to achieve success.   
+
+*The application must be tested by the team within the vicinity of Asia Pacific College with the presence of the project beneficiary and the subject course adviser for MCSPROJ 
+
+*Solution must be implemented without disruption to operations 
+
+=== 5.3.3. Constraints ===
+The following constraints pertain to the ISA project: 
+
+*All security hardware and software must be compatible with ITRO’s current platforms 
+
+*Every work and tasks to be filled upon the application’s development  
+
+*All hardware and software accessible to the team are limited only to the ones they own themselves or those readily available at the Asia Pacific College 
+
+=== 5.3.4. Assumptions ===
+The following are a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct: 
+
+*This project has the full support of the project adviser, beneficiary, stakeholders, and all parties associated 
+
+*The purpose of this project will be communicated throughout the ITRO prior to deployment 
+
+*No monetary compensations or fundings have been given to the team upon project development 
+
+=== 5.3.5. Preliminary Scope Statement ===
+RAMS Corner Ticketing System will be designed, developed, and tested by Nacor Industries to deliver an alternative working environment for the ITRO to modernize and improve their workflow efficiency. All project-related work will be independent of daily and ongoing operations and all required testing will be done either within the APC school grounds or the team’s individual workplaces. Nacor Industries would also not be obliged to comply with or entertain all changes made or requested for the application after the end of the said subject’s duration, unless done so voluntarily. 
+
+== 5.4 Risk ==
+The following denotes all the risks that have been identified upon the possible implementation of the RAMS Corner Ticketing System. To ensure the success of the project and to minimize the threat and possibilities of any of the following to occur, the team will be sure to mitigate and create an effort to minimize its effects.   
+
+*Potential disruption to operations during solution deployment 
+
+*Possible hardware/software specific bugs that may occur upon system access  
+
+*Incompatibilities with the pre-installed software/hardware within the ITRO and their clients 
+
+*Probable refusal or lack of knowledge of some ITRO Clients about the newly implemented system 
+
+== 5.5 Project Deliverables ==
+The following deliverables must be met upon the successful deployment of the RAMS Corner Ticketing System.  Any changes to these deliverables must be approved by the project adviser. 
+
+*Fully deployed and accessible web application for ITRO and their clients 
+
+*Technical reports for the first weeks of deployment must be made to ensure the integrity of the web-application 
+
+*Post-deployment surveys would also be given to the ITRO and their clients to assess the satisfaction rate as well as to receive any feedback regarding the concerns and recommendations regarding the application. 
+
+== 5.6 Summary Milestone Schedule ==
+The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. 
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue" colspan="2"><p style="text-align:center;">'''Summary Milestone Schedule - List key project milestones relative to project start.'''</p></td>
+                
+	</tr>
+
+	<tr>
+		<td bgcolor="grey"><p style="text-align:center;">'''Project Milestone'''</p></td>
+                <td bgcolor="grey"><p style="text-align:center;">'''Target Date'''<br>'''(mm/dd/yyyy)'''</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Project Start'''</p></td>
+                <td bgcolor=""><p style="text-align:center;">03/30/2022 )</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Planning'''<br>- Midterm Presentation (Sprint 1)<br>- Final Presentation (Sprint 2)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>03/05/2022<br>04/06/2022</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Analysis and Design'''<br>- Pre-midterm presentation (Sprint 3)<br>- Midterm Presentation (Sprint 4)<br>- Final Requirement (Sprint 5)<br>- Pre-final Presentation (Sprint 5)<br>- Final Presentation (Sprint 6)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>09/23/2022<br>09/28/2022<br>10/03/2022<br>10/28/2022<br>11/02/2022</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Development'''<br>- Initial Release 1 Prototype<br>- Release 2<br>- Release 3<br>- Pre-midterm Presentation (Sprint 7)<br>- Midterm Presentation (Sprint 8)<br>Final Presentation (Sprint 9)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>08/22/2022<br>08/28/2022<br>01/12/2023<br>01/09/2023<br>01/09/2023<br>03/03/2023</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Implementation'''<br>- Midterm Presentation (Sprint 10)<br>- Final Presentation (Sprint 11)</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>05/04/2023<br>06/26/2023</p></td>
+	</tr>
+<tr>
+		<td bgcolor=""><p style="text-align:center;">'''Close-out'''<br>- System and Documentation Handover<br>- Gain Formal Acceptance<br>Project Close out meeting</p></td>
+                <td bgcolor=""><p style="text-align:center;"><br>06/05/2023<br>06/13/2023<br>06/25/2023</p></td>
+	</tr>
+</table>
+== 5.7 Summary Budget ==
+== 5.8 Project Approval Requirements ==
+== 5.9 Project Manager ==
+== 6.0 Authorization ==
+
+
+
+
 
