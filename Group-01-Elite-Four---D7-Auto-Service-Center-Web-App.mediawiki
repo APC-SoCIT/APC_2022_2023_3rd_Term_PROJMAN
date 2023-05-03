@@ -644,19 +644,106 @@ g) Reporting and Communication: <br>
 
 
 ==8.2 Measuring Project Costs==
-This section defines how the project’s costs will be measured. The PMBOK focuses on Earned Value Management for measuring and controlling a project’s costs. Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management.
+The Measuring of the Project Costs Plan for the D7 Auto Service Web-App will include and detailed and calculated approach for the measurement of the projected project costs using EVM (Earned Value Management). This will involve and need various Earned Value metrics like:  
 
-In this section you should detail how you will measure the project costs. What Earned Value measurements will be captured and reported upon. Will you use any tools, such as project management software, to assist in capturing Earned Value metrics? How will you forecast future project costs? Will you review cost performance over time, across work packages or schedule activities?
+The BCWS (Budget Cost of Work Schedule) or PV (Planned Value)  
 
-Our example in this section measures four Earned Value measurements; Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI) and Cost Performance Index (CPI). For most typical projects these four measurements can provide enough insight for effective management without overburdening the Project Manager with Earned Value calculations and measurements.
+Measures the costs of the work that is budgeted and that is planned to be completed at a specific point in time. This is needed and required for the computation SPI (Schedule Performance Index).  
 
-Schedule Variance (SV) is a measurement of the schedule performance for a project. It’s calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV). Since EV is the actual value earned in the project and the PV is the value our project plan says we should have earned at this point, when we subtract what we planned from the actual we have a good measurement which tells us if we are ahead or behind the baseline schedule according to our project plan. If SV is zero, then the project is perfectly on schedule. If SV is greater than zero, the project is earning more value than planned thus it’s ahead of schedule. If SV is less than zero, the project is earning less value than planned thus it’s behind schedule.
+Example computations:  
 
-Cost Variance (CV) is a measurement of the budget performance for a project. CV is calculated by subtracting Actual Costs (AC) from Earned Value (EV). As we already know, EV is the actual value earned in the project. AC is the actual costs incurred to date, thus when we subtract what our actual costs from the EV we have a good measurement which tells us if we are above or below budget. If CV is zero, then the project is perfectly on budget. If CV is greater than zero, the project is earning more value than planned thus it’s under budget. If CV is less than zero, the project is earning less value than planned thus it’s over budget.
+To calculate the BCWS (Budget Cost of Work Schedule) or PV (Planned Value), we need to multiply the planned percentage of the completed work by the project budget, and you will get the Planned Value.  
 
-Schedule Performance Index (SPI) measures the progress achieved against that which was planned. SPI is calculated as EV/PV. If EV is equal to PV the value of the SPI is 1. If EV is less than the PV then the value is less than 1, which means the project is behind schedule. If EV is greater than the PV the value of the SPI is greater than one, which means the project is ahead of schedule. A well performing project should have its SPI as close to 1 as possible, or maybe even a little under 1.
+Planned Value (PV) = (Planned % Completed) X (Project Budget)  
+Planned Value (PV) = 30% X (PHP 100,000)  
+      = 0.3 X (PHP 100,000)  
+      = PHP 30,000  
 
-Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed. CPI is calculated as EV/AC. If CPI is equal to 1 the project is perfectly on budget. If the CPI is greater than 1 the project is under budget, if it’s less than 1 the project is over budget.
+Therefore, the project’s Planned Value (PV) is PHP 30,000.  
+
+Reference: ​[1]​  
+
+BCWP (Budgeted Cost of Work Performed) or EV (Earned Value)  
+
+Measures the budgeted costs of the work that has been completed at a specific point in time. This is needed and required for the computation of SPI (Schedule Performance Index) and the CPI (Costs Performance Index).  
+
+Example computations:  
+
+To calculate the BCWP (Budgeted Cost of Work Performed) or EV (Earned Value), we need to multiply the Actual percentage of the completed work and multiply it by the project budget.  
+
+Earned Value (EV) = % of Completed Work X (Project Budget)  
+Earned Value (EV) = 40% X (PHP 100,000)  
+ = 0.4 X (PHP 100,000) 
+ = PHP 40,000  
+
+Therefore, the project’s Earned Value (EV) is PHP 40,000.  
+
+Reference: ​[1]​  
+
+ACWP (Actual Cost of Work Performed) or AC (Actual Cost)  
+
+Measures the actual costs incurred for the works that have already been completed at a specific point in time and schedule. This is needed for the computation of CV (Cost Variance) and CPI (Cost performance index)  
+
+Example computations:  
+
+The Actual Cost is the amount of money that has been spent so far.  
+For example, if PHP 70,000 has been spent so far; Hence, the project’s Actual Cost (AC) is PHP 70,000.  
+
+Reference: ​[1]​  
+
+The metrics above will be used to perform Costs Variance Analysis (CV), Schedule Performance Index (SPI), and lastly the Cost Performance Index (CPI) to measure the project’s cost performance throughout the project lifecycle.   
+
+To help with capturing and recording these metrics, the team will use various project management software that can track, record, and generate reports on these EVM metrics overtime or in real-time. The software must also be capable of making future forecasts of the project costs as it will be used to review costs performance overtime, across work packages or schedule activities.   
+
+Cost Variance (CV)  
+
+Measures the difference between the actual costs of the project and the planned costs. This is calculated by subtracting the actual costs from the Actual costs (EV – AC).  
+
+Example computations:  
+
+To calculate the Cost Variance (CV), we need to subtract the Actual Cost (AC) from the Earned Value (EV).  
+
+Cost Variance (CV) = Earned Value (EV) - Actual Cost (AC)  
+Cost Variance (CV) = PHP 40,000 – PHP 70,000  
+        = PHP -30,000  
+
+The project’s Cost Variance (CV) is PHP –30,000, and since it is negative, we are over budget.  
+
+Reference: ​[2]​  
+
+Schedule Performance Index (SPI)  
+
+Measures the project's schedule performance ratio by calculating the planned schedule and comparing it to the actual schedule. The ratio is calculated by dividing the EV to the PV. The ratio that will be resulted will be compared, If it is a value of 1 this will indicate that the project is on schedule, while the ratio that will be resulted in a value that is less than 1 indicates that the schedule is behind, While a value that is over 1 show that the project is ahead of schedule.  
+
+Example computations:  
+
+The formula to calculate the Schedule Performance Index (SPI) is given below:  
+
+Schedule Performance Index (SPI) = Earned Value (EV) / Planned Value (PV)  
+Schedule Performance Index (SPI) = PHP 40,000 / PHP 30,000  
+     = 1.333  
+
+Since the Schedule Performance Index (SPI) is above 1, the project is ahead of schedule.  
+
+Reference: ​[3]​  
+ 
+Cost Performance Index (CPI)  
+
+Measures the project’s cost performance by calculating the actual costs to the planned costs of the project. This Index is calculated using this formula (CPI = EV / AC). Like the SPI the CPI also uses ratio in determining if the project is over budget, under budget, or right in budget.   
+
+Example computations:  
+
+The formula to calculate the Cost Performance Index (CPI) is given below:  
+
+Cost Performance Index (CPI) = Earned Value (EV) / Actual Cost (AC)  
+Cost Performance Index (CPI) = PHP 40,000 / PHP 70,000  
+  = 0.571  
+
+Since the Cost Performance Index (CPI) is less than one, the project is over budget. 
+
+Reference: ​[3]​  
+
+The Cost Management Plan makes sure the project costs are as effectively managed and controlled as possible throughout its project’s lifecycle. By utilizing EVM metrics and calculations. These metrics and calculations help in getting insight and identifying the areas where the project performance health is. And if the project is underperforming it will show it to the project team for them to take appropriate actions on fixing it and bring the project right on schedule and track.  
 
 ==8.3 Reporting Format==
 The reporting format that would be best suited for the cost management plan of the D7 Auto Service Web-App should be a detailed and comprehensive spreadsheet or table, preferably in Microsoft Excel or something similar. Detailing the relevant cost information like project budget, actual cost, projected costs, and any variances or discrepancies and any relevant information should be included in this format. 
