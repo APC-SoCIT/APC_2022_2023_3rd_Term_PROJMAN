@@ -410,26 +410,26 @@ It will be possible to establish the scope baseline by incorporating the scope d
 ==Project Budget==
 <p>The budget for this project is detailed below.  Costs for this project are presented in various categories... </p>
 
-table width="744" border="1" align="center">
+<table width="744" border="1" align="center">
 		<tr style="height: 37px;">
 			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
 				<p><strong>INITIATION</strong></p>
 			</td>
 		</tr>
 		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
+			<td style="height: 52px;" width="180" bgcolor="#04549B">
 				<p><strong>ROLE</strong></p>
 			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
+			<td style="height: 52px;" width="96" bgcolor="#04549B">
 				<p><strong>Hourly Rate</strong></p>
 			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
+			<td style="height: 52px;" width="198" bgcolor="#04549B">
 				<p><strong>Work Hours</strong></p>
 			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
+			<td style="height: 52px;" width="108" bgcolor="#04549B">
 				<p><strong>No. of People</strong></p>
 			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
+			<td style="height: 52px;" width="162" bgcolor="#04549B">
 				<p><strong>COST</strong></p>
 			</td>
 		</tr>
