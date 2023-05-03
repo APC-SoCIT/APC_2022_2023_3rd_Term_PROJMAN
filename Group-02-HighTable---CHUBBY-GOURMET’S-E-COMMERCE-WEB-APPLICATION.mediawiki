@@ -2003,68 +2003,92 @@ The project sponsor will review and approve scope changes based on the establish
 		<td width="141"><p>1</p></td>
 		<td width="64"><p>1</p></td>
 		<td width="228"><p>Chubby Gourmet Web Application </p></td>
-		<td width="228"><p>Proposed web application system</p></td>
+		<td width="250"><p>Proposed web application system</p></td>
                 <td width="64"><p>-</p></td>
 	</tr>
         <tr>
 		<td width="141"><p>2</p></td>
 		<td width="64"><p>1.1</p></td>
 		<td width="228"><p>Planning </p></td>
+		<td width="250"><p>The work for the planning process for the project.</p></td>
+                <td width="64"><p>79 days</p></td>
 	</tr>
         <tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.1.1</p></td>
 		<td width="228"><p>Project Preparation </p></td>
+		<td width="250"><p>Preparing for MNTSDEV deliverables. </p></td>
+                <td width="64"><p>21 days</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.1.1</p></td>
 		<td width="228"><p>Creation of project group</p></td>
+		<td width="250"><p>Forming a team who will work together to achieve the project's objectives. </p></td>
+                <td width="64"><p>1 day</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.1.2</p></td>
 		<td width="228"><p>Choose project/client</p></td>
+		<td width="250"><p>Selecting a client that the team will focus on and deliver the end product to. </p></td>
+                <td width="64"><p>19 days</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.1.3</p></td>
 		<td width="228"><p>Choose adviser/consultant</p></td>
+		<td width="250"><p>Selecting an adviser to provide guidance and expertise throughout the project. </p></td>
+                <td width="64"><p>20 days</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.1.4</p></td>
 		<td width="228"><p>Design Thinking 1</p></td>
+		<td width="250"><p>Understanding the user's needs and perspectives. </p></td>
+                <td width="64"><p>1 day</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.1.2</p></td>
 		<td width="228"><p>Team Meetings</p></td>
+		<td width="250"><p>Scheduled meetings of project team members to discuss progress.</p></td>
+                <td width="64"><p>59 days</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.2.1</p></td>
 		<td width="228"><p>Client meeting 1</p></td>
+		<td width="250"><p>First meeting with the client to discuss project requirements and goals.</p></td>
+                <td width="64"><p>1 day</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.2.2</p></td>
 		<td width="228"><p>Adviser meeting 1</p></td>
+		<td width="250"><p>First meeting with the adviser. </p></td>
+                <td width="64"><p>1 day</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.2.3</p></td>
 		<td width="228"><p>Client meeting 2</p></td>
+		<td width="250"><p>Second meeting with the client to review and approve project plan.</p></td>
+                <td width="64"><p>1 day</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.2.4</p></td>
 		<td width="228"><p>Adviser meeting 2</p></td>
+		<td width="250"><p>Second meeting with the adviser. </p></td>
+                <td width="64"><p>1 day</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>4</p></td>
 		<td width="64"><p>1.1.2.5</p></td>
 		<td width="228"><p>Adviser meeting 3</p></td>
+		<td width="250"><p>Third meeting with the adviser. </p></td>
+                <td width="64"><p>1 day</p></td>
 	</tr>
 <tr>
     <td width="141"><p>4</p></td>
