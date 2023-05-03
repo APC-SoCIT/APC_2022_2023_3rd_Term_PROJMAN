@@ -779,13 +779,511 @@ vendor. However, this option was rejected due to the lack of control over the pr
 <p>With the establishment of processes and thresholdsfor the schedulechanges, the team will have control over  the  project’s  progress.  Furthermore,  having  these  will  ensure  that  all  the  changes will be monitored, reviewed, and will be addressed ina timely manner.  </p>
 
 ==Scope Change==
-<p>All of the changes in project scope that are approved by the project sponsor, will require the team to assess the effect of the scope change in the current schedule. The proposal of a change would be possible is when a problem develops in the project that necessitates a significant modification of the project scope. Furthermore, any change should be approached by the team with caution as any  outcome  would positively  or  negatively  affect  the  project’s  progress. The  changes  can  be raised by any team member and the project stakeholder must receive all the change request in a form of a project change request document.  </p>
+<p>All of the changes in project scope that are approved by the project sponsor, will require the team to assess the effect of the scope change in the current schedule. The proposal of a change would be possible is when a problem develops in the project that necessitates a significant modification of the project scope. Furthermore, any change should be approached by the team with caution as any  outcome  would positively  or  negatively  affect  the  project’s  progress. The  changes  can  be raised by any team member and the project stakeholder must receive all the change request in a form of a project change request document. </p>
 
 =Work Breakdown Schedule=
 ==Introduction==
-<p>The WBS is a view into the project which shows what work the project encompasses. It is a tool
-which helps to easily communicate the work and processes involved to execute the project.
-The Project Manager and project team use the WBS to develop the project schedule, resource requirements and costs. There are many ways you can present the WBS for your project; this template provides many of the most popular layouts from which you can choose. Depending on where in the Project Plan you're putting the WBS a different layout may be more suitable for you. </p>
+<p>The WBS is a view into the project which shows what work the project encompasses. It is a tool which helps to easily communicate the work and processes involved to execute the project. The Project Manager and project team use the WBS to develop the project schedule, resource requirements and costs. There are many ways you can present the WBS for your project; this template provides many of the most popular layouts from which you can choose. Depending on where in the Project Plan you're putting the WBS a different layout may be more suitable for you. </p>
 
 <p>The Work Breakdown Structure presented here represents all the work required to complete this project. </p>
 
+==Outline View==
+<p>The outline view presents an easy to view and understand layout for the WBS. It is also a good layout to use when developing the WBS because you can easily make changes, especially since the Microsoft Word auto numbering feature updates the WBS Code automatically. </p>
+
+<ul>1. Bregghan point of Sale System
+<ul>
+<ul>1.1 Planning
+<ul>1.1.1 Creation of Project Groups</ul>
+<ul>1.1.2 Choosing of Client</ul>
+<ul>1.1.3 Choosing Adviser/Consultant</ul>
+<ul>1.1.4 Design Thinking 1</ul></ul></ul></ul><ul><ul>
+<ul>1.2 Chapter 1,2,3,4,5
+<ul>1.2.1 Introduction</ul>
+<ul>1.2.2 Review of Related Literatures</ul>
+<ul>1.2.3 Technical Background</ul>
+<ul>1.2.4 Methodologies</ul>
+<ul>1.2.5 Result and Discussions</ul>
+<ul>1.2.6 Meeting the Adviser I</ul>
+<ul>1.2.7 Meeting with Adviser II</ul>
+<ul>1.2.8 Paper Consultation</ul>
+</ul>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>1.3 Midterm Sprint 1
+<ul>1.3.1 Comments Matrix</ul>
+<ul>1.3.2 Finalized Comments Matrix</ul>
+<ul>1.3.3 Progression of Chapter 1,2,3</ul>
+<ul>1.3.4 Meeting with Adviser SOP Progression</ul>
+<ul>1.3.5 Project Consultation</ul>
+</ul>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>1.4 Finals Sprint 2
+<ul>1.4.1 Updated Comments Matrix</ul>
+<ul>1.4.2Comments Matrix and Final Presentation</ul>
+</ul>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>1.5 Project Analysis and Designs (MYSADD)
+<ul>1.5.1 Software Design</ul>
+<ul>1.5.2 Diagram Creation 1</ul>
+<ul>
+<ul>1.5.2.1 Creation of class and object diagram</ul>
+<ul>1.5.2.2 Creation of Event Table</ul>
+<ul>1.5.2.3 Creation of Use Case Diagrams</ul>
+<ul>1.5.2.4 Creation of Use Case Description</ul>
+<ul>1.5.2.5 Meeting with Adviser</ul>
+<ul>1.5.2.6 Midterm Presentation Sprint 3</ul>
+<ul>1.5.2.7 Comments Matrix</ul>
+<ul>1.5.2.8 Creation of Low and High Fidelity Prototype</ul>
+<ul>1.5.2.9 Creation of Prototype</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>
+<ul>1.5.3 Diagram Creation 2</ul>
+<ul>
+<ul>1.5.3.1 DFD/ERD</ul>
+<ul>1.5.3.2 Creation of State Machine Diagram</ul>
+<ul>1.5.3.3 Creation of Sequence Diagram</ul>
+<ul>1.5.3.4 Creation of Class Diagrams</ul>
+<ul>1.5.3.5 Creation of Deployment Diagram</ul>
+<ul>1.5.3.6 Creation of Component and Deployment Diagram</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>
+<ul>1.5.4 Finals Presentation Sprint 4</ul>
+<ul>
+<ul>1.5.4.1 Group Meeting Paper Update</ul>
+<ul>1.5.4.2 Re Defense Presentation</ul>
+<ul>1.5.4.3 Finals Comments Matrix</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>1.6 Project Development and Modelling (MCSPROJ)
+<ul>1.6.1 Creation of Statement of Work</ul>
+<ul>1.6.2 Creation of POS System (Dashboard)</ul>
+<ul>1.6.3 Creation of Sales Report</ul>
+<ul>1.6.4 Creation of Login Page</ul>
+<ul>1.6.5 Creation of Admin System</ul>
+<ul>1.6.6 Creation of Project Charter</ul>
+<ul>1.6.7 Vision and Mission</ul>
+<ul>1.6.8 Creation of Improvement Matrix</ul>
+<ul>1.6.9 Creation of Gantt Chart POD</ul>
+<ul>1.6.10 Meeting with Adviser</ul>
+</ul>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>1.7 Midterm Presentation Sprint 5
+<ul>1.7.1 Revision of Paper</ul>
+<ul>1.7.2 Creation of Test Case</ul>
+<ul>1.7.3 Creation of User Reviews</ul>
+<ul>1.7.4 Meeting with Adviser </ul>
+<ul>1.7.5 Creation of Change Management Plan</ul>
+<ul>1.7.6 Completion of Prototype</ul>
+</ul>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>1.8 Finals Presentation Sprint 6
+<ul>1.8.1 Improvement Matrix</ul>
+<ul>1.8.2 Debugging of Prototype</ul>
+<ul>1.8.3 Revision of Improvement Matrix</ul>
+<ul>1.8.4 Revision of ERD</ul>
+<ul>1.8.5 Revision of Class, Object, Diagrams</ul>
+<ul>1.8.6 Finals ReShow Presentation</ul>
+</ul>
+</ul>
+</ul>
+
+==Hierarchical Structure==
+<p>The hierarchal structure is similar to the outline view but without indentation. The hierarchal structure is similar to the outline view but without indentation. This is divided using level, WBS Code and Element Name. </p>
+
+<table width="780" border="1" align="center">
+<thead>
+	<tr>
+		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
+		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
+	</tr>
+</thead>
+<tbody>
+        <tr>
+		<td width="141"><p>1</p></td>
+		<td width="64"><p>1</p></td>
+		<td width="228"><p>Bregghan Point of Sale System </p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.1</p></td>
+		<td width="228"><p>Planning </p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.1</p></td>
+		<td width="228"><p>Creation of Project Groups </p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.2</p></td>
+		<td width="228"><p>Choosing of Client</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.3</p></td>
+		<td width="228"><p>Choosing of Adviser/Consultant</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.1.4</p></td>
+		<td width="228"><p>Design Thinking 1</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2</p></td>
+		<td width="228"><p>Chapter 1,2,3,4,5</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2.1</p></td>
+		<td width="228"><p>Introduction</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2.2</p></td>
+		<td width="228"><p>Review of Related Literature</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2.3</p></td>
+		<td width="228"><p>Technical Background</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2.4</p></td>
+		<td width="228"><p>Methodologies</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2.5</p></td>
+		<td width="228"><p>Results and Discussion</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2.6</p></td>
+		<td width="228"><p>Meeting with Adviser I</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2.7</p></td>
+		<td width="228"><p>Meeting with Adviser II</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.2.8</p></td>
+		<td width="228"><p>Paper Consultation</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.3</p></td>
+		<td width="228"><p>Midterm Sprint 1</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3.1</p></td>
+		<td width="228"><p>Comments Matrix</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3.2</p></td>
+		<td width="228"><p>Finalized Comments Matrix</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3.3</p></td>
+		<td width="228"><p>Progression of Chapter 1,2,3</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3.4</p></td>
+		<td width="228"><p>Meeting with Adviser SOP Progression</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3.5</p></td>
+		<td width="228"><p>Project Consultation</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.4</p></td>
+		<td width="228"><p>Finals Sprint 2</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.4.1</p></td>
+		<td width="228"><p>Updated Comments Matrix</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.4.2</p></td>
+		<td width="228"><p>Comments Matrix and Finals Presentation</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.5</p></td>
+		<td width="228"><p>Project Analysis and Designs (MYSADD)</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.1</p></td>
+		<td width="228"><p>Software Design</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.2</p></td>
+		<td width="228"><p>Diagram Creation 1</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.1</p></td>
+		<td width="228"><p>Creation of Class and Object Diagram</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.2</p></td>
+		<td width="228"><p>Creation of Event Table</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.3</p></td>
+		<td width="228"><p>Creation of Use Case Diagrams</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.4</p></td>
+		<td width="228"><p>Creation of Use Case Description</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.5</p></td>
+		<td width="228"><p>Meeting with Adviser</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.6</p></td>
+		<td width="228"><p>Midterm Presentation Sprint 3</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.7</p></td>
+		<td width="228"><p>Comments Matrix</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.8</p></td>
+		<td width="228"><p>Creation of Low and High Fidelity Prototype</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.2.9</p></td>
+		<td width="228"><p>Creation of Prototype</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.3</p></td>
+		<td width="228"><p>Diagram Creation 2</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.3.1</p></td>
+		<td width="228"><p>DFD/ERD</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.3.2</p></td>
+		<td width="228"><p>Creation of State Machine Diagram</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.3.3</p></td>
+		<td width="228"><p>Creation of Sequence Diagram</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.3.4</p></td>
+		<td width="228"><p>Creation of Class Diagrams</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.3.5</p></td>
+		<td width="228"><p>Creation of Deployment Diagram</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.3.6</p></td>
+		<td width="228"><p>Creation of Component and Deployment Diagram</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.4</p></td>
+		<td width="228"><p>Finals Presentation Sprint 4</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.4.1</p></td>
+		<td width="228"><p>Group Meeting Paper Update</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.4.2</p></td>
+		<td width="228"><p>Re Defense Presentation</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.5.4.3</p></td>
+		<td width="228"><p>Finals Comments Matrix</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.6</p></td>
+		<td width="228"><p>Project Development and Modelling (MCSPORJ)</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.1</p></td>
+		<td width="228"><p>Creation of Statement of Work</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.2</p></td>
+		<td width="228"><p>Creation of POS System (Dashboard)</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.3</p></td>
+		<td width="228"><p>Creation of Sales Report</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.4</p></td>
+		<td width="228"><p>Creation of Login Page</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.5</p></td>
+		<td width="228"><p>Creation of Admin System</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.6</p></td>
+		<td width="228"><p>Creation of Project Charter</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.7</p></td>
+		<td width="228"><p>Vision and Mission</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.8</p></td>
+		<td width="228"><p>Creation of Improvement Matrix</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.9</p></td>
+		<td width="228"><p>Creation of Gantt Chart POD</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.10</p></td>
+		<td width="228"><p>Meeting with Adviser</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.7</p></td>
+		<td width="228"><p>Midterm Presentation Sprint 5</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.7.1</p></td>
+		<td width="228"><p>Revision of Paper</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.7.2</p></td>
+		<td width="228"><p>Creation of Test Case</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.7.3</p></td>
+		<td width="228"><p>Creation of User Reviews</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.7.4</p></td>
+		<td width="228"><p>Meeting with Adviser</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.7.5</p></td>
+		<td width="228"><p>Creation of Change Management Plan</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.7.6</p></td>
+		<td width="228"><p>Completion of Prototype</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.8</p></td>
+		<td width="228"><p>Finals Presentation Sprint 6</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.8.1</p></td>
+		<td width="228"><p>Improvements Matrix</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.8.2</p></td>
+		<td width="228"><p>Debugging of Prototype</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.8.3</p></td>
+		<td width="228"><p>Revision of Improvement Matrix</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.8.4</p></td>
+		<td width="228"><p>Revision of ERD</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.8.5</p></td>
+		<td width="228"><p>Revision of Class, Object, Diagrams</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.8.6</p></td>
+		<td width="228"><p>Finals Reshow Presentation</p></td>
+	</tr>
