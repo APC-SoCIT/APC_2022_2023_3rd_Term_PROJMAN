@@ -87,15 +87,17 @@
 <p>RAM-IT should be implemented as a system that enables ITRO to handle and manage inquiries, because it improves efficiency in terms of time and method of answering inquiries. Helpdesks and/or ticketing systems have been implemented in numerous companies and schools because they are helpful on enabling their respective technical offices on managing their inquiries, as well as have the inquirers having a designated platform to track and send their inquiries to the ITRO. It should also be implemented as the system can be further improved upon by the ITRO, for example, adding more features that are present in other existing ticketing systems that may benefit the project. The unique feature about RAM-IT is that it enables an efficient communication for two kinds of questions whether it be frequently asked questions which are answered through the chatbot if the inquiry is present there or specific questions which are addressed by the ITRO and will be communicated with them through the chat feature.</p>
 <p>&nbsp;</p>
 
-<h2>Business Case Analysis Team</h2>
+==Business Case Analysis Team==
 
 <table border="1" width="70%" align="center">
 	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Member Name</p></td>
 		<td bgcolor="lightblue"><p style="text-align:center;">Role</p></td>
-		<td bgcolor="lightblue"><p style="text-align:center;">Responsibility</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Role Description</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;"><em>Project Client</em></p></td>
+		<td><p style="text-align:center;"><em>Jayson Aloya</em></p></td>
+                <td><p style="text-align:center;"><em>Project Manager</em></p></td>
 		<td width="517">
 <p>·         <em>Approves Scope Management Plan. </em></p>
 <p>·         <em>Provides high-level scope definition (Project Charter).</em></p>
