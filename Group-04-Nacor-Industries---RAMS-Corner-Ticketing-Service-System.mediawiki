@@ -1,34 +1,36 @@
-=Project Title= 
+= 1. Project Title = 
 <h3>Rams Corner Ticketing Service System</h3>
-=Project members=
-==Project Professor==
-<table border="1" width="70%" align="center">
- <tr>
- <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
- </tr>
- <tr>
- <td><p style="text-align:center;">Jose Eugenio Quesada</p></td>
- <td><p style="text-align:center;">PROJMAN Professor</p></td>
- <td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
- </tr>
- </table>
-==Project Adviser==
-<table border="1" width="70%" align="center">
- <tr>
- <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
- </tr>
- <tr>
- <td><p style="text-align:center;">Mr. Alvin C. Limpin</p></td>
- <td><p style="text-align:center;">Project Adviser</p></td>
- <td><p style="text-align:center;">alvinl@apc.edu.ph</p></td>
- </tr>
- </table>
 
-==Project Team==
+= 2. Project Members =
+== 2.1. Project Professor ==
+<table border="1" width="70%" align="center">
+<tr>
+<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+</tr>
+<tr>
+<td><p style="text-align:center;">Jose Eugenio Quesada</p></td>
+<td><p style="text-align:center;">PROJMAN Professor</p></td>
+<td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
+</tr>
+</table>
+
+== 2.2. Project Adviser ==
+<table border="1" width="70%" align="center">
+<tr>
+<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+</tr>
+<tr>
+<td><p style="text-align:center;">Mr. Alvin C. Limpin</p></td>
+<td><p style="text-align:center;">Project Adviser</p></td>
+<td><p style="text-align:center;">alvinl@apc.edu.ph</p></td>
+</tr>
+</table>
+
+== 2.3. Project Team ==
 <table border="1" width="70%" align="center">
  <tr>
   <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
@@ -61,17 +63,114 @@
 </table>
 <br/>
 
-=Company Profile=
+= 3. Company Profile =
 <p><strong>Brief Background</strong></p>
-<p> ITRO or Information Technology Resource Group,  </p>
+<p> ITRO or Information Technology Resource Group, </p>
 
-=Business Case=
-==Issue==
-==Anticipated Outcomes==
-==Recommendation==
-==Justification==
-==Business Case Analysis Team==
-==Problem Definition==
-===Problem Statement===
-===Organizational Impact===
-===Technology Migration===
+= 4. Business Case = 
+
+== 4.1. Executive Summary ==
+Through the cooperation of Asia Pacific College’s Information Technology Resource Office (APC-ITRO), Nacor Industries could help them improve their workflow and minimize any unwanted outcome that was prevalent before by making them an application suited more for their jobs as our client. The issue, anticipated outcomes, recommendation, and justification are provided in this report. 
+
+=== 4.1.1 Issue ===
+Upon meeting the head of the APC-ITRO, Mr. Castillo himself has stated that it is getting “harder and more inconvenient” for him and his team to continue their work through the same method he has been continually doing, due to their limited workforce and manpower to handle the school’s issues and queries. Even though everyone could reach them through emails, he or his agents could not always afford to get back at them and reply immediately, rendering the requests or questions futile since they would only be left unattended regardless of the urgency or importance of the task at hand. 
+
+=== 4.1.2 Anticipated Outcomes ===
+The anticipated outcome for the ITRO Client is that this software will make it easier for them to manage, prioritize, and organize the requests they will get from both instructors and students, whether they are on school premises or not. 
+
+=== 4.1.3 Recommendation ===
+The project approach is to create a dedicated system for the ITRO so that they would be able to address the requests and inquiries as soon as possible. The first step is communicating with Sir Jojo on what the ITRO needs and how it needs to be implemented and providing our own creative ideas for it. Next step is the stage where the system is being made (UI/UX. Backend) then testing and showing it to Sir Jojo if it is satisfactory. Lastly, the debugging, retesting, and deployment of the project will be done to check if the system is doing fine. We expect the system to be satisfactory for Sir Jojo, as well as the ITRO staff and also the students and teachers that would use it. 
+
+=== 4.1.4 Justification ===
+The project is being implemented to keep up with the modern era and for the school to be more efficient when it comes to dealing with requests and inquiries. 
+
+== 4.2. Business Case Analysis Team ==
+Nacor Industries is a team composed of six BSIT students from Asia Pacific College under the common goal of performing and delivering the best possible software experience for the client, APC-ITRO.
+
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">Project Task </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">Business Role</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Allan Vincent Nefalar</p></td>
+ <td><p style="text-align:center;">Frontend Developer</p></td>
+ <td><p style="text-align:center;">Project Manager</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Ruth Morallos</p></td>
+ <td><p style="text-align:center;">Backend Developer</p></td>
+ <td><p style="text-align:center;">Lear Developer</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Kieyl Ponce</p></td>
+ <td><p style="text-align:center;">UI/UX Designer</p></td>
+ <td><p style="text-align:center;">Product Owner</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Vincent Nacor</p></td>
+ <td><p style="text-align:center;">Documentation</p></td>
+ <td><p style="text-align:center;">Team Member</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Patrick Cortez</p></td>
+ <td><p style="text-align:center;">Documentation</p></td>
+ <td><p style="text-align:center;">Team Member</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Bryan Denylle Geneta</p></td>
+ <td><p style="text-align:center;">Frontend Developer</p></td>
+ <td><p style="text-align:center;">Team Member</p></td>
+ </tr>
+ </table>
+
+== 4.3. Problem Definition ==
+=== 4.3.1. Problem Statement ===
+The Asia Pacific College ITRO Department lacks a system that would help them address the school’s technical-related problems. They only use email system which often-times. ITRO personnel tend to miss out the students, teachers or staff emails regarding the problem they encountered. This might lead to a bigger problem since there are problems that need attention and action.
+
+=== 4.3.2. Organizational Impact ===
+==== Tools ====
+Once the Ram’s Corner: Ticketing System is up and running. It will replace the old email system that the Department is currently using. This will require training for the ITRO personnel because the software is new and fresh. The training will provide much smoother work as they will navigate each button and functions continuously and they won’t need to guess the functions of a specific button.
+
+==== Processes ====
+With the new System made, it will boost the Department’s productivity as the system will ask its users for full details of the problem they encountered. This will reduce the time of the personnel trying to figure out what the users are trying to convey. It will reduce the manual assigning of tickets as the system will automatically personnel to resolve the problem.
+
+==== Roles and Responsibilities ====
+The department is divided into two groups. One that handles all hardware related problems and other for all software related problems. With the new system, all the ITRO personnel can focus on the fields of their expertise. In this way, the job gets to be done in a short time as the personnel who would handle the problem knows what they are doing resulting in a smooth resolution for the user’s.
+
+==== Hardware and Software ====
+The hardware will not be much of a problem as the Department already has a laptop that can run the software. As for the software needs. It does not require much, and it only needs a stable internet connection to run properly.
+
+=== 4.3.3. Technology Migration ===
+Since the legacy system utilized by the client is only email-based and the team’s system, RAMS Corner runs on the web on an entirely new environment, the team decided to pursue the migration through a systematic approach to avoid any conflicts regarding the ongoing processes within the legacy system (email-based reporting):
+<h3> Phase 1: </h3>
+*The development team would pull a handful of the existing userbase within the project stakeholders through their APC outlook emails for isolated testing purposes.
+
+<h3> Phase 2: </h3>
+*If the test cases were all satisfactory, then the backend developer would proceed to pull all existing userbases and build their own accounts with pre-determined credentials to be modified later by each of the stakeholders and fill the Knowledge Base with past issues raised and solved by the ITRO.
+
+<h3> Phase 3: </h3>
+*With the acknowledgement of the ITRO Head, Mr. Jojo Castillo, the ITRO are encouraged to promote the newly developed web-application by informing their clients of its existence through pre-established communication channels such as their APC emails or through a formal press release.
+
+<h3> Phase 4: </h3>
+*Since most inquiries sent through email are only being recorded and handled manually, the complete transfer of the already ongoing processes from emails to the RAMS Corner Ticketing Service System would not be advised, therefore, all new inquiries would be made in the web application, while the already ongoing ones are meant to be handled separately until completion. Inquiries that are sent through email, but have long been pending, however should be sent to the RAMS Corner to be handled. 
+
+
+
+== 4.4. Project Overview ==
+=== 4.4.1. Project Description ===
+RAMS Corner Ticketing System is a web-based application that would make use of a ticketing method similar to that of Discord and other outsourcing companies that would not only help the students and teachers get an equal chance to be given audience by the ITRO, but also to provide automated questions to frequently-asked-questions through a dedicated knowledge base that would be done by surveying them before the development phase. Making troubleshooting easier and much more convenient.
+
+=== 4.4.2. Goals and Objectives ===
+The business objectives for this project are to direct support of our team’s strategic plan to provide an alternative work environment for the ITRO and improve their workflow efficiency.
+=== 4.4.3. Project Performance ===
+=== 4.4.4. Project Assumptions ===
+=== 4.4.5. Project Constraints ===
+=== 4.4.6. Major Project Milestones ===
+
+== 4.5. Strategic Alignment ==
+== 4.6. Cost Benefit Analysis ==
+== 4.7. Alternatives Analysis ==
+== 4.8. Approvals ==
+
