@@ -68,6 +68,11 @@
 ==Executive Summary==
 ==Issue==
 <p>At the Apelo Dental Clinic currently, traditional techniques are employed to conduct business operations, including the utilization of index cards for patient data, and writing numbers on paper to schedule appointments. Patients arrive at the clinic as early as 4 in the morning to obtain a queue number, which will give them a better chance of being seen earlier. However, the clinic only commences its operations at 9 in the morning. Since patient information and payment records are both kept on index cards, some records of other patients cannot be found. In each of the processes implemented in Apelo Dental Clinic, patients and clinic staff encounter difficulties or challenges. </p>
+==Anticipated Outcomes==
+<p>The project anticipated outcomes of an efficient web application namely Apelo Dental Clinic System (ADENICSY) by the end of June 2023. The implementation will take place within the company's intranet, utilizing the existing records. The proposed system should include 6 major functionalities for account management of patients and employees, queuing management, search function, dental records and payment records management, and dashboard. 
+
+The execution of the proposed project will lead to an enhanced user experience at Apelo Dental Clinic by reducing waiting time and preventing the loss of patient data. The need to physically go to the clinic to obtain a queue number and inquire about the current serving number will be eliminated. The digitalization of patient data will enable the Dental Clinic to retrieve patient information quickly and prevent the excessive use of physical space. Additionally, the system will allow patients to access their payment records for services received and view their remaining balance.
+</p>
 
 =Scope Management Plan= 
  
