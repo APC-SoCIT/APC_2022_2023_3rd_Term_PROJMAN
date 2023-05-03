@@ -71,12 +71,15 @@
 
 
 =3. COMPANY PROFILE=
+
 The Barangay South Signal Village is one of the 28 barangays of Taguig City, Philippines. South Signal was formerly a part of Barangay Signal Village before being divided into four other barangays. The South Signal Village is composed of segregated areas from other barangays of Signal Village. The COMELEC Board of Canvassers duly confirmed the Barangay South Signal Village on December 19, 2008. 
 
 The Barangay South Signal Village heavily relies on papers, and most of its records and documents are stored in its physical filing cabinets. With the advancement of technology, selected barangays are already using computers and electronic devices to provide service and carry out official transactions. However, most barangays are still stuck with manual-based operations. Every request made by their client would take minutes to perform because of the tedious search for records stored in their physical file cabinets, which delays client service. All the essential and relevant information is encoded into a spreadsheet or a logbook, which uses many papers. The team would like to introduce the document management system to keep track of records, providing services and complaints in a modern approach with the use of computers as a primary medium that can speed up the process and reduce the consumption of paper.  
 
 =4. BUSINESS CASE=
+
 ==4.1 Executive Summary==
+
 Barangay South Signal Village is facing challenges in providing efficient, transparent, and accessible services and information to its residents. The system involves manual processes, limited access to crucial data, and potential service delays. This situation negatively affects residents' overall satisfaction and trust in their Barangay. 
 
 To address these issues, the proposed Barangay South Signal Village Web Application project aims to create a digital platform that improves access to information and service provisions. This platform will improve residents' access to vital services, facilitate community and local government communication, and promote transparency.
@@ -111,56 +114,109 @@ Digitalizing the manual and paper processes of Barangay South Signal Village wil
 
 If the Barangay South Signal Web App is not implemented, the barangay stays with manual transactions that (according to the barangay secretary) has an estimated amount of 5-6 documents per 10 requests which contain errors. The barangay will also be putting the residents and the employees at risk through physical transactions which have been proven by the recent pandemic. 
 
-==4.2 Business Case Analysis Team==
+==4.2 Business Case Analysis Team ==
 
 <table border="1" width="70%" align="center">
-	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
-                <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
-		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Product ManageR</p></td>
-		<td><p width="517" style="text-align:center;">He is responsible for overseeing the project and ensuring that it is completed on time.</p></td>
-		<td><p style="text-align:center;">Mikedale B. Dellera </p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Product Owner</p></td>
-		<td><p width="517" style="text-align:center;">He is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the barangay. </p></td>
-		<td><p style="text-align:center;">Wilkins V. Caducio</p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Scrum Master </p></td>
-		<td><p width="517" style="text-align:center;">He is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework.</p></td>
-		<td><p style="text-align:center;">Jakerson B. Bermudo</p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Documentation Manager </p></td>
-		<td><p width="517" style="text-align:center;">She is responsible for managing the project documentation and ensuring that it is complete and accurate. </p></td>
-		<td><p style="text-align:center;">Princess Joy H. Ferrer </p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Scrum Team Member</p></td>
-		<td><p width="517" style="text-align:center;">He is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project</p></td>
-		<td><p style="text-align:center;">Rark Mowen L. Alcantara <br><br>Carl James Garcia </p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Stakeholder </p></td>
-		<td><p width="517" style="text-align:center;">She is responsible for providing input on the project's scope, including requirements and expectations. She is also responsible for accepting the project deliverables as defined by the project's scope. </p></td>
-		<td><p style="text-align:center;">Hon. Michelle Odevilas</p></td>
-	</tr>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Class Adviser</p></td>
-		<td><p width="517" style="text-align:center;">He is responsible for providing guidance and support to the Project Manager and team. He should ensure that the project aligns with any relevant academic requirements and provide advice on best practices for managing project scope. </p></td>
-		<td><p style="text-align:center;">Jose Eugenio L. Quesada</p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Project Adviser</p></td>
-		<td><p width="517" style="text-align:center;">He is responsible for providing guidance and support to the Project Manager and team. He should ensure that the project aligns with the overall goals and objectives of the organization and provide advice on best practices for managing project scope. </p></td>
-		<td><p style="text-align:center;">Alvin C. Limpin </p></td>
-	</tr>
-</table>
+    <tr>
+       <td bgcolor="lightblue">
+          <p style="text-align:center;">ROLE</p>
+       </td>
+       <td bgcolor="lightblue">
+          <p style="text-align:center;">DESCRIPTION</p>
+       </td>
+       <td bgcolor="lightblue">
+          <p style="text-align:center;">NAME</p>
+       </td>
+    </tr>
+    <tr>
+       <td>
+          <p style="text-align:center;">Product ManageR</p>
+       </td>
+       <td>
+          <p width="517" style="text-align:center;">He is responsible for overseeing the project and ensuring that it is completed on time.</p>
+       </td>
+       <td>
+          <p style="text-align:center;">Mikedale B. Dellera </p>
+       </td>
+    </tr>
+    <tr>
+       <td>
+          <p style="text-align:center;">Product Owner</p>
+       </td>
+       <td>
+          <p width="517" style="text-align:center;">He is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the barangay. </p>
+       </td>
+       <td>
+          <p style="text-align:center;">Wilkins V. Caducio</p>
+       </td>
+    </tr>
+    <tr>
+       <td>
+          <p style="text-align:center;">Scrum Master </p>
+       </td>
+       <td>
+          <p width="517" style="text-align:center;">He is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework.</p>
+       </td>
+       <td>
+          <p style="text-align:center;">Jakerson B. Bermudo</p>
+       </td>
+    </tr>
+    <tr>
+       <td>
+          <p style="text-align:center;">Documentation Manager </p>
+       </td>
+       <td>
+          <p width="517" style="text-align:center;">She is responsible for managing the project documentation and ensuring that it is complete and accurate. </p>
+       </td>
+       <td>
+          <p style="text-align:center;">Princess Joy H. Ferrer </p>
+       </td>
+    </tr>
+    <tr>
+       <td>
+          <p style="text-align:center;">Scrum Team Member</p>
+       </td>
+       <td>
+          <p width="517" style="text-align:center;">He is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project</p>
+       </td>
+       <td>
+          <p style="text-align:center;">Rark Mowen L. Alcantara <br><br>Carl James Garcia </p>
+       </td>
+    </tr>
+    <tr>
+       <td>
+          <p style="text-align:center;">Stakeholder </p>
+       </td>
+       <td>
+          <p width="517" style="text-align:center;">She is responsible for providing input on the project's scope, including requirements and expectations. She is also responsible for accepting the project deliverables as defined by the project's scope. </p>
+       </td>
+       <td>
+          <p style="text-align:center;">Hon. Michelle Odevilas</p>
+       </td>
+    </tr>
+    <tr>
+       <td>
+          <p style="text-align:center;">Class Adviser</p>
+       </td>
+       <td>
+          <p width="517" style="text-align:center;">He is responsible for providing guidance and support to the Project Manager and team. He should ensure that the project aligns with any relevant academic requirements and provide advice on best practices for managing project scope. </p>
+       </td>
+       <td>
+          <p style="text-align:center;">Jose Eugenio L. Quesada</p>
+       </td>
+    </tr>
+    <tr>
+       <td>
+          <p style="text-align:center;">Project Adviser</p>
+       </td>
+       <td>
+          <p width="517" style="text-align:center;">He is responsible for providing guidance and support to the Project Manager and team. He should ensure that the project aligns with the overall goals and objectives of the organization and provide advice on best practices for managing project scope. </p>
+       </td>
+       <td>
+          <p style="text-align:center;">Alvin C. Limpin </p>
+       </td>
+    </tr>
+ </table>
 
 ==4.3 Problem Definition==
 ===4.3.1 Problem Statement===
@@ -1327,7 +1383,7 @@ The Tabular View shows the WBS for the Barangay South Signal Village Web App pro
 
 ==10.5 Tree Structure View==
 
-
+<img src="https://user-images.githubusercontent.com/110672519/235923804-b2c55355-5e4b-49a4-a4d2-40758aa46933.jpg" alt="Image description" style="display:block; margin:0 auto; width:30%;">
 
 ==10.6 WBS Dictionary==
 
