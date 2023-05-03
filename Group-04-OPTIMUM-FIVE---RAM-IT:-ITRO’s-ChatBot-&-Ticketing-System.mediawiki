@@ -190,12 +190,14 @@
 </tr>
 
 </table>
+
 ===Project Assumptions===
 <p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;Resources and budget will be secured for the whole development cycle of the project. </p>
 <p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;The project team will have the skills and knowledge required to develop the project successfully. </p>
 <p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;The stakeholders will be able to provide input to further improve the project during its development. </p>
 <p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;The project with complete features will be tested for approval from the stakeholders and the client. </p>
 <p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;The project will remain in its scope for the whole duration of the project. </p>
+
 ===Project Constraints===
 <p>These are all the current constraints that the project is facing. The list will change as the project goes through all the changes during its phases of development.</p>
 <p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;The project will remain in its scope for the whole duration of the project. </p>
@@ -207,13 +209,32 @@
 <table border="1" width="70%" align="center">
 <tr>
 <td><p>Milestone 1 | MNSTDEV </p></td>
-<td><p>&nbsp;&nbsp; •	Identifying a problem that needs an I.T. based solution.</p></td>
+<td><p>&nbsp;&nbsp; •	Identifying a problem that needs an I.T. based solution.</p>
+<p>&nbsp;&nbsp; •	Brainstorming a solution that will solve the identified problem.</p>
+<p>&nbsp;&nbsp; •	Writing a document with its necessary parts to justify and describe the project.</p></td>
 </tr>
 
 <tr>
 <td><p>Milestone 2 | MYSADD1 </p></td>
-<td><p>&nbsp;&nbsp; •	Identifying a problem that needs an I.T. based solution.</p>
-<p>&nbsp;&nbsp; •	Identifying a problem that needs an I.T. based solution.</p></td>
+<td><p>&nbsp;&nbsp; •	Design diagrams that give visualization to the project’s different components.</p>
+<p>&nbsp;&nbsp; •	Further improve the project document</p></td>
+</tr>
+
+<tr>
+<td><p>Milestone 3 | MCSPROJ </p></td>
+<td><p>&nbsp;&nbsp; •	Initializing the development of the project.</p>
+<p>&nbsp;&nbsp; •	Create the final necessary documents that are required for project development (Project Charter, Change Management Plan, etc.)</p></td>
+</tr>
+
+<tr>
+<td><p>Milestone 4 | PROJMAN </p></td>
+<td><p>&nbsp;&nbsp; •	Continue the polishing of documents created during the previous milestones.</p>
+<p>&nbsp;&nbsp; •	Write new documents that are essential for the project. (Business Case, Stakeholders Management Strategy).</p></td>
+</tr>
+
+<tr>
+<td><p>Milestone 5 | SOFTDEV </p></td>
+<td><p>&nbsp;&nbsp; •	Continue the development of the system and completion of its features that are listed in the documents.</p></td>
 </tr>
 </table>
 
