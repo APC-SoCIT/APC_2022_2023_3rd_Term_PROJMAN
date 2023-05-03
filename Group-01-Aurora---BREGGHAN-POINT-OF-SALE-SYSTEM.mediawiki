@@ -503,7 +503,7 @@ vendor. However, this option was rejected due to the lack of control over the pr
 	
 	<tr>
 		<td><p style="text-align:center;">Project Scope Description </p></td>
-		<td><p style="text-align:center;">Bregghan Point of Sale Systems hould accomplish a functional webapp that can track the Bregghan mini grocery store sales, transactions, Inventory and notifies the client or users whenever a product reaches a critical point in stocks. </p></td>
+		<td><p style="text-align:center;">Bregghan Point of Sale System should accomplish a functional webapp that can track the Bregghan mini grocery store sales, transactions, Inventory and notifies the client or users whenever a product reaches a critical point in stocks. </p></td>
 	</tr>
         <tr>
 		<td><p style="text-align:center;">Project Acceptance Criteria </p></td>
