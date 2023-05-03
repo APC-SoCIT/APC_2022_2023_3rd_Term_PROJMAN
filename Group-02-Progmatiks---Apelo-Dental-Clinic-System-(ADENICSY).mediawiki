@@ -143,6 +143,22 @@ In addition, the project aims to improve the current process by introducing agil
 <p>The system will be developed using HTML, PHP, JavaScript, and SQL to create a web application, as they currently rely on manual processes that involve number cards and index cards. The data migration process will involve the dental clinic staff manually entering the information from the index cards. After the system is developed, it will be implemented through the company's VDI environment.</p>
 
 ==Project Overview==
+<p><b>Project Description</b></p>
+<p>The goal of the project is to create a system that will aid in the daily operations of the Apelo Dental Clinic by addressing both patients wait times and data management concerns. As an overview of the system, it includes functionalities that convert the current queuing management process in the dental clinic into a digital format. The system will generate queue numbers and show the number of patients currently being served. Additionally, the system's data management capabilities will efficiently and effectively organize, store, retrieve, and manage large amounts of data.<br>
+<br>
+By developing a comprehensive system that manages daily operations, the efficiency of the dental clinic can be greatly improved. With this new system in place, employees will have an easier time managing patient information, and patients will be able to experience shorter wait times. With the digitalization of patient information, the employees can retrieve the information easier and faster making the transaction with the patient smoothly. Also, the system will include a dashboard that allows the administrator to easily monitor the performance of the clinic.<p>
+
+<p><b>Goals and Objectives</b></p>
+<p>The Apelo Dental Clinic System aims to automate queueing and record-keeping processes in dental clinics, improving their operational efficiency. This system addresses the common business problem of long waiting times and manual record-keeping, which can lead to errors, patient dissatisfaction, and loss of revenue. By implementing the system, dental clinics can achieve the following objectives:</p>
+  <ul>
+    <li>Develop and implement a digital platform for queueing and record-keeping processes in dental clinics.</li>
+    <li>Enable patients to view their queueing status online, reducing wait times and enhancing patient experience.</li>
+    <li>Secure patient records in a digital database, reducing the risk of manual errors and loss of records.</li>
+    <li>Improve operational efficiency by automating manual processes, reducing costs, and increasing revenue.</li>
+    <li>Enhance patient satisfaction through improved service quality and reduced wait times.</li>
+    <li>Provide user training and ongoing support to ensure effective implementation and adoption of the system.</li>
+ </ul>
+
 
 ==Strategic Alignment==
 
