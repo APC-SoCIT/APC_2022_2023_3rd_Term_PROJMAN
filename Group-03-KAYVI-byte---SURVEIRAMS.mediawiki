@@ -591,29 +591,65 @@ user, which is based on what office or department they are from.</p>
 <h2>Stakeholder Analysis</h2>
 <table border="1" width="70%" align="center">
 <tr>
-<td width="394" bgcolor="lightblue">
-<p><strong>Milestone</strong></p>
+
+<td width="400" bgcolor="lightblue">
+<p><strong>Stakeholder</strong></p>
 </td>
+
 <td width="190" bgcolor="lightblue">
-<p><strong>Timeline</strong></p>
+<p><strong>Role</strong></p>
 </td>
+
+<td width="190" bgcolor="lightblue">
+<p><strong>Impact</strong></p>
+</td>
+
+<td width="220" bgcolor="lightblue">
+<p><strong>Influence</strong></p>
+</td>
+
+<td width="420" bgcolor="lightblue">
+<p><strong>What is important to the stakeholder?</strong></p>
+</td>
+
+
+
+<td width="420" bgcolor="lightblue">
+<p><strong>How could the stakeholder contribute to the project?</strong></p>
+</td>
+
+<td width="394" bgcolor="lightblue">
+<p><strong>Strategy on engaging the stakeholder</strong></p>
+</td>
+
+
 </tr>
+
+
+
 <tr>
 <td width="394">
-<p>Project Charter</p>
+<p>Jojo Castillo</p>
 </td>
 <td width="190">
-<p>1<sup>st </sup>month</p>
+<p>ITRO Head</p>
+<p>High</p>
+<p>High</p>
+<p>Directly receive reports</p>
+<p>Project Approval and uses of the application</p>
+<p>Set a meeting</p>
 </td>
 </tr>
+
 <tr>
 <td width="394">
-<p>Project Approval</p>
+<p>Marr Bringas</p>
 </td>
 <td width="190">
 <p>2<sup>nd </sup>month</p>
 </td>
 </tr>
+
 <tr>
 <td width="394">
 <p>Developing the Website</p>
@@ -639,6 +675,7 @@ user, which is based on what office or department they are from.</p>
 </td>
 </tr>
 </table>
+
 
 
 
