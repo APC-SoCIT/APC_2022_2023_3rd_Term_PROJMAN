@@ -135,9 +135,11 @@
 ==Problem Definition==
 <p> The ITRO has been handling inquiries regarding technical concerns, concerns can range from password problems, borrowing equipment, and many more. They do this with the use of Microsoft Outlook and allowing students to inquire in-person by visiting the ITRO office. The problem with this method however (especially for online inquiries) is that time for inquiries to be addressed will always vary with the ITRO’s availability. Another problem is that ITRO doesn’t have a method to track all their inquiries all at once in a single page, leading them to always backtrack within their e-mails. Lastly, they are unable to identify if the concerns being given to them are questions that already have answers to them before or specific questions that need their communication to be resolved.</p>
 ===Problem Statement===
-
+<p>The ITRO has been handling inquiries regarding technical concerns, concerns can range from password problems, borrowing equipment, and many more. They do this with the use of Microsoft Outlook and allowing students to inquire in-person by visiting the ITRO office. The problem with this method however (especially for online inquiries) is that time for inquiries to be addressed will always vary with the ITRO’s availability. Another problem is that ITRO doesn’t have a method to track all their inquiries all at once in a single page, leading them to always backtrack within their e-mails. Lastly, they are unable to identify if the concerns being given to them are questions that already have answers to them before or specific questions that need their communication to be resolved. </p>
 ===Organizational Impact===
-
+<p>RAM-IT will influence how and where inquiries regarding ITRO will be sent and addressed. It will modify the way ITRO can track, delegate, and address inquiries, as well as make inquiries from APC community members more trackable and easier to follow. </p>
+<br>
+<p> Existing roles can change as documentation is given an emphasis in the first months of planning, with these developers are adjusted to assist on documentation roles, but later on when the development phase starts, they will continue on with their developer role. </p>
 ===Technology Migration===
 
 ==Project Overview==
