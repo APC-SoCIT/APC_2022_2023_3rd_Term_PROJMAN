@@ -204,6 +204,160 @@ Budget format and standards:
   <li>The budget will be updated on a monthly basis, with any changes clearly highlighted.</li>
 </ul>
 
+<p>Overall, the Cost Management Plan for ADENICSY project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.
+</p>
+
+==Cost Management Approach==
+<p>The cost management approach for the dispatch directory system project will be based on the following principles:
+</p>
+<br>
+<p>
+a.	Clear definition of costs:
+-	The project team will work closely with stakeholders to clearly define and document the costs associated with the project, including labor, materials, equipment, and other expenses.
+<br>
+<br>
+b.	Budget development and tracking:
+-	A detailed project budget will be developed and regularly updated throughout the project, with costs tracked and reported in real time.
+<br>
+<br>
+c.	Cost estimates:
+-	The project team will use a variety of cost estimation techniques to ensure that the project budget is accurate and realistic.
+<br>
+<br>
+d.	Cost variance analysis:
+-	The project team will closely monitor costs throughout the project and perform variance analysis to identify and address any cost overruns or savings.
+<br>
+<br>
+e.	Cost management roles and responsibilities:
+-	Clear roles and responsibilities for cost management will be defined and communicated to all project team members.
+<br>
+<br>
+f.	Approval process for changes:
+-	A formal process for approving changes to the project or its budget will be established and implemented.
+<br>
+<br>
+g.	Reporting and communication:
+-	Regular cost reports will be prepared and shared with stakeholders, including the project sponsor, project team, and management.
+</p>
+
+<p>By following these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
+
+==Measuring Project Cost==
+<p>The Cost Management Plan for ADENICSY project will include a detailed approach for measuring project costs using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:</p>
+
+<p>
+1. Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) - This measures the budgeted costs of the work that was planned to be completed at a specific point in time.
+</p>
+
+<p>
+Example:<br>
+
+To calculate the BCWS or Planned Value, we need to multiply the total labor cost of the TESTING WBS by its percentage of completion:<br>
+
+BCWS = Total labor cost of TESTING WBS x Percentage of completion<br>
+= (PHP 300,000) x 33.71%<br>
+= PHP 101,130<br><br>
+
+Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 101,130.
+<p>
+
+<p>
+2. Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) - This measures the budgeted costs of the work that has actually been completed at a specific point in time.
+</p>
+
+<p>
+Example:<br>
+
+To calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV), we need to know the percentage of work completed for each task or WBS element. Assuming that the percentage of completion for each of the Testing<br>
+Phase tasks are as follows:
+<br>
+
+<ul>
+<li>Week 26: Testing Phase 1 - 100%</li>
+<li>Week 27: Testing Phase 2 - 75%</li>
+<li>Week 28: Testing Phase 3 - 50%</li>
+<li>Week 29: Testing Phase 4 - 25%</li>
+</ul>
+
+Then, we can calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) as follows:<br><br>
+EV = BCWS x % of work completed<br>
+EV = (₱300,000 x 33.71%) + (₱75,000 x 8.43% x 0.75) + (₱75,000 x 8.43% x 0.50) + (₱75,000 x 8.43% x 0.25)<br>
+EV = ₱101,130 + ₱4,732.50 + ₱3,155 + ₱1,577.50<br>
+EV = ₱110,595<br><br>
+
+Therefore, the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) is ₱110,595.
+<p>
+
+<p>
+3. Actual Cost of Work Performed (ACWP) or Actual Cost (AC) - This measures the actual costs incurred for the work that has been completed at a specific point in time.<br>
+Example:<br>
+Assuming that the Actual Cost for the TESTING WBS is PHP 120,000, then:<br>
+
+AC = PHP 120,000<br><br>
+
+Therefore, the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) is <br>
+PHP 120,000.<br><br>
+
+These metrics will be used to perform cost variance analysis (CV), schedule performance index (SPI), and cost performance index (CPI) to measure the project's cost performance over time.<br><br>
+To assist in capturing these metrics, the project team will use project management software that is capable of tracking and reporting on EVM metrics. This software will also be used to forecast future project costs, and to review cost performance over time, across work packages or schedule activities.
+
+<ol>
+<li>Cost Variance (CV) measures the difference between the actual cost and the planned cost of the project. It is calculated by subtracting the actual cost from the planned cost. A negative CV indicates that the project is over budget, while a positive CV indicates that the project is under budget.<br>
+
+Example:<br><br>
+
+To compute the Cost Variance (CV), we need to subtract the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) from the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV). From the previous example, the BCWP or EV is ₱110,595, and the ACWP or AC is ₱120,000.<br><br>
+
+CV = EV - AC<br>
+CV = ₱110,595 - ₱120,000<br>
+CV = -₱9,405<br><br>
+
+Therefore, the Cost Variance (CV) for the Testing WBS is -₱9,405. A negative CV means that the project is over budget.<br>
+</li>
+<li>
+Schedule Performance Index (SPI) measures the project's schedule performance by comparing the planned schedule to the actual schedule. This index is calculated as the ratio of the BCWP to the BCWS. It is calculated by dividing the earned value by the planned value. A value of 1 indicates that the project is on schedule, while a value less than 1 indicates that the project is behind schedule, and a value greater than 1 indicates that the project is ahead of schedule.<br><br>
+
+Example:<br>
+
+From the previous computations, we have:<br>
+
+Earned Value (EV) = ₱110,595<br>
+Planned Value (PV) = ₱101,130<br>
+Plugging these values into the formula, we get:<br><br>
+
+SPI = EV / PV<br>
+SPI = ₱110,595 / ₱101,130<br>
+SPI = 1.093<br><br>
+
+Therefore, the Schedule Performance Index (SPI) is 1.093. This indicates that the project is ahead of schedule, as the SPI is greater than 1.<br>
+</li>
+<li>
+Cost Performance Index (CPI) measures the project's cost performance by comparing the actual cost to the planned cost. This index is calculated as the ratio of the BCWP to the ACWP. It is calculated by dividing the earned value by the actual cost. A value of 1 indicates that the project is on budget, while a value less than 1 indicates that the project is over budget, and a value greater than 1 indicates that the project is under budget.<br><br>
+
+Example:<br>
+To calculate the Cost Performance Index (CPI), we need to use the following formula:<br>
+
+CPI = EV / AC<br>
+where:<br>
+EV = Earned Value (BCWP) <br>
+AC = Actual Cost (ACWP)<br>
+
+From the previous computations, we have:<br>
+EV = ₱110,595<br>
+AC = ₱120,000<br><br>
+
+CPI = EV / AC<br>
+CPI = ₱110,595 / ₱120,000<br>
+CPI = 0.9216<br><br>
+
+Therefore, the Cost Performance Index (CPI) is 0.9216. This means that for every one peso spent, the project has earned only 0.92 pesos of value. This indicates that the project is behind budget and may need to take corrective actions to bring the costs in line with the planned budget.<br><br>
+
+In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.<br>
+</li>
+</ol>
+
+</p>
+
 =Time Management Plan=
 ==Introduction==
 <p>The Schedule Management Plan is crucial because it provides direction and information in this area and specifies how the project's schedule will be handled throughout the entire project. After evaluating, managing, and prioritizing all time-related schedule alterations, the schedule management plan specifies strategies and tactics and distributes them.</p>
