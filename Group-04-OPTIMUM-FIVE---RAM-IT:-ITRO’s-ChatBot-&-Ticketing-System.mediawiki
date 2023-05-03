@@ -163,13 +163,32 @@
 <td bgcolor="lightblue"><p style="text-align:center;">Performance Measure</p></td>
 </tr>
 <tr>
+
 <td> 
 <p>Inquiry Response </p>
 </td>
 <td width="517">
 <p><em>The system will be able to help ITRO and inquirers to have a centralized platform resulting to inquirers having more assurance and promptness to be answered.</em></p> </td>
-</td>
 </tr>
+
+<tr>
+<td> <p>Chatbot Feature </p></td>
+<td width="517">
+<p><em>RAM-IT Chatbot will be able to answer 70-90% of the frequently-asked-questions that are sent by the inquirers.</em></p> </td>
+</tr>
+
+<tr>
+<td> <p>ITRO Specialists </p></td>
+<td width="517">
+<p><em>With the assigning function, the person delegated to the ticket will have proper knowledge and will be able to assist the inquirer effectively.</em></p> </td>
+</tr>
+
+<tr>
+<td> <p>Communication with the ITRO </p></td>
+<td width="517">
+<p><em>The chat feature allows the inquirer and the ITRO to have a better communication line to solve the concern or inquiry.</em></p> </td>
+</tr>
+
 </table>
 ===Project Assumptions===
 
