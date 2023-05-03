@@ -448,6 +448,466 @@ vendor. However, this option was rejected due to the lack of control over the pr
   <li>Rehabilitation of streets are frequent in the area which may result to a narrower street which is hard for the suppliers of the store to reach it.</li>
 </ul>
 
+=Scope Management Plan=
+==Introduction==
+<p>The bregghan minigrocery store now keeps track of the inventories and sales that come in and leave out of the store each day with a pen and paper. Additionally, the store's current point-of-sale system relies on manual computation and handwritten receipts. Additionally, the fast-and slow-moving items in the mini-grocery store are not being properly tracked, and the stocks are only replenished when they notice that an item is already out of stock. </p>
+
+<p>Before implementing the project objectives the team gathered as much requirements from the client to know more about the situation of bregghan mini grocery store and to establish a solid foundation for the project objective as well as the deliverables that will be met within every sprint. Moreover the store only uses receipt records to keep track of its sales and inventory, which is tedious for the staff because they must maintain the receipts in order to know what stock is still available and because they only rely on the data contained in those receipts. The group wants to enhance their present system by integrating a stock and sales responsive webapp, which can enhance the store's inventory management and point of sale.Therefore by the end of the project or the deployment the bregghan point of sales system should demonstrate the digitizing of the mini grocery stores sales operations easing the use and calculation of all products that are bought by the customer. The deliverables for the project consists of progress reports mainly documentations that updates real time and the final product itself. </p>
+
+==Scope Management Approach==
+<p>The scope approach of the project team ensures that every deliverable will be given in allotted time to the Product Owner or Client. The client's criteria, which include a system that allows users to efficiently obtain copies of the goods that are sold, a sales and stock tracer, and other requirements, are the only ones that can be included in the project's management scope. </p>
+
+<p>As for who has the authority and responsibility the product owner is held accountable for the outcomes as for the scope measure to when we can call it verified for deployment the project will reach completion stage once all inquiry of the client is met and all commands that are developed by the project team are implemented from back to front end. The project deliverables are verified or approved by the client and the scrum master as well as the project adviser before final changes. </p>
+
+==Roles and Responsibilities==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Project Team</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Responsibilities</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Ms. Devilyn C. Ligligen</p></td>
+<td><p style="text-align:center;">Client</p></td>
+		<td><p style="text-align:center;">Review deliverables that are provided by the team within specified dates. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Ramon Benedict Elloso</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+		<td><p style="text-align:center;">Leads the team in Developing and improving the procedures used to meet milestones objectives and deliver outputs to the client.. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Carlos Ligligen</p></td>
+<td><p style="text-align:center;">Scrum Master</p></td>
+		<td><p style="text-align:center;">Create and clearly communicate the product goal with the client to optimize project progress.. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Andrei Gabriel Palma</p></td>
+<td><p style="text-align:center;">Product Developer</p></td>
+		<td><p style="text-align:center;">Is responsible for planning and developing various deliverables for the whole sprint or progress of the project. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Done Paolo Tarinay</p></td>
+<td><p style="text-align:center;">Product Designer</p></td>
+		<td><p style="text-align:center;">Is responsible for planning and developing various deliverables for the whole sprint or progress of the project. </p></td>
+	</tr>
+</table>
+
+==Scope Definition==
+<p> The project’s scope is limited to the requirements which are provided by the client which is the sales and stock tracer and a system wherein the user can have a copy of the items that are sold in an efficient way, and both need to be in an application. The project focuses on addressing the pain points of the Bregghan mini grocery store which is the lack of monitoring in sales, stocks, and they are limited to pen and paper only. In addition, the store only uses the receipts as a basis to track the stocks and the items that are sold.</p>
+
+<p>The project Group followed project management steps from planning to executing in order for project deliverables to meet the date need the team also made use of meetings may it be held online  or  physical  to  conduct  instructions  and  more  clear  points  to  be  taken  from  the  project adviser to consider during the sprint of the project and finalize the scope that the project should aim. As for the documentation of the project the team updates the changes that was made during the meetings with the adviser or the client to ensure that progress is tracked within each period before the said product is completed. As for the analysis of the product the use of the POS system was widely used as center for the project as the main goal being to digitize and benefit the client with an application that would help keep track of operations inside the Bregghan mini grocery store. </p>
+
+==Project Scope Statement==
+<table border="1" width="70%" align="center">
+	
+	<tr>
+		<td><p style="text-align:center;">Project Scope Description </p></td>
+		<td><p style="text-align:center;">Bregghan Point of Sale Systemshould accomplish a functional webapp that can track the Bregghan mini grocery store sales, transactions, Inventory and notifies the client or users whenever a product reaches a critical point in stocks. </p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Project Acceptance Criteria </p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>Webapp should display sales reports (Daily, Weekly, Monthly, Yearly)</li>
+  <li>Scans products and computes total amount.</li>
+  <li>Notify User for specific products that are low on stocks.</li>
+</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Deliverables </p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>Final Product</li>
+  <li>Work Breakdown Structure.</li>
+  <li>Project Documentation.</li>
+  <li>Progress Report.</li>
+</ul>
+</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Exclusions</p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>Accessible to Mobile devices.</li>
+  <li>Can be used outside of the mini grocery store premises.</li>
+</ul>
+</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Constraints</p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>Manual computation of sales.</li>
+  <li>No registration in B.I.R to use VAT sales..</li>
+
+</ul>
+</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Assumptions</p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>Front and Back End of the program are managed by the developers.</li>
+  <li>Funding available when required.</li>
+  <li>Project Documentations Update in real time.</li>
+</ul>
+</p></td>
+	</tr>
+</table>
+
+==Work Breakdown Structure==
+<p>The Work Breakdown Structure (WBS) is a hierarchical representation of the project scope that divides the project into smaller, more manageable components. Each level in the WBS represents a progressively more detailed view of the project, starting with the highest level and moving down to the lowest level. </p>
+
+<ul>1. Chubby Gourmet Web Application 
+<ul>
+<ul>1.1 Planning 
+<ul>
+<ul>1.1.1 Project Preparation
+<ul>
+<ul>1.1.1.1 Creation of project group</ul>
+<ul>1.1.1.2 Choose project/client</ul>
+<ul>1.1.1.3 Choose adviser/consultant</ul>
+<ul>1.1.1.4 Design Thinking 1</ul>
+</ul>
+</ul>
+
+<ul>1.1.2 Team Meetings
+<ul>
+<ul>1.1.2.1 Client meeting 1</ul>
+<ul>1.1.2.2 Adviser meeting 1</ul>
+<ul>1.1.2.3 Client meeting 2</ul>
+<ul>1.1.2.4 Adviser meeting 2</ul>
+<ul>1.1.2.5 Adviser meeting 3</ul>
+<ul>1.1.2.6 Client meeting 3</ul>
+<ul>1.1.2.7 Adviser meeting 4</ul>
+<ul>1.1.2.8 Adviser meeting 5</ul>
+<ul>1.1.2.9 Adviser meeting 6</ul>
+</ul>
+</ul>
+
+<ul>1.1.3 Midterm Deliverables
+<ul>
+<ul>1.1.3.1 Project paper</ul>
+<ul>
+<ul>
+<ul>1.1.3.1.1 Chap 1 Introduction</ul>
+<ul>1.1.3.1.2 Chap 2 RRL/RRS</ul>
+<ul>1.1.3.1.3 Chap 3 Methodology</ul>
+<ul>1.1.3.1.4 Chap 4 Results and Discussions</ul>
+<ul>1.1.3.1.5 Chap 5 Conclusion</ul>
+</ul>
+</ul>
+<ul>1.1.3.2 Powerpoint Deck</ul>
+<ul>1.1.3.3 Midterm Presentation</ul>
+<ul>1.1.3.4 Comments matrix</ul>
+<ul>1.1.3.5 Revised Midterm paper</ul>
+</ul>
+</ul>
+
+<ul>1.1.4 Prototype
+<ul>
+<ul>1.1.4.1 Initial Low-Fidelity Prototype</ul>
+</ul>
+</ul>
+
+<ul>1.1.5 Final Deliverables
+<ul>
+<ul>1.1.5.1 Project paper</ul>
+<ul>
+<ul>
+<ul>1.1.5.1.1 Chap 1 Introduction</ul>
+<ul>1.1.5.1.2 Chap 2 RRL/RRS</ul>
+<ul>1.1.5.1.3 Chap 3 Methodology</ul>
+<ul>1.1.5.1.4 Chap 4 Results and Discussions</ul>
+<ul>1.1.5.1.5 Chap 5 Conclusion</ul>
+</ul>
+</ul>
+<ul>1.1.5.2 Teaser Video</ul>
+<ul>1.1.5.3 Powerpoint Deck</ul>
+<ul>1.1.5.4 Final Presentation</ul>
+<ul>1.1.5.5 Comments matrix</ul>
+<ul>1.1.5.6 Revised Final paper</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.2 Analysis and Design
+<ul>
+
+<ul>1.2.1 Initial Deliverables 
+<ul>
+<ul>1.2.1.1 Submission of MNTSDEV Documents</ul>
+<ul>1.2.1.2 Creation of Github Repository</ul>
+<ul>1.2.1.3 Choose Adviser/Consultant</ul>
+</ul>
+</ul>
+
+<ul>1.2.2 Team Meetings
+<ul>
+<ul>1.2.2.1 Client meeting 1</ul>
+<ul>1.2.2.2 Adviser meeting 1</ul>
+<ul>1.2.2.3 Client meeting 2</ul>
+<ul>1.2.2.4 Adviser meeting 2</ul>
+<ul>1.2.2.5 Panelists meeting 1</ul>
+<ul>1.2.2.6 Adviser meeting 3</ul>
+<ul>1.2.2.7 Adviser meeting 4</ul>
+</ul>
+</ul>
+
+<ul>1.2.3 Midterm Deliverables
+<ul>
+<ul>1.2.3.1 Diagrams
+<ul>
+<ul>1.2.3.1.1 MVC</ul>
+<ul>1.2.3.1.2 Event Table</ul>
+<ul>1.2.3.1.3 Use Case Diagram</ul>
+<ul>1.2.3.1.4 Use Case Full Description</ul>
+<ul>1.2.3.1.5 DFD</ul>
+<ul>1.2.3.1.6 CFD</ul>
+<ul>1.2.3.1.7 ERD</ul>
+<ul>1.2.3.1.8 Activity Diagram</ul>
+<ul>1.2.3.1.9 Object Diagram</ul>
+<ul>1.2.3.1.10 Class Diagram</ul>
+</ul>
+</ul>
+
+<ul>1.2.3.2 Project paper</ul>
+<ul>
+<ul>
+<ul>1.2.3.2.1 Chap 1 Introduction</ul>
+<ul>1.2.3.2.2 Chap 2 RRL/RRS</ul>
+<ul>1.2.3.2.3 Chap 3 Technical Background</ul>
+<ul>1.2.3.2.4 Chap 4 Methodology</ul>
+<ul>1.2.3.2.5 Chap 5 Results and Discussions</ul>
+<ul>1.2.3.2.6 Chap 6 Conclusion</ul>
+</ul>
+</ul>
+
+<ul>1.2.3.3 Updated Teaser Video</ul>
+<ul>1.2.3.4 Powerpoint Deck</ul>
+<ul>1.2.3.5 Midterm Presentation</ul>
+<ul>1.2.3.6 Midterm Rubric</ul>
+<ul>1.2.3.7 Comments matrix</ul>
+<ul>1.2.3.8 Revised Midterm paper</ul>
+</ul>
+</ul>
+
+<ul>1.2.4 Final Deliverables
+<ul>
+<ul>1.2.4.1 Diagrams
+<ul>
+<ul>1.2.4.1.1 Sequence Diagram</ul>
+<ul>1.2.4.1.2 State Machine Diagram</ul>
+<ul>1.2.4.1.3 Package Diagram</ul>
+<ul>1.2.4.1.4 Component Diagram</ul>
+<ul>1.2.4.1.5 Deployment Diagram</ul>
+<ul>1.2.4.1.6 Data Dictionary</ul>
+</ul>
+</ul>
+
+<ul>1.2.4.2 Prototype
+<ul>
+<ul>1.2.4.2.1 Updated Low-Fidelity Prototype</ul>
+</ul>
+</ul>
+
+<ul>1.2.4.3 Project paper
+<ul>
+<ul>1.2.4.3.1 Chap 1 Introduction</ul>
+<ul>1.2.4.3.2 Chap 2 RRL/RRS</ul>
+<ul>1.2.4.3.3 Chap 3 Technical Background</ul>
+<ul>1.2.4.3.4 Chap 4 Methodology</ul>
+<ul>1.2.4.3.5 Chap 5 Results and Discussions</ul>
+<ul>1.2.4.3.6 Chap 6 Conclusion</ul>
+</ul>
+</ul>
+
+<ul>1.2.4.4 Updated Teaser Video</ul>
+<ul>1.2.4.5 Powerpoint Deck</ul>
+<ul>1.2.4.6 Final Presentation</ul>
+<ul>1.2.4.7 Final Rubric</ul>
+<ul>1.2.4.8 Comments matrix</ul>
+<ul>1.2.4.9 Revised Final paper</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>1.3 Development
+<ul>
+<ul>1.3.1 Initial Deliverables 
+<ul>
+<ul>1.3.1.1 Submission of MSSYADD1 Documents</ul>
+<ul>1.3.1.2 Choose Adviser/Consultant</ul>
+</ul>
+</ul>
+
+<ul>1.3.2 Team Meetings
+<ul>
+<ul>1.3.2.1 Client meeting 1</ul>
+<ul>1.3.2.2 Client meeting 2</ul>
+<ul>1.3.2.3 Adviser meeting 1</ul>
+</ul>
+</ul>
+
+<ul>1.3.3 Releases
+<ul>
+<ul>1.3.3.1 Release 1</ul>
+<ul>1.3.3.2 Release 2</ul>
+</ul>
+</ul>
+
+<ul>1.3.4 Midterm Deliverables
+<ul>
+<ul>1.3.4.1 Project paper</ul>
+<ul>
+<ul>
+<ul>1.3.4.1.1 Chap 1 Introduction</ul>
+<ul>1.3.4.1.2 Chap 2 RRL/RRS</ul>
+<ul>1.3.4.1.3 Chap 3 Technical Background</ul>
+<ul>1.3.4.1.4 Chap 4 Methodology</ul>
+<ul>1.3.4.1.5 Chap 5 Results and Discussions</ul>
+<ul>1.3.4.1.6 Chap 6 Conclusion</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.3.4.2 Updated Teaser Video</ul>
+<ul>1.3.4.3 Powerpoint Deck</ul>
+<ul>1.3.4.4 Midterm Presentation</ul>
+<ul>1.3.4.5 Midterm Rubric</ul>
+<ul>1.3.4.6 Improvement matrix</ul>
+<ul>1.3.4.7 Revised Midterm paper</ul>
+<ul>1.3.4.8 MCSPROJ Deliverables</ul>
+<ul>
+<ul>
+<ul>1.3.4.8.1 Vision and Scope Documentations</ul>
+<ul>1.3.4.8.2 Gantt Chart</ul>
+<ul>1.3.4.8.3 WBS</ul>
+<ul>1.3.4.8.4 Activity List</ul>
+<ul>1.3.4.8.5 Project Charter</ul>
+<ul>1.3.4.8.6 Statement of Work</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.3.5 Final Deliverables
+<ul>
+<ul>1.3.5.1 Project paper</ul>
+<ul>
+<ul>
+<ul>1.3.5.1.1 Chap 1 Introduction</ul>
+<ul>1.3.5.1.2 Chap 2 RRL/RRS</ul>
+<ul>1.3.5.1.3 Chap 3 Technical Background</ul>
+<ul>1.3.5.1.4 Chap 4 Methodology</ul>
+<ul>1.3.5.1.5 Chap 5 Results and Discussions</ul>
+<ul>1.3.5.1.6 Chap 6 Conclusion</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.3.5.2 Updated Teaser Video</ul>
+<ul>1.3.5.3 Powerpoint Deck</ul>
+<ul>1.3.5.4 Final Presentation</ul>
+<ul>1.3.5.5 Final Rubric</ul>
+<ul>1.3.5.6 Improvement matrix</ul>
+<ul>1.3.5.7 Revised Final paper</ul>
+<ul>1.3.5.8 MCSPROJ Deliverables</ul>
+<ul>
+<ul>
+<ul>1.3.5.8.1 Quality Management Plan</ul>
+<ul>1.3.5.8.2 Change Management Plan</ul>
+<ul>1.3.5.8.3 Contingency Plan</ul>
+<ul>1.3.5.8.4 User Project Review</ul>
+<ul>1.3.5.8.5 SRS</ul>
+<ul>1.3.5.8.6 Test Case</ul>
+<ul>1.3.5.8.7 Project Sway</ul>
+<ul>1.3.5.8.8 Proofread Request</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>1.4 Documentation
+<ul>
+<ul>1.4.1 Midterm Deliverables
+<ul>
+<ul>1.4.1.1 Business Case</ul>
+<ul>1.4.1.2 Project Charter</ul>
+<ul>1.4.1.3 Stakeholders Management Strategy Plan</ul>
+<ul>1.4.1.4 Scope Management Plan</ul>
+<ul>1.4.1.5 Cost Management Plan</ul>
+<ul>1.4.1.6 Time Management Plan</ul>
+<ul>1.4.1.7 WBS</ul>
+<ul>1.4.1.8 Work Packages</ul>
+</ul>
+</ul>
+
+<ul>1.4.2 Final Deliverables
+<ul>
+<ul>1.4.2.1 Human Resource Management Processes</ul>
+<ul>1.4.2.2 Quality Management Processes</ul>
+<ul>1.4.2.3 Risk Management Processes</ul>
+<ul>1.4.2.4 Communications Management Processes</ul>
+<ul>1.4.2.5 Procurement Management Processes</ul>
+<ul>1.4.2.6 Project Status Reports Distribution Plan</ul>
+<ul>1.4.2.7 Change Request Documentation</ul>
+<ul>1.4.2.8 Project Execution Monitoring Report</ul>
+<ul>1.4.2.9 Implementation Plan</ul>
+<ul>1.4.2.10 Change Management Plan</ul>
+<ul>1.4.2.11 Project Status Reports</ul>
+<ul>1.4.2.12 Transition-Out Plan</ul>
+<ul>1.4.2.13 Project Turn Over Plan</ul>
+<ul>1.4.2.14 Post Project Review Plan</ul>
+<ul>1.4.2.15 Consolidated Project Plan</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+
+<ul>
+<ul>1.5 Development II
+<ul>
+<ul>1.5.1 Midterm Deliverables
+<ul>
+<ul>1.5.1.1 Week 1: Planning</ul>
+<ul>1.5.1.2 Week 2: Analysis and User Requirements</ul>
+<ul>1.5.1.3 Week 3: System Design - Back-end</ul>
+<ul>1.5.1.4 Week 4: System Design - Back-end</ul>
+<ul>1.5.1.5 Week 5: System Design - Back-end</ul>
+<ul>1.5.1.6 Week 6: System Design - Back-end</ul>
+<ul>1.5.1.7 Week 7: System Design - Back-end</ul>
+</ul>
+</ul>
+
+<ul>1.5.2 Final Deliverables
+<ul>
+<ul>1.5.2.1 Week 8: System Design - Back-end</ul>
+<ul>1.5.2.2 Week 9: System Design - Back-end</ul>
+<ul>1.5.2.3 Week 10: System Design - Back-end</ul>
+<ul>1.5.2.4 Week 11: System Design - Back-end</ul>
+<ul>1.5.2.5 Week 12: Testing</ul>
+<ul>1.5.2.6 Week 13: Testing</ul>
+<ul>1.5.2.7 Week 14: Go Live</ul>
+</ul>
+</ul>
+</ul>
+
+</ul>
+</ul>
+</ul>
 
 =Cost Management Plan=
 ==Introduction==
