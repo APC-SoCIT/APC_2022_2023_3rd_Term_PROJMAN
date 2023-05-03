@@ -176,204 +176,6 @@ Phase V: A new digital blue slip will be implemented for violators to speed up t
 
 <p></p>
 
-<h2>Risks</h2>
-<table width="795" border="1" width="70%" align="center">
-<tr>
-<td width="48" bgcolor="lightblue">
-<p>Rank</p>
-</td>
-<td width="102" bgcolor="lightblue">
-<p>Risk</p>
-</td>
-<td width="96" bgcolor="lightblue">
-<p>Description</p>
-</td>
-<td width="96" bgcolor="lightblue">
-<p>Category</p>
-</td>
-<td width="72" bgcolor="lightblue">
-<p>Root Cause</p>
-</td>
-<td width="90" bgcolor="lightblue">
-<p>Triggers</p>
-</td>
-<td width="90" bgcolor="lightblue">
-<p>Potential Responses</p>
-</td>
-<td width="72" bgcolor="lightblue">
-<p>Risk Owner</p>
-</td>
-<td width="70" bgcolor="lightblue">
-<p>Probability</p>
-</td>
-<td width="58" bgcolor="lightblue">
-<p>Impact</p>
-</td>
-</tr>
-<tr>
-<td width="48">
-<p>1</p>
-</td>
-<td width="102">
-<p>Security</p>
-</td>
-<td width="96">
-<p>Security in transactions and data processes</p>
-</td>
-<td width="96">
-<p>Technology</p>
-</td>
-<td width="72">
-<p>Always engage in security event problems</p>
-</td>
-<td width="90">
-<p>Unauthorized personnel entry</p>
-</td>
-<td width="90">
-<p>Hire a security analyst</p>
-</td>
-<td width="72">
-<p>Developer</p>
-</td>
-<td width="70">
-<p>High</p>
-</td>
-<td width="58">
-<p>High</p>
-</td>
-</tr>
-<tr>
-<td width="48">
-<p>2</p>
-</td>
-<td width="102">
-<p>Time Management</p>
-</td>
-<td width="96">
-<p>Being able to assess all the requirement in the given project on time.</p>
-</td>
-<td width="96">
-<p>Project Management</p>
-</td>
-<td width="72">
-<p>Staff is actively engaged in other work</p>
-</td>
-<td width="90">
-<p>Backlogs didn't finish on time</p>
-</td>
-<td width="90">
-<p>Backup plan</p>
-</td>
-<td width="72">
-<p>Project Manager</p>
-</td>
-<td width="70">
-<p>Medium</p>
-</td>
-<td width="58">
-<p>Medium</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="48">
-<p>3</p>
-</td>
-<td width="102">
-<p>Consistency</p>
-</td>
-<td width="96">
-<p>The project plan should be consistent and firm from start to finish</p>
-</td>
-<td width="96">
-<p>Project Management</p>
-</td>
-<td width="72">
-<p>Not utilizing meetings</p>
-</td>
-<td width="90">
-<p>Using waterfall methodology</p>
-</td>
-<td width="90">
-<p>Use agile methodology</p>
-</td>
-<td width="72">
-<p>Business Analysis</p>
-</td>
-<td width="70">
-<p>Low</p>
-</td>
-<td width="58">
-<p>High</p>
-</td>
-</tr>
-<tr>
-<td width="48">
-<p>4</p>
-</td>
-<td width="102">
-<p>Communication</p>
-</td>
-<td width="96">
-<p>Involves communication between the development team and the product owner</p>
-</td>
-<td width="96">
-<p>Project Management</p>
-</td>
-<td width="72">
-<p>Both parties are actively engaged in other work</p>
-</td>
-<td width="90">
-<p>One of the parties didn't attend</p>
-</td>
-<td width="90">
-<p>Create additional backlog</p>
-</td>
-<td width="72">
-<p>Scrum Master</p>
-</td>
-<td width="70">
-<p>High</p>
-</td>
-<td width="58">
-<p>Medium</p>
-</td>
-</tr>
-<tr>
-<td width="48">
-<p>5</p>
-</td>
-<td width="102">
-<p>Analysis</p>
-</td>
-<td width="96">
-<p>Overall analysis of the purpose of the project</p>
-</td>
-<td width="96">
-<p>Project Management</p>
-</td>
-<td width="72">
-<p>Misinterpretation</p>
-</td>
-<td width="90">
-<p>Create a backlog that isn't in the original plan</p>
-</td>
-<td width="90">
-<p>Schedule a Sprint</p>
-</td>
-<td width="72">
-<p>System Analysis</p>
-</td>
-<td width="70">
-<p>High</p>
-</td>
-<td width="58">
-<p>High</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</table>
-
 <h2>Major Project Milestones</h2>
 <table border="1" width="70%" align="center">
 <tr>
@@ -754,319 +556,24 @@ user, which is based on what office or department they are from.</p>
 </table>
 
 
-<p><strong>Stakeholders Identification</strong> – identify the departments, groups, group and organizations by their roles and responsibilities that have significant influence on project direction and its success or who are significantly impacted by the project.</p>
-<p><strong>Stakeholder Management Plan</strong> – identify the strategies and mechanisms that will be used to achieve the greatest support of stakeholders and minimize resistance.</p>
-<p><strong>Stakeholder Engagement Management</strong> – outlines the processes and steps that will be undertaken to carry out the planned strategies.</p>
-<p><strong>Stakeholder Engagement Controls </strong>– describes the methods that will be used to monitor stakeholder engagement and alert the project team if problems are surfacing.</p>
-<p><strong> </strong></p>
-
-<h2>Stakeholders Identification</h2>
-<p>            The project management team schedule the meeting with the client then questioned about their stakeholders in the company and the client did not want to reveal their personal information however the client and the team agreed upon on what roles and responsibilities of the departments in the project.</p>
-<p>            One of the discuss departments in the meeting is Marketing &amp; Sales their roles in the company is to advertise their supply chain to other businesses in need of equipment or software that they can used in the business. The Marketing &amp; Sales is also responsible of analyse on what and how many items should the company purchase to the distributor. The Marketing &amp; Sales could affect greatly to the profit of the company since knowing that their supply is enough will greatly reduce their inventory cost in the company. The Marketing &amp; Sales involvement in the project is highly monitored since the team is developing an E-Commerce Website that include what items should they inputted in the website and Marketing &amp; Sales Analytics that would accurately analyse the trend in the Market. They influence the project from modules that would support their roles that would be the advertisement and marketing sales analytics module after those modules are implemented, monitored, and reviewed their influence in the project would gradually decline throughout the project.</p>
-<p>            Accounting &amp; Finance perform in the company as the department that hold the transaction that has been formed in the company. They also monitor the budgeting and the flow of the profits of the company. The Accounting &amp; Finance is focused on the assets of the company, calculate their profits, deciding out of it, Marketing &amp; Sales heavily relies on this department since profits can greatly influence decisions of the sales decision. The Accounting &amp; Finance will impact on the project since one of the project modules is to automate the transactions that will the company made in the Website. To greatly increase their work accuracy and efficiency the website would automate the transactions of the company, this means that Accounting &amp; Finance will now rely on the System for the computing and transacting for the business communicating with this department on this module will greatly increase the succession of that project module.</p>
-<p>            The Inventory &amp; Logistics will heavily rely on the Marketing &amp; Sales by cause of they need the item readily available in their inventory being the inventory department doesn’t really mean that they’re the one purchasing the products from the distributor that’s the duty of the Marketing &amp; Sales collaborating with Accounting &amp; Finance. Their interest in the project is the item availability and stock, they are the one handling the delivery to the client after the transaction that has been completed. Accounting &amp; Finance influence the project on how the system would notify them if the delivery has arrived, the delivery has no defects, the delivery has all the requirements assess then they also cover the delivery address of the client, and how they can deliver it to the client. In that said they’re the final phase of the transaction.</p>
-<p>Although, the last stakeholders play the role as external to the company but they also a key function of the company business. The Distributors of Information Technology Innovative Products as the name suggested they’re the distributors of the company. They don’t hold any interest other than purchasing their products but in the company of our client suggested to be also automated by purchasing then orders to them directly by the system however the order would name to the company not the name of the customer who requested the order. This external rely on the Accounting &amp; Finance since the only impact of this department is transaction to them of the order requested by the company’s customer.</p>
-<p> </p>
-<p>To assist with stakeholder identification and analysis, the team has created and is completing a Stakeholder Analysis Register categorized by Stakeholder Group. The Stakeholder Analysis Register captures the following information</p>
-<ul>
-	<li>Group name</li>
-	<li>Number of Stakeholders in the Group</li>
-	<li>Description of the Group</li>
-	<li>Level of Impact on the Project</li>
-	<li>Level the Group is Impacted by Project</li>
-	<li>Current Change Readiness State</li>
-	<li>Desired Change Readiness State</li>
-	<li>Issues, Opportunities and Risks associated with each group</li>
-	<li>Strategies and Actions to address issues, risks and opportunities</li>
-</ul>
-<p> </p>
-<p>A snapshot from the Stakeholder Analysis Register is provided below.</p>
-<p>Please note: Impact is measured by High (H), Medium (M) or Low (L).</p>
-<p> </p>
-<p>State of change readiness is assessed the measures as follows:</p>
-<p>U – Unaware – this group has no information about the project</p>
-<p>R – Resistant – aware of project and resistant to the changes and impacts the project may bring</p>
-<p>N – Neutral – aware of the project and neither supportive nor resistant</p>
-<p>S – Supportive – aware of the project and the potential changes and impacts and is supportive</p>
-<p>L – Leading – aware of the project and actively engaged to ensure the project’s success</p>
-<p> </p>
-<p><strong><em>Stakeholder Analysis Register Snapshot:</em></strong></p>
-
-<table width="781" border="1" align="center">
-		<tr>
-			<td width="87" bgcolor="lightblue">
-				<p><strong>Group Name</strong></p>
-			</td>
-			<td width="80" bgcolor="lightblue">
-				<p><strong># in Group</strong></p>
-			</td>
-			<td width="130" bgcolor="lightblue">
-				<p><strong>Description &amp; Key attributes</strong></p>
-			</td>
-			<td width="46" bgcolor="lightblue">
-				<p><strong>Impact on Project</strong></p>
-			</td>
-			<td width="46" bgcolor="lightblue">
-				<p><strong>Impacted by Project</strong></p>
-			</td>
-			<td width="83" bgcolor="lightblue">
-				<p><strong>Current State</strong></p>
-			</td>
-			<td width="83" bgcolor="lightblue">
-				<p><strong>Desired State</strong></p>
-			</td>
-			<td width="102" bgcolor="lightblue">
-				<p><strong>Issues, Opportunities and Risks</strong></p>
-			</td>
-			<td width="123" bgcolor="lightblue">
-				<p><strong>Mitigation Strategies and Actions</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>Marketing &amp; Sales</p>
-			</td>
-			<td width="80">
-				<p>Indefinite</p>
-			</td>
-			<td width="130">
-				<p>·   Analytics</p>
-				<p>·   Purchase Order</p>
-				<p>·   Forecasting Sales</p>
-				<p>·   Advertisement</p>
-			</td>
-			<td width="46">
-				<p>H</p>
-			</td>
-			<td width="46">
-				<p>H</p>
-			</td>
-			<td width="83">
-				<p>Manual Documenting, Advertising, and Analytics</p>
-			</td>
-			<td width="83">
-				<p>Forecasting and Analytics using Artificial Intelligence</p>
-			</td>
-			<td width="102">
-				<p>Time Consuming, Automation, Risk of Employees resisting to change</p>
-			</td>
-			<td width="123">
-				<p>To Monitor the System in case of Inconsistency with data as well as backup for the system.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>Accounting &amp; Finance</p>
-			</td>
-			<td width="80">
-				<p>Indefinite</p>
-			</td>
-			<td width="130">
-				<p>·   Transaction</p>
-				<p>·   Assets</p>
-				<p>·   Profits</p>
-				<p>·   Budgeting</p>
-			</td>
-			<td width="46">
-				<p>M</p>
-			</td>
-			<td width="46">
-				<p>M</p>
-			</td>
-			<td width="83">
-				<p>Manual Calculations and Transactions</p>
-			</td>
-			<td width="83">
-				<p>Automation of Transaction, calculations, and budgeting</p>
-			</td>
-			<td width="102">
-				<p>Heavy reliant to the System. Better Monitoring of Profits. Risk</p>
-			</td>
-			<td width="123">
-				<p>Data Transparency in Transactions, Education of Employees of Digital Transformation</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>Inventory &amp; Logistics</p>
-			</td>
-			<td width="80">
-				<p>Indefinite</p>
-			</td>
-			<td width="130">
-				<p>·   Item Quality</p>
-				<p>·   Item Stocks</p>
-				<p>·   Item Delivery to Customer</p>
-			</td>
-			<td width="46">
-				<p>M</p>
-			</td>
-			<td width="46">
-				<p>H</p>
-			</td>
-			<td width="83">
-				<p>Faith and Confidence in the Distributor. Waiting for the Go Signal from the Inventory</p>
-			</td>
-			<td width="83">
-				<p>Total Control of the Inventory Status and Faster work function</p>
-			</td>
-			<td width="102">
-				<p>Leads to Fraud, Reliability of Distributors. Risk of generating unnecessary inventory cost.</p>
-			</td>
-			<td width="123">
-				<p>RFID Technology should be Implemented in the Items. Using Analytics and Automation of Transaction the company can predict the Order to reduce the Inventory cost of the company.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>Distributors</p>
-			</td>
-			<td width="80">
-				<p>Indefinite</p>
-			</td>
-			<td width="130">
-				<p>·   Item Purchase</p>
-				<p>·   Item Delivery to Company</p>
-				<p> </p>
-			</td>
-			<td width="46">
-				<p>L</p>
-			</td>
-			<td width="46">
-				<p>M</p>
-			</td>
-			<td width="83">
-				<p>Not Applicable</p>
-			</td>
-			<td width="83">
-				<p>Not Applicable</p>
-			</td>
-			<td width="102">
-				<p>Not Applicable</p>
-			</td>
-			<td width="123">
-				<p>Not Applicable</p>
-			</td>
-		</tr>
-</table>
-
-
-<h2>Stakeholder Engagement</h2>
-
-<table border="1" width="70%" align="center">
-		<tr>
-			<td width="188" bgcolor="lightblue">
-				<p><strong>Stakeholder</strong></p>
-			</td>
-			<td width="88" bgcolor="lightblue">
-				<p><strong>Unaware</strong></p>
-			</td>
-			<td width="94" bgcolor="lightblue">
-				<p><strong>Resistant</strong></p>
-			</td>
-			<td width="88" bgcolor="lightblue">
-				<p><strong>Neutral</strong></p>
-			</td>
-			<td width="97" bgcolor="lightblue">
-				<p><strong>Supportive</strong></p>
-			</td>
-			<td width="85" bgcolor="lightblue">
-				<p><strong>Leading</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p>Marketing &amp; Sales</p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p>D</p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p>Accounting &amp; Finance</p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p>C</p>
-			</td>
-			<td width="97">
-				<p> </p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p>Inventory &amp; Logistics</p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p>D</p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p>Distributors</p>
-			</td>
-			<td width="88">
-				<p>C</p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p> </p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-</table>
-<p><strong>Stakeholder Engagement Assessment Matrix.  </strong>List stakeholders and place a “C” for their current level of engagement and “D” in the column of their desired level of engagement.</p>
-<p> </p>
-
-
 =Scope Management Plan=
 
 
 <h2>Introduction</h2>
-<p>The Scope Management Plan provides the process of gathering the objective requirements, Defining the scope of the project, Verifying the scope of the project, Controlling measures and verifications and the project's work breakdown structure. This plan of documents also pertains to the roles and responsibilities as they required in the project scope. Any project communication which relates to the project's scope should adhere to Scope Management Plan.</p>
-<p>This project is for gathering, analyzing, and designing a new concept to the business which will be used to reduce the current issues in the business such as reducing the cost of the warehouse, transaction or communications, and digital transformation. No programming nor system output to be anticipated for this project.</p>
+<p>The scope management plan is a crucial component of the overall project management approach for the SurveiRams project. It outlines the tools and techniques that will be utilized to effectively document and control the scope of the project, ensuring that it remains within the defined boundaries and aligns with the project objectives. As an agile project, the scope management plan will be developed and executed in accordance with agile methodologies, which emphasize flexibility, collaboration, and iterative progress.</p>
+<p>The project team will work collaboratively with stakeholders, using agile techniques to prioritize and manage scope, identify and manage changes, and ensure that the project remains on track to deliver a successful SurveiRams system that meets the needs of all stakeholders.</p>
+<p>Scope Definition:  The scope of SurveiRams ticketing system will be defined through the following activities:</p>
+
+<p>1.	Project Charter: The project charter will provide a clear definition of the project's objectives, deliverables, stakeholders, and constraints, serving as a foundational document for scope management.</p>
+<p>2.	Product Backlog: The product backlog, a key artifact in agile methodologies, will be utilized to capture and prioritize all the features, functionalities, and requirements of the SurveiRams system. It will serve as a dynamic document that evolves throughout the project, reflecting changing priorities and stakeholder needs.</p>
+<p>3.	User Stories: User stories, a common practice in agile methodologies, will be used to further detail the requirements of the SurveiRams system in a user-centric manner. User stories will capture the "who," "what," and "why" of each requirement, supplying a clear understanding of the desired outcomes.</p>
+<p>4.	Scope statement: The scope statement involves clearly defining the boundaries and extent of the project. The scope statement will outline the specific features, functionalities, and requirements of the ticketing system, as well as any exclusions or limitations that will provide a high-level overview of the project scope.</p>
+<p>5.	Sprint Planning and Review Meetings: Sprint planning and review meetings, integral to agile methodologies, will be conducted to collaboratively define the scope of each sprint and review the completed work against the defined scope. This will ensure that the project team and stakeholders have a shared understanding of the scope at each stage of the project.
+</p>
 <h2>Scope Management Approach</h2>
-<p>The project manager is the sole responsible for the project's scope management. The scope of the project is defined in the Scope statement, work breakdown structure(WBS) and WBS dictionary. The project manager will establish measured project scope and the documentation of it that will based on the project's sponsor and stakeholders vision in the project which includes the requirements, quality checklist and work performance measurement. Proposed scope may change over time and initiated by the project manager, stakeholder or any member of the project team. All the change request must be submitted and discuss by the project team. The project team requires to consult the changes to the stakeholder to measure the effectivity of the change and accept the changes to the project. Upon the approval of the changes, the project team requires to also update all the documents that impacted the changes and communicate the scope change to all stakeholders. Based on the information gathered and inputted by the project manager and stakeholders, the project sponsor is the responsible for the final acceptance of the project deliverables and the project scope.</p>
+<p>Mr. Alexis Martin, the designated Project Manager, will work closely with Mr. Jojo Castillo, the project sponsor, and other key stakeholders to define and effectively manage the scope of the project, as well as oversee the fulfillment of all project requirements and ensure that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders, with successful completion of the project dependent on the acceptance of all deliverables and resolution of any outstanding issues.</p>
+<p>The scope of the SurveiRams project will be defined using various documents such as a Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and a detailed Statement of Work (SOW), with regular reviews conducted throughout the project to ensure alignment with objectives and proper documentation of any changes. To measure and verify the scope, quality checklists will be developed, a scope baseline will be established, and work performance measurements will be used to track any progress. The Project Manager will submit a formal request for scope change, which the project sponsor will approve after evaluating it for alignment with the project goals, impacts on schedule and budget, and contribution to project success, ensuring only approved changes are made.</p>
+
 <h2>Roles and Responsibilities </h2>
 <p>The project manager, sponsor and the project team will play an important role in analyzation and documentation the scope of the project. As such, the project sponsor, manager and the team must be assigned to their respective roles and knows the responsibilities to ensure that the person assigned is performing the work better than the expected throughout the entire duration of the project.</p>
 <table border="1" width="70%" align="center">
@@ -1080,51 +587,26 @@ user, which is based on what office or department they are from.</p>
 		</tr>
 		<tr>
 			<td>
-				<p><em> Project Client </em></p>
+				<p><em> Project Manager  </em></p>
 			</td>
 			<td>
-				<p><em> Approves Scope Management Plan. </em></p>
-				<p><em> Provides high-level scope definition (Project Charter). </em></p>
-				<p><em> Reviews escalated scope issues and provide direction for resolution. </em></p>
-				<p><em> Approves major scope change requests. </em></p>
-				<p><em> Overall decision-making responsibility for Scope Management activities. </em></p>
+				<p><em> The project manager oversees specifying and establishing the scope of the project, as well as supervising and approving adjustments. </em></p>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<p><em> Project Manager </em></p>
+				<p><em> Product Owner </em></p>
 			</td>
 			<td>
-				<p><em> Overall responsibility for scope management. </em></p>
-				<p><em> Oversees the development of the Scope Management Plan. </em></p>
-				<p><em> Oversees the scope change management process. </em></p>
-				<p><em> Approves scope change requests within his/her authority. </em></p>
-				<p><em> Escalates scope and change issues. </em></p>
-				<p><em> Ensures that scope changes are incorporated into appropriate project documents </em></p>
+				<p><em> The product owner oversees raising stakeholder demands and priorities and making sure the project adds value to the company. </em></p>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<p><em> Project Team Members and Subject Matter Experts (SMEs) </em></p>
+				<p><em> Project Team</em></p>
 			</td>
 			<td>
-				<p><em> Help develop the project scope statement. </em></p>
-				<p><em> Submit scope change requests. </em></p>
-				<p><em> Review Scope Change requests when assigned. </em></p>
-				<p><em> Provide feedback as and when required. </em></p>
-				<p><em> Participate in team-level scope change reviews. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Independent Verification and Validation (IV and V) </em></p>
-				<p><em> Project Adviser </em></p>
-			</td>
-			<td>
-				<p><em> Provides an ongoing independent review and analysis of project scope management practices. </em></p>
-				<p><em> Monitors scope changes and provide feedback. </em></p>
-				<p><em> Approves major scope change requests. </em></p>
-				<p><em> Approval of all documentation throughout the project. </em></p>
+				<p><em> The project team is in charge of confirming the project's scope and, if necessary, submitting change requests. </em></p>
 			</td>
 		</tr>
 		<tr>
@@ -1132,24 +614,47 @@ user, which is based on what office or department they are from.</p>
 				<p><em> Stakeholders </em></p>
 			</td>
 			<td>
-				<p><em> Key providers of requirements, scope, and the recipients of project deliverables associated with the project benefits. Most of the project deliverables will based on their operations in the business and enhancing their business operations and environment. </em></p>
+				<p><em> The stakeholders oversee providing feedback on the needs and scope of the project and authorizing any necessary changes.  </em></p>
 			</td>
 		</tr>
 </table>
+
 <h2> Scope Definition </h2>
-<p>The extension for the project was characterized through far-reaching comprehensive analysis, requirements, and gathering process. Initial, a meeting was held to gather the information regarding in the organization's business operations and status then an intensive examination was performed on the organization's business process considering representative. From this data, the venture group built up the task necessities documentation, the prerequisites administration design, and the necessities attributable network for what the new programming application must achieve but necessarily building it.</p>
-<p>The undertaking portrayal and expectations were created considering the prerequisites gathering procedure and contribution from topic specialists in programming and business applications. This procedure of judgment gave criticism on the best approaches to meet the first prerequisites of giving another product stage from which the organization can enhance its cost-benefit following and inside money related procedures.</p>
+<p>The scope definition process for the project "SurveiRams” was developed based on the requirements identified during the requirements definition process. The following documents were used as references: Requirements Documentation, Requirements Management Plan and a Requirements Traceability Matrix.</p>
+<p>To define the project's scope, we used the following tools and techniques: feedback analysis, product analysis, and facilitated interviews. The team utilized adviser judgment to assess the feasibility of the project and identify potential risks. Product analysis was conducted to determine the features and functions required by the new system. Facilitated interviews were also conducted with stakeholders to gather their inputs and ensure their requirements were considered.</p>
+<p>Based on the analysis and input gathered, the following deliverables were defined as part of the project scope:
+SurveiRams should include the following features:</p>
+<p><em> Ticketing Database </em></p>
+<p><em> Performance Evaluation</em></p>
+<p><em> Reporting and Analytics </em></p>
+<p><em> User Training and Support </em></p>
+<p>The scope definition process was tied back to the requirements definition process, ensuring that the project scope met all the identified requirements. Additionally, the Project Charter and Preliminary Project Scope Statement were also referred to during the scope definition process.</p>
+
 <h2> Project Scope Statement </h2>
 <ul>
-	<li>The Just-In-Time Website overall includes the design, functionality, and testing of the project for an E-Commerce Website. Additionality, will automate the transaction between the Customer to Distributor, and Distributor to Logistics. the payment gateway will be required to be implemented for the transaction to materialized into data entry while all the operations is processing in the background the effects of the automation of the transaction leads to reducing of inventory cost of the company.</li>
-	<li>The Just-In-Time Website will also include Analytics for the Marketing and Sales of the company to provide better business decisions in the company. Due to the time constraint of three months of planning, analysis, and development the project is forced to reduce the amount of work per sprint.</li>
+	<li>Product Scope Description</li>
+<ol>1.	Centralize where guards can log their reports in their patrols through a mobile application</ol>
+<ol>2.	Eliminate the manual processes for documenting </ol>
+<ol>3.	Provide analytics using the data collected in the application to help in decision-making
+</ol>
+	<li>Product Acceptance Criteria</li>
+<p>The project will be accepted as complete if:</p>
+<ol>1.	The user can create, read, and update reports and logs in the application.</ol>
+<ol>2.	An administrator can access an analytics dashboard with the following information:</pl>
+<ul>-	How many resolved and unresolved incident reports there are </ul>
+<ul>-	The department name and floor number that has the most incidents </ul>
+<ul>-	What incident occurred the most </ul>
+<ul>-	How many incidents happened per floor </ul>
+<ul>-	How many incidents happened per department </ul>
+
 	<li>The project team and client agreed upon on the requirements of the website to be at the prototype stage with the agreed modules implement to the website which are the automation and the sales report analytics as well as the common functionality of an E-Commerce Website which are Shopping Cart, User Authentication, and Order Item. Better Designs can be implemented in other iteration of the project.</li>
 	<li>This project does not include ongoing operations and maintenance cost of the website since the development team can benefit from the student development tools sponsored by their respective colleges.</li>
 	<li>Bank-to-Bank method of payment gateway the project team and client agreed to avoid the work since the module requires the project team to apply credit cards transaction.</li>
 	<li>The project is not to exceed 180 days in duration, on the days of development will only use development tools, Environment, and equipment available to us. Assumptions for this project are that support will be provided by the project client, adviser, and all department managers and that information, data, as well as adequate resources are available for the successful completion of this project.</li>
 </ul>
 <h2> Work Breakdown Structure </h2>
-<p>For the succession of the project the management are required to work together but to be effective the project must work subdivided into individual work bundles not to surpass 20 hours of work. This will enable the Project Manager to more successfully deal with the venture's degree as the undertaking group takes a shot at the assignments important for venture culmination. The undertaking is separated into three stages: the outline stage, the Analyzing stage, and the Designing stage. Every one of these stages is then subdivided additionally down to work bundles that are assessed to require close to 20 hours of work and no under 2 hours of work.</p>
+
+
 <h2> Scope Verification </h2>
 <p>
 The project team will use various techniques for scope verification to guarantee that the SurveiRams System project deliverables satisfy the original scope. These methods include:
@@ -1193,970 +698,146 @@ Overall, it is critical that the project team maintains open communication and c
 =Cost Management Plan=
 
 <h2>Introduction</h2>
-<p>            The person who will be fully responsible for managing the costs is the Project Manager since he is in charge of the project. During the duration of the project a meeting will be held every two weeks wherein the team will meet the client and present and evaluate the project’s cost performance for the previous weeks. Earned value will be used in measuring the performance of the project. The Project Manager will also be responsible for accounting for cost deviations and presenting it to the Client with options to bring the project back on track or budget. The Client will have the power to adjust the project to try to bring it back within the budget.</p>
+<p>The purpose of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are managed efficiently throughout its entire duration. The plan outlines the techniques and guidelines that will be employed to gauge, communicate, and regulate project expenses.</p>
+<p>Cost management responsibilities:</p>
+<p>The Project Manager will be responsible for managing the project's expenses and act as the contact for any cost-related concerns. The Project Leader, on the other hand, will be responsible for supervising project spending and making sure that it stays within the authorized budget.</p>
+
+<p>Cost change approval:</p>
+<p>Authorization from the Project Manager is required prior to implementing any changes in cost. In case the cost modification exceeds 10% of the total project budget, approval from the Project Sponsor must be obtained before executing it.</p>
+
+<p>Cost measurement and reporting:</p>
+<p>The project expenses will be evaluated and recorded on a monthly basis, using both the cost performance index (CPI) and the schedule performance index (SPI). Monthly expense reports will be submitted to the Project Sponsor.</p>
+
+<p>Budget format and standards:</p>
+<p>The budget will be presented in a simplified and concise format by utilizing a spreadsheet program like Microsoft Excel. The budget will be divided into distinct line items, with each item having a detailed cost estimate. It will be updated once there are any changes, and any changes made will be indicated. </p>
+
+<p>Overall, the objective of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are effectively monitored and controlled, allowing the project to be completed within the assigned budget. This approach will ensure the project's successful and timely completion.</p>
+
 <h2>Cost Management Approach</h2>
-<p>            The cost for this project will be managed at a certain level in the Work Breakdown Structure (WBS). At this level Control Accounts (CA) will be created to track costs. The financial performance of the project will be determined and guided by Earned Value calculations for the CA’s.</p>
-<p>            The status of the cost to cautionary will be changed by the cost variances of +/- 0.1 in the cost and schedule performances indexes; also, those values will be changed to yellow in the project status reports. The status of the cost to an alert stage will be changed by cost variances of +/- 0.2 in the cost and schedule performance indexes; those values will be changed to red in the project status reports. Having those values changed to red will require the Project Manager to do some corrective action in order to bring the cost and/or schedule performance indexes below the alert level, but the corrective actions will require a project change request and must be approved by the Project Sponsor before it can become part of the project.     </p>
+<p>The cost management approach for SurveiRams will be based on the following principles:</p>
+
+<li>Clear definition of costs</li>
+<p>The project team will define all the costs associated with SurveiRams. Hardware and software costs, development costs, maintenance costs, testing and quality assurance costs, and any other expenses related to the project.</p>
+
+<li>Budget development and tracking</li>
+<p>An effective budget tracking system will be implemented to regularly monitor actual spending against the allocated budget and identify areas for improvement.</p>
+
+<li>Cost estimates</li>
+<p>The project team will utilize diverse methods of cost estimation to guarantee that the allocated budget is precise and feasible.</p>
+
+<li>Cost variance analysis</li>
+<p>The project team will analyze and distinguish between the actual cost in the budget and predicted cost estimates to pinpoint reasons for any discrepancies, then initiate remedial measures to align expenses accordingly.</p>
+
+<li>Cost management roles and responsibilities</li>
+<p>The project team members will define and establish clear roles and responsibilities for cost management.</p>
+
+<li>Approval process for changes</li>
+<p>Changes to projects or budgets will be approved formally through an established and implemented procedure.</p>
+
+<li>Reporting and communication</li>
+<p>Regular cost reports will be provided and distributed to the project team, project sponsor, and management to inform every one of the project's financial situations.</p>
+<p>By implementing a clear cost management approach in SurveiRams, the project team can help ensure that the project stays on budget and meets financial objectives. This can help to minimize the risk of cost overruns and ensure that the project is completed successfully.</p>
 
 <h2>Measuring Project Costs</h2>
-<p>            The Earned Value Management will be used in evaluating the performance of the Project. The following Earned Value metrics that will be used to evaluate the project’s cost performance are as follows:</p>
-<ul>
-	<li>Schedule Variance (SV)</li>
-	<li>Cost Variance (CV)</li>
-	<li>Schedule Performance Index (SPI)</li>
-	<li>Cost Performance Index (CPI)</li>
-</ul>
-<p>If the Schedule Performance Index or Cost Performance Index has a variance of between 0.1 and 0.2 the Project Manager must report the reason for the exception. If the SPI or CPI has a variance of greater than 0.2 the Project Manager must report the reason for the exception and provide management a detailed corrective plan to bring the projects performance back to acceptable levels.</p>
-<table width="804" border="1" align="center">
-		<tr>
-			<td width="258" bgcolor="lightblue">
-				<p>Performance Measure</p>
-			</td>
-			<td width="312" bgcolor="lightblue">
-				<p>Acceptance Level</p>
-			</td>
-			<td width="234" bgcolor="lightblue">
-				<p>Critical Level</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="258">
-				<p>Schedule Performance Index (SPI)</p>
-			</td>
-			<td width="312">
-				<p>Between 0.9 and 0.8 or Between 1.1 and 1.2</p>
-			</td>
-			<td width="234">
-				<p>Less Than 0.8 or Greater than 1.2</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="258">
-				<p>Cost Performance Index (CPI)</p>
-			</td>
-			<td width="312">
-				<p>Between 0.9 and 0.8 or Between 1.1 and 1.2</p>
-			</td>
-			<td width="234">
-				<p>Less Than 0.8 or Greater than 1.2</p>
-			</td>
-		</tr>
-</table>
+<p>            This section defines how the project’s costs will be measured.  The PMBOK focuses on Earned Value Management for measuring and controlling a project’s costs.  Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management.
+
+In this section you should detail how you will measure the project costs.  What Earned Value measurements will be captured and reported upon.  Will you use any tools, such as project management software, to assist in capturing Earned Value metrics?  How will you forecast future project costs?  Will you review cost performance over time, across work packages or schedule activities?
+
+Our example in this section measures four Earned Value measurements; Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI) and Cost Performance Index (CPI).  For most typical projects these four measurements can provide enough insight for effective management without overburdening the Project Manager with Earned Value calculations and measurements.
+
+Schedule Variance (SV) is a measurement of the schedule performance for a project.  It’s calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV).  Since EV is the actual value earned in the project and the PV is the value our project plan says we should have earned at this point, when we subtract what we planned from the actual we have a good measurement which tells us if we are ahead or behind the baseline schedule according to our project plan.  If SV is zero, then the project is perfectly on schedule.  If SV is greater than zero, the project is earning more value than planned thus it’s ahead of schedule.  If SV is less than zero, the project is earning less value than planned thus it’s behind schedule.
+
+Cost Variance (CV) is a measurement of the budget performance for a project.  CV is calculated by subtracting Actual Costs (AC) from Earned Value (EV).  As we already know, EV is the actual value earned in the project.  AC is the actual costs incurred to date, thus when we subtract what our actual costs from the EV we have a good measurement which tells us if we are above or below budget.  If CV is zero, then the project is perfectly on budget.  If CV is greater than zero, the project is earning more value than planned thus it’s under budget.  If CV is less than zero, the project is earning less value than planned thus it’s over budget.
+
+The Schedule Performance Index (SPI) measures the progress achieved against that which was planned.  SPI is calculated as EV/PV.  If EV is equal to PV the value of the SPI is 1.  If EV is less than the PV then the value is less than 1, which means the project is behind schedule.  If EV is greater than the PV the value of the SPI is greater than one, which means the project is ahead of schedule.  A well performing project should have its SPI as close to 1 as possible, or maybe even a little under 1.
+
+Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed.  CPI is calculated as EV/AC. If CPI is equal to 1 the project is perfectly on budget.  If the CPI is greater than 1 the project is under budget, if it’s less than 1 the project is over budget.
+</p>
+
 <h2>Reporting Format</h2>
-<p> </p>
-<p>            Reporting for cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report.</p>
-<p> </p>
+<p>Reporting for cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p>
+
 <h2>Cost Variance Response Process</h2>
-<p> </p>
-<p>            The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions.</p>
+<p>The Control Thresholds for this project is a CPI or SPI of 1, as stated above in the Measuring Project Cost.
+
+If the Project Sponsor selects a corrective action option,  
+The corrective actions may include:
+</p>
+<li>Reducing the scope of the project </li>
+<li>Reducing the quality of the project deliverables </li>
+<li>Increasing the budget for the project </li>
+<li>Increasing productivity or efficiency of project team members </li>
+<p> The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget.
+If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action.
+</p>
+
 <h2>Cost Change Control Process</h2>
-<p> </p>
-<p>            The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor.</p>
-<p><strong>Project Budget</strong></p>
-<p>            The budget for this project is detailed below.  Costs for this project are presented in various categories...</p>
-<p> </p>
-<table width="744" border="1" align="center">
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>INITIATION</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
-				<p><strong>Salary * No. of Days in January 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 23</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 37,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 18,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Business Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 160.5</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 284.00 * 14</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 17, 976.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 72, 976.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744">
-				<p><strong>PLANNING</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198">
-				<p><strong>Salary * No. of Days in February 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 32, 174.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 17</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 15,300.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Financial Consultant</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 125.00</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 000.00 * 12</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 12, 000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Business Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 160.5</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 284.00 * 12</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 15, 408.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 74, 882.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>EXECUTION</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
-				<p><strong>Salary * No. of Days in March to August 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 132</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 212, 348.40</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 57</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 51, 300.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Digital Designer</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 104.73</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 837.86 * 80</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 67, 028.80</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>System Developer</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 178.84</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 430.72 * 132</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>2</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 377, 710.08</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Quality Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 154.64</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 237.12 * 60</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 74, 227.20</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total</strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 782, 614.48</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>CONTROL </strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
-				<p><strong>Salary * No. of Days in Septemer 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 32, 174.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 17</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 15,300.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Quality Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 154.64</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 237.12 * 12</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 14, 845.44</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>System Developer (Head)</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 178.84</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 430.72 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 28, 614.40</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 90, 934.64</p>
-			</td>
-		</tr>
-		<tr style="height: 15px;">
-			<td style="height: 15px;" width="180"> </td>
-			<td style="height: 15px;" width="96"> </td>
-			<td style="height: 15px;" width="198"> </td>
-			<td style="height: 15px;" width="108"> </td>
-			<td style="height: 15px;" width="162"> </td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>CLOSEOUT</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
-				<p><strong>Salary * No. of Days in October 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 23</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 37,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 18,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 55, 000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱1,076,409.28</p>
-			</td>
-		</tr>
-</table>
-<p> </p>
-<p><strong>PERSONNEL</strong></p>
-<table width="630" border="1" align="center">
-		<tr>
-			<td width="125" bgcolor="lightblue">
-				<p><strong>Staff</strong></p>
-			</td>
-			<td width="125" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td width="125" bgcolor="lightblue">
-				<p><strong>8hours * Working Days</strong></p>
-			</td>
-			<td width="125" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td width="131" bgcolor="lightblue">
-				<p><strong>Cost</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Project Manager</p>
-			</td>
-			<td width="125">
-				<p>₱ 201.09</p>
-			</td>
-			<td width="125">
-				<p>218</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱350,700.96</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Document Analyst</p>
-			</td>
-			<td width="125">
-				<p>₱ 112.50</p>
-			</td>
-			<td width="125">
-				<p>131</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱117,900.00</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>System Developer</p>
-			</td>
-			<td width="125">
-				<p>₱ 178.84</p>
-				<p> </p>
-			</td>
-			<td width="125">
-				<p>132</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱188,855.04</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>System Developer</p>
-				<p><strong>(HEAD)</strong></p>
-			</td>
-			<td width="125">
-				<p>₱ 178.84</p>
-				<p> </p>
-			</td>
-			<td width="125">
-				<p>152</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱217,469.44</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Digital Designer</p>
-			</td>
-			<td width="125">
-				<p>₱ 104.73</p>
-			</td>
-			<td width="125">
-				<p>80</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱67,027.20</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Business Analyst</p>
-			</td>
-			<td width="125">
-				<p>₱160.50</p>
-				<p> </p>
-			</td>
-			<td width="125">
-				<p>26</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱33,384.00</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Financial Analyst</p>
-			</td>
-			<td width="125">
-				<p>₱ 125.00</p>
-			</td>
-			<td width="125">
-				<p>12</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱12,000.00</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Quality Analyst</p>
-			</td>
-			<td width="125">
-				<p>₱ 154.64</p>
-			</td>
-			<td width="125">
-				<p>72</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱89,072.64</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p><strong>Sub-total</strong></p>
-			</td>
-			<td width="125">
-				<p>₱<strong> 1037.30</strong></p>
-			</td>
-			<td width="125">
-				<p><strong>691</strong></p>
-			</td>
-			<td width="125">
-				<p><strong>8</strong></p>
-			</td>
-			<td width="131">
-				<p><strong>₱</strong><strong>1,076,409.28</strong></p>
-			</td>
-		</tr>
-</table>
-<p> </p>
-<p><strong>Software Cost Management</strong></p>
-<table width="629" border="1" align="center">
-		<tr>
-			<td width="314" bgcolor="lightblue">
-				<p><strong>Item</strong></p>
-			</td>
-			<td width="314" bgcolor="lightblue">
-				<p><strong>Cost</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Data Center</p>
-			</td>
-			<td width="314">
-				<p>₱2,879.07/yr.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Direct Software</p>
-			</td>
-			<td width="314">
-				<p>₱ 2,662.00/yr.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Web Service</p>
-			</td>
-			<td width="314">
-				<p>₱ 768.60/mo..</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Subscription of Host Server w/ Domain name</p>
-			</td>
-			<td width="314">
-				<p>₱ 1,699.00/yr.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Payment Gateway</p>
-			</td>
-			<td width="314">
-				<p>₱0.00</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Office 365 Business</p>
-			</td>
-			<td width="314">
-				<p>₱ 468.75/mo.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p><strong>Sub-Total</strong></p>
-			</td>
-			<td width="314">
-				<p><strong>₱8477.42</strong></p>
-			</td>
-		</tr>
-</table>
-<p><strong>OVERALL TOTAL</strong></p>
-<table width="624" border="1" align="center">
-		<tr>
-			<td width="312" bgcolor="lightblue">
-				<p><strong>Category</strong></p>
-			</td>
-			<td width="312" bgcolor="lightblue">
-				<p><strong>Total</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="312">
-				<p>Personnel</p>
-			</td>
-			<td width="312">
-				<p>₱1,076,409.28</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="312">
-				<p>Software</p>
-			</td>
-			<td width="312">
-				<p>₱8477.42</p>
-				<p><strong> </strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="312">
-				<p><strong>Total</strong></p>
-			</td>
-			<td width="312">
-				<p><strong>₱</strong><strong>1,084,886.70</strong></p>
-			</td>
-		</tr>
-</table>
+<p> The cost change control process will include the following steps: </p>
+
+<li>Identification of Cost Change</li>
+<p>The Project Manager or any team member who identifies and proposes a potential cost change must document and bring it to the attention of the Project Sponsor through a cost change request form.</p>
+
+<li>Analysis of the Cost Change</li>
+<p>The project team will analyze the cost change to determine its impact on the project schedule, budget, and overall performance. </p>
+
+<li>Approval of the Cost Change</li>
+<p>The Project Manager will present the analysis of the cost change to the Project Sponsor and other relevant stakeholders. The Project Sponsor will then approve or reject the cost change based on the analysis provided.</p>
+
+<li>Implementation of the Cost Change</li>
+<p>Once the cost change is approved, the Project Manager will update the project cost baseline and implement the necessary cost changes to the project plan in accordance with the project schedule and budget.</p>
+
+<li>Tracking and Monitoring of the Cost Change</li>
+<p>The Project Manager will track and monitor the cost change to ensure that it is implemented effectively and efficiently. The project team will regularly review the progress of the cost change and make adjustments as necessary.</p>
+
+<li>Reporting on Cost Change</li>
+<p>The Project Manager will report on the cost change to the Project Sponsor and other stakeholders. The report will detail the factors contributing to the cost change, its implications for the project timeline, budget, and quality of work, as well as the progress achieved in managing the situation.</p>
+
+<p>The cost change control process is a crucial aspect of managing the SurveiRams ticketing system project's financial aspects. By analyzing and approving cost changes, the project can ensure that it remains within the allocated budget and avoids any unexpected financial challenges. Regular reporting on cost changes will allow the project manager to keep the project sponsor and other key stakeholders informed of any financial updates and ensure transparency throughout the project's lifecycle. By adhering to this cost change control process, the SurveiRams ticketing system project can achieve its objectives and deliver quality results within the specified budget.
+</p>
+
 
 =Schedule Management Plan=
 
 <h2>Introduction</h2>
-<p>            The Schedule Management Plan is the process of structuring the strategies, systems, and documentation for planning, developing, overseeing, executing, and controlling the project’s schedule. The importance of this process that it provides instruction and knowledge on how the project’s schedule will be controlled throughout the whole project. The schedule management plan includes identifying methodologies and techniques, analyzing, controlling, limitations, prioritizing and distributing all time related changes in the schedule. </p>
+<p>Managing a project’s schedule is one of the most important things to do. Discussed in this document are Schedule Management Approach, Schedule Control, Schedule Changes and Thresholds, and Scope Change. These must be elaborated as schedules are not always set in stone. There are unforeseen risks that might occur that could offset a project’s schedule.</p>
+
 <h2>Schedule Management Approach</h2>
-<p>            In addition to Project Charter for the basis of the project schedule, the scope management plan is also a factor to be added as additional inputs. The inputs are evaluated then defined into activities that will determine as the module of the project which must be performed for the succession of the project. The activities will be arranged into order as work packages and assign each activity relationship between project activities. Each of the activities have duration which the project team requires to estimate and calculate the number of work periods required to complete the activities as whole package. To create the project schedule, the team will be using Microsoft Project on creating the Gantt Chart of the project schedule. To oversee the project’s growth estimating the assign resources to the work packages in order for the project to be complete the schedule development.</p>
-<p>Once an initial schedule has been created, the project team and the resources assigned to it will work on it cautiously assigned to project work packages in order to avoid the project’s schedule to be in critical path. The project team and assets must consent to the proposed work package task, duration of the activities, and the project schedule. Once this accomplish the project adviser will check then authorized the schedule after that then it will be baselined.</p>
-<p>The following be assigned as points of reference or milestones for the project schedule:</p>
-<table border="1" width="70%" align="center">
-		<tr>
-			<td width="366" bgcolor="lightblue">
-				<p><strong>Milestone</strong></p>
-			</td>
-			<td width="177" bgcolor="lightblue">
-				<p><strong>Timeline</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>·         Project Charter</p>
-			</td>
-			<td width="177">
-				<p>1<sup>st </sup>month</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>·         Project Approval</p>
-			</td>
-			<td width="177">
-				<p>2<sup>nd </sup>month</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>·         Developing the Website</p>
-			</td>
-			<td width="177">
-				<p>3<sup>rd </sup>to 8<sup>th</sup> month</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>·         Complete Test Plan</p>
-			</td>
-			<td width="177">
-				<p>9<sup>th</sup> month</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>·         Finalizing the Document</p>
-			</td>
-			<td width="177">
-				<p>10<sup>th</sup> month</p>
-			</td>
-		</tr>
-</table>
-<p>Once the schedule is baselined as a major aspect of progressive elaboration, defining activities later may uncover new extension that was not envisaged previously. This ought to be taken care of through formal change control. Thus, change ask for is added to the is procedure as additional outputs. At the point when such changes are joined the plans and baselines will experience updates. The same are reflected as additional outputs. The development approach will altogether impact planning approach, evaluating methods, devices and how the schedule is managed and controlled.</p>
-<p>Roles and responsibilities for schedule development are as follows:</p>
+<p> Once a preliminary schedule has been produced, the project team will regularly review and update the schedule to ensure that the project stays on track. In addition to the project schedule, Earned Value Measures will be used to monitor and compare budgeted or scheduled progress against actual progress.</p>
 
-<table width="673" border="1" align="center">
-		<tr>
-			<td width="156" bgcolor="lightblue">
-				<p><strong>Role</strong></p>
-			</td>
-			<td width="517" bgcolor="lightblue">
-				<p><strong>Responsibility</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p><em>Project Client</em></p>
-			</td>
-			<td width="517">
-				<p>·         <em>Approves Scope Management Plan. </em></p>
-				<p>·         <em>Provides high-level scope definition (Project Charter).</em></p>
-				<p>·         <em>Reviews escalated scope issues and provide direction for resolution.</em></p>
-				<p>·         <em>Approves major scope change requests.</em></p>
-				<p>·         <em>Overall decision-making responsibility for Scope Management activities.</em></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p><em>Project Manager</em></p>
-			</td>
-			<td width="517">
-				<p>·         <em>Overall responsibility for scope management. </em></p>
-				<p>·         <em>Oversees the development of the Scope Management Plan.</em></p>
-				<p>·         <em>Oversees the scope change management process.</em></p>
-				<p>·         <em>Approves scope change requests within his/her authority.</em></p>
-				<p>·         <em>Escalates scope and change issues.</em></p>
-				<p>·         <em>Ensures that scope changes are incorporated into appropriate project documents</em></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p><em>Project Team Members and Subject Matter Experts (SMEs)</em></p>
-			</td>
-			<td width="517">
-				<p>·         <em>Help develop the project scope statement.</em></p>
-				<p>·         <em>Submit scope change requests.</em></p>
-				<p>·         <em>Review Scope Change requests when assigned.</em></p>
-				<p>·         <em>Provide feedback as and when required.</em></p>
-				<p>·         <em>Participate in team-level scope change reviews.</em></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p><em>Independent Verification and Validation (IV&amp;V)</em></p>
-				<p><em>Project Adviser</em></p>
-			</td>
-			<td width="517">
-				<p>·         <em>Provides an ongoing independent review and analysis of project scope management practices.</em></p>
-				<p>·         <em>Monitors scope changes and provide feedback.</em></p>
-				<p>·         <em>Approves major scope change requests.</em></p>
-				<p>·         <em>Approval of all documentation throughout the project.</em></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p>Stakeholders</p>
-			</td>
-			<td width="517">
-				<p>·         <em>Key providers of requirements, scope, and the recipients of project deliverables associated with the project benefits. Most of the project deliverables will based on their operations in the business and enhancing their business operations and environment. </em></p>
-			</td>
-		</tr>
-</table>
-<p> </p>
+<li>- The team will also utilize project management software to facilitate task tracking and ensure that deadlines are met. </li>
 
+<li>- The project manager will be responsible for monitoring the progress of the project against the schedule, identifying potential delays, and taking corrective action where necessary.  </li>
+
+<li>- The team will also hold regular status meetings to discuss progress and identify any issues that need to be addressed.  </li>
+
+<li>- The project manager will provide regular status reports to stakeholders, including the project sponsor, to keep them informed of the project's progress.  </li>
+
+ 
 <h2>Schedule Control</h2>
-<p>            In order for the project team to control the schedule throughout of the lifetime of the project, the project schedule will be monitored, reviewed and revised when necessary whether a new or old information is added, deleted or updated. The project team members who accomplished the task will also be presenting the completion percentages that will be discuss to the project team.</p>
-<p>            The project manager is responsible in managing schedule updates, meetings, and report as well as identifying the tasks that are scheduled for necessary modifications. Suggesting a schedule change requests and informing project schedule status to the stakeholder are also project manager's responsibilities.</p>
-<p>            The project team is required in participating for the scheduled updates and meetings of the project. The project team are required to collaborate to any changes of the schedule from start-to-finish dates to the project manager and project adviser; and participating in schedule variance resolution as needed. The project manager will keep the project client updated of the project schedule status and the project client will review/approve any schedule request submitted by the project manager.</p>
+<p>  Frequency of Updates and Reviews:</p>
+<li> The project schedule will be updated on a weekly basis by the project manager. </li> 
+<li> A schedule review meeting will be held every week to review the progress of the project against the schedule. </li> 
+<li> Any changes to the schedule will be communicated to the project team and stakeholders within 24 hours of being made. </li> 
+
+<p>Roles and Responsibilities</p>
+<li> The project manager is responsible for maintaining and updating the project schedule, as well as communicating any changes to the team and stakeholders. </li> 
+<li> The project team is responsible for providing accurate and timely information to the project manager to help ensure the schedule is up-to-date and on track. </li> 
+<li> Stakeholders are responsible for reviewing the project schedule and providing feedback or concerns to the project manager in a timely manner. </li> 
+
+<p> Communicating Schedule and Progress: </p>
+<li> The project manager will communicate the project schedule and progress to the project team and stakeholders on a regular basis. </li> 
+<li> Progress reports will be provided weekly to stakeholders, highlighting any major accomplishments or issues that may impact the project schedule. </li> 
+<li> The project manager will also provide a monthly schedule status report to stakeholders, which will include an updated schedule and any changes made during the month. </li> 
+<p>In conclusion, effective schedule control is critical to the success of the SurveiRams project. By establishing clear roles and responsibilities and maintaining open communication with the project team and stakeholders, the project manager can ensure that the project stays on schedule and within budget.</p>
+
 <h2>Schedule Changes and Thresholds</h2>
-<p>            When the project schedule is created by the project team, it is necessary that the project sponsor sets a limit to organize the schedule parameters wherein the project is anticipated to be finished or operational, this is important because it is necessary to align the project client visions and expectations to the actual project. One of the factors that could affect the changes in schedule is poor schedule management which will require an extension or change of project schedule. If there are any circumstances that may possibly affect the schedule which exceeds the limits set by the project sponsor, the project manager should submit a schedule change request and it should be approved by the project sponsor before the schedule change is made.</p>
-<p>            The project manager will set a meeting with the project team to analyze and assess the change if any of the project team member concluded that an adjustment to the schedule is essential and an adjustment to the schedule is crucial to the succession of the project plan, the project manager, project team, project adviser, and the client must have a scheduled assessment meeting regarding the schedule adjustments. The project manager and the project team must decide which tasks will be affected by the potential change. A potential change and any alternative solutions activities must have materialized to see how they would affect the scope, schedule, and resources. After the analysis is completed, the project manager must resolve if any change will surpass the original schedule as planned or will go according to the schedule, then a schedule change request must be submitted.</p>
-<p>Submittal of a schedule change request to the project stakeholder for approval is required if the following conditions is true:</p>
-<ul>
-	<li>The recommended change is reducing the duration or deliverables of an individual Sprint Backlog in developing phase in the project, or increasing the duration of individual Sprint Backlog by 10% or more, to clarify adding it to the duration not extending the work over all duration.</li>
-	<li>Changes in the scope statement shall be considered to prevent inconsistencies in the documentation phase of the project. The project team must compile all the inconsistencies in the document before increasing the work packages by 5% or more to update the changes in all of documentation.</li>
-	<li>Another approach to the change is either to reduce the duration of the overall project schedule by 10% or more, or increase the duration of the overall project schedule by 2% or more.</li>
-</ul>
-<p>            Any change request that do not comply meet these thresholds are still viable to submission to the project manager for approval. Once the change request has been reviewed and analyze by the project manager consulting first with the project adviser is recommended then discussing it with the project client is a must. After approving the change request, the project manager is responsible of adjusting the schedule and updating all the change and effects to the project team and client. The project manager must also ensure that all change requests are archived in the project records repository.</p>
+<p> Schedule changes and thresholds are critical elements of project management. It is essential to have a defined process in place to ensure that any schedule changes are well-documented and approved by the appropriate project stakeholders. Before making any changes to the schedule, the project team must complete the "Schedule Change" form. This form must include the proposed changes, justification for the changes, and the potential impact on the project's timeline, budget, and resources. The project sponsor must approve the schedule change request, and the updated schedule must be communicated to all relevant stakeholders. By following this process, the project team can ensure that all schedule changes are transparent, well-documented, and aligned with the project's goals and objectives.</p>
+<p> The project manager is responsible for submitting a "Schedule Change" form to the project sponsor for approval before making any changes to the project schedule. Once approved, the project manager will update the schedule and communicate the changes and their impact to the project team and stakeholders. All change requests will be archived in the project records repository.
+</p>
+
 <h2>Scope Change</h2>
-<p>            If an issue is arising in the project that needs a drastic change in the project scope requesting a change is the best course action. The process for recommending and estimating the change to the scope of the project are cautiously must executed. Any project team member, or project client can request changes to the project scope. All change request must be submitted to the project advisor in the form of a project change request document. The project advisor will then analyze the suggested change to the scope of the project. The project advisor will then either reject the change request if it does not in line with the purpose of the project, or convene a Change Control meeting between the project team and client to review the change request further and perform an impact assessment of the change. If the change request receives initial approval by the project advisor and client, the project manager will communicate the scope change to all project team members’ then they will update all the necessary documents, deliverables, and product backlogs.</p>
+<p> The team will need to evaluate the impact of any change in project scope that is authorized by the project sponsor on the present timetable. When an issue arises in the project that requires a substantial revision of the project scope, a change proposal can be considered. The team should approach any modification carefully given that the outcome could have a favorable or negative impact on the project's advancement. Any team member may request modifications, but they must be submitted in the form of a project change request document to the project stakeholder.</p>
+
 
 =Work Breakdown Structure=
 
