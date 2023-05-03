@@ -165,21 +165,86 @@
 
 ==Alternative Analysis==
 
+==Executive Summary==
+
 =Scope Management Plan=
 ==Introduction==
 <p> The RAMIT scope management plan will provide an overview of the best practices and modern instruments that will be used to specify, record, and manage the project's scope. The project team will be able to use agile approaches and real-time collaboration technologies to provide a cutting-edge tool that satisfies the requirements of all the stakeholders that are involved.</p>
 
 <p> The scope of RAMIT will be defined through the following activities: </p>
 
-==Requirements gathering==
+===Requirements gathering===
 <p>The project team will employ a number of methods to collect and Include user interviews, focus groups, and online surveys while documenting the system's needs.</p>   
 
-==User stories==
+===User stories===
 <p>In order to describe the functionality of the project, the project team will generate user stories. system from the viewpoint of the ultimate user. The order of these stories will be determined by the development process and it will be guided by the business value.</p>   
 
-==Verify Scope==
+===Verify Scope===
+</p>The requirements and user stories will be used as input to verify the scope. It will give a high-level summary of the project scope, including the deliverables, exclusions, and restrictions.</p>  
 
-==Executive Summary==
+===Control Scope===
+</p>By including the verification of the scope, the control scope will be established. project management strategy, as well as the user stories. As the information is updated, the Project progresses to account for scope changes.</p>  
+
+==Scope Management Approach==
+</p>The scope of RAMIT will be documented in the following ways: </p>  
+
+===Requirements documentation===
+<p>The system's specifications will be outlined in a specifications document for requirements.</p>   
+
+===Project management plan===
+<p>The scope is a component of the project management plan. the scope baseline and any other pertinent details regarding the extent of the project. </p>
+
+===Backlog===
+<p>A Backlog will be maintained to track all changes to the scope of the project, including the description of the change, the impact on the project, and the required approvals.</p>
+
+<p>The scope of RAMIT will be controlled through the following activities:   </p>
+
+===Scope verification===
+<p>Agile testing methods will be used by the team to ensure that the project's deliverables are compliant with the specifications and follow the stated scope.</p>
+
+===Scope change control===
+<p>Project scope modifications will be handled through a formal change control procedure that includes an evaluation of the effect on the Schedule, budget, and quality of the project.</p>
+
+===Scope change review===
+<p>Each change request will be the subject of a scope change review. Verify that the change is required, practicable, and in line with the project's goals. </p>
+
+==Roles and Responsibilities==
+<p></p>
+
+==Scope Definition=
+<p>The Ticketing system can decrease the margin of unsolved problems that aren't solved yet or problems that hasn't seen the light of day. The opportunity to increase the number of these inquiries to be solved by the ITRO by making a system that can sort, centralize, and manage the inquiries in a single system.</p>
+
+==Project Scope Statement==
+<p></p>
+
+==Work Breakdown Structure ==
+<p></p>
+
+==Scope Verification==
+<p>The team will employ agile testing techniques to make sure that the project's deliverables adhere to the specified scope and are in compliance with the requirements.  
+
+ 
+
+The project team will use various techniques for scope verification to guarantee that the Dispatch Directory System project deliverables satisfy the original scope. These methods include:  
+
+   
+
+Quality Checklists : 
+
+A Backlog will be maintained to track all changes to the scope of the project, including the description of the change, the impact on the project, and the required approvals.   
+
+  
+
+Scope Baseline: 
+
+It will be possible to establish the scope baseline by incorporating the scope declaration. User stories and project management strategy are both involved. The project moves on to take scope adjustments into account as the information is updated.  </p>
+
+
+
+==Scope Control==
+<p>Scope control is the process of monitoring the status of the scope of the project. This section also details the change process for making changes to the scope baseline. </p>
+
+
 
 =Schedule Management Plan=
 
