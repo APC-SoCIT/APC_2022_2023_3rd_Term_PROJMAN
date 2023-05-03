@@ -239,15 +239,19 @@
 </table>
 
 ==Strategic Alignment==
+
 <p>The implementation of RAM-IT aligns with the business goals that the ITRO envisions, this includes: </p> <br>
 <p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;Efficient Inquiry Response <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o &nbsp;&nbsp;The system allows for efficiency in terms of time and effectiveness with its chatbot for FAQ responses, and the ticketing system accompanied with the chat feature that allows communication between inquirer and ITROIT specialist. </p>
-<p> </p>
+<p>The implementation of RAM-IT aligns with the business goals that the ITRO envisions, this includes: </p> <br>
+
+<p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;Ticket/Inquiry Trackinge <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o &nbsp;&nbsp;The system allows the ITRO supervisor and specialists to keep track of the tickets that are open, pending, and closed. It also enables the supervisor to delegate tasks and set the priority levels of the inquiries coming from the members of the APC community.</p>
 ==Cost Benefit Analysis==
-<p> </p>
+<p>The benefits of the developed project wouldn't be costly due to the client's and the university resources, with the given assistance it will be more than enough for the project to be deployed making it less costly than the other projects. The analysis of the cost will be beneficial to the client and the developers that wouldn't need additional resources that will need financially. Developing the project will not be encountering financial issues. </p>
 ==Alternative Analysis==
-<p> </p>
-<p> </p>
+<p>Implementing Signages – During the earlier developments of the project, signages were proposed to accompany the system as it enables people inside APC to view information regarding ITRO, but this was debunked as the project already abundant amounts of features that are unnecessary. </p> <br>
+<p>Having automated delegation – When development was ongoing, the stakeholders proposed that the delegation feature of supervisor to IT specialist can be automated, it was considered by the project team, but it wasn’t aligned with the ITRO’s system of delegation, leading for the idea to be debunked but considered. </p>
 ==Executive Summary==
 
 =Scope Management Plan=
