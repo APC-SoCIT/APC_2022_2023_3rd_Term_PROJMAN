@@ -378,6 +378,40 @@ to deliver an innovative Apelo Dental Clinic System that meets the needs of all 
   <li><b>Scope baseline:</b> The scope baseline will be created by incorporating the scope statement and the user stories into a project management plan. It will be regularly updated as the project progresses to reflect changes in scope.</li>
 </ol>
 
+<p><b>Scope Documentation:</b> The scope of the Apelo Dental Clinic System will be documented in the following ways:<p>
+<ol>
+  <li><b>Requirements documentation:</b> The requirements for the system will be documented in a requirements specification document.</li>
+  <li><b>Project management plan:</b> The plan for project management will contain details regarding the scope of the project, such as the scope statement, scope baseline, and any other pertinent information.</li>
+  <li><b>Change log:</b> There will be a log to keep track of any alterations made to the project's scope. This change log will document the change description, its effects on the project, and the necessary approvals.</li>
+<ol> 
+
+<p><b>Scope Control:</b> The scope of the Apelo Dental Clinic System will be controlled through the following activities:</p>
+<ol>
+  <li>Scope verification:</b> The project team will employ agile testing methods to ensure that the project's deliverables conform to the requirements and are in accordance with the scope statement.</li>
+  <li><b>Scope change control:</b> Any changes to the scope of the project will be managed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality.</li>
+  <li><b>Scope change review:</b> A scope change review will be held for each change request to ensure that the change is necessary, feasible, and aligned with the project objectives.</li>
+</ol>
+==Scope Management Approach==
+<ol>
+  <li>Authority and responsibility for scope management will be held by the Project Manager, Jansen Pedrola, who will work closely with the Project Sponsor, Dr. Denroe Apelo, and other key stakeholders to define and manage the scope of the project. </li>
+  <li>To determine the scope of the project, a Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and a comprehensive Statement of Work (SOW) will be developed. These documents will precisely specify the project's objectives, activities, and prerequisites, and will undergo evaluation and endorsement by the project sponsor and other involved parties prior to commencing the work.</li>
+  <li>The project's extent will be evaluated and confirmed using quality checklists, measurements of work performance, and regular monitoring of the project's advancement in relation to the original scope. If there are any discrepancies from the initial scope, they will be identified and dealt with using the scope change process.</li>
+  <li>The Apelo Dental Clinic project's procedure for modifying its scope will entail the Project Manager submitting a request for scope change, which will then be approved by the project sponsor. It is crucial to thoroughly assess any alterations to the project's scope to ensure that they are consistent with the project's objectives and do not have a detrimental impact on the project schedule or budget.</li>
+  <li>The project manager will ensure that all project requirements are met and that the project sponsor and other important stakeholders approve and accept the final project deliverables. The project will be considered successfully completed only after all deliverables have been accepted and any remaining issues have been addressed.</li>
+</ol>
+
+==Role and Responsibilities==
+<p>The following roles and responsibilities have been designated regarding the management of the project's scope:</p>
+<ol>
+  <li><b>Project Manager:</b> The project manager oversees outlining and documenting the project's scope, as well as regulating and approving any alterations to the scope.</li>
+  <li><b>Project Team:</b> The project team is accountable for validating the project's scope and initiating modification requests if it is necessary.</li>
+  <li><b>Stakeholders:</b> The stakeholder oversees offering insights on the project's requirements and scope, and authorizing scope modifications as required.</li>
+</ol>
+
+==Scope Definition==
+<p>The scope of this project includes developing a single system that combines multiple functionalities for the different user that Apelo Dental Clinic have. The system will consist of functionalities such as managing the queue to facilitate patients in obtaining a number more conveniently, accessing and securely storing patient information, and a dashboard to keep track of the clinic's overall progress. With the integration of these features, the system will streamline the clinic's operations and provide a better experience for patients, making it an essential tool for Apelo Dental Clinic's daily activities.
+<br>
+The system will incorporate a dentists schedule, which will regulate the display of the maximum number of appointments available for daily operations.</p>
 
 =Cost Management Plan=
 ==Introduction==
