@@ -387,7 +387,7 @@ to deliver an innovative Apelo Dental Clinic System that meets the needs of all 
 
 <p><b>Scope Control:</b> The scope of the Apelo Dental Clinic System will be controlled through the following activities:</p>
 <ol>
-  <li>Scope verification:</b> The project team will employ agile testing methods to ensure that the project's deliverables conform to the requirements and are in accordance with the scope statement.</li>
+  <li><b>Scope verification:</b> The project team will employ agile testing methods to ensure that the project's deliverables conform to the requirements and are in accordance with the scope statement.</li>
   <li><b>Scope change control:</b> Any changes to the scope of the project will be managed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality.</li>
   <li><b>Scope change review:</b> A scope change review will be held for each change request to ensure that the change is necessary, feasible, and aligned with the project objectives.</li>
 </ol>
@@ -409,9 +409,12 @@ to deliver an innovative Apelo Dental Clinic System that meets the needs of all 
 </ol>
 
 ==Scope Definition==
-<p>The scope of this project includes developing a single system that combines multiple functionalities for the different user that Apelo Dental Clinic have. The system will consist of functionalities such as managing the queue to facilitate patients in obtaining a number more conveniently, accessing and securely storing patient information, and a dashboard to keep track of the clinic's overall progress. With the integration of these features, the system will streamline the clinic's operations and provide a better experience for patients, making it an essential tool for Apelo Dental Clinic's daily activities.
+<p>The scope of this project includes developing a single system that combines multiple functionalities for the different user that Apelo Dental Clinic have. The system will consist of functionalities such as managing the queue to facilitate patients in obtaining a number more conveniently, accessing and securely storing patient information, and a dashboard to keep track of the clinic's overall progress. With the integration of these features, the system will streamline the clinic's operations and provide a better experience for patients, making it an essential tool for Apelo Dental Clinic's daily activities.<br>
 <br>
 The system will incorporate a dentists schedule, which will regulate the display of the maximum number of appointments available for daily operations.</p>
+
+<p><b>Project Scope Statement</b></p>
+<p>The project scope statement for the Apelo Dental Clinic System project will detail the project`s deliverables and the work necessary to create these deliverables. </p>
 
 =Cost Management Plan=
 ==Introduction==
