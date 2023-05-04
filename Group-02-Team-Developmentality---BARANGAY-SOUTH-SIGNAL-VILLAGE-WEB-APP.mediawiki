@@ -1386,12 +1386,324 @@ The Barangay South Signal Village Web App is a comprehensive project aimed at de
 
 The hierarchical structure makes it easy to see how the different components of a project fit together and how the work is distributed across the project team. It also helps to ensure that all the necessary work is identified and accounted for, which can reduce the risk of schedule delays or cost overruns for the team.
 
-
-
+{| class="wikitable" style="margin:auto"
+|-
+! Level !! WBS Code !! Element Name
+|- 
+| 1 || 1 || Barangay South Signal Village Web App
+|- 
+| 2 || 1.1 || Planning
+|- 
+| 3 || 1.1.1 || Project Preparation
+|- 
+| 4 || 1.1.1.1 || Creation of Project Groups
+|- 
+| 4 || 1.1.1.2 || Choose Project/Client
+|- 
+| 4 || 1.1.1.3 || Choose Adviser/Consultant
+|- 
+| 4 || 1.1.1.4 || Design Thinking 1
+|- 
+| 3 || 1.1.2 || MNTSDEV Team consultation
+|- 
+| 4 || 1.1.2.1 || Team meeting with Project adviser
+|- 
+| 4 || 1.1.2.2 || Team meeting with Project Sponsor
+|- 
+| 3 || 1.1.3 || MNTSDEV Creation of Midterm Paper
+|- 
+| 4 || 1.1.3.1 || Chapter 1 (Introduction)
+|- 
+| 4 || 1.1.3.2 || Chapter 2 (RRL/RRS)
+|- 
+| 4 || 1.1.3.3 || Chapter 3 (Methodology)
+|- 
+| 4 || 1.1.3.4 || Chapter 4 (Results and Discussions)
+|- 
+| 4 || 1.1.3.5 || Chapter 5 (Conclusion)
+|- 
+| 4 || 1.1.3.6 || Proofreading
+|- 
+| 4 || 1.1.3.7 || Creation of presentation deck
+|- 
+| 3 || 1.1.4 || MNTSDEV Midterm Evaluation
+|- 
+| 4 || 1.1.4.1 || Midterm (Sprint1)
+|- 
+| 4 || 1.1.4.2 || Comment Matrix
+|- 
+| 3 || 1.1.5 || Initial Design
+|- 
+| 4 || 1.1.5.1 || Initial wireframe
+|- 
+| 4 || 1.1.5.2 || Initial low-fidelity prototype
+|- 
+| 3 || 1.1.6 || MNTSDEV Progression of Paper/Final Paper
+|- 
+| 4 || 1.1.6.1 || Chapter 1 (Introduction)
+|- 
+| 4 || 1.1.6.2 || Chapter 2 (RRL/RRS)
+|- 
+| 4 || 1.1.6.3 || Chapter 3 (Current System)
+|- 
+| 4 || 1.1.6.4 || Chapter 4 (Proposed System)
+|- 
+| 4 || 1.1.6.5 || Chapter 5 (Requirement Analysis)
+|- 
+| 4 || 1.1.6.6 || Chapter 6 (Conclusion)
+|- 
+| 4 || 1.1.6.7 || Proofreading
+|- 
+| 4 || 1.1.6.8 || Creation of presentation deck
+|- 
+| 4 || 1.1.6.9 || Submission of final Requirements for Final Presentation
+|- 
+| 3 || 1.1.7 || MNSTDEV Finals Evaluation
+|- 
+| 4 || 1.1.7.1 || Final Presentation (Sprint 2)
+|- 
+| 4 || 1.1.7.2 || Revision for Comment Matrix and Final Paper
+|- 
+| 4 || 1.1.7.3 || Submission of MNSTDEV FINAL Documents
+|- 
+| 2 || 1.2 || Analysis and Design
+|- 
+| 3 || 1.2.1 || MSYADD Project Progression
+|- 
+| 4 || 1.2.1.1 || Initial analysis for Chapter 5 (Requirement Analysis)
+|- 
+| 4 || 1.2.1.2 || Submission of MNSTDEV final documents
+|- 
+| 4 || 1.2.1.3 || Implementation of GitHub Repository
+|- 
+| 4 || 1.2.1.4 || Request letter for Adviser/Consultant
+|- 
+| 3 || 1.2.2 || MSYADD Team consultation
+|- 
+| 4 || 1.2.2.1 || Team meeting with Project adviser
+|- 
+| 4 || 1.2.2.2 || Team meeting with Project Sponsor
+|- 
+| 3 || 1.2.3 || MSYADD Individual Deliverables
+|- 
+| 3 || 1.2.4 || MSYADD Release Plan
+|- 
+| 4 || 1.2.4.1 || Release Plan 1.1
+|- 
+| 4 || 1.2.4.2 || Release Plan 1.2
+|- 
+| 3 || 1.2.5 || MSYADD Week 3 - Week 4
+|- 
+| 4 || 1.2.5.1 || Event Table
+|- 
+| 4 || 1.2.5.2 || Use Case Diagram
+|- 
+| 4 || 1.2.5.3 || Use Case Full Description
+|- 
+| 4 || 1.2.5.4 || Data Flow Diagram
+|- 
+| 4 || 1.2.5.5 || Context Flow Diagram
+|- 
+| 4 || 1.2.5.6 || Entity Relationship Diagram
+|- 
+| 3 || 1.2.6 || MSYADD Week 5 - Week 7
+|- 
+| 4 || 1.2.6.1 || Activity Diagram
+|- 
+| 4 || 1.2.6.2 || Object Diagram
+|- 
+| 4 || 1.2.6.3 || Class Diagram
+|- 
+| 3 || 1.2.7 || MSYADD Midterm Evaluation
+|- 
+| 4 || 1.2.7.1 || Pre-midterm Presentation (Sprint 3)
+|- 
+| 4 || 1.2.7.2 || Midterm Presentation (Sprint 4)
+|- 
+| 4 || 1.2.7.3 || Revision Midterm
+|- 
+| 3 || 1.2.8 || MSYADD Week 8 - Week 9
+|- 
+| 4 || 1.2.8.1 || Sequence Diagram
+|- 
+| 4 || 1.2.8.2 || State Machine Diagram
+|- 
+| 4 || 1.2.8.3 || Package Diagram
+|- 
+| 4 || 1.2.8.4 || Deployment Diagram
+|- 
+| 4 || 1.2.8.5 || Component Diagram
+|- 
+| 3 || 1.2.9 || MSYADD Final Evaluation
+|- 
+| 4 || 1.2.9.1 || MSYADD Pre-final Presentation (Sprint 5)
+|- 
+| 4 || 1.2.9.2 || MSYADD Final Presentation (Sprint 6)
+|- 
+| 4 || 1.2.9.3 || Revision for Final Paper
+|- 
+| 4 || 1.2.9.4 || Submission of Final Requirements
+|- 
+| 2 || 1.3 || DEVELOPMENT
+|- 
+| 3 || 1.3.1 || MCSPROJ Project Progression
+|- 
+| 4 || 1.3.1.1 || Submission of MSYADD Final Documents
+|- 
+| 4 || 1.3.1.2 || Request letter for Adviser/Consultant
+|- 
+| 3 || 1.3.2 || MCSPROJ Release Plan
+|- 
+| 4 || 1.3.2.1 || Finalizing Release 1
+|- 
+| 4 || 1.3.2.2 || Release Plan 2
+|- 
+| 4 || 1.3.2.3 || Release Plan 3
+|- 
+| 3 || 1.3.3 || MCSPROJ Midterm Deliverables
+|- 
+| 4 || 1.3.3.1 || Creation of Gantt Chart
+|- 
+| 4 || 1.3.3.2 || Creation of WBS
+|- 
+| 4 || 1.3.3.3 || Creation of Activity List
+|- 
+| 4 || 1.3.3.4 || Creation of Project Vision and Scope Progression
+|- 
+| 4 || 1.3.3.5 || Creation of Statement of Work Progression
+|- 
+| 4 || 1.3.3.6 || Creation of Project Charter Progression
+|- 
+| 4 || 1.3.3.7 || Pre-midterm Presentation (Sprint 7)
+|- 
+| 3 || 1.3.4 || MCSPROJ Team consultation
+|- 
+| 4 || 1.3.4.1 || Team meeting with Project adviser
+|- 
+| 4 || 1.3.4.2 || Team meeting with Project Sponsor
+|- 
+| 3 || 1.3.5 || MCSPROJ Midterm Evaluation
+|- 
+| 4 || 1.3.5.1 || Submission of Midterm Requirement
+|- 
+| 4 || 1.3.5.2 || MCSPROJ Final Presentation (Sprint 8)
+|- 
+| 3 || 1.3.6 || MCSPROJ Finals Deliverables
+|- 
+| 4 || 1.3.6.1 || Creation of Test Case
+|- 
+| 4 || 1.3.6.2 || Creation of Quality Plan
+|- 
+| 4 || 1.3.6.3 || Creation of User Acceptance
+|- 
+| 4 || 1.3.6.4 || Creation of Change Management Plan
+|- 
+| 4 || 1.3.6.5 || Updating MCSPROJ Final Paper
+|- 
+| 4 || 1.3.6.6 || Creation of Proofreading Endorsement
+|- 
+| 3 || 1.3.7 || MCSPROJ Finals Evaluation
+|- 
+| 4 || 1.3.7.1 || Submission of MCSPROJ Final Requirements
+|- 
+| 4 || 1.3.7.2 || MCSPROJ Final Presentation (Sprint 9)
+|- 
+| 2 || 1.4 || Implementation
+|- 
+| 3 || 1.4.1 || PROJMAN Project Progression
+|- 
+| 4 || 1.4.1.1 || Submission of MCSPROJ Final Documents
+|- 
+| 4 || 1.4.1.2 || Request Letter for Adviser/Consultant
+|- 
+| 3 || 1.4.2 || PROJMAN Week 1-3
+|- 
+| 4 || 1.4.2.1 || Creation of Project Charter
+|- 
+| 4 || 1.4.2.2 || Creation of Business Case
+|- 
+| 4 || 1.4.2.3 || Creation of Stakeholders Management Strategy Plan
+|- 
+| 3 || 1.4.3 || PROJMAN Week 4-6
+|- 
+| 4 || 1.4.3.1 || Creation of Scope Management Plan
+|- 
+| 4 || 1.4.3.2 || Creation of Cost Management Plan
+|- 
+| 4 || 1.4.3.3 || Creation of Time Management Plan
+|- 
+| 4 || 1.4.3.4 || Creation of Work Breakdown Structure
+|- 
+| 4 || 1.4.3.5 || Creation of Work Packages based on WBS.
+|- 
+| 3 || 1.4.4 || System Updates
+|- 
+| 4 || 1.4.4.1 || Testing 1
+|- 
+| 3 || 1.4.5 || PROJMAN Midterm Evaluation
+|- 
+| 4 || 1.4.5.1 || Submission of PROJMAN Midterm Requirements
+|- 
+| 4 || 1.4.5.2 || PROJMAN Midterm presentation (Sprint 10)
+|- 
+| 3 || 1.4.6 || PROJMAN Week 8-10
+|- 
+| 4 || 1.4.6.1 || Creation of HR Management Plan
+|- 
+| 4 || 1.4.6.2 || Creation of Quality Management Plan
+|- 
+| 4 || 1.4.6.3 || Creation of Risk Management Plan
+|- 
+| 4 || 1.4.6.4 || Creation of Communications Management Plan
+|- 
+| 4 || 1.4.6.5 || Creation of Procurement Management Plan
+|- 
+| 3 || 1.4.7 || PROJMAN Week 11
+|- 
+| 4 || 1.4.7.1 || Creation of Project Status Reports Distribution Plan
+|- 
+| 4 || 1.4.7.2 || Creation of Change Request Documentation
+|- 
+| 4 || 1.4.7.3 || Creation of Project Execution Monitoring Report
+|- 
+| 4 || 1.4.7.4 || Creation of Implementation Plan
+|- 
+| 3 || 1.4.8 || PROJMAN Week 12
+|- 
+| 4 || 1.4.8.1 || Creation of Change Management Plan
+|- 
+| 4 || 1.4.8.2 || Creation of Project Status Reports
+|- 
+| 4 || 1.4.8.3 || Creation of Transition-Out Plan
+|- 
+| 4 || 1.4.8.4 || Creation of Project Turn-Over Plan
+|- 
+| 4 || 1.4.8.5 || Creation of Post Project Review Plan
+|- 
+| 3 || 1.4.9 || PROJMAN Week 13
+|- 
+| 4 || 1.4.9.1 || Creation of Consolidated Project Plan
+|- 
+| 3 || 1.4.10 || PROJMAN Final Evaluation
+|- 
+| 4 || 1.4.10.1 || Submission of PROJMAN Final Requirements
+|- 
+| 4 || 1.4.10.2 || PROJMAN Final presentation (Sprint 11)
+|- 
+| 2 || 1.5 || Closeout
+|- 
+| 3 || 1.5.1 || System and documentation handover
+|- 
+| 3 || 1.5.2 || Gain Formal Acceptance
+|- 
+| 3 || 1.5.3 || Project close out meeting
+|}
 
 ==10.4 Tabular View ==
 
 The Tabular View shows the WBS for the Barangay South Signal Village Web App project, organized in a table format with four main categories: Planning, Analysis and Design, Development, and Implementation, with a fifth category for project closeout. Each category is broken down into subcategories and tasks, making it easier to track project progress and ensure timely completion of tasks.
+
+
 
 ==10.5 Tree Structure View==
 
@@ -1400,6 +1712,85 @@ The Tabular View shows the WBS for the Barangay South Signal Village Web App pro
 ==10.6 WBS Dictionary==
 
 The WBS Dictionary is a document that contains all the essential details of the Work Breakdown Structure (WBS) required to complete a project successfully. It includes a definition of each Work Package, which acts as a mini scope statement. The WBS Dictionary is an important reference for project resources to understand the scope of the Work Package assigned to them. Typically, the WBS Dictionary includes more information than what is shown in the sample, such as Level of Effort, Cost Control Numbers, Resource Assignments, Responsibility Assignments, and other relevant information.
+
+<table border="1" width="100%" align="center">
+<tbody>
+<tr>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Level 1'''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Level 2'''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Level 3'''</p>
+</td>
+<td bgcolor="lightblue">
+<p style="text-align: center;">'''Level 4'''</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" bgcolor="">
+<p style="text-align: center;">1. Barangay South Signal Village Web App</p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">1.1 Planning</p>
+</td>
+<td bgcolor="">
+<p>1.1.1 Project Preparation<br /><br />1.1.2 MNTSDEV Team consultation<br /><br />1.1.3 MNTSDEV Creation of Midterm Paper<br /><br />1.1.4 MNTSDEV Midterm Evaluation<br /><br />1.1.5 Initial Design<br /><br />1.1.6 MNTSDEV Progression of Paper/Final Paper<br /><br />1.1.7 MNSTDEV Finals Evaluation</p>
+</td>
+<td bgcolor="">
+<p>1.1.1.1 Creation of Project Groups<br /><br />1.1.1.2 Choose Project/Client<br /><br />1.1.1.3 Choose Adviser/Consultant<br /><br />1.1.1.4 Design Thinking 1<br /><br />1.1.2.1 Team meeting with Project adviser<br /><br />1.1.2.2 Team meeting with Project Sponsor<br /><br />1.1.3.1 Chapter 1 (Introduction)<br /><br />1.1.3.2 Chapter 2 (RRL/RRS)<br /><br />1.1.3.3 Chapter 3 (Methodology)<br /><br />1.1.3.4 Chapter 4 (Results and Discussions)<br /><br />1.1.3.5 Chapter 5 (Conclusion)<br /><br />1.1.3.6 Proofreading<br /><br />1.1.3.7 Creation of presentation deck<br /><br />1.1.4.1 Midterm (Sprint1)<br /><br />1.1.4.2 Comment Matrix<br /><br />1.1.5.1 Initial wireframe<br /><br />1.1.5.2 Initial low-fidelity prototype<br /><br />1.1.6.1 Chapter 1 (Introduction)<br /><br />1.1.6.2 Chapter 2 (RRL/RRS)<br /><br />1.1.6.3 Chapter 3 (Current System)<br /><br />1.1.6.4 Chapter 4 (Proposed System)<br /><br />1.1.6.5 Chapter 5 (Requirement Analysis)<br /><br />1.1.6.6 Chapter 6 (Conclusion)<br /><br />1.1.6.7 Proofreading<br /><br />1.1.6.8 Creation of presentation deck<br /><br />1.1.6.9 Submission of final Requirements for Final Presentation<br /><br />1.1.7.1 Final Presentation (Sprint 2)<br /><br />1.1.7.2 Revision for Comment Matrix and Final Paper<br /><br />1.1.7.3 Submission of MNSTDEV FINAL Documents<br /><br />1.2.1.1 Initial analysis for Chapter 5 (Requirement Analysis)<br /><br />1.2.1.2 Submission of MNSTDEV final documents<br /><br />1.2.1.3 Implementation of GitHub Repository<br /><br />1.2.1.4 Request letter for Adviser/Consultant<br /><br />1.2.2.1 Team meeting with Project adviser<br /><br />1.2.2.2 Team meeting with Project Sponsor<br /><br />1.2.4.1 Release Plan 1.1<br /><br />1.2.4.2 Release Plan 1.2<br /><br />1.2.5.1 Event Table<br /><br />1.2.5.2 Use Case Diagram<br /><br />1.2.5.3 Use Case Full Description<br /><br />1.2.5.4 Data Flow Diagram<br /><br />1.2.5.5 Context Flow Diagram<br /><br />1.2.5.6 Entity Relationship Diagram<br /><br />1.2.6.1 Activity Diagram<br /><br />1.2.6.2 Object Diagram<br /><br />1.2.6.3 Class Diagram<br /><br />1.2.7.1 Pre-midterm Presentation (Sprint 3)<br /><br />1.2.7.2 Midterm Presentation (Sprint 4)<br /><br />1.2.7.3 Revision Midterm<br /><br />1.2.8.1 Sequence Diagram<br /><br />1.2.8.2 State Machine Diagram<br /><br />1.2.8.3 Package Diagram<br /><br />1.2.8.4 Deployment Diagram<br /><br />1.2.8.5 Component Diagram<br /><br />1.2.9.1 MSYADD Pre-final Presentation (Sprint 5)<br /><br />1.2.9.2 MSYADD Final Presentation (Sprint 6)<br /><br />1.2.9.3 Revision for Final Paper<br /><br />1.2.9.4 Submission of Final Requirements<br /><br /></p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">1.2 Analysis and Design</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">'''Level 1'''</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">'''Level 1'''</p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">1.3 Development</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">1.3.1 MCSPROJ Project Progression<br /><br />1.3.2 MCSPROJ Release Plan<br /><br />1.3.3 MCSPROJ Midterm Deliverables<br /><br />1.3.4 MCSPROJ Team consultation<br /><br />1.3.5 MCSPROJ Midterm Evaluation<br /><br />1.3.6 MCSPROJ Finals Deliverables<br /><br />1.3.7 MCSPROJ Finals Evaluation</p>
+</td>
+<td bgcolor="">
+<p style="text-align: center;">1.3.1.1 Submission of MSYADD Final Documents<br /><br />1.3.1.2 Request letter for Adviser/Consultant <br /><br />1.3.2.1 Finalizing Release 1 <br /><br />1.3.2.2 Release Plan 2 <br /><br />1.3.2.3 Release Plan 3 <br /><br />1.3.3.1 Creation of Gantt Chart<br /><br />1.3.3.2 Creation of WBS<br /><br />1.3.3.3 Creation of Activity List<br /><br />1.3.3.4 Creation of Project Vision and Scope Progression<br /><br />1.3.3.5 Creation of Statement of Work Progression<br /><br />1.3.3.6 Creation of Project Charter Progression<br /><br />1.3.3.7 Pre-midterm Presentation (Sprint 7)<br /><br />1.3.4.1 Team meeting with Project adviser<br /><br />1.3.4.2 Team meeting with Project Sponsor<br /><br />1.3.5.1 Submission of Midterm Requirement<br /><br />1.3.5.2 MCSPROJ Final Presentation (Sprint 8)<br /><br />1.3.6.1 Creation of Test Case<br /><br />1.3.6.2 Creation of Quality Plan<br /><br />1.3.6.3 Creation of User Acceptance<br /><br />1.3.6.4 Creation of Change Management Plan<br /><br />1.3.6.5 Updating MCSPROJ Final Paper<br /><br />1.3.6.6 Creation of Proofreading Endorsement<br /><br />1.3.7.1 Submission of MCSPROJ Final Requirements<br /><br />1.3.7.2 MCSPROJ Final Presentation (Sprint 9)<br /><br /></p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">1.4 Implementation</p>
+</td>
+<td bgcolor="">
+<p>1.4.1 PROJMAN Project Progression<br /><br />1.4.2 PROJMAN Week 1-3<br /><br />1.4.3 PROJMAN Week 4-6<br /><br />1.4.4 System Updates<br /><br />1.4.5 PROJMAN Midterm Evaluation<br /><br />1.4.6 PROJMAN Week 8-10<br /><br />1.4.7 PROJMAN Week 11<br /><br />1.4.8 PROJMAN Week 12<br /><br />1.4.9 PROJMAN Week 13<br /><br />1.4.10 PROJMAN Final Evaluation<br /><br /></p>
+</td>
+<td bgcolor="">
+<p>1.4.1.1 Submission of MCSPROJ Final Documents<br /><br />1.4.1.2 Request Letter for Adviser/Consultant<br /><br />1.4.2.1 Creation of Project Charter<br /><br />1.4.2.2 Creation of Business Case<br /><br />1.4.2.3 Creation of Stakeholders Management Strategy Plan<br /><br />1.4.3.1 Creation of Scope Management Plan<br /><br /><br /><br />1.4.3.2 Creation of Cost Management Plan<br /><br />1.4.3.3 Creation of Time Management Plan<br /><br />1.4.3.4 Creation of Work Breakdown Structure<br /><br /><br /><br />1.4.3.5 Creation of Work Packages based on WBS.<br /><br />1.4.4.1 Testing 1<br /><br />1.4.5.1 Submission of PROJMAN Midterm Requirements<br /><br />1.4.5.2 PROJMAN Midterm presentation (Sprint 10)<br /><br />1.4.6.1 Creation of HR Management Plan<br /><br />1.4.6.2 Creation of Quality Management Plan<br /><br />1.4.6.3 Creation of Risk Management Plan<br /><br />1.4.6.4 Creation of Communications Management Plan<br /><br />1.4.6.5 Creation of Procurement Management Plan<br /><br />1.4.7.1 Creation of Project Status Reports Distribution Plan<br /><br />1.4.7.2 Creation of Change Request Documentation<br /><br />1.4.7.3 Creation of Project Execution Monitoring Report<br /><br />1.4.7.4 Creation of Implementation Plan<br /><br />1.4.8.1 Creation of Change Management Plan<br /><br />1.4.8.2 Creation of Project Status Reports<br /><br />1.4.8.3 Creation of Transition-Out Plan<br /><br />1.4.8.4 Creation of Project Turn-Over Plan<br /><br />1.4.8.5 Creation of Post Project Review Plan<br /><br />1.4.9.1 Creation of Consolidated Project Plan<br /><br />1.4.10.1 Submission of PROJMAN Final Requirements<br /><br />1.4.10.2 PROJMAN Final presentation (Sprint 11)</p>
+</td>
+</tr>
+<tr>
+<td bgcolor="">
+<p style="text-align: center;">1.5 Closeout</p>
+</td>
+<td bgcolor="">
+<p>1.5.1 System and documentation handover<br /><br />1.5.2 Gain Formal Acceptance<br /><br />1.5.3 Project close out meeting.<br /><br /></p>
+</td>
+<td bgcolor="">
+<p>1.5.1.1 System and documentation handover<br /><br />1.5.1.2 Gain Formal Acceptance<br /><br />1.5.1.3 Project close out meeting. '</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ==10.7 Glossary of Terms==
 
