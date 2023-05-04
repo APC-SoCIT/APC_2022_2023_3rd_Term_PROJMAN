@@ -487,6 +487,69 @@ The system will incorporate a dentists schedule, which will regulate the display
 <br>
 The project team intends to utilize the WBS and WBS Dictionary to divide the project's scope into more manageable components, and to designate responsibility for each component. This approach will ensure that all aspects of the project are considered, and that team members understand their part in delivering the project. The WBS and WBS Dictionary will serve as a guide to track progress, address problems, and make certain that the project stays on course and within the scope. In general, the WBS and WBS Dictionary are crucial tools for managing the project scope and ensuring its successful completion.</p>
 
+<ul><b>Task</b>
+<ul>
+<ul>1. Initiation
+<ul>
+<ul>1.1 Determine Project Team</ul>
+<ul>1.2 Develop Project Charter</ul>
+<ul>1.3 <i>Deliverable</i>: Submit Project Charter</ul>
+<ul>1.4 Project Sponsor Reviews Project Charter</ul>
+<ul>1.5 Project Charter Signed/Approved</ul>
+<ul>1.6 <i>Deliverable</i>: Work Breakdown Structure</ul>
+</ul>
+</ul>
+
+<ul>2. Planning
+<ul>
+<ul>2.1 Create Preliminary Scope Statement</ul>
+<ul>2.2 Project Team Initial Meeting</ul>
+<ul>2.3 <i>Deliverable</i>: Stakeholder Management Plan</ul>
+<ul>2.4 <i>Deliverable</i>: Schedule Management Plan</ul>
+<ul>2.5 <i>Deliverable</i>: Cost Management Plan</ul>
+<ul>2.6 Submit Deliverables</ul>
+<ul>2.7 Project Team Meeting</ul>
+<ul>2.8 <i>Milestone</i>: Project Plan Approval</ul>
+</ul>
+</ul>
+
+<ul>3. Execution
+<ul>
+<ul>3.1 Project Team Meeting</ul>
+<ul>3.2 Verify & Validate Stakeholder Requirements</ul>
+<ul>3.3 Design System</ul>
+<ul>3.4 Procure Hardware/Software</ul>
+<ul>3.5 Install Development System</ul>
+<ul>3.6 Sprint Planning Meeting</ul>
+<ul>3.7 Create Sprint Backlog</ul>
+<ul>3.8 Develop Sprint Backlog Items (Daily Scrums)</ul>
+<ul>3.9 Sprint Review Meeting</ul>
+<ul>3.10 Sprint Retrospective Meeting</ul>
+<ul>3.11 Integration to Server</ul>
+</ul>
+</ul>
+
+<ul>4. Control
+<ul>
+<ul>4.1 Quality Assurance Control</ul>
+<ul>4.2 Project Management</ul>
+<ul>4.3 Project Status Meeting</ul>
+<ul>4.4 Risk Management</ul>
+<ul>4.5 Update Project Management Plan</ul>
+</ul>
+</ul>
+
+<ul>5. Closeout
+<ul>
+<ul>5.1 Audit Procurement</ul>
+<ul>5.2 Document Lessons Learned</ul>
+<ul>5.3 Update Files/Records</ul>
+<ul>5.4 Gain Formal Acceptance</ul>
+<ul>5.5 Archive Files/Documents</ul>
+</ul>
+</ul>
+<br>
+
 ==Scope Verification==
 <p>To ensure that the deliverables from the Apelo Dental Clinic System project meet the original scope, the project team will utilize a variety of methods for scope verification. These methods may include: </p>
 <ul>
