@@ -1,5 +1,5 @@
 =Project Title=
-<b><font size="5"><p style="text-align:center">RAM-IT: ITRO'S CHATBOT AND TICKETING SYSTEM</p></font></b>
+<b><font size="5"><h2 style="text-align:center">RAM-IT: ITRO'S ChatBot and Ticketing System</h2></font></b>
 
 =Project Members=
 ==Project Professor==
@@ -58,10 +58,11 @@
 		<td><p style="text-align:center;">mezamora@student.apc.edu.ph</p></td>
 	</tr>
 </table>
-<br />
+</br>
+
 =Company Profile=
 <p><strong>Brief Background:</strong></p>
-<p></p>
+<p>Asia Pacific College (APC) is a private college that promotes itself to those aspiring to attain world-class education with a strong IT-based foundation. Asia Pacific College is a school that can provide access to IT laboratories, school computers, multimedia studio, computer network, and internet connection. This enhances the quality of education and widens the learning opportunities for the students and other members of the APC academic community. Information Technology Resource Office (ITRO) is a department in APC that manages all the IT related aspects within the organization. The ITRO provides services that are specialized in assisting and managing the IT systems, devices, infrastructure, and cybersecurity. It is a customer support department available for all the members of APC community. To inquire for assistance, APC Community Members can set an appointment through email in a Microsoft outlook account or personally contacting any available ITRO staff member inside the school premises.</p>
 
 =Business Case=
 ==Executive Summary==
@@ -85,7 +86,6 @@
 ===Justification===
 
 <p>RAM-IT should be implemented as a system that enables ITRO to handle and manage inquiries, because it improves efficiency in terms of time and method of answering inquiries. Helpdesks and/or ticketing systems have been implemented in numerous companies and schools because they are helpful on enabling their respective technical offices on managing their inquiries, as well as have the inquirers having a designated platform to track and send their inquiries to the ITRO. It should also be implemented as the system can be further improved upon by the ITRO, for example, adding more features that are present in other existing ticketing systems that may benefit the project. The unique feature about RAM-IT is that it enables an efficient communication for two kinds of questions whether it be frequently asked questions which are answered through the chatbot if the inquiry is present there or specific questions which are addressed by the ITRO and will be communicated with them through the chat feature.</p>
-<p>&nbsp;</p>
 
 ==Business Case Analysis Team==
 
@@ -98,55 +98,52 @@
 	<tr>
 		<td><p style="text-align:center;"><em>Jayson Aloya</em></p></td>
                 <td><p style="text-align:center;"><em>Project Manager</em></p></td>
-		<td width="517">
-<p><em>Manages the whole project and leads the project to success. Communicates with Stakeholders and oversees the whole team’s progress.Manages the whole project and leads the project to success. Communicates with Stakeholders and oversees the whole team’s progress. </em></p> </td>
-
+		<td width="517"><p><em>Manages the whole project and leads the project to success. Communicates with Stakeholders and oversees the whole team’s progress. Manages the whole project and leads the project to success. Communicates with Stakeholders and oversees the whole team’s progress.</em></p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;"><em>Marc Julian Sajul</em></p></td>
                 <td><p style="text-align:center;"><em>Front End Developer</em></p></td>
-		<td width="517">
-<p><em>Programs the UI of RAM-IT </em></p> </td>
+		<td width="517"><p><em>Programs the UI of RAM-IT </em></p></td>
 
-</td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;"><em>Marc Zamora</em></p></td>
                 <td><p style="text-align:center;"><em>Back End Developer</em></p></td>
-		<td width="517">
-<p><em>Programs the UXof RAM-IT </em></p> </td>
+		<td width="517"><p><em>Programs the UX of RAM-IT </em></p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;"><em>John Christopher T. Langcauon</em></p></td>
                 <td><p style="text-align:center;"><em>Documentation</em></p></td>
-		<td width="517">
-<p><em>Create the necessary paper deliverables of the project as well as documenting the entire process of completing the project.</em></p> </td>
-	</tr>
-<tr>
+		<td width="517"><p><em>Create the necessary paper deliverables of the project as well as documenting the entire process of completing the project.</em></p></td>
+        </tr>
+        <tr>
 		<td><p style="text-align:center;"><em>Jan Gabriel Prion</em></p></td>
                 <td><p style="text-align:center;"><em>Documentation</em></p></td>
 		<td width="517">
 <p><em>Create the necessary paper deliverables of the project as well as documenting the entire process of completing the project.</em></p> </td>
 	</tr>
 </table>
-<br />
 
 ==Problem Definition==
 <p> The ITRO has been handling inquiries regarding technical concerns, concerns can range from password problems, borrowing equipment, and many more. They do this with the use of Microsoft Outlook and allowing students to inquire in-person by visiting the ITRO office. The problem with this method however (especially for online inquiries) is that time for inquiries to be addressed will always vary with the ITRO’s availability. Another problem is that ITRO doesn’t have a method to track all their inquiries all at once in a single page, leading them to always backtrack within their e-mails. Lastly, they are unable to identify if the concerns being given to them are questions that already have answers to them before or specific questions that need their communication to be resolved.</p>
+
 ===Problem Statement===
-<p>The ITRO has been handling inquiries regarding technical concerns, concerns can range from password problems, borrowing equipment, and many more. They do this with the use of Microsoft Outlook and allowing students to inquire in-person by visiting the ITRO office. The problem with this method however (especially for online inquiries) is that time for inquiries to be addressed will always vary with the ITRO’s availability. Another problem is that ITRO doesn’t have a method to track all their inquiries all at once in a single page, leading them to always backtrack within their e-mails. Lastly, they are unable to identify if the concerns being given to them are questions that already have answers to them before or specific questions that need their communication to be resolved. </p>
+<p>The ITRO has been handling inquiries regarding technical concerns, concerns can range from password problems, borrowing equipment, and many more. They do this with the use of Microsoft Outlook and allowing students to inquire in-person by visiting the ITRO office. The problem with this method however (especially for online inquiries) is that time for inquiries to be addressed will always vary with the ITRO’s availability. Another problem is that ITRO doesn’t have a method to track all their inquiries all at once in a single page, leading them to always backtrack within their e-mails. Lastly, they are unable to identify if the concerns being given to them are questions that already have answers to them before or specific questions that need their communication to be resolved.</p>
+
 ===Organizational Impact===
-<p>RAM-IT will influence how and where inquiries regarding ITRO will be sent and addressed. It will modify the way ITRO can track, delegate, and address inquiries, as well as make inquiries from APC community members more trackable and easier to follow. </p>
-<br>
-<p> Existing roles can change as documentation is given an emphasis in the first months of planning, with these developers are adjusted to assist on documentation roles, but later on when the development phase starts, they will continue on with their developer role. </p>
+<p>RAM-IT will influence how and where inquiries regarding ITRO will be sent and addressed. It will modify the way ITRO can track, delegate, and address inquiries, as well as make inquiries from APC community members more trackable and easier to follow.</p>
+
+<p> Existing roles can change as documentation is given an emphasis in the first months of planning, with these developers are adjusted to assist on documentation roles, but later on when the development phase starts, they will continue on with their developer role.</p>
+
 ===Technology Migration===
-<p>The project overview for RAM-IT provides details regarding the project’s description, objectives, performance, and more details regarding the project’s identity. As the project progresses further into its development phase, these parts will be expounded and/or changed based on the circumstances that will appear when developing the project. 
- </p>
+<p>The project overview for RAM-IT provides details regarding the project’s description, objectives, performance, and more details regarding the project’s identity. As the project progresses further into its development phase, these parts will be expounded and/or changed based on the circumstances that will appear when developing the project.</p>
+
 ==Project Overview==
-<p>The project overview for RAM-IT provides details regarding the project’s description, objectives, performance, and more details regarding the project’s identity. As the project progresses further into its development phase, these parts will be expounded and/or changed based on the circumstances that will appear when developing the project. 
- </p>
+<p>The project overview for RAM-IT provides details regarding the project’s description, objectives, performance, and more details regarding the project’s identity. As the project progresses further into its development phase, these parts will be expounded and/or changed based on the circumstances that will appear when developing the project.</p>
+
 ===Project Description===
-<p>With the ITRO having abundant online inquiries by the HyFlex status of Asia Pacific College, the e-mails that contain inquiries from the members of the APC community might get ignored or be buried by other e-mails, especially if the ITRO staff is not available at that time due to workload that requires them to be elsewhere. ITRO also has a problem where they cannot track the current inquiries that they have started addressing, details like when the inquiry was addressed, solved, and who solved it, these are data that are hard to track in the form of just writing down notes from the taken inquiries in Outlook. The project team had decided that they will create a system where both FAQs and specific inquiries will get answered by the ITRO as soon and as effectively as possible. The team will do this in the form of developing a ticketing system along with features like a display of all tickets, open, pending, and closed, a chatbot where the inquirer can prompt out FAQs and their solutions, notifications, and a ticketing system that comes with a chat, where once inquirers tickets have been accepted, inquirers are allowed to communicate with the ITRO staff assigned to them. </p>
+<p>With the ITRO having abundant online inquiries by the HyFlex status of Asia Pacific College, the e-mails that contain inquiries from the members of the APC community might get ignored or be buried by other e-mails, especially if the ITRO staff is not available at that time due to workload that requires them to be elsewhere. ITRO also has a problem where they cannot track the current inquiries that they have started addressing, details like when the inquiry was addressed, solved, and who solved it, these are data that are hard to track in the form of just writing down notes from the taken inquiries in Outlook. The project team had decided that they will create a system where both FAQs and specific inquiries will get answered by the ITRO as soon and as effectively as possible. The team will do this in the form of developing a ticketing system along with features like a display of all tickets, open, pending, and closed, a chatbot where the inquirer can prompt out FAQs and their solutions, notifications, and a ticketing system that comes with a chat, where once inquirers tickets have been accepted, inquirers are allowed to communicate with the ITRO staff assigned to them.</p>
+
 ===Goals and Objectives===
 <p>These are the following business goals and objectives. </p>
 <p>•	Have a system in which ITRO can manage inquiries, track inquiry data, and answer FAQs immediately within the time period of 2 months after the initialization and planning stages.</p>
@@ -165,7 +162,7 @@
 <tr>
 
 <td> 
-<p>Inquiry Response </p>
+<p>Inquiry Response</p>
 </td>
 <td width="517">
 <p><em>The system will be able to help ITRO and inquirers to have a centralized platform resulting to inquirers having more assurance and promptness to be answered.</em></p> </td>
@@ -253,169 +250,56 @@
 <p>Implementing Signages – During the earlier developments of the project, signages were proposed to accompany the system as it enables people inside APC to view information regarding ITRO, but this was debunked as the project already abundant amounts of features that are unnecessary. </p> <br>
 <p>Having automated delegation – When development was ongoing, the stakeholders proposed that the delegation feature of supervisor to IT specialist can be automated, it was considered by the project team, but it wasn’t aligned with the ITRO’s system of delegation, leading for the idea to be debunked but considered. </p>
 
-=Scope Management Plan=
-==Introduction==
-<p> The RAMIT scope management plan will provide an overview of the best practices and modern instruments that will be used to specify, record, and manage the project's scope. The project team will be able to use agile approaches and real-time collaboration technologies to provide a cutting-edge tool that satisfies the requirements of all the stakeholders that are involved.</p>
-
-<p> The scope of RAMIT will be defined through the following activities: </p>
-
-===Requirements gathering===
-<p>The project team will employ a number of methods to collect and Include user interviews, focus groups, and online surveys while documenting the system's needs.</p>   
-
-===User stories===
-<p>In order to describe the functionality of the project, the project team will generate user stories. system from the viewpoint of the ultimate user. The order of these stories will be determined by the development process and it will be guided by the business value.</p>   
-
-===Verify Scope===
-</p>The requirements and user stories will be used as input to verify the scope. It will give a high-level summary of the project scope, including the deliverables, exclusions, and restrictions.</p>  
-
-===Control Scope===
-</p>By including the verification of the scope, the control scope will be established. project management strategy, as well as the user stories. As the information is updated, the Project progresses to account for scope changes.</p>  
-
-==Scope Management Approach==
-</p>The scope of RAMIT will be documented in the following ways: </p>  
-
-===Requirements documentation===
-<p>The system's specifications will be outlined in a specifications document for requirements.</p>   
-
-===Project management plan===
-<p>The scope is a component of the project management plan. the scope baseline and any other pertinent details regarding the extent of the project. </p>
-
-===Backlog===
-<p>A Backlog will be maintained to track all changes to the scope of the project, including the description of the change, the impact on the project, and the required approvals.</p>
-
-<p>The scope of RAMIT will be controlled through the following activities:   </p>
-
-===Scope verification===
-<p>Agile testing methods will be used by the team to ensure that the project's deliverables are compliant with the specifications and follow the stated scope.</p>
-
-===Scope change control===
-<p>Project scope modifications will be handled through a formal change control procedure that includes an evaluation of the effect on the Schedule, budget, and quality of the project.</p>
-
-===Scope change review===
-<p>Each change request will be the subject of a scope change review. Verify that the change is required, practicable, and in line with the project's goals. </p>
-
-==Roles and Responsibilities==
-<p></p>
-
-==Scope Definition==
-<p>The Ticketing system can decrease the margin of unsolved problems that aren't solved yet or problems that hasn't seen the light of day. The opportunity to increase the number of these inquiries to be solved by the ITRO by making a system that can sort, centralize, and manage the inquiries in a single system.</p>
-
-==Project Scope Statement==
-<p></p>
-
-==Work Breakdown Structure==
-<p></p>
-
-==Scope Verification==
-<p>The team will employ agile testing techniques to make sure that the project's deliverables adhere to the specified scope and are in compliance with the requirements.  
-
- 
-
-The project team will use various techniques for scope verification to guarantee that the Dispatch Directory System project deliverables satisfy the original scope. These methods include:  
-
-   
-
-Quality Checklists : 
-
-A Backlog will be maintained to track all changes to the scope of the project, including the description of the change, the impact on the project, and the required approvals.   
-
-  
-
-Scope Baseline: 
-
-It will be possible to establish the scope baseline by incorporating the scope declaration. User stories and project management strategy are both involved. The project moves on to take scope adjustments into account as the information is updated.  </p>
-
-
-
-==Scope Control==
-<p>Scope control is the process of monitoring the status of the scope of the project. This section also details the change process for making changes to the scope baseline. </p>
-
-
-
-=Schedule Management Plan=
-
-==Introduction==
-
-<p>For every project that will be created or built, there is always a record of the time and where the deliverables are placed. Deliverables that are either to be started, ongoing, and complete, here thus also lie the plans for the future of the projects which in the case of a technological project is called either update or upgrade.</p>
-
-<p>The Schedule Management Plan is technically one of the most important aspects of planning to create a program where it records and even lists deadlines for each part of the project. The purpose of the schedule management plan for technological projects is to complete a specific program in order and thus monitor the insights of the developers in the first place are thoroughly followed.</p>
-
-==Schedule Management Approach==
-
-<p>There is a software called Project Libre, it was introduced and taught to the developers of the project. In Project Libre, the developers list, plans out, and monitor the parts of the project that moves the progress of building the program. </p>
-
-<p>The said software helps the team to approach the schedule management plan. The developers include a specific format to be easily understood which reviews the progress now and then. This software also indicates the milestones of the project, which under these milestones are deliverables of each member that records the progress, roles, and responsibilities.</p>
-
-<a href="https://user-images.githubusercontent.com/60862961/235907629-5ee41a88-7f1f-42eb-9ac1-a8a66ea87029.png">Team's ProjectLibre Gantt Chart 1</a>
-
-<a href="https://user-images.githubusercontent.com/60862961/235907669-eb0ebc3e-a6f9-4a07-b1c3-6a82de3a64e7.png>Team's ProjectLibre Gantt Chart 2</a>
-
-==Schedule Control==
-
-<p>With the help of how the developers approached the schedule management plan, the team was able to put the management under control. The team was able to control schedule management not only with the said application but also with the help of Microsoft Teams. Microsoft Teams reminds the members about meetings that tackle the listed plan in the team's Project Libre.</p>
-
-<p>For the communication and updates that control, and follow the flow of the plan for the project. Microsoft Teams is effective and efficient, and with its Calendar, the team meetings are reminded. Communicating with the team helps the members with their deliverables and deadlines. With this kind of control, it will be easy for the team to be notified if the project has a minor or major update will be added to the project.</p>
-
-<p>Group or Team meetings are important not only for brainstorming and communicating about the project but also this reminds the team about the schedule management plan of the project.</p>
-
-<a href="https://user-images.githubusercontent.com/60862961/235909994-8e3aa14f-a705-498e-843b-dc7acbbb4da4.png">Microsoft Teams (Calendar)</a>
-
-<a href="https://user-images.githubusercontent.com/60862961/235910012-73b00b8c-326f-41b3-a440-93d937f71547.png">Microsoft Teams (In-Meeting with Adviser)</a>
-
-
-
-==Schedule Changes and Thresholds==
-
-<p>As for the team's development progress, there is a consistent and planned schedule since each member of the team must be updated on little by little progress of each work. The team expects that at any time in the progress, there will be multiple circumstances of schedule changes and the deliverables or project thresholds.</p>
-
-<p>For the team to comply with these kinds of situations, we do not set or stack up the contents and the lists of deliverables from the schedule management plan for that it would be possible and still on track and thus maintain the consistency of the progress of the project if there will be changes from the schedules of each member, deliverables and the deadlines that can also affect the threshold which if managed well, the team will not have a hard time to re-adjust.</p>
-
-<p>The team allotted more or less 42% per week to comply with these circumstances, which will create a more or less 33% change in the threshold for the monthly deliverable or milestone of the project.</p>
-
-==Scope Change==
-
-<p>The given allotted dates, times, or days in the team's schedule management plan will not ruin the plan if a change will occur during the progress. It will be less workload for the team and its project manager to readjust or re-baselined the schedule management plan. </p>
-
-<p>The team consists of a few members, so assigning more deliverables for each day would stack up and may end in confusion or forgetting about the assigned deliverables, it will create havoc within the schedule management plan, depending on the change that will occur.</p>
-
-<p>The proper management and setting of the schedule management plan will affect the developers, the team, and the project manager that oversees the progress from time to time. It will be easier to monitor, adjust and add if there will be changes within the plan.</p>
-
-<p>The given preparedness within the schedule management plan is also the scope of the team, although the team expects multiple changes during the progress. As developers, the team must prepare for minor or major adjustments and changes in the schedule management plan.</p>
-
-=Cost Management Plan=
-
-==Introduction==
-<p>For the management of costs for RAM-IT, it will be managed by the Documentation team, which consists of 3 members of the project team, these members will be responsible for reporting and documenting the costs that the team will spend during the development of the project. The Project Leader and Head Developer will have the authority to approve changes made to the project or its budget. The cost performance will be measured using earned value and it will be reported every progress meeting that the proponents will schedule. The proponents will also discuss and propose their budget, costs, and performance with their stakeholders and client. </p>
-==Cost Management Approach==
-<p>Costs for this project will be managed at the fourth level of the Work Breakdown Structure (WBS).  Control Accounts (CA) will be created at this level to track costs.  Earned Value calculations for the CA’s will measure and manage the financial performance of the project.  Although activity cost estimates are detailed in the work packages, the level of accuracy for cost management is at the fourth level of the WBS.  Credit for work will be assigned at the work package level.  Work started on work packages will grant that work package with 50% credit; whereas, the remaining 50% is credited upon completion of all work defined in that work package.  Costs may be rounded to the nearest dollar and work hours rounded to the nearest whole hour. </p> <br>
-<p>Cost variances of +/- 0.1 in the cost and schedule performance indexes will change the status of the cost to cautionary; as such, those values will be changed to yellow in the project status reports.  Cost variances of +/- 0.2 in the cost and schedule performance indexes will change the status of the cost to an alert stage; as such, those values will be changed to red in the project status reports.  This will require corrective action from the Project Manager in order to bring the cost and/or schedule performance indexes below the alert level.  Corrective actions will require a project change request and be must approved by the Project Sponsor before it can become within the scope of the project. </p>
-
-==Measuring Project Costs==
-<p>This section defines how the project’s costs will be measured.  RAM-IT focuses on Earned Value Management for measuring and controlling a project’s costs. Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management. </p> <br>
-
-<p>Our example in this section measures four Earned Value measurements; Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI) and Cost Performance Index (CPI).  For most typical projects these four measurements can provide enough insight for effective management without overburdening the Project Manager with Earned Value calculations and measurements. </p> <br>
-
-<p>Schedule Variance (SV) is a measurement of the schedule performance for a project.  It’s calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV).  Since EV is the actual value earned in the project and the PV is the value our project plan says we should have earned at this point, when we subtract what we planned from the actual we have a good measurement which tells us if we are ahead or behind the baseline schedule according to our project plan.  If SV is zero, then the project is perfectly on schedule.  If SV is greater than zero, the project is earning more value than planned thus it’s ahead of schedule.  If SV is less than zero, the project is earning less value than planned thus it’s behind schedule. </p> <br>
-
-<p>Cost Variance (CV) is a measurement of the budget performance for a project.  CV is calculated by subtracting Actual Costs (AC) from Earned Value (EV).  As we already know, EV is the actual value earned in the project.  AC is the actual costs incurred to date, thus when we subtract what our actual costs are from the EV, we have a good measurement which tells us if we are above or below budget.  If the CV is zero, then the project is perfectly on budget.  If the CV is greater than zero, the project is earning more value than planned thus it’s under budget.  If the CV is less than zero, the project is earning less value than planned thus it’s over budget. </p> <br>
-
-<p>The Schedule Performance Index (SPI) measures the progress achieved against that which was planned.  SPI is calculated as EV/PV.  If EV is equal to PV, the value of the SPI is 1.  If EV is less than the PV then the value is less than 1, which means the project is behind schedule.  If EV is greater than the PV the value of the SPI is greater than one, which means the project is ahead of schedule.  A well performing project should have its SPI as close to 1 as possible, or maybe even a little under 1. </p> <br>
-
-<p>The Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed.  CPI is calculated as EV/AC.  If CPI is equal to 1 the project is perfectly on budget.  If the CPI is greater than 1 the project is under budget if it’s less than 1 the project is over budget. </p> <br>
-
-==Reporting Format==
-<p>The reporting of the cost management plan will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Pl and will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p> <br>
-
-<p>The reports regarding the cost management plan will be part of the monthly project status report. It will be included in the section labeled “Cost Management”. The delivery of the reports will be curated as accessible and simple to understand for the client, project team, and stakeholders. </p>
-
-==Cost Variance Reponse Process==
-
-<p>The Control Thresholds for this project are a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and how the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan, it will become a part of the project plan and the project will be updated to reflect the corrective actions. </p>
-
-==Cost Change Control Process==
-<p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
-==Project Budget==
-<p>The budget for this project is detailed below.  Costs for this project are presented in various categories... </p>
+=Project Charter=
+<p>This Charter formally authorizes the RAM-IT: ITRO’s ChatBot & Ticketing System to develop and implement a better way for the ITRO to provide customer support to the APC Community. A project plan will be developed and submitted to the Project Sponsor for approval.  The project plan will include: scope statement; schedule; cost estimation; budget; and provisions for scope and limitations, resource, schedule, communications with stakeholders and the sponsor, quality assurance, risk analysis, procurement, and stakeholder management as well as project control. All resources will be assigned by the Project Sponsor, Mr. Jojo F. Castillo, Head of the ITRO.</p>  
+
+<p>RAM-IT: ITRO’s ChatBot and Ticketing System is being developed to assist the ITRO in terms of handling inquiries coming from the members of the APC community. The system will assist them by giving them features like, being able to delegate and track the inquiries in an organized manner, have information on what inquiry has the high priority, and have a ChatBot that can handle FAQs. Members of the APC community will also benefit from this system as they can get their answers immediately if their inquiry can be solved by the ChatBot, if not, they will be assured that the ITRO will see their inquiry with the ticketing system. RAM-IT will be a simple responsive website.</p>
+
+<p>The Project Manager, Jayson Aloya, is hereby authorized to interface with management as required, negotiate for resources, delegate responsibilities within the framework of the project, and to communicate with all contractors and management, as required, to ensure successful and timely completion of the project.  The Project Manager is responsible for developing and creating the project plan, monitoring the schedule, cost, and scope of the project during implementation, and maintaining control over the project by measuring performance and taking corrective action. The project manager will oversee all work and keep track on documentation consistencies. The project manager will lead the project along with the rest of the members towards success.</p>
+
+<p>The Project Sponsor must approve any schedule changes which may impact milestones. A detailed schedule will be included in the project plan.</p>
+
+<p>The high level milestone schedule is:</p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<th bgcolor="lightblue"><p style="text-align:center;">Summary Milestone Schedule – List key project milestones relative to project start.</p></th>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Milestone</p></td>
+		<th><p style="text-align:center;">Target Date<br>(06/26/2023)</p></th>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Start</p></td>
+		<td><p style="text-align:center;">04/26/2022</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Paper Documentation</p></td>
+		<td><p style="text-align:center;">06/20/2022</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Prototype: ChatBot</p></td>
+		<td><p style="text-align:center;">10/05/2022</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Prototype: Ticketing System</p></td>
+		<td><p style="text-align:center;">10/05/2022</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">RAM-IT Sample Testing</p></td>
+		<td><p style="text-align:center;">03/03/2023</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Deploy Solution</p></td>
+		<td><p style="text-align:center;">06/26/2023</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Project Complete</p></td>
+		<td><p style="text-align:center;">06/26/2023</p></td>
+	</tr>
+</table>
+
+<p>The budget for this project is detailed below.  Costs for this project are presented in various categories...</p>
 
 <table width="744" border="1" align="center">
 		<tr style="height: 37px;">
@@ -928,34 +812,699 @@ It will be possible to establish the scope baseline by incorporating the scope d
 
 <table width="744" border="1" align="center">
 <tr style="height: 52px;">
-                           <td style="height: 52px;" width="180" bgcolor="#04549B">
-			       <p><strong>Name</strong></p> </td>
-                            <td style="height: 52px;" width="180" bgcolor="#04549B">
-				<p><strong>Department/Company</strong></p> </td>
-                            <td style="height: 52px;" width="180" bgcolor="#04549B">
-				<p><strong>Position</strong></p> </td>
-                            <td style="height: 52px;" width="180" bgcolor="#04549B">
-				<p><strong>Advisers</strong></p> </td>
-                            <td style="height: 52px;" width="180" bgcolor="#04549B">
-				<p><strong>Objectives, Requirements, Interests</strong></p> </td>
-                            <td style="height: 52px;" width="180" bgcolor="#04549B">
-				<p><strong>Influence</strong></p> </td>
-                            <td style="height: 52px;" width="180" bgcolor="#04549B">
-				<p><strong>Project Contribution</strong></p> </td>
-                            <td style="height: 52px;" width="180" bgcolor="#04549B">
-				<p><strong>Resistance</strong></p> </td>
+                            <th style="height: 52px;" width="180" bgcolor="#04549B">
+			       <strong>Name</strong></th>
+                            <th style="height: 52px;" width="180" bgcolor="#04549B">
+				<strong>Department/Company</strong></th>
+                            <th style="height: 52px;" width="180" bgcolor="#04549B">
+				<strong>Position</strong></th>
+                            <th style="height: 52px;" width="180" bgcolor="#04549B">
+				<strong>Advisers</strong></th>
+                            <th style="height: 52px;" width="180" bgcolor="#04549B">
+				<strong>Objectives, Requirements, Interests</strong></th>
+                            <th style="height: 52px;" width="180" bgcolor="#04549B">
+				<strong>Influence</strong></th>
+                            <th style="height: 52px;" width="180" bgcolor="#04549B">
+				<strong>Project Contribution</strong></th>
+                            <th style="height: 52px;" width="180" bgcolor="#04549B">
+				<strong>Resistance</strong></th>
 
 </tr>
+
 <tr>
 <td><p>Jose Flavio Feliciano Castillo </p></td>
 <td><p>APC ITRO Department </p></td>
 <td><p>Executive Director </p></td>
-<td style="width: 500"><p>•&nbsp;&nbsp;&nbsp;&nbsp;Objective is to ensure a reliable, efficient, and user-friendly system that complies with policies and regulations. <br>
-•&nbsp;&nbsp;&nbsp;&nbsp;Requires knowledge of relevant technologies, experience managing technical systems, and strong communication and problem-solving skills. <br> •&nbsp;&nbsp;&nbsp;&nbsp;Interest for meeting the needs of the school community, ensuring data security, maintaining up-to-date knowledge, and contributing to efficient school operations.</p></td>
-<td><p>APC ITRO Department </p></td>
-<td><p>APC ITRO Department </p></td>
-<td><p>APC ITRO Department </p></td>
-<td><p>APC ITRO Department </p></td>
+<td></td>
+<td style="width: 500"><p><li>Objective is to ensure a reliable, efficient, and user-friendly system that complies with policies and regulations.</li>
+<li>Requires knowledge of relevant technologies, experience managing technical systems, and strong communication and problem-solving skills.</li>
+<li>Interest for meeting the needs of the school community, ensuring data security, maintaining up-to-date knowledge, and contributing to efficient school operations.</li></p></td>
+<td><b>HIGH</b><br>Relationship with other stakeholders, organizational structure, and project sponsor.</td>
+<td>Process improvement, access to resources, and technical expertise.</td>
+<td>Resource constraints & Concerns about data security</td>
+</tr>
+
+<tr>
+<td><p>Academic Personnel & Administrator</p></td>
+<td><p>Asia Pacific College</p></td>
+<td></td>
+<td></td>
+<td style="width: 500"><p><li>Objective is to have access to an easy to use, fast, and streamlined ticket management, with accurate data and ticket resolution.</li>
+<li>Requires the ticketing system to be accessible and can be integrated to school operations.</li>
+<li>Interest in improved overall experience and reduce delays for technology related inquiries.</li></p></td>
+<td><b>HIGH</b><br>Priority in collected data and user experience.</td>
+<td>Providing feedback on its usability, functionality, and effectiveness.</td>
+<td>User challenges & Changes to existing processes</td>
+</tr>
+
+<tr>
+<td><p>Optimum Five</p></td>
+<td><p>Asia Pacific College</p></td>
+<td><p>Project Team</p></td>
+<td><p>Jo Anne M. de la Cuesta</p></td>
+<td style="width: 500"><p><li>Objective is to design, develop, and implement a reliable, user-friendly, and efficient system that meets the needs of the school and its stakeholders.</li>
+<li>Requires gathering and analyze requirements from various stakeholders, including students, parents, teachers, administrators, and IT staff.</li>
+<li>Interest in the success of the project, as it reflects their skills and expertise, and may be interested in career advancement and gaining experience.</li></p></td>
+<td><b>HIGH</b><br>Design, development, documentation, management, and implementation.</td>
+<td>Project design, development, documentation, management, and implementation.</td>
+<td>Technical challenges & Changes to existing processes</td>
 </tr>
 
 </table>
+
+=Scope Management Plan=
+==Introduction==
+<p> The RAMIT scope management plan will provide an overview of the best practices and modern instruments that will be used to specify, record, and manage the project's scope. The project team will be able to use agile approaches and real-time collaboration technologies to provide a cutting-edge tool that satisfies the requirements of all the stakeholders that are involved.</p>
+
+<p> The scope of RAMIT will be defined through the following activities: </p>
+
+===Requirements gathering===
+<p>The project team will employ a number of methods to collect and Include user interviews, focus groups, and online surveys while documenting the system's needs.</p>   
+
+===User stories===
+<p>In order to describe the functionality of the project, the project team will generate user stories. system from the viewpoint of the ultimate user. The order of these stories will be determined by the development process and it will be guided by the business value.</p>   
+
+===Verify Scope===
+</p>The requirements and user stories will be used as input to verify the scope. It will give a high-level summary of the project scope, including the deliverables, exclusions, and restrictions.</p>  
+
+===Control Scope===
+</p>By including the verification of the scope, the control scope will be established. project management strategy, as well as the user stories. As the information is updated, the Project progresses to account for scope changes.</p>  
+
+==Scope Management Approach==
+</p>The scope of RAMIT will be documented in the following ways: </p>  
+
+===Requirements documentation===
+<p>The system's specifications will be outlined in a specifications document for requirements.</p>   
+
+===Project management plan===
+<p>The scope is a component of the project management plan. the scope baseline and any other pertinent details regarding the extent of the project. </p>
+
+===Backlog===
+<p>A Backlog will be maintained to track all changes to the scope of the project, including the description of the change, the impact on the project, and the required approvals.</p>
+
+<p>The scope of RAMIT will be controlled through the following activities:   </p>
+
+===Scope verification===
+<p>Agile testing methods will be used by the team to ensure that the project's deliverables are compliant with the specifications and follow the stated scope.</p>
+
+===Scope change control===
+<p>Project scope modifications will be handled through a formal change control procedure that includes an evaluation of the effect on the Schedule, budget, and quality of the project.</p>
+
+===Scope change review===
+<p>Each change request will be the subject of a scope change review. Verify that the change is required, practicable, and in line with the project's goals. </p>
+
+==Roles and Responsibilities==
+<p></p>
+
+==Scope Definition==
+<p>The Ticketing system can decrease the margin of unsolved problems that aren't solved yet or problems that hasn't seen the light of day. The opportunity to increase the number of these inquiries to be solved by the ITRO by making a system that can sort, centralize, and manage the inquiries in a single system.</p>
+
+==Project Scope Statement==
+<p></p>
+
+==Work Breakdown Structure==
+<p></p>
+
+==Scope Verification==
+<p>The team will employ agile testing techniques to make sure that the project's deliverables adhere to the specified scope and are in compliance with the requirements.  
+
+ 
+
+The project team will use various techniques for scope verification to guarantee that the Dispatch Directory System project deliverables satisfy the original scope. These methods include:  
+
+   
+
+Quality Checklists : 
+
+A Backlog will be maintained to track all changes to the scope of the project, including the description of the change, the impact on the project, and the required approvals.   
+
+  
+
+Scope Baseline: 
+
+It will be possible to establish the scope baseline by incorporating the scope declaration. User stories and project management strategy are both involved. The project moves on to take scope adjustments into account as the information is updated.  </p>
+
+
+
+==Scope Control==
+<p>Scope control is the process of monitoring the status of the scope of the project. This section also details the change process for making changes to the scope baseline. </p>
+
+
+=Cost Management Plan=
+
+==Introduction==
+<p>For the management of costs for RAM-IT, it will be managed by the Documentation team, which consists of 3 members of the project team, these members will be responsible for reporting and documenting the costs that the team will spend during the development of the project. The Project Leader and Head Developer will have the authority to approve changes made to the project or its budget. The cost performance will be measured using earned value and it will be reported every progress meeting that the proponents will schedule. The proponents will also discuss and propose their budget, costs, and performance with their stakeholders and client. </p>
+==Cost Management Approach==
+<p>Costs for this project will be managed at the fourth level of the Work Breakdown Structure (WBS).  Control Accounts (CA) will be created at this level to track costs.  Earned Value calculations for the CA’s will measure and manage the financial performance of the project.  Although activity cost estimates are detailed in the work packages, the level of accuracy for cost management is at the fourth level of the WBS.  Credit for work will be assigned at the work package level.  Work started on work packages will grant that work package with 50% credit; whereas, the remaining 50% is credited upon completion of all work defined in that work package.  Costs may be rounded to the nearest dollar and work hours rounded to the nearest whole hour. </p> <br>
+<p>Cost variances of +/- 0.1 in the cost and schedule performance indexes will change the status of the cost to cautionary; as such, those values will be changed to yellow in the project status reports.  Cost variances of +/- 0.2 in the cost and schedule performance indexes will change the status of the cost to an alert stage; as such, those values will be changed to red in the project status reports.  This will require corrective action from the Project Manager in order to bring the cost and/or schedule performance indexes below the alert level.  Corrective actions will require a project change request and be must approved by the Project Sponsor before it can become within the scope of the project. </p>
+
+==Measuring Project Costs==
+<p>This section defines how the project’s costs will be measured.  RAM-IT focuses on Earned Value Management for measuring and controlling a project’s costs. Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management. </p> <br>
+
+<p>Our example in this section measures four Earned Value measurements; Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI) and Cost Performance Index (CPI).  For most typical projects these four measurements can provide enough insight for effective management without overburdening the Project Manager with Earned Value calculations and measurements. </p> <br>
+
+<p>Schedule Variance (SV) is a measurement of the schedule performance for a project.  It’s calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV).  Since EV is the actual value earned in the project and the PV is the value our project plan says we should have earned at this point, when we subtract what we planned from the actual we have a good measurement which tells us if we are ahead or behind the baseline schedule according to our project plan.  If SV is zero, then the project is perfectly on schedule.  If SV is greater than zero, the project is earning more value than planned thus it’s ahead of schedule.  If SV is less than zero, the project is earning less value than planned thus it’s behind schedule. </p> <br>
+
+<p>Cost Variance (CV) is a measurement of the budget performance for a project.  CV is calculated by subtracting Actual Costs (AC) from Earned Value (EV).  As we already know, EV is the actual value earned in the project.  AC is the actual costs incurred to date, thus when we subtract what our actual costs are from the EV, we have a good measurement which tells us if we are above or below budget.  If the CV is zero, then the project is perfectly on budget.  If the CV is greater than zero, the project is earning more value than planned thus it’s under budget.  If the CV is less than zero, the project is earning less value than planned thus it’s over budget. </p> <br>
+
+<p>The Schedule Performance Index (SPI) measures the progress achieved against that which was planned.  SPI is calculated as EV/PV.  If EV is equal to PV, the value of the SPI is 1.  If EV is less than the PV then the value is less than 1, which means the project is behind schedule.  If EV is greater than the PV the value of the SPI is greater than one, which means the project is ahead of schedule.  A well performing project should have its SPI as close to 1 as possible, or maybe even a little under 1. </p> <br>
+
+<p>The Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed.  CPI is calculated as EV/AC.  If CPI is equal to 1 the project is perfectly on budget.  If the CPI is greater than 1 the project is under budget if it’s less than 1 the project is over budget. </p> <br>
+
+==Reporting Format==
+<p>The reporting of the cost management plan will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Pl and will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p> <br>
+
+<p>The reports regarding the cost management plan will be part of the monthly project status report. It will be included in the section labeled “Cost Management”. The delivery of the reports will be curated as accessible and simple to understand for the client, project team, and stakeholders. </p>
+
+==Cost Variance Reponse Process==
+
+<p>The Control Thresholds for this project are a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and how the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan, it will become a part of the project plan and the project will be updated to reflect the corrective actions. </p>
+
+==Cost Change Control Process==
+<p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
+==Project Budget==
+<p>The budget for this project is detailed below.  Costs for this project are presented in various categories... </p>
+
+<table width="744" border="1" align="center">
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+				<p><strong>INITIATION</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180" bgcolor="#04549B">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="#04549B">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198" bgcolor="#04549B">
+				<p><strong>Work Hours</strong></p>
+			</td>
+			<td style="height: 52px;" width="108" bgcolor="#04549B">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162" bgcolor="#04549B">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 23</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 37,000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 18,000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Business Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 160.5</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 284.00 * 14</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 17, 976.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 72, 976.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744">
+				<p><strong>PLANNING</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198">
+				<p><strong>Salary * No. of Days in February 2018</strong></p>
+			</td>
+			<td style="height: 52px;" width="108">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 32, 174.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 17</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 15,300.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Financial Consultant</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 125.00</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 000.00 * 12</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 12, 000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Business Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 160.5</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 284.00 * 12</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 15, 408.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 74, 882.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+				<p><strong>EXECUTION</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180" bgcolor="lightblue">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="lightblue">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198" bgcolor="lightblue">
+				<p><strong>Salary * No. of Days in March to August 2018</strong></p>
+			</td>
+			<td style="height: 52px;" width="108" bgcolor="lightblue">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162" bgcolor="lightblue">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 132</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 212, 348.40</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 57</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 51, 300.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Digital Designer</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 104.73</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 837.86 * 80</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 67, 028.80</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>System Developer</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 178.84</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 430.72 * 132</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>2</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 377, 710.08</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Quality Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 154.64</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 237.12 * 60</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 74, 227.20</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total</strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 782, 614.48</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+				<p><strong>CONTROL </strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180" bgcolor="lightblue">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="lightblue">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198" bgcolor="lightblue">
+				<p><strong>Salary * No. of Days in Septemer 2018</strong></p>
+			</td>
+			<td style="height: 52px;" width="108" bgcolor="lightblue">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162" bgcolor="lightblue">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 32, 174.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 17</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 15,300.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Quality Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 154.64</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 237.12 * 12</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 14, 845.44</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>System Developer (Head)</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 178.84</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 430.72 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 28, 614.40</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 90, 934.64</p>
+			</td>
+		</tr>
+		<tr style="height: 15px;">
+			<td style="height: 15px;" width="180"> </td>
+			<td style="height: 15px;" width="96"> </td>
+			<td style="height: 15px;" width="198"> </td>
+			<td style="height: 15px;" width="108"> </td>
+			<td style="height: 15px;" width="162"> </td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+				<p><strong>CLOSEOUT</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 52px;">
+			<td style="height: 52px;" width="180" bgcolor="lightblue">
+				<p><strong>ROLE</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="lightblue">
+				<p><strong>Hourly Rate</strong></p>
+			</td>
+			<td style="height: 52px;" width="198" bgcolor="lightblue">
+				<p><strong>Salary * No. of Days in October 2018</strong></p>
+			</td>
+			<td style="height: 52px;" width="108" bgcolor="lightblue">
+				<p><strong>No. of People</strong></p>
+			</td>
+			<td style="height: 52px;" width="162" bgcolor="lightblue">
+				<p><strong>COST</strong></p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Project Manager</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 201.09</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 1, 608.70 * 23</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 37,000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Document Analyst</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 112.50</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>₱ 900.00 * 20</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 18,000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Sub-Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 55, 000.00</p>
+			</td>
+		</tr>
+		<tr style="height: 37px;">
+			<td style="height: 37px;" colspan="4" width="582">
+				<p><strong>Total </strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱1,076,409.28</p>
+			</td>
+		</tr>
+</table>
+
+=Schedule Management Plan=
+
+==Introduction==
+
+<p>For every project that will be created or built, there is always a record of the time and where the deliverables are placed. Deliverables that are either to be started, ongoing, and complete, here thus also lie the plans for the future of the projects which in the case of a technological project is called either update or upgrade.</p>
+
+<p>The Schedule Management Plan is technically one of the most important aspects of planning to create a program where it records and even lists deadlines for each part of the project. The purpose of the schedule management plan for technological projects is to complete a specific program in order and thus monitor the insights of the developers in the first place are thoroughly followed.</p>
+
+==Schedule Management Approach==
+
+<p>There is a software called Project Libre, it was introduced and taught to the developers of the project. In Project Libre, the developers list, plans out, and monitor the parts of the project that moves the progress of building the program. </p>
+
+<p>The said software helps the team to approach the schedule management plan. The developers include a specific format to be easily understood which reviews the progress now and then. This software also indicates the milestones of the project, which under these milestones are deliverables of each member that records the progress, roles, and responsibilities.</p>
+
+<a href="https://user-images.githubusercontent.com/60862961/235907629-5ee41a88-7f1f-42eb-9ac1-a8a66ea87029.png">Team's ProjectLibre Gantt Chart 1</a>
+
+<a href="https://user-images.githubusercontent.com/60862961/235907669-eb0ebc3e-a6f9-4a07-b1c3-6a82de3a64e7.png>Team's ProjectLibre Gantt Chart 2</a>
+
+==Schedule Control==
+
+<p>With the help of how the developers approached the schedule management plan, the team was able to put the management under control. The team was able to control schedule management not only with the said application but also with the help of Microsoft Teams. Microsoft Teams reminds the members about meetings that tackle the listed plan in the team's Project Libre.</p>
+
+<p>For the communication and updates that control, and follow the flow of the plan for the project. Microsoft Teams is effective and efficient, and with its Calendar, the team meetings are reminded. Communicating with the team helps the members with their deliverables and deadlines. With this kind of control, it will be easy for the team to be notified if the project has a minor or major update will be added to the project.</p>
+
+<p>Group or Team meetings are important not only for brainstorming and communicating about the project but also this reminds the team about the schedule management plan of the project.</p>
+
+<a href="https://user-images.githubusercontent.com/60862961/235909994-8e3aa14f-a705-498e-843b-dc7acbbb4da4.png">Microsoft Teams (Calendar)</a>
+
+<a href="https://user-images.githubusercontent.com/60862961/235910012-73b00b8c-326f-41b3-a440-93d937f71547.png">Microsoft Teams (In-Meeting with Adviser)</a>
+
+
+
+==Schedule Changes and Thresholds==
+
+<p>As for the team's development progress, there is a consistent and planned schedule since each member of the team must be updated on little by little progress of each work. The team expects that at any time in the progress, there will be multiple circumstances of schedule changes and the deliverables or project thresholds.</p>
+
+<p>For the team to comply with these kinds of situations, we do not set or stack up the contents and the lists of deliverables from the schedule management plan for that it would be possible and still on track and thus maintain the consistency of the progress of the project if there will be changes from the schedules of each member, deliverables and the deadlines that can also affect the threshold which if managed well, the team will not have a hard time to re-adjust.</p>
+
+<p>The team allotted more or less 42% per week to comply with these circumstances, which will create a more or less 33% change in the threshold for the monthly deliverable or milestone of the project.</p>
+
+==Scope Change==
+
+<p>The given allotted dates, times, or days in the team's schedule management plan will not ruin the plan if a change will occur during the progress. It will be less workload for the team and its project manager to readjust or re-baselined the schedule management plan. </p>
+
+<p>The team consists of a few members, so assigning more deliverables for each day would stack up and may end in confusion or forgetting about the assigned deliverables, it will create havoc within the schedule management plan, depending on the change that will occur.</p>
+
+<p>The proper management and setting of the schedule management plan will affect the developers, the team, and the project manager that oversees the progress from time to time. It will be easier to monitor, adjust and add if there will be changes within the plan.</p>
+
+<p>The given preparedness within the schedule management plan is also the scope of the team, although the team expects multiple changes during the progress. As developers, the team must prepare for minor or major adjustments and changes in the schedule management plan.</p>
