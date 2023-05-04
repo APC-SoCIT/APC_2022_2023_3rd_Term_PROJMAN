@@ -1137,7 +1137,7 @@ If the request is rejected, the project team will continue with the original sco
 <li>
 It  is  important  to  have a  formalized  process  for  making  changes  to  the  scope baseline to ensure that the Tracking Activity Project Management System project stays on track and within budget. Any changes to the scope should be carefully assessed and approved to avoid scope creeps and keep the project on track.
 </li>
-</ul>
+</ol>
 
 =Cost Management Plan=
 
@@ -1186,11 +1186,51 @@ Cost Reporting: The  project  team  will  report  regularly  the  project  costs
 
 <h2>Measuring Project Costs</h2>
 
+<p>The Project Tracking and Monitoring System (TAPM) cost almost nothing and involved the creation of software using Laravel and Visual Studio, as well as GitHub, we will use Man-hours and hourly rate to measure and control our project costs.</p>
 
+<p>To estimate the cost of the project based on the given information, you can use the following formula:</p>
+
+<pr>Total Cost = Number of Man-Hours * Hourly Rate <br>
+Assuming a junior programmer salary of 375 Pesos per hour, the cost of the project can be estimated as follows:</pr>
+
+<p>Total Number of Man-Hours = 40 hours/week * 13 weeks = 520 Hours <br>
+Total Cost = 520 Hours * 375/hour = 195000</p>
+
+<p>So, the estimated cost of the project based on man-hours and junior programmer salary is 195000 Pesos. However, please note that this is only an estimate, and the actual cost may vary based on factors such as project complexity, resource utilization, and unforeseen events.</p>
+
+<p>To forecast future project costs, we will review cost performance over time and across work packages or schedule activities. This will help us identify any potential cost overruns or deviations from our project plan. By measuring and monitoring our project costs, we can ensure that we stay on track and deliver our project within budget.</p>
 
 <h2>Reporting Format</h2>
 
+<p>The ideal reporting format at the cost management plan for the Project Tracking and Monitoring System would be a financial report using a spreadsheet, excel, or table. This will include all the technical, maintenance, and for the hourly work of each member, inforamtion for the project budget that will be incurred.</p>
+<p>In addition to that there are format that are easily understandable and helpful for the stakeholders and theproject team, reporting is especially needed in seeing how much the expected cost and amount of a project, some helpful infographic can also be used upon reporting. The following formats can be used for the project Tracking and Monitoring System:</p>
+<ul>
+<li>
+Executive Summary
+</li>
+<li>
+Budget Overview
+</li>
+<li>
+Cost Variance Analysis
+</li>
+<li>
+Budget Forecast
+</li>
+<li>
+Cost Management Metrics
+</li>
+<li>
+Approval Sign off
+</li>
+<li>
+Appendices
+</li>
+</ul>
+
 <h2>Cost Variance Response Process</h2>
+
+
 
 <h2>Cost Change Control Process</h2>
 
