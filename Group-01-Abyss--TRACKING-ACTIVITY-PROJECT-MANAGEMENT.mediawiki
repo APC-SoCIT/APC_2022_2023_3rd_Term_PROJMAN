@@ -119,83 +119,123 @@
 <p>There are current Tracking Activity and Project  Management processes that are inefficient and time-consuming,  resulting  in  misunderstandings,  missed deadlines,  and delays in project completion.</p>
 
 <h2>Organizational Impact</h2>
-
-<p>•   &nbsp; Increased  Efficiency: A well  designed and  effective  Tracking  Activity  and  Project Management system can be used to optimize resource use, avoid duplication of work, and improve project workflows.</p>
-
-<p>•   &nbsp; Better   Communication   and   Collaboration:   A   Tracking   Activity   and   Project Management system  can  provide an organized  platform  for  team  members  to communicate  and  work  together,  facilitating more  efficient  teamwork  better decision-making, and better problem solving.</p>
-
-<p>•   &nbsp; Increased Accountability: A Tracking Activity and Project Management system can provide insights into project performance and progress, which makes it simpler to hold team members accountable for their responsibilities.</p>
+<ul>
+	<li>
+		Increased  Efficiency: A well  designed and  effective  Tracking  Activity  and  Project Management system can be used to optimize resource use, avoid duplication of work, and improve project workflows.
+	</li>
+	<li>
+		Better   Communication   and   Collaboration:   A   Tracking   Activity   and   Project Management system  can  provide an organized  platform  for  team  members  to communicate  and  work  together,  facilitating more  efficient  teamwork  better decision-making, and better problem solving.
+	</li>
+	<li>
+		Increased Accountability: A Tracking Activity and Project Management system can provide insights into project performance and progress, which makes it simpler to hold team members accountable for their responsibilities.
+	</li>
+</ul>
 
 <h2>Technology Migration</h2>
 <p>This are the technology migration for the Project Tracking Activity Management:</p>
-
-<p>•   &nbsp; Assess the current technology stack: The first step in migrating to any system is to assess the current technology stack. This involves identifying the current software, hardware, and infrastructure that are in place. You will need to determine the strengths and weaknesses of the current system and identify areas that require improvement.</p>
-
-<p>•   &nbsp; Define the target technology stack: Once you have assessed the current technology stack, you need to define the target technology stack. This involves identifying the technologies and platforms that will be used to build the new system. You will need to consider factors such as scalability, security, and user experience when selecting modern technologies.</p>
-
-<p>•   &nbsp; Plan the migration strategy: With the current and target technology stacks identified, you need to plan the migration strategy. This involves determining the steps required to move from the current system to the new system. You will need to consider factors such as data migration, testing, and deployment when planning the migration strategy.</p>
-
-<p>•   &nbsp; Execute the migration: Once the migration strategy has been defined, you can begin to execute the migration. This involves implementing modern technologies, migrating data from the old system to the new system, and testing the new system to ensure it meets the requirements.</p>
-
-<p>•   &nbsp; Train the users: After the new system has been deployed, you will need to train the users in how to use the new system. This involves providing documentation, training sessions, and support to ensure the users are comfortable with the new system.</p>
-
-<p>•   &nbsp; Monitor and maintain the new system: Finally, you will need to monitor and maintain the new system to ensure it continues to meet the requirements. This involves monitoring the system for issues, performing regular maintenance, and making updates, as necessary.</p>
+<ul>
+	<li>
+		Assess the current technology stack: The first step in migrating to any system is to assess the current technology stack. This involves identifying the current software, hardware, and infrastructure that are in place. You will need to determine the strengths and weaknesses of the current system and identify areas that require improvement.
+	</li>
+	<li>
+		Define the target technology stack: Once you have assessed the current technology stack, you need to define the target technology stack. This involves identifying the technologies and platforms that will be used to build the new system. You will need to consider factors such as scalability, security, and user experience when selecting modern technologies.
+	</li>
+	<li>
+		Plan the migration strategy: With the current and target technology stacks identified, you need to plan the migration strategy. This involves determining the steps required to move from the current system to the new system. You will need to consider factors such as data migration, testing, and deployment when planning the migration strategy.
+	</li>
+	<li>
+		Execute the migration: Once the migration strategy has been defined, you can begin to execute the migration. This involves implementing modern technologies, migrating data from the old system to the new system, and testing the new system to ensure it meets the requirements.
+	</li>
+	<li>
+		Train the users: After the new system has been deployed, you will need to train the users in how to use the new system. This involves providing documentation, training sessions, and support to ensure the users are comfortable with the new system.
+	</li>
+	<li>
+		Monitor and maintain the new system: Finally, you will need to monitor and maintain the new system to ensure it continues to meet the requirements. This involves monitoring the system for issues, performing regular maintenance, and making updates, as necessary.
+	</li>
+	<li>
+		
+	</li>
+</ul>
 
 <h2>Project Overview</h2>
 
 <p>The project aims to develop a website/system that will help the Asia Pacific College's Project Development Office monitor the progress of their internal and external projects promptly. The system will provide a platform that can enhance the PDO's capacity to track projects and generate reports efficiently.</p>
 
 <p>The project group will develop the system with the following intentions:</p>
-
-<p>•   &nbsp; Design and deploy software during PBL1 that can assist the PDO in tracking projects and generating reports in a timely manner. The software should be user-friendly and easily accessible with the PDO.</p>
-
-<p>•   &nbsp; Develop a collaboration space that can facilitate the dissemination of files, ideas, and information between student groups and faculty members. The collaboration space should be well-suited for project-based learning, allowing students and faculty to work together efficiently and effectively. </p>
-
-<p>•   &nbsp; The system should have the capacity to monitor the status of projects under PBL2. It should provide real-time updates on the progress of the projects and allow the PDO to manage expectations for industry partners. </p>
+<ul>
+	<li>
+		Design and deploy software during PBL1 that can assist the PDO in tracking projects and generating reports in a timely manner. The software should be user-friendly and easily accessible with the PDO.
+	</li>
+	<li>
+		Develop a collaboration space that can facilitate the dissemination of files, ideas, and information between student groups and faculty members. The collaboration space should be well-suited for project-based learning, allowing students and faculty to work together efficiently and effectively.</li>
+	<li>
+		The system should have the capacity to monitor the status of projects under PBL2. It should provide real-time updates on the progress of the projects and allow the PDO to manage expectations for industry partners.
+	</li>
+</ul>
 
 <p>The project group will follow a project management framework that includes the following phases: </p>
-
-<p>•   &nbsp; Initiation: In this phase, the project group will define the project's scope and objectives, identify stakeholders, and establish the project team. </p>
-
-<p>•   &nbsp; Planning: The project group will develop a project plan that includes the project timeline, budget, and resources required. The group will also define the system requirements and specifications during this phase. </p>
-
-<p>•   &nbsp; Execution: The project group will implement the project plan by designing and developing the system. The group will also conduct tests and quality assurance during this phase. </p>
-
-<p>•   &nbsp; Monitoring and Controlling: In this phase, the project group will monitor the project's progress and make any necessary changes to ensure it is on track. </p>
-
-<p>•   &nbsp; Closure: The project group will deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met. </p>
+<ul>
+	<li>
+		Initiation: In this phase, the project group will define the project's scope and objectives, identify stakeholders, and establish the project team.
+        </li>
+	<li>
+		Planning: The project group will develop a project plan that includes the project timeline, budget, and resources required. The group will also define the system requirements and specifications during this phase. 
+        </li>
+	<li>
+		Monitoring and Controlling: In this phase, the project group will monitor the project's progress and make any necessary changes to ensure it is on track.
+	</li>
+	<li>
+		Closure: The project group will deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met.
+	</li>
+</ul>
 
 <h2>Goals and Objectives</h2>
 
 <p>The listed goals and objectives below are designed to achieve the project's goals, which are to enhance the Project Development Office's capacity to track project progress and generate reports in a timely manner, improve project delivery and industry partner satisfaction, provide a collaboration space for student groups and faculty members, develop a system that can monitor the status of projects under PBL2 and allow the PDO to manage project expectations efficiently, and ensure the confidentiality of project information through a robust security mechanism. </p>
 
 <p>Goals: </p>
-
-<p>•   &nbsp; Enhance the Project Development Office's capacity to track project progress and generate reports in a timely manner. </p>
-
-<p>•   &nbsp; Improve project delivery and industry partner satisfaction through timely project completion. </p>
-
-<p>•   &nbsp; Provide a collaboration space for student groups and faculty members to disseminate files, ideas, and information. </p>
-
-<p>•   &nbsp; Develop a system that can monitor the status of projects under PBL2 and allow the PDO to manage project expectations efficiently. </p>
-
-<p>•   &nbsp; Ensure the confidentiality of project information through a robust security mechanism. </p>
+<ul>
+	<li>
+		Enhance the Project Development Office's capacity to track project progress and generate reports in a timely manner.
+	</li>
+	<li>
+		Improve project delivery and industry partner satisfaction through timely project completion.
+	</li>
+	<li>
+		Provide a collaboration space for student groups and faculty members to disseminate files, ideas, and information.
+	</li>
+	<li>
+		Develop a system that can monitor the status of projects under PBL2 and allow the PDO to manage project expectations efficiently.
+	</li>
+	<li>
+		Ensure the confidentiality of project information through a robust security mechanism.
+	</li>
+</ul>
 
 <p>Objectives: </p>
-
-<p>•   &nbsp; Design and deploy software during PBL1 that can assist the PDO in tracking projects and generating reports in a timely manner. </p>
-
-<p>•   &nbsp; Develop a collaboration space that can facilitate the dissemination of files, ideas, and information between student groups and faculty members. </p>
-
-<p>•   &nbsp; Develop a system that can provide real-time updates on the progress of projects under PBL2 and allow the PDO to manage project expectations efficiently. </p>
-
-<p>•   &nbsp; Ensure that the system is user-friendly and easily accessible with the PDO. </p>
-
-<p>•   &nbsp; Ensure that the system has a robust security mechanism to protect the confidentiality of project information. </p>
-
-<p>•   &nbsp; Complete the project within the given timeline and budget. </p>
-
-<p>•   &nbsp; Deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met. </p>
+<ul>
+	<li>
+		Design and deploy software during PBL1 that can assist the PDO in tracking projects and generating reports in a timely manner.
+	</li>
+	<li>
+		Develop a collaboration space that can facilitate the dissemination of files, ideas, and information between student groups and faculty members.
+	</li>
+	<li>
+		Develop a system that can provide real-time updates on the progress of projects under PBL2 and allow the PDO to manage project expectations efficiently.
+	</li>
+	<li>
+		Ensure that the system is user-friendly and easily accessible with the PDO.
+	</li>
+	<li>
+		Ensure that the system has a robust security mechanism to protect the confidentiality of project information.
+	</li>
+	<li>
+		Complete the project within the given timeline and budget.
+	</li>
+	<li>
+		Deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met.
+	</li>
+</ul>
 
 <h2>Risks</h2>
 <table width="795" border="1" width="70%" align="center">
@@ -400,20 +440,29 @@
 <p>The specific timeline and milestones for each phase of the project will depend on the project scope, complexity, and resource availability. By breaking down the project into these major milestones, you can track progress and ensure that the project stays on schedule and within budget. </p>
 
 <p>Here are some possible major project milestones for the development and deployment of the tracking activity project management: </p>
-
-<p>•   &nbsp; Project Planning: This involves defining the project scope, objectives, requirements, and constraints, and creating a project plan outlining the project timeline, budget, and resource allocation. </p>
-
-<p>•   &nbsp; System Design: This involves designing the system architecture, interface, functionality, and security mechanisms, and creating detailed system specifications and wireframes. </p>
-
-<p>•   &nbsp; System Development: This involves coding, testing, and debugging the system's front-end and back-end components, as well as integrating the system with the PDO's existing technology infrastructure. </p>
-
-<p>•   &nbsp; System Testing: This involves testing the system's functionality, performance, usability, and security, as well as conducting user acceptance testing with the PDO and other stakeholders. </p>
-
-<p>•   &nbsp; System Deployment: This involves deploying the system on the PDO's servers or on a cloud-based platform, as well as configuring the system's settings, access permissions, and security protocols. </p>
-
-<p>•   &nbsp; User Training: This involves providing user training and documentation to the PDO's staff, faculty, and students, as well as conducting system demonstrations and providing ongoing technical support. </p>
-
-<p>•   &nbsp; System Maintenance: This involves monitoring the system's performance, troubleshooting issues, applying software updates and security patches, and ensuring the system's ongoing reliability and security. </p>
+<ul>
+	<li>
+		Project Planning: This involves defining the project scope, objectives, requirements, and constraints, and creating a project plan outlining the project timeline, budget, and resource allocation.
+	</li>
+	<li>
+		System Design: This involves designing the system architecture, interface, functionality, and security mechanisms, and creating detailed system specifications and wireframes.
+	</li>
+	<li>
+		System Development: This involves coding, testing, and debugging the system's front-end and back-end components, as well as integrating the system with the PDO's existing technology infrastructure.
+	</li>
+	<li>
+		System Testing: This involves testing the system's functionality, performance, usability, and security, as well as conducting user acceptance testing with the PDO and other stakeholders.
+	</li>
+	<li>
+		System Deployment: This involves deploying the system on the PDO's servers or on a cloud-based platform, as well as configuring the system's settings, access permissions, and security protocols.
+	</li>
+	<li>
+		User Training: This involves providing user training and documentation to the PDO's staff, faculty, and students, as well as conducting system demonstrations and providing ongoing technical support.
+	</li>
+	<li>
+		System Maintenance: This involves monitoring the system's performance, troubleshooting issues, applying software updates and security patches, and ensuring the system's ongoing reliability and security.
+	</li>
+</ul>
 
 <h2>Strategic Alignment</h2>
 
@@ -435,7 +484,7 @@
 
 <h2>Project Purpose/Justification</h2>
 
-
+<p>The purpose of this project  is  to  create  a  project  tracker  platform  that  enables  the  Project Development  Office  (PDO)  of  Asia  Pacific  College  to  efficiently  monitor  and  track  the progress  of  multiple  student  teams  working  on  a single  project  in  collaboration  with industry  partners.  The  project  deliverables  shall  include  a  collaborative  platform  with additional features that can help monitor, track, participate, and generate reports for the assigned  student  groups,  as  well  as  a  project  plan  that  includes  a  scope  statement, schedule,   cost   estimate,   budget,   and   provisions   for   scope,   resource,   schedule, communications,  quality,  risk,  procurement,  and  stakeholder  management  as  well  as project control. The project aims to improve the efficiency and effectiveness of the PDO and any educators  facing  similar  issues  in monitoring  student  team  progress on  group projects. The project may also address the fourth Sustainable Development Goal, which is  Quality  Education,  by  enhancing  the  educational  experience  of  students  through improved project management and monitoring.</p>
 
 <h2>Business Need/Case</h2>
 
@@ -451,14 +500,21 @@
 <h2>Business Objectives</h2>
 
 <p>The business objectives for this project are in direct support of our corporate strategic plan to improve IT security and reduce costs associated with loss and waste.</p>
+<ul>
+	<li>
+		Improve project outcomes: The primary objective of implementing tracking activity and project management is to improve project outcomes, such as meeting project timelines, staying within budget, and delivering quality products or services.
+	</li>
+	<li>
+		Enhance team collaboration: By implementing project management tools, team members can work together more effectively and collaborate on projects in real-time, regardless of their location.
+	</li>
+	<li>
+		Optimize resource allocation: By tracking activity and monitoring progress, project managers can identify areas where resources may be over-allocated or under-allocated.
+	</li>
+	<li>
+		Increase efficiency: Project management tools can help to automate repetitive tasks, track progress, and provide real-time updates, which can increase efficiency and reduce the risk of errors.
+	</li>
 
-<p>•   &nbsp; Improve project outcomes: The primary objective of implementing tracking activity and project management is to improve project outcomes, such as meeting project timelines, staying within budget, and delivering quality products or services.</p>
-
-<p>•   &nbsp; Enhance team collaboration: By implementing project management tools, team members can work together more effectively and collaborate on projects in real-time, regardless of their location.</p>
-
-<p>•   &nbsp; Optimize resource allocation: By tracking activity and monitoring progress, project managers can identify areas where resources may be over-allocated or under-allocated.</p>
-
-<p>•   &nbsp; Increase efficiency: Project management tools can help to automate repetitive tasks, track progress, and provide real-time updates, which can increase efficiency and reduce the risk of errors.</p>
+</ul>
 
 <h2>Project Description</h2>
 
@@ -469,32 +525,48 @@
 <h2>Project Objectives and Success Criteria</h2>
 
 <p>The objectives which mutually support the milestones and deliverables for this project have been identified.  To achieve success on the project, the following objectives for the tracking activity and project management project must be met within the designated time allocations:</p>
-
-<p>•   &nbsp; Specific: Improve project outcomes by reducing project completion time by 70% compared to the previous term and achieve 100% by the last term.</p>
-
-<p>•   &nbsp; Measurable: Increase team collaboration by achieving a 20% increase in team member participation in project planning and status meetings. </p>
-
-<p>•   &nbsp; Attainable: Implement a new project management tool that meets the organization's specific needs and can be deployed within the next 3 months. </p>
-
-<p>•   &nbsp; Realistic: Optimize project to what the project team can accomplish and still maintain the quality and scope.</p>
-
-<p>•   &nbsp; Time-bound: Foster innovation by implementing a new idea management system and receiving at least new ideas from team members within the first the term period/months. </p>
+<ul>
+	<li>
+		Specific: Improve project outcomes by reducing project completion time by 70% compared to the previous term and achieve 100% by the last term.
+	</li>
+	<li>
+		Measurable: Increase team collaboration by achieving a 20% increase in team member participation in project planning and status meetings.
+	</li>
+	<li>
+		Attainable: Implement a new project management tool that meets the organization's specific needs and can be deployed within the next 3 months.
+	</li>
+	<li>
+		Realistic: Optimize project to what the project team can accomplish and still maintain the quality and scope.
+	</li>
+	<li>
+		Time-bound: Foster innovation by implementing a new idea management system and receiving at least new ideas from team members within the first the term period/months.
+	</li>
+</ul>
 
 <h2>Requirements</h2>
 
-<p>his project must meet the following list of requirements in order to achieve success.</p>
+<p>This project must meet the following list of requirements in order to achieve success.</p>
+<ul>
+	<li>
+		The project management system should be user-friendly and intuitive, with a simple and easy-to-use interface.
+	</li>
+	<li>
+		The system should allow for easy collaboration and communication among team members, faculty or teachers, and PDO.
+	</li>
+	<li>
+		The system should provide real-time data on project progress, projects managed, project details and members.
+	</li>
+	<li>
+		The system should be secure and provide role-based access to data, ensuring that only authorized individuals can access sensitive project information.
+	</li>
+	<li>
+		The system should integrate with existing software and tools, including calendar, and document management systems.
+	</li>
+	<li>
+		The system should allow for customization to meet the PDO’s/faculty specific needs and workflows.
+	</li>
 
-<p>•   &nbsp; The project management system should be user-friendly and intuitive, with a simple and easy-to-use interface. </p>
-
-<p>•   &nbsp; The system should allow for easy collaboration and communication among team members, faculty or teachers, and PDO.</p>
-
-<p>•   &nbsp; The system should provide real-time data on project progress, projects managed, project details and members.</p>
-
-<p>•   &nbsp; The system should be secure and provide role-based access to data, ensuring that only authorized individuals can access sensitive project information.</p>
-
-<p>•   &nbsp; The system should integrate with existing software and tools, including calendar, and document management systems.</p>
-
-<p>•   &nbsp; The system should allow for customization to meet the PDO’s/faculty specific needs and workflows.</p>
+</ul>
 
 <h2>Assumptions</h2>
 
@@ -522,10 +594,14 @@
 <h2>Risks</h2>
 
 <p>The following risks for the ISA project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:</p>
-
-<p>•   &nbsp; There may be quality issues associated with the tracking system, such as errors or omissions in the data captured or problems with the functionality of the system </p>
-
-<p>•   &nbsp; The introduction of a new tracking system may be met with resistance from faculty or PDO who are accustomed to existing processes and may be reluctant to adopt new ways of working. </p>
+<ul>
+	<li>
+		There may be quality issues associated with the tracking system, such as errors or omissions in the data captured or problems with the functionality of the system
+	</li>
+	<li>
+		The introduction of a new tracking system may be met with resistance from faculty or PDO who are accustomed to existing processes and may be reluctant to adopt new ways of working.
+	</li>
+</ul>
 
 <h2>Project Deliverables</h2>
 <p>The following deliverables must be made upon the successful completion of the ISA project.  Any changes to these deliverables must be approved by the project sponsor. </p>
