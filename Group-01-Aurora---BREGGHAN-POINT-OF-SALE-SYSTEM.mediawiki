@@ -326,7 +326,7 @@ vendor. However, this option was rejected due to the lack of control over the pr
 ==Executive Summary==
 <p>Ever since the establishment of the Bregghan mini grocery store, it has been using a pen and paper to track the stocks and sales that are going in and out of the store. In addition, the store’s current Point of Sales System is a manual computation and the receipts are hand written. With the integration of the project, it will provide technology solutions which produces efficiency among workload in the said company.</p>
 
-<h3>Project Purpose/Justification</h3>
+==Project Purpose/Justification==
 <p>This section of the paper will explain the purpose of the project that will be implemented which is the Bregghan Sales and Stocks Tracer Response Web Application. Furthermore, the business case will also discuss on why the project is needed since it is with relation to how the small business operations.</p>
 
 ==Business Need/Case==
@@ -505,14 +505,14 @@ vendor. However, this option was rejected due to the lack of control over the pr
 		<td><p style="text-align:center;">Project Scope Description </p></td>
 		<td><p style="text-align:center;">Bregghan Point of Sale System should accomplish a functional webapp that can track the Bregghan mini grocery store sales, transactions, Inventory and notifies the client or users whenever a product reaches a critical point in stocks. </p></td>
 	</tr>
-        <tr>
+	<tr>
 		<td><p style="text-align:center;">Project Acceptance Criteria </p></td>
 		<td><p style="text-align:center;">
 <ul>
   <li>Webapp should display sales reports (Daily, Weekly, Monthly, Yearly)</li>
   <li>Scans products and computes total amount.</li>
   <li>Notify User for specific products that are low on stocks.</li>
-</p></td>
+</ul> </p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Project Deliverables </p></td>
@@ -540,7 +540,6 @@ vendor. However, this option was rejected due to the lack of control over the pr
 <ul>
   <li>Manual computation of sales.</li>
   <li>No registration in B.I.R to use VAT sales..</li>
-
 </ul>
 </p></td>
 	</tr>
