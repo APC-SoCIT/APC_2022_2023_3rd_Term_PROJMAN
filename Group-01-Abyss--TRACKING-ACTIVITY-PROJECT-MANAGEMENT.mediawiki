@@ -625,54 +625,70 @@
 <h2>Summary Milestone Schedule</h2>
 
 <table border="1" width="70%" align="center">
-<tr>
-<td width="394" bgcolor="lightblue">
-<p><strong>Milestone</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>Timeline</strong></p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Charter</p>
-</td>
-<td width="190">
-<p>1<sup>st </sup>month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Approval</p>
-</td>
-<td width="190">
-<p>2<sup>nd </sup>month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Developing the Website</p>
-</td>
-<td width="190">
-<p>3<sup>rd </sup>to 8<sup>th</sup> month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Complete Test Plan</p>
-</td>
-<td width="190">
-<p>9<sup>th</sup> month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Finalizing the Document</p>
-</td>
-<td width="190">
-<p>10<sup>th</sup> month</p>
-</td>
-</tr>
+	<tr>
+		<td width="394" bgcolor="lightblue">
+			<p><strong>Milestone</strong></p>
+		</td>
+		<td width="190" bgcolor="lightblue">
+			<p><strong>Timeline</strong></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="394">
+			<p>Project Start</p>
+		</td>
+		<td width="190">
+			<p>June 7, 2022</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="394">
+			<p>Project Client Search</p>
+		</td>
+		<td width="190">
+			<p>June 9, 2022</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="394">
+			<p>Project Document</p>
+		</td>
+		<td width="190">
+			<p>June 11, 2022</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="394">
+			<p>Project Design</p>
+		</td>
+		<td width="190">
+			<p>January 6, 2023</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="394">
+			<p>Project System</p>
+		</td>
+		<td width="190">
+			<p>January 9, 2023</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="394">
+			<p>Project Presentation</p>
+		</td>
+		<td width="190">
+			<p>February 4, 2023</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="394">
+			<p>Status</p>
+		</td>
+		<td width="190">
+			<p>COMPLETED</p>
+		</td>
+	</tr>
 </table>
 
 <h2>Summary Budget</h2>
@@ -691,6 +707,7 @@
 
 <h2>Purpose</h2>
 
+<p>The  Stakeholder  Management  Strategy  for  the  project  charter,  which  authorizes  the Project  Development  Office  (PDO)  of  Asia  Pacific  College  to  create  a  collaborative platform  to  monitor,  track,  participate  and  generate  reports  for  projects  assigned  to student groups in partnership with industry partners. The PDO aims to work closely with proponents   to   develop   a   project   plan   that   includes   provisions   for   stakeholder management,  among  other  key  project  components.  The  goal  is  to  ensure  that  all stakeholders are adequately identified, engaged and managed throughout the project's lifecycle.  The  successful  implementation  of  the  Stakeholder  Management  Strategy  will enable  the  PDO  to  gain  stakeholder  support,  prevent  conflicts,  and  enhance  project outcomes.</p>
 
 <h2>Stakeholders Identification</h2>
 
@@ -993,9 +1010,26 @@
 
 <h2>Introduction</h2>
 
+<p>The  Stakeholder  Management  Strategy  for  the  project  charter,  which  authorizes  the Project  Development  Office  (PDO)  of  Asia  Pacific  College  to  create  a  collaborative platform  to  monitor,  track,  participate  and  generate  reports  for  projects  assigned  to student groups in partnership with industry partners. The PDO aims to work closely with proponents   to   develop   a   project   plan   that   includes   provisions   for   stakeholder management,  among  other  key  project  components.  The  goal  is  to  ensure  that  all stakeholders are adequately identified, engaged and managed throughout the project's lifecycle.  The  successful  implementation  of  the  Stakeholder  Management  Strategy  will enable  the  PDO  to  gain  stakeholder  support,  prevent  conflicts,  and  enhance  project outcomes.</p>
 
 <h2>Scope Management Approach</h2>
-
+<ol>
+<li>
+1.Authority and responsibility for scope management will be held by Noreen Keziah S.  Sioco,  theproject  manager  of  group Abyss. Shewill  closely  collaborate  with the project sponsor, Mr. Jayvee Cabardo, and other key stakeholders to establish and manage the project's scope.
+</li>
+<li>
+2.The  scope  of  the  project  will  be  defined  by  creating  a  Scope  Statement,  Work Breakdown Structure (WBS), WBS Dictionary, and a detailed Statement of Work (SOW). These documents will comprehensively describe the project deliverables, tasks,  and  requirements,  and  will  be  reviewed  and  endorsed  by  the  project sponsor and other stakeholders before the project work commences.
+</li>
+<li>
+3.The scope of the project will be measured and verified by using quality checklists, work  performance  measurements,  and  regular  reviews  of  the  project's  progress against  the  scope  baseline.  Any  deviations  from  the  scope  baseline  will  be identified and addressed through the scope change process.
+</li>
+<li>
+4.The  scope  change  process  for  the  Tracking  Activity  Project  Management  will require  the  submission  of a  scope  change  request  by  Mr.  Jayvee  Cabardo,  with final approval granted by the project sponsor. Any changes to theproject's scope will  be  evaluated  carefully  to  ensure  that  they  align  with  the  project's  objectives and do not have a negative impact on the project schedule or budget.
+</li>
+<li>
+5.The  project's  final  deliverables  will  be  accepted  and  approved  by  the  project sponsor and other key stakeholders, with Mr. Jayvee Cabardo being responsible for   verifying   that   all   project   requirements   have   been   satisfied.   Successful completion  of  the  project  will  be  confirmed  once  all  deliverables  have  been accepted, and any unresolved issues have been resolved.
+</li>
+</ol>
 <h2>Roles and Responsibilities </h2>
 
 <table border="1" width="70%" align="center">
@@ -1009,51 +1043,26 @@
 		</tr>
 		<tr>
 			<td>
-				<p><em> Project Client </em></p>
-			</td>
-			<td>
-				<p><em> Approves Scope Management Plan. </em></p>
-				<p><em> Provides high-level scope definition (Project Charter). </em></p>
-				<p><em> Reviews escalated scope issues and provide direction for resolution. </em></p>
-				<p><em> Approves major scope change requests. </em></p>
-				<p><em> Overall decision-making responsibility for Scope Management activities. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<p><em> Project Manager </em></p>
 			</td>
 			<td>
-				<p><em> Overall responsibility for scope management. </em></p>
-				<p><em> Oversees the development of the Scope Management Plan. </em></p>
-				<p><em> Oversees the scope change management process. </em></p>
-				<p><em> Approves scope change requests within his/her authority. </em></p>
-				<p><em> Escalates scope and change issues. </em></p>
-				<p><em> Ensures that scope changes are incorporated into appropriate project documents </em></p>
+				<p><em> Is responsible for definingand documenting the scope of the project, as well as controlling and approving scope changes. </em></p>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<p><em> Project Team Members and Subject Matter Experts (SMEs) </em></p>
+				<p><em> Product owner </em></p>
 			</td>
 			<td>
-				<p><em> Help develop the project scope statement. </em></p>
-				<p><em> Submit scope change requests. </em></p>
-				<p><em> Review Scope Change requests when assigned. </em></p>
-				<p><em> Provide feedback as and when required. </em></p>
-				<p><em> Participate in team-level scope change reviews. </em></p>
+				<p><em> The product owner is responsible for representing the needs and priorities of the stakeholders, and for ensuring that the project delivers value to the business. </em></p>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<p><em> Independent Verification and Validation (IV and V) </em></p>
-				<p><em> Project Adviser </em></p>
+				<p><em> Project Team Members</em></p>
 			</td>
 			<td>
-				<p><em> Provides an ongoing independent review and analysis of project scope management practices. </em></p>
-				<p><em> Monitors scope changes and provide feedback. </em></p>
-				<p><em> Approves major scope change requests. </em></p>
-				<p><em> Approval of all documentation throughout the project. </em></p>
+				<p><em> The project team, consisting of developers, designers, testers, and other relevant personnel, is responsible for verifying the scope of the project, and for raising change requests if necessary. </em></p>
 			</td>
 		</tr>
 		<tr>
@@ -1061,12 +1070,13 @@
 				<p><em> Stakeholders </em></p>
 			</td>
 			<td>
-				<p><em> Key providers of requirements, scope, and the recipients of project deliverables associated with the project benefits. Most of the project deliverables will based on their operations in the business and enhancing their business operations and environment. </em></p>
+				<p><em> Stakeholders, including customers, end-users, and other interested parties, are responsible for providing input on the requirements and scope of the project, and for approving scope changes as needed </em></p>
 			</td>
 		</tr>
 </table>
 <h2> Scope Definition </h2>
 
+<p>The  scope  of  this  project  aims  to  address  the  issues  faced  by  Mr.  Jayvee  Cabardo  in using  multiple  tracking  systems  and  checking  various  projects  simultaneously.  The project   will   focus   on   developing  a   system   that   enables   Mr.   Cabardo   and   other stakeholders,  such  as  students,  teachers,  and  consultants/advisors,  to  create  and manage   multiple   student   group   projects   simultaneously.   The   system   will   be implemented at Asia Pacific College (APC) and will ensure that projects are completed on time.</p>
 
 <h2> Project Scope Statement </h2>
 <ul>
