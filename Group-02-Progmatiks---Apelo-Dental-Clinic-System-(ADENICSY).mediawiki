@@ -489,6 +489,19 @@ When a project team completes a deliverable, it is crucial to get formal accepta
 </ul>
 <p>Overall, it is important that the project team maintains consistent communication and collaboration with the customer and other stakeholders throughout the project to ensure that the deliverables meet the original scope and are formally accepted. </p>
 
+==Scope Control==
+<p>As part of the project management process, the project's scope must be carefully controlled to ensure that it remains aligned with the original project objectives. The Project Manager will lead the effort to monitor and evaluate the project's deliverables and progress against the Project Scope Statement. Any deviations from the scope will be thoroughly examined and assessed to determine if changes are necessary. If changes are required, the established scope change process will be followed, with proper documentation and approval procedures in place. The project team and stakeholders will work closely with the Project Manager to ensure that the scope remains within the defined boundaries. Regular reviews will be conducted to assess progress and identify any areas where scope changes may be necessary. The Project Manager will be responsible for communicating any scope changes to all affected parties, ensuring that everyone is aware of any potential impact on the project's timeline or budget.<br>
+<br>
+The scope control process for the Apelo Dental Clinic System project will involve the following steps in making changes to the scope baseline: </p>
+<ol>
+  <li>A scope change request will be initiated by any stakeholder or team member who identifies a need for a change to the scope.</li>
+  <li>The Project Manager and the Project Sponsor will evaluate the effect of the proposed modifications on the project's schedule, budget, and resources by reviewing the scope change request.</li>
+  <li>The Project Manager has the authority to approve or reject change requests that are considered to have minimal impact or significant impact. However, if the change request is classified as low impact and the Project Manager approves or denies it, the Project Sponsor has the option to review and overturn their decision.</li>
+  <li>Assuming the request gets approved, the Project Manager will devise a course of action to implement the change, amend the scope baseline, and inform all the pertinent stakeholders about the change.</li>
+  <li>Assuming the request gets approved, the Project Manager will devise a course of action to implement the change, amend the scope baseline, and inform all the pertinent stakeholders about the change.</li>
+</ol>
+<p>To guarantee the project remains within budget and on schedule, it's crucial to establish a structured protocol for modifying the scope baseline. Any modifications to the scope must be scrutinized and authorized with care to prevent scope creep and maintain project progress.</p>
+
 
 =Cost Management Plan=
 ==Introduction==
@@ -521,21 +534,6 @@ Budget format and standards:
 </ul>
 
 <p>Overall, the Cost Management Plan for ADENICSY project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.
-
-==Scope Control==
-<p>As part of the project management process, the project's scope must be carefully controlled to ensure that it remains aligned with the original project objectives. The Project Manager will lead the effort to monitor and evaluate the project's deliverables and progress against the Project Scope Statement. Any deviations from the scope will be thoroughly examined and assessed to determine if changes are necessary. If changes are required, the established scope change process will be followed, with proper documentation and approval procedures in place. The project team and stakeholders will work closely with the Project Manager to ensure that the scope remains within the defined boundaries. Regular reviews will be conducted to assess progress and identify any areas where scope changes may be necessary. The Project Manager will be responsible for communicating any scope changes to all affected parties, ensuring that everyone is aware of any potential impact on the project's timeline or budget.<br>
-<br>
-The scope control process for the Apelo Dental Clinic System project will involve the following steps in making changes to the scope baseline: </p>
-<ol>
-  <li>A scope change request will be initiated by any stakeholder or team member who identifies a need for a change to the scope.</li>
-  <li>The Project Manager and the Project Sponsor will evaluate the effect of the proposed modifications on the project's schedule, budget, and resources by reviewing the scope change request.</li>
-  <li>The Project Manager has the authority to approve or reject change requests that are considered to have minimal impact or significant impact. However, if the change request is classified as low impact and the Project Manager approves or denies it, the Project Sponsor has the option to review and overturn their decision.</li>
-  <li>Assuming the request gets approved, the Project Manager will devise a course of action to implement the change, amend the scope baseline, and inform all the pertinent stakeholders about the change.</li>
-  <li>Assuming the request gets approved, the Project Manager will devise a course of action to implement the change, amend the scope baseline, and inform all the pertinent stakeholders about the change.</li>
-</ol>
-<p>To guarantee the project remains within budget and on schedule, it's crucial to establish a structured protocol for modifying the scope baseline. Any modifications to the scope must be scrutinized and authorized with care to prevent scope creep and maintain project progress.</p>
-
-
 
 ==Cost Management Approach==
 <p>The cost management approach for the dispatch directory system project will be based on the following principles:
