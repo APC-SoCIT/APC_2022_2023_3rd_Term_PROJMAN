@@ -2828,3 +2828,1541 @@ It will be possible to establish the scope baseline by incorporating the scope d
 <p>Work Package: A Work Package is a deliverable or work component at the lowest level of its WBS branch.</p>
 <p>WBS Component: A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
 <p>WBS Element: A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
+
+=Work Packages=
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.1.1</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Design Thinking</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jan Gabriel Prion, Jayson Aloya, John Christopher Langcauon, Marc Julian Sajul, & Marc Zamora</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The research and brainstorming session of the proponents along with the stakeholders and project sponsor.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once the project problem, purpose, goals, and objectives are defined, and the project documentation can start.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that the goals will stay consistent all throughout the project.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes may occur during the project that requires an impromptu design thinking session.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>An impromptu design thinking session will be held as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.1.2</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Paper Documentation (1)</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jan Gabriel Prion, Jayson Aloya, John Christopher Langcauon, Marc Julian Sajul, & Marc Zamora</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The paper that contains all of the necessary information needed for the project.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>One chapter 1, 2, & 3 of the paper are completed and approved by the project manager and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Some of the data comes from the team members personally experiences as students in APC.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Revisions may be made halfway through the process</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Revisions will be made as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.1</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Paper Documentation (2)</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jan Gabriel Prion, Jayson Aloya, John Christopher Langcauon, Marc Julian Sajul, & Marc Zamora</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The paper that contains all of the necessary information needed for the project. This time with diagrams and tables.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once chapter 4, 5, & 6 of the paper is completed and approved the project manager and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that the system design will stay consistent all throughout the project.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes may occur during the project that requires an impromptu design and analysis session.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>An impromptu design and analysis session will be held as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.2</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Gantt Chart</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>Similar to WBS, it shows the schedule of work packages and which resources should be responsible for them.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once the document is approved by the project manager and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that all work packages will be done within the assumed finishing dates.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Some tasks might take too long.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Adjusting the task schedule within the fixed time period of the main timeline.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱100 - ₱200</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.3</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Project Charter</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>This shows the charter of the project. Also contains the identity of the project manager.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once the document is signed and approved by the project sponsor.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that all the data will stay consistent within all the project process.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes in the document may occur.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Revising the paper as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.4</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Statement of Work</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Marc Julian Sajul</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Marc Julian Sajul</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The document for the statement of the work.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once approved by the project manager, sponsor, and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that everything stays consistent all throughout the project.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes may occur during the project that requires revisions.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Revisions must be made as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.5</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Vision & Scope</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jan Gabriel Prion</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jan Gabriel Prion</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The specific document for the vision and scope of the project.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once approved by the project manager, sponsor, and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that everything stays consistent all throughout the project.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes may occur during the project that requires revisions.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Revisions must be made as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.6</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Work Breakdown Structure</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The WBS is where the summary tasks and work packages are identified.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once approved by the project manager, sponsor, and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that everything stays consistent all throughout the project.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes may occur during the project that requires revisions.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Revisions must be made as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.7</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Change Management Plan</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>John Christopher Langcauon</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>John Christopher Langcauon</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The document if there will be any changes in the project while it is ongoing.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once approved by the project manager, sponsor, and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that everything stays consistent all throughout the project.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes may occur during the project that requires revisions.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Revisions must be made as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.8</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Quality Plan</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jan Gabriel Prion</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jan Gabriel Prion</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The document to ensure quality for the project system.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once approved by the project manager, sponsor, and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that everything stays consistent all throughout the project.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes may occur during the project that requires revisions.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Revisions must be made as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.2.9</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Contingency Plan</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jan Gabriel Prion & Marc Zamora</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jan Gabriel Prion & Marc Zamora</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>The document that ensures the project will bounce back from contingencies.</td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once approved by the project manager, sponsor, and adviser.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that everything stays consistent all throughout the project.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>Changes may occur during the project that requires revisions.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>Revisions must be made as soon as possible.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱0 - ₱100</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
