@@ -2893,24 +2893,24 @@
     <li></li>
 </ol>
 <p> </p>
-<p>The purpose of the human resource management plan is to determine which of the methods of staffing in a website development project should be aligned with the project objectives. This includes appropriate human resources with skill sets that are required in the project if any gaps in skills such as collaborating, or communications are identified, team building strategies are clearly defined and team activities are effectively managed.</p>
+<p> </p>
 <h2><strong>Roles and Responsibilities</strong></h2>
-<p>            The roles and responsibilities are required and must be laid out for this project success. All team members that are included in the list must clearly understand their responsibilities that are assigned to them to successfully perform their part of the project. The JIT Project listed the required personnel for the project and their responsibilities have been established:</p>
-<p><strong>Project Manager (PM), (1 position): </strong>responsible for the decision and communications for the overall success of the JIT Project. The PM roles decide whether to authorize and approve of all project expenditures. The PM is also responsible for monitoring the work activities and team member performance meet established acceptability criteria and fall within acceptable variance. The PM will be responsible for monitoring the JIT Project status in accordance with the communications management plan. The PM will monitor and evaluate the performance of all project team members and report their performance to the functional managers. The PM will give the final verdict of acquiring human resources for the project through coordination with functional managers. The PM will handle the relationship, scheduling, budgeting, communications, and overall decision for the project.</p>
-<p><strong>Document Analyst (DA), (1 position): </strong>responsible for organizing and documenting the project charter, business case, stakeholder strategy, scope, cost, schedule, quality, human resources, communications, procurement, risk, and implementation management plan. They will handle if there are any changes in one of the important documents. They are most active members of the project team because they need to confer with the project manager and other team members such as quality analyst and developers through documents. They are also responsible for editing and proofreading documents for grammar, correct spelling, and clarity of the documents. They will be required to interview project team members regarding existing documents, so they could improve upon, modify, and enhance JIT Project literature.</p>
 <p> </p>
-<p><strong>Financial Consultant (FC), (1 position):</strong> is an external position or member that is responsible for offering information and guidance on topics that include taxes, investments, and cost-benefit decisions for the JIT Project Management. The consultant does not necessarily join the team throughout the project but only during the planning phase of the JIT Project Management to offer personalized financial advice. The consultant may also direct to the client negotiating the cost management relation to the schedule of the JIT Project. The consultant will meet personally with the JIT Team members and client to assess their financial situation to present a financial plan that cover the duration of the project term and after the project term. The consultant may also help the JIT Project team with the staffing of the team members.</p>
-<p> </p>
-<p><strong>Digital Designer (Digi Art), (1 position):</strong> responsible for leading and producing the design function for the JIT Project. The position is also responsible for delivering effective, aesthetic, original brand, and on-strategy designs for the JIT Project’s website graphics, logo including photographs that are related to the JIT Project, advertisements, email templates, social media designs, and banned ads. The Digital Designer will work together with the Front-End Developers, and work closely with the Project Manager, Back-End Developers, and Project Adviser for the approval of the graphics.</p>
 <p><strong> </strong></p>
-<p><strong>Business Analyst (BA), (1 position): </strong>responsible for determining the operational objectives of the JIT Project whether it has met the business objectives of the client by studying business functions and gathering information. They are also responsible for evaluating workflow charts and diagrams. They are also required to study the JIT Project capabilities and improve the JIT Project by aligning it to the business objectives thus they are assigned in designing modifications of the JIT Project. The business analyst contributes to the JIT Project by defining requirements, monitoring the project progress, analyzing, summarizing and validating the resources or information related to the business process of the JIT Project.</p>
+<p><strong> </strong></p>
 <p> </p>
-<p><strong>System Developer (BED), (2 position):</strong>  responsible for creating, coding, and improving the server, server-side website application, and database of JIT Project which must be synchronized with the front-end codes created by the FED, aiding the user to have a functional, seamless experience. They are responsible for implementing technology trends, create or improve the back-end processes and codes of JIT Project, and they are also required to collaborate with others to design a better website application. They are also responsible for recording data and reporting it to documentarist and PM or any related member that should be informed by the report. The BED’s performance will be evaluated by the PM based on the communication and creativity of the developer. The BED must be knowledgeable in other programming technology and understands intermediary coding.</p>
+<p><strong> </strong></p>
 <p> </p>
-<p><strong>Quality Analyst (QA), (1 position):</strong>  The TL is responsible for training all network users on the features provided by the upgrades to the existing software. The TL will coordinate training times/locations with each department’s training advocate. The TL will provide training status to the PM in accordance with the project communications management plan.</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p> </p>
+<p><strong> </strong></p>
+<p> </p>
+<p><strong> </strong></p>
 
 <h2><strong>Project Organizational Charts</strong></h2>
-<p>            The RACI charts shows the relationship between member’s interaction and the project task to team members. Any proposed changes to the project responsibilities must be consulted and informed by other members relevant to the responsibility then wait for the approval of the project manager. Any changes must be done through the project’s change control process. As changes are made all project documents will be updated and redistributed by the documentarist accordingly.</p>
+<p></p>
 <table width="790" border="1" align="center">
 		<tr>
 			<td width="115" bgcolor="lightblue">
@@ -2943,25 +2943,25 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Requirements Gathering</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
 			</td>
 			<td width="84">
-				<p>R</p>
+				<p></p>
 			</td>
 			<td width="85">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="73">
 				<p> </p>
 			</td>
 			<td width="78">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="96">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="96">
 				<p> </p>
@@ -2972,25 +2972,25 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Analyzing Gathered Data</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
 			</td>
 			<td width="84">
-				<p>R</p>
+				<p></p>
 			</td>
 			<td width="85">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="73">
 				<p> </p>
 			</td>
 			<td width="78">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="96">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="96">
 				<p> </p>
@@ -3001,28 +3001,28 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Project Planning</p>
+				<p></p>
 			</td>
 			<td width="87">
 				<p> </p>
 			</td>
 			<td width="84">
-				<p>R</p>
+				<p></p>
 			</td>
 			<td width="85">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="73">
 				<p> </p>
 			</td>
 			<td width="78">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="96">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="96">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="77">
 				<p> </p>
@@ -3030,28 +3030,28 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Website Graphics Design</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
 			</td>
 			<td width="84">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="85">
 				<p> </p>
 			</td>
 			<td width="73">
-				<p>C</p>
+                <p></p>
 			</td>
 			<td width="78">
 				<p> </p>
 			</td>
 			<td width="96">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="96">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="77">
 				<p> </p>
@@ -3059,28 +3059,28 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Front-End Code Design</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
 			</td>
 			<td width="84">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="85">
 				<p> </p>
 			</td>
 			<td width="73">
-				<p>C</p>
+				<p></p>
 			</td>
 			<td width="78">
 				<p> </p>
 			</td>
 			<td width="96">
-				<p>R</p>
+				<p></p>
 			</td>
 			<td width="96">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="77">
 				<p> </p>
@@ -3088,42 +3088,13 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Front-End Code Input</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
 			</td>
 			<td width="84">
-				<p>I</p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-			<td width="73">
-				<p> </p>
-			</td>
-			<td width="78">
-				<p> </p>
-			</td>
-			<td width="96">
-				<p>R</p>
-			</td>
-			<td width="96">
-				<p>I</p>
-			</td>
-			<td width="77">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="115">
-				<p>Back-End Code Design</p>
-			</td>
-			<td width="87">
-				<p>A</p>
-			</td>
-			<td width="84">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="85">
 				<p> </p>
@@ -3135,10 +3106,10 @@
 				<p> </p>
 			</td>
 			<td width="96">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="96">
-				<p>R</p>
+				<p></p>
 			</td>
 			<td width="77">
 				<p> </p>
@@ -3146,13 +3117,13 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Back-End Code Input</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
 			</td>
 			<td width="84">
-				<p>I</p>
+				<p></p>
 			</td>
 			<td width="85">
 				<p> </p>
@@ -3164,10 +3135,10 @@
 				<p> </p>
 			</td>
 			<td width="96">
-				<p> </p>
+				<p></p>
 			</td>
 			<td width="96">
-				<p>R</p>
+				<p></p>
 			</td>
 			<td width="77">
 				<p> </p>
@@ -3175,42 +3146,13 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Application Testing</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
 			</td>
 			<td width="84">
-				<p> </p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-			<td width="73">
-				<p>I</p>
-			</td>
-			<td width="78">
-				<p> </p>
-			</td>
-			<td width="96">
-				<p> </p>
-			</td>
-			<td width="96">
-				<p> </p>
-			</td>
-			<td width="77">
-				<p>R</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="115">
-				<p>Network Preparation</p>
-			</td>
-			<td width="87">
-				<p>A</p>
-			</td>
-			<td width="84">
-				<p> </p>
+				<p></p>
 			</td>
 			<td width="85">
 				<p> </p>
@@ -3225,7 +3167,7 @@
 				<p> </p>
 			</td>
 			<td width="96">
-				<p>R</p>
+				<p></p>
 			</td>
 			<td width="77">
 				<p> </p>
@@ -3233,10 +3175,39 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Implementation</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
+			</td>
+			<td width="84">
+				<p> </p>
+			</td>
+			<td width="85">
+				<p> </p>
+			</td>
+			<td width="73">
+				<p></p>
+			</td>
+			<td width="78">
+				<p> </p>
+			</td>
+			<td width="96">
+				<p> </p>
+			</td>
+			<td width="96">
+				<p> </p>
+			</td>
+			<td width="77">
+				<p></p>
+			</td>
+		</tr>
+		<tr>
+			<td width="115">
+				<p></p>
+			</td>
+			<td width="87">
+				<p></p>
 			</td>
 			<td width="84">
 				<p> </p>
@@ -3251,10 +3222,10 @@
 				<p> </p>
 			</td>
 			<td width="96">
-				<p>C</p>
+				<p> </p>
 			</td>
 			<td width="96">
-				<p>R</p>
+				<p></p>
 			</td>
 			<td width="77">
 				<p> </p>
@@ -3262,13 +3233,42 @@
 		</tr>
 		<tr>
 			<td width="115">
-				<p>Documenting Project</p>
+				<p></p>
 			</td>
 			<td width="87">
-				<p>A</p>
+				<p></p>
 			</td>
 			<td width="84">
-				<p>R</p>
+				<p> </p>
+			</td>
+			<td width="85">
+				<p> </p>
+			</td>
+			<td width="73">
+				<p> </p>
+			</td>
+			<td width="78">
+				<p> </p>
+			</td>
+			<td width="96">
+				<p></p>
+			</td>
+			<td width="96">
+				<p></p>
+			</td>
+			<td width="77">
+				<p> </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="115">
+				<p></p>
+			</td>
+			<td width="87">
+				<p></p>
+			</td>
+			<td width="84">
+				<p></p>
 			</td>
 			<td width="85">
 				<p> </p>
