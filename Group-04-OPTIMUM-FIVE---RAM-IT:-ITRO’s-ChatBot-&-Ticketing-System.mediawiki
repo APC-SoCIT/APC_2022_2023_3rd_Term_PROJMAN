@@ -2247,3 +2247,521 @@ It will be possible to establish the scope baseline by incorporating the scope d
 </table>
 
 ==Tree Structure View==
+[[https://user-images.githubusercontent.com/97135986/236200864-dd256c07-2b01-4dc0-95c0-96b6650265cd.png|WBS]]
+
+==WBS Dictionary==
+
+<table width="100" border="1">
+
+<tr>
+   <td>Level</td>
+   <td>WBS Code</td>
+   <td>Element Name</td>
+   <td>Definition</td>
+</tr>
+
+<tr>
+   <td>1</td>
+   <td>1</td>
+   <td>RAM-IT: ITRO's ChatBot & Ticketing System</td>
+   <td>The project name for the chatbot and ticketing system being made for ITRO.</td>
+</tr>
+
+<tr>
+   <td>2</td>
+   <td>1.1</td>
+   <td>Planning (MSYADD1)</td>
+   <td>The planning stage of the project.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.1.1</td>
+   <td>Design Thinking</td>
+   <td>The research and brainstorming session of the proponents along with the stakeholders and project sponsor.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.1.2</td>
+   <td>Paper Documentation (1)</td>
+   <td>The paper that contains all of the necessary information needed for the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.1</td>
+   <td>Executive Summary</td>
+   <td>The summary of the whole project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.2</td>
+   <td>Chapter 1: Project Context</td>
+   <td>The part where the proponents talk about what the project background and purpose is.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.3</td>
+   <td>Chapter 1: Statement of the Problem</td>
+   <td>Identifying the problem.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.4</td>
+   <td>Chapter 1: Objectives</td>
+   <td>The goals and objectives of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.5</td>
+   <td>Chapter 1: Significance of the Project</td>
+   <td>The stakeholders of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.6</td>
+   <td>Chapter 1: Scope & Limitation</td>
+   <td>The scope and limitation of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.7</td>
+   <td>Chapter 2: Review of Related Literature</td>
+   <td>The similar projects and researches to the project being built.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.8</td>
+   <td>Chapter 3: Technical Background: Current System</td>
+   <td>The background specifically for the current system being used by the ITRO.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.9</td>
+   <td>Chapter 3: Technical Background: Proposed System</td>
+   <td>The background specifically for the new system being proposed to the ITRO.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.10</td>
+   <td>Appendix A: Project Vision</td>
+   <td>The vision of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.11</td>
+   <td>Appendix B: Roles & Responsibilities</td>
+   <td>The delegated tasks for each proponent. Also where to see which proponent handles what job.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.12</td>
+   <td>Appendix C: Product Roadmap</td>
+   <td>The product roadmap of the project where the milestones are.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.1.2.13</td>
+   <td>Appendix D: Teams Meeting</td>
+   <td>The compilation of the minutes of the meeting throughout the project.</td>
+</tr>
+
+<tr>
+   <td>2</td>
+   <td>1.2</td>
+   <td>Analysis & Design (MSYADD1 & MCSPROJ)</td>
+   <td>The analyzation and designing of the proposed new system which is RAM-IT.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.1</td>
+   <td>Paper Documentation (2)</td>
+   <td>The paper that contains all of the necessary information needed for the project. This time with diagrams and tables.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.1</td>
+   <td>Chapter 4: User Stories & Acceptance Criteria</td>
+   <td>This is where the proponents can see if they successfully completed an user story.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.2</td>
+   <td>Chapter 4: Product Backlog</td>
+   <td>The backlog of the product.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.3</td>
+   <td>Chapter 4: Event Table</td>
+   <td>This table contains the nine use cases for the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.4</td>
+   <td>Chapter 4: Use Case Diagram</td>
+   <td>This diagram contains the connection between thee users and the use cases.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.5</td>
+   <td>Chapter 4: Use Case Full Description</td>
+   <td>The full description of each of the nine use cases.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.6</td>
+   <td>Chapter 4: Gap Analysis</td>
+   <td>The comparison between the old current system and the new proposed system.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.7</td>
+   <td>Chapter 4: Context Diagram</td>
+   <td>This diagram shows the connection between the users and the system. It also contains how they are connected.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.8</td>
+   <td>Chapter 4: Data Flow Diagrams</td>
+   <td>This diagram contains the flow of the users and the use cases and the data that goes through the whole system process.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.9</td>
+   <td>Chapter 4: Entity-Relationship Diagram</td>
+   <td>This diagram shows the relationship between the entities in the diagram.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.10</td>
+   <td>Chapter 4: Activity Diagram</td>
+   <td>This diagram shows the flow of activities that can be done by each users.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.11</td>
+   <td>Object Diagram</td>
+   <td>This diagram shows the objects of the system and how they connect to one another.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.12</td>
+   <td>Chapter 4: Class Diagram</td>
+   <td>This diagram shows the classes of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.13</td>
+   <td>Chapter 4: Sequence Diagram</td>
+   <td>This diagram shows the sequences of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.14</td>
+   <td>Chapter 4: Package Diagram</td>
+   <td>This diagram shows the packages of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.15</td>
+   <td>Chapter 4: Component Diagram</td>
+   <td>This diagram shows the more technical view of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.16</td>
+   <td>Chapter 4: Deployment Diagram</td>
+   <td>This diagram shows where the project will be deployed.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.17</td>
+   <td>Chapter 4: Machine State Diagram</td>
+   <td>This diagram shows the processes of the system with their state.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.18</td>
+   <td>Chapter 5: Release Plan</td>
+   <td>This shows what will be released on what day.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.19</td>
+   <td>Chapter 5: Mock-Up</td>
+   <td>This shows the prototype UI basis.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.2.1.20</td>
+   <td>Chapter 5: Use Classes & Characteristics</td>
+   <td>This shows the users and how they are related to the project. It also shows what they can do in the new system.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.2</td>
+   <td>Gantt Chart</td>
+   <td>Similar to WBS, it shows the schedule of work packages and which resources should be responsible for them.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.3</td>
+   <td>Project Charter</td>
+   <td>This shows the charter of the project. Also contains the identity of the project manager.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.4</td>
+   <td>Statement of Work</td>
+   <td>The document for the statement of the work.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.5</td>
+   <td>Vision & Scope</td>
+   <td>The specific document for the vision and scope of the project.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.6</td>
+   <td>Work Breakdown Structure</td>
+   <td>The WBS is where the summary tasks and work packages are identified.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.7</td>
+   <td>Change Management Plan</td>
+   <td>The document if there will be any changes in the project while it is ongoing.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.8</td>
+   <td>Quality Plan</td>
+   <td>The document to ensure quality for the project system.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.9</td>
+   <td>Contingency Plan</td>
+   <td>The document that ensures the project will bounce back from contingencies.</td>
+</tr>
+
+<tr>
+   <td>2</td>
+   <td>1.3</td>
+   <td>Development (MCSPROJ)</td>
+   <td>The development phase of the project.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.3.1</td>
+   <td>Prototype</td>
+   <td>The actual proposed system being made.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.1</td>
+   <td>Log-In Feature</td>
+   <td>The Log-In feature of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.2</td>
+   <td>ChatBot Feature</td>
+   <td>The ChatBot feature of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.3</td>
+   <td>Ticket Feature</td>
+   <td>The Ticket feature of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.4</td>
+   <td>Notification Feature</td>
+   <td>The Notification feature of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.5</td>
+   <td>Data Report Feature</td>
+   <td>The Data Report feature of the project where data can be generated into a report.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.6</td>
+   <td>Filter Feature</td>
+   <td>The Filter feature of the project where tickets can be filtered in different categories.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.7</td>
+   <td>Ticket History Feature</td>
+   <td>The ticket archiving feature of the project.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.8</td>
+   <td>Chat Feature</td>
+   <td>The feature where the APC Community Member and assigned IT Specialist can communicate within a ticket.</td>
+</tr>
+
+<tr>
+   <td>4</td>
+   <td>1.3.1.9</td>
+   <td>Prototype UI</td>
+   <td>The front end of the prototype.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.3.2</td>
+   <td>Test Cases</td>
+   <td>The testing phase of the project for the prototype.</td>
+</tr>
+
+<tr>
+   <td>2</td>
+   <td>1.4</td>
+   <td>Post-Development (PROJMAN & SOFTDEV)</td>
+   <td>The post-development phase of the project.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.1</td>
+   <td>Business Case</td>
+   <td>The document for the Business Case of the project.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.2</td>
+   <td>Project Charter</td>
+   <td>This shows the charter of the project. Also contains the identity of the project manager.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.3</td>
+   <td>Stakeholder Management Plan</td>
+   <td>The document about stakeholder management.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.4</td>
+   <td>Stakeholder Analysis</td>
+   <td>The excel file for the analysis of the stakeholders.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.5</td>
+   <td>Scope Management Plan</td>
+   <td>The specific file where the project scope is discussed in detail.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.6</td>
+   <td>Cost Management Plan</td>
+   <td>The document for the project expenditure and budget.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.7</td>
+   <td>Schedule Management Plan</td>
+   <td>The document containing the schedules of the project.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.8</td>
+   <td>Get Documents Signed</td>
+   <td>The project sponsor signs the documents made throughout the project.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.9</td>
+   <td>Train the ITRO on how to use the System</td>
+   <td>Teaching the ITRO how to use the new proposed system which is RAM-IT.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.10</td>
+   <td>Install System</td>
+   <td>Installing the project to the ITRO’s system.</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.4.11</td>
+   <td>Deploy System</td>
+   <td>Deployment of the project.</td>
+</tr>
+
+</table>
+
+==Glossary of Terms==
+<p>Level of Effort: Level of Effort (LOE) is how much work is required to complete a task.</p>
+<p>WBS Code: A unique identifier assigned to each element in a Work Breakdown Structure for the purpose of designating the elements hierarchical location within the WBS.</p>
+<p>Work Package: A Work Package is a deliverable or work component at the lowest level of its WBS branch.</p>
+<p>WBS Component: A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
+<p>WBS Element: A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
