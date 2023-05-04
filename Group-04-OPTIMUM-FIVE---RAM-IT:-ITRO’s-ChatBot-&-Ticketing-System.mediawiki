@@ -4119,57 +4119,57 @@ The excel file for the analysis of the stakeholders.
 
 <tr>
 <td>WBS:</td>
-<td></td>
+<td>1.4.7</td>
 </tr>
 
 <tr>
 <td>Work Package:</td>
-<td></td>
+<td>Schedule Management Plan</td>
 </tr>
 
 <tr>
 <td>Package Owner:</td>
-<td></td>
+<td>Marc Julian Sajul</td>
 </tr>
 
 <tr>
 <td>Owner Organization:</td>
-<td></td>
+<td>Jo Anne M. de la Cuesta</td>
 </tr>
 
 <tr>
 <td>Participants:</td>
-<td></td>
+<td>Marc Julian Sajul</td>
 </tr>
 
 <tr>
 <td>Description:</td>
-<td></td>
+<td>The document containing the schedules of the project.</td>
 </tr>
 
 <tr>
 <td>Completion State:</td>
-<td></td>
+<td>Once approved by the project manager, sponsor, and adviser.</td>
 </tr>
 
 <tr>
 <td>Assumption:</td>
-<td></td>
+<td>Assuming that everything stays consistent all throughout the project.</td>
 </tr>
 
 <tr>
 <td>Risks:</td>
-<td></td>
+<td>Changes may occur during the project that requires revisions.</td>
 </tr>
 
 <tr>
 <td>Risk Mitigation:</td>
-<td></td>
+<td>Revisions must be made as soon as possible.</td>
 </tr>
 
 <tr>
 <td>Budget:</td>
-<td></td>
+<td>₱0 - ₱100</td>
 </tr>
 
 <tr>
@@ -4183,57 +4183,57 @@ The excel file for the analysis of the stakeholders.
 
 <tr>
 <td>WBS:</td>
-<td></td>
+<td>1.4.8</td>
 </tr>
 
 <tr>
 <td>Work Package:</td>
-<td></td>
+<td>Get Documents Signed</td>
 </tr>
 
 <tr>
 <td>Package Owner:</td>
-<td></td>
+<td>Jayson Aloya</td>
 </tr>
 
 <tr>
 <td>Owner Organization:</td>
-<td></td>
+<td>Jo Anne M. de la Cuesta</td>
 </tr>
 
 <tr>
 <td>Participants:</td>
-<td></td>
+<td>Jayson Aloya & Jojo Castillo</td>
 </tr>
 
 <tr>
 <td>Description:</td>
-<td></td>
+<td>The project sponsor signs the documents made throughout the project.</td>
 </tr>
 
 <tr>
 <td>Completion State:</td>
-<td></td>
+<td>Once all the documents are signed by the project sponsor.</td>
 </tr>
 
 <tr>
 <td>Assumption:</td>
-<td></td>
+<td>Assuming that all the documents are ready for signing.</td>
 </tr>
 
 <tr>
 <td>Risks:</td>
-<td></td>
+<td>Changes may occur during the project that requires revisions.</td>
 </tr>
 
 <tr>
 <td>Risk Mitigation:</td>
-<td></td>
+<td>Revisions must be made as soon as possible.</td>
 </tr>
 
 <tr>
 <td>Budget:</td>
-<td></td>
+<td>₱0 - ₱100</td>
 </tr>
 
 <tr>
@@ -4247,57 +4247,57 @@ The excel file for the analysis of the stakeholders.
 
 <tr>
 <td>WBS:</td>
-<td></td>
+<td>1.4.9</td>
 </tr>
 
 <tr>
 <td>Work Package:</td>
-<td></td>
+<td>Train the ITRO on how to use the systemTrain the ITRO on how to use the system</td>
 </tr>
 
 <tr>
 <td>Package Owner:</td>
-<td></td>
+<td>Jayson Aloya</td>
 </tr>
 
 <tr>
 <td>Owner Organization:</td>
-<td></td>
+<td>Jo Anne M. de la Cuesta</td>
 </tr>
 
 <tr>
 <td>Participants:</td>
-<td></td>
+<td>Jan Gabriel Prion, Jayson Aloya, John Christopher Langcauon, Marc Julian Sajul, Marc Zamora, Jojo Castillo, & ITRO</td>
 </tr>
 
 <tr>
 <td>Description:</td>
-<td></td>
+<td>Teaching the ITRO how to use the new proposed system which is RAM-IT. .</td>
 </tr>
 
 <tr>
 <td>Completion State:</td>
-<td></td>
+<td>Once all the personnel of ITRO can run RAM-IT on their own.</td>
 </tr>
 
 <tr>
 <td>Assumption:</td>
-<td></td>
+<td>Assuming that RAM-IT features are within the scope of the ITRO.</td>
 </tr>
 
 <tr>
 <td>Risks:</td>
-<td></td>
+<td>Some personnel might be unavailable during the training sessions.</td>
 </tr>
 
 <tr>
 <td>Risk Mitigation:</td>
-<td></td>
+<td>Personnel that are left behind should be updated as soon as possible.</td>
 </tr>
 
 <tr>
 <td>Budget:</td>
-<td></td>
+<td>₱0 - ₱100</td>
 </tr>
 
 <tr>
@@ -4311,57 +4311,122 @@ The excel file for the analysis of the stakeholders.
 
 <tr>
 <td>WBS:</td>
-<td></td>
+<td>1.4.10</td>
 </tr>
 
 <tr>
 <td>Work Package:</td>
-<td></td>
+<td>Install System</td>
 </tr>
 
 <tr>
 <td>Package Owner:</td>
-<td></td>
+<td>Jayson Aloya</td>
 </tr>
 
 <tr>
 <td>Owner Organization:</td>
-<td></td>
+<td>Jo Anne M. de la Cuesta</td>
 </tr>
 
 <tr>
 <td>Participants:</td>
-<td></td>
+<td>Jan Gabriel Prion, Jayson Aloya, John Christopher Langcauon, Marc Julian Sajul, Marc Zamora, Jojo Castillo, & ITRO</td>
 </tr>
 
 <tr>
 <td>Description:</td>
-<td></td>
+<td>Installing the project to the ITRO’s system.</td>
 </tr>
 
 <tr>
 <td>Completion State:</td>
-<td></td>
+<td>Once the new system replaces the old system.</td>
 </tr>
 
 <tr>
 <td>Assumption:</td>
-<td></td>
+<td>Assuming that all the devices are ready for the new system.</td>
 </tr>
 
 <tr>
 <td>Risks:</td>
-<td></td>
+<td>New system might not be compatible with the current system.</td>
 </tr>
 
 <tr>
 <td>Risk Mitigation:</td>
-<td></td>
+<td>System must be updated.</td>
 </tr>
 
 <tr>
 <td>Budget:</td>
-<td></td>
+<td>₱5,000 - ₱6,000</td>
+</tr>
+
+<tr>
+<td>Reference Docs:</td>
+<td>[Optimum Five - Work Breakdown Structure (WBS).pdf](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/files/11398416/Optimum.Five.-.Work.Breakdown.Structure.WBS.pdf)</td>
+</tr>
+
+</table>
+</table>
+
+<table width="100" border="1">
+
+<tr>
+<td>WBS:</td>
+<td>1.4.11</td>
+</tr>
+
+<tr>
+<td>Work Package:</td>
+<td>Deploy System</td>
+</tr>
+
+<tr>
+<td>Package Owner:</td>
+<td>Jayson Aloya</td>
+</tr>
+
+<tr>
+<td>Owner Organization:</td>
+<td>Jo Anne M. de la Cuesta</td>
+</tr>
+
+<tr>
+<td>Participants:</td>
+<td>Jan Gabriel Prion, Jayson Aloya, John Christopher Langcauon, Marc Julian Sajul, Marc Zamora, Jojo Castillo, & ITRO</td>
+</tr>
+
+<tr>
+<td>Description:</td>
+<td>Deployment of the project./td>
+</tr>
+
+<tr>
+<td>Completion State:</td>
+<td>Once RAM-IT can start providing customer service to the APC Community Member.</td>
+</tr>
+
+<tr>
+<td>Assumption:</td>
+<td>Assuming that everyone is well prepared on the day of deployment.</td>
+</tr>
+
+<tr>
+<td>Risks:</td>
+<td>System might crash.</td>
+</tr>
+
+<tr>
+<td>Risk Mitigation:</td>
+<td>A back-up system must be ran or slight delay in deployment shall be done to fix said problem.</td>
+</tr>
+
+<tr>
+<td>Budget:</td>
+<td>₱1,000 - ₱6,000</td>
 </tr>
 
 <tr>
