@@ -416,6 +416,81 @@ The system will incorporate a dentists schedule, which will regulate the display
 ==Project Scope Statement==
 <p>The project scope statement for the Apelo Dental Clinic System project will detail the project`s deliverables and the work necessary to create these deliverables. </p>
 
+<p><b>Product Scope Description:</b></p>
+<p>The Apelo Dental Clinic System is a web-based application that enables employees of the clinic to handle patient details such as personal information, medical records, and payment records, as well as oversee the queuing system digitally. This system is designed to safeguard information against losing or mishandling patient details, while also enhancing the patient experience by streamlining the appointment scheduling process. The system will consist of features such as a dentist calendar to provide visibility into the availability of the numbers on a given day, as well as a dashboard to assist the administrator in monitoring the clinic's overall performance.</p>
+
+<p><b>Product Acceptance Criteria:</b></p>
+<p>The Apelo Dental Clinic System will be considered complete and accepted by the customer when it meets the following criteria: </p>
+<ol>
+  <li>Every feature and capability indicated in the project's scope statement has been created and assessed using the test scenarios established by the Quality Assurance Associate.</li>
+  <li>The system has been successfully deployed in Apelo Dental Clinic. </li>
+  <li>Users have given positive feedback on the system during the UAT (User Acceptance Testing) phase.</li>
+  <li>Comprehensive documentation has been prepared for the system, and user manuals have been produced.</li>
+</ol>
+
+<p><b>Project Deliverables: </b></p>
+<p>The following list of deliverables will be provided upon successful completion of the project:</p>
+<ol>
+  <li>Fully functioning Apelo Dental Clinic System </li>
+  <li>User Manual and training materials </li>
+  <li>Technical documentation </li>
+  <li>Providing additional outputs as outlined in the Project Scope Statement and approved by the Project Sponsor. </li>
+</ol>
+
+<p><b>Project Exclusions: </b></p>
+<p>The following tasks are beyond the scope of this project and will not be included:</p>
+<ol>
+  <li>The project scope statement does not mention the inclusion of past patient information into the system.</li>
+  <li>Customization or modification of the system beyond the scope specified in the project scope statement.</li>
+</ol>
+
+<p><b>Project Constraints:</b></p>
+<p>The following limitations will affect the project:</p>
+<ol>
+  <li>Limited budget </li>
+  <li>Resistance to change </li>
+  <li>User Training </li>
+  <li>Limited skills </li>
+</ol>
+
+<p><b>Project Assumptions:</b></p>
+<p>The following assumptions have been made regarding this project:</p>
+<ol>
+  <li>The dental clinics that will implement the system have reliable internet connectivity and appropriate hardware and software to support the digital platform. </li>
+  <li>The clinic staff and patients are willing to adopt and learn the new system, with minimal resistance to change. </li>
+  <li>The project team will have access to all necessary information and resources from the dental clinics to effectively design, develop, and implement the system. </li>
+  <li>The project team has the necessary technical expertise and project management skills to develop and implement the system on time, within budget, and with minimal disruption to the normal operation of dental clinics. </li>
+  <li>The system will comply with all relevant data privacy and security regulations, ensuring the confidentiality and integrity of patient records. </li>
+  <li>The system will be scalable to accommodate future growth and changes in the needs of dental clinics. </li>
+  <li>The system will integrate with existing software and hardware systems used in dental clinics, such as electronic health records and imaging systems, to ensure seamless operation. </li>
+  <li>The system will provide a user-friendly interface for both clinic staff and patients, requiring minimal training to use effectively. </li>
+</ol>
+
+==Work Breakdown Structure==
+<p>The Work Breakdown Structure (WBS) is a way of organizing a project by breaking it down into smaller, more manageable parts, and arranged in a hierarchy. The WBS is made up of multiple levels that provide increasingly detailed views of the project. The WBS Dictionary is a supplemental document that accompanies the WBS and provides comprehensive information about each component in the WBS, including details on the scope of work, deliverables, and responsibilities.<br>
+<br>
+The project team intends to utilize the WBS and WBS Dictionary to divide the project's scope into more manageable components, and to designate responsibility for each component. This approach will ensure that all aspects of the project are considered, and that team members understand their part in delivering the project. The WBS and WBS Dictionary will serve as a guide to track progress, address problems, and make certain that the project stays on course and within the scope. In general, the WBS and WBS Dictionary are crucial tools for managing the project scope and ensuring its successful completion.</p>
+
+==Scope Verification==
+<p>To ensure that the deliverables from the Apelo Dental Clinic System project meet the original scope, the project team will utilize a variety of methods for scope verification. These methods may include: </p>
+<ul>
+  <li><b>Quality checklist:</b> 
+The project team will rely on checklists to ensure that each deliverable meets the required standards before proceeding. These checklists will contain detailed specifications for each deliverable, outlining the specific criteria that must be met for it to be considered acceptable.
+</li>
+  <li><b>Work performance measurements:</b>
+By closely monitoring the development of each deliverable, the project team can ensure that they are staying on track and meeting their objectives. This proactive approach enables the team to catch any problems early on, minimizing the risk of delays or cost overruns and ensuring a successful outcome for the project.
+</li>
+  <li><b>Scope baseline:</b>
+It is crucial for the project team to maintain a scope baseline, which captures the project's original scope. Any modifications to the scope must be formally documented and approved before they are implemented. The scope baseline serves as a reference point to ensure that the final deliverables align with the initial project scope.
+</li>
+  <li><b>Formal acceptance:</b> 
+When a project team completes a deliverable, it is crucial to get formal acceptance from the project sponsor, customer, and other stakeholders. This helps ensure that everyone's expectations are being met and allows for any necessary adjustments to be made promptly, avoiding potential delays and misunderstandings down the line.
+</li>
+</ul>
+<p>Overall, it is important that the project team maintains consistent communication and collaboration with the customer and other stakeholders throughout the project to ensure that the deliverables meet the original scope and are formally accepted. </p>
+
+
+
 =Cost Management Plan=
 ==Introduction==
 <p>The Cost Management Plan for Apelo Dental Clinic System (ADENICSY) project is designed to ensure that all costs associated with the project are effectively managed throughout its lifecycle. The plan outlines the format and standards by which the project costs will be measured, reported, and controlled.
@@ -447,6 +522,26 @@ Budget format and standards:
 </ul>
 
 <p>Overall, the Cost Management Plan for ADENICSY project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.
+
+==Scope Control==
+<p>As part of the project management process, the project's scope must be carefully controlled to ensure that it remains aligned with the original project objectives. The Project Manager will lead the effort to monitor and evaluate the project's deliverables and progress against the Project Scope Statement. Any deviations from the scope will be thoroughly examined and assessed to determine if changes are necessary. If changes are required, the established scope change process will be followed, with proper documentation and approval procedures in place. The project team and stakeholders will work closely with the Project Manager to ensure that the scope remains within the defined boundaries. Regular reviews will be conducted to assess progress and identify any areas where scope changes may be necessary. The Project Manager will be responsible for communicating any scope changes to all affected parties, ensuring that everyone is aware of any potential impact on the project's timeline or budget.<br>
+<br>
+The scope control process for the Apelo Dental Clinic System project will involve the following steps in making changes to the scope baseline: </p>
+<ol>
+  <li>A scope change request will be initiated by any stakeholder or team member who identifies a need for a change to the scope.</li>
+  <li>The Project Manager and the Project Sponsor will evaluate the effect of the proposed modifications on the project's schedule, budget, and resources by reviewing the scope change request.</li>
+  <li>The Project Manager has the authority to approve or reject change requests that are considered to have minimal impact or significant impact. However, if the change request is classified as low impact and the Project Manager approves or denies it, the Project Sponsor has the option to review and overturn their decision.</li>
+  <li>Assuming the request gets approved, the Project Manager will devise a course of action to implement the change, amend the scope baseline, and inform all the pertinent stakeholders about the change.</li>
+  <li>Assuming the request gets approved, the Project Manager will devise a course of action to implement the change, amend the scope baseline, and inform all the pertinent stakeholders about the change.</li>
+</ol>
+<p>To guarantee the project remains within budget and on schedule, it's crucial to establish a structured protocol for modifying the scope baseline. Any modifications to the scope must be scrutinized and authorized with care to prevent scope creep and maintain project progress.</p>
+
+==Scope Acceptance==
+<p>Approved by the Project Sponsor:
+<br>	
+<b>Denroe Apelo</b><br>
+Owner of Apelo Dental Clinic 
+Date: May 2023
 </p>
 
 ==Cost Management Approach==
