@@ -762,6 +762,103 @@ Therefore, the Cost Performance Index (CPI) is 0.9216. This means that for every
 In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.<br>
 </li>
 </ol>
+</p>
+==Reporting Format==
+<p>
+The ideal reporting format for the cost management plan of the Dispatch Directory system project would likely be a detailed spreadsheet or table. This format should include all relevant cost information such as project budget, actual costs incurred, projected costs, and any variances or discrepancies.<br>
+Additionally, the format should be easily understandable and accessible to all stakeholders, including the project team, stakeholders, and management. A bar chart or Gantt chart can also be included to provide a visual representation of the cost information. The reporting format for the cost management plan of the Dispatch Directory system project would include the following elements:<br>
+</p>
+
+
+<p>
+1.Executive Summary:<br>
+A brief overview of the cost management plan, including the project's overall budget, any major cost variances or issues, and any actions taken to address them.<br>
+
+2.Budget Overview:<br>
+A detailed breakdown of the project's budget, including the total project cost, the cost of each phase or deliverable, and the costs associated with each project resource (e.g., labor, materials, equipment, etc.).<br>
+
+3.Cost Variance Analysis:<br>
+A detailed analysis of any variances between the project's actual costs and the budgeted costs. This should include a detailed explanation of the causes of the variances, the impact on the project, and any actions taken to address them.
+
+4.Budget Forecast:<br>
+A projection of the project's future costs, including any potential cost variances and their potential impact on the project. <br>
+
+5.Cost Management Metrics:<br>
+A set of key performance indicators (KPIs) that provide a snapshot of the project's cost performance, including cost variance, cost performance index (CPI), and schedule performance index (SPI).<br>
+
+6.Approval and Sign-off:<br>
+A section for the project manager and other key stakeholders to review, approve, and sign off on the cost management plan.<br>
+
+7.Appendices:<br>
+Any additional documentation or supporting materials, such as detailed cost breakdowns, invoices, or change request forms.<br><br>
+
+It is important to note that this is a general outline, and the reporting format may vary depending on the specific needs of the project and organization. However, it should provide a comprehensive overview of the project's cost management and performance in order to make informed decisions.<br>
+</p>
+
+==Cost Variance Response Process==
+<p>
+The Cost Variance Response process for ADENICSY project will be as follows:<br>
+
+1.Control Thresholds:<br>
+-	The project will have several control thresholds set for cost variance.<br>
+-	These thresholds will be set at 5%, 10%, and 15% of the total project budget.<br>
+-	If the project triggers any of these thresholds, it will be considered a cost variance.<br><br>
+
+2.	Identification of Variance:<br>
+-	The Project Manager will be responsible for identifying any cost variances and reporting them to the Project Sponsor.<br>
+-	The Project Manager will use the Earned Value Metrics and other cost management tools to identify and track any variances.<br><br>
+
+3.	Analysis of Variance:<br>
+-	The Project Manager will analyze the variance to determine the root cause of the problem and develop options for corrective action.<br>
+-	The Project Manager will also consider the impact of the variance on the project schedule and scope.<br><br>
+
+4.	Presentation of Options:<br>
+-	The Project Manager will present the options for corrective action to the Project Sponsor.<br>
+-	The options will be based on the root cause of the variance and the impact on the project schedule and scope.<br><br>
+
+5.	Approval of Corrective Action:<br>
+-	The Project Sponsor will review the options and approve an appropriate action to bring the project back on budget.<br>
+-	This may include increasing the budget, reducing scope or quality, or implementing other corrective actions.<br><br>
+
+6.	Implementation of Corrective Action:<br>
+-	The Project Manager will implement the approved corrective action and monitor the results.<br>
+-	The Project Manager will also update the project schedule and budget accordingly.<br><br>
+
+7.	Reporting:<br>
+-	The Project Manager will report the cost variance, corrective action taken, and the results of the corrective action in the Monthly Project Status Report.<br>
+-	The Project Manager will also provide updates on the project budget and schedule.<br><br>
+
+The Cost Variance Response process will be an ongoing process throughout the project lifecycle. The Project Manager will be responsible for monitoring and controlling the project costs, and the Project Sponsor will be responsible for approving any corrective actions as needed. <br>
+</p>
+
+==Cost Change Control Process==
+<p>
+The cost change control process will include the following steps:<br><br>
+
+1.	Identification of the cost change:<br>
+-	Any proposed changes to the project budget or costs must be identified and documented in a cost change request form.<br><br>
+2.	Analysis of the cost change:<br>
+-	The proposed change will be analyzed by the project team to determine the potential impact on the project schedule, resources, and overall budget.<br><br>
+3.	Approval of the cost change:<br>
+-	The cost change request will be reviewed and approved by the project sponsor and other relevant stakeholders.<br><br>
+4.	Implementation of the cost change:<br>
+-	Once approved, the cost change will be implemented in accordance with the project schedule and budget.<br><br>
+5.	Tracking and monitoring of the cost change:<br>
+-	The project team will track and monitor the impact of the cost change on the project schedule and budget, and any necessary adjustments will be made to ensure the project stays on track.<br><br>
+6.	Reporting on the cost change:<br>
+-	The cost change will be reported in the monthly project status report, along with any relevant financial information and any corrective actions taken.<br><br>
+
+The cost change control process will be implemented to ensure that any changes to the project budget or costs are identified, analyzed, and approved in a timely manner. This will help to minimize the impact of cost changes on the project schedule and budget and help to ensure that the project stays on track to meet its objectives.<br>
+
+</p>
+
+==Project Budget==
+<p>
+Budgeting is a crucial component of project management that involves planning, estimating, and controlling project costs. For the Dispatch Directory System project, a budget has been developed to ensure that project costs are identified, monitored, and controlled throughout the project's life cycle.<br>
+The budget includes direct and indirect costs, and it is designed to provide the project team and stakeholders with a comprehensive understanding of the financial resources required to successfully complete the project. This budget will serve as a baseline for monitoring the project's financial performance and ensuring that it remains on track to meet its goals and objectives within the approved budget.<br><br><br>
+
+
+<bold>Approved Budget: PHP 900,000.00</bold>
 
 </p>
 
