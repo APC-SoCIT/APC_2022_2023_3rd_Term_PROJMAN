@@ -153,7 +153,7 @@
 		Monitor and maintain the new system: Finally, you will need to monitor and maintain the new system to ensure it continues to meet the requirements. This involves monitoring the system for issues, performing regular maintenance, and making updates, as necessary.
 	</li>
 	<li>
-		
+		Closure: The project group will deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met.
 	</li>
 </ul>
 
@@ -1015,19 +1015,19 @@
 <h2>Scope Management Approach</h2>
 <ol>
 <li>
-1.Authority and responsibility for scope management will be held by Noreen Keziah S.  Sioco,  theproject  manager  of  group Abyss. Shewill  closely  collaborate  with the project sponsor, Mr. Jayvee Cabardo, and other key stakeholders to establish and manage the project's scope.
+Authority and responsibility for scope management will be held by Noreen Keziah S.  Sioco,  the project  manager  of  group Abyss. She will  closely  collaborate  with the project sponsor, Mr. Jayvee Cabardo, and other key stakeholders to establish and manage the project's scope.
 </li>
 <li>
-2.The  scope  of  the  project  will  be  defined  by  creating  a  Scope  Statement,  Work Breakdown Structure (WBS), WBS Dictionary, and a detailed Statement of Work (SOW). These documents will comprehensively describe the project deliverables, tasks,  and  requirements,  and  will  be  reviewed  and  endorsed  by  the  project sponsor and other stakeholders before the project work commences.
+The  scope  of  the  project  will  be  defined  by  creating  a  Scope  Statement,  Work Breakdown Structure (WBS), WBS Dictionary, and a detailed Statement of Work (SOW). These documents will comprehensively describe the project deliverables, tasks,  and  requirements,  and  will  be  reviewed  and  endorsed  by  the  project sponsor and other stakeholders before the project work commences.
 </li>
 <li>
-3.The scope of the project will be measured and verified by using quality checklists, work  performance  measurements,  and  regular  reviews  of  the  project's  progress against  the  scope  baseline.  Any  deviations  from  the  scope  baseline  will  be identified and addressed through the scope change process.
+The scope of the project will be measured and verified by using quality checklists, work  performance  measurements,  and  regular  reviews  of  the  project's  progress against  the  scope  baseline.  Any  deviations  from  the  scope  baseline  will  be identified and addressed through the scope change process.
 </li>
 <li>
-4.The  scope  change  process  for  the  Tracking  Activity  Project  Management  will require  the  submission  of a  scope  change  request  by  Mr.  Jayvee  Cabardo,  with final approval granted by the project sponsor. Any changes to theproject's scope will  be  evaluated  carefully  to  ensure  that  they  align  with  the  project's  objectives and do not have a negative impact on the project schedule or budget.
+The  scope  change  process  for  the  Tracking  Activity  Project  Management  will require  the  submission  of a  scope  change  request  by  Mr.  Jayvee  Cabardo,  with final approval granted by the project sponsor. Any changes to theproject's scope will  be  evaluated  carefully  to  ensure  that  they  align  with  the  project's  objectives and do not have a negative impact on the project schedule or budget.
 </li>
 <li>
-5.The  project's  final  deliverables  will  be  accepted  and  approved  by  the  project sponsor and other key stakeholders, with Mr. Jayvee Cabardo being responsible for   verifying   that   all   project   requirements   have   been   satisfied.   Successful completion  of  the  project  will  be  confirmed  once  all  deliverables  have  been accepted, and any unresolved issues have been resolved.
+The  project's  final  deliverables  will  be  accepted  and  approved  by  the  project sponsor and other key stakeholders, with Mr. Jayvee Cabardo being responsible for   verifying   that   all   project   requirements   have   been   satisfied.   Successful completion  of  the  project  will  be  confirmed  once  all  deliverables  have  been accepted, and any unresolved issues have been resolved.
 </li>
 </ol>
 <h2>Roles and Responsibilities </h2>
@@ -1089,114 +1089,80 @@
 </ul>
 <h2> Work Breakdown Structure </h2>
 
+<p>The  Work  Breakdown  Structure  (WBS)  is  a  tool  that  will  be  used  to  divide  the  project into  smaller,  more  manageable  components.  This  hierarchical  representation  of  the project  scope  will  start  with  a  high-level  view  of  the  project  and  progressively  move down to a more detailed view. A companion document to the WBS, known as the WBS Dictionary,   will   provide   detailed   information about   each   component,   including deliverables, scope of work, responsibilities, and other relevant information. By  using  the  WBS  and  WBS  Dictionary,  the  project  team  will  be  able  to  assign responsibilities  for  each  component  of  the  project,  track  progress, and  ensure  that  all aspects of the project are accounted for. The WBS and WBS Dictionary will also help to identify and resolve issues and keep the project on track and within scope. The project team recognizes that the WBS and WBS Dictionary are essential tools for managing the project scope and ensuring the project's success.</p>
+
 <h2> Scope Verification </h2>
 
-<table border="1" width="70%" align="center">
-		<tr>
-			<td bgcolor="lightblue">
-				<p>Inputs</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>In Scope</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Out</p>
-				<p>Scope</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Date</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Outputs</p>
-			</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-</table>
+<p>To  ensure  that  the  deliverables  of  the  Tracking  Activity  Project  Management  System project  align  with  the  original  project  scope,  the  project  team  will  employ  various methods for scope verification. These methods will involve:</p>
+<ul>
+<li>
+Quality checklists: A list of specific requirements for each deliverable to be accepted. The project team will use  these  checklists  to  ensure  that  all  deliverables  meet  the  necessary  criteria  before proceeding.
+</li>
+<li>
+Work performance measurements: The  project  team will  monitor  and  measure  the  progress  of  each  deliverable  during development.  This  will  enable  them  to  identify  and  resolve  any  potential  issues  or deviations from the original scope in a timely manner.
+</li>
+<li>
+Scope baseline: The  project  team  will  maintain  a scope  baseline,  which  is  a  snapshot  of  the  original project  scope.  Any  modifications  to  the  scope  must  be  documented  and  approved before they can be implemented. The scope baseline will be utilized to confirm that the final deliverables align with the original scope.
+</li>
+<li>
+Formal acceptance: The  project  sponsor,  customer,  and  other  stakeholders  will  formally  accept  each deliverable upon completion. This ensures that the project team meets the expectations of  all  relevant  parties —allowing  for  any  necessary feedback  or  changes  to  be  made promptly.
+</li>
+</ul>
+
+<p>Overall,   constant   communication   and   collaboration   with   the   customer   and   other stakeholders is essential throughout the project to ensure that the deliverables align with the original scope and are accepted formally.</p>
+
 <h2> Scope Control </h2>
 
+<p>The scope control process for the Tracking Activity Project Management System project will involve regular reviews of the project's deliverables and progress to ensure that they align  with  the  original  project  scope  as  defined  in  the  Project  Scope  Statement.  Any deviations from the scope will be evaluated and, if necessary, changes to the scope will be  documented  and  approved  through  the  established  scope  change  process.  The Project  Manager  will  be  responsible  for  monitoring  and  controlling  the  project's  scope, with assistance from the project team and stakeholders. Periodic reviews of the project's scope  will  be  conducted  to  ensure  that  the  project  remains  on  track  and  within  the defined boundaries. The project manager will also be responsible for ensuring that any scope  changes  are  properly  documented  and  that  all  impacted  parties  are  notified  of any changes.</p>
 
 <h2> Scope Change </h2>
 
-
+<p>The scope control process for the Tracking Activity Project Management System project will involve the following steps for making changes to the scope baseline:</p>
+<ol>
+<li>
+A scope change request will be initiated by any stakeholder or team member who identifies a need for a change to the scope.
+</li>
+<li>
+The  scope  change  request  will  be  reviewed  by  the  Project  manager  and  the Project  Sponsor  to  assess  the  impact  of  the  change  on  the  project  schedule, budget, and resources.
+</li>
+<li>
+If  the  change  is  deemed  low  impact,  the  Project  Manager  can  approve  or  deny the  request.  If  the  change  is  deemed  high  impact,  the  Project  manager  can approve or deny the request. Any low impact change request approved or denied by the Project Manager can be reviewed and overruled by the Project Sponsor.
+</li>
+<li>
+If  the  request  is  approved,  the  Project  Manager  will  create  an  action  plan  to proceed  with  the  change,  update  the  scope  baseline, and  notify  all  relevant stakeholders of the change.
+</li>
+<li>
+If the request is rejected, the project team will continue with the original scope.
+</li>
+<li>
+It  is  important  to  have a  formalized  process  for  making  changes  to  the  scope baseline to ensure that the Tracking Activity Project Management System project stays on track and within budget. Any changes to the scope should be carefully assessed and approved to avoid scope creeps and keep the project on track.
+</li>
+</ul>
 
 =Cost Management Plan=
 
 <h2>Introduction</h2>
 
+<p>The Cost Management Plan for Tracking Activity and Project Management (TAPM) is to outline the  approach  that  the  project  team  will  take  to  manage  costs  throughout  the  project.  The  plan outlines  the  methods  that  will  be  used  to  monitor  and  manage  costs,  such  as  budgeting,  cost reporting, and cost estimations.</p>
+ 
+<p>Cost management responsibilities:<
+
+•The   Project   Manager   is   responsible   for   developing   and   implementing   the   cost management plan.
+
+•The  project  Team  is  responsible  for  following  the  cost  management  plan  and  reporting any cost increase or problems.
+
+Cost change approval:
+
+•Submitted suggestions must be approved first by the Project Manager before executing.
+
 <h2>Cost Management Approach</h2>
 
 
-<h2>Measuring Project Costs</h2>
-<p>            The Earned Value Management will be used in evaluating the performance of the Project. The following Earned Value metrics that will be used to evaluate the project’s cost performance are as follows:</p>
-<ul>
-	<li>Schedule Variance (SV)</li>
-	<li>Cost Variance (CV)</li>
-	<li>Schedule Performance Index (SPI)</li>
-	<li>Cost Performance Index (CPI)</li>
-</ul>
 
-<table width="804" border="1" align="center">
-		<tr>
-			<td width="258" bgcolor="lightblue">
-				<p>Performance Measure</p>
-			</td>
-			<td width="312" bgcolor="lightblue">
-				<p>Acceptance Level</p>
-			</td>
-			<td width="234" bgcolor="lightblue">
-				<p>Critical Level</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="258">
-				<p>Schedule Performance Index (SPI)</p>
-			</td>
-			<td width="312">
-				<p>Between 0.9 and 0.8 or Between 1.1 and 1.2</p>
-			</td>
-			<td width="234">
-				<p>Less Than 0.8 or Greater than 1.2</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="258">
-				<p>Cost Performance Index (CPI)</p>
-			</td>
-			<td width="312">
-				<p>Between 0.9 and 0.8 or Between 1.1 and 1.2</p>
-			</td>
-			<td width="234">
-				<p>Less Than 0.8 or Greater than 1.2</p>
-			</td>
-		</tr>
-</table>
+<h2>Measuring Project Costs</h2>
+
+
+
 <h2>Reporting Format</h2>
 
 <h2>Cost Variance Response Process</h2>
