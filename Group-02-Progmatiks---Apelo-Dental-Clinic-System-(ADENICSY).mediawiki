@@ -159,12 +159,78 @@ By developing a comprehensive system that manages daily operations, the efficien
   <li>Provide user training and ongoing support to ensure effective implementation and adoption of the system.</li>
 </ul>
 
+<p><b>Project Performance</b></p>
+<p>The Apelo Dental Clinic System project will be considered successful if it achieves the following performance metrics:<p>
+<ul>
+  <li><b>Reduction of waiting times:</b> The system should reduce the average waiting time for patients by at least 20% compared to the previous manual process.</li>
+  <li><b>Accuracy and security of records:</b> The system should ensure that all patient records are accurately and securely stored in a digital database, reducing the risk of manual errors and loss of records.</li>
+  <li><b>Increased operational efficiency:</b> The system should increase the operational efficiency of dental clinics by reducing the time and resources required for manual queueing and record-keeping processes, resulting in cost savings and increased revenue.</li>
+  <li><b>Enhanced patient satisfaction:</b> The system should enhance the overall patient experience by providing a more streamlined and convenient queueing process, resulting in increased patient satisfaction ratings.</li>
+  <li><b>Effective implementation:</b> The system should be implemented on time, within budget, and with minimal disruption to the normal operation of dental clinics.</li>
+  <li><b>User adoption:</b> The system should be successfully adopted by users, including both clinic staff and patients, with minimal training required.</li>
+</ul>
+<p>By meeting these performance metrics, the Apelo Dental Clinic System project will be considered a success, achieving its goals of improving operational efficiency, enhancing patient experience, and supporting the long-term success of dental clinics.</p>
 
+<p><b>Project Assumptions</b></p>
+<p>Here are the preliminary assumptions to the proposed system:</p>
+<ol type="a">
+  <li>The dental clinics that will implement the system have reliable internet connectivity and appropriate hardware and software to support the digital platform.</li>
+  <li>The clinic staff and patients are willing to adopt and learn the new system, with minimal resistance to change.</li>
+  <li>The project team will have access to all necessary information and resources from the dental clinics to effectively design, develop, and implement the system.</li>
+  <li>The project team has the necessary technical expertise and project management skills to develop and implement the system on time, within budget, and with minimal disruption to the normal operation of dental clinics.</li>
+  <li>The system will comply with all relevant data privacy and security regulations, ensuring the confidentiality and integrity of patient records.</li>
+  <li>The system will be scalable to accommodate future growth and changes in the needs of dental clinics.</li>
+  <li>The system will integrate with existing software and hardware systems used in dental clinics, such as electronic health records and imaging systems, to ensure seamless operation.</li>
+  <li>The system will provide a user-friendly interface for both clinic staff and patients, requiring minimal training to use effectively.</li>
+</ol>
+
+<p><b>Project Constraints</b></p>
+<ul>
+  <li><b>Budget:<b> The project must be completed within the allocated budget, and any additional costs must be approved by the project sponsor. The project team must prioritize tasks and resources to ensure that the system is developed and implemented within budget constraints.</li>
+  <li><b>Timeline:</b> The project must be completed within the agreed-upon timeline, with milestones and deadlines set and met by the project team. Any delays or changes to the timeline must be approved by the project sponsor, and the project team must take appropriate measures to ensure timely completion of the project.</li>
+</ul>
+
+<p><b>Major Project Milestones</b></p>
+<p>To guide the team’s progress in completing the project, the following milestones and deliverables for this project have been identified:</p>
+<ol>
+  <li>Set up a preliminary meeting with Dr. Denroe Apelo, Owner of Apelo Dental Clinic to discuss the initial system requirements and status of the existing technologies by April 26th, 2022.</li>
+  <li>Conduct the analysis phase and present findings to the primary stakeholder by May 7th, 2022.</li>
+  <li>Complete the design phase and present mockup design to the primary stakeholder by June 1st, 2022.</li>
+  <li>Develop the features outlined during analysis and design stages using the resources provided by Apelo Dental Clinic and implement the agreed upon user interface by August 15th, 2022.</li>
+  <li>Achieve a simulated solution which allows no security breaches and complete testing by January 31st, 2022.</li>
+  <li>Conduct a close out meeting and provide hand-off documents to key stake holders before September 30th ,2023.</li>
+</ol>
 ==Strategic Alignment==
+<p>If the Apelo Dental Clinic System project is aligned with the strategic goals and objectives of Apelo Dental Clinic, the company can increase the project's value and guarantee its contribution to the efficiency and success of the business.</p>
+<p><b>Apelo Dental Clinic aims to improve the overall experience for patients.</b>
+<br>
+The system project's alignment with this goal signifies the company's commitment to providing an exceptional patient experience and staying ahead of the competition. The implementation of the system project is aimed at achieving the goal of increasing the efficiency and effectiveness of the company's processes, which will, in turn, enhance its reputation. By digital queue numbers and the digitalization of patient information, the project will facilitate a seamless patient experience and contribute to the company's competitive advantage in the market.</p>
+
+<p><b>Apelo Dental Clinic aims to improve data management and security.</b> 
+<br>
+The system project aligns with this goal by modernizing and streamlining the operation of the dental clinic, which will allow the employees of the clinic to effectively manage the queue numbers and patient data. The project's introduction of cutting-edge technologies and streamlined processes will enable the organization to maintain a competitive edge in a rapidly evolving market. By continuously innovating and adapting to the latest trends and advancements, the project will ensure that the company stays ahead of the curve and is well-positioned for long-term success. 
+</p>
 
 ==Cost Benefit Analysis==
 
 ==Alternatives Analysis==
+<p><b>Alternative 1: Maintain Current Manual Processes</b>
+<bt>
+Pros: No initial development or implementation costs; no need for staff training or hardware and software upgrades.
+Cons: Manual processes are time-consuming, prone to errors, and can result in long wait times and loss of records, leading to decreased patient satisfaction, revenue loss, and increased costs due to inefficiencies.</p>
+
+<p><b>Alternative 2: Implement a Third-Party Digital Queueing and Record-Keeping System</b>
+<br>
+Pros: No need for internal development or implementation, reduced operational costs, potential for increased efficiency and patient satisfaction.
+Cons: Lack of customization, potential for compatibility issues with existing systems, lack of control over updates and maintenance, potential for data privacy and security concerns.</p>
+
+<p><b>Alternative 3: Develop and Implement an In-House Digital Queueing and Record-Keeping System</b>
+<br>
+Pros: Customizable to the specific needs and processes of the dental clinics, greater control over updates and maintenance, potential for increased efficiency and patient satisfaction.
+Cons: Higher initial development and implementation costs, potential for delays or technical issues during development and implementation, ongoing maintenance costs, potential for data privacy and security concerns.
+<br>
+Based on this analysis, it appears that Alternative 3, developing and implementing an in-house digital queueing and record-keeping system, is the best option for the Apelo Dental Clinic System project. While there are higher upfront costs and potential risks, this option provides greater customization and control over the system, ensuring it is tailored to the specific needs and processes of the dental clinics. Additionally, it can provide a competitive advantage and potential for revenue growth over time.
+</p>
 
 ==Approvals==
 <p> The project approval should come from the project sponsor and key stakeholder – Dr. Denroe Apelo, Owner of Apelo Dental Clinic. </p>
