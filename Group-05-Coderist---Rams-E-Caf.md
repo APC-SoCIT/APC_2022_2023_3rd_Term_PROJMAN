@@ -415,7 +415,7 @@ Rams E-Caf A Web-Based Cafeteria Management System that handles and monitor sale
 </ul>
 </ul>
 
-<>2. Requirements Gathering
+2. Requirements Gathering
 <ul>
 <ul>2.1 Elicitation</ul>
 <ul>2.2 Analysis</ul>
