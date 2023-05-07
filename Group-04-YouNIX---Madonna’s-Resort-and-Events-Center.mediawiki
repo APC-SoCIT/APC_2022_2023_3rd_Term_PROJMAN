@@ -123,257 +123,229 @@ The cost of the project is low due to the project being a project-based learning
 </table>
 ==Problem Definition==
 <p> <b>Problem Statement</b></p>
-<p>Apelo Dental Clinic is a company that provides a wide range of dental services to its customers. Usually, they focus on preserving good oral hygiene and avoiding or addressing dental problems. However, Apelo Dental Clinic System (ADENICSY) is a web application that supports day to day operation of Apelo Dental Clinic. 
-
-The company employs manual procedures for its daily operations, which involve using paper-based systems for queuing management and index cards to keep track of patient data. This results in a delay of approximately 1 to 4 hours to obtain a number, and patient information retrieval is time-consuming and occupies significant space in the dental clinic. All the current manual procedures are vulnerable to human mistakes and data loss. Despite efforts to maintain a large amount of data, some are still lost, and patients experience excessive waiting times, making it difficult for the company to maintain all the data of their patients and accommodate all the patients in their dental clinic.</p>
-
+<p>Madonna’s Resort and Events Center is a resort and events center which provides booking and reservation in their facilities, swimming in public or private pool, and having an event hall for company outing activities or organization activities. The resort is newly opened in Malvar, Batangas. They started creating the resort during the start of pandemic, way back 2020. Currently, they are using Google forms to be manually encoded by their staff and spreadsheets that they sometimes use whenever the form is inaccessible which sometimes causes conflicts in the reservation of facilities and date. </p>
+<br><p>
+    There is a difference between the reservation and booking. The reservation is for the entrance fee of the individual on the resort who wants to use the pool and event center, while bookings are for the cottages and rooms of the customer. 
+</p>
 <p><b>Organizational Impact</b></p>
-<p>The implementation of Apelo Dental Clinic will have a significant impact on the company. By reducing long waiting times in queuing and improving the manual process of recording records, the clinic can redirect its savings toward other important initiatives. This will help drive the overall performance and efficiency of the company. <br>
-<br>
-In addition, the project aims to improve the current process by introducing agility into the system. By eliminating the need for patients to physically obtain numbers for queuing, the process becomes more efficient and saves time for both the patients and the clinic staff. Additionally, the project will address the challenge of storing patient information by reducing the amount of space required for physical storage. With these improvements, the clinic can focus on providing quality healthcare services and enhancing patient experiences. Overall, the project will revolutionize the healthcare sector by creating a seamless and hassle-free process for patients and healthcare providers alike.</p>
+<p>The implementation of the system will help improve the overall performance the Madonna’s resort staff since it will prevent more human errors and have their work more efficient when they are encoding the data of their customer during reservations and bookings. </p>
 
 <p><b>Technology Migration</b></p>
-<p>The system will be developed using HTML, PHP, JavaScript, and SQL to create a web application, as they currently rely on manual processes that involve number cards and index cards. The data migration process will involve the dental clinic staff manually entering the information from the index cards. After the system is developed, it will be implemented through the company's VDI environment.</p>
+<p>The system will be developed by HTML, CSS, and JavaScript for the frontend development; For the backend development, Django with built-in SQL, and Python, are used. This programming language and framework are what the website is composed of. In terms of data migration, since Django has a built-in database, it will be easy to export the data as there is an added feature for the staff of Madonna’s. </p>
 
 ==Project Overview==
 <p><b>Project Description</b></p>
-<p>The goal of the project is to create a system that will aid in the daily operations of the Apelo Dental Clinic by addressing both patients wait times and data management concerns. As an overview of the system, it includes functionalities that convert the current queuing management process in the dental clinic into a digital format. The system will generate queue numbers and show the number of patients currently being served. Additionally, the system's data management capabilities will efficiently and effectively organize, store, retrieve, and manage large amounts of data.<br>
+<p>To address the issue of unnecessary dispatch and truck rolls, the project aims to develop a system which is a website that will help Madonna’s Resort on reservations, as well as blog and photo gallery. As an overview of these tools, reservations are done through filling out a form on the website and will redirect to a page that will produce a receipt which will then the customer can used to make a down payment on Gcash since it is included in the receipt. This will then be transferred to the database that which admin and staff of the resort whose logged on the website can check, confirm, edit, and remove the receipt depending on the circumstances. Logging in on the website is only exclusive for the admin and staff of the resort and there is no redirection for the login page on the home page; It is provided only via a link. Blog is where the admin and staff post details and advertisements for the resort. They can add, edit, and delete posts on the blog and have complete control with no limitations to what they can publish. Only the admin and staff of the resort can publish a post. The photo gallery is where the resort can post their latest pictures and are categorized so that ease of sorting can help both the resort and customer see what they need to look at. It is configured through their account on the website that they can add and edit, which is similar to blog but is purposed for photo gallery. <br>
 <br>
-By developing a comprehensive system that manages daily operations, the efficiency of the dental clinic can be greatly improved. With this new system in place, employees will have an easier time managing patient information, and patients will be able to experience shorter wait times. With the digitalization of patient information, the employees can retrieve the information easier and faster making the transaction with the patient smoothly. Also, the system will include a dashboard that allows the administrator to easily monitor the performance of the clinic.<p>
+Doing this project will improve the efficiency and effectiveness of Madonna’s Resort by providing them a website that combines all they needed that helps them track their changes better and publish what they want as they have control with no limitations on the website. <p>
 
 <p><b>Goals and Objectives</b></p>
-<p>The Apelo Dental Clinic System aims to automate queueing and record-keeping processes in dental clinics, improving their operational efficiency. This system addresses the common business problem of long waiting times and manual record-keeping, which can lead to errors, patient dissatisfaction, and loss of revenue. By implementing the system, dental clinics can achieve the following objectives:</p>
+<p>The project aims to improve the reservation and advertisement of the resort by providing an interactive and responsive website that can provide a reservation management system. 
+
+ <br>
+    For the team to achieve these, their specific objectives are: </p>
 <ul>
-  <li>Develop and implement a digital platform for queueing and record-keeping processes in dental clinics.</li>
-  <li>Enable patients to view their queueing status online, reducing wait times and enhancing patient experience.</li>
-  <li>Secure patient records in a digital database, reducing the risk of manual errors and loss of records.</li>
-  <li>Improve operational efficiency by automating manual processes, reducing costs, and increasing revenue.</li>
-  <li>Enhance patient satisfaction through improved service quality and reduced wait times.</li>
-  <li>Provide user training and ongoing support to ensure effective implementation and adoption of the system.</li>
+  <li>Keep track of reservations and booking data of customers in real-time using a single medium. </li>
+  <li>Reduce cases of conflicts in schedules to 0. </li>
+  <li>Reduce cases of unauthorized writing on the booking records by 70%. </li>
+  <li>Compute sales with 100% accuracy. </li>
+  <li>Generate monthly sales reports, sales per booking and reservation, and transactions reports. </li>
 </ul>
 
 <p><b>Project Performance</b></p>
-<p>The Apelo Dental Clinic System project will be considered successful if it achieves the following performance metrics:<p>
+<p>To measure the performance of the proposed project about developing a website for the Madonna’s Resort and Events Center, the following measures can be considered: <p>
 <ul>
-  <li><b>Reduction of waiting times:</b> The system should reduce the average waiting time for patients by at least 20% compared to the previous manual process.</li>
-  <li><b>Accuracy and security of records:</b> The system should ensure that all patient records are accurately and securely stored in a digital database, reducing the risk of manual errors and loss of records.</li>
-  <li><b>Increased operational efficiency:</b> The system should increase the operational efficiency of dental clinics by reducing the time and resources required for manual queueing and record-keeping processes, resulting in cost savings and increased revenue.</li>
-  <li><b>Enhanced patient satisfaction:</b> The system should enhance the overall patient experience by providing a more streamlined and convenient queueing process, resulting in increased patient satisfaction ratings.</li>
-  <li><b>Effective implementation:</b> The system should be implemented on time, within budget, and with minimal disruption to the normal operation of dental clinics.</li>
-  <li><b>User adoption:</b> The system should be successfully adopted by users, including both clinic staff and patients, with minimal training required.</li>
+  <li><b></b> </li>
+  <li><b></b> </li>
+  <li><b></b> .</li>
+  <li><b></b></li>
+  <li><b></b> </li>
+  <li><b></b></li>
 </ul>
-<p>By meeting these performance metrics, the Apelo Dental Clinic System project will be considered a success, achieving its goals of improving operational efficiency, enhancing patient experience, and supporting the long-term success of dental clinics.</p>
+<p></p>
 
 <p><b>Project Assumptions</b></p>
 <p>Here are the preliminary assumptions to the proposed system:</p>
 <ol type="a">
-  <li>The dental clinics that will implement the system have reliable internet connectivity and appropriate hardware and software to support the digital platform.</li>
-  <li>The clinic staff and patients are willing to adopt and learn the new system, with minimal resistance to change.</li>
-  <li>The project team will have access to all necessary information and resources from the dental clinics to effectively design, develop, and implement the system.</li>
-  <li>The project team has the necessary technical expertise and project management skills to develop and implement the system on time, within budget, and with minimal disruption to the normal operation of dental clinics.</li>
-  <li>The system will comply with all relevant data privacy and security regulations, ensuring the confidentiality and integrity of patient records.</li>
-  <li>The system will be scalable to accommodate future growth and changes in the needs of dental clinics.</li>
-  <li>The system will integrate with existing software and hardware systems used in dental clinics, such as electronic health records and imaging systems, to ensure seamless operation.</li>
-  <li>The system will provide a user-friendly interface for both clinic staff and patients, requiring minimal training to use effectively.</li>
+  <li>The managing of the system, as well handling customer reservation is only accessible within the employees of Madonna’s resort and Events Center </li>
+  <li>The developers who will work on this project are computer science students in Asia Pacific college thus the students are already knowledgeable and experienced in development and testing environment for the system. </li>
+  <li>There is no cost in development of the project as it is project-based learning included in the curriculum of the school thus the only cost that will be needed will solely for the maintenance of the system once deployed. </li>
+  <li>The Django framework that has been used in development has no cost and is an open-source framework which contributes to resolving the problem that Madonna’s Resort encounters. </li>
+  <li>This project has full support of the project sponsor, Madonna’s Resort, and Asia Pacific College. Which means any necessary project approvals and permissions will be obtained promptly. </li>
 </ol>
 
 <p><b>Project Constraints</b></p>
 <ul>
-  <li><b>Budget:</b> The project must be completed within the allocated budget, and any additional costs must be approved by the project sponsor. The project team must prioritize tasks and resources to ensure that the system is developed and implemented within budget constraints.</li>
-  <li><b>Timeline:</b> The project must be completed within the agreed-upon timeline, with milestones and deadlines set and met by the project team. Any delays or changes to the timeline must be approved by the project sponsor, and the project team must take appropriate measures to ensure timely completion of the project.</li>
+  <li><b>Budget:</b> Available monetary resources that the team can use to make the system go online and be published in a cloud web services platform. </li>
+  <li><b>Resources:</b> such as developers, for maintaining and improving the system.</li>
 </ul>
 
 <p><b>Major Project Milestones</b></p>
 <p>To guide the team’s progress in completing the project, the following milestones and deliverables for this project have been identified:</p>
 <ol>
-  <li>Set up a preliminary meeting with Dr. Denroe Apelo, Owner of Apelo Dental Clinic to discuss the initial system requirements and status of the existing technologies by April 26th, 2022.</li>
-  <li>Conduct the analysis phase and present findings to the primary stakeholder by May 7th, 2022.</li>
-  <li>Complete the design phase and present mockup design to the primary stakeholder by June 1st, 2022.</li>
-  <li>Develop the features outlined during analysis and design stages using the resources provided by Apelo Dental Clinic and implement the agreed upon user interface by August 15th, 2022.</li>
-  <li>Achieve a simulated solution which allows no security breaches and complete testing by January 31st, 2022.</li>
-  <li>Conduct a close out meeting and provide hand-off documents to key stake holders before September 30th ,2023.</li>
+  <li>Look for a client during the subject, SNTSDEV, which results in finding Madonna’s Resort and Events center. </li>
+  <li>Interviewed to collect ideas about the resort so that it would contribute to developing the system in alignment of what the client wanted. </li>
+  <li>Identified the problem of the business so that the pain points would help the team to produce the system better. </li>
+  <li>Conducted project pitch which are documentations, SWOT analysis, and a prototype to help the team visualizing the project and how to improve in alignment of the client’s problem. </li>
+  <li>Develop the system during the subject, SCSPROJ, with the features resolving the problems that the client had on the platforms they are currently using. </li>
+  <li>Found a website online hosting platform that the team and the client can use and complete the hand-off and close out. </li>
 </ol>
 ==Strategic Alignment==
-<p>If the Apelo Dental Clinic System project is aligned with the strategic goals and objectives of Apelo Dental Clinic, the company can increase the project's value and guarantee its contribution to the efficiency and success of the business.</p>
-<p><b>Apelo Dental Clinic aims to improve the overall experience for patients.</b>
+<p>By aligning the Madonna’s Web project with the overall strategic goals and objectives of Madonna’s Resort and Events Center, the business will be able to maximize the value of the project and ensure that it is contributing to the success of the business. </p>
+<p><b>Madonna’s aims to have a website that helps in their difficulties in reservations and advertising. </b>
 <br>
-The system project's alignment with this goal signifies the company's commitment to providing an exceptional patient experience and staying ahead of the competition. The implementation of the system project is aimed at achieving the goal of increasing the efficiency and effectiveness of the company's processes, which will, in turn, enhance its reputation. By digital queue numbers and the digitalization of patient information, the project will facilitate a seamless patient experience and contribute to the company's competitive advantage in the market.</p>
+The project aligns with this goal by improving the efficiency and effectiveness of the online interactions of the business and helping enhance through resolving the limitations they had when using their existing multiple platforms. </p>
 
-<p><b>Apelo Dental Clinic aims to improve data management and security.</b> 
+<p><b>Madonna’s aims are to have more control and features that they can use to improve their online interactions. </b> 
 <br>
-The system project aligns with this goal by modernizing and streamlining the operation of the dental clinic, which will allow the employees of the clinic to effectively manage the queue numbers and patient data. The project's introduction of cutting-edge technologies and streamlined processes will enable the organization to maintain a competitive edge in a rapidly evolving market. By continuously innovating and adapting to the latest trends and advancements, the project will ensure that the company stays ahead of the curve and is well-positioned for long-term success. 
+The project aligns with these goals as admin and staff of the resort will have control on how they want to propagate and advertise the website.  
 </p>
 
 ==Cost Benefit Analysis==
-<p>The cost-benefit analysis will help determine the potential benefits of the Apelo Dental Clinic System (ADENICSY) project in comparison to the cost incurred. The primary benefit of this project is the optimization of the dental clinic's operational processes, which will result in improved efficiency and effectiveness. ADENICSY will facilitate real-time updates and faster data sharing, resulting in an increase in patient satisfaction.</p>
+<p>The cost-benefit analysis will help determine the potential benefit of Madonna’s Web system in comparison to the cost incurred. The primary benefit of this project is the improvement of efficiency and accuracy in booking and reservations, computation of sales, and advertising. The system will allow for faster response times, leading to improved customer satisfaction and reduced operational costs. </p>
 
 <p><b>Benefits </b></p>
 <ul>
-  <li><b>Reduced wait times:</b> The system will reduce patient wait times, leading to increased patient satisfaction, improved staff productivity, and increased revenue due to the ability to see more patients.</li> 
-  <li><b>Improved record-keeping:</b> The system will improve the accuracy and security of patient records, reducing the risk of errors and loss of records.</li>
-  <li><b>Increased operational efficiency:</b> The system will reduce the time and resources required for manual queueing and record-keeping processes, leading to cost savings and increased revenue.</li>
-  <li><b>Enhanced patient experience:</b> The system will provide a more streamlined and convenient queueing process, resulting in increased patient satisfaction ratings and potential for increased patient referrals.</li>
-  <li><b>Competitive advantage:</b> The system will provide a competitive advantage for dental clinics that implement it, as it will improve operational efficiency and enhance the patient experience compared to clinics still using manual processes.</li>
-</ul>
+  <li>Improved admin and staff online interaction as they have control and no limitations to what they can do since the system has provided and resolved the need and lacking features than the multiple platforms they used. </li> 
+  <li>Improved customer booking and reservations, as the system has this feature that is improved solely for business. </li>
+  <li>Improved efficiency and effectiveness of Madonna’s resort resulting in better productivity and less human errors. </li>
+  <li>Improved visibility into the work of the resort staff, enabling managers and owners to monitor the progress of the system and identify potential issues like human errors. </li>
+  </ul>
 <p><b>Cost </b></p>
 <ul>
-  <li><b>Development and implementation costs:</b> The initial cost of developing and implementing the system, including software and hardware, staff training, and any required customization or integration with existing systems.</li>
-  <li><b>Ongoing maintenance costs:</b> The cost of maintaining and updating the system, including software updates, technical support, and ongoing training.</li>
-  <li><b>Operational costs:</b> The cost of operating the system, including internet connectivity and any additional hardware or software required to support the system.</li>
+  <li>Development and implementation cost zero as it is a project-based learning and the framework used in developing the system is free. </li>
+  <li>Maintenance cost less as the client only needed to provide the system a subscription fee for the chosen online cloud web hosting site for the project to be deployed online. </li>
 </ul>
 
 ==Alternatives Analysis==
-<p><b>Alternative 1: Maintain Current Manual Processes</b>
-<bt>
-Pros: No initial development or implementation costs; no need for staff training or hardware and software upgrades.
-Cons: Manual processes are time-consuming, prone to errors, and can result in long wait times and loss of records, leading to decreased patient satisfaction, revenue loss, and increased costs due to inefficiencies.</p>
+<p><b>Alternative 1: Do nothing (status quo)</b>
+<br>
+In this option, the business would continue to use the platform and tools to maintain reservation and advertisement. 
+Pros: No upfront and disruption to existing platforms and tool. 
+Cons: Potential for ongoing costs and difficulties on the platform and tools they used which would lead to conflict of reservation, difficulty in reserving and advertising, and computation of sales</p>
 
-<p><b>Alternative 2: Implement a Third-Party Digital Queueing and Record-Keeping System</b>
+<p><b>Alternative 2: Creating a website through hiring of developers </b>
 <br>
-Pros: No need for internal development or implementation, reduced operational costs, potential for increased efficiency and patient satisfaction.
-Cons: Lack of customization, potential for compatibility issues with existing systems, lack of control over updates and maintenance, potential for data privacy and security concerns.</p>
+In this option, the business will create the website that will resolve the difficulties and limitations they had on the existing platform they are using. 
 
-<p><b>Alternative 3: Develop and Implement an In-House Digital Queueing and Record-Keeping System</b>
+Pros: Improved efficiency and effectives, have more direct control and create into their liking. 
+
+Cons: Possible increase cost due to the business needing to hire a team of professionals to create their website </p>
+
+<p><b>Alternative 3: Use of website builders</b>
 <br>
-Pros: Customizable to the specific needs and processes of the dental clinics, greater control over updates and maintenance, potential for increased efficiency and patient satisfaction.
-Cons: Higher initial development and implementation costs, potential for delays or technical issues during development and implementation, ongoing maintenance costs, potential for data privacy and security concerns.
-<br>
-Based on this analysis, it appears that Alternative 3, developing and implementing an in-house digital queueing and record-keeping system, is the best option for the Apelo Dental Clinic System project. While there are higher upfront costs and potential risks, this option provides greater customization and control over the system, ensuring it is tailored to the specific needs and processes of the dental clinics. Additionally, it can provide a competitive advantage and potential for revenue growth over time.
+Multiple reasons for not selecting this option are that it is free but have limitations; It has multiple subscription tiers, and the maintenance cost is higher than creating or hiring developers; Lack of features even when subscribed which can be a disadvantage to the business if the feature, they want is lacking on the website builder. 
 </p>
 
 ==Approvals==
-<p> The project approval should come from the project sponsor and key stakeholder – Dr. Denroe Apelo, Owner of Apelo Dental Clinic. </p>
+<p> The project approval should come from the project sponsor – Micheal James Gnilo, the owner of Madonna’s Resort and Events Center. </p>
 
 
 =Stakeholder Management Strategy=
 ==Introduction==
 <p>The goal of the stakeholder management strategy for the project is to effectively engage and manage the expectations of all stakeholders throughout the project life cycle. This includes identifying and analyzing stakeholder needs and interests, developing a communication plan to keep stakeholders informed and engaged, and managing stakeholder expectations to ensure that the project delivers value and meets the needs of all stakeholders.</p>
 
-<p>In addition, this stakeholder management plan for Apelo Dental Clinic Management System (ADENICSY) will ensure that the needs and expectations of all stakeholders are considered and balanced in the design and operation of the system. This includes ensuring that the system is effective and efficient in meeting the needs of its users, as well as being responsive to the concerns and feedback of stakeholders such as the owner, the dentists, the staffs, and the Patients. The objectives of this strategy are to:</p>
-<ul>
-   <li>Identify all key stakeholders and their level of interest in the project.</li>
-   <li>Analyze the needs and expectations of each stakeholder group.</li>
-   <li>Develop a communication plan to keep stakeholders informed and engaged throughout the project.</li>
-   <li>Identify and manage potential conflicts or competing objectives among stakeholders.</li>
-   <li>Ensure that the project delivers value and meets the needs of all stakeholders.</li>
-   <li>Establish a system for ongoing stakeholder engagement and feedback to monitor and evaluate the effectiveness of the stakeholder management plan and ensure that the project remains aligned with stakeholder needs and expectations.</li>
-   <li>Involving the stakeholders in the planning and decision–making process to help ensure that the concerns of the stakeholders are all considered.</li>
-</ul>
+<p>The Stakeholder Management Strategy for Madonna Resort’s Madonna Web Project will be used to identify and classify project stakeholders; determine stakeholder power, interest, and influence; and analyze the management approach and communication methodology for project stakeholders.  This will allow us to identify key influential stakeholders to solicit input for project planning and gain support as the project progresses.  This will benefit the project by minimizing the likelihood of encountering competing objectives and maximizing the resources required to complete the project.</p>
 <br>
-<p>Some potential strategies for a ADENICSY to have better stakeholder management could include:</p>
-<ul>
-   <li><b>Improving communication and transparency:</b> It can help improve communication between different stakeholders, such as dentists, patients, and staffs providing one repository for information reducing the chance of illegible records and patients can see their account transactions anytime and verifying their payments real-time.</li>
-   <li><b>Increasing efficiency:</b>  The clinic currently uses an index card to record their patient records that are stored in a tray. ADENICSY can omit the use of index cards, also removing the need for retrieval of index cards which sometimes get lost.</li>
-   <li><b>Improving customer experience:</b> Patients will be able to get their queueing number in ADENICSY, eliminating the need to go to the clinic early in the morning and go back when their queuing number is near. They will also be able to track the current number in the clinic in real-time allowing them to estimate their arrival in the clinic, reducing the waiting time to get operated. </li>
-   <li><b>Enhancing decision-making:</b> ADENICSY provides dashboard to the owner insights from the clinic’s operation data such as the number of customers that has served throughout the day, how much is the doctor to patient ratio, how long is the handling time of a certain procedure, which day of the month does a peak in patient occurs and more. This will enable the owner to have a better understanding of what’s happening in the clinic and aid him in better decision-making.</li>
-</ul>
+<p>Early identification and communication with stakeholders are imperative to ensure the success of Madonna’s Web Project by gaining support and input for the project.  Some stakeholders may have interests which may be positively or negatively affected by the Madonna’s Web Project.  By initiating early and frequent communication and stakeholder management, we can more effectively manage and balance these interests while accomplishing all project tasks. </p>
 
 ==Identify Stakeholders==
-<p>The goal of the Stakeholder Management Strategy for the ADENICSY project is to ensure that all stakeholders are identified, their interests and influence on the project are understood, and their needs and expectations are effectively managed. In other words, the aim of the stakeholder management strategy for ADENICSY is to identify and engage with all individuals or groups that have a personal stake in the project and will be impacted by its implementation or success. To achieve this, the project team will follow a structured methodology to identify stakeholders. This will involve conducting interviews with key personnel, reviewing relevant documents and data sources, and engaging with various stakeholders through focus groups and other consultation processes.</p>
-<p>To identify its stakeholders, a structured method can be used which involves:</p>
+<p>Madonna’s Web Project Team will conduct a brainstorming session to identify stakeholders for the project.  The brainstorming session will include the primary project team and project sponsor.  The session will be broken down into two parts.  The first part will focus on internal stakeholders within Madonna’s Resort.  These stakeholders may include functional managers, operations personnel, finance personnel, warehouse, and material handlers, and any other Madonna’s Resort employee who will be affected by the Madonna’s Web project.  The second part of the session will focus on external stakeholders.  These may include suppliers, trial customers, partner organizations, or any other individuals who reside outside of Madonna’s Resort.</p>
+
+<p>The following criteria will be used to determine if an individual will be included as a stakeholder: </p>
 <ul>
-   <li>Identifying all potential stakeholders through a stakeholder analysis. This includes. identifying internal stakeholders (such as employees and management) and external stakeholders (such as customers, suppliers, and regulatory bodies).</li>
-   <li>Prioritizing stakeholders based on their level of influence, power, and impact on the project. This will help determine how much time and resources should be allocated. towards engaging with each stakeholder.</li>
-   <li>Developing a stakeholder engagement plan to outline how each stakeholder will be engaged and communicated with throughout the project.</li>
-   <li>Maintaining ongoing communication with stakeholders to ensure that their needs and concerns are addressed and that the project stays on track.</li>
+   <li>Will the person or their organization be directly or indirectly affected by this project? </li>
+   <li>Does the person or their organization hold a position from which they can influence the project? </li>
+   <li>Does the person have an impact on the project’s resources (material, personnel, funding)? </li>
+   <li>Does the person or their organization have any special skills or capabilities the project will require? </li>
+   <li>Does the person potentially benefit from the project or are they able to resist this change? </li>
 </ul>
 <br>
-<p>Stakeholders will be defined as any individuals or groups who have an interest in or are impacted by the project, such as employees, customers (Technicians and Managers), Management team, and/or other organizational team members. The project team will use a stakeholder analysis tool to categorize stakeholders based on their level of interest and influence and will develop tailored communication and engagement plans for each stakeholder group. This will help to ensure that all stakeholders are kept informed about the project's progress and are able to provide input and feedback as needed. By effectively managing stakeholders, the project team can build support for the project, address any concerns or issues that may arise, and increase the chances of project success.</p>
+<p>Any individual who meets one or more of the above criteria will be identified as a stakeholder.  Stakeholders from the same organization will be grouped to simplify communication and stakeholder management. </p>
 
 ==Key Stakeholders==
-<p>The key stakeholders in this ADENICSY are the patients, the dentists, the staff, and the owner. These individuals will be directly impacted by the project as they are the primary users of the system. As such, it is important to ensure that their needs and concerns are properly addressed during the development of the system.</p>
-<p>In addition, the project sponsor and project manager have also been identified as key stakeholders as they will be responsible for ensuring the successful delivery of the project. It is essential to involve these stakeholders in the decision-making process and ensure that their input is taken into consideration throughout the project.</p>
+<p>As a follow on to Identify Stakeholders, the project team will identify key stakeholders who have the most influence on the project or who may be impacted the most by it.  These key stakeholders are those who also require the most communication and management which will be determined as stakeholders are analyzed.  Once identified, the Project Manager will develop a plan to obtain their feedback on the level of participation they desire, frequency and type of communication, and any concerns or conflicting interests they have.</p>
+<p>Based on the feedback gathered by the project manager, the determination may be made to involve key stakeholders on steering committees, focus groups, gate reviews, or other project meetings or milestones.  Thorough communication with key stakeholders is necessary to ensure all concerns are identified and addressed and that resources for the project remain available.</p>
 
-<table border="1" width="70%" align="center">
-     <tr>
-          <td><b>NAME</b></td>
-          <td><b>POSITION</b></td>
-          <td><b>INTERNAL/EXTERNAL</b></td>
-          <td><b>PROJECT ROLE</b></td>
-          <td><b>CONTACT INFORMATION</b></td>
-     </tr>
-     <tr>
-          <td><b>Denroe Apelo</b></td>
-          <td>Owner of Apelo Cental Clinic</td>
-          <td>Internal</td>
-          <td>Project Sponsor</td>
-          <td>denroe2003@gmail.com</td>
-     </tr>
-     <tr>
-          <td><b>ADC Dentists</b></td>
-          <td>ADC Dentists</td>
-          <td>Internal</td>
-          <td>Internal User of the System</td>
-          <td></td>
-     </tr>
-     <tr>
-          <td><b>ADC Staff</b></td>
-          <td>ADC Staff</td>
-          <td>Internal</td>
-          <td>External User of the System</td>
-          <td></td>
-     </tr>
-     <tr>
-          <td><b>ADC Patients</b></td>
-          <td>ADC Patients</td>
-          <td>External</td>
-          <td>External User of the System</td>
-          <td></td>
-     </tr>
-     <tr>
-          <td><b>Janssen Pedrola</b></td>
-          <td>Student at Asia Pacific College</td>
-          <td>External</td>
-          <td>Project Manager</td>
-          <td>jtpedrola@student.apc.edu.ph</td>
-     </tr>
-</table>
 
 ==Stakeholder Analysis==
-<p>Conducting a stakeholder analysis is a crucial element of the stakeholder management plan for ADENICSY. It involves identifying and evaluating all individuals or groups that have a vested interest in the project and will be impacted by its implementation or success. By conducting a stakeholder analysis, the project team can determine who the key stakeholders are, their level of influence and power, and their potential impact on the project. This information is crucial for developing an effective stakeholder management strategy, as it helps the project team to prioritize the stakeholders and determine how best to engage and communicate with them throughout the project. The table below outlines the stakeholders for the project, indicating those who have a high or low level of interest and power in the development process.</p>
+<p>Once all Madonna’s Web Project stakeholders have been identified, the project team will categorize and analyze each stakeholder.  The purpose of this analysis is to determine the stakeholders’ level of power or influence, plan the management approach for each stakeholder, and to determine the appropriate levels of communication and participation each stakeholder will have on the project.   </p>
+<p>The project team will categorize stakeholders based on their organization or department.  Once all stakeholders have been categorized, the project team will utilize a power/interest matrix to illustrate the potential impact each stakeholder may have on the project.  Based on this analysis the project team will also complete a stakeholder analysis matrix which illustrates the concerns, level of involvement, and management strategy for each stakeholder.</p>
+<p>The table below will be used to establish stakeholders and their levels of power and interest for use on the power/interest chart as part of the stakeholder analysis. </p>
 
 <table border="1" width="70%" align="center">
-<tr>
-     <td><b>NAME</b></td>
-     <td><b>POWER/INTEREST</b></td>
-     <td><b>CURRENT ENGAGEMENT</b></td>
-     <td><b>POTENTIAL MANAGEMENT STRATEGIES</b></td>
-</tr>
-<tr>
-     <td><b>Denroe Apelo</b></td>
-     <td>High</td>
-     <td>Supportive</td>
-     <td>Dr. Denroe collaborates well and is very hopeful for the implementation of the project as he put first his patient’s welfare in his clinic. Inform him at least 3 days ahead to set a meeting as he is a busy person.</td>
-</tr>
-<tr>
-     <td><b>ADC Dentists</b></td>
-     <td>Low</td>
-     <td>Neutral</td>
-     <td>Dr. Denroe can recommend a Dentist anytime if there’s a need for interaction with one. Dentists there will tell the team to ask Dr. Denroe first before the engaged with you with the project.</td>
-</tr>
-<tr>
-     <td><b>ADC Staffs</b></td>
-     <td>Low</td>
-     <td>Neutral</td>
-     <td>The staff are always occupied, especially during peak days in the clinic, but they are responsive when they are not busy. Hence, the team should set a meeting during non-peak days in the clinic.</td>
-</tr>
-<tr>
-     <td><b>ADC Patients</b></td>
-     <td>Low</td>
-     <td>Neutral</td>
-     <td>There are always patients in the clinic, but they have varied traits and characteristics given their demographics too. It’s better to get insights from various patients in different groups to get a rich insight about the clinic.</td>
-</tr>
-<tr>
-     <td><b>Janssen Pedrola</b></td>
-     <td>Low</td>
-     <td>Supportive</td>
-     <td>He is the project manager who oversees the progress of the project. He encourages collaboration in the team especially that they are all students, so it is important to be engaged and participative during discussions.</td>
-</tr>
+    <tr>
+        <th>Key</th>
+        <th>Organization</th>
+        <th>Power (1-5)</th>
+        <th>Interest (1-5)</th>
+      </tr>
+      <tr>
+        <td>A</td>
+        <td>Manager</td>
+        <td>5</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>B</td>
+        <td>Accounting and Sales</td>
+        <td>4</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>C</td>
+        <td>Advertisement and Marketing</td>
+        <td>3</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>D</td>
+        <td>Resort Staff</td>
+        <td>2</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>E</td>
+        <td>Customers</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
 </table>
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pKmRexjkvBHbGMe6lH5MZU9NuXNsOpbuV_5elG_QYEXOtycf5ZFIPhoEoN3QCilAyPm3RS0fLpOvsbZzTMpKeUVoGk=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pKmRexjkvBHbGMe6lH5MZU9NuXNsOpbuV_5elG_QYEXOtycf5ZFIPhoEoN3QCilAyPm3RS0fLpOvsbZzTMpKeUVoGk=s1600" /> </a>
-
-
+<p>Based on the power and interest analysis table above, stakeholders A, C, and D will require minimal management effort as they reside in the lower left quadrant of the matrix.  Stakeholder F, in the upper left quadrant, must be kept satisfied by ensuring concerns and questions are addressed adequately.  Stakeholder G, in the lower right quadrant, must be kept informed through frequent communication on project status and progress.  Stakeholders B and E, in the upper right quadrant, are key players and must be involved in all levels of project planning and change management.  Additionally, stakeholders B and E should be participatory members in all project status meetings, gate reviews, and ad hoc meetings as required. </p>
+<p>The stakeholder analysis matrix will be used to capture stakeholder concerns, level of involvement, and management strategy based on the stakeholder analysis and power/interest matrix above.  The stakeholder analysis matrix will be reviewed and updated throughout the project’s duration to capture any new concerns or stakeholder management strategy efforts. </p>
+<table>
+    <tr>
+        <th>Stakeholder</th>
+        <th>Concerns</th>
+        <th>Strategy</th>
+      </tr>
+      <tr>
+        <td>A</td>
+        <td>Ensuring proper management and monitoring of resort operations</td>
+        <td>Provide and communicate management functions.</td>
+      </tr>
+      <tr>
+        <td>B</td>
+        <td>Lack of easily accessed resort data and computation tools</td>
+        <td>Provide better means of gathering data regarding the resort’s customers and computation of sales</td>
+      </tr>
+      <tr>
+        <td>C</td>
+        <td>Lack of means and channels to advertise and promote the resort</td>
+        <td>Communicate how the project can be used to advertise and promote the resort</td>
+      </tr>
+      <tr>
+        <td>D</td>
+        <td>Familiarity and usability of the project for the staff</td>
+        <td>Provide training for using Madonna’s Web</td>
+      </tr>
+      <tr>
+        <td>E</td>
+        <td>Familiarity and usability of the product for the customers</td>
+        <td>Communicate the project’s objectives, feature set, and vision</td>
+      </tr>
+</table>
 =Scope Management Plan= 
 ==Introduction==
 <p> The scope management plan for the Apelo Dental Clinic System outlines the best practice and cutting-edge that will be used to define, document, and control the scope of the project. By leveraging agile methodologies and real-time collaboration tools, the project team will be able 
