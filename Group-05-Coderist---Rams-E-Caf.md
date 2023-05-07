@@ -74,7 +74,7 @@ With the implementation of an online ordering system, customers will have the co
 </p>
 ==Recommendation==
 <p>
-To address this issue, Rams E-Café is proposing the implementation of an online ordering system that allows customers to place their orders directly from their smartphones or computers. The proposed project aims to provide an online ordering system that is user-friendly, efficient, and cost-effective for both the customers and the business.
+To address this issue, Rams E-Cafe is proposing the implementation of an online ordering system that allows customers to place their orders directly from their smartphones or computers. The proposed project aims to provide an online ordering system that is user-friendly, efficient, and cost-effective for both the customers and the business.
 </p>
 ==Justification==
 <p>
