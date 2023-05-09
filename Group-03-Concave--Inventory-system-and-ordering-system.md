@@ -181,7 +181,7 @@ The following constraints will be considered during the project's development: <
 <h1>Strategic Alignment</h1>
 <p align=" justify">
 Torrecamps Marketing is currently looking to grow their business in terms of their inventory to keep up with their already growing customer base. The system that they currently have in place has multiple flaws that leads to them needing time to compensate and cover for their mistakes, this is where the group’s project comes in as it automates their transactional tasks and inventory tasks giving them more time and manpower to focus on other tasks that they need to be focusing on in order to improve their company.</p>
-<h1>Cost Benefit Analysis/h1>
+<h1>Cost Benefit Analysis</h1>
 <p align=" justify">
 The only expense in the project would be the price for the URL which is usually around Php 2-5k. With this expense a system that could automate the inventory and ordering processes will be given to the client. The system would free up the staff so that they can focus on other aspects of their business, and this will then lead to better sales for the company. While currently they are not paying the 2-5k mentioned before they are losing on possible sales and business by allotting their time to fixing the problems that their current system brings them. </p>
 <h1>Alternative Analysis</h1>
