@@ -305,7 +305,8 @@ CEO -<strong> Mr. Jabb Torrecampo</strong> holds a key role in the company's dec
 COO - <strong>Ms. Maria Theresa Reyes</strong> is responsible for the company's day-to-day operations and ensuring that the company runs efficiently and effectively. She may have a more hands-on interest in the Inventory System and Ordering System project, as it may impact the company's operations in a direct way. As such, she may play a critical role in ensuring that the project is implemented effectively and in a way that aligns with the company's goals and objectives.
 </p>
 
-Stakeholder Analysis
+<h4>Stakeholder Analysis</h4>
+<p align="justify">
 <table width = "60%" align = "center">
    <tr bgcolor="#184376">
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
