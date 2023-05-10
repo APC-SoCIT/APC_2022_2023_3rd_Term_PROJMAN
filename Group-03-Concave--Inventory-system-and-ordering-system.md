@@ -44,6 +44,10 @@ Project Team
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Ryan Gabriele Candari </font></th>   
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> rscandari@student.apc.edu.ph </font></th></tr>
 </tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Marcus Jorell Medina </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> mcmedina2@student.apc.edu.ph </font></th></tr>
+</tr>
 <br>
 </table>
 <h2>Executive Summary</h2>
