@@ -282,4 +282,23 @@ The scope of the project includes the development of the system which is named I
 <p align="justify">
 <strong>Product Scope Description </strong>– The team is tasked with developing an inventory system and ordering system for their client, which is Torrecamps Marketing. This will automate the transaction and allows the users to order inside the system which brings more efficiency and removes the inconvenience of manually handling their transactions and inventory stuff. The I.O System is an inventory and ordering system. The website will be presenting the items that  Torrecamps Marketing is selling. Every order will be recorded into the inventory and ordering system.  </p>
 
+<h1>Stakeholder Management Strategy</h1>
+<h4>INTRODUCTION</h4>
+<p align="justify">
+To address these challenges, a stakeholder management strategy has been developed to identify and analyze stakeholder needs, develop a communication plan, address stakeholder concerns, involve stakeholders in decision making, and monitor stakeholder engagement. The stakeholder management strategy will ensure that the right message is delivered to the right audience at the right time and that stakeholder needs are met throughout the project's lifecycle. 
+
+This document outlines the stakeholder management strategy for the Inventory System and Ordering System project for Torrecamps Company. The strategy aims to maintain stakeholder engagement and involvement throughout the project's lifecycle to ensure that the project meets its goals and objectives. By doing so, we believe that the project will achieve its intended outcomes and bring about significant benefits for Torrecamps Company.
+</p>
+
+<h4>IDENTIFY STAKEHOLDERS</h4>
+<p align="justify">
+To identify the stakeholders, the group thought of examining the hierarchy within the company, Torrecamps Marketing, and identifying the people with the most influence and the people that the group thinks would provide the best insight into the project. The group thought this would be an effective way to identify the stakeholders because the more influential people would be leading the company, thus setting the path that the company would go through to progress. The people with the best insight are the people that understand the inner workings of the company and would be able to guide the group on what functions/features of the project would be needed for the project to be as useful as possible to the company and their workers.</p>
+
+<h4>KEY STAKEHOLDERS</h4>
+<p align="justify">
+CEO -<strong> Mr. Jabb Torrecampo</strong> holds a key role in the company's decision-making processes and overall strategic direction. He is likely to have a significant interest in the success of the Inventory System and Ordering System project, as it will impact on the company's operations and bottom line. Additionally, as the CEO, he is responsible for ensuring that the company's stakeholders are informed and satisfied with the project's outcomes.
+
+COO - <strong>Ms. Maria Theresa Reyes</strong> is responsible for the company's day-to-day operations and ensuring that the company runs efficiently and effectively. She may have a more hands-on interest in the Inventory System and Ordering System project, as it may impact the company's operations in a direct way. As such, she may play a critical role in ensuring that the project is implemented effectively and in a way that aligns with the company's goals and objectives.
+</p>
+
 
