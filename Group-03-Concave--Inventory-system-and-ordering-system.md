@@ -250,14 +250,14 @@ The outline view presents an easy to view and understand layout for the Ordering
 The scope of I.O System will be documented by the methods listed here: 
 
 1.<strong>Requirements documentation:</strong> The system requirements will be documented that outlines the system’s functional and non-functional requirements. 
-2.<strong>Project management plan:</strong> This will include information about the scope of the project, also includes scope statement and the scope baseline. Other relevant information about the scope of the project is also part of this project management plan.  
+2.<strong>Project management plan:</strong> This will include information about the scope of the project, also includes scope statement and the scope baseline. Other relevant information about the scope of the project is also part of this project management plan.  <br>
 3.<strong>Change log:</strong> This will be added and maintained to track all changes to the scope of the project, this includes the description of the change, project impact and required approvals.  
 
 <h4>Scope Control</h4> 
 The scope of this project is controlled throughout these following activities: 
 
 1.<strong>Scope Verification:</strong> The agile testing techniques will be the project team’s desired method to verify that the deliverables of the project will meet the requirements and align with the scope statement.  
-2.<strong>Scope change control:</strong> Any changes to the scope of the project will be directed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality. 
+2.<strong>Scope change control:</strong> Any changes to the scope of the project will be directed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality. <br>
 3.<strong>Scope change review:</strong>  This will be held for each change request to ensure that the change is necessary, feasible, and aligned with the project objectives. 
 
 <h4>Scope Management Approach</h4>
