@@ -305,4 +305,20 @@ CEO -<strong> Mr. Jabb Torrecampo</strong> holds a key role in the company's dec
 COO - <strong>Ms. Maria Theresa Reyes</strong> is responsible for the company's day-to-day operations and ensuring that the company runs efficiently and effectively. She may have a more hands-on interest in the Inventory System and Ordering System project, as it may impact the company's operations in a direct way. As such, she may play a critical role in ensuring that the project is implemented effectively and in a way that aligns with the company's goals and objectives.
 </p>
 
+Stakeholder Analysis
+<table width = "60%" align = "center">
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>      
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Jose Eugenio Quesada </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Subject Professor </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> jlquesada@apc.edu.ph </font></th>   
+</tr>
+<br>
 
