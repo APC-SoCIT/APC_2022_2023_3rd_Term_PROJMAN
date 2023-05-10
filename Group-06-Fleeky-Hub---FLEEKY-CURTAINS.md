@@ -964,6 +964,7 @@ The website will comply with relevant laws and regulations, including data priva
 
 <p>The project team will utilize the Work Breakdown Structure (WBS) to create a detailed view of the project scope by breaking it down into smaller components. Each level of the WBS will represent a progressively more detailed view of the project, which will assist in assigning responsibilities to team members and tracking progress. The WBS Dictionary will provide detailed information about each component in the WBS, including the scope of work, deliverables, responsibilities, and any other relevant information. The WBS and WBS Dictionary will be crucial in managing the project scope, ensuring that all aspects of the project are accounted for, and that the project stays on track and within scope. </p>
 
+![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002947/e5d16acd-beb1-4072-8d0d-ba7cb23d7ac7)
 
 
 <h2> Scope Verification </h2>
@@ -1017,13 +1018,11 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 </li>
 </ul>
 
-=Cost Management Plan=
-
+<h1>Cost Management Plan</h1>
 <h2>Introduction</h2>
 
-<p></p>
+<p>In Fleeky Curtains, the management and the employees are responsible for keeping the business running. Since the client is a small business handled by the family members, each of the decisions and budget planning is in the scope of the family members. The investor and the founder of Fleeky Curtains is the one who finances the business, Mitzi Garcia. She also oversees which products to be invested and the raw materials to supplement the production of curtains. The investor also has the authority to approve the changes to the project of Fleeky Hub and carrying out the budget for the business and the project</p>
  
-<p></p>
 <ul>
 <li>
 
