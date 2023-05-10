@@ -8,7 +8,7 @@ Project Professor
 </tr>
      <tr bgcolor="#ffffff" >
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Jose Eugenio Quesada </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> PROJMAN Professor </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Subject Professor </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> jlquesada@apc.edu.ph </font></th>   
 </tr>
 <br>
@@ -190,3 +190,7 @@ After the group communicated with the client, they found out that the client was
 <h1>Approvals</h1>
 <p align=" justify">
 The completion of the Inventory System and Ordering System project for Torrecamps Company will be authorized solely by the project client, Torrecamps Company. The project will only be considered complete when Torrecamps Company approves the system's functionality and determines that it meets the project goals and objectives. Any changes or modifications to the project scope or timeline must also be approved by Torrecamps Company.</p>
+
+<h1>Work Breakdown Structure</h1>
+
+
