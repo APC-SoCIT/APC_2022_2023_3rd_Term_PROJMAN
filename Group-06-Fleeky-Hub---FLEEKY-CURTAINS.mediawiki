@@ -131,7 +131,7 @@
 <p>With family members often occupied with their own commitments at work, school, or home, managing a business can become challenging in terms of time management.</p><p> Running  a  business  requires considerable  time and  effort,  including  tasks  such  as marketing,  operations,  finance,  and  customer  management.  However,  when  family members have their own individual responsibilities and schedules to attend to, it can be challenging  to  allocate  sufficient  time  to  the  business.  Competing  priorities  and  busy schedules  may  result  in  limited  availability  to  focus  on  the  business  and  its  various aspects.</p>
 <p>Having a limited number of employees means they are bound to achieve less activities:</p>
 
-<p>1.Delayed response to customer inquiries that frequently asks on the following:</p>
+<p>1. Delayed response to customer inquiries that frequently asks on the following:</p>
 <ul>
 <li>
 Availability (how many products are on-hand)
@@ -143,7 +143,7 @@ Actual photos of the product.
 The size and fabric.
 </li>
 </ul>
-<p>2.Staffs/employees has difficulties in knowing the following:</p>
+<p>2. Staffs/employees has difficulties in knowing the following:</p>
 <ul>
 <li>
 If there is any new or ongoing confirmed order.
@@ -155,7 +155,7 @@ Status update of the ongoing order.
 The details of the orders.
 </li>
 </ul>
-<p>3.Seldomly encodes information as it takes too long to manually record on the following:</p>
+<p>3. Seldomly encodes information as it takes too long to manually record on the following:</p>
 <ul>
 <li>
 Sales and expenses
@@ -167,10 +167,10 @@ Customer information
 Customer order
 </li>
 <li>
-The availability of rawmaterials inside the inventory
+The availability of raw materials inside the inventory
 </li>
 </ul>
-4.Inconsistent recording of sales and transactions of customers, alongside with its order details and customer information, that leads to:</p>
+4. Inconsistent recording of sales and transactions of customers, alongside with its order details and customer information, that leads to:</p>
 <ul>
 <li>
 Inaccurate reading of business profit and loss
@@ -274,163 +274,229 @@ The website will be able to recruit and keep a strong team of web developers, de
 <h2>Major Project Milestones</h2>
 <h2>Strategic Alignment</h2>
 
-<p></p>
-
-<p></p>
-
-<p></p>
+<p>Fleeky Curtains also consider show the developers will craft the project. The business owner acknowledges their role as developers and adjusts accordingly based on the skills  and capabilities. With their expectations set by the business, the developers are aware on what they are looking for and align the output based on the suggestion given by Fleeky Curtains as they know more better on how the market plays and the psychology of consumerism and its behavior. If any suggestions are raised by the developers, the business owner will respond and provide any further information that will suffice in aligning to the objective of the project</p>
 
 <h2>Cost Benefit Analysis</h2>
 
-<p></p>
+<p>The proposed project is expected to provide a greater yield for the client as the planned web e-commerce application is made to invite new and  potential customers since the client’s business, Fleeky Curtains, is now more accessible and discoverable to the market and masses.</p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="blue"><p style="text-align:center;">Project Component</p></td>
+<td bgcolor="blue"><p style="text-align:center;">Without Fleeky Hub Project</p></td>
+		<td bgcolor="blue"><p style="text-align:center;">With Fleeky Hub Project</p></td>
+    <td bgcolor="blue"><p style="text-align:center;">Gains</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">MonthlySales</p></td>
+<td><p style="text-align:center;">~PHP 50,000</p></td>
+		<td><p style="text-align:center;">>PHP 50,000</p></td>
+    <td><p style="text-align:center;">~2-5% Net Sale</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Order Preparation</p></td>
+<td><p style="text-align:center;">~5 Minutes</p></td>
+		<td><p style="text-align:center;"><5 Minutes</p></td>
+    <td><p style="text-align:center;">Reduction of Task</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Customer Inquiries</p></td>
+<td><p style="text-align:center;">~20 Minutes</p></td>
+		<td><p style="text-align:center;"><20 Minutes</p></td>
+    <td><p style="text-align:center;">Opportunity to complete another task</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Costs</p></td>
+<td><p style="text-align:center;">None</p></td>
+		<td><p style="text-align:center;">PHP 500</p></td>
+    <td><p style="text-align:center;">Efficiency</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Total Profit (month)</p></td>
+<td><p style="text-align:center;">~PHP 50,000</p></td>
+		<td><p style="text-align:center;">>PHP 50,000</p></td>
+    <td><p style="text-align:center;">New market space and broad targeted audience</p></td>
+	</tr>
+</table>
+
+
+<h2>Alternatives Analysis</h2>
+
+<p>Throughout the duration of the project development, the team has considered other alternatives in addressing the client’s business problems and requirements. The table below shows the following alternatives that the team considered:</p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="blue"><p style="text-align:center;">Alternative Projects</p></td>
+<td bgcolor="blue"><p style="text-align:center;">Summary of Alternative</p></td>
+		<td bgcolor="blue"><p style="text-align:center;">Reason for not selecting</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Program or Application</p></td>
+<td><p style="text-align:center;">The alternative is supposed to solely aid the client in their operations but does not touch the customer-side of the client.</p></td>
+		<td><p style="text-align:center;">Though it is feasible, it was not viable as the idea was so centered towards the client operations only. It won’t help the client garner more customers which is significant in providing a solution for the client</p></td>
+	</tr>
+</table>
+
+<h2>Approvals</h2>
+
+<p>The project approval should come from the owner of the business and project sponsor, Mitzi Garcia, as well as the Project manager and co-owner Neil Albert Garcia.</p>
 
 =Project Charter=
-
 <h2>Executive Summary</h2>
-
-<p></p>
+<p>The pandemic has caused businesses to adapt quickly, using social media platforms such as Facebook and e-commerce platforms to sell their products. Fleeky Curtains is an independent family business that provides curtain products. They operate the business at the local household and book a courier to pick up the item and deliver the item to the customer. They aim to grow their market share in the home product industry by observing and adapting to the behavior of the consumers. The employees in the business consist of the members of the family where they take charge of the sewing, assemble the packaging, the messages at Facebook, Shopee inquiries, product inspection, and one that list and encode transactions and customer information. Despite having a limited number of employees, the business wishes to accomplish tasks at an efficient rate due to the lack of workforce/person. The most important details in this text are the production time, packaging time, encoding time, number of products and raw materials, inquiries, available products, expanding the potential clients, and the staff. Fleeky Curtains mentioned that when there is no assistant, the staff finishes the tasks behind time, and that handling and assembling the packaging of one customer order takes 25 minutes of their time. Additionally, the staff must cope with their sleep and roles at work or school, and they must adapt to the market. Fleeky Curtains is an e-commerce company that uses a variety of materials to produce their products. Raw materials such as fabrics, threads, grommet, and curtain rings are used to build a finish product, and packaging materials such as bubble wrap are used to cover the products. Spending activities are traced and recorded within an Excel sheet, and customer data is stored in an Excel sheet. Customer data helps them to identify customer behavior and consumerism, and user experience is most observed when presented with convenience. They have gained knowledgeable feedback and experience revolving to their current system and workflows. Spotlight interviewed one of the admins that handle Fleeky Curtains, Mr. Neil Albert Garcia, to discuss their pain points when it comes to handling their business. These include fees and expenses to the e-commerce platform, poor delivery system, manual encoding of customer details, raw materials and on-hand stocks not documented and audited, finding ways to expand their clients and markets, and manual reports and tracing the performance of the business. These inputs will help align the project with the client's needs and interests. </p>
 
 <h2>Project Purpose/Justification</h2>
 
-<p></p>
+<p>The existing system may be improved by implementing contemporary technology, moving to a better design, and allowing administrators to quickly monitor operations, inventory, and activity. Fleeky Hub will also help employees complete their responsibilities more quickly by tracking departing orders, understanding what has to be packed, what needs to be prepared, what inventories are available, and encoding client information. Prospective company owners, particularly those with small firms, can benefit from Project Akbay's efficiency features, which will allow them to handle orders more quickly and monitor their operations. The relevance of the project for developers, future researchers, company owners, administrators, and employees is that it will provide them with a better grasp of how to design, improve, and execute a stronger basis for their product. Objectives for Sustainable Development (SDGs SDG 8 to increase economic productivity and SDG 9 to develop and promote innovative technology both complement the initiative. The use of the product and the recording of the study will help future studies and offer a better answer for those in need.</p>
 
 <h2>Business Need/Case</h2>
 
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
+<p>To manage the online business, a robust digital tool is needed to reduce the staff's role in the processes involved at encoding and operations. Adapting to technology can resolve challenges quickly and enable the staff to finish quickly at their role and finish other agendas. Whereas the nature of the business advertises at Facebook since Fleeky Curtains gain customers at the site. They also handle customer inquiries at Facebook and leave their booking information at the chat. The employees of Fleeky Curtains extend their work for the customer by creating order and courier booking for the customer. They also encode customer details at Excel and record the product that he/she purchased and its value, quantity, and type of product. </p>
 
 <h2>Business Objectives</h2>
 
-<p></p>
-<ul>
-	<li>
-	
-	</li>
-	<li>
-	
-    </li>
-	<li>
-	
-	</li>
-	<li>
-
-	</li>
-
-</ul>
+<p>Fleeky Curtains is an online business shop that provides comfort, joy, and warm satisfaction to customers with their curtain needs. It is established in 2021 and currently residing their operations and manufacturing at the local household. The business strives to position themselves in the competition by providing top-notch services, products, and purchase experience to all consumers. They also aim to grow their market share on home product industry by observing and adapting to the behavior of a consumer.</p><p> Expanding its product line, focusing on new consumer groups, or stepping up marketing initiatives are all possible ways for Fleeky Curtains to boost sales of its products. Build a solid brand reputation for Fleeky Curtains in order to attract new clients and keep hold of current ones. This might entail creating high-quality items and offering excellent customer service. Increase customer satisfaction Fleeky Curtains aims to do this in order to boost client loyalty and spread good word of mouth. This might include increasing customer service, giving more flexible payment alternatives, or improving product design. Increased production and efficiency might help Fleeky Curtains cut expenses and enhance profit. This might include simplifying production procedures and enhancing quality.</p>
 
 <h2>Project Description</h2>
 
-<p></p>
-
-<p></p>
-
 <h2>Project Objectives and Success Criteria</h2>
 
-<p></p>
-<ul>
-	<li>
-
-	</li>
-	<li>
-
-	</li>
-	<li>
-
-    </li>
-	<li>
-
-    </li>
-	<li>
-
-    </li>
-</ul>
+<p>The project's main objective is to provide a website for customers to browse, navigate, and purchase Fleeky Curtains and an administrative side to help family members manage their business activities efficiently. Specific objectives include reducing 50% of staff's time in handling product inquiries, posting supplementary and detailed information, providing an order management page, digitizing customer orders, information, sales, expenses, and generating sales performance reports.</p>
 
 <h2>Requirements</h2>
 
-<p></p>
+<p>To be successful, this project must satisfy the following conditions: </p>
 <ul>
 	<li>
-	
+	The project should be tested thoroughly by the project team in order to assure the quality of the project. 
 	</li>
 	<li>
-	
+	The project should be examined by the stakeholders, project sponsor, and the project team in order to gather opinions that would help to uphold the quality promised by the project team. 
 	</li>
 	<li>
-	
+	The project team should always consult to the stakeholders and project sponsor, in order to satisfy the needs of the project. 
 	</li>
 	<li>
-	
+	A clear grasp of the customer's demands: It is critical to have a clear awareness of the customer's wants in order to produce goods and services that suit those needs. Fleeky Hub should do research to understand the requirements and preferences of its target market. 
 	</li>
 	<li>
-	
+	Creating a competitive edge: Fleeky Hub should think about how to set itself apart from rivals in the market. This might entail creating distinctive products or services or offering top-notch customer support. 
     </li>
 	<li>
-	
+	Implementation of efficient procedures: Fleeky Hub should attempt to implement efficient and effective processes for product development, marketing, and customer support. It is a good idea to have a plan in place before you start. 
 	</li>
-
 </ul>
+<p>As the project advances, further specifications may be introduced as needed with the project sponsor's consent.</p>
+
+<h2>Constraints</h2>
+
+<ol>
+<li>
+Stakeholder constraints: Fleeky Curtains may encounter limits imposed by stakeholders such as consumers, partners, or investors. These stakeholders can have certain demands or expectations that must be fulfilled in order to guarantee the project's success. 
+</li>
+<li>
+Organizational constraints: Fleeky Curtains may have constraints when it comes to its organizational structure or culture that could have an impact to the expected success of the project. For example, communication issues or conflicting priorities could impact the ability to complete the project on time and within budget.
+</li>
+<li>
+Timing constraints: Due to market pressures or other considerations, Fleeky Hub may have a tight timeline for finishing the project. This might reduce the amount of time available for research, development, and testing.
+</li>
+<li>
+Financial constraints: Fleeky Curtains may have a restricted budget for the project, which may limit the resources available for development and marketing. 
+</li>
+<li>
+Resource constraints: Fleeky Curtains may have limited employees, equipment, or resources available for the project, which may impair the project's quality or scope. 
+</li>
+<li>
+Regulatory constraints: Fleeky Curtains may be required to follow rules and standards that affect the design, development, and marketing of its products and services. 
+</li>
+<li>
+Technical limits: Fleeky Curtains may suffer technological constraints such as restricted access to certain technologies or limitations in the available resources, hardware or software.
+</li>
+</ol>
 
 <h2>Assumptions</h2>
 
-<p></p>
-<ul>
+<p>In creating a website for Fleeky Curtains, targeting the customers and their market should be considered on the following assumptions:</p>
+<ol>
 	<li>
-	
+	Consumers will be interested in buying curtains online and will trust the website to deliver high-quality items and customer service. 
     </li>
 	<li>
-	
+	There is a substantial market demand for curtains and window coverings to meet the website's business strategy and revenue targets. 
 	</li>
 	<li>
-	
+	When compared to other online and physical merchants, the website will be able to provide comparable prices. 
 	</li>
 	<li>
-	
+	The website will have access to a trustworthy and cost-effective supply chain for obtaining curtains from manufacturers and suppliers. 
 	</li>
 	<li>
-	
+	The website will be able to recruit and keep a strong team of web developers, designers, and marketing specialists to establish and operate the website.
 	</li>
-	<li>
-	
-	</li>
-</ul>
+</ol>
+
+<h2>Preliminary Scope Statement</h2>
+
+<p>The scope of this project is to develop a website that helps the employees of Fleeky Curtains manage their customers, and their orders, by redirecting them to make purchases at the site. The main scope is for businesses to be able to address staff's challenges at their tasks and cater to their customers in an efficient way. The project also aims to aid the efficiency for businesses that do their ordering systems manually, enabling to increase the business' efficiency in handling continuous orders and documenting transactions and information seamlessly. The group will be looking to become a website to reduce the staff's time in handling customer inquiries on the products and direct the customer to order inside the website, as well as to navigate according to the customer liking and put the business in a leading edge compared to its competitors. </p>
+
 <h2>Risks</h2>
 
-<p></p>
-<ul>
+<p>There are several business risks linked with selling curtains online. A curtain firm may encounter the following risks, which are among of the most frequent:</p>
+<ol>
 	<li>
-	
+	Cybersecurity risks: Internet commerce platforms are susceptible to assaults that might lead to the loss of confidential consumer information or interfere with daily operations. To secure their data and client information, businesses must make sure they have proper security measures in place. 
 	</li>
 	<li>
-	
+	Logistics and shipping: To deliver their goods, online selling platforms must rely on logistics and shipping partners. Inaccuracies or delays in the shipping procedure might lead to missing or damaged goods, unhappy customers, and perhaps lost sales. 
+	</li>
+        <li>
+	Reputation risks: Include negative customer experiences like subpar products, delayed delivery, or bad customer service. Negative criticism may be amplified through social media and online review platforms, therefore it's critical for businesses to actively manage their online reputation. 
+	</li>
+        <li>
+	Pricing and competition: The internet marketplace may be quite competitive, with numerous merchants providing the same things at various price points. To preserve profitability while still being competitive, businesses must control their pricing strategy. 
+	</li>
+        <li>
+	Technical risks: Online selling platforms depend on technology to run, and problems with that technology can cost businesses money and make customers unhappy. To reduce the risk of technical difficulties, businesses must have a strong technological infrastructure.
+	</li>
+</ol>
+<p>To guarantee the long-term viability of their business, Fleeky Curtains must evaluate and reduce these risks. A curtains company can lessen the potential negative impact on their business and customers and position themselves for success in the online selling space by putting measures in place to manage these risks, such as investing in cybersecurity, working with reputable logistics and shipping providers, offering top-notch customer service, and complying with legal and regulatory requirements.</p>
+
+<h2>Project Deliverables</h2>
+<p>The project will be delivering through these features that will be accessed by the users of Fleeky Curtains.</p>
+<p>For Customers:</p>
+<ul>
+	<li>
+	Product Catalog: A thorough inventory of blinds, drapes, curtains, and other window coverings with top-notch pictures and in-depth explanations. 
+	</li>
+	<li>
+	Advanced search and filter tools make it simple for buyers to locate goods according to their preferences, such as color, style, price, or material. 
+	</li>
+	<li>
+	Easy Checkout: An intuitive checkout procedure that protects consumers' privacy and data by integrating a secure payment gateway and offering a variety of payment choices. 
+	</li>
+	<li>
+	Order tracking: Using an online account, clients may follow their orders, get notifications, and arrange returns or exchanges. 
+	</li>
+</ul>
+<p>For the Admin:</p>
+<ul>
+	<li>
+	Inventory Control: A powerful inventory management system that enables administrators to monitor product stock levels, create low-stock warnings, and automatically change the status of product availability.  
+	</li>
+	<li>
+	Order Management: A system for managing orders that enables administrators to see, manage, and process orders from a single dashboard. This system also enables admins to control order status, produce shipping labels, and track shipments.  
+	</li>
+	<li>
+	Analytics and Reporting: Admins may make data-driven decisions to increase the functionality and profitability of their websites by using an analytics and reporting tool that gives them insightful information about website traffic, consumer behavior, and sales success.
+	</li>
+	<li>
+	User Roles and Permissions: A role-based user management system that gives administrators control over which user groups, such as personnel, vendors, and partners, have access to the website's services and data.
 	</li>
 </ul>
 
-<h2>Project Deliverables</h2>
-<p></p>
-<ul>
-	<li>
-	
-	</li>
-	<li>
-	 
-	</li>
-	<li>
-	 
-	</li>
-	<li>
-	  
-	</li>
-	<li>
-	
-    </li>
-</ul>
 <h2>Summary Milestone Schedule</h2>
+
+<p>The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.</p>
 
 <table border="1" width="70%" align="center">
 	<tr>
@@ -501,199 +567,64 @@ The website will be able to recruit and keep a strong team of web developers, de
 
 <h2>Summary Budget</h2>
 
+<p>The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project. However, since the project is only done at in-house development and hosting the site online will be pushed for future development, this is the summary budget estimated for the deployment.  </p>
+
 <h2>Project Approval Requirements</h2>
 
-<p></p>
-
-<p></p>
+<p>Success for the Fleeky Hub will be achieved when a fully tested intranet security solution, and all technical documentation, is fully deployed throughout the company, Fleeky Curtains, within the time and cost constraints indicated in this charter.  Additionally, this measure of success must include a recommendation list for future security considerations as we fully anticipate the necessity of this solution to evolve in order to prevent future threats. Success will be determined by the Project Sponsor, Ms. Mitzi Garcia, who will also authorize completion of the project.  </p>
 
 <h2>Project Manager</h2>
 
-<p></p>
+<p>Other from defining project roles and duties, Neil Garcia will also need to set project goals and timetables, assign resources, track progress, identify risks and concerns, provide quality control, manage the project budget, interact with stakeholders, and gather feedback. He will also need to ask for comments, handle any difficulties or concerns, and give frequent updates on the project's development. Furthermore, Neil Garcia would be the strength of the project since he knows how the business works and what the business needs whilst developing the said project.</p>
 
 =Stakeholder Strategy Management Plan=
 
 <h2>Purpose</h2>
 
-<p></p>
+<p>Fleeky Hub is a small curtain company that provides clients with high-quality curtains. Fleeky Hub's success is reliant not only on its capacity to produce high-quality draperies, but also on its capacity to manage its stakeholders. Stakeholder management is a vital componentof any business, as it includes identifying, analyzing, and establishing relationships with stakeholders.</p><p> Stakeholders are people, organizations, and groups invested in a business' success. Customers, suppliers, employees, shareholders, and the local community may be included among Fleeky Hub's stakeholders. Effective stakeholder management requires a comprehension of the needs and expectations of each stakeholder group and the development of strategies to meet those needs and expectations.</p><p> This stakeholder management strategy is intended to provide Fleeky Hub with a framework for effectively managing its stakeholders. This strategy will define the organization's main constituents, their interests, expectations, and how the organization will engage and communicate with them. By implementing this strategy, Fleeky Hub can foster positive relationships with its stakeholders, which will contribute to the company's long-term success.</p>
 
 <h2>Stakeholders Identification</h2>
 
+<p>The project team may use the Brainstorming methodology to uncover potential stakeholders that may not be identified right away. This could be done through creating a list of potential stakeholders and conducting group discussion and brainstorming within the project team. In the stakeholder identification process, the project team may ask the possible participants there may be when it comes to their relevance and significance to the business and project so the team will be able to have their approval and support that may help the project development succeed and be able to avoid hindrance or blockage to its progress.</p><p> When identifying the stakeholders, depending on their amount of influence, interest, and involvement in the project or organization, the stakeholders can be divided into several categories. For reference, key stakeholders for the project may be those directly impacted by the project or organization, such as clients or staff, whereas secondary stakeholders are those impacted indirectly, such as vendors or regulatory bodies. Other stakeholder groups can include internal stakeholders, external stakeholders, and key stakeholders, who tend to have a substantial influence on the organization's or project's success.</p><p> With identifying the stakeholders, for the project team to ensure that their interests and concerns are taken into consideration during the decision-making process and to increase support for the project or organization, stakeholders must be identified and engaged with. The chances of success can be increased, and trust can be gained while lowering resistance to change.</p>
+
+<h2>Key Stakeholders</h2>
+
+<p>The key stakeholders identified by the project team are those who have a significant impact on the success or failure of the project or initiative. The following are the sub-sets of stakeholders who may be identified as key stakeholders:</p>
+<ol>
+<li>
+Customers - Since their satisfaction and loyalty are crucial to the success of the project or company, customers are frequently regarded as significant stakeholders. Organizations can improve their competitiveness and profitability by comprehending and satisfying the demands and expectations of their clients.
+</li>
+<li>
+Employees – As employees oversee carrying out the strategies and plans that advance the business, they are essential to its success. Employee motivation and engagement can boost output, lower attrition, and enhance an organization's overall success.
+</li>
+<li>
+Suppliers/partners - Suppliers and partners are frequently regarded as important stakeholders since they supply the products and services required for the business to run smoothly. Reliable supply chains and cost savings can be achieved by establishing strong ties with these stakeholders.
+</li>
+</ol>
+
+<p>The basis behind determining which stakeholders are key stakeholders is based on the level of influence and impact they have on the project or organization. Organizations can build support for their initiatives and increase the likelihood of success by understanding and engaging with these stakeholders.</p>
+
+<h2>Stakeholder Analysis</h2>
 <ul>
-	<li>Group name</li>
-	<li>Number of Stakeholders in the Group</li>
-	<li>Description of the Group</li>
-	<li>Level of Impact on the Project</li>
-	<li>Level the Group is Impacted by Project</li>
-	<li>Current Change Readiness State</li>
-	<li>Desired Change Readiness State</li>
-	<li>Issues, Opportunities and Risks associated with each group</li>
-	<li>Strategies and Actions to address issues, risks and opportunities</li>
+<li>
+Customers: Fleeky Hub's clients are its main stakeholders since they buy its drapes. Understanding their requirements and preferences is crucial to the success of a business. To retain and acquire new consumers, Fleeky Hub must prioritize delivering high-quality products and superior customer service.
+</li>
+<li>
+Workers: Key stakeholders in Fleeky Hub who make contributions to the company's success are the company's workers. They play a crucial role in both the production process and consumer interaction. Providing a safe and healthy workplace, equitable remuneration, and opportunities for professional growth and development will help retain employees and improve their performance.
+</li>
+<li>
+Suppliers: Fleeky Hub depends on its suppliers for the rawmaterials required to make its curtains. Maintaining positive relationships with suppliers, assuring on-time delivery of materials, and negotiating reasonable prices are essential to the business's success.
+</li>
+<li>
+Investors: Fleeky Hub's investors have a financial interest in the company's success. Providing regular updates on the company's financial performance, communicating the company's growth plans and strategies, and ensuring transparency in financial reporting are essential for retaining investor confidence.
+</li>
+<li>
+Local community: Fleeky Hub operates within a local community and is responsible for being a responsible corporate citizen. Supporting local initiatives, providing employment opportunities, and contributing to the community's well-being can help the company develop positive relationships and enhance its reputation.
+</li>
+<li>
+Government: Fleeky Hub must adhere to local laws and regulations, and its operations must not harm the environment or society. Establishing positive relationships with government officials and engaging in ethical business practices can assist in avoiding legal and reputational risks.
+</li>
 </ul>
-
-<p><strong><em>Stakeholder Analysis Register Snapshot:</em></strong></p>
-
-<table width="781" border="1" align="center">
-		<tr>
-			<td width="87" bgcolor="lightblue">
-				<p><strong>Group Name</strong></p>
-			</td>
-			<td width="80" bgcolor="lightblue">
-				<p><strong># in Group</strong></p>
-			</td>
-			<td width="130" bgcolor="lightblue">
-				<p><strong>Description &amp; Key attributes</strong></p>
-			</td>
-			<td width="46" bgcolor="lightblue">
-				<p><strong>Impact on Project</strong></p>
-			</td>
-			<td width="46" bgcolor="lightblue">
-				<p><strong>Impacted by Project</strong></p>
-			</td>
-			<td width="83" bgcolor="lightblue">
-				<p><strong>Current State</strong></p>
-			</td>
-			<td width="83" bgcolor="lightblue">
-				<p><strong>Desired State</strong></p>
-			</td>
-			<td width="102" bgcolor="lightblue">
-				<p><strong>Issues, Opportunities and Risks</strong></p>
-			</td>
-			<td width="123" bgcolor="lightblue">
-				<p><strong>Mitigation Strategies and Actions</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>  &amp; </p>
-			</td>
-			<td width="80">
-				<p></p>
-			</td>
-			<td width="130">
-				<p></p>
-				<p></p>
-				<p></p>
-				<p></p>
-			</td>
-			<td width="46">
-				<p></p>
-			</td>
-			<td width="46">
-				<p></p>
-			</td>
-			<td width="83">
-				<p></p>
-			</td>
-			<td width="83">
-				<p></p>
-			</td>
-			<td width="102">
-				<p></p>
-			</td>
-			<td width="123">
-				<p></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p> &amp;</p>
-			</td>
-			<td width="80">
-				<p></p>
-			</td>
-			<td width="130">
-				<p></p>
-				<p></p>
-				<p></p>
-				<p></p>
-			</td>
-			<td width="46">
-				<p></p>
-			</td>
-			<td width="46">
-				<p></p>
-			</td>
-			<td width="83">
-				<p></p>
-			</td>
-			<td width="83">
-				<p></p>
-			</td>
-			<td width="102">
-				<p></p>
-			</td>
-			<td width="123">
-				<p></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p> &amp;</p>
-			</td>
-			<td width="80">
-				<p></p>
-			</td>
-			<td width="130">
-				<p></p>
-				<p></p>
-				<p></p>
-			</td>
-			<td width="46">
-				<p></p>
-			</td>
-			<td width="46">
-				<p></p>
-			</td>
-			<td width="83">
-				<p></p>
-			</td>
-			<td width="83">
-				<p></p>
-			</td>
-			<td width="102">
-				<p></p>
-			</td>
-			<td width="123">
-				<p></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p></p>
-			</td>
-			<td width="80">
-				<p></p>
-			</td>
-			<td width="130">
-				<p></p>
-				<p></p>
-				<p> </p>
-			</td>
-			<td width="46">
-				<p></p>
-			</td>
-			<td width="46">
-				<p></p>
-			</td>
-			<td width="83">
-				<p></p>
-			</td>
-			<td width="83">
-				<p></p>
-			</td>
-			<td width="102">
-				<p></p>
-			</td>
-			<td width="123">
-				<p></p>
-			</td>
-		</tr>
-</table>
-
-<h2>Power/Interest Classification</h2>
-
-<h2><em></em>Stakeholder Interviews</h2>
 
 <h2>Plan Stakeholder Management</h2>
 
