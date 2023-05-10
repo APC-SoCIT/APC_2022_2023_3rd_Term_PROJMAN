@@ -512,55 +512,55 @@ Technical limits: Fleeky Curtains may suffer technological constraints such as r
 			<p>Project Start</p>
 		</td>
 		<td width="190">
-			<p>Date</p>
+			<p>04/06/2022</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="394">
-			<p>Project Client Search</p>
+			<p>Complete Solution Design</p>
 		</td>
 		<td width="190">
-			<p>Date</p>
+			<p>06/21/2022</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="394">
-			<p>Project Document</p>
+			<p>Complete Diagram Designing</p>
 		</td>
 		<td width="190">
-			<p>Date</p>
+			<p>11/11/2022</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="394">
-			<p>Project Design</p>
+			<p>Solution Simulation</p>
 		</td>
 		<td width="190">
-			<p>Date</p>
+			<p>01/24/2023</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="394">
-			<p>Project System</p>
+			<p>Complete Simulation and Testing</p>
 		</td>
 		<td width="190">
-			<p>Date</p>
+			<p>02/10/2023</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="394">
-			<p>Project Presentation</p>
+			<p>Deploy Solution</p>
 		</td>
 		<td width="190">
-			<p>Date</p>
+			<p>02/24/2023</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="394">
-			<p>Status</p>
+			<p>Project Complete</p>
 		</td>
 		<td width="190">
-			<p>COMPLETED</p>
+			<p>02/27/2023</p>
 		</td>
 	</tr>
 </table>
@@ -735,38 +735,29 @@ Government: Fleeky Hub must adhere to local laws and regulations, and its operat
 <p><strong>Stakeholder Engagement Assessment Matrix.  </strong>List stakeholders and place a “C” for their current level of engagement and “D” in the column of their desired level of engagement.</p>
 
 
-<h2>Manage Stakeholder Engagement</h2>
-
-<h2>Monitor Stakeholder Engagement</h2>
-
-
-<h2>Stakeholder Plan Updates</h2>
-
-
-
 =Scope Management Plan=
 
 
 <h2>Introduction</h2>
 
-<p></p>
+<p>Fleeky Hub's scope management plan provides the best practices for using various functionalities of e-commerce websites, as well as the necessary tools to achieve clients' objectives. With the support of the team's mission and vision, the scope management plan is an asset for clients' businesses. Fleeky Hub's team will provide a comprehensive scope plan that can be achieved repeatedly by both the team and the client. </p>
 
 <h2>Scope Management Approach</h2>
 <ol>
 <li>
-
+Authority and responsibility for scope management will be held by the Project Manager, Pallas Fontiveros, who will work closely with the Project Sponsor, Ms. Mitzi Garcia, and other key stakeholders to define and manage the scope of the project. 
 </li>
 <li>
-
+To determine the scope of the project, a Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and a comprehensive Statement of Work (SOW) will be developed. These documents will precisely specify the project's objectives, activities, and prerequisites, and will undergo evaluation and endorsement by the project sponsor and other involved parties prior to commencing the work. 
 </li>
 <li>
-
+The project's extent will be evaluated and confirmed using quality checklists, measurements of work performance, and regular monitoring of the project's advancement in relation to the original scope. If there are any discrepancies from the initial scope, they will be identified and dealt with using the scope change process. 
 </li>
 <li>
-
+The Fleeky Hub project's procedure for modifying its scope will entail the Project Manager submitting a request for scope change, which will then be approved by the project sponsor. It is crucial to thoroughly assess any alterations to the project's scope to ensure that they are consistent with the project's objectives and do not have a detrimental impact on the project schedule or budget. 
 </li>
 <li>
-
+The project manager will ensure that all project requirements are met and that the project sponsor and other important stakeholders approve and accept the final project deliverables. The project will be considered successfully completed only after all deliverables have been accepted and any remaining issues have been addressed. 
 </li>
 </ol>
 <h2>Roles and Responsibilities </h2>
@@ -785,7 +776,7 @@ Government: Fleeky Hub must adhere to local laws and regulations, and its operat
 				<p><em> Project Manager </em></p>
 			</td>
 			<td>
-				<p><em> Is responsible for definingand documenting the scope of the project, as well as controlling and approving scope changes. </em></p>
+				<p><em> The project manager oversees outlining and documenting the project’s scope, as well as regulating and approving any alterations to the scope. </em></p>
 			</td>
 		</tr>
 		<tr>
@@ -809,44 +800,192 @@ Government: Fleeky Hub must adhere to local laws and regulations, and its operat
 				<p><em> Stakeholders </em></p>
 			</td>
 			<td>
-				<p><em> Stakeholders, including customers, end-users, and other interested parties, are responsible for providing input on the requirements and scope of the project, and for approving scope changes as needed </em></p>
+				<p><em> Stakeholders, including customers, end-users, and other interested parties, are responsible for providing input on the requirements and scope of the project, and for approving scope changes as needed.  </em></p>
 			</td>
 		</tr>
 </table>
 <h2> Scope Definition </h2>
 
-<p></p>
+<p>The scope of this project includes the development of an e-commerce website called Fleeky Hub for Fleeky Curtains. The website will feature an order system for the client's customers, which includes creating an account, paying online or via cash on delivery. The website will have two main features: one for the client's customers and the other for the admin/owner side. The admin/owner side of the website will include analytics and inventory management of the products and serve as a queue list to identify all the pending products that have been ordered by customers through the Fleeky Hub website. </p>
 
 <h2> Project Scope Statement </h2>
-<ul>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-</ul>
+
+<p>The project scope statement for the Fleeky Hub e-commerce website project will detail the project’s deliverable and the work necessary to create these deliverables. The criterion for the product is that the website is functional and can be used by the client’s customers, as it is a working website to navigate and take orders. </p>
+
+<h2> Project Scope Description </h2>
+
+<p>The Fleeky Hub e-commerce website is an online platform designed for Fleeky Curtains' customers to easily browse and purchase products through a user-friendly order system. Customers can pay online or through cash on delivery and view their order history and delivery status. The website also provides inventory management and sales reports for the admin/owner. Overall, the website streamlines Fleeky Curtains' business operations and provides a secure and convenient shopping experience for customers.</p>
+
+<h2>Product Acceptance Criteria</h2>
+
+<p>Product acceptance criteria are a set of requirements that a product must meet to be accepted. They ensure the product meets the needs of users. For the Fleeky Hub e-commerce website, acceptance criteria will guide development to meet requirements and be delivered on time and within budget. </p>
+
+<ol>
+<li>
+The website must be accessible from multiple devices and browsers and be responsive to different screen sizes. 
+</li>
+<li>
+The website must have a secure payment gateway and be able to process payments accurately. 
+</li>
+<li>
+The order system must be user-friendly and allow customers to easily browse products, add items to their cart, and complete their purchase. 
+</li>
+<li>
+Customers must be able to view their order history, delivery status, and leave feedback for their purchases. 
+</li>
+<li>
+The website must provide inventory management and sales reports for the admin/owner to manage the business operations effectively. 
+</li>
+<li>
+The website must be tested and verified to ensure it is free of bugs and errors that may negatively impact the customer experience. 
+</li>
+<li>
+The website must meet all applicable laws and regulations regarding online sales and data privacy. 
+</li>
+<li>
+The website must be delivered within the agreed-upon timeline and budget, with all features and functionalities fully implemented and tested. 
+</li>
+</ol>
+
+<h2>Project Deliverables</h2>
+
+<p>The following list of deliverables will be provided upon successful completion of the project: E-commerce website design and development </p>
+<ol>
+<li>
+User stories and acceptance criteria 
+</li>
+<li>
+Survey results and analysis 
+</li>
+<li>
+Scope statement and baseline 
+</li>
+<li>
+Change log and change management plan. 
+</li>
+<li>
+Weekly and daily progress reports 
+</li>
+<li>
+Inventory management system for products 
+</li>
+<li>
+Analytics system for tracking website traffic and customer behavior 
+</li>
+<li>
+Queue list for tracking pending orders. 
+</li>
+<li>
+Payment system for online transactions and cash on delivery 
+</li>
+</ol>
+<p>These deliverables are essential for the successful completion and acceptance of the project.</p>
+
+<h2>Project Exclusions</h2>
+<p>The following work is outside the scope of this project and will not be included: </p>
+<ol>
+<li>
+The project does not include any development or integration with third-party applications or services not specifically mentioned in the project scope statement. 
+</li>
+<li>
+The project does not cover any physical inventory management or tracking outside of the website's system. 
+</li>
+<li>
+The project does not involve any design or development of mobile applications or other non-web-based solutions. 
+</li>
+<li>
+The project does not include any significant updates or changes to the client's existing branding or marketing materials outside of the website design. 
+</li>
+<li>
+The project does not cover any legal or regulatory compliance issues specific to the client's industry or geographic location. 
+</li>
+<li>
+The project does not include any extensive user testing or focus group research beyond what is necessary to define and develop the initial user stories and acceptance criteria. 
+</li>
+<li>
+The project does not involve any major changes or updates to the client's existing website hosting or infrastructure. 
+</li>
+</ol>
+
+<h2>Project Constraints</h2>
+
+<ol>
+<li>
+Budget constraints: The project must be completed within the allocated budget, which includes costs for development, testing, and any necessary software or tools. 
+</li>
+<li>
+Time constraints: The project must be completed within the agreed-upon timeframe, considering any milestones or deadlines set by the client. 
+</li>
+<li>
+Resource constraints: The project team must work within the limitations of the available resources, including personnel, hardware, software, and any other necessary tools. 
+</li>
+<li>
+Technology constraints: The website must be developed using the agreed-upon technology stack, which includes specific programming languages, frameworks, and platforms. 
+</li>
+<li>
+Security constraints: The website must comply with all necessary security requirements, including SSL encryption, secure login and payment processing, and protection against hacking and other cyber threats. 
+</li>
+<li>
+Compatibility constraints: The website must be compatible with a variety of web browsers and devices, including desktop computers, laptops, tablets, and smartphones. 
+</li>
+<li>
+Usability constraints: The website must be user-friendly and intuitive, with a clean and consistent design that is easy to navigate for both customers and administrators. 
+</li>
+</ol>
+
+
+<h2>Project Assumptions</h2>
+<ol>
+<li>
+The client will provide all necessary content and product information in a timely manner. 
+</li>
+<li>
+The client has a clear understanding of their business requirements and goals. 
+</li>
+<li>
+The client has secured necessary payment and shipping integrations for the website. 
+</li>
+<li>
+The development team has the necessary skills and resources to complete the project within the given timeframe. 
+</li>
+<li>
+The website will be built on a reliable and scalable platform. 
+</li>
+<li>
+The website will be designed and developed with responsive design in mind, to ensure optimal display across various devices. 
+</li>
+<li>
+The website will comply with relevant laws and regulations, including data privacy laws and accessibility guidelines. 
+</li>
+</ol>
+
+
 <h2> Work Breakdown Structure </h2>
 
-<p></p>
+<p>The project team will utilize the Work Breakdown Structure (WBS) to create a detailed view of the project scope by breaking it down into smaller components. Each level of the WBS will represent a progressively more detailed view of the project, which will assist in assigning responsibilities to team members and tracking progress. The WBS Dictionary will provide detailed information about each component in the WBS, including the scope of work, deliverables, responsibilities, and any other relevant information. The WBS and WBS Dictionary will be crucial in managing the project scope, ensuring that all aspects of the project are accounted for, and that the project stays on track and within scope. </p>
+
+
 
 <h2> Scope Verification </h2>
 
-<p></p>
-<ul>
+<p>Scope verification is the process of reviewing the project deliverables to ensure that they meet the requirements specified in the project scope statement. To verify the scope of the Fleeky Hub e-commerce website project, the project team will conduct the following activities: </p>
+<ol>
 <li>
-
+Review the project scope statement and the WBS to ensure that all project deliverables are accounted for. 
 </li>
 <li>
-
+Conduct regular meetings with the client to ensure that their expectations are being met and to address any concerns or changes to the scope. 
 </li>
 <li>
-
+Use the WBS Dictionary to ensure that each component of the project has been completed according to the specifications outlined in the scope. 
 </li>
 <li>
-
+Use testing and quality assurance measures to ensure that the website functions as intended and meets the requirements outlined in the scope. 
 </li>
-</ul>
+<li>
+Obtain formal acceptance from the client that the project deliverables meet their expectations and are in line with the project scope statement. 
+</li>
+</ol>
 
 <p></p>
 
