@@ -331,7 +331,7 @@ and provide the company workers with better software for smoother transactions  
 company currently works to provide inspiration for the group to come up with features of their own </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Limited technological knowledge, cost concern, production time concerns  </font></th>   
 </tr>
-     <tr bgcolor="#ffffff" >
+<tr>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Maria Theresa Reyes  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Torrecamps Marketing  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> COO  </font></th>
