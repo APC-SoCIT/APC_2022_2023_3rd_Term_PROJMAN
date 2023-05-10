@@ -329,7 +329,7 @@ and provide the company workers with better software for smoother transactions  
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Provided insight on the team on how the 
 company currently works to provide inspiration for the group to come up with features of their own </font></th></p>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Limited technological knowledge, cost concern, production time concerns  </font></th>   </p>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Limited technological knowledge, cost concern, production time concerns  </font></th>   
 </tr>
 <tr>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Maria Theresa Reyes  </font></th>
@@ -342,8 +342,8 @@ and provide the company workers with better software for smoother transactions  
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"><p align="justify"> Contacted the team and provided insight 
 on what features the program is required to have for the best outcome for the company  </font></th></p>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Limited technological knowledge, 
-cost concern, production time concerns  </font></th>   </p>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Limited technological knowledge, 
+cost concern, production time concerns  </font></th>   
 </tr>
 <br>
 
