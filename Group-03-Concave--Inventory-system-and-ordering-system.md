@@ -247,13 +247,13 @@ The outline view presents an easy to view and understand layout for the Ordering
 4. Scope Baseline - The user stories and scope statement will be added to a project management plan to create the scope baseline. It will be frequently updated as the project develops to allow for scope changes. 
 
 <h4>Scope Documentation</h4>
-The scope of I.O System will be documented by the methods listed here: 
+The scope of I.O System will be documented by the methods listed here: <br>
 1.<strong>Requirements documentation:</strong> The system requirements will be documented that outlines the system’s functional and non-functional requirements. <br>
 2.<strong>Project management plan:</strong> This will include information about the scope of the project, also includes scope statement and the scope baseline. Other relevant information about the scope of the project is also part of this project management plan.  <br>
 3.<strong>Change log:</strong> This will be added and maintained to track all changes to the scope of the project, this includes the description of the change, project impact and required approvals.  
 
 <h4>Scope Control</h4> 
-The scope of this project is controlled throughout these following activities: 
+The scope of this project is controlled throughout these following activities: <br>
 1.<strong>Scope Verification:</strong> The agile testing techniques will be the project team’s desired method to verify that the deliverables of the project will meet the requirements and align with the scope statement.  <br>
 2.<strong>Scope change control:</strong> Any changes to the scope of the project will be directed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality. <br>
 3.<strong>Scope change review:</strong>  This will be held for each change request to ensure that the change is necessary, feasible, and aligned with the project objectives. 
@@ -274,8 +274,8 @@ The completion of the Inventory System and Ordering System project for Torrecamp
 <p align="justify">
 The scope of the project includes the development of the system which is named I.O System. The proposed system will implement an inventory and ordering system. The system includes a website that will show the selling items of Torrecamps Marketing. This project will help in automating their transaction process and allows the user to order within the system, which is far more efficient.  </p>
 
-<h4>Project Scope Statement</h4>\
+<h4>Project Scope Statement</h4>
 <p align="justify">
-Product Scope Description – The team is tasked with developing an inventory system and ordering system for their client, which is Torrecamps Marketing. This will automate the transaction and allows the users to order inside the system which brings more efficiency and removes the inconvenience of manually handling their transactions and inventory stuff. The I.O System is an inventory and ordering system. The website will be presenting the items that  Torrecamps Marketing is selling. Every order will be recorded into the inventory and ordering system.  </p>
+<strong>Product Scope Description </strong>– The team is tasked with developing an inventory system and ordering system for their client, which is Torrecamps Marketing. This will automate the transaction and allows the users to order inside the system which brings more efficiency and removes the inconvenience of manually handling their transactions and inventory stuff. The I.O System is an inventory and ordering system. The website will be presenting the items that  Torrecamps Marketing is selling. Every order will be recorded into the inventory and ordering system.  </p>
 
 
