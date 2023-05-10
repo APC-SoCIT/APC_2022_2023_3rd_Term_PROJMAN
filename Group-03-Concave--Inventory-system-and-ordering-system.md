@@ -238,7 +238,39 @@ The outline view presents an easy to view and understand layout for the Ordering
 1.6.3	Communicate project status to stakeholders<br>
 1.6.4	Ensure project deliverables meet quality standards<br>
 1.6.5	Obtain project acceptance from stakeholders
- 
+
+<h1>Scope Management Plan</h1>
+<h4>Introduction </h4>
+1. Collect Requirements – The project team will use a number of methods to collect, and the system's requirements should be documented via user interviews with the client, adviser and consultant meetings and subject professor meetings.  
+2. User Stories – The project team will create user stories to describe the functionality of the system from the perspective of the end user. These stories will be prioritized based on business value and will be used to guide the development process. 
+3. Scope Statement – The scope statement will be developed using the user stories created and requirements as input. It will provide a high-level overview of the project scope, including the deliverables, and constraints. 
+4. Scope Baseline - The user stories and scope statement will be added to a project management plan to create the scope baseline. It will be frequently updated as the project develops to allow for scope changes. 
+
+<h4>Scope Documentation</h4>
+The scope of I.O System will be documented by the methods listed here: 
+
+1.<strong>Requirements documentation:</strong> The system requirements will be documented that outlines the system’s functional and non-functional requirements. 
+2.<strong>Project management plan:</strong> This will include information about the scope of the project, also includes scope statement and the scope baseline. Other relevant information about the scope of the project is also part of this project management plan.  
+3.<strong>Change log:</strong> This will be added and maintained to track all changes to the scope of the project, this includes the description of the change, project impact and required approvals.  
+
+<h4>Scope Control</h4> 
+The scope of this project is controlled throughout these following activities: 
+
+1.<strong>Scope Verification:</strong> The agile testing techniques will be the project team’s desired method to verify that the deliverables of the project will meet the requirements and align with the scope statement.  
+2.<strong>Scope change control:</strong> Any changes to the scope of the project will be directed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality. 
+3.<strong>Scope change review:</strong>  This will be held for each change request to ensure that the change is necessary, feasible, and aligned with the project objectives. 
+
+<h4>Scope Management Approach</h4>
+<p align="justify">
+Authority and responsibility for the scope management will be in the hands of the project manager of the group concave which is Stefano Franco Binay. He will be the one setting up appointments with the project adviser, which is Miss Gardon and also the clients to manage the project’s scope. 
+
+The scope statement, Work Breakdown Structure and the Statement of work will be the ones defining the scope of the project. With these documents, it will explain the tasks and requirements and then it will be reviewed by the project sponsor and other stakeholders before the work begins. 
+
+The scope is measured using quality checklists, measurements of work performance and regular monitoring of project’s advancement in relation to the original scope. Once there are differences from the scope baseline, it will be addressed to the scope change process. 
+
+The scope change process for Concave’s I.O System will require the project manager to send a request for scope change that needs to be approved by Ms. Roselle Gardon and it will be approved lastly by the project sponsor. Any changes brought to it will be checked to ensure that it is aligned by the project objectives. 
+
+The completion of the Inventory System and Ordering System project for Torrecamps Company will be authorized solely by the project client, Torrecamps Company. The project will only be considered complete when Torrecamps Company approves the system's functionality and determines that it meets the project goals and objectives. Any changes or modifications to the project scope or timeline must also be approved by Torrecamps Company.  </p>
 
 
 
