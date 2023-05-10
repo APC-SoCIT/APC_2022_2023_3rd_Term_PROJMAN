@@ -1843,6 +1843,7 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 <h2>Schedule Management Approach</h2>
 <p>In this section of the paper, the team will be discussing what approaches the group will use in terms of managing the schedule of tasks that were previously tackled in the Work Breakdown Structure (WBS). The team has decided that ProjectLibre will be used as our scheduling tool, due to the nature of the software being open source and user-friendly. ProjectLibre will be used by the group to create schedules or timeframes for the group to accomplish in order to schedule all activities that relate to the project, deadlines, as well as project milestones milestones.</p>
 <p>The following are the milestones for the project schedule: </p>
+
 <table border="1" width="70%" align="center">
 		<tr>
 			<td width="366" bgcolor="lightblue">
@@ -1901,6 +1902,7 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 			</td>
 		</tr>
 </table>
+
 <p>Once the schedule is baselined as a major aspect of progressive elaboration, defining activities later may uncover new extension that was not envisaged previously. This ought to be taken care of through formal change control. Thus, change ask for is added to the is procedure as additional outputs. At the point when such changes are joined the plans and baselines will experience updates. The same are reflected as additional outputs. The development approach will altogether impact planning approach, evaluating methods, devices and how the schedule is managed and controlled.</p>
 <p>Roles and responsibilities for schedule development are as follows:</p>
 
