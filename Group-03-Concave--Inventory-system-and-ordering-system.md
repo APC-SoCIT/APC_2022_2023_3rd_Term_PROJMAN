@@ -309,16 +309,33 @@ Stakeholder Analysis
 <table width = "60%" align = "center">
    <tr bgcolor="#184376">
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Department/Company </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>     
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>      
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>   
 </tr>
      <tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Jose Eugenio Quesada </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Subject Professor </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> jlquesada@apc.edu.ph </font></th>   
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>   
 </tr>
 <br>
 
