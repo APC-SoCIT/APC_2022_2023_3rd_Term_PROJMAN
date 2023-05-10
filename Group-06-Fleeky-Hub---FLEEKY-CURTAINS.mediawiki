@@ -1875,77 +1875,34 @@ Obtain formal acceptance from the client that the project deliverables meet thei
      </tr>
 </table>
 
-<p>Once the schedule is baselined as a major aspect of progressive elaboration, defining activities later may uncover new extension that was not envisaged previously. This ought to be taken care of through formal change control. Thus, change ask for is added to the is procedure as additional outputs. At the point when such changes are joined the plans and baselines will experience updates. The same are reflected as additional outputs. The development approach will altogether impact planning approach, evaluating methods, devices and how the schedule is managed and controlled.</p>
-<p>Roles and responsibilities for schedule development are as follows:</p>
+<p>The following are the roles and responsibilities of the members involved during the development of the schedule:</p>
 
-<table width="673" border="1" align="center">
-		<tr>
-			<td width="156" bgcolor="lightblue">
-				<p><strong>Role</strong></p>
-			</td>
-			<td width="517" bgcolor="lightblue">
-				<p><strong>Responsibility</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p><em></em></p>
-			</td>
-			<td width="517">
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p><em></em></p>
-			</td>
-			<td width="517">
-				<p>·         <em> </em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p><em></em></p>
-			</td>
-			<td width="517">
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p><em>&amp;</em></p>
-				<p><em></em></p>
-			</td>
-			<td width="517">
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-				<p>·         <em></em></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="156">
-				<p></p>
-			</td>
-			<td width="517">
-				<p>·         <em></em></p>
-			</td>
-		</tr>
+<table border="1" width="70%" align="center">
+     <tr>
+        <td><p style="text-align:center;"><b>Roles</b></p></td>
+        <td><p style="text-align:center;"><b>Responsibilities</b></p></td>
+     </tr>
+     <tr>
+        <td>Project Client</td>
+        <td>Handles the business and final say of the project itself </td>
+     </tr>
+     <tr>
+        <td>Project manager</td>
+        <td>Responsible for dividing the tasks and coordinates to all of the members involved in the project. </td>
+     </tr>
+     <tr>
+        <td>Project Adviser</td>
+        <td>--</td>
+     </tr>
+     <tr>
+        <td>Stakeholders</td>
+        <td>--</td>
+     </tr>
+     <tr>
+        <td>Developers/Team Members</td>
+        <td>--</td>
+     </tr>
 </table>
-<p> </p>
 
 <h2>Schedule Control</h2>
 
