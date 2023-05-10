@@ -709,123 +709,68 @@ In summary, the Cost Management Plan will ensure that the project costs are effe
 
 </p>
 
-=Time Management Plan=
-==Introduction==
-<p>The Schedule Management Plan is crucial because it provides direction and information in this area and specifies how the project's schedule will be handled throughout the entire project. After evaluating, managing, and prioritizing all time-related schedule alterations, the schedule management plan specifies strategies and tactics and distributes them.</p>
+=Schedule Management Plan=
 
-==Schedule Management Approach==
-<p>The project team and the resources assigned to it will cautiously work on the initial schedule once it has been produced in order to prevent the project's schedule from being in the critical path. The proposed work package task, the length of the activities, and the project timeline require the approval of the project team and assets. Once this has been completed, the project adviser will check, approve, and baseline the schedule.</p>
-<br>
-<table border="1" width="70%" align="center">
-     <tr>
-        <td><p style="text-align:center;"><b>Milestone</b></p></td>
-        <td><p style="text-align:center;"><b>Timeline</b></p></td>
-     </tr>
-     <tr>
-        <td>Project Charter</td>
-        <td>1st Month</td>
-     </tr>
-     <tr>
-        <td>Project Approval</td>
-        <td>2nd Month</td>
-     </tr>
-     <tr>
-        <td>Developing the Web Application</td>
-        <td>3rd to 7th Month</td>
-     </tr>
-     <tr>
-        <td>Complete Test Plan</td>
-        <td>8th Month</td>
-     </tr>
-     <tr>
-        <td>Finalizing the Document</td>
-        <td>9th Month</td>
-     </tr>
-</table>
-<br>
-<p>When such changes are made, the plans and baselines will be updated. Furthermore, the same are shown as outputs. The scheduling approach, method of evaluation, tools, management, and control of the schedule will all be impacted by the development strategy.</p>
-<br>
-<p>The following are the roles and responsibilities involved in developing a schedule:</p>
-<table border="1" width="70%" align="center">
-     <tr>
-        <td><b>Role</b></td>
-        <td><b>Responsibility</b></td>
-     </tr>
-     <tr>
-        <td>Project Client</td>
-        <td>
-           <ul>
-              <li>Approves Scope Management Plan.</li>
-              <li>Provides high-level scope definition (Project Charter).</li>
-              <li>Reviews escalated scope issues and provide direction for resolution.</li>
-              <li>Approves major scope change requests.</li>
-              <li>Overall decision-making responsibility for Scope Management activities.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Project Manager</td>
-        <td>
-           <ul>
-              <li>Overall responsibility for scope management.</li>
-              <li>Oversees the development of the Scope Management Plan.</li>
-              <li>Oversees the scope change management process.</li>
-              <li>Approves scope change requests within his/her authority.</li>
-              <li>Escalates scope and change issues.</li>
-              <li>Ensures that scope changes are incorporated into appropriate project documents.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Project Team Members and Subject Matter Experts (SMEs)</td>
-        <td>
-           <ul>
-              <li>Help develop the project scope statement.</li>
-              <li>Submit scope change requests.</li>
-              <li>Review Scope Change requests when assigned.</li>
-              <li>Provide feedback as and when required.</li>
-              <li>Participate in team-level scope change reviews.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Independent Verification and Validation (IV&V)<br> Project Adviser</td>
-        <td>
-           <ul>
-              <li>Provides an ongoing independent review and analysis of project scope management practices.</li>
-              <li>Monitors scope changes and provide feedback.</li>
-              <li>Approves major scope change requests.</li>
-              <li>Approval of all documentation throughout the project.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Stakeholders</td>
-        <td>
-           <ul>
-              <li><i>Key providers of requirements, scope, and the recipients of project deliverables associated with the project benefits. Most of the project deliverables will be based on their operations in the business and enhancing their business operations and environment.</i></li>
-           </ul>
-        </td>
-     </tr>
-</table>
+The project schedule is the roadmap for how the project will be executed. Schedules are an important part of any project as they provide the project team, sponsor, and stakeholders with a picture of the projectΓÇÖs status at any given time. The purpose of the schedule management plan is to define the approach the project team will use in creating the project schedule. This plan also includes how the team will monitor the project schedule and manage changes after the baseline schedule has been approved. This includes identifying, analyzing, documenting, prioritizing, approving, or rejecting, and publishing all schedule-related changes.
 
-==Schedule Control==
-<p>For the duration of the project, the schedule must be precisely and effectively managed. Meetings, schedules, project updates, and even changes to the project schedule go through the project manager, who is also responsible for managing them. The project manager will also be responsible for informing and keeping the project client informed of the project's status.</p>
-<br>
-<p>The project team, on the other hand, is required to attend meetings for any schedule updates provided and work on any timetable adjustments that would be made. The percentage of completion must be presented to the project team for discussion by project team members who also complete a task.</p>
+<span id="schedule-management-approach"></span>
+== Schedule Management Approach ==
 
-==Schedule Changes and Thresholds==
-<p>When the project team creates the schedule, the project sponsor must specify a deadline for the project to be finished or operational. This is essential because it enables the project sponsor to align the objectives and expectations of the project client with the project at hand. One of the factors that could affect the changes in schedule is poor schedule management, which requires an extension or change in the project plan. If there are any circumstances that might potentially affect the timetable and go beyond the limits specified by the project sponsor, the project manager should submit a schedule change request and it should be approved by the project sponsor before the schedule change is made.</p>
-<br>
-<p>If any of the following apply, a schedule change request must be submitted to the project stakeholder for approval, if not, then submission is made for approval to the project manager: </p>
-<ul>
-    <li>The suggested change is to limit the length of deliverables of a given Sprint Backlog during the project's development phase, to make it obvious that adding something to the duration does not indicate extending the work across the full duration.</li>
-    <li>Changes to the scope statement must be taken into consideration in order to prevent conflicts during the project's documentation phase. The project team must compile every mistake in the document before expanding the work packages by 5% or more to reflect the changes in all the documentation.</li>
-    <li>A different way to implement the changes is to either cut or extend the project's overall timetable by 10% or more.</li>
-</ul>
+Project schedules will be created using Microsoft Project starting with the deliverables identified in the projectΓÇÖs Work Breakdown Structure (WBS). Activity definition will identify the specific work packages which must be performed to complete each deliverable. Activity sequencing will be used to determine the order of work packages and assign relationships between project activities. Activity duration estimating will be used to calculate the number of work periods required to complete work packages. Resource estimating will be used to assign resources to work packages to complete schedule development.
 
-==Scope Change==
-<p>If a project problem arises that requires a substantial change in the project scope, it is best to propose a change. It is necessary to use prudence during the process of suggesting and evaluating the project's scope adjustment. Any project team member or project client may ask to change the project's scope. All change requests must be submitted in the form of a project change request document to the project advisor. Following that, the project manager will go over the requested change to the project's scope. The project adviser will either reject the request for change if it does not fit in with the project's goals or schedule, a meeting with the project client and project team to discuss it and determine its impact. Following initial approval from the project client and project adviser, the project manager will communicate the scope change to the entire project team. In result of that, the team members will amend any applicable paperwork, deliverables, and product backlogs. </p>
+Once a preliminary schedule has been developed, it will be reviewed by the project team and any resources tentatively assigned to project tasks. The project team and resources must agree to the proposed work package assignments, durations, and schedule. Once this is achieved the project sponsor will review and approve the schedule and it will then be baselined.
+
+The following will be designated as milestones for the project schedule:
+
+* Completion of scope statement and WBS/WBS Dictionary
+* Baselined project schedule
+* Approval of final project budget
+* Project kick-off
+* Approval of roles and responsibilities
+* Requirements definition approval
+* Completion of data mapping/inventory
+* Project implementation
+* Acceptance of final deliverables
+
+Roles and responsibilities for schedule development are as follows:
+
+The project manager will be responsible for facilitating work package definition, sequencing, and estimating duration and resources with the project team. The project manager will also create the project schedule using Microsoft Project and validate the schedule with the project team, stakeholders, and the project sponsor. The project manager will obtain schedule approval from the project sponsor and baseline the schedule.
+
+The project team is responsible for participating in work package definition, sequencing, and duration and resource estimating. The project team will also review and validate the proposed schedule and perform assigned activities once the schedule is approved.
+
+The project sponsor will participate in reviews of the proposed schedule and approve the final schedule before it is baselined.
+
+The project stakeholders will participate in reviews of the proposed schedule and assist in its validation.
+
+<span id="schedule-control"></span>
+== Schedule Control ==
+
+The project schedule will be reviewed and updated as necessary on a bi-weekly basis with actual start, actual finish, and completion percentages which will be provided by task owners.
+
+The project manager is responsible for holding bi-weekly schedule updates/reviews; determining impacts of schedule variances; submitting schedule change requests; and reporting schedule status in accordance with the projectΓÇÖs communications plan.
+
+The project team is responsible for participating in bi-weekly schedule updates/reviews; communicating any changes to actual start/finish dates to the project manager; and participating in schedule variance resolution activities as needed.
+
+The project sponsor will maintain awareness of the project schedule status and review/approve any schedule change requests submitted by the project manager.
+
+<span id="schedule-changes-and-thresholds"></span>
+== Schedule Changes and Thresholds ==
+
+If any member of the project team determines that a change to the schedule is necessary, the project manager and team will meet to review and evaluate the change. The project manager and project team must determine which tasks will be impacted, variance because of the potential change, and any alternatives or variance resolution activities they may employ to see how they would affect the scope, schedule, and resources. If, after this evaluation is complete, the project manager determines that any change will exceed the established boundary conditions, then a schedule change request must be submitted.
+
+Submittal of a schedule change request to the project sponsor for approval is required if either of the two following conditions is true:
+
+* The proposed change is estimated to reduce the duration of an individual work package by 10% or more or increase the duration of an individual work package by 10% or more.
+* The change is estimated to reduce the duration of the overall baseline schedule by 10% or more or increase the duration of the overall baseline schedule by 10% or more.
+
+Any change requests that do not meet these thresholds may be submitted to the project manager for approval.
+
+Once the change request has been reviewed and approved the project manager is responsible for adjusting the schedule and communicating all changes and impacts to the project team, project sponsor, and stakeholders. The project manager must also ensure that all change requests are archived in the project records repository.
+
+<span id="scope-change"></span>
+== Scope Change ==
+
+Any changes in the project scope, which have been approved by the project sponsor, will require the project team to evaluate the effect of the scope change on the current schedule. If the project manager determines that the scope change will significantly affect the current project schedule, he/she may request that the schedule be re-baselined in consideration of any changes which need to be made as part of the new project scope. The project sponsor must review and approve this request before the schedule can be re-baselined.
 
 =Work Breakdown Structure=
 
