@@ -989,6 +989,62 @@ The budget includes direct and indirect costs, and it is designed to provide the
 ==Scope Change==
 <p>If a project problem arises that requires a substantial change in the project scope, it is best to propose a change. It is necessary to use prudence during the process of suggesting and evaluating the project's scope adjustment. Any project team member or project client may ask to change the project's scope. All change requests must be submitted in the form of a project change request document to the project advisor. Following that, the project manager will go over the requested change to the project's scope. The project adviser will either reject the request for change if it does not fit in with the project's goals or schedule, a meeting with the project client and project team to discuss it and determine its impact. Following initial approval from the project client and project adviser, the project manager will communicate the scope change to the entire project team. In result of that, the team members will amend any applicable paperwork, deliverables, and product backlogs. </p>
 
+=Staffing Management Plan=
+==Introduction==
+<p>A strong human resource management strategy is critical to the success of any project. It acts as a template for how the project team will be managed and structured, and it assists in ensuring that the appropriate people with the right qualifications are in the right place at the right time. Roles and duties, communication protocols, and performance management measures are all part of the strategy.<br> 
+Using this plan, the project manager and project team can effectively manage the project by ensuring that all team members understand their roles and responsibilities, that communication is open and effective, and that performance is monitored and managed in a way that contributes to the project's overall success.
+</p>
+<br>
+==Roles and Responsibilities==
+<p>An effective human resources management plan is crucial for the successful completion of any project. It outlines the roles and responsibilities of all project team members and stakeholders, ensuring that everyone is aware of their individual contributions and how they fit into the bigger picture. <br>
+The plan also defines the level of authority and decision-making power held by each team member, ensuring that resources are allocated and utilized effectively. By clearly defining competencies and skill requirements, the plan ensures that the right people are in the right roles to achieve project success. <br>
+Overall, the human resources management plan acts as a roadmap for the project team, guiding them towards successful project execution and delivery.
+</p>
+<br>
+<table border="1">
+		<thead>
+			<tr>
+				<th>Role</th>
+    <th>Authority</th>
+    <th>Responsibility</th>
+    <th>Competency</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Project Sponsor</td>
+				<td>Approves the project's business case and budget. Provides strategic direction & resources.
+Helps to secure stakeholder buyin. Resolves major issues and conflicts. Can allocate project resources and approve changes to project scope, schedule, and budget that has high impact.
+</td>
+				<td>Ensures that the project is aligned with the organization's strategic goals and objectives, and that it delivers the expected benefits and value. Provide high-level oversight and guidance to the project manager. Secure resources and support from key stakeholders. Help to communicate project progress and benefits to the organization.</td>
+				<td>Strong leadership and strategic thinking skills Ability to communicate effectively with a wide range of stakeholders. Deep understanding of the organization's mission, goals, and values. Ability to secure resources and support for the project.</td>
+			</tr>
+			<tr>
+				<td>Project Manager</td>
+				<td>Full decisionmaking authority on the project. Can allocate project resources and approve changes to project scope, schedule, and budget that has low impact.</td>
+				<td>Oversee the entire project, including project planning, execution, monitoring, control, and closeout. Ensure project objectives are met on time, within budget, and to the required quality standards.</td>
+				<td>Strong leadership, communication, and project management skills. Experience in managing complex projects.</td>
+			</tr>
+			<tr>
+				<td>Internal User of the System 
+(ADC Dentists and Staffs)
+</td>
+				<td>Utilizes the system as designed to complete work activities. Provides feedback on system usability, functionality, and performance.</td>
+				<td>Complete work activities using the system as designed. Ensure data accuracy and completeness. Report system issues and problems to the project team. Provide feedback on system usability, functionality, and performance.</td>
+				<td>Understanding of the work processes and activities for which the system is being used. Knowledge of the data and information required to complete assigned work activities. Basic computer skills, including proficiency in the use of the system.</td>
+			</tr>
+			<tr>
+				<td>External User of the System 
+(ADC Patients)
+</td>
+				<td>Accesses and uses the system to receive and respond to service requests. Updates service request statuses. Closes out completed service requests.</td>
+				<td>Review and respond to service requests in a timely manner. Maintain accurate and update information on service request statuses. Communicate with internal stakeholders as needed to complete service requests. Close out completed service requests.</td>
+				<td>Knowledge of the tools, equipment, and methods required to complete service requests. Ability to diagnose and troubleshoot technical issues. Understanding of the importance of maintaining accurate and up-to-date information in the system.</td>
+			</tr>
+		</tbody>
+	</table>
+
+
 =Work Breakdown Structure=
 
 ==Introduction==
