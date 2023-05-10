@@ -1834,9 +1834,15 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 
 <h2>Introduction</h2>
 
-<h2>Schedule Management Approach</h2>
+<p>Fleeky Hub scheduling management plan. Business success requires time management in today's fast-paced environment. To provide our goods and services on time, Fleeky Hub effectively manages our timetables.</p>
 
-<p>The following be assigned as points of reference or milestones for the project schedule:</p>
+<p>The schedule management plan describes the teams methods for operating the company of fleeky curtains smoothly. The group wants to maximize production, minimize downtime, and optimize resources. This approach ensures that the group will address client needs while preserving quality and efficiency. </p>
+
+<p>The document will be tackling the schedule management approach, schedule control, schedule changes/thresholds, and scope change. To ensure all of the members of the group is on the same page, we will discuss our internal and customer communication processes. Since the main goal of the business is to satisfy the customers’ needs, we are dedicated to using the finest schedule management strategies to attain this aim. </p>
+
+<h2>Schedule Management Approach</h2>
+<p>In this section of the paper, the team will be discussing what approaches the group will use in terms of managing the schedule of tasks that were previously tackled in the Work Breakdown Structure (WBS). The team has decided that ProjectLibre will be used as our scheduling tool, due to the nature of the software being open source and user-friendly. ProjectLibre will be used by the group to create schedules or timeframes for the group to accomplish in order to schedule all activities that relate to the project, deadlines, as well as project milestones milestones.</p>
+<p>The following are the milestones for the project schedule: </p>
 <table border="1" width="70%" align="center">
 		<tr>
 			<td width="366" bgcolor="lightblue">
@@ -1848,42 +1854,50 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 		</tr>
 		<tr>
 			<td width="366">
-				<p>·         Project Charter</p>
+				<p>Plan Proposal</p>
 			</td>
 			<td width="177">
-				<p><sup> </sup>month</p>
+				<p><sup> </sup30 days (1 month/1st month) </p>
 			</td>
 		</tr>
 		<tr>
 			<td width="366">
-				<p>·         Project Approval</p>
+				<p>Approval of Proposal</p>
 			</td>
 			<td width="177">
-				<p><sup> </sup>month</p>
+				<p><sup> </sup>14 days (2weeks/2nd  month)</p>
 			</td>
 		</tr>
 		<tr>
 			<td width="366">
-				<p>·         Developing the Website</p>
+				<p>Developing of the Project</p>
 			</td>
 			<td width="177">
-				<p><sup> </sup> <sup></sup> month</p>
+				<p><sup> </sup>90 days (4 months 2nd month – 5th  month) </p>
 			</td>
 		</tr>
 		<tr>
 			<td width="366">
-				<p>·         Complete Test Plan</p>
+				<p>Finalization of documentation </p>
 			</td>
 			<td width="177">
-				<p><sup></sup> month</p>
+				<p><sup></sup> 14 days (2 weeks – 5th month)</p>
 			</td>
 		</tr>
 		<tr>
 			<td width="366">
-				<p>·         Finalizing the Document</p>
+				<p>Complete project testing </p>
 			</td>
 			<td width="177">
-				<p><sup></sup> month</p>
+				<p><sup></sup> 7 days (1 week – 6th month)</p>
+			</td>
+		</tr>
+                <tr>
+			<td width="366">
+				<p>Completion of project   </p>
+			</td>
+			<td width="177">
+				<p><sup></sup> 7th month</p>
 			</td>
 		</tr>
 </table>
