@@ -1845,62 +1845,34 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 <p>The following are the milestones for the project schedule: </p>
 
 <table border="1" width="70%" align="center">
-		<tr>
-			<td width="366" bgcolor="lightblue">
-				<p><strong>Milestone</strong></p>
-			</td>
-			<td width="177" bgcolor="lightblue">
-				<p><strong>Timeline</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>Plan Proposal</p>
-			</td>
-			<td width="177">
-				<p><sup> </sup30 days (1 month/1st month) </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>Approval of Proposal</p>
-			</td>
-			<td width="177">
-				<p><sup> </sup>14 days (2weeks/2nd  month)</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>Developing of the Project</p>
-			</td>
-			<td width="177">
-				<p><sup> </sup>90 days (4 months 2nd month – 5th  month) </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>Finalization of documentation </p>
-			</td>
-			<td width="177">
-				<p><sup></sup> 14 days (2 weeks – 5th month)</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="366">
-				<p>Complete project testing </p>
-			</td>
-			<td width="177">
-				<p><sup></sup> 7 days (1 week – 6th month)</p>
-			</td>
-		</tr>
-                <tr>
-			<td width="366">
-				<p>Completion of project   </p>
-			</td>
-			<td width="177">
-				<p><sup></sup> 7th month</p>
-			</td>
-		</tr>
+     <tr>
+        <td><p style="text-align:center;"><b>Milestone</b></p></td>
+        <td><p style="text-align:center;"><b>Timeline</b></p></td>
+     </tr>
+     <tr>
+        <td>Plan Proposal</td>
+        <td>30 days (1 month/1st month) </td>
+     </tr>
+     <tr>
+        <td>Plan Approval</td>
+        <td>14 days (2weeks/2nd  month)</td>
+     </tr>
+     <tr>
+        <td>Development of Project</td>
+        <td>90 days (4 months 2nd month – 5th  month) </td>
+     </tr>
+     <tr>
+        <td>Finalizing of Documentation</td>
+        <td>14 days (2 weeks – 5th month)</td>
+     </tr>
+     <tr>
+        <td>Complete Project Testing</td>
+        <td>7 days (1 week – 6th month)</td>
+     </tr>
+     <tr>
+        <td>Completion of Project</td>
+        <td>7th Month</td>
+     </tr>
 </table>
 
 <p>Once the schedule is baselined as a major aspect of progressive elaboration, defining activities later may uncover new extension that was not envisaged previously. This ought to be taken care of through formal change control. Thus, change ask for is added to the is procedure as additional outputs. At the point when such changes are joined the plans and baselines will experience updates. The same are reflected as additional outputs. The development approach will altogether impact planning approach, evaluating methods, devices and how the schedule is managed and controlled.</p>
