@@ -311,31 +311,38 @@ Stakeholder Analysis
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Department/Company </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>     
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Adviser  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Objectives, requirements, Interest  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Influence   </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Contribution   </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Resistance  </font></th>     
 </tr>
      <tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>   
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Jabb Torrecampo  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Torrecamps Marketing  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> CEO  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> COO  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Improve transactional processes, 
+improve inventory management, provide a better experience for the customers, 
+and provide the company workers with better software for smoother transactions  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Provided insight on the team on how the 
+company currently works to provide inspiration for the group to come up with features of their own </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Limited technological knowledge, cost concern, production time concerns  </font></th>   
 </tr>
      <tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>   
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Maria Theresa Reyes  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Torrecamps Marketing  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> COO  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> CEO  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Improve transactional processes, 
+improve inventory management, provide a better experience for the customers, 
+and provide the company workers with better software for smoother transactions  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Contacted the team and provided insight 
+on what features the program is required to have for the best outcome for the company  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Limited technological knowledge, 
+cost concern, production time concerns  </font></th>   
 </tr>
 <br>
 
