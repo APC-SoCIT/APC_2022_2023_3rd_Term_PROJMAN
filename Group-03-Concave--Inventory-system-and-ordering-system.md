@@ -323,27 +323,27 @@ COO - <strong>Ms. Maria Theresa Reyes</strong> is responsible for the company's 
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Torrecamps Marketing  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> CEO  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> COO  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Improve transactional processes, 
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Improve transactional processes, 
 improve inventory management, provide a better experience for the customers, 
-and provide the company workers with better software for smoother transactions  </font></th>
+and provide the company workers with better software for smoother transactions  </font></th></p>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Provided insight on the team on how the 
-company currently works to provide inspiration for the group to come up with features of their own </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Limited technological knowledge, cost concern, production time concerns  </font></th>   
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Provided insight on the team on how the 
+company currently works to provide inspiration for the group to come up with features of their own </font></th></p>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Limited technological knowledge, cost concern, production time concerns  </font></th>   </p>
 </tr>
 <tr>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Maria Theresa Reyes  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Torrecamps Marketing  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> COO  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> CEO  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Improve transactional processes, 
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Improve transactional processes, 
 improve inventory management, provide a better experience for the customers, 
-and provide the company workers with better software for smoother transactions  </font></th>
+and provide the company workers with better software for smoother transactions  </font></th></p>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Contacted the team and provided insight 
-on what features the program is required to have for the best outcome for the company  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Limited technological knowledge, 
-cost concern, production time concerns  </font></th>   
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"><p align="justify"> Contacted the team and provided insight 
+on what features the program is required to have for the best outcome for the company  </font></th></p>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Limited technological knowledge, 
+cost concern, production time concerns  </font></th>   </p>
 </tr>
 <br>
 
