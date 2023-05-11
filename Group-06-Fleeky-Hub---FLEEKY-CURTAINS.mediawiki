@@ -569,6 +569,36 @@ Technical limits: Fleeky Curtains may suffer technological constraints such as r
 
 <p>The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project. However, since the project is only done at in-house development and hosting the site online will be pushed for future development, this is the summary budget estimated for the deployment.  </p>
 
+<table border="1" align="center">
+      <thead>
+        <tr>
+          <th colspan="2">Summary Budget</th>
+        </tr>
+        <tr>
+          <th>Project Component</th>
+          <th>Component Cost</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Personnel Resources</td>
+          <td>₱5,000</td>
+        </tr>
+        <tr>
+          <td>Hardware</td>
+          <td>₱1,000</td>
+        </tr>
+        <tr>
+          <td>Software and Licensing</td>
+          <td>₱20,000</td>
+        </tr>
+        <tr>
+          <td>Total</td>
+          <td>₱26,000</td>
+        </tr>
+      </tbody>
+    </table>
+
 <h2>Project Approval Requirements</h2>
 
 <p>Success for the Fleeky Hub will be achieved when a fully tested intranet security solution, and all technical documentation, is fully deployed throughout the company, Fleeky Curtains, within the time and cost constraints indicated in this charter.  Additionally, this measure of success must include a recommendation list for future security considerations as we fully anticipate the necessity of this solution to evolve in order to prevent future threats. Success will be determined by the Project Sponsor, Ms. Mitzi Garcia, who will also authorize completion of the project.  </p>
@@ -626,114 +656,6 @@ Government: Fleeky Hub must adhere to local laws and regulations, and its operat
 </li>
 </ul>
 
-<h2>Plan Stakeholder Management</h2>
-
-<h2>Stakeholder Engagement</h2>
-
-<table border="1" width="70%" align="center">
-		<tr>
-			<td width="188" bgcolor="lightblue">
-				<p><strong>Stakeholder</strong></p>
-			</td>
-			<td width="88" bgcolor="lightblue">
-				<p><strong>Unaware</strong></p>
-			</td>
-			<td width="94" bgcolor="lightblue">
-				<p><strong>Resistant</strong></p>
-			</td>
-			<td width="88" bgcolor="lightblue">
-				<p><strong>Neutral</strong></p>
-			</td>
-			<td width="97" bgcolor="lightblue">
-				<p><strong>Supportive</strong></p>
-			</td>
-			<td width="85" bgcolor="lightblue">
-				<p><strong>Leading</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p> &amp; </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p></p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p> &amp;</p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p></p>
-			</td>
-			<td width="97">
-				<p> </p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p> &amp;</p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p></p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p></p>
-			</td>
-			<td width="88">
-				<p></p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p> </p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-</table>
-<p><strong>Stakeholder Engagement Assessment Matrix.  </strong>List stakeholders and place a “C” for their current level of engagement and “D” in the column of their desired level of engagement.</p>
-
 
 =Scope Management Plan=
 
@@ -741,6 +663,17 @@ Government: Fleeky Hub must adhere to local laws and regulations, and its operat
 <h2>Introduction</h2>
 
 <p>Fleeky Hub's scope management plan provides the best practices for using various functionalities of e-commerce websites, as well as the necessary tools to achieve clients' objectives. With the support of the team's mission and vision, the scope management plan is an asset for clients' businesses. Fleeky Hub's team will provide a comprehensive scope plan that can be achieved repeatedly by both the team and the client. </p>
+
+<p><em>Scope Definition: </em>The scope of the Fleeky Hub will be defined through the following activities:</p>
+
+<ol>
+<li>
+
+</li>
+<li>
+
+</li>
+</ol>
 
 <h2>Scope Management Approach</h2>
 <ol>
