@@ -932,8 +932,133 @@ The website will comply with relevant laws and regulations, including data priva
 
 <p>The project team will utilize the Work Breakdown Structure (WBS) to create a detailed view of the project scope by breaking it down into smaller components. Each level of the WBS will represent a progressively more detailed view of the project, which will assist in assigning responsibilities to team members and tracking progress. The WBS Dictionary will provide detailed information about each component in the WBS, including the scope of work, deliverables, responsibilities, and any other relevant information. The WBS and WBS Dictionary will be crucial in managing the project scope, ensuring that all aspects of the project are accounted for, and that the project stays on track and within scope. </p>
 
+<ol>
+      <li>
+        Fleeky Hub
+        <ol>
+          <li>
+            Pre-development
+            <ol>
+              <li>Planning and Analysis</li>
+              <li>Determine user requirements</li>
+              <li>Develop project timelines</li>
+              <li>Feasibility Assessment</li>
+              <li>Create Preliminary Scope Statement</li>
+              <li>Submit Project Plan</li>
+              <li>Project Proposal Presentation</li>
+              <li>Project Approval</li>
+            </ol>
+          </li>
+          <li>
+            Initiation
+            <ol>
+              <li>Create user personas</li>
+              <li>UI/UX Design</li>
+              <li>Diagram Flow Diagram</li>
+              <li>Develop Project Charter</li>
+              <li>Deliverable: Submit Project Charter</li>
+              <li>Project Sponsor Reviews Project Charter</li>
+              <li>Project Charter Signed/Approved</li>
+              <li>Advising</li>
+            </ol>
+          </li>
+          <li>
+            Development
+            <ol>
+              <li>Framework assessment</li>
+              <li>Back-end development</li>
+              <li>Front-end publishing</li>
+              <li>Payment gateway API</li>
+              <li>Integrate functionalities</li>
+            </ol>
+          </li>
+          <li>
+            Testing and Quality Assurance
+            <ol>
+              <li>Test website functionality and usability</li>
+              <li>Stakeholder testing</li>
+              <li>Database checking</li>
+              <li>Gateway testing</li>
+            </ol>
+          </li>
+          <li>
+            Deployment and Maintenance
+            <ol>
+              <li>Launch website</li>
+              <li>Create leads that will land to the website</li>
+              <li>Post-launch monitoring</li>
+              <li>Address issues and bugs</li>
+            </ol>
+          </li>
+          <li>
+            Closeout
+            <ol>
+              <li>Audit Procurement</li>
+              <li>Document Lessons Learned</li>
+              <li>Update Files/Records</li>
+              <li>Gain Formal Acceptance</li>
+              <li>Archive Files/Documents</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+    </ol>
+
 ![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002947/e5d16acd-beb1-4072-8d0d-ba7cb23d7ac7)
 
+<h2>Quality Checklists</h2>
+<p>In this table, each checklist item is listed in the first column. The second column has a checkbox for "Yes" to indicate that the item meets the quality standard, the third column has a checkbox for "No" to indicate that the item does not meet the quality standard, and the fourth column has a checkbox for "N/A" to indicate that the item is not applicable to the website being evaluated. The evaluator can mark the appropriate checkbox for each checklist item as they go through the evaluation process. </p>
+
+<table>
+  <tr>
+    <th>Checklist Item</th>
+    <th>Yes</th>
+    <th>No</th>
+    <th>N/A</th>
+  </tr>
+  <tr>
+    <td>Navigation is easy to use and logical</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Content is of high quality and relevant</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Visual design is professional and visually appealing</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Website loads quickly and is responsive</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Website is optimized for mobile devices</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Website is secure and protected against hacks or breaches</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Website is optimized for search engines</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+</table>
 
 <h2> Scope Verification </h2>
 
