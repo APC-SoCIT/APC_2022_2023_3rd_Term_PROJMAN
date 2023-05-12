@@ -2911,8 +2911,415 @@ Furthermore, before implementing any scope changes, the project team must ensure
   <h3>Reference Docs:</h3>
   <p>N/A</p>
 
+  <h2>WBS: 1.3.14</h2>
+  <h3>Work Package: Development of Manage Items Function</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: This work package entails creating a new project function that will enable users to manage their belongings and goods.</p>
+  <p>Completion State: The "manage items" capability that allows vendors to add, alter, and delete products from their inventory and satisfies the needs of all stakeholders is the work package's finished state. Before it is made available to users, the function has undergone extensive testing and has had any flaws fixed.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team has the necessary skills and knowledge to create item management functions.</li>
+    <li>The development process won't encounter any significant technological issues or delays.</li>
+    <li>Users will have a more effective and efficient approach to manage their products and commodities thanks to the new function.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The creation of item management functions may be delayed or have insufficient functionality if the project team does not have the necessary knowledge or experience.</li>
+    <li>Major technical challenges or delays during the development process could cause further complexities or project collapse.</li>
+    <li>The new feature can leave customers feeling unsatisfied or discourage them from adopting it if it doesn't offer an effective or efficient manner for them to manage their belongings and goods.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team has the skills and knowledge required for creating item management functions or look for further training or assistance.</li>
+    <li>Make a thorough plan for the development process, account for any potential technological issues, and have backup plans ready.</li>
+    <li>To verify that the new feature gives people a convenient and effective way to manage their items and products, conduct user testing and obtain feedback.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
 
+  <h2>WBS: 1.3.15</h2>
+  <h3>Work Package: Development of View Feedbacks Function</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: This work package entails creating a new project function that will enable users to monitor and manage customer feedback.</p>
+  <p>Completion State: The "view feedbacks" function, which satisfies the needs of all stakeholders and enables users to view and offer feedback on their experience with the website and suppliers, is the work package's completion status. With all required features and functionality, the feature is well-designed and user-friendly, and it encourages users to offer candid and helpful comments.</p>
   
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team has the necessary skills and knowledge to develop feedback management functions.</li>
+    <li>The development process won't encounter any significant technological issues or delays.</li>
+    <li>Users will have a quick and easy way to access and handle consumer feedback thanks to the new function.</li>
+  </ul>
   
+  <h3>Risks:</h3>
+  <ul>
+    <li>The creation of feedback management services may be delayed or have insufficient functionality if the project team does not have the necessary knowledge or experience.</li>
+    <li>Major technical challenges or delays during the development process could cause further complexities or project collapse.</li>
+    <li>Users may become frustrated or fail to accept the new function if it does not offer a convenient or useful manner for them to view and manage customer feedback.</li>
+  </ul>
   
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team has the skills and knowledge required for creating feedback management services or look for further training or assistance.</li>
+    <li>Make a thorough plan for the development process, account for any potential technological issues, and have backup plans ready.</li>
+    <li>Conduct user testing and feedback gathering to verify that the new function offers consumers a quick and easy way to access and manage customer feedback.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.3.16</h2>
+  <h3>Work Package: Deliverable: Working Web Application</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: A fully functional web application that satisfies all project criteria and has undergone quality assurance testing is the project's final output.</p>
+  <p>Completion State: A completely functional web application that satisfies the needs of all stakeholders, is delivered on schedule and within budget, and has undergone extensive testing to guarantee that all problems or defects have been fixed before it is made available to users is the work package's completion state.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team has the tools and knowledge needed to finish developing the web application by the deadline.</li>
+    <li>All project criteria and user expectations will be satisfied by the web application.</li>
+    <li>The web application will work flawlessly and be devoid of significant defects or technical problems.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The development of the web application may be slowed down or prevented by unanticipated technological challenges or complications encountered by the project team.</li>
+    <li>It's possible that the web application won't satisfy all project objectives or user expectations, which will prevent adoption or cause unhappiness.</li>
+    <li>It's possible that the online application has serious flaws or technical problems that impair its usability or functionality.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ascertain that the project team has the tools and experience required to complete the web application development within the specified time frame and leave room for flexibility in case of unforeseen problems.</li>
+    <li>Make sure the web application consistently satisfies project requirements and user expectations by conducting user testing and receiving feedback.</li>
+    <li>Use a comprehensive quality assurance and testing procedure to find any defects or technical issues before the release is made public.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.3.17</h2>
+  <h3>Work Package: Adviser Meeting 2</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: Meeting the project adviser as part of this job package includes talking about the project's progress, addressing any problems or challenges, and getting advice and input.</p>
+  <p>Completion State: A successful meeting with the project adviser, where all pertinent information and updates were presented in advance, was the completion state of this work package. The discussion was fruitful, and helpful feedback was given to drive the project toward a successful conclusion.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Since the last adviser meeting, the project team has advanced far enough to show tangible progress toward project completion.</li>
+    <li>During the discussion, the advisor is ready and willing to offer suggestions and criticism.</li>
+    <li>For the meeting, the project team has prepared an in-depth update and presentation.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Since the last adviser meeting, the project team may not have made enough progress, which has left the adviser unsatisfied or worried.</li>
+    <li>There can be a lack of support or direction if the adviser is unavailable or unwilling to offer advice and feedback throughout the discussion.</li>
+    <li>Confusion or a lack of clarity may have resulted from the project team's insufficient preparation of the meeting's update and presentation.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>To make sure that considerable progress is being achieved and to address any concerns or problems, you should often convey progress updates and seek advice from the adviser throughout the project.</li>
+    <li>Prior to setting up the meeting, make sure the adviser is available and willing, and have backup plans ready.</li>
+    <li>Prepare thoroughly for the meeting, providing the adviser with a clear presentation of any queries or concerns as well as a comprehensive report on the project's status.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege-my.sharepoint.com/:w:/g/personal/cgmelo_student_apc_edu_ph/EX9WtHhmCxNDq_1TKW9PMgsBkJVhrwhut3I-WdFnuefl7Q?e=L6rKq5">Meeting Reference Document</a></p>
+  
+
+  <h2>WBS: 1.3.18</h2>
+  <h3>Work Package: Finals Defense</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: This work package entails the project's defense and final presentation to a jury or panel of judges.</p>
+  <p>Completion State: The final state of this work package is a successful final project defense, where the project team delivers an excellent presentation and supporting materials, is well-prepared to address any queries or concerns from the panel of judges, and the project is finished and delivered on schedule and within budget.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team is prepared to provide a polished and well-made product after fully completing the project development and testing.</li>
+    <li>The judges or evaluators give a fair and qualified assessment of the project.</li>
+    <li>With careful testing and quality assurance, the project team has appropriately prepared for the presentation and defense.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project might not be polished or finished entirely, which could result in a poor rating or failure.</li>
+    <li>An unfair or erroneous appraisal of the project may result from the judges' or evaluators' lack of expertise or fairness.</li>
+    <li>It's possible that the project team was underprepared for the presentation and defense, which made things unclear or confusing throughout the review.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Use a thorough quality control and testing procedure to make sure the project is finished and polished before the presentation and defense.</li>
+    <li>Advocate for a fair and unbiased examination and make sure that the judges or evaluators are chosen based on their knowledge and skill in the field.</li>
+    <li>To ensure a clear and expert presentation, thoroughly prepare for the presentation and defense, including through practice sessions and mock evaluations.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/sites/SCSPROJSS201SF201T2AY2022-2023/Shared%20Documents/Coderist/Recordings/Meeting%20in%20_Coderist_-20230306_153349-Meeting%20Recording.mp4?web=1">Meeting Recording</a></p>
+ 
+  <h2>WBS: 1.3.19</h2>
+  <h3>Work Package: Milestone: Rams E-Caf Website</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: The creation of numerous cafeteria management features, such as order management, account management, menu management, and feedback management, is covered by this work package.</p>
+  <p>Completion State: A working Cafeteria Management System titled Rams E-Caf where the customers may order food online, food concessionaires manage orders, and the admin being able to view feedback and manage all the accounts.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The Rams E-Caf website will be available and fully functional.</li>
+    <li>The cafeteria management functions can be developed using the existing employees and skills.</li>
+    <li>The administration of the cafeteria will fulfill user requirements and expectations.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The creation of the cafeteria administration capabilities may encounter difficulties if the Rams E-Caf Website is not entirely functional or operational.</li>
+    <li>The development of the cafeteria management functions may be delayed or not completed if the required personnel or knowledge is not available.</li>
+    <li>Users' demands or expectations might not be met by the cafeteria management functions, which could result in negative feedback and possible business loss.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Prior to the creation of the cafeteria management features, implement a thorough testing and quality assurance procedure to guarantee that the Rams E-Caf Website is fully operational and functional.</li>
+    <li>The development of the cafeteria management functions should identify and allocate the appropriate staff and knowledge, and backup plans should be in place in case of delays or other problems.</li>
+    <li>Make sure the cafeteria management functions satisfy users' needs and expectations by conducting in-depth research, getting feedback from them, and conducting user testing throughout the development process to assure satisfaction.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:u:/s/SCSPROJSS201SF201T2AY2022-2023/ESXbi7MmtxpDnnFtX6hq7hoBP5NhA_FrbRaR6EYEPaLs7A?e=AhsMgY">Reference Document</a></p>
+ 
+  <h2>WBS: 1.4.1</h2>
+  <h3>Work Package: Create Project Charter</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Joshua Cudal</p>
+  <p>Description: This work package involves creating a project charter that outlines the project's scope, objectives, deliverables, stakeholders, budget, and timeline. The document known as the project charter acts as a guidepost for the implementation of an initiative and offers lucid guidance to everyone who is invested in its outcome.</p>
+  <p>Completion State: A finalized project charter that has been developed in conjunction with important stakeholders, is thorough and specific enough to direct the project team's actions throughout the project, and has received the approval and signature of all pertinent stakeholders constitutes the completion state of this work package.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>All stakeholders have been identified and the project's objectives are clear.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project's objectives may not be clear, which can lead to scope creep and delays.</li>
+    <li>The professed group assigned to the project could be deficient in indispensable aptitudes and means crucial for bringing about timely completion of the task, whilst adhering to fiscal constraints.</li>
+    <li>The project sponsor may not provide sufficient support or resources, which can cause the project to fail.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Hold a kickoff meeting to clarify project objectives and establish communication channels to ensure stakeholders can provide feedback and input throughout the project.</li>
+    <li>Conduct a skills and resource assessment early in the project to identify potential gaps and take corrective action, such as providing additional training or hiring external resources.</li>
+    <li>Obtain a clear commitment from the project sponsor in writing and establish regular communication to ensure they remain engaged and committed to the project.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li><a href="https://asiapacificcollege-my.sharepoint.com/:w:/g/personal/cgmelo_student_apc_edu_ph/EYBVcdhOXW9KhI7z2IZlesMBdRx9UWKRB0X4Mo7qvsVdvQ?e=S6IjLu">Project Charter</a></li>
+  </ul>
+  
+  <h2>WBS: 1.4.2</h2>
+  <h3>Work Package: Create Stakeholder Management Strategy</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Joshua Cudal</p>
+  <p>Description: A strategy for managing stakeholders is created in this work package. The purpose of the strategy is to recognize, evaluate, and actively involve all relevant parties throughout the project's course. The strategy includes communication plans, approaches for managing expectations, and methods for resolving conflicts, ensuring effective stakeholder engagement and support.</p>
+  <p>Completion State: The completed state of this work package is a finalized stakeholder management strategy that has been developed based on an extensive analysis of all stakeholders' needs, expectations, and interests, is adaptable enough to take into account shifting stakeholder needs and expectations over the course of the project, and has been successfully implemented by the project team to ensure positive stakeholder engagement and communication.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>All stakeholders have been identified and their needs and expectations have been gathered.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Throughout the course of a project, fluctuations in stakeholder requirements and anticipations have the capacity to result in confusion and postponements.</li>
+    <li>It is plausible that there could be variances in the interests of people involved, which may require a resolution.</li>
+    <li>Stakeholders may not be actively engaged or may resist changes.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Maintain ongoing communication with stakeholders, and regularly update the stakeholder management strategy to ensure it reflects their changing needs and expectations.</li>
+    <li>Establish a clear process for resolving conflicts and managing stakeholder expectations.</li>
+    <li>Provide stakeholder education and training to increase their understanding of the benefits of the project and address any resistance.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege-my.sharepoint.com/:w:/g/personal/cgmelo_student_apc_edu_ph/EZXbN_GlmghPhNKIcgcP5CMBN3z2Bj-YcKRRs7n0v7G_oA?e=gb7CJ9">Stakeholder Management Strategy Document</a></p>
+  
+  <h2>WBS: 1.4.3</h2>
+  <h3>Work Package: Create Business Case</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Joshua Cudal</p>
+  <p>Description: The task at hand involves the construction of a persuasive argument for business purposes that comprehensively assesses the advantages, expenses, and hazards linked to this endeavor. The justification of a business case entails evaluating the project's worth, feasibility appraisal, and alignment with an organization’s strategic goals.</p>
+  <p>Completion State: This work package will be completed when a finalized business case that has been based on an in-depth analysis of the project's potential benefits, costs, and risks has been produced. This business case will be persuasive and persuasive enough to win the support of key stakeholders. It will also be updated frequently throughout the project to take into account any changes to the project's scope, timeline, budget, or resources.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project will have a positive return on investment (ROI).</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The ROI may not meet expectations due to unforeseen costs or delays.</li>
+    <li>The business case may not adequately consider all factors or assumptions.</li>
+    <li>Stakeholders may disagree on the ROI or the business case.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>It would be in your best interest to analyze the expenses and advantages of this plan meticulously. Ensure that you continuously adjust it accordingly based on any alterations made during its implementation process.</li>
+    <li>Obtain input and feedback from stakeholders on the business case to ensure it considers all relevant factors.</li>
+    <li>Establish a clear process for resolving disagreements and addressing stakeholder concerns.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:w:/s/PROJMANT3SS201SF201/EcNXtxqGpuFAntShG2_K-ckBScBMAXVvNM7jENRfBN0KXQ?e=zSLK2K">Business Case Document</a></p>
+  
+  <h2>WBS: 1.4.4</h2>
+  <h3>Work Package: Deliverable: Submit Project Charter, Stakeholder Management Strategy, and Business Case</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Joshua Cudal</p>
+  <p>Description: This work package involves the compilation and submission of essential project documents, including the project charter, stakeholder management strategy, and business case. These deliverables provide a comprehensive overview of the project's objectives, scope, stakeholders, and value proposition. Submitting these documents marks a crucial milestone in initiating the project and seeking approval from key stakeholders.</p>
+  <p>Completion State: The successful submission of the project charter, stakeholder management strategy, and business case to important stakeholders for assessment and approval represents the work package's completion stage.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team has completed the necessary research, analysis, and planning activities to develop robust and well-documented project charter, stakeholder management strategy, and business case. It assumes that the documents have undergone thorough reviews, revisions, and are ready for submission.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Incomplete or inadequate information in the submitted documents, leading to misunderstandings or incorrect decision-making.</li>
+    <li>Insufficient alignment or agreement among stakeholders regarding the project's objectives, scope, or value proposition.</li>
+    <li>Missed deadlines or delays in document submission, impacting project initiation or decision-making processes.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Use templates or guidelines to ensure consistent formatting and presentation of information.</li>
+    <li>Incorporate feedback from key stakeholders into the documents to demonstrate their involvement and address potential conflicts.</li>
+    <li>Regularly communicate and track progress to ensure team members understand their responsibilities and deadlines.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.4.5</h2>
+  <h3>Work Package: Project Sponsor Reviews Documents</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Joshua Cudal</p>
+  <p>Description: This work package involves the review and approval of the project charter, stakeholder management strategy, and business case by the project sponsor. The undertaking key sponsor assumes a vital function in ensuring that the reports precisely mirror the objectives of said venture and harmonize with the targets set forth by their respective organization. Their review signifies endorsement and support for the project.</p>
+  <p>Completion State: The project sponsor's approval of the project charter, stakeholder management strategy, and business case marks the work package's completion.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project sponsor will review and approve the project charter, stakeholder management strategy, and business case.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>It is highly likely that the individual financing this initiative may be constrained for both temporal and material resources, consequently rendering them unable to peruse through necessary documentation in a punctual manner.</li>
+    <li>The project sponsor may not fully understand or agree with the contents of the documents.</li>
+    <li>The project sponsor may request significant changes to the documents that require additional work.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Establish clear expectations and timelines for document review and approval with the project sponsor.</li>
+    <li>It is recommended to arrange periodic meetings with the project's sponsor to guarantee they are aware of all aspects included in pertinent documents and alleviate any doubts or uncertainties.</li>
+    <li>Provide additional support and resources as needed to address any significant changes requested by the project sponsor.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.4.6</h2>
+  <h3>Work Package: Milestone: Documents Signed/Approved</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Joshua Cudal</p>
+  <p>Description: This work package represents a significant milestone in the project where the project charter, stakeholder management strategy, and business case are reviewed, signed, and officially approved by the relevant stakeholders. It indicates that the key project documents have undergone thorough scrutiny, and their content, objectives, and strategies have gained acceptance and endorsement.</p>
+  <p>Completion State: Project Sponsor approved and signed all of the documents.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Project documents have been thoroughly reviewed, revised as necessary, and have obtained the necessary consensus and approval from all key stakeholders involved.</li>
+    <li>Any feedback, concerns, or changes have been addressed and incorporated into the final versions of the documents.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Lack of stakeholder consensus or disagreement during the review and approval process, leading to delays or revisions.</li>
+    <li>Inadequate attention to detail or oversight during the review process, resulting in errors or omissions in the documents.</li>
+    <li>Key stakeholders, such as the project sponsor or decision-makers, have limited availability or are unresponsive during the review and approval stage.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure clear and open communication channels are established throughout the project to address concerns and gather feedback from stakeholders early on.</li>
+    <li>Establish a comprehensive review process that involves multiple stakeholders, subject matter experts, and quality assurance personnel to ensure thorough examination of the documents.</li>
+    <li>Schedule regular check-ins and follow-ups with stakeholders to provide updates, address any concerns, and keep them engaged throughout the review process.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
   
