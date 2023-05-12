@@ -1695,34 +1695,26 @@ Helps to secure stakeholder buyin. Resolves major issues and conflicts. Can allo
 <p>WBS Element:         A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
 =Work Packages=
 <table border="1" width="70%" align="center">
-	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">WBS:</p></td>
-		<td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center; ">Work Package:</p></td>
-		<td><p style="text-align:center;">Apelo Dental Clinic System</p></td>
-	</tr>
-        <tr>
-		<td><p style="text-align:center; ">Package Owner:</p></td>
-		<td><p style="text-align:center;">Janssen Pedrola</p></td>
-	</tr>
-        <tr>
-		<td><p style="text-align:center;">Owner Organization:</p></td>
-		<td><p style="text-align:center;">Apelo Dental Clinic</p></td>
-	</tr>
-        <tr>
-		<td><p style="text-align:center;">Participants:</p></td>
-		<td><p style="text-align:center;">Progmatiks Members</p></td>
-	</tr>
-        <tr>
-		<td><p style="text-align:center;" colspan="5">Description: <br>All work to implement a new system for Apelo Dental Clinic.</p></td>
-	</tr>
-        <tr>
-		<td><p style="text-align:center;" colspan="5">Complete Statement: <br>The project was initiated by the project manager and the members of the group.</p></td>
-	</tr>
-        <tr>
-		<td><p style="text-align:center;">Reference Docs</p></td>
-		<td><p style="text-align:center;"></p></td>
-	</tr>
-</table>
+	<table>
+		<tr>
+			<th>WBS</th>
+			<th>Work Package</th>
+			<th>Package Owner</th>
+			<th>Owner Organization</th>
+			<th>Participants</th>
+			<th>Description</th>
+			<th>Completion State</th>
+			<th>Reference Docs</th>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Apelo Dental Clinic System</td>
+			<td>Janssen Pedrola</td>
+			<td>Apelo Dental Clinic</td>
+			<td>Progmatiks Members</td>
+			<td>All work to implement a new Apelo Dental Clinic System</td>
+			<td>All the participants participate in the new implementation of the Apelo Dental Clinic System.</td>
+			<td></td>
+		</tr>
+
+	</table>
