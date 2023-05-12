@@ -345,6 +345,7 @@ on what features the program is required to have for the best outcome for the co
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Limited technological knowledge, 
 cost concern, production time concerns  </font></th>   
 </tr>
+</tr>
 <br>
 
 <h1>SCHEDULE MANAGEMENT PLAN</h1>
