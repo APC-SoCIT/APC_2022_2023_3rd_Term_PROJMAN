@@ -510,24 +510,32 @@ The budget for this project is detailed below.  Costs for this project are prese
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱150,000 </font></th></tr>
 </tr>
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> System design and development </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱80,000 </font></th></tr>
 </tr>
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Testing and quality assurance </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱10,000 </font></th></tr>
 </tr>
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Data migration </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱10,000 </font></th></tr>
 </tr>
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> System integration </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱40,000 </font></th></tr>
 </tr>
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Training and Support Costs </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱10,000 </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Ongoing support and maintenance </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱2,000 (per appearance)  </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Total Project Budget </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱406,388 </font></th></tr>
 </tr>
 <br>
 </table>
