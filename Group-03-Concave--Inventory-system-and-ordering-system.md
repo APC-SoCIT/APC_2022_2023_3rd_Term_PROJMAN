@@ -187,6 +187,11 @@ The following constraints will be considered during the project's development: <
 <br>
 </table>
 <h4>4.6 Cost Management Plan</h4>
+<p align=" justify">
+4.6.1 Cost Management Approach <br>
+A cost management approach for an inventory and ordering system would involve a set of practices and procedures designed to<br>
+optimize inventory levels, reduce costs associated with ordering, and improve overall efficiency.<br>
+Here are some key steps you would take to develop a cost management approach for an inventory and ordering system:<br>
 
 <h1>Strategic Alignment</h1>
 <p align=" justify">
