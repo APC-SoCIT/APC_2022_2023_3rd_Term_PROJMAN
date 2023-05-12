@@ -186,6 +186,8 @@ The following constraints will be considered during the project's development: <
 </tr>
 <br>
 </table>
+<h4>4.6 Cost Management Plan</h4>
+
 <h1>Strategic Alignment</h1>
 <p align=" justify">
 Torrecamps Marketing is currently looking to grow their business in terms of their inventory to keep up with their already growing customer base. The system that they currently have in place has multiple flaws that leads to them needing time to compensate and cover for their mistakes, this is where the group’s project comes in as it automates their transactional tasks and inventory tasks giving them more time and manpower to focus on other tasks that they need to be focusing on in order to improve their company.</p>
