@@ -1985,31 +1985,95 @@ Obtain formal acceptance from the client that the project deliverables meet thei
      </tr>
      <tr>
         <td>Project Adviser</td>
-        <td>--</td>
+        <td>Gives the group professional advice and supplementary knowledge to the project and leave resources that can help in completing the output </td>
      </tr>
      <tr>
         <td>Stakeholders</td>
-        <td>--</td>
+        <td>Responsible in providing resources to the developers/researchers in making the project complete.</td>
      </tr>
      <tr>
         <td>Developers/Team Members</td>
-        <td>--</td>
+        <td>Develops the website and delivers the output to the client based on what they are finding.</td>
      </tr>
 </table>
 
 <h2>Schedule Control</h2>
 
+<p>In this section of the paper, the team must provide enough time to research, outline and revise the paper and the project. This is to ensure that the project will be up to trend for maximum capability and possibility of sales.</p>
+
+<table border="1" align="center">
+<thead>
+    <tr>
+      <th>TIME</th>
+      <th>TASK</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 day</td>
+      <td>Review and research top ecommerce websites with similar items</td>
+    </tr>
+    <tr>
+      <td>3 days</td>
+      <td>Analyze customer feedback and reviews</td>
+    </tr>
+    <tr>
+      <td>2 days</td>
+      <td>Team discussion for the current website’s design and layout and if there are certain revisions to be made</td>
+    </tr>
+    <tr>
+      <td>3 days</td>
+      <td>Analyze shopping experience for customers</td>
+    </tr>
+    <tr>
+      <td>2 days</td>
+      <td>Discuss pricing strategy</td>
+    </tr>
+    <tr>
+      <td>1 day</td>
+      <td>Review and finalize revisions done</td>
+    </tr>
+    <tr>
+      <td>1 day</td>
+      <td>Roll out updates</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2>Schedule Changes and Thresholds</h2>
 
-<ul>
-	<li></li>
-	<li></li>
-	<li></li>
-</ul>
+<p>The table shows the schedule changes and thresholds for each type of appointment (consultation, measurement, and installation). The "Change" column indicates how much notice is required to make a change to the appointment date. The "Threshold" column indicates the maximum delay that is allowed for each type of appointment.</p>
+
+<table borde="1" align="center">
+  <thead>
+    <tr>
+      <th>Schedule Change</th>
+      <th>Threshold</th>
+      <th>Delay Limit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Consultation</td>
+      <td>24 hours before appointment</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Measurement</td>
+      <td>48 hours before appointment</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Development</td>
+      <td>72 hours before appointment</td>
+      <td>1-hour delay max</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Scope Change</h2>
 
-
+<p>In this section of the paper, as the team proceeds with the changes, they must first recognize the effects and impact it can and will make the the current project schedule and resources. The team must also consider the current project schedule and how the scope change will affect the schedules and availability of resources when the project moves forward.</p>
 
 
 =Work Breakdown Structure=
@@ -2672,4 +2736,12 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 		</tr>
 </table>
 <h2>Glossary of Terms </h2>
+<p>Level of Effort: Level of Effort (LOE) is how much work is required to complete a task. </p>
 
+<p>WBS Code: A unique identifier assigned to each element in a Work Breakdown Structure for the purpose of designating the elements hierarchical location within the WBS. </p>
+
+<p>Work Package: A Work Package is a deliverable or work component at the lowest level of its WBS branch. </p>
+
+<p>WBS Component: A component of a WBS which is located at any level. It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is. </p>
+
+<p>WBS Element: A WBS Element is a single WBS component, and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages. </p>
