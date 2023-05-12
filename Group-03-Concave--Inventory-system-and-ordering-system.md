@@ -347,3 +347,10 @@ cost concern, production time concerns  </font></th>
 </tr>
 <br>
 
+<h2>SCHEDULE MANAGEMENT PLAN</h2>
+<p align=" justify">
+<h2>Introduction</h2>
+<p align=" justify">
+A schedule management plan is important in the pathing of the project because it guides the team on when a part of the project should be done. The schedule management plan will include what date a certain part of the project should be done and will also include suggestions on what percent of each part should be finished at a certain time. This will help discipline the members and put them in the proper mindset, as well as to help each member not feel burnt out. This schedule management plan will be vital for the project, while it does not provide outlines or guides it provides something just as important, a timeline in which they can use as a guide in prioritizing their projects needs and properly do all tasks without feeling overwhelmed
+</p>
+
