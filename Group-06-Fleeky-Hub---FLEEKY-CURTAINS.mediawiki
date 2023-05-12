@@ -1115,50 +1115,105 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 <h2>Introduction</h2>
 
 <p>In Fleeky Curtains, the management and the employees are responsible for keeping the business running. Since the client is a small business handled by the family members, each of the decisions and budget planning is in the scope of the family members. The investor and the founder of Fleeky Curtains is the one who finances the business, Mitzi Garcia. She also oversees which products to be invested and the raw materials to supplement the production of curtains. The investor also has the authority to approve the changes to the project of Fleeky Hub and carrying out the budget for the business and the project</p>
- 
+
+<p>On the other note, the manager Neil Albert Garcia does the administrative tasks and manages the accounting for the transactions and expenses for the business. The manager also oversees the operations.</p>
+
+
+<p>Cost Management Responsibilities:</p>
 <ul>
 <li>
-
+The Project Manager will be responsible for overall cost management of the project and will be the primary point of contact for all cost-related issues.
 </li>
 <li>
-
+The Finance Team will be responsible for monitoring project costs and ensuring that they are within the approved budget.
 </li>
 
-<p></p>
+
+<p>Cost Change Approval:</p>
 
 <li>
+All cost changes must be approved by the Project Manager before they are implemented.
+</li>
+<li>
+If the cost change exceeds 10% of the total project budget, it must be approved by the Project Sponsor before it can be implemented.
+</li>
 
+<p>Cost Measurement and Reporting:</p>
+
+<li>
+Costs will be measured and reported monthly, using a cost performance index (CPI) and a schedule of performance index (SPI)
+</li>
+<li>
+Reports will be presented to the Project Sponsors monthly.
+</li>
+
+<p>Budget Format and Standards:</p>
+
+<li>
+The Budget will be presented in a clear and concise format, using a spreadsheet format such as Excel and Fleeky Hub’s Website feature (If implemented/upon agreement)
+</li>
+<li>
+The budget will be broken down into individual line items, with detailed cost estimates for each item.
+</li>
+<li>
+The budget will be updated monthly, with any changes clearly highlighted
 </li>
 </ul>
 
+<p>Overall, the Cost Management Plan for the Fleeky Hub project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.</p>
+
+
 <h2>Cost Management Approach</h2>
 
-<p></p>
+<p>The Cost Management approach for the dispatch directory system project will be based on the following principles</p>
 <ol type="a">
 <li>
-
+Clear definitions of costs: The project team will work closely with stakeholders to clearly define and document the cost associated with the project, including development, materials, tools, API, and other expenses that are included within the project development contract agreement.
 </li>
 <li>
-
+Budget development tracking: A detailed project budget will be developed and regularly updated throughout the project, with costs tracked and reported in real time.
 </li>
 <li>
-
+Cost estimates: The project team will use a variety of cost estimation techniques to ensure that the project budget is accurate and realistic.
 </li>
 <li>
- 
+Cost variance analysis: The project team will closely monitor costs throughout the project and perform variance analysis to identify and address any cost overruns or savings.
 </li>
 <li>
- 
+Cost management roles and responsibilities: Clear roles and responsibilities for cost management will be defined and communicated to all project team members
+</li>
+<li>
+Approval process for changes: A formal process for approving changes to the project or its budget will be established and implemented.
+</li>
+<li>
+Reporting and communication: Regular cost reports will be prepared and shared with stakeholders, including the project sponsor, project team, and management.
 </li>
 </ol>
 
-<p></p>
+<p>By following these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
 
 <h2>Measuring Project Costs</h2>
 
+<p>The Cost Management Plan for the Fleeky Hub project will include a detailed approach for measuring project cost using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:</p>
+
+<p>1.    Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) – These measures the budgeted costs of the work that was planned to be completed at a specific point of time.</p>
+
+<p>Example:</p>
+<p>To calculate the BCWS or Planned Value, we need to multiply the total labor cost of the TESTING WBS by its percentage of completion:</p>
+<p>BCWS</p>
+
+<p>= Total labor cost of TESTING WBS x Percentage of completion</p>
+
+<p>= (PHP 300,000) x 33.71%</p>
+
+<p>= PHP 101,130</p>
+
+<p>Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 101,130</p>
 
 
 <h2>Reporting Format</h2>
+
+<p>Reporting for cost management will be included in the monthly project status report. The Monthly Project Status Report will include a section labeled, “Cost Management”. This section will contain the Earned Value Metrics identified in the previous section. All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned. Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report.</p>
 
 <h2>Cost Variance Response Process</h2>
 
