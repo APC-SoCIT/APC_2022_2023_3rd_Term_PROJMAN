@@ -478,3 +478,33 @@ A cost change control process is necessary to manage changes to the cost baselin
 
 By following this cost change control process, you can effectively manage changes to the cost baseline of an inventory and ordering system and ensure that the project stays on track financially.
 
+<h5>PROJECT BUDGET</h5>
+<p align="justify">
+The budget for this project is detailed below.  Costs for this project are presented in various categories...
+<table width = "60%" align = "center">
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> PRODUCT</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> PRICE</font></th>   
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Hardware and Software Costs </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱45,000 </font></th>
+
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Ken Angelo Carangan </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> kgcarangan@student.apc.edu.ph </font></th></tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Ryan Gabriele Candari </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> rscandari@student.apc.edu.ph </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Marcus Jorell Medina </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> mcmedina2@student.apc.edu.ph </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Jan Terence Francisco </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> jrfrancisco@student.apc.edu.ph </font></th></tr>
+</tr>
+<br>
+</table>
+
