@@ -186,8 +186,6 @@ The following constraints will be considered during the project's development: <
 </tr>
 <br>
 </table>
-<h4>4.6 Cost Management Plan</h4>
-<p align=" justify">
 
 <h1>Strategic Alignment</h1>
 <p align=" justify">
