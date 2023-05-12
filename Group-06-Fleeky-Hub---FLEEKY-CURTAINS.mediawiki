@@ -1009,7 +1009,7 @@ The website will comply with relevant laws and regulations, including data priva
 <h2>Quality Checklists</h2>
 <p>In this table, each checklist item is listed in the first column. The second column has a checkbox for "Yes" to indicate that the item meets the quality standard, the third column has a checkbox for "No" to indicate that the item does not meet the quality standard, and the fourth column has a checkbox for "N/A" to indicate that the item is not applicable to the website being evaluated. The evaluator can mark the appropriate checkbox for each checklist item as they go through the evaluation process. </p>
 
-<table>
+<table border="1" align="center">
   <tr>
     <th>Checklist Item</th>
     <th>Yes</th>
@@ -2079,7 +2079,7 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 =Work Breakdown Structure=
 
 <h2>Introduction</h2>
-<p>            The Work Breakdown Structure is breakdown of all the work packages necessary to complete, presented here represents all the work required to complete this project. A WBS is constructed Outline View Structure to develop to easily navigate and understand the structure how to accomplish this project, it also represents the work identified in the approved Project Scope Statement and serves as an Initial Schedule Development and Cost Estimating. We do the WBS is help more accurately and specifically define and organize the scope of the whole project. Also, to help with assigning responsibilities, resource allocation, monitoring and controlling the project.</p>
+<p>The Work Breakdown Structure is breakdown of all the work packages necessary to complete, presented here represents all the work required to complete this project. A WBS is constructed Outline View Structure to develop to easily navigate and understand the structure how to accomplish this project, it also represents the work identified in the approved Project Scope Statement and serves as an Initial Schedule Development and Cost Estimating. We do the WBS is help more accurately and specifically define and organize the scope of the whole project. Also, to help with assigning responsibilities, resource allocation, monitoring and controlling the project.</p>
 <h2><strong>Outline View</strong></h2>
 <li>Just-In-Time E-Commerce Website
 <ul>
