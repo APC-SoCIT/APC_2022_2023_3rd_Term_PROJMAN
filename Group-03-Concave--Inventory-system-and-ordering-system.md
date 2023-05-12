@@ -347,7 +347,7 @@ cost concern, production time concerns  </font></th>
 </tr>
 <br>
 
-<h5>SCHEDULE MANAGEMENT PLAN</h5>
+<h1>SCHEDULE MANAGEMENT PLAN</h1>
 <p align=" justify">
 <h5>Introduction</h5>
 <p align=" justify">
