@@ -356,5 +356,17 @@ cost concern, production time concerns  </font></th>
 A schedule management plan is important in the pathing of the project because it guides the team on when a part of the project should be done. The schedule management plan will include what date a certain part of the project should be done and will also include suggestions on what percent of each part should be finished at a certain time. This will help discipline the members and put them in the proper mindset, as well as to help each member not feel burnt out. This schedule management plan will be vital for the project, while it does not provide outlines or guides it provides something just as important, a timeline in which they can use as a guide in prioritizing their projects needs and properly do all tasks without feeling overwhelmed
 </p>
 
+<h5>SCHEDULE MANAGEMENT APPROACH</h5>
+<p align=" justify">
+The project schedule will be based on the Work Breakdown Structure (WBS) that is constructed as part of the Scope Management Plan. The WBS will help the group in, as stated in the name breakdown the work for each part of the project, this will help in the prioritization of each part of the project. Using the WBS would simplify the process of creating the schedule management plan by helping the project manager and whoever is assigned to the scheduling to identify the task durations associated with each task. 
+
+<h5>SCHEDULE CONTROL</h5>
+<p align=" justify">
+As stated in the previous part the WBS will be used to structure the project and a weekly review with the adviser would be held to update the schedule and so that any needed adjustments will be implemented easier. The main people that influence the schedule will be the project manager and the scheduler and they will control the schedule the most, they are the people who will be relied on in discerning what tasks to push later in the schedule and which tasks should follow the set schedule and be completed in the given deadline. 
+
+<h5>SCHEDULE CHANGES AND THRESHOLDS</h5>
+<p align=" justify">
+Any changes in the schedule must be done by the project manager and scheduler and must be approved by the project adviser and the acceptable threshold of 10% will be implemented. These are the rules that the group needs to follow to change anything in the schedule, these rules will help the group be more disciplined and follow the schedule as it is difficult to change, and the threshold is put to discourage “Procrastination” as the 10% threshold does not give too much time unless the member assigned is almost done with their part. Any scheduling changes must have proper reasoning as just being “lazy” or as stated before the habit of  “procrastinating” will not be accepted. 
+
 
 
