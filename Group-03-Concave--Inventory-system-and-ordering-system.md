@@ -491,19 +491,43 @@ The budget for this project is detailed below.  Costs for this project are prese
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱45,000 </font></th>
 
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000"> Ken Angelo Carangan </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000"> kgcarangan@student.apc.edu.ph </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Server hardware and software </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱4,000 </font></th></tr>
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000"> Ryan Gabriele Candari </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000"> rscandari@student.apc.edu.ph </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Client hardware and software </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱35,000 </font></th></tr>
 </tr>
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000"> Marcus Jorell Medina </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000"> mcmedina2@student.apc.edu.ph </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Database software and licenses </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱10,000 </font></th></tr>
 </tr>
 <tr>
-<th text-align = "left" width="220" height = "40"><font color = " #000000"> Jan Terence Francisco </font></th>   
-<th text-align = "left" width="220" height = "40"><font color = " #000000"> jrfrancisco@student.apc.edu.ph </font></th></tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Network infrastructure </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱1,699.00 (per month) – ₱20,388 (per annum) </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Implementation and Integration Costs </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱150,000 </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
+</tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000">  </font></th></tr>
 </tr>
 <br>
 </table>
