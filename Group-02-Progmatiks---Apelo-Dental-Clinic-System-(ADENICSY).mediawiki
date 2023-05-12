@@ -1694,27 +1694,26 @@ Helps to secure stakeholder buyin. Resolves major issues and conflicts. Can allo
 <p>WBS Component:    A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
 <p>WBS Element:         A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
 =Work Packages=
-<table border="1" width="70%" align="center">
-	<table>
+<table style="border: 1px solid black; width: 70%; margin: auto; background-color: lightblue; text-align: center;">
 		<tr>
-			<th>WBS</th>
-			<th>Work Package</th>
-			<th>Package Owner</th>
-			<th>Owner Organization</th>
-			<th>Participants</th>
-			<th>Description</th>
-			<th>Completion State</th>
-			<th>Reference Docs</th>
+			<th style="border: 1px solid black; padding: 5px;">WBS</th>
+			<th style="border: 1px solid black; padding: 5px;">Work Package</th>
+			<th style="border: 1px solid black; padding: 5px;">Package Owner</th>
+			<th style="border: 1px solid black; padding: 5px;">Owner Organization</th>
+			<th style="border: 1px solid black; padding: 5px;">Participants</th>
+			<th style="border: 1px solid black; padding: 5px;">Description</th>
+			<th style="border: 1px solid black; padding: 5px;">Completion State</th>
+			<th style="border: 1px solid black; padding: 5px;">Reference Docs</th>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>Apelo Dental Clinic System</td>
-			<td>Janssen Pedrola</td>
-			<td>Apelo Dental Clinic</td>
-			<td>Progmatiks Members</td>
-			<td>All work to implement a new Apelo Dental Clinic System</td>
-			<td>All the participants participate in the new implementation of the Apelo Dental Clinic System.</td>
-			<td></td>
+			<td style="border: 1px solid black; padding: 5px;">1</td>
+			<td style="border: 1px solid black; padding: 5px;">Apelo Dental Clinic System</td>
+			<td style="border: 1px solid black; padding: 5px;">Janssen Pedrola</td>
+			<td style="border: 1px solid black; padding: 5px;">Apelo Dental Clinic</td>
+			<td style="border: 1px solid black; padding: 5px;">Progmatiks Members</td>
+			<td style="border: 1px solid black; padding: 5px;">All work to implement a new Apelo Dental Clinic System</td>
+			<td style="border: 1px solid black; padding: 5px;">All the participants participate in the new implementation of the Apelo Dental Clinic System.</td>
+			<td style="border: 1px solid black; padding: 5px;"></td>
 		</tr>
 
 	</table>
