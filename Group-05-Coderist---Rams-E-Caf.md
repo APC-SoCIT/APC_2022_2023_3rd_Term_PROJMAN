@@ -761,10 +761,17 @@ The budget includes direct and indirect costs, and it is designed to provide the
 
 =Time Management Plan=
 ==Introduction==
-<p>The Schedule Management Plan is crucial because it provides direction and information in this area and specifies how the project's schedule will be handled throughout the entire project. After evaluating, managing, and prioritizing all time-related schedule alterations, the schedule management plan specifies strategies and tactics and distributes them.</p>
+<p>
+  The Schedule Management Plan is an important document that outlines the approach and procedures developing, monitoring, controlling, and reporting on the project schedule. The purpose of this plan is to ensure that the project is completed on time, within budget, and to the required level of quality. A well-planned schedule management plan is crucial to achieve the succession of the project as it enables the project team to track progress against the project timeline, potential delays or issues and take corrective action.
+  <br>
+  This plan will describe in detail the schedule management approach that will be used to create the project schedule, the procedures for monitoring and controlling the schedule throughout the project lifecycle, as well as the process for making schedule changes and managing scope changes. It will also define the roles and responsibilities of the project team members involved in schedule management and the tools and techniques that will be used to manage the schedule.
+</p>
 
 ==Schedule Management Approach==
-<p>The project team and the resources assigned to it will cautiously work on the initial schedule once it has been produced in order to prevent the project's schedule from being in the critical path. The proposed work package task, the length of the activities, and the project timeline require the approval of the project team and assets. Once this has been completed, the project adviser will check, approve, and baseline the schedule.</p>
+<p>The project schedules will be created using Microsoft Project as the scheduling tool/format with the deliverables identified in the project’s Work Breakdown Structure (WBS). This will provide a visual representation of the project schedule including start and end dates of each task, dependencies, and milestones. The project schedule will be reviewed and updated on a regular basis to ensure that it remains accurate and up to date.
+
+  Schedule milestones will be established to provide the team with a clear understanding of major project deliverables and deadlines. The following will be the milestones for the project schedule:
+  </p>
 <br>
 <table border="1" width="70%" align="center">
      <tr>
@@ -772,111 +779,137 @@ The budget includes direct and indirect costs, and it is designed to provide the
         <td><p style="text-align:center;"><b>Timeline</b></p></td>
      </tr>
      <tr>
-        <td>Project Charter</td>
+        <td>Project Kick-off</td>
         <td>1st Month</td>
      </tr>
      <tr>
-        <td>Project Approval</td>
+        <td>Completion of requirement gathering</td>
         <td>2nd Month</td>
      </tr>
      <tr>
-        <td>Developing the Web Application</td>
+        <td>Completion of design and development</td>
         <td>3rd to 7th Month</td>
      </tr>
      <tr>
-        <td>Complete Test Plan</td>
+        <td>Acquire hardware and software</td>
         <td>8th Month</td>
      </tr>
      <tr>
-        <td>Finalizing the Document</td>
+        <td>Completion of solution simulation with new hardware and software</td>
         <td>9th Month</td>
      </tr>
+     <tr>
+      <td>Completion of solution simulation and testing</td>
+      <td>10th Month</td>
+    </tr>
+    <tr>
+      <td>User acceptance settings</td>
+      <td>11th Month</td>
+    </tr>
+    <tr>
+      <td>Final Deployment</td>
+      <td>12th Month</td>
+    </tr>
+    <tr>
+      <td>Project Complete</td>
+      <td>13th Month</td>
+    </tr>
 </table>
 <br>
-<p>When such changes are made, the plans and baselines will be updated. Furthermore, the same are shown as outputs. The scheduling approach, method of evaluation, tools, management, and control of the schedule will all be impacted by the development strategy.</p>
-<br>
-<p>The following are the roles and responsibilities involved in developing a schedule:</p>
+<p>The schedule deployment roles and responsibilities will be assigned as follows: The Project Manager will be responsible for overseeing the entire schedule management process, including the development of the schedule, and ensuring that it is regularly reviewed and updated. The Project Manager will receive schedule approval from the Project Sponsor and baseline the schedule.</p>
 <table border="1" width="70%" align="center">
-     <tr>
-        <td><b>Role</b></td>
-        <td><b>Responsibility</b></td>
-     </tr>
-     <tr>
-        <td>Project Client</td>
-        <td>
-           <ul>
-              <li>Approves Scope Management Plan.</li>
-              <li>Provides high-level scope definition (Project Charter).</li>
-              <li>Reviews escalated scope issues and provide direction for resolution.</li>
-              <li>Approves major scope change requests.</li>
-              <li>Overall decision-making responsibility for Scope Management activities.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Project Manager</td>
-        <td>
-           <ul>
-              <li>Overall responsibility for scope management.</li>
-              <li>Oversees the development of the Scope Management Plan.</li>
-              <li>Oversees the scope change management process.</li>
-              <li>Approves scope change requests within his/her authority.</li>
-              <li>Escalates scope and change issues.</li>
-              <li>Ensures that scope changes are incorporated into appropriate project documents.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Project Team Members and Subject Matter Experts (SMEs)</td>
-        <td>
-           <ul>
-              <li>Help develop the project scope statement.</li>
-              <li>Submit scope change requests.</li>
-              <li>Review Scope Change requests when assigned.</li>
-              <li>Provide feedback as and when required.</li>
-              <li>Participate in team-level scope change reviews.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Independent Verification and Validation (IV&V)<br> Project Adviser</td>
-        <td>
-           <ul>
-              <li>Provides an ongoing independent review and analysis of project scope management practices.</li>
-              <li>Monitors scope changes and provide feedback.</li>
-              <li>Approves major scope change requests.</li>
-              <li>Approval of all documentation throughout the project.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Stakeholders</td>
-        <td>
-           <ul>
-              <li><i>Key providers of requirements, scope, and the recipients of project deliverables associated with the project benefits. Most of the project deliverables will be based on their operations in the business and enhancing their business operations and environment.</i></li>
-           </ul>
-        </td>
-     </tr>
+    <tr>
+      <th>Role</th>
+      <th>Responsibility</th>
+    </tr>
+    <tr>
+      <td>Project Client</td>
+      <td>
+        <ul>
+          <li>Approve major changes and requests.</li>
+          <li>Overall decision-making.</li>
+          <li>Responsible for Scope Management Activities.</li>
+          <li>Reviews issues and provides direct resolution.</li>
+          <li>Approve Scope Management Plan.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Project Manager</td>
+      <td>
+        <ul>
+          <li>Overseeing the entire Schedule and Scope Management Plan Process.</li>
+          <li>Development of the Schedule.</li>
+          <li>Ensuring that the Schedule Management Plan and Scope Management Plan are Regularly Updated and Reviewed.</li>
+          <li>Responsible for Scope Management.</li>
+          <li>Approves scope change requests within his authority.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Project Team Members</td>
+      <td>
+        <ul>
+          <li>Help develop the project scope statement.</li>
+          <li>Submit scope and schedule change requests.</li>
+          <li>Review Scope and Schedule Change request when assigned.</li>
+          <li>Provide feedback after review.</li>
+          <li>Collaborate on scope change reviews.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Project Adviser</td>
+      <td>
+        <ul>
+          <li>Provide an independent review and analysis of the project scope management practices.</li>
+          <li>Provide feedback on any scope and schedule changes.</li>
+          <li>Approves major scope and schedule changes request.</li>
+          <li>Approves overall project documentation.</li>
+        </ul>
+      </td>
+    </tr>  
 </table>
+<p>The team will work collaboratively to develop and update the project schedule, with each member responsible for their assigned tasks and providing regular status updates. The schedule will be reviewed and updated regularly by the Project Manager to ensure that it remains accurate and up to date.</p>
 
 ==Schedule Control==
-<p>For the duration of the project, the schedule must be precisely and effectively managed. Meetings, schedules, project updates, and even changes to the project schedule go through the project manager, who is also responsible for managing them. The project manager will also be responsible for informing and keeping the project client informed of the project's status.</p>
-<br>
-<p>The project team, on the other hand, is required to attend meetings for any schedule updates provided and work on any timetable adjustments that would be made. The percentage of completion must be presented to the project team for discussion by project team members who also complete a task.</p>
+<p>The Rams E-Caf project schedule will be monitored and controlled throughout the project life cycle to ensure that the project is progressing according to the plan. The following schedule control activities will be performed:</p>
 
-==Schedule Changes and Thresholds==
-<p>When the project team creates the schedule, the project sponsor must specify a deadline for the project to be finished or operational. This is essential because it enables the project sponsor to align the objectives and expectations of the project client with the project at hand. One of the factors that could affect the changes in schedule is poor schedule management, which requires an extension or change in the project plan. If there are any circumstances that might potentially affect the timetable and go beyond the limits specified by the project sponsor, the project manager should submit a schedule change request and it should be approved by the project sponsor before the schedule change is made.</p>
-<br>
-<p>If any of the following apply, a schedule change request must be submitted to the project stakeholder for approval, if not, then submission is made for approval to the project manager: </p>
+<p>Schedule Updates: The project schedule will be updated on a regular basis to reflect the latest project status. The project manager will be responsible for updating the schedule, and the updated schedule will be shared with the project team and stakeholders.</p>
+
+<p>Schedule Reviews: The project team will conduct regular schedule reviews to identify potential schedule risks and issues. The reviews will be conducted on a weekly basis, and any significant issues will be escalated to the Project Manager for resolution.</p>
+
+<p>Schedule Communication: The project schedule will be communicated to the project team and stakeholders on a regular basis to ensure that everyone is aware of the project’s progress. The Project Manager will be responsible for communicating the schedule, and any changes to the schedule will be communicated promptly to all relevant parties.</p>
+
+<p>Roles and Responsibilities:</p>
 <ul>
-    <li>The suggested change is to limit the length of deliverables of a given Sprint Backlog during the project's development phase, to make it obvious that adding something to the duration does not indicate extending the work across the full duration.</li>
-    <li>Changes to the scope statement must be taken into consideration in order to prevent conflicts during the project's documentation phase. The project team must compile every mistake in the document before expanding the work packages by 5% or more to reflect the changes in all the documentation.</li>
-    <li>A different way to implement the changes is to either cut or extend the project's overall timetable by 10% or more.</li>
+  <li>The Project Manager is responsible for updating the project schedule, conducting regular schedule reviews, and communicating the schedule to the project team and stakeholders.</li>
+  <li>The Project team members are responsible for providing accurate status updates and notifying the Project Manager of any potential schedule risks or issues.</li>
+  <li>Stakeholders are responsible for reviewing the project schedule and providing feedback to the Project Manager.</li>
 </ul>
 
-==Scope Change==
-<p>If a project problem arises that requires a substantial change in the project scope, it is best to propose a change. It is necessary to use prudence during the process of suggesting and evaluating the project's scope adjustment. Any project team member or project client may ask to change the project's scope. All change requests must be submitted in the form of a project change request document to the project advisor. Following that, the project manager will go over the requested change to the project's scope. The project adviser will either reject the request for change if it does not fit in with the project's goals or schedule, a meeting with the project client and project team to discuss it and determine its impact. Following initial approval from the project client and project adviser, the project manager will communicate the scope change to the entire project team. In result of that, the team members will amend any applicable paperwork, deliverables, and product backlogs. </p>
+<p>To implement these schedule control activities, the Rams E-Caf project team will be able to proactively manage the project schedule potential schedule risks and ensure that the project is completed on time.</p>
 
+
+==Schedule Changes and Thresholds==
+<p>
+  The Rams E-Caf project schedule will be created based on the best available information at the time of development. As the project progresses, it is expected that there may be changes to the project schedule. Any changes to the project schedule must be requested and approved by the Project Sponsor before the changes are made.
+
+To ensure that the project stays on track, threshold limits have been set. Any change to the schedule that exceeds the threshold limit must have a schedule change request submitted and approved by the project sponsor before the schedule change is made. The threshold limit for this project has been set at 10%. This means that any schedule change that results in a delay of 10% or more from the original schedule baseline must have a schedule change request submitted and approved by the project sponsor.
+
+The project team is responsible for monitoring the schedule on an ongoing basis and reporting any schedule changes or potential delays to the project sponsor. The project sponsor will review and approve or deny any schedule change requests based on their impact on the project budget, resources, and overall project objectives.
+
+</p>
+
+==Scope Change==
+<p>
+  Occasionally, changes to the project scope may be necessary and approved by the project sponsor. These changes may result in the schedule needing to be re-baselined to ensure that it accurately reflects the project’s new scope. Examples of scope changes may include new deliverables or requirements that were not previously considered during the original schedule’s development.
+
+In these situations, the Project Manager and the team must carefully evaluate the impact of the scope change on the project schedule and its resources. The project team should also consider any additional time and resources that may be required to complete the project, as well as the potential impact on other project constraints such as cost and quality.
+
+Furthermore, before implementing any scope changes, the project team must ensure that the project sponsor approves the change request and that a corresponding schedule change request is submitted and approved. The project manager and team must update the project schedule to reflect any approved scope changes and ensure that all stakeholders are informed of the changes and their impact on the project’s schedule.
+
+</p>
 =Work Breakdown Structure=
 
 ==Introduction==
@@ -888,8 +921,8 @@ The budget includes direct and indirect costs, and it is designed to provide the
 <br>
 
 ==Outline View==
-<p>The outline view for the work breakdown structure (WBS) of Apelo Dental Clinic System provides a straightforward and clear layout that is easy to understand. This layout is particularly useful during the development phase of the project as it enables the project team to make changes quickly and efficiently. The outline view displays the hierarchical structure of the WBS, which allows the project team to easily see the various levels of the project and how they relate to one another. With this view, the team can easily identify the major deliverables of the project and the sub-deliverables that contribute to the completion of each major deliverable. This helps ensure that the project team stays on track and is able to complete the project within the established timeline.</p>
-
+<p>The project consists of key work packages including creating a Project Charter, developing a Stakeholder Management Strategy, evaluating a Business Case, and obtaining approval from the project sponsor.
+</p>
 <ul>1. Rams E-Caf Cafeteria Management System
 <ul>
 <ul>1.1 Initiation (SNTSDEV)
@@ -958,7 +991,9 @@ The budget includes direct and indirect costs, and it is designed to provide the
 <br>
 
 ==Hierarchical Structure==
-<p>The hierarchical structure is an effective way to represent the Work Breakdown Structure (WBS) for Apelo Dental Clinic System. It shows the breakdown of the project into smaller, manageable parts, with each level representing a more detailed and specific set of activities. This structure allows for a clear understanding of the dependencies between different tasks and deliverables and enables the project team to track progress and identify any potential issues at an early stage.</p>
+<p>
+  The project utilizes a hierarchical structure to efficiently organize and manage tasks, enabling clear coordination, resource allocation, and progress tracking. This structure fosters effective communication, decision-making, and risk mitigation, promoting collaboration and successful outcomes.
+</p>
 
 <table width="780" border="1" align="center">
 <thead>
@@ -1219,7 +1254,9 @@ The budget includes direct and indirect costs, and it is designed to provide the
 <br>
 
 ==Tabular View==
-<p>The tabular view of the Work Breakdown Structure (WBS) for Apelo Dental Clinic presents a clear and organized overview of the project by displaying all tasks and subtasks in a table format.</p>
+<p>
+  The team made a tabular view to present key project components, milestones, and timelines in a structured format, facilitating easy reference, tracking, and analysis.
+</p>
 
 </head>
 <body>
@@ -1454,13 +1491,17 @@ The budget includes direct and indirect costs, and it is designed to provide the
 <br>
 
 ==Tree Structure View==
-<p>The Tree Structure view provides an intuitive and easy-to-understand visual representation of the project's hierarchical structure, showing how each element contributes to the project as a whole.</p>
+<p>
+  Our project employs a tree structure view to visually represent the hierarchical relationships and dependencies among project tasks and subtasks, providing a clear and intuitive overview of the project's organizational structure.
+</p>
 <br>
 <a href="https://ibb.co/bgm4Kzm"><img src="https://i.ibb.co/QFQWKrQ/WBS.png" alt="WBS" border="0"></a>
 <br>
 
 ==WBS Dictionary==
-<p>The Work Breakdown Structure (WBS) Dictionary is a companion document to the WBS that provides a comprehensive list of all the tasks, sub-tasks, and work packages included in the project. The WBS Dictionary contains important information such as the description of each work package and the estimated duration. It serves as a reference guide for the project team, ensuring that everyone is on the same page regarding the project's scope and objectives. A well-developed WBS Dictionary is essential for project management and helps to ensure that the project stays on track and is completed within the schedule.</p>
+<p>
+  This WBS dictionary provides a comprehensive reference that defines and describes each work package, including its deliverables, activities, resources, and dependencies, ensuring clarity and consistency in project understanding.
+</p>
 <table align="center">
  <table>
     <thead>
@@ -1756,3 +1797,1122 @@ The budget includes direct and indirect costs, and it is designed to provide the
 
 
 =Work Packages=
+
+  <h2>WBS: 1.1.1</h2>
+  <h3>Work Package: Creating Project Team</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Jhon Iberson Marinas</p>
+  <p>Description: Gathering of team members and assigning each role and responsibilities for the project.</p>
+  <p>Completion State: All roles and responsibilities of each team member have been accepted and agreed upon.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The roles of each team member have been assigned and they have an understanding of each responsibility.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Conflict of assigning roles for each member.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Team meeting for roles assigning that all team members will agree on.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <p>N/A</p>
+  </ul>
+
+  <h2>WBS: 1.1.2</h2>
+  <h3>Work Package: Brainstorming</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Corneliani Jon Melo, Nathan Sinaguinan, Jamir Sia, Jhon Iberson Marinas</p>
+  <p>Description: Discuss every problem that can be solved inside the Asia Pacific College. Create a brainstorming activity for the team members to share their desired project and the problem that they want to address.</p>
+  <p>Completion State: The project team gathered everyone’s ideas and desired project, and the project team has a draft of the project to be put in the draft project proposal.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Brainstorming will be successful, and the project team will have their desired project.</li>
+    <li>The project team’s teamwork will be improved.</li>
+    <li>Project team will agree on a solution targeted on the APC Cafeteria.</li>
+  </ul>
+  <h3>Risks:</h3>
+  <ul>
+    <li>Internet connection is lost.</li>
+    <li>One or more team members are not present.</li>
+    <li>Project team can’t agree on their desired project.</li>
+  </ul>
+  <br>
+
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure internet connection is stable.</li>
+    <li>Schedule project team brainstorming according to everyone’s free time.</li>
+    <li>Discuss advantages of desired project for the team.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>None</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li><a href="Cloud_Cafeteria_Project_Proposal.docx">Cloud Cafeteria Project Proposal (1).docx</a></li>
+  </ul>
+
+  <h2>WBS: 1.1.3</h2>
+  <h3>Work Package: Search for Client</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Jhon Iberson Marinas, Jamir Sia, Corneliani Melo, Nathan Sinaguinan, Isiah Jade Tutor</p>
+  <p>Description: Project team, led by the project manager, Corneliani Jon Melo will search for a client that is in charge of the APC Cafeteria. Determine Stakeholders and Approval from desired project client/sponsor.</p>
+  <p>Completion State: Project Client/Sponsor approved the idea of the project team, and they can now start the draft of the proposal.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Project Client, Ms. Bernadette Sison will allow access for the sales of the food concessionaires.</li>
+    <li>Project team will be able to contact or connect with Ms. Bernadette when we need her opinion or comments on the project team’s updates.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Project Client refusal of the project.</li>
+    <li>Project Client is not available.</li>
+    <li>Project Client has little to no time to spend for the project team.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Project team will improve on the project idea.</li>
+    <li>Project team will set a meeting where all of the participants are available.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>None</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <p>None</p>
+  </ul>
+
+  <h2>WBS: 1.1.4</h2>
+  <h3>Work Package: Draft of Proposal</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Jhon Iberson Marinas, Jamir Sia, Corneliani Melo, Nathan Sinaguinan, Isiah Jade Tutor</p>
+  <p>Description: The project team will start making the draft of the Project Proposal. The project team will now identify the problem, the solution, the background of the study, and the beneficiaries of the project.</p>
+  <p>Completion State: The project team completed the draft of the project proposal. The project team will revise it according to the changes suggested by the course instructor for SNTSDEV.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Project team will be revising the project proposal repeatedly.</li>
+    <li>Project instructor will regularly check the progress on the project proposal.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Project proposal content is not accurate.</li>
+    <li>Content does not justify the problem.</li>
+    <li>Solution does not fit the problem.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure that the content is accurate by sourcing from credible resources.</li>
+    <li>Ensure that the content justifies the problem by finding more sources for basis.</li>
+    <li>Ensure that the solution addresses the problem.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>None</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege-my.sharepoint.com/:w:/g/personal/cgmelo_student_apc_edu_ph/Ecqg3CBOfRtLkIdYCbHYBqEBoFEcyCWdFOjJ2KZr92z9lQ?e=6TEYpb">Project Proposal Document</a></p>
+  
+  <h2>WBS: 1.1.5</h2>
+  <h3>Work Package: Deliverable: Project Proposal</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Jhon Iberson Marinas</p>
+  <p>Description: The team created a draft for the Project Concept, Statement of the Problem, and Objectives addressing the Rams Cafeteria for approval to the course instructor.</p>
+  <p>Completion State: The project proposal has been approved and they can move forward with the project.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The team finalizes the objective and statement of the problem and can move forward to the proposed solutions and chapter III.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Possibility of the project proposal being rejected.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Justifying the problems that the project tries to solve and making the objective following the SMART criteria to prevent possible complications when proceeding with the project.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege-my.sharepoint.com/:w:/g/personal/cgmelo_student_apc_edu_ph/Ecxu128UkKhBjfISofYIZdQBMwh3z6DXVWBPxDHTsMxvAA?e=BQWzSC">Project Proposal Document</a></p>
+  
+  <h2>WBS: 1.1.6</h2>
+  <h3>Work Package: Approval of Project Draft</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Jhon Iberson Marinas</p>
+  <p>Description: The project team will now present the project proposal and the course instructor will be in charge of approving the project as well as the project client.</p>
+  <p>Completion State: The project team’s project proposal has been approved and changes will be done according to the comments.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Project team will revise the document according to the constructive criticism.</li>
+    <li>Project team is now approved to proceed with the project.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Project proposal has been denied.</li>
+    <li>Project proposal is not accepted yet.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure the quality of the project proposal and the presentation to increase chances of the project being accepted.</li>
+    <li>Be prepared for a re-defense in case the panel decides that the project proposal cannot be accepted yet.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.1.7</h2>
+  <h3>Work Package: Revision of Project Proposal</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Jhon Iberson Marinas</p>
+  <p>Description: Revising the content of the project proposal based on the comments and feedback of the panelists in the presentation.</p>
+  <p>Completion State: The content of the project proposal has been revised and is prepared for proceeding to the next chapter of the paper.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project proposal followed the required deliverables and has been approved based on the revision of the panelists.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The panelists have not agreed to the revised version of the paper and ask for another revision.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>The team focuses on the feedback and comments of the panelists for revising the project proposal.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+  
+
+  <h2>WBS: 1.1.8</h2>
+  <h3>Work Package: Project Adviser Request</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Jhon Iberson Marinas</p>
+  <p>Description: The project team led by the project manager will search for an adviser for the project and send a project adviser request form. The chosen adviser should be knowledgeable regarding the project concept.</p>
+  <p>Completion State: The project adviser request form has been approved and the project team can now consult with the chosen adviser for guidance.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Project team can now consult with the project adviser.</li>
+    <li>Project adviser guides the project team to align project goals.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Project adviser refuses.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure the request is polite and ensure the presentation is concise but complete.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege-my.sharepoint.com/:w:/g/personal/cgmelo_student_apc_edu_ph/EXh9P671EohCt5Z5VVZkHF0B7Qi0IKtbf3SnRGtp6dF3-g?e=7ebKGF">Project Adviser Request Form</a></p>
+  
+  <h2>WBS: 1.1.9</h2>
+  <h3>Work Package: Final Presentation</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Jhon Iberson Marinas</p>
+  <p>Description: Presenting the final document of the project and showing the pitch video and high-fidelity prototype of the project Rams E-Caf.</p>
+  <p>Completion State: Project has been approved with revisions.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Project has been approved.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The team needs to undergo re-defense and revise the project.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>The team followed the deliverables on hand and on time and prepared for the project presentation.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="Coderist Final Paper After Presentation (2).docx">Coderist Final Paper After Presentation</a></p>
+  
+  <h2>WBS: 1.1.10</h2>
+  <h3>Work Package: Milestone: Project Proposal Approval</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Jhon Iberson Marinas</p>
+  <p>Description: The project proposal approval is the milestone for the SNTSDEV course.</p>
+  <p>Completion State: Project team can now proceed to designing the solution, Rams E-Caf.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Project can now start designing diagrams for the solution.</li>
+    <li>Project team can now proceed to get to know the stakeholders through designing.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Project team will undergo Re-Defense.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure that the project presentation is very concise but complete.</li>
+    <li>Make sure that the project team knows the project very well to explain better.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.2.1</h2>
+  <h3>Work Package: Design Thinking Stage Empathize</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: The project team conducts an interview with the food concessionaires and the customers to pinpoint the problem.</p>
+  <p>Completion State: The project team is successful in determining the problem of the APC Cafeteria.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team will be able to do the empathy map.</li>
+    <li>The project team will also be able to start the SWOT analysis.</li>
+    <li>The project team can now relate the problem to the stakeholders.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The stakeholders refused the interview.</li>
+    <li>The stakeholders avoided giving the complete information.</li>
+    <li>The stakeholders do not have time for the interview.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Project team will approach the stakeholders in a respectful and friendly manner.</li>
+    <li>The project team will construct the questions carefully to obtain information.</li>
+    <li>The project team will notify the stakeholders ahead of time and set a date and time where everyone is available.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:f:/s/SY2022-20231stTermSSYADD1SS201SF201/Ep5GOOcsEEhBv7vKRbk4OtMBsu7oDaVXMZ9EKOJI1uPN9w?e=4KTxup">Stage 1 - Empathize</a></p>
+
+  <h2>WBS: 1.2.2</h2>
+  <h3>Work Package: Design Thinking Stage Define</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: The project team will now start with creating and finalizing the empathy map, SWOT analysis, and documentation.</p>
+  <p>Completion State: The project has finished the empathy map, SWOT analysis, and the documentation.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team can now start thinking about what the project solution should be and how significant it is to the problem addressed.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project team did not write the mentioned document accurately.</li>
+    <li>The stakeholders are concerned with the information that they said.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>The project team will base their information on the recording of each stakeholder's interview to keep the information accurate.</li>
+    <li>The project team will ensure that the information they shared will only be used by them and will be presented in their course.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:f:/s/SY2022-20231stTermSSYADD1SS201SF201/ErEbZJs7HEdPpUHAq5apU_IB3fOIbT2PCejUdZdyMqloqQ?e=OnR5U9">Design Thinking Stage Define</a></p>
+  
+  <h2>WBS: 1.2.3</h2>
+  <h3>Work Package: Design Thinking Stage Ideate</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: The project team will now think of the solution that will address the problem in the define and empathize stage.</p>
+  <p>Completion State: The project team now has a solution where the project will revolve around.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project will now start designing the prototype.</li>
+    <li>Prepare to present the proposed solution.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project team's solution is not feasible.</li>
+    <li>The solution does not address the problem.</li>
+    <li>The time given to complete the solution is not enough.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>The project team will think of a solution that is feasible and reject solutions that are not feasible.</li>
+    <li>The project team will tailor the solution to address the problem and consult with the project adviser for suggestions and comments.</li>
+    <li>The project team will consider the given time and resources while thinking of the solution.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:f:/s/SY2022-20231stTermSSYADD1SS201SF201/Evi8AEgAWodPofBA0FdSE_QBsr4PZsgR9DwdaQp2IK2aKw?e=sttArA">Design Thinking Stage Ideate</a></p>
+  
+  <h2>WBS: 1.2.4</h2>
+  <h3>Work Package: Design Thinking Stage Prototype</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: Create a working high-fidelity prototype in the form of wireframes.</p>
+  <p>Completion State: The prototype is now available for the project team to present.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team will now be able to meet with the project client/sponsor and present the wireframes.</li>
+    <li>The project team meets with the project adviser to gather suggestions, comments, and constructive criticism.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The wireframes are too vague.</li>
+    <li>The wireframes do not work properly.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>The project team will be clear but concise with every detail in the working wireframes.</li>
+    <li>Ensure that all pages are working and there are no dead pages.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:f:/s/SY2022-20231stTermSSYADD1SS201SF201/Eo-tQi8sYrRCuDSuMDAbHTYBmfijfgxI2_c78QBxDbeTtg?e=9mA74C">Design Thinking Stage Prototype</a></p>
+  
+  <h2>WBS: 1.2.4</h2>
+  <h3>Work Package: Design Thinking Stage Prototype</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: Create a working high-fidelity prototype in the form of wireframes.</p>
+  <p>Completion State: The prototype is now available for the project team to present.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team will now be able to meet with the project client/sponsor and present the wireframes.</li>
+    <li>The project team meets with the project adviser to gather suggestions, comments, and constructive criticism.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The wireframes are too vague.</li>
+    <li>The wireframes do not work properly.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>The project team will be clear but concise with every detail in the working wireframes.</li>
+    <li>Ensure that all pages are working and there are no dead pages.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:f:/s/SY2022-20231stTermSSYADD1SS201SF201/Eo-tQi8sYrRCuDSuMDAbHTYBmfijfgxI2_c78QBxDbeTtg?e=9mA74C">Design Thinking Stage Prototype</a></p>
+  
+  <h2>WBS: 1.2.5</h2>
+  <h3>Work Package: Design Thinking Stage Test</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: Meet with project adviser, project sponsor, and stakeholders to gather comments, suggestions, and constructive criticism.</p>
+  <p>Completion State: The project sponsor, the stakeholders, and the project adviser approved of the design and functions with some comments and suggestions.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team now proceeds to design the system’s functions.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The testing is not approved by the stakeholders.</li>
+    <li>The wireframes had many errors during the presentation and testing.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>The project team will ensure the quality of the presentation and the wireframes for the project sponsor and adviser to approve.</li>
+    <li>Ensure that the wireframes are void of any errors as much as possible.</li>
+    <li>Ensure that problems encountered can be worked on fast and on the spot.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:f:/s/SY2022-20231stTermSSYADD1SS201SF201/ElLRwpuUh-9MpoCXp4JY5dUB-UWXYPjvmE_ivisrb0-9HA?e=xjqqPW">Design Thinking Stage Test</a></p>
+  
+  <h2>WBS: 1.2.6</h2>
+  <h3>Work Package: Draft of Data Flow Diagram (DFD)</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: Create a Data Flow Diagram for the solution that is Cafeteria Management System named Rams E-Caf</p>
+  <p>Completion State: DFD is completed and can now be reviewed by the course instructor and the project adviser.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The DFD is approved with comments and revisions.</li>
+    <li>All functions are complete.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>DFD is not accurate.</li>
+    <li>DFD does not match with the prototype.</li>
+    <li>DFD is too complicated.</li>
+    <li>DFD has too many functions.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>The project team will identify each process to avoid inaccuracy.</li>
+    <li>Ensure that the prototype is the basis of the DFD.</li>
+    <li>See to it that the DFD is not overly complicated but not overly simplified.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:b:/s/SY2022-20231stTermSSYADD1SS201SF201/Eati1-U7fRZAmuDfxtNx_HgBEBY6LRERnfB-xVFve06mgA?e=sl0l71">Draft of Data Flow Diagram (DFD)</a></p>
+  
+
+  <h2>WBS: 1.2.7</h2>
+  <h3>Work Package: Draft of Entity Relationship Diagram (ERD)</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: Create an Entity Relationship Diagram as a requirement for the solution's design</p>
+  <p>Completion State: The ERD is completed and can now be able to consult with the project adviser.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Consult with the project adviser for corrections.</li>
+    <li>Consult with the project adviser again for revisions.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Entity and variables have misspelling.</li>
+    <li>Variable names are confusing.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Double check every variable and spelling that may cause issues if implemented.</li>
+    <li>Make sure that variable names make sense.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:b:/s/SY2022-20231stTermSSYADD1SS201SF201/EYGCQvZU4o5KjB1nAA9PhsQBdK4jETX7wPvdmnA-w0SPog?e=svPgMI">Draft of Entity Relationship Diagram (ERD)</a></p>
+ 
+
+  <h2>WBS: 1.2.8</h2>
+  <h3>Work Package: Draft of Use Case Diagram</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: Create a Use Case Diagram and Fully dressed as a requirement for the course</p>
+  <p>Completion State: The use case diagrams and all the fully dressed use cases can now be presented and revised according to comments.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Review the past information and match this information in the use case diagram.</li>
+    <li>Address the users and what the system will do based on the actions done by the user.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Use case diagram is too vague.</li>
+    <li>Use case diagram is not neatly presented.</li>
+    <li>Many typographical errors in the fully dressed use cases.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure that the content is accurate, complete, and concise.</li>
+    <li>Ensure that the use case diagram is neatly presented.</li>
+    <li>Proofread the fully dressed use cases to eliminate typographical errors.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p><a href="https://asiapacificcollege.sharepoint.com/:b:/s/SY2022-20231stTermSSYADD1SS201SF201/EekZ3FBwJV1GqyvSnhE7EbgBKJ-U00uefTVpE3pROLUeQw?e=pEYX49">Draft of Use Case Diagram</a></p>
+  
+
+  <h2>WBS: 1.2.9</h2>
+  <h3>Work Package: Project Presentation</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor, Adrian Bandong</p>
+  <p>Description: The project team led by the project manager, Corneliani Melo, will present the design thinking output and the diagrams to the project instructor.</p>
+  <p>Completion State: The project team presented the project successfully with revisions based on comments and constructive criticism.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Prepare the diagrams, documentations, and presentation deck.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>Presentation is not clear.</li>
+    <li>Diagrams are not complete.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure that the project team knows the project very well and make the presentation concise but clear.</li>
+    <li>Ensure that diagrams are completed and void of any significant errors.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li><a href="https://asiapacificcollege.sharepoint.com/:v:/s/SY2022-20231stTermSSYADD1SS201SF201/ESLaO2lVLHRMmBgwczHjRFIB78PTooqBkLxeTAB_zKjWtw?e=pv9Pc6">Project Presentation Documentation</a></li>
+    <li><a href="https://asiapacificcollege.sharepoint.com/:v:/s/SY2022-20231stTermSSYADD1SS201SF201/EbXzO5EaSRREqbj0UPcxkL0B2UJ-7qo4Mj9TdeSSZmyPDw?e=kpKLiq">Project Presentation Deck</a></li>
+  </ul>
+  
+
+  <h2>WBS: 1.3.1</h2>
+  <h3>Work Package: Revision of DFD</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: Revise the Data Flow Diagram (DFD) according to the course instructors' comments and suggestions.</p>
+  <p>Completion State: The DFD is revised and should be clearer than the previous version.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>Review all the levels in the DFD.</li>
+    <li>Revise inaccurate functions in the DFD.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The DFD does not make sense with the desired output.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure that the DFD is revised to match the desired output.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li><a href="https://asiapacificcollege.sharepoint.com/:w:/s/SCSPROJSS201SF201T2AY2022-2023/EWZkbs35O19MqPfEtQvLNPcBjh8QLCtaKm3FKziObOBn0A?e=qQ2ONv">Revised DFD Documentation</a></li>
+  </ul>
+  
+  <h2>WBS: 1.3.2</h2>
+  <h3>Work Package: Revision of ERD</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: This work package focuses on updating the project's Entity Relationship Diagram (ERD). The project's database architecture and implementation will be based on the updated ERD.</p>
+  <p>Completion State: The redesigned ERD that satisfies the demands of all stakeholders and appropriately depicts the entities and relationships involved in the database schema is the work package's finished product.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The initial ERD was precise and comprehensive.</li>
+    <li>The current system architecture will be compatible with the updated ERD.</li>
+    <li>Before being used, the amended ERD will be reviewed and approved by all parties.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project's data model could become erroneous or inconsistent because of the altered ERD.</li>
+    <li>The project's database design might need to undergo considerable adjustments because of the amended ERD, which could cause a delay.</li>
+    <li>Stakeholder disagreement over the ERD revisions could delay approval and implementation.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>To verify that the amended ERD is correct and error-free, carry out extensive testing and quality assurance procedures.</li>
+    <li>Make sure that all team members and stakeholders are properly informed of any required changes to the database architecture, and assess their effects on the project's timeline.</li>
+    <li>To guarantee acceptance and agreement on the modifications made, have open lines of communication with stakeholders and include them in the revision process.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li><a href="https://asiapacificcollege.sharepoint.com/:w:/s/SCSPROJSS201SF201T2AY2022-2023/EWZkbs35O19MqPfEtQvLNPcBjh8QLCtaKm3FKziObOBn0A?e=qQ2ONv">Revised ERD Documentation</a></li>
+  </ul>
+
+  <h2>WBS: 1.3.3</h2>
+  <h3>Work Package: Revision of Use Case Diagram</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: The project's use case diagram will be revised as part of this work package. Any modifications to the project's scope, requirements, or functionality will be reflected in the updated Use Case Diagram.</p>
+  <p>Completion State: The finished product of this work package is an updated use case diagram that satisfies the needs of all stakeholders and correctly depicts the interactions between actors and the system.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The original Use Case Diagram contained all necessary information.</li>
+    <li>The updated Use Case Diagram will take into account the project's current requirements and scope.</li>
+    <li>Before going into effect, the updated Use Case Diagram will be reviewed and accepted by all parties.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>It's possible that the updated Use Case Diagram doesn't effectively depict the project's current requirements, functionality, or scope.</li>
+    <li>The project's system architecture may need to undergo major changes because of the altered use case diagram, which could cause a delay.</li>
+    <li>If stakeholders can't agree on the changes made to the use case diagram, approval and implementation may be delayed.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>To ensure that the new Use Case Diagram accurately reflects the project's current scope, requirements, and functionality, carry out extensive testing and quality assurance procedures.</li>
+    <li>Make that all team members and stakeholders are informed properly of any required changes to the system design, and that their influence on the project timeframe is assessed.</li>
+    <li>To guarantee acceptance and agreement on the modifications made, have open lines of communication with stakeholders and include them in the revision process.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li><a href="https://asiapacificcollege.sharepoint.com/:w:/s/SCSPROJSS201SF201T2AY2022-2023/EWZkbs35O19MqPfEtQvLNPcBjh8QLCtaKm3FKziObOBn0A?e=qQ2ONv">Revised Use Case Diagram Documentation</a></li>
+  </ul>
+  
+  <h2>WBS: 1.3.4</h2>
+  <h3>Work Package: Milestone: Website Prototype</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: The creation of a website prototype for the project is part of this work package. The project's user interface and functionality will be shown off in the prototype to stakeholders, who will then provide input for further development.</p>
+  <p>Completion State: A website prototype that fully satisfies the needs of all stakeholders and precisely depicts the structure, functionality, and aesthetic of the finished product is the work package's finished product.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project's final design and functionality will be correctly reflected in the prototype.</li>
+    <li>The prototype will be finished on schedule and within budget.</li>
+    <li>Participants will offer helpful criticism that can be integrated into the project's final design.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The final design and functioning of the project might not accurately mirror the prototype, leaving stakeholders perplexed or disappointed.</li>
+    <li>The prototype's development could take longer than expected, prolonging the project's schedule.</li>
+    <li>Stakeholders may offer feedback that isn't helpful or clashes with the project's objectives, which can cause delays or disputes.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>To ensure that the prototype truly reflects the project's final design and functioning, conduct extensive testing and quality assurance procedures.</li>
+    <li>Continually keep an eye on the growth process.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li><a href="https://www.figma.com/file/Zixqu9iGdHXtEODHqrcFRy/Rams-E-Caf-(Desktop-POV)?type=design&t=G4pvD53Y0LvGfbqI-1">Website Prototype on Figma</a></li>
+  </ul>
+ 
+
+  <h2>WBS: 1.3.5</h2>
+  <h3>Work Package: Adviser Meeting 1</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: The initial meeting with the project adviser is included in this work package. The project team will talk about the project's development and get input on their work at the meeting.</p>
+  <p>Completion State: The successful meeting with the advisor, when helpful advice and feedback were provided to help overcome any problems or hurdles, represents the completion stage of this work package.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The required materials for the meeting will be available to the project team.</li>
+    <li>During the meeting, the project adviser will be accessible and responsive.</li>
+    <li>The project adviser will offer helpful criticism that can be used to the project's future efforts.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project team may not have been sufficiently ready for the meeting, which could result in a lack of development or unclear project direction.</li>
+    <li>During the meeting, the project adviser might not be accessible or responsive, which could cause delays or misunderstandings.</li>
+    <li>The project adviser could offer comments that isn't helpful or at odds with the project's objectives, which could cause delays or disputes.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team is well-prepared for the meeting with a clear agenda and conversation goals.</li>
+    <li>Confirm the adviser's availability and set the meeting up well in advance.</li>
+    <li>Keep in touch with the advisor on a regular basis and ask questions about any feedback given.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li><a href="https://asiapacificcollege-my.sharepoint.com/:w:/g/personal/cgmelo_student_apc_edu_ph/EWSKiXwSlDxEvrCxqMi5sUkBlGHR36zT6Q41tg8-4_yLjg?e=fFQLQ2">Meeting Reference Docs</a></li>
+  </ul>
+  
+  <h2>WBS: 1.3.6</h2>
+  <h3>Work Package: Face to Face Client Meeting</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: Meeting the project's client in person is part of this task package. The project team will review their work and discuss the project's progress during the meeting.</p>
+  <p>Completion State: A fruitful meeting with the client where updates are given and helpful advice and guidance are received to help overcome any obstacles or challenges represents the completion stage of this work package.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The required materials for the meeting will be available to the project team.</li>
+    <li>During the meeting, the customer will be reachable and receptive.</li>
+    <li>The customer will offer helpful criticism that can be integrated into the project's future efforts.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project team may not have been sufficiently ready for the meeting, which could result in a lack of development or unclear project direction.</li>
+    <li>During the meeting, the client might not be accessible or receptive, which could cause delays or misunderstandings.</li>
+    <li>Feedback from the client could clash with the objectives of the project or be unhelpful, which could cause delays or disagreements.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team is well-prepared for the meeting with a clear agenda and conversation goals.</li>
+    <li>Set up the meeting well in advance, and make sure the client is available.</li>
+    <li>Maintain regular contact with the client and ask for clarity on any given comments.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.3.7</h2>
+  <h3>Work Package: Midterm Presentation</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: The project's midterm presentation is part of this work package. The project team will give an overview of the project's status, objectives, and future plans during the presentation.</p>
+  <p>Completion State: The finished product of this work package is a well-prepared and given midterm presentation that offers a status report on the project's development and solicits insightful feedback from stakeholders to keep the project on track.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>By the time of the presentation, the project team will have made significant progress on it.</li>
+    <li>The presentation will be well-prepared and convey the project's objectives and progress clearly.</li>
+    <li>The audience will be open to the presentation and offer helpful criticism.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>It's possible that by the time of the presentation, the project team had not done much work on it, which left the presentation lacking in content.</li>
+    <li>The audience may become confused or misunderstand the presentation's message if it is poorly prepared or fails to clearly convey the project's objectives and progress.</li>
+    <li>The presentation's audience might not be open to it or offer helpful criticism, which would leave the initiative without direction or support.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team is significantly moving the project forward long before the presentation date.</li>
+    <li>To guarantee that the project's progress and objectives are effectively communicated, thoroughly prepare the presentation in advance.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.3.8</h2>
+  <h3>Work Package: Project Revision</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: This work package entails a thorough evaluation of the project's needs, objectives, and progress. The project team will evaluate the project's present progress and make the required adjustments during the revision to guarantee a successful conclusion.</p>
+  <p>Completion State: An updated project plan or scope that appropriately represents any changes to the project and satisfies the needs of all stakeholders is the status of this work package's completion.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The objectives and specifications of the project will be understood by the project team.</li>
+    <li>The project's plan will go through a revision process to identify any modifications that are required.</li>
+    <li>Within the limitations of the project, the updated strategy will be realistic and attainable.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The lack of a clear grasp of the project's objectives and specifications by the project team may cause confusion or misunderstandings during the revision process.</li>
+    <li>There could be additional delays or difficulties if the revision process does not identify all necessary alterations and revisions to the project's plan.</li>
+    <li>The project's limits may prevent the new plan from being practical or achievable, which could lead to irrational expectations or project failure.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Before starting the revision process, make sure the project team is fully aware of the objectives and specifications of the project.</li>
+    <li>To identify any required alterations and modifications to the project's plan, use a thorough review procedure that includes all project team members.</li>
+    <li>To ensure reasonable expectations and successful completion, periodically evaluate the amended plan's viability and attainability.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <ul>
+    <li>
+      <a href="https://asiapacificcollege.sharepoint.com/:w:/s/SCSPROJSS201SF201T2AY2022-2023/EWU76HQufhJDhAKfV7MO374Bxd6CqIqO3T9sRvb1Xv-Nbg?e=xaTsjF">Improvement Matrix</a>
+    </li>
+  </ul>
+
+  <h2>WBS: 1.3.9</h2>
+  <h3>Work Package: Development of Manage Accounts Function</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: This work package entails creating a new project feature that enables users to manage their accounts and personal data.</p>
+  <p>Completion State: The "manage accounts" capability that enables users to view and amend their account details and satisfies the needs of all stakeholders is the work package's completed state. Before it is made available to users, the function has undergone extensive testing and has had any flaws fixed.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team is equipped with the abilities and information needed to develop account management features. There won't be any substantial technological setbacks or delays in the development process.</li>
+    <li>The current project may quickly and without any major problems include the new function.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project team might not have the necessary skills or experience to develop account management services, which would cause delays or insufficient functionality.</li>
+    <li>Major technical challenges or delays during the development process could cause further complexities or project collapse.</li>
+    <li>The old project may not be able to incorporate the new feature perfectly, which could cause user misunderstanding or functional mistakes.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team has the skills and knowledge required for creating account management services or look for more training or assistance.</li>
+    <li>Make a thorough plan for the development process, account for any potential technological issues, and have backup plans ready.</li>
+    <li>To avoid misunderstandings or mistakes, thoroughly test the new function before integrating it and give users explicit instructions.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.3.10</h2>
+  <h3>Work Package: Development of Select Vendor Function</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: This work package entails creating a new project feature that enables customers to choose a vendor for their goods or services.</p>
+  <p>Completion State: The "select vendor" function that enables customers to explore and choose vendors for their orders and satisfies the needs of all stakeholders is the work package's finished state. Before it was made available to users, the function has undergone extensive testing and has had any flaws fixed.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team has the necessary skills and experience to develop vendor selection functions.</li>
+    <li>The development process won't encounter any significant technological issues or delays.</li>
+    <li>Users will have a quick and easy approach to choose vendors thanks to the new function.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project team might not have the necessary skills or experience to develop vendor selection functionalities quickly or with suitable functionality.</li>
+    <li>Major technical challenges or delays during the development process could cause further complexities or project collapse.</li>
+    <li>The new feature might not offer customers an efficient or effective means to choose vendors, which might cause user resentment or discourage uptake.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Ensure that the project team has the necessary knowledge and expertise in the development of vendor selection functions or seek additional training or support.</li>
+    <li>Develop a thorough plan for the development process and anticipate potential technical difficulties, with contingency plans in place.</li>
+    <li>Conduct user testing and gather feedback to ensure that the new function provides an efficient and effective way for users to select vendors.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.3.11</h2>
+  <h3>Work Package: Development of Manage Profile Function</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: The creation of a new project function that will enable users to manage their profile data and preferences is part of this work package.</p>
+  <p>Completion State: The "manage profile" capability that enables users to view and amend their profile details and satisfies the needs of all stakeholders is the work package's finished product. Before it is made available to users, the function has undergone extensive testing and had any flaws fixed.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team has the necessary skills and understanding to create profile management functions.</li>
+    <li>The development process won't encounter any significant technological issues or delays.</li>
+    <li>The new feature will be simple to use and give consumers an effective way to manage their personal data.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project team might not have the necessary skills or experience to develop profile management services quickly or with the functionality they need.</li>
+    <li>Major technical challenges or delays during the development process could cause further complexities or project collapse.</li>
+    <li>The new feature might not be intuitive or offer an effective mechanism for users to control their profile information, which could cause user annoyance or discourage uptake.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team has the skills and knowledge required for creating profile management services or look for further training or assistance.</li>
+    <li>Make a thorough plan for the development process, account for any potential technological issues, and have backup plans ready.</li>
+    <li>To make sure the new feature is user-friendly and offers users a productive way to manage their profile information, do user testing and collect feedback.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.3.12</h2>
+  <h3>Work Package: Development of Manage Order Function</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: The creation of a new project function that will enable users to manage their orders and view order history is part of this work package.</p>
+  <p>Completion State: The "manage order" capability that enables users to view and amend their orders and satisfies the needs of all stakeholders is the work package's completed state. Before it is made available to users, the function has undergone extensive testing and had any flaws fixed.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team has the necessary skills and knowledge to create order management functions.</li>
+    <li>The development process won't encounter any significant technological issues or delays.</li>
+    <li>The new feature will give consumers a quick and easy method to manage their orders and view order history.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The creation of order management functions may be delayed or have insufficient functionality if the project team does not have the necessary knowledge or experience.</li>
+    <li>Major technical challenges or delays during the development process could cause further complexities or project collapse.</li>
+    <li>Users may become frustrated or fail to accept the new function if it does not offer an effective or efficient way for them to manage their orders and view order history.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team has the skills and knowledge required for creating order management features or seek out further training.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+  <h2>WBS: 1.3.13</h2>
+  <h3>Work Package: Development of Manage Reports Function</h3>
+  <p>Package Owner: Corneliani Jon Melo</p>
+  <p>Owner Organization: Coderist</p>
+  <p>Participants: Nathan Allen Sinaguinan, Jamir Sia, Isiah Jade Tutor</p>
+  <p>Description: The creation of a new project function that will enable users to manage reports and derive insights from their data is part of this work package.</p>
+  <p>Completion State: The "manage reports" function, which enables administrators to create and view reports about the performance of the website, is the work package's finished product and satisfies the needs of all stakeholders. Administrators can use the function to offer accurate and pertinent data, and it is secure and only accessible to authorized individuals.</p>
+  
+  <h3>Assumptions:</h3>
+  <ul>
+    <li>The project team has the necessary skills and knowledge to develop report management functions.</li>
+    <li>The development process won't encounter any significant technological issues or delays.</li>
+    <li>Users will have a quick and easy approach to manage reports and provide insights thanks to the new function.</li>
+  </ul>
+  
+  <h3>Risks:</h3>
+  <ul>
+    <li>The project team has the necessary skills and knowledge to develop report management functions.</li>
+    <li>The development process won't encounter any significant technological issues or delays.</li>
+    <li>Users will have a quick and easy approach to manage reports and provide insights thanks to the new function.</li>
+  </ul>
+  
+  <h3>Risk Mitigation:</h3>
+  <ul>
+    <li>Make sure the project team has the skills and knowledge required for creating report management functions, or look for further training or assistance.</li>
+    <li>Make a thorough plan for the development process, account for any potential technological issues, and have backup plans ready.</li>
+    <li>Conduct user testing and feedback gathering to verify that the new feature gives users a quick and easy way to manage reports and generate insights.</li>
+  </ul>
+  
+  <h3>Budget:</h3>
+  <p>N/A</p>
+  
+  <h3>Reference Docs:</h3>
+  <p>N/A</p>
+
+
+  
+  
+  
+  
