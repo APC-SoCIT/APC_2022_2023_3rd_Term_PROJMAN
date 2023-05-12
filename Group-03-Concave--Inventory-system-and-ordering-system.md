@@ -369,5 +369,31 @@ As stated in the previous part the WBS will be used to structure the project and
 <p align=" justify">
 Any changes in the schedule must be done by the project manager and scheduler and must be approved by the project adviser and the acceptable threshold of 10% will be implemented. These are the rules that the group needs to follow to change anything in the schedule, these rules will help the group be more disciplined and follow the schedule as it is difficult to change, and the threshold is put to discourage “Procrastination” as the 10% threshold does not give too much time unless the member assigned is almost done with their part. Any scheduling changes must have proper reasoning as just being “lazy” or as stated before the habit of  “procrastinating” will not be accepted. 
 
+<h1>COST MANAGEMENT PLAN</h1>
+<p align=" justify">
+<h5>Introduction</h5>
+<p align=" justify">
+
+<h5>COST MANAGEMENT APPROACH</h5>
+<p align="justify">
+A cost management approach for an inventory and ordering system would involve a set of practices and procedures designed to optimize inventory levels, reduce costs associated with ordering, and improve overall efficiency. Here are some key steps you would take to develop a cost management approach for an inventory and ordering system:
+
+1.Analyze inventory levels: Start by reviewing your current inventory levels and identifying any excess or obsolete inventory. This will help you determine the optimal inventory levels for your business.
+
+2.Forecast demand: Use historical sales data and market trends to forecast demand for your products. This will help you order the right amount of inventory at the right time, avoiding stockouts and excess inventory.
+
+3.Set reorder points: Establish reorder points for each product based on demand forecasts and lead times. This will help you know when to reorder to avoid stockouts and minimize the need for rush orders.
+
+4.Evaluate suppliers: Review your supplier relationships and negotiate better pricing and terms where possible. Consider consolidating orders with fewer suppliers to reduce administrative costs.
+
+5.Implement inventory tracking: Implement an inventory tracking system to monitor inventory levels and ensure accuracy. This will help you identify potential issues such as overstocking or stockouts.
+
+6.Use technology: Consider implementing technology such as automated ordering systems
+
+7.Continuously monitor and adjust: Continuously monitor your inventory and ordering processes and make adjustments as needed to improve efficiency and reduce costs.
+
+By following these steps, we can develop a cost management approach for our inventory and ordering system that helps us optimize inventory levels, reduce costs, and improve efficiency.
+
+
 
 
