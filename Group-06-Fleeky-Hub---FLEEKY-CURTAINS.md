@@ -64,6 +64,10 @@
 <p><strong>Brief Background:</strong></p>
 <p>Fleeky Curtains is an online business shop that provides comfort, joy, and warm satisfaction to customers with their curtain needs. It is established in 2021 and currently residing their operations and manufacturing at the local household where expertise and experience comes hand-in-hand, to strengthen the business in catering services and products directly to the client/s need. The business also strives to position themselves in the competition by providing top-notch services, products, and purchase experience to the consumers at all consumers.  Fleeky Curtains also aims to grow their market share on home product industry by observing and adapting to the behavior of a consumer. The traits of Fleeky Curtains are reflected based on the observable morale and qualities the leading members have. They also aim to strictly perform strong qualities on a product to be used by the public.</p>
 
+
+
+
+
 =Business Case=
 <h2>Executive Summary</h2>
 
@@ -341,6 +345,12 @@ The website will be able to recruit and keep a strong team of web developers, de
 
 <p>The project approval should come from the owner of the business and project sponsor, Mitzi Garcia, as well as the Project manager and co-owner Neil Albert Garcia.</p>
 
+
+
+
+
+
+
 =Project Charter=
 <h2>Executive Summary</h2>
 <p>The pandemic has caused businesses to adapt quickly, using social media platforms such as Facebook and e-commerce platforms to sell their products. Fleeky Curtains is an independent family business that provides curtain products. They operate the business at the local household and book a courier to pick up the item and deliver the item to the customer. They aim to grow their market share in the home product industry by observing and adapting to the behavior of the consumers. The employees in the business consist of the members of the family where they take charge of the sewing, assemble the packaging, the messages at Facebook, Shopee inquiries, product inspection, and one that list and encode transactions and customer information. Despite having a limited number of employees, the business wishes to accomplish tasks at an efficient rate due to the lack of workforce/person. The most important details in this text are the production time, packaging time, encoding time, number of products and raw materials, inquiries, available products, expanding the potential clients, and the staff. Fleeky Curtains mentioned that when there is no assistant, the staff finishes the tasks behind time, and that handling and assembling the packaging of one customer order takes 25 minutes of their time. Additionally, the staff must cope with their sleep and roles at work or school, and they must adapt to the market. Fleeky Curtains is an e-commerce company that uses a variety of materials to produce their products. Raw materials such as fabrics, threads, grommet, and curtain rings are used to build a finish product, and packaging materials such as bubble wrap are used to cover the products. Spending activities are traced and recorded within an Excel sheet, and customer data is stored in an Excel sheet. Customer data helps them to identify customer behavior and consumerism, and user experience is most observed when presented with convenience. They have gained knowledgeable feedback and experience revolving to their current system and workflows. Spotlight interviewed one of the admins that handle Fleeky Curtains, Mr. Neil Albert Garcia, to discuss their pain points when it comes to handling their business. These include fees and expenses to the e-commerce platform, poor delivery system, manual encoding of customer details, raw materials and on-hand stocks not documented and audited, finding ways to expand their clients and markets, and manual reports and tracing the performance of the business. These inputs will help align the project with the client's needs and interests. </p>
@@ -607,6 +617,12 @@ Technical limits: Fleeky Curtains may suffer technological constraints such as r
 
 <p>Other from defining project roles and duties, Neil Garcia will also need to set project goals and timetables, assign resources, track progress, identify risks and concerns, provide quality control, manage the project budget, interact with stakeholders, and gather feedback. He will also need to ask for comments, handle any difficulties or concerns, and give frequent updates on the project's development. Furthermore, Neil Garcia would be the strength of the project since he knows how the business works and what the business needs whilst developing the said project.</p>
 
+
+
+
+
+
+
 =Stakeholder Strategy Management Plan=
 
 <h2>Purpose</h2>
@@ -657,8 +673,13 @@ Government: Fleeky Hub must adhere to local laws and regulations, and its operat
 </ul>
 
 
-=Scope Management Plan=
 
+
+
+
+
+
+=Scope Management Plan=
 
 <h2>Introduction</h2>
 
@@ -1083,7 +1104,69 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 
 <h2> Scope Control </h2>
 
-<p></p>
+<p>Project Name: Fleeky Hub: Website Development Project <br>
+Project Manager: Pallas Dale Fontiveros <br>
+<p>Scope Control Document</p>
+
+<p>1.0 Purpose</p>
+<p>This document's goal is to outline the scope control procedure for the project to develop the Fleeky Curtains website. </p>
+
+<p>2.0 Scope Baseline</p>
+<p>The project charter, project management plan, and other project paperwork all provide information on the project's scope baseline. The change control procedure must be followed to authorize any modifications to the project's scope. </p>
+
+<p>3.0 Scope Control Process</p>
+<p>The following phases make up the scope control procedure for the Fleeky Curtains website development project: </p>
+
+<p>3.1 Monitor the Project Scope</p> 
+<p>The project team will keep an eye on the project scope throughout the whole project lifespan to make sure it stays in line with the project goals and organizational requirements. The project manager is in charge of keeping an eye on the project's scope and making any required updates to the project documents. </p>
+
+<p>3.2 Verify Scope </p>
+<p>After each project phase or milestone is finished, the project team will confirm the project's scope. To make sure the finished work satisfies the project's criteria, deliverables, and objectives, the project manager will examine it. </p>
+
+<p>3.3 Control Scope </p>
+<p>The change control procedure must be followed in order to authorize any modifications to the project's scope. Any suggested modifications to the project scope will be identified and assessed by the project team, and the project manager will examine and either accept or reject the change request. All project stakeholders will be informed of approved changes, which will then be recorded in the project documentation. </p>
+
+<p>4.0 Scope Control Roles and Responsibilities </p>
+<p>The scope control process involves the roles and tasks listed below: </p>
+<ul>
+<li>
+Project manager: accountable for overseeing, validating, and managing the project's scope. 
+</li>
+<li>
+The project team: is in charge of locating and assessing any suggested modifications to the project's scope. 
+</li>
+<li>
+The project sponsor is in charge of authorizing any scope adjustments. 
+</li>
+</ul>
+ 
+<p>5.0 Scope Control Change Request Form </p>
+<p>The change control procedure must be followed in order to authorize any modifications to the project's scope. The scope control change request form has to contain the following details: </p>
+<ul>
+<li>
+Modify the description 
+</li>
+<li>
+The change's motivation 
+</li>
+<li>
+Effect on project deliverables, needs, and objectives 
+</li>
+<li>
+A suggested solution 
+</li>
+<li>
+Estimated impact on costs and timeline 
+</li>
+<li>
+Signed authorizations 
+</li>
+</ul>
+
+
+
+
+
 
 
 <h1>Cost Management Plan</h1>
@@ -1258,8 +1341,6 @@ The domain name and hosting for the website is to be subscribed to Linode for tw
 </li>
 </ul>
 
-
-
 <h2>Cost Variance Response Process</h2>
 
 <p>The Cost Variance Response process for ADENICSY project will be as follows:</p>
@@ -1280,15 +1361,15 @@ The domain name and hosting for the website is to be subscribed to Linode for tw
  - The project manager will give the project sponsor a presentation on the possibilities for remedial action.<br>
  - The choices will depend on the underlying reason for the deviation and how it affects the project's scope and timeline.</p>
 
-<p>Approval of Corrective Action:<br>
+<p>5. Approval of Corrective Action:<br>
  - After considering the available choices, the project sponsor will decide on a course of action to get the project back on track.<br>
  - This can entail raising the budget, lowering the scope or quality, or taking other remedial measures.</p>
 
-<p>Implementation of Corrective Action:<br>
+<p>6. Implementation of Corrective Action:<br>
  - The project manager will put the agreed corrective action into practice and keep an eye on the outcomes.<br>
  - The project manager will also make the necessary updates to the budget and timeline.</p>
 
-<p>Reporting:<br>
+<p>7. Reporting:<br>
  - In the monthly project status report, the project manager will note any cost variances, remedial actions performed, and their outcomes.<br>
  - The project manager will also give updates on the budget and timeline for the project.</p>
 
@@ -1460,6 +1541,12 @@ The domain name and hosting for the website is to be subscribed to Linode for tw
 <h2>Scope Change</h2>
 
 <p>In this section of the paper, as the team proceeds with the changes, they must first recognize the effects and impact it can and will make the the current project schedule and resources. The team must also consider the current project schedule and how the scope change will affect the schedules and availability of resources when the project moves forward.</p>
+
+
+
+
+
+
 
 
 =Work Breakdown Structure=
