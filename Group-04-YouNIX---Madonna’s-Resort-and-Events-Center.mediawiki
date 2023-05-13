@@ -369,9 +369,9 @@ Multiple reasons for not selecting this option are that it is free but have limi
 <p>Table 1 shows the team of professionals who will work on creating the scope and their respective roles on the project: </p>
 
 ==Scope Definition==
-<p>The scope of this project includes developing a single system that combines multiple functionalities for the different user that Apelo Dental Clinic have. The system will consist of functionalities such as managing the queue to facilitate patients in obtaining a number more conveniently, accessing and securely storing patient information, and a dashboard to keep track of the clinic's overall progress. With the integration of these features, the system will streamline the clinic's operations and provide a better experience for patients, making it an essential tool for Apelo Dental Clinic's daily activities.<br>
+<p>Madonna's Web will accomplish developing a website that integrates reservation system and other website elements that will be promoted online. Where the customer can easily reserve a cottage and other amenities for the day of their reservation with the aid of the online booking system. By including a monthly sales report for the resort and digitizing it so that management can quickly examine their profit and track the days and weekly sales of Madonna's Resort, the developers will also add analytics to the project to sort documents.<br>
 <br>
-The system will incorporate a dentists schedule, which will regulate the display of the maximum number of appointments available for daily operations.</p>
+</p>
 
 ==Project Scope Statement==
 <p>The project scope statement for the Apelo Dental Clinic System project will detail the project`s deliverables and the work necessary to create these deliverables. </p>
@@ -380,22 +380,12 @@ The system will incorporate a dentists schedule, which will regulate the display
 <p>The Apelo Dental Clinic System is a web-based application that enables employees of the clinic to handle patient details such as personal information, medical records, and payment records, as well as oversee the queuing system digitally. This system is designed to safeguard information against losing or mishandling patient details, while also enhancing the patient experience by streamlining the appointment scheduling process. The system will consist of features such as a dentist calendar to provide visibility into the availability of the numbers on a given day, as well as a dashboard to assist the administrator in monitoring the clinic's overall performance.</p>
 
 <p><b>Product Acceptance Criteria:</b></p>
-<p>The Apelo Dental Clinic System will be considered complete and accepted by the customer when it meets the following criteria: </p>
-<ol>
-  <li>Every feature and capability indicated in the project's scope statement has been created and assessed using the test scenarios established by the Quality Assurance Associate.</li>
-  <li>The system has been successfully deployed in Apelo Dental Clinic. </li>
-  <li>Users have given positive feedback on the system during the UAT (User Acceptance Testing) phase.</li>
-  <li>Comprehensive documentation has been prepared for the system, and user manuals have been produced.</li>
-</ol>
+<p>The researchers created a functioning system that incorporates a reservation system and enables customers to quickly book a cottage or other amenities online. will be used by the programmers to build an interactive and user-friendly website that will be advantageous to both the client and the company.  </p>
+
 
 <p><b>Project Deliverables: </b></p>
-<p>The following list of deliverables will be provided upon successful completion of the project:</p>
-<ol>
-  <li>Fully functioning Apelo Dental Clinic System </li>
-  <li>User Manual and training materials </li>
-  <li>Technical documentation </li>
-  <li>Providing additional outputs as outlined in the Project Scope Statement and approved by the Project Sponsor. </li>
-</ol>
+<p>The integrated website that will help the Madonna’s reservation which will make it easier to record and make a statement of schedule of the user. Then it will record the customer information to make an appointment. So, after Madonna’s Website is done the code will be processed which helps define the system and understand how it works and the researchers will pass it to the client once it is done. </p>
+
 
 <p><b>Project Exclusions: </b></p>
 <p>The following tasks are beyond the scope of this project and will not be included:</p>
