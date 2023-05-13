@@ -1179,20 +1179,120 @@ Reporting and communication: Regular cost reports will be prepared and shared wi
 
 <p>= Total labor cost of TESTING WBS x Percentage of completion</p>
 
-<p>= (PHP 300,000) x 33.71%</p>
+<p>= (PHP 25,000) x 33.71%</p>
 
-<p>= PHP 101,130</p>
+<p>= PHP 8,427.50</p>
 
-<p>Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 101,130</p>
+<p>Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 8,427.50</p>
 
 
 <h2>Reporting Format</h2>
 
 <p>Reporting for cost management will be included in the monthly project status report. The Monthly Project Status Report will include a section labeled, “Cost Management”. This section will contain the Earned Value Metrics identified in the previous section. All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned. Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report.</p>
 
+<table border="1" align="center">
+  <thead>
+    <tr>
+      <th>Project Name:</th>
+      <th>Website Development for Fleeky Curtains (Fleeky Hub)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Reporting Period:</td>
+      <td>Q1 2023</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table border="1" align="center">
+  <thead>
+    <tr>
+      <th>Cost Category</th>
+      <th>Budgeted Amount</th>
+      <th>Actual Amount</th>
+      <th>Variance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Domain Name</td>
+      <td>₱2,000</td>
+      <td>₱100</td>
+      <td>₱1,900</td>
+    </tr>
+    <tr>
+      <td>Hosting</td>
+      <td>₱2,000</td>
+      <td>₱100</td>
+      <td>₱1,900</td>
+    </tr>
+    <tr>
+      <td>Website Design</td>
+      <td>₱5,000</td>
+      <td>₱1,000</td>
+      <td>₱4,000</td>
+    </tr>
+    <tr>
+      <td>Testing and Debug</td>
+      <td>₱500</td>
+      <td>₱1,000</td>
+      <td>₱500</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>₱9,500</td>
+      <td>₱2,200</td>
+      <td>₱8,300</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+<li>
+The budgeted amount for the website development is higher than the actual amount just to be safe whenever possible improvement or modification will be added.
+</li>
+<li>
+The domain name and hosting for the website is to be subscribed to Linode for two dollars per month and we increased the allotted budget for the whole year.
+</li>
+</ul>
+
+
+
 <h2>Cost Variance Response Process</h2>
 
-<p>The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2. If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required. The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported. Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan. The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured. Upon acceptance of the Cost Variance Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions.</p>
+<p>The Cost Variance Response process for ADENICSY project will be as follows:</p>
+<p>1. Control Thresholds:<br>
+ - Several control criteria for cost variation will be specified for the project.<br>
+ - These limits will be 3%, 7%, and 10% of the project's overall budget.<br>
+ - The project will be deemed to have a cost variance if any of these criteria are reached.</p>
+
+<p>2. Identification of Variance:<br>
+ - The Project Manager oversees locating any cost variations and informing the Project Sponsor about them.<br>
+ - To find and monitor any variations, the project manager will make use of earned value metrics and other cost management tools.</p>
+
+<p>3. Analysis of Variance:<br>
+ - To pinpoint the source of the issue and provide choices for remedial action, the project manager will examine the deviation.<br>
+ - The project manager will also take into account how the deviation may affect the project's scope and timeline.</p>
+
+<p>4. Presentation of Options:<br>
+ - The project manager will give the project sponsor a presentation on the possibilities for remedial action.<br>
+ - The choices will depend on the underlying reason for the deviation and how it affects the project's scope and timeline.</p>
+
+<p>Approval of Corrective Action:<br>
+ - After considering the available choices, the project sponsor will decide on a course of action to get the project back on track.<br>
+ - This can entail raising the budget, lowering the scope or quality, or taking other remedial measures.</p>
+
+<p>Implementation of Corrective Action:<br>
+ - The project manager will put the agreed corrective action into practice and keep an eye on the outcomes.<br>
+ - The project manager will also make the necessary updates to the budget and timeline.</p>
+
+<p>Reporting:<br>
+ - In the monthly project status report, the project manager will note any cost variances, remedial actions performed, and their outcomes.<br>
+ - The project manager will also give updates on the budget and timeline for the project.</p>
+
+<p>Throughout the course of the project, the Cost Variance Response procedure will be active. The Project Sponsor will oversee authorizing any necessary remedial steps, while the Project Manager will be in charge of monitoring and regulating the project expenditures.</p>
 
 <h2>Cost Change Control Process</h2>
 
