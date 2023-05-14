@@ -518,7 +518,7 @@ The scope control process for the Apelo Dental Clinic System project will involv
 
 =Cost Management Plan=
 ==Introduction==
-<p>The Cost Management Plan for Apelo Dental Clinic System (ADENICSY) project is designed to ensure that all costs associated with the project are effectively managed throughout its lifecycle. The plan outlines the format and standards by which the project costs will be measured, reported, and controlled.
+<p>The Cost Management Plan of Madonna’s Web: A Reservation Website for Madonna’s and Events Place is to track the cost of the following expenses throughout the months of making the project. The costing sets the format and standards by which the project costs are measured, reported, and controlled.   
 
 <br><br>Cost management responsibilities:
 
@@ -529,8 +529,9 @@ The scope control process for the Apelo Dental Clinic System project will involv
 
 Cost change approval:
 <ul>
-  <li>All cost changes must be approved by the Project Manager before they are implemented.</li>
-  <li>If the cost change exceeds 10% of the total project budget, it must be approved by the Project Sponsor before it can be implemented.</li>
+  <li>The following changes to the cost management should be approved by the Project Manager before they adjust and implement the costing. 
+ </li>
+  <li>If the costing change or exceed the budget it is a must to consult and must approved by the Project Sponsor before implemented.</li>
 </ul>
 
 Cost measurement and reporting:
@@ -546,7 +547,7 @@ Budget format and standards:
   <li>The budget will be updated on a monthly basis, with any changes clearly highlighted.</li>
 </ul>
 
-<p>Overall, the Cost Management Plan for ADENICSY project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.
+<p>Overall, the Cost Management Plan for Madonna's Web project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.
 
 ==Cost Management Approach==
 <p>The cost management approach for the dispatch directory system project will be based on the following principles:
@@ -584,20 +585,14 @@ g.	Reporting and communication:
 <p>By following these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
 
 ==Measuring Project Cost==
-<p>The Cost Management Plan for ADENICSY project will include a detailed approach for measuring project costs using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:</p>
+<p>The Cost Management Plan for Madonna's Web project will include a detailed approach for measuring project costs using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:</p>
 
 <p>
 1. Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) - This measures the budgeted costs of the work that was planned to be completed at a specific point in time.
 </p>
 
 <p>
-Example:<br>
 
-To calculate the BCWS or Planned Value, we need to multiply the total labor cost of the TESTING WBS by its percentage of completion:<br>
-
-BCWS = Total labor cost of TESTING WBS x Percentage of completion<br>
-= (PHP 300,000) x 33.71%<br>
-= PHP 101,130<br><br>
 
 Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 101,130.
 <p>
