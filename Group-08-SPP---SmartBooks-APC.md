@@ -329,7 +329,11 @@ The team will classify each stakeholder when they have been identified based on 
 
 ## Key Stakeholders
 
+The key stakeholders for the SmartBooks project have been identified as Mr. Jojo Castillo, the sponsor, and the Asia Pacific College Library. Mr. Castillo is a key stakeholder due to his role as the project sponsor and his authority to provide necessary resources and support for the project. The Asia Pacific College Library is a key stakeholder due to their direct involvement in the project and their potential to be most affected by the project's outcomes. As the primary beneficiary of the project, it is important to ensure that their needs and requirements are met throughout the project's lifecycle. Additionally, their feedback and involvement will be crucial to the success of the project. Effective communication and management with these key stakeholders will be necessary to ensure their support and buy-in for the project.
 
+## Stakeholder Analysis
+
+The stakeholder analysis of SmartBooks involves categorizing and grouping the identified stakeholders based on their level of power, influence, and involvement in the project. Key stakeholders have been identified as Mr. Jojo Castillo, the Asia Pacific College Library, and other stakeholders such as faculty members, students, and staff. The project team will use tools and techniques such as stakeholder mapping and prioritization to analyze and quantify the stakeholders. The analysis will help the team identify potential issues and opportunities, anticipate resistance or competing objectives, and determine the appropriate level of communication and engagement with each stakeholder.
 
 
 
