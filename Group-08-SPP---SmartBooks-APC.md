@@ -313,5 +313,24 @@ Co-Manager: Marc Shane Rowy
 Responsibility: The Project Manager is responsible for planning, executing, and closing the project within the defined budget, timeline, and scope. The Project Manager will also be responsible for managing the project team, ensuring all tasks are completed on time, and communicating with stakeholders.
 
 Authority Level: The Project Manager will have the authority to manage project personnel, allocate resources, and make decisions related to project scope and schedule changes. Any major changes to the project budget or scope will require approval from the project sponsor.
- 
+***
+
+# Stakeholder Management Strategy
+
+## Introduction
+
+Stakeholder management must be done effectively for any project to succeed. Among them is the program SmartBooks, whose objective is to increase the library's acquisition and utilization of printed books and eBooks. To ensure that the project is completed on schedule, within budget, and to everyone's satisfaction, a comprehensive stakeholder management strategy must be developed. The strategy's primary goals are to identify all stakeholders, analyze their interests, and decide how much communication and engagement is necessary to keep them informed and involved throughout the project's lifespan. With the aid of this strategy, we seek to lessen stakeholder opposition, disagreement, and conflict resulting from competing agendas and instead foster a supportive environment that will aid in the successful deployment of SmartBooks.
+
+## Identify Stakeholders 
+
+To effectively manage stakeholders for the SmartBooks project, the project team will use a systematic approach to identify all relevant stakeholders and their specific roles in the project. 
+The team will use a combination of techniques to identify additional stakeholders, including reviewing project documentation, conducting interviews with key personnel, and analyzing organizational charts. It is important to note that stakeholders are not limited to those directly involved in the project but may also include those indirectly impacted by the project, such as customers or suppliers.
+The team will classify each stakeholder when they have been identified based on their level of impact, interest, and influence on the project. The team will be able to prioritize their interactions with stakeholders thanks to this classification and modify their communication and engagement plans in accordance with their unique requirements and preferences. The project team can guarantee that the project is finished on schedule, within budget, and to the satisfaction of all stakeholders by properly identifying and managing stakeholders.
+
+## Key Stakeholders
+
+
+
+
+
 
