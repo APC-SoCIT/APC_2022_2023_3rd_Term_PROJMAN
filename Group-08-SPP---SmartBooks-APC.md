@@ -249,7 +249,7 @@ The following are a list of assumptions.  Upon agreement and signature of this d
 
 Through the implementation of a system that monitors usage patterns and makes recommendations for purchasing choices based on data, the SmartBooks Utilization project seeks to increase the use of books and ebooks in the library at Asia Pacific College. The project will involve creating and putting into use a software system that will enable library personnel to gather information on borrowing patterns, spot materials that are in high demand, and make more informed purchasing decisions. The project's scope comprises the creation of the software system, instruction in its use for library staff members, and incorporation into the library's current workflows.The completion of the project will be marked by the successful implementation of the system and the ability of the library to use the system to make more efficient purchasing decisions.
 
-# Risks 
+## Risks 
 
 These high-level risks should be monitored and managed throughout the project to minimize their impact on the project's success.
 
@@ -258,7 +258,7 @@ These high-level risks should be monitored and managed throughout the project to
 * Data quality risks: Factors like missing or obsolete data, human mistake, or technical issues may affect the accuracy and dependability of the data collected on borrowing and usage habits, which may result in wrong or inadequate purchase decisions.
 * Budget and timeline risks: Due to unanticipated difficulties, delays, or scope creep, the project may go above its allotted spending limit or completion date.
 
-# Project Deliverables 
+## Project Deliverables 
 
 The following deliverables must be met upon the successful completion of the SmartBooks Project.  Any changes to these deliverables must be approved by the project sponsor.
 
@@ -267,8 +267,36 @@ The following deliverables must be met upon the successful completion of the Sma
 1. **Updated Collection Development Policy:** The policy will be updated to reflect the new system for tracking usage patterns of books and ebooks, ensuring that purchasing decisions align with the needs of the students and the college.
 1. **Procurement Plan: **The procurement plan will outline the process for purchasing new books and ebooks, including how to evaluate usage patterns and determine which materials to acquire.
 
-# Summary Milestones Schedule
+## Summary Milestones Schedule
 
 The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
 
+![summaryMilestone](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/70191087/b0d3c079-ae58-4ac5-869b-33a02a6ee55a)
+
+## Summary Budget
+
+A summary budget based on the expected expenses needed to successfully complete the project and planned cost components is shown in the table below.
+
+![SummaryBudget](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/70191087/c64f2119-05fe-40ae-8e44-f6d0bebc1be7)
+
+## Project Approval Requirements 
+The approval requirements for the SmartBooks Utilization project are as follows:
+
+1. Final approval of the project charter by the project sponsor
+1. Approval of the project plan by the project sponsor and stakeholders
+1. Approval of any changes to the project scope, schedule, or budget by the project sponsor and stakeholders
+1. Completion and approval of all project deliverables by the project sponsor and stakeholders
+1. Successful testing and acceptance of the system by library staff
+1. Approval of the project closeout report by the project sponsor and stakeholders
+1. Sign-off by the project sponsor indicating that all project objectives and success criteria have been met and that the project is complete.
+
+## Project Manager
+
+Name: Sim Paul Palacio
+Co-Manager: Marc Shane Rowy
+
+Responsibility: The Project Manager is responsible for planning, executing, and closing the project within the defined budget, timeline, and scope. The Project Manager will also be responsible for managing the project team, ensuring all tasks are completed on time, and communicating with stakeholders.
+
+Authority Level: The Project Manager will have the authority to manage project personnel, allocate resources, and make decisions related to project scope and schedule changes. Any major changes to the project budget or scope will require approval from the project sponsor.
+ 
 
