@@ -134,7 +134,7 @@ The proposed initiative, which intends to enhance the collection's acquisition a
 
 **How the Project Supports the Strategic Plan:** By optimizing book and ebook acquisition and utilization in the Asia Pacific College Library, the proposed project will introduce new cost-saving measures by helping library staff make more informed decisions about book and ebook acquisitions. By reducing unnecessary purchases and optimizing the library's collection, the organization will be able to save money while still providing students with the materials they need to succeed academically. This, in turn, will support the organization's goal of increasing revenue and financial stability.
 
-# Cost Benefit Analysis
+## Cost Benefit Analysis
 
 Costs:
 * Library management system: ₱200,000
@@ -182,8 +182,9 @@ After considering these alternatives, the SmartBooks project was selected as the
 The executive review board will be given the opportunity to approve the business case for the SmartBooks initiative. The executive review board is in charge of assessing the project's viability, dangers, and advantages before choosing whether to accept or reject the proposal. The project's possible alignment with the organization's strategic goals, as well as any potential effects on resources and finances, will be carefully considered by the board members after they have read the business case. If the proposal is accepted by the board, project planning and execution can begin. If the proposal is turned down, the project will not move further and substitute solutions will be taken into account.
 
 ***
+# Project Charter Plan
 
-# Executive Summary
+## Executive Summary
 The organization's library resources will be used and used more effectively as a result of the SmartBooks utilization initiative. The goal of the project is to increase employee access to pertinent books and resources that can aid them in their work while addressing the issue of low library book usage.
 
 The project will involve the implementation of an automated library management system that will make it easier for employees to locate and borrow books. This system will also help in tracking the usage of books, identifying popular titles, and improving the overall management of the library.
@@ -194,7 +195,7 @@ The project will have a projected budget of ₱280,000,.which will cover the cos
 
 Overall, the SmartBooks project will improve the availability and accessibility of resources for employees, leading to increased efficiency and productivity in the organization.
 
-# Project Purpose / Justification
+## Project Purpose / Justification
 ### Business Need / Case 
 
 The library at Asia Pacific College spends a lot of money each year buying books and ebooks for its users. The library staff struggles to make educated purchase selections due to a lack of information on these products' usage trends. The library may choose materials to buy more intelligently and save money by creating a system to track the consumption patterns of books and ebooks. This will also boost student happiness.
@@ -213,7 +214,7 @@ These objectives align with Asia Pacific College's strategic plan to provide hig
 * Improve student satisfaction by providing them with access to a wider range of relevant books and ebooks, leading to increased academic success and retention.
 * Reduce the library's expenditure by avoiding the purchase of materials that are not frequently used, resulting in cost savings that can be allocated to other areas of the institution.
 
-# Project Description
+## Project Description
 
 The Smartbooks Utilization project aims to improve the purchasing decisions of Asia Pacific College's library by implementing a system to track the usage patterns of books and eBooks. The project involves the development of a data analytics tool that will allow the library staff to identify which materials are frequently borrowed by students and make informed decisions about which books and eBooks to purchase in the future. The system will also provide recommendations for new titles that are similar to those that are already popular, leading to the development of a more diverse collection of books and eBooks. 
 The project is intended to result in cost savings by avoiding the purchase of materials that are not frequently used, process improvement by streamlining the purchasing process, and increased student satisfaction by providing them with access to a wider range of relevant materials. Ultimately, the project aims to support the strategic goals of Asia Pacific College by improving the quality of education provided to students and managing resources effectively.
@@ -315,7 +316,7 @@ Responsibility: The Project Manager is responsible for planning, executing, and 
 Authority Level: The Project Manager will have the authority to manage project personnel, allocate resources, and make decisions related to project scope and schedule changes. Any major changes to the project budget or scope will require approval from the project sponsor.
 ***
 
-# Stakeholder Management Strategy
+# Stakeholder Management Strategy Plan
 
 ## Introduction
 
