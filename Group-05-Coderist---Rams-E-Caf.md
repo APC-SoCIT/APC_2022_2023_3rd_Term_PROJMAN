@@ -481,282 +481,158 @@ Scope verification is a critical process in project management that ensures that
 
 =Cost Management Plan=
 ==Introduction==
-<p>The Cost Management Plan for Apelo Dental Clinic System (ADENICSY) project is designed to ensure that all costs associated with the project are effectively managed throughout its lifecycle. The plan outlines the format and standards by which the project costs will be measured, reported, and controlled.
-
-<br><br>Cost management responsibilities:
-
-<ul>
-  <li>The Project Manager will be responsible for overall cost management of the project and will be the primary point of contact for all cost-related issues.</li>
-  <li>The Finance Team will be responsible for monitoring project costs and ensuring that they are within the approved budget.</li>
-</ul>
-
-Cost change approval:
-<ul>
-  <li>All cost changes must be approved by the Project Manager before they are implemented.</li>
-  <li>If the cost change exceeds 10% of the total project budget, it must be approved by the Project Sponsor before it can be implemented.</li>
-</ul>
-
-Cost measurement and reporting:
-<ul>
-  <li>Costs will be measured and reported on a monthly basis, using a cost performance index (CPI) and a schedule performance index (SPI).</li>
-  <li>Reports will be presented to the Project Sponsor on a monthly basis.</li>
-</ul>
-
-Budget format and standards:
-<ul>
-  <li>The budget will be presented in a clear and concise format, using a spreadsheet format such as Excel.</li>
-  <li>The budget will be broken down into individual line items, with detailed cost estimates for each item.</li>
-  <li>The budget will be updated on a monthly basis, with any changes clearly highlighted.</li>
-</ul>
-
-<p>Overall, the Cost Management Plan for ADENICSY project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.
+<p>
+  In broader terms, the Rams E-Caf project's cost management plan is created to make sure that all project expenses are efficiently handled and kept under control, allowing the project to be finished within the allocated budget. This will make it more likely that the project will be successfully and promptly finished.
+ 
+  Cost Management Responsibilities
+  ·	The Project Manager oversees the project's overall cost management and serves as the point of contact for any potential costing problems.
+  ·	The finance team oversees making sure that the project's approved budget is being monitored.
+   
+  Cost Measurement and Reporting
+  ·	Using a cost performance index (CPI) and a schedule performance index (SPI), costs will be tracked and reported.
+  Cost Change Approval
+  ·	Before making and putting into effect the following adjustments to the cost management, the project manager must give his or her approval.
+  ·	The Project Sponsor must be consulted and given approval before any changes to the costing or budget are made.
+  Budget Format and Standards
+  ·	A spreadsheet will be used to present the budgets and plot them in depth.
+  ·	If there are updates or adjustments to the costings, the budgets will be noted.
+   
+  In broader terms, the Rams E-Caf project's cost management plan is created to make sure that all project expenses are efficiently handled and kept under control, allowing the project to be finished within the allocated budget. This will make it more likely that the project will be successfully and promptly finished.
+</p> 
 
 ==Cost Management Approach==
-<p>The cost management approach for the dispatch directory system project will be based on the following principles:
-</p>
-<br>
 <p>
-a.	Clear definition of costs:
--	The project team will work closely with stakeholders to clearly define and document the costs associated with the project, including labor, materials, equipment, and other expenses.
-<br>
-<br>
-b.	Budget development and tracking:
--	A detailed project budget will be developed and regularly updated throughout the project, with costs tracked and reported in real time.
-<br>
-<br>
-c.	Cost estimates:
--	The project team will use a variety of cost estimation techniques to ensure that the project budget is accurate and realistic.
-<br>
-<br>
-d.	Cost variance analysis:
--	The project team will closely monitor costs throughout the project and perform variance analysis to identify and address any cost overruns or savings.
-<br>
-<br>
-e.	Cost management roles and responsibilities:
--	Clear roles and responsibilities for cost management will be defined and communicated to all project team members.
-<br>
-<br>
-f.	Approval process for changes:
--	A formal process for approving changes to the project or its budget will be established and implemented.
-<br>
-<br>
-g.	Reporting and communication:
--	Regular cost reports will be prepared and shared with stakeholders, including the project sponsor, project team, and management.
+  The following guiding concepts will serve as the foundation for the dispatch directory system project's cost management strategy:
+
+1.	Costs are defined clearly:
+    To properly identify and document project costs, including labor, materials, equipment, and other expenses, the project team will collaborate closely with stakeholders.
+2.	Budget creation and monitoring:
+    Costs will be tracked and reported in real time, and a thorough project budget will be created and frequently updated throughout the project.
+3.	Cost projections:
+    To make sure that the project budget is precise and reasonable, the project team will employ a range of cost estimation approaches.
+4.	Cost variance analysis:
+		The project team will do variance analysis to find and rectify any cost overruns 			or savings while keeping a tight eye on expenses throughout the project.
+5.	Cost management roles and responsibilities:
+		All project team members will be informed of the precise roles and duties for 			cost management.
+6.	Approval process for changes:
+		A formal procedure for approving adjustments to the project's budget will be 			developed and put into place.
+7.	Reporting and communication:
+    Regular cost reports will be created and distributed to all parties involved, such as the project sponsor, project team, and management.
+
 </p>
 
-<p>By following these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
 
 ==Measuring Project Cost==
-<p>The Cost Management Plan for ADENICSY project will include a detailed approach for measuring project costs using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:</p>
-
 <p>
-1. Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) - This measures the budgeted costs of the work that was planned to be completed at a specific point in time.
-</p>
+  A specific method for applying Earned Value Management (EVM) to measure project costs will be included in the Cost Management Plan for the Rams E-Caf project. A specific method for applying Earned Value Management (EVM) to measure project costs will be included in the Cost Management Plan for the Rams E-Caf. This will entail keeping track of and releasing numerous Earned Value signs, including:
+ 
+  1.	The budgeted expenses of the work that was anticipated to be finished at a particular period are measured using the terms Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV).
+      The total labor expense for the TESTING WBS must be multiplied by the percentage of completion for the WBS to determine the BCWS or                                      	
+  
+  Planned Value:
+  
+  BCWS = Total labor cost of TESTING WBS x Percentage of completion
+  = (PHP 140,296.26) x 33.71%
+  = PHP 140,296.26
+   
+  
+  As a result, the Planned Value (PV) or Budgeted Cost of Work Scheduled (BCWS) for the TESTING WBS Is PHP
+  
+  2.	 Earned Value (EV) or Budgeted Cost of Work Performed (BCWP) is a measure of the estimated price of the work that has been finished at a particular period.
+   
+  Example:
+   
+  The proportion of work completed for each job or WBS element is necessary to determine the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV). Assuming that each Testing phase task has been completed to a certain percentage:
+   
+  Week 40: Testing Phase 1 - 100%
+  Week 41: Testing Phase 2 - 75%
+  Week 42: Testing Phase 3 - 50%
+  Week 43: Testing Phase 4 - 25%
+   
+  The Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) can then be determined as follows:
+   
+  EV = BCWS (*) % of work completed
+  EV = (₱ 140,296.26 x 33.71%) + (₱28,059 x 8.43% x 0.75) + (₱ 28,059 x 8.43% x 0.50) + (₱28,059 x 8.43% x 0.25)
+  EV = ₱47,284.67+ ₱1,77,403+ ₱118,268+ ₱59134
+  EV = ₱ 402089.67
+   
+  As a result, the Earned Value (EV) or Budgeted Cost of Work Performed (BCWP) is ₱402089.67
+  
+  This estimate was only based on the research of the proponent and article on getastra.
+ </p>       
 
-<p>
-Example:<br>
 
-To calculate the BCWS or Planned Value, we need to multiply the total labor cost of the TESTING WBS by its percentage of completion:<br>
-
-BCWS = Total labor cost of TESTING WBS x Percentage of completion<br>
-= (PHP 300,000) x 33.71%<br>
-= PHP 101,130<br><br>
-
-Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 101,130.
-<p>
-
-<p>
-2. Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) - This measures the budgeted costs of the work that has actually been completed at a specific point in time.
-</p>
-
-<p>
-Example:<br>
-
-To calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV), we need to know the percentage of work completed for each task or WBS element. Assuming that the percentage of completion for each of the Testing<br>
-Phase tasks are as follows:
-<br>
-
-<ul>
-<li>Week 26: Testing Phase 1 - 100%</li>
-<li>Week 27: Testing Phase 2 - 75%</li>
-<li>Week 28: Testing Phase 3 - 50%</li>
-<li>Week 29: Testing Phase 4 - 25%</li>
-</ul>
-
-Then, we can calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) as follows:<br><br>
-EV = BCWS x % of work completed<br>
-EV = (₱300,000 x 33.71%) + (₱75,000 x 8.43% x 0.75) + (₱75,000 x 8.43% x 0.50) + (₱75,000 x 8.43% x 0.25)<br>
-EV = ₱101,130 + ₱4,732.50 + ₱3,155 + ₱1,577.50<br>
-EV = ₱110,595<br><br>
-
-Therefore, the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) is ₱110,595.
-<p>
-
-<p>
-3. Actual Cost of Work Performed (ACWP) or Actual Cost (AC) - This measures the actual costs incurred for the work that has been completed at a specific point in time.<br>
-Example:<br>
-Assuming that the Actual Cost for the TESTING WBS is PHP 120,000, then:<br>
-
-AC = PHP 120,000<br><br>
-
-Therefore, the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) is <br>
-PHP 120,000.<br><br>
-
-These metrics will be used to perform cost variance analysis (CV), schedule performance index (SPI), and cost performance index (CPI) to measure the project's cost performance over time.<br><br>
-To assist in capturing these metrics, the project team will use project management software that is capable of tracking and reporting on EVM metrics. This software will also be used to forecast future project costs, and to review cost performance over time, across work packages or schedule activities.
-
-<ol>
-<li>Cost Variance (CV) measures the difference between the actual cost and the planned cost of the project. It is calculated by subtracting the actual cost from the planned cost. A negative CV indicates that the project is over budget, while a positive CV indicates that the project is under budget.<br>
-
-Example:<br><br>
-
-To compute the Cost Variance (CV), we need to subtract the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) from the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV). From the previous example, the BCWP or EV is ₱110,595, and the ACWP or AC is ₱120,000.<br><br>
-
-CV = EV - AC<br>
-CV = ₱110,595 - ₱120,000<br>
-CV = -₱9,405<br><br>
-
-Therefore, the Cost Variance (CV) for the Testing WBS is -₱9,405. A negative CV means that the project is over budget.<br>
-</li>
-<li>
-Schedule Performance Index (SPI) measures the project's schedule performance by comparing the planned schedule to the actual schedule. This index is calculated as the ratio of the BCWP to the BCWS. It is calculated by dividing the earned value by the planned value. A value of 1 indicates that the project is on schedule, while a value less than 1 indicates that the project is behind schedule, and a value greater than 1 indicates that the project is ahead of schedule.<br><br>
-
-Example:<br>
-
-From the previous computations, we have:<br>
-
-Earned Value (EV) = ₱110,595<br>
-Planned Value (PV) = ₱101,130<br>
-Plugging these values into the formula, we get:<br><br>
-
-SPI = EV / PV<br>
-SPI = ₱110,595 / ₱101,130<br>
-SPI = 1.093<br><br>
-
-Therefore, the Schedule Performance Index (SPI) is 1.093. This indicates that the project is ahead of schedule, as the SPI is greater than 1.<br>
-</li>
-<li>
-Cost Performance Index (CPI) measures the project's cost performance by comparing the actual cost to the planned cost. This index is calculated as the ratio of the BCWP to the ACWP. It is calculated by dividing the earned value by the actual cost. A value of 1 indicates that the project is on budget, while a value less than 1 indicates that the project is over budget, and a value greater than 1 indicates that the project is under budget.<br><br>
-
-Example:<br>
-To calculate the Cost Performance Index (CPI), we need to use the following formula:<br>
-
-CPI = EV / AC<br>
-where:<br>
-EV = Earned Value (BCWP) <br>
-AC = Actual Cost (ACWP)<br>
-
-From the previous computations, we have:<br>
-EV = ₱110,595<br>
-AC = ₱120,000<br><br>
-
-CPI = EV / AC<br>
-CPI = ₱110,595 / ₱120,000<br>
-CPI = 0.9216<br><br>
-
-Therefore, the Cost Performance Index (CPI) is 0.9216. This means that for every one peso spent, the project has earned only 0.92 pesos of value. This indicates that the project is behind budget and may need to take corrective actions to bring the costs in line with the planned budget.<br><br>
-
-In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.<br>
-</li>
-</ol>
-</p>
 ==Reporting Format==
 <p>
-The ideal reporting format for the cost management plan of the Dispatch Directory system project would likely be a detailed spreadsheet or table. This format should include all relevant cost information such as project budget, actual costs incurred, projected costs, and any variances or discrepancies.<br>
-Additionally, the format should be easily understandable and accessible to all stakeholders, including the project team, stakeholders, and management. A bar chart or Gantt chart can also be included to provide a visual representation of the cost information. The reporting format for the cost management plan of the Dispatch Directory system project would include the following elements:<br>
-</p>
+  A thorough spreadsheet or table would likely be the best reporting format for the expense management strategy of the Dispatch Directory service project. The project's budget, actual costs incurred, expected costs, and any variations or inconsistencies ought to all be included in this format.
+  The project team, stakeholders, and management should all be able to access the format and understand it without difficulty. To give the expense information a visual representation, a bar chart or Gantt chart can also be used. The following components would be part of the reporting format for the Dispatch Directory system project's cost management plan:
+</p>  
 
 
 <p>
 1.Executive Summary:<br>
-A brief overview of the cost management plan, including the project's overall budget, any major cost variances or issues, and any actions taken to address them.<br>
+An outline of the project's overall budget, any significant cost issues or variations, and 	any steps taken to address them is included in the cost management plan.<br>
 
 2.Budget Overview:<br>
-A detailed breakdown of the project's budget, including the total project cost, the cost of each phase or deliverable, and the costs associated with each project resource (e.g., labor, materials, equipment, etc.).<br>
+A thorough financial breakdown includes the project's overall cost, the price of each 	phase or deliverable, and the price of each project resource (such as personnel, supplies, 	equipment, etc.).<br>
 
 3.Cost Variance Analysis:<br>
-A detailed analysis of any variances between the project's actual costs and the budgeted costs. This should include a detailed explanation of the causes of the variances, the impact on the project, and any actions taken to address them.
+A thorough examination of discrepancies between the project's estimated and actual 	costs. This should thoroughly justify the deviations' causes, their effects on the project, and any steps taken to address them.<br>
 
 4.Budget Forecast:<br>
 A projection of the project's future costs, including any potential cost variances and their potential impact on the project. <br>
 
 5.Cost Management Metrics:<br>
-A set of key performance indicators (KPIs) that provide a snapshot of the project's cost performance, including cost variance, cost performance index (CPI), and schedule performance index (SPI).<br>
+A forecast of the project's foreseeable costs, considering any probable cost variations 	and their potential influence on the undertaking.<br>
 
 6.Approval and Sign-off:<br>
-A section for the project manager and other key stakeholders to review, approve, and sign off on the cost management plan.<br>
+The part where the cost management strategy is reviewed, approved, and signed off on by 	the project's manager and other major stakeholders.<br>
 
 7.Appendices:<br>
-Any additional documentation or supporting materials, such as detailed cost breakdowns, invoices, or change request forms.<br><br>
+Any more records or materials, including invoices, change request forms, and 	comprehensive cost breakdowns.<br>
 
-It is important to note that this is a general outline, and the reporting format may vary depending on the specific needs of the project and organization. However, it should provide a comprehensive overview of the project's cost management and performance in order to make informed decisions.<br>
 </p>
 
 ==Cost Variance Response Process==
 <p>
-The Cost Variance Response process for ADENICSY project will be as follows:<br>
-
-1.Control Thresholds:<br>
--	The project will have several control thresholds set for cost variance.<br>
--	These thresholds will be set at 5%, 10%, and 15% of the total project budget.<br>
--	If the project triggers any of these thresholds, it will be considered a cost variance.<br><br>
-
-2.	Identification of Variance:<br>
--	The Project Manager will be responsible for identifying any cost variances and reporting them to the Project Sponsor.<br>
--	The Project Manager will use the Earned Value Metrics and other cost management tools to identify and track any variances.<br><br>
-
-3.	Analysis of Variance:<br>
--	The Project Manager will analyze the variance to determine the root cause of the problem and develop options for corrective action.<br>
--	The Project Manager will also consider the impact of the variance on the project schedule and scope.<br><br>
-
-4.	Presentation of Options:<br>
--	The Project Manager will present the options for corrective action to the Project Sponsor.<br>
--	The options will be based on the root cause of the variance and the impact on the project schedule and scope.<br><br>
-
-5.	Approval of Corrective Action:<br>
--	The Project Sponsor will review the options and approve an appropriate action to bring the project back on budget.<br>
--	This may include increasing the budget, reducing scope or quality, or implementing other corrective actions.<br><br>
-
-6.	Implementation of Corrective Action:<br>
--	The Project Manager will implement the approved corrective action and monitor the results.<br>
--	The Project Manager will also update the project schedule and budget accordingly.<br><br>
-
-7.	Reporting:<br>
--	The Project Manager will report the cost variance, corrective action taken, and the results of the corrective action in the Monthly Project Status Report.<br>
--	The Project Manager will also provide updates on the project budget and schedule.<br><br>
-
-The Cost Variance Response process will be an ongoing process throughout the project lifecycle. The Project Manager will be responsible for monitoring and controlling the project costs, and the Project Sponsor will be responsible for approving any corrective actions as needed. <br>
-</p>
+  The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions.
 
 ==Cost Change Control Process==
 <p>
-The cost change control process will include the following steps:<br><br>
-
-1.	Identification of the cost change:<br>
--	Any proposed changes to the project budget or costs must be identified and documented in a cost change request form.<br><br>
-2.	Analysis of the cost change:<br>
--	The proposed change will be analyzed by the project team to determine the potential impact on the project schedule, resources, and overall budget.<br><br>
-3.	Approval of the cost change:<br>
--	The cost change request will be reviewed and approved by the project sponsor and other relevant stakeholders.<br><br>
-4.	Implementation of the cost change:<br>
--	Once approved, the cost change will be implemented in accordance with the project schedule and budget.<br><br>
-5.	Tracking and monitoring of the cost change:<br>
--	The project team will track and monitor the impact of the cost change on the project schedule and budget, and any necessary adjustments will be made to ensure the project stays on track.<br><br>
-6.	Reporting on the cost change:<br>
--	The cost change will be reported in the monthly project status report, along with any relevant financial information and any corrective actions taken.<br><br>
-
-The cost change control process will be implemented to ensure that any changes to the project budget or costs are identified, analyzed, and approved in a timely manner. This will help to minimize the impact of cost changes on the project schedule and budget and help to ensure that the project stays on track to meet its objectives.<br>
-
+  The following steps will be part of the cost change control process:
+ 
+  Identification of the cost change:
+  1.	A cost change request form must be used to identify and record any suggested modifications to the project's costs or budget.
+  2.	Analysis of the cost change:
+      The project team will evaluate the proposed modification and determine its possible impact on the project's budget, resources, and timeline.
+   
+  3.	Approval of the cost change:
+      The project sponsor and other relevant stakeholders are going to review and authorize the request for a cost change.
+                                      
+  4.	Implementation of the cost change:
+      Upon approval, the cost adjustment will be carried out in accordance with the	project's budget and schedule.
+   
+  5.	Tracking and monitoring of the cost change:
+      The project team will keep tabs on how the cost change will affect the project's budget and schedule and make any required adjustments to keep things on track.
+   
+  6.	Reporting on the cost change:
+      The project status report will include the cost change, any pertinent financial data, and any corrective actions that were implemented.
+   
+  The expense change control procedure will be implemented to make sure that any alterations to the project budget or expenses are quickly found, assessed, and approved. By doing this, you may lessen the effect of cost fluctuations on the project's budget and schedule and help to keep it on pace to achieve its goals.
+  
+  
 </p>
 
 ==Project Budget==
 <p>
-Budgeting is a crucial component of project management that involves planning, estimating, and controlling project costs. For the Dispatch Directory System project, a budget has been developed to ensure that project costs are identified, monitored, and controlled throughout the project's life cycle.<br>
-The budget includes direct and indirect costs, and it is designed to provide the project team and stakeholders with a comprehensive understanding of the financial resources required to successfully complete the project. This budget will serve as a baseline for monitoring the project's financial performance and ensuring that it remains on track to meet its goals and objectives within the approved budget.<br><br><br>
+  The budget for this project is detailed below. Costs for this project are presented in various categories based on the summary budget of the project charter.
 
-
-<bold>Approved Budget: PHP 900,000.00</bold>
-
+  Material Costs	PHP 32,354.00~
+  Hosting Costs	PHP 894.9 per month~
+  Payment Gateway 	PHP 0.00 (Registration Fee)
+  Total Project Cost	PHP 33,248.9
+  
+  
 </p>
 
 =Time Management Plan=
