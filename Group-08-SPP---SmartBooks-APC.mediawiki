@@ -695,14 +695,155 @@ Co-Manager: Marc Shane Rowy
 <li> <b> Scope Baseline: </b> The Scope Baseline document will serve as a reference for measuring project performance and controlling changes to the project scope. The Scope Baseline will be updated as necessary to reflect changes in the project scope. </li> 
 </ul>
 
+= Cost Management Plan = 
 
+== Introduction == 
 
+<p> The Cost Management Plan for the SmartBooks project outlines the strategies and procedures that will be employed to effectively manage costs throughout the project's lifecycle. This plan establishes the framework and guidelines for measuring, reporting, and controlling project costs. It ensures that the project remains within budget and enables informed decision-making regarding cost-related matters. </p>
 
+<p> Key elements of the Cost Management Plan include: </p>
 
+<ul>
+<li> Cost Management Responsibility: The project's cost management personnel or positions are expressly identified in the plan. In order to achieve cost effectiveness, this entails appointing a Cost Manager to supervise cost-related operations and work with stakeholders. </li> 
+<li> Authority for Budget Changes: The authority levels necessary to approve adjustments to the project's budget are laid out in the plan. This guarantees that any budget changes or revisions are appropriately assessed, approved, and documented. </li>
+<li> Cost Performance Measurement: The strategy identifies the quantitative techniques and indicators that will be used to gauge and assess cost performance. This include setting cost baselines, monitoring variances to find any budgetary deviations, and comparing actual costs to projected expenditures. </li>
+<li> Reporting Format and Frequency: The plan specifies the report's structure, frequency, and recipients. These reports give project stakeholders rapid access to precise project cost information, enabling strategic cost management and well-informed decision-making. </li>
+</ul> 
 
+<p> The SmartBooks project ensures efficient cost control and transparency throughout its duration by putting the Cost Management Plan into practice. It makes it possible for stakeholders to keep track of, evaluate, and optimize expenditures, thus assisting in the project's successful completion within the allotted budget. </p>
 
+== Cost Management Approach == 
 
+<p> The Cost Management Approach for the SmartBooks project encompasses strategies and methodologies to effectively manage costs throughout the project's lifecycle. Cost estimation techniques, such as bottom-up and analogous estimation, will be utilized to provide accurate cost projections. A detailed cost baseline will be established, serving as the reference point for measuring actual costs. Regular monitoring and control mechanisms, including variance analysis and cost-saving identification, will ensure adherence to the budget. A robust change control process will evaluate cost implications of requested changes, and clear and concise cost reports will be shared with stakeholders to maintain financial transparency. By implementing this approach, the SmartBooks project aims to optimize resource utilization, make informed decisions, and successfully deliver within budgetary constraints. </p>
 
+== Measuring Project Costs ==
+
+<p> The Cost Management Plan for SmartBooks' Measure Project Costs section gives a thorough explanation of how project costs will be monitored and managed during the course of the project. We will use Earned Value Management (EVM) as our main methodology to precisely track and manage expenditures. EVM combines the cost, schedule, and performance factors to offer a comprehensive picture of project development and cost performance. It enables us to identify any variations and budgetary deviations by comparing the value of work accomplished (earned value) to the actual expenditures expended and the projected value. </p>
+
+<p> To implement EVM effectively, we will establish a robust system for tracking and recording project costs. This will include capturing all direct and indirect costs associated with SmartBooks, such as personnel costs, hardware and software expenses, training costs, and any other relevant expenditures. We will also ensure that accurate cost data is collected and recorded on a regular basis, enabling us to have real-time visibility into the project's financial performance. Furthermore, we will define key cost metrics and indicators that will be used to assess the project's cost performance. These metrics may include Cost Performance Index (CPI), Schedule Performance Index (SPI), Cost Variance (CV), and Schedule Variance (SV), among others. Regular analysis of these metrics will provide insights into the project's cost efficiency and help identify any potential cost overruns or savings opportunities. </p> 
+
+<p> Project managers and other key team members must obtain the necessary instruction on EVM principles and practices if EVM is to be implemented successfully. This will make it possible for them to precisely measure and evaluate cost data, to efficiently track cost performance, and to proactively deal with any cost-related problems that might emerge throughout the project. We will be able to retain financial control, make wise judgments, and guarantee that the SmartBooks project stays under budget limitations by adopting a strict and methodical approach to measuring project expenses with EVM. </p>
+
+== Reporting Format ==
+
+<p> The Reporting Format section of the Cost Management Plan outlines how cost information will be documented, presented, and communicated to stakeholders throughout the SmartBooks project. Effective reporting is crucial for transparency, accountability, and informed decision-making regarding project costs. The reporting format will include regular cost performance reports that provide a snapshot of the project's financial status. These reports will typically include key cost metrics, such as the Cost Performance Index (CPI), Schedule Performance Index (SPI), Cost Variance (CV), Schedule Variance (SV), and Estimate at Completion (EAC). The reports will also highlight any significant cost deviations, trends, or risks that may impact on the project's budget. </p>
+
+<p> The frequency of cost reporting will be determined based on the project's needs and the level of detail required by stakeholders. As a general guideline, we anticipate providing monthly cost reports to the project team, project sponsors, and other relevant stakeholders. However, for critical milestones, budget reviews, or major cost fluctuations, additional ad-hoc reports may be generated to ensure timely and comprehensive communication. </p>
+
+<p> Moreover, the cost reports' layout will be clear, concise, and simple to comprehend. To effectively show the data, visual aids like graphs and charts will be used. In order to help stakeholders evaluate the project's financial performance and make wise cost management decisions, the reports will compare projected costs, actual costs, and earned value. The reports will also point out any cost-related concerns, mitigation techniques, and suggested solutions to any problems with the budget.  </p>
+
+<p> After, we will create open lines of contact for stakeholders to answer any queries, worries, or requests for further cost information, in addition to providing regular cost updates. As a result, stakeholders will have timely access to reliable cost data, and cost management talks will take place in a collaborative setting. We want to promote transparency, enable proactive decision-making, and keep stakeholders' faith in the financial management of the SmartBooks project by offering thorough and consistent cost information. </p>
+
+== Cost Variance Response Process == 
+
+<p> The control thresholds and measures to be implemented in the event that the project's cost variance exceeds the predefined limitations are established by the Cost Management Plan for SmartBooks' Cost Variance Response Process. This procedure guarantees that corrective actions are taken promptly and appropriately to handle any budget variances and get the project back on track. When the project triggers a control threshold, the Project Manager will conduct a thorough analysis of the cost variance, identifying the root causes and potential mitigation strategies. The Project Manager will then present the findings and proposed options for corrective action to the Project Sponsor for review and approval. </p> 
+
+<p> The response process may involve several potential actions to address the cost variance. These actions could include: </p>
+
+<ul> 
+<li> <b> Increasing the budget: </b> The project manager may suggest raising the project's budget to account for the extra costs if the cost difference is due to unanticipated charges or changes in project requirements. The Project Sponsor would need to approve this choice, and the project's financial viability would need to be reevaluated. </li> 
+<li> <b> Reducing scope or quality: </b> The project manager may suggest decreasing the scope or quality of some project deliverables if the cost variance is large and cannot be accommodated within the current budget. This strategy tries to optimize the remaining budget and reallocate resources to match the project's goals. </li>
+<li> <b> Adjusting resource allocation: </b> A different choice is to evaluate how resources are allocated within the project. In order to maximize cost utilization and reduce the cost variance, the project manager might suggest reallocating resources from non-critical tasks to those that are. </li>
+<li> <b> Seeking alternative funding sources: </b> To overcome the cost variance, the project manager may occasionally look into alternate funding options or cost-sharing agreements with pertinent stakeholders or sponsors. </li>
+</ul>
+
+<p> The specific corrective action taken will depend on the nature and severity of the cost variance, project priorities, and the overall project objectives. The Project Sponsor will review the proposed options and provide approval for the chosen corrective action, ensuring that the project's budget is effectively managed and aligned with the project's goals. </p>
+
+== Cost Change Control Process ==
+
+<p> The Cost Change Control Process for SmartBooks aligns with the project's overall change control process to effectively manage and control any changes that may impact the project's cost baseline. This process ensures that changes to the project's costs are carefully reviewed, evaluated, and approved in a controlled manner. </p>
+
+<p> When a change request that impacts project costs is identified, it will follow the established change control process. The Cost Change Control Process includes the following steps: </p>
+
+<ul> 
+<li> <b> Change Identification: </b> Any suggested modifications that might affect the project's costs are noted and documented. This might entail alterations to the project's scope, schedule, resources, or other elements that directly affect project costs. </li> 
+<li> <b> Change Request Documentation: </b> The change request is supported by documentation that clearly outlines the requested modification, its justification, and any potential effects it might have on project costs. Financial analysis or cost estimates may also be presented as supporting material. </li>
+<li> <b> Change Evaluation: </b> The Project Manager, Cost Control Team, and other suitable project participants analyze the change request along with other pertinent stakeholders. The evaluation measures the overall alignment with the project's goals, risks, rewards, and potential financial consequences. </li>
+<li> <b> Cost Impact Analysis: </b> To determine the projected impact of the proposed change on the project's cost baseline, a thorough analysis is carried out. This analysis considers both the direct and indirect cost consequences, taking into consideration things like the need for additional resources, changes to the procurement process, and any potential cost savings or cost overruns. </li>
+<li> <b> Change Approval: </b> The Change Control Board or the designated authority appointed to approve changes is presented with the change request and its related cost impact study. The project's goals, restrictions, and resources available are taken into account as the board assesses the change request using predetermined criteria. Whether the change is approved and whether the cost baseline will be modified as a result depends on the approval decision. </li>
+<li> <b> Cost Baseline Update: </b> The Cost Control Team updates the project's cost baseline to reflect the approved adjustments if the change request is approved. By doing this, it is made sure that the project's financial plans, budget allocations, and cost projections appropriately account for the modified scope and associated costs. </li>
+</ul>
+
+<p> It is essential to maintain proper documentation throughout the Cost Change Control Process, including records of change requests, cost impact analyses, and approval decisions. This helps maintain transparency, accountability, and a comprehensive audit trail of all changes affecting the project's costs. By following this well-defined Cost Change Control Process, SmartBooks ensures that changes impacting project costs are effectively evaluated, controlled, and documented, promoting financial accountability and maintaining alignment with the project's budgetary objectives. </p>
+
+== Project Budget ==
+
+<p> The Project Budget for SmartBooks outlines the estimated costs required to successfully execute the project and achieve its objectives. The budget is categorized into various cost elements, and the total project cost is targeted to be within the range of 270,000 to 280,000 pesos. The budget allocation for each category is as follows: </p>
+
+<ul> 
+<li> <b> Personnel Costs: </b> ₱100,000 </li>
+<p> ## This includes the salaries, wages, and benefits of the project team members and any additional resources dedicated to the project. </p> 
+<li> <b> Software Development: </b> ₱80,000 </li>
+<p> This category covers the costs associated with developing and implementing the SmartBooks software solution, including any licensing fees, development tools, and third-party software components. </p>
+<li> <b> Hardware and Infrastructure: </b> ₱30,000 </li>
+<p> This includes the procurement and setup of any hardware equipment and infrastructure required to support the SmartBooks system, such as servers, networking devices, and storage devices. </p>
+<li> <b> Training and Documentation: </b> ₱20,000 </li>
+<p> This category encompasses the costs related to training the project team, end-users, and stakeholders on how to effectively use the SmartBooks system. It also includes the development and distribution of project documentation and user manuals. </p>
+<li> <b> Communication and Marketing: </b> ₱10,000 </li>
+<p> This covers the expenses associated with promoting the SmartBooks system within the Asia Pacific College Library and communicating project updates to relevant stakeholders. It includes marketing materials, promotional events, and communication channels. </p>
+<li> <b> Contingency Reserve: </b> ₱30,000 </li>
+<p> A contingency reserve is set aside to account for unforeseen risks or changes that may arise during the project. It allows for flexibility in managing any unexpected expenses. </p>
+
+<p> Taking into account all of the aforementioned areas, the expected project budget totals between 270,000 and 280,000 pesos. In order to achieve effective cost management and adherence to budgetary limits, it is vital to emphasize that the budget is subject to periodic review and revision over the course of the project. </p>
+
+= Schedule Management Plan = 
+
+== Introduction == 
+<p> The Schedule Management Plan, which acts as a road map for successfully managing and controlling the project schedule, is an essential part of the SmartBooks project. This plan includes the methods, strategies, and duties required to create, maintain, and manage the project's schedule from the beginning to the end. The timely delivery of project milestones, the coordination of activities, and the allocation of resources depend on effective schedule management. </p>
+
+<p> This plan's goal is to offer a thorough framework for controlling the project schedule and making sure that it stays in line with the project's goals, limitations, and available resources. It defines standards for schedule development, checkpoints, and protocols for dealing with schedule modifications or variations. This strategy will enable the project team to manage time more effectively, improve stakeholder cooperation, and actively reduce schedule risks. </p>
+
+<p> Lastly, the schedule management strategy, schedule control, schedule change management, and threshold restrictions are only a few of the topics covered by the schedule management plan. It also describes the duties and functions of important project team members engaged in schedule management operations. Throughout the project's lifespan, this plan intends to promote effective communication, stakeholder participation, and collaboration. This will ensure that the SmartBooks project is delivered successfully and within the established time restrictions. </p>
+
+== Schedule Management Approach == 
+
+<p> The schedule management approach for the SmartBooks project will follow a structured and collaborative process to ensure effective schedule development and management. The project team will utilize a project management software tool, such as Microsoft Project, to create and maintain the project schedule. This tool will enable the team to efficiently track and update project tasks, dependencies, and milestones. </p>
+
+<p> In addition, development process will involve close collaboration among key stakeholders, including the project manager, project team members, and relevant stakeholders from the Asia Pacific College Library. The project manager will be responsible for overseeing the schedule development process and ensuring that it aligns with the project objectives and constraints. </p>
+
+<p> Then it will contain milestones to denote important project events, deliverables, and decision points. The project team will be able to keep on track by using these milestones as crucial markers of progress. To make sure that the timeline is reasonable, attainable, and in line with stakeholders' expectations, regular contact and coordination will be maintained. </p>
+
+<p> Roles and responsibilities for schedule development will be clearly defined. The project manager will oversee the overall schedule development process, including task assignment, sequencing, and duration estimation. Project team members will be responsible for providing accurate and timely updates on task progress, dependencies, and any potential schedule impacts. The project manager will also collaborate with stakeholders to validate and finalize the schedule, ensuring that it reflects their requirements and constraints. </p>
+
+== Schedule Control == 
+
+<p> The SmartBooks project's schedule will be thoroughly watched and managed the entire time to guarantee that all activities and milestones are finished on time. The following procedures and methods will be used to effectively control the schedule: </p>
+
+<ul> 
+<li> <b> Schedule Updates and Reviews: </b>  The project schedule will be regularly updated to reflect actual progress and any changes or adjustments to the project plan. Updates will be performed on a weekly basis to capture the latest status of tasks, milestones, and dependencies. Additionally, comprehensive schedule reviews will be conducted at key project milestones to assess the overall progress and identify any potential deviations from the planned schedule. </li>
+<li> <b> Communication and Reporting: </b> Clear and concise communication channels will be established to share schedule updates, progress reports, and any schedule-related information with relevant stakeholders. The project manager will be responsible for providing regular updates to the project team, key stakeholders, and management. Progress reports will include information on completed tasks, upcoming milestones, critical path analysis, and any schedule variances or risks. </li>
+<li> <b> Roles and Responsibilities: </b> The project manager will have overall responsibility for schedule control, including monitoring and tracking project progress against the schedule. The project team members will be responsible for providing accurate and timely updates on task completion and any potential delays or issues that may impact the schedule. Key stakeholders will be actively engaged in reviewing and approving schedule changes, as well as providing input on any necessary adjustments to maintain project timelines. </li>
+<li> <b> Schedule Change Control: </b> Any changes to the project schedule will follow the established change control process. This process will involve evaluating the impact of proposed changes on the schedule, including resource availability, dependencies, and overall project objectives. Changes will be assessed for their feasibility, and appropriate approval and documentation will be obtained before implementing any modifications to the schedule. </li>
+</ul>
+
+== Schedule Changes and Thresholds == 
+
+<p> To maintain control over the project schedule and ensure alignment with the project objectives, the SmartBooks project establishes schedule changes and thresholds. The following guidelines and thresholds will be implemented: </p>
+
+<ul> 
+<li> <b> Boundary Conditions: </b> The project sponsor, in collaboration with the project manager, will define the initial schedule parameters and boundary conditions. These boundary conditions serve as the baseline for the project's schedule and represent the expected timeline for project completion. Any changes to the schedule that exceed these boundary conditions must go through a formal change control process. </li>
+<li> <b> Change Threshold: </b> The project has established a change threshold of 10% for schedule changes. This means that any proposed schedule change that exceeds a 10% deviation from the baseline schedule will require a schedule change request to be submitted. The project sponsor will review and approve schedule change requests based on their impact, feasibility, and alignment with project objectives. </li>
+<li> <b> Schedule Change Request: </b> When a schedule change is anticipated or required, the project team member responsible for the task or activity must submit a schedule change request. This request should include details such as the reason for the change, the proposed adjustments to the schedule, the potential impact on other tasks or milestones, and any necessary supporting documentation. </li>
+<li> <b> Schedule Change Approval: </b> The project sponsor will evaluate each schedule change request based on its merits and alignment with the project objectives. The approval decision will consider factors such as the overall impact on project timelines, resource availability, budget implications, and potential risks. Only approved schedule changes will be implemented. </li>
+</ul>
+
+<p> Please note that the specific threshold and change management process can be tailored according to the project's requirements and in consultation with relevant stakeholders and project sponsors. </p>
+
+== Scope Change ==
+
+<p> The project timetable may be affected by approved modifications to the project's scope and may need to be adjusted. Modifications to the project's scope may result in the addition of deliverables, specifications, or other elements that were not initially planned for in the baseline timeline. The project manager and team must carefully assess the impact of such changes on the schedule and its resources as the project moves forward. </p> 
+
+<ul> 
+<li> <b> Evaluation of Scope Change: </b> When a scope change is proposed or approved, the project manager will assess its potential impact on the project schedule. This evaluation will consider factors such as the added work effort, resources required, dependencies with existing tasks, and overall schedule feasibility. </li>
+
+<li> <b> Schedule Impact Analysis: </b> The project team, in collaboration with relevant stakeholders, will conduct a comprehensive analysis to determine how the scope change will affect the project schedule. This analysis will include assessing the duration, sequencing, and resource allocation for the impacted tasks or deliverables. </li>
+
+<li> <b> Re-baselining Schedule: </b> If the approved scope change significantly impacts the project schedule, it may be necessary to re-baseline the schedule. Re-baselining involves updating the project's baseline schedule to reflect the revised scope and associated timeline. This ensures that the project remains aligned with the updated objectives and requirements. </li>
+
+<li> <b> Communication and Stakeholder Engagement: </b> Throughout the scope change process, effective communication with stakeholders is crucial. The project manager will keep stakeholders informed about the proposed scope changes, their impact on the schedule, and any adjustments made to the baseline schedule. Stakeholder engagement will help manage expectations and ensure alignment with the project's objectives. </li>
+</ul>
+
+<p> Please note that the scope change process and its integration with the project schedule may vary based on the specific requirements and dynamics of the SmartBooks project. </p> 
 
 
 
