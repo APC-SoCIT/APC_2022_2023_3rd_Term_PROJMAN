@@ -56,33 +56,33 @@
 <p> In today's digital age, the library recognizes the import ance of staying at the forefront of technological advancements to enhance the learning experience. Hence, the decision to adopt SmartBooks, an innovative solution for optimizing book and eBook acquisition and utilization, aligns perfectly with the library's commitment to providing cutting-edge resources and services to its users. By implementing SmartBooks, the library aims to revolutionize the way students access and interact with educational materials. The platform's features, such as usage pattern analysis and comprehensive statistics, will enable the library to gain valuable insights into students' reading habits, preferences, and information needs. This data-driven approach will not only enhance the library's collection development strategies but also empower students with personalized recommendations and a seamless digital reading experience. Overall, the adoption of SmartBooks aligns with Asia Pacific College Library's mission to foster a dynamic learning environment and ensure that students have access to the most relevant and engaging educational resources available. </p>
 
 = Business Case =
-<h2> Executive Summary </h2> 
+== Executive Summary ==
 
 <p> The SmartBooks project proposes the implementation of an automated library management system at Asia Pacific College Library to improve the availability and accessibility of resources for employees. The goal is to increase employee access to relevant books and resources and address the issue of low library book usage, which has been identified as a problem. The project objectives are to increase book utilization by 25%, improve access to relevant resources, and reduce the time it takes to locate and borrow books. The project will be led by Sim Paul Palacio and Marc Shane Rowy and is expected to be completed within six months. The business case outlines the details of the project, including cost-benefit analysis, alternative analysis, anticipated outcomes, and recommendations for implementation. </p>
 
-<h2>Issue</h2>
+== Issue ==
 
 <p> The Asia Pacific College Library is facing challenges in optimizing the utilization of its book and ebook resources. The library's collection of books and ebooks is not being fully utilized by employees, leading to a significant amount of resources going to waste. In addition, the manual tracking of book usage is time-consuming and prone to errors. The lack of an automated system to manage the library's resources is hindering the library's ability to provide efficient and effective services to its stakeholders. These issues need to be addressed to ensure that the library is providing high-quality services that meet the needs of its users while maximizing the use of its resources. </p>
 
-<h2>Anticipated Outcomes</h2>
+== Anticipated Outcomes ==
 
 <p> The anticipated outcomes of the SmartBooks project are numerous and impactful. By implementing an automated library management system, the project aims to increase book utilization by 25%, improve access to relevant resources for employees, and reduce the time it takes to locate and borrow books. As a result, employees will have easier access to the information they need to perform their work, leading to increased efficiency and productivity in the organization. The project will also improve the availability and accessibility of resources for employees, leading to a more satisfied and engaged workforce. Additionally, the project will reduce the library's expenditures on books and ebooks by 10%, leading to cost savings for the organization. Overall, the SmartBooks project will have a positive impact on the organization's bottom line and contribute to its overall success. </p>
 
-<h2> Recommendation </h2>
+== Recommendation ==
 
 <p> The proposed project, SmartBooks, is a comprehensive initiative aimed at optimizing book and ebook acquisition and utilization in the Asia Pacific College Library. The current manual process for library book management has resulted in low utilization of available resources, which has been identified as a critical issue for the organization. The proposed project will address this issue by implementing an automated library management system that will make it easier for employees to locate and borrow books. This system will also help in tracking the usage of books, identifying popular titles, and improving the overall management of the library. The SmartBooks project aims to increase book utilization by 25%, improve access to relevant resources for employees, and reduce the time it takes to locate and borrow books. Overall, the project is expected to improve the availability and accessibility of resources for employees, leading to increased efficiency and productivity in the organization. </p> 
 
 <p> To achieve the desired outcomes, the project team will implement a phased approach consisting of several key activities, including identifying relevant library materials, designing and implementing the automated library management system, conducting training sessions for employees, and measuring and evaluating project outcomes. The success of the project will be measured based on the achievement of the project objectives and the satisfaction of the stakeholders. The SmartBooks project is expected to take six months to complete, with a projected budget of ₱280,000 covering the cost of the library management system, training for employees, and any necessary hardware and software upgrades. Upon completion, the project is anticipated to provide significant benefits to the organization, including improved utilization of available library resources, increased employee productivity, and cost savings resulting from reduced expenditures on books and eBooks. </p>
 
-= Justification =
+== Justification ==
 
 <p> In order to improve the organization's low utilization of library resources, the suggested SmartBooks initiative should be put into action. It was chosen over other options because it offers a cost-effective solution that will increase employees' access to and availability of resources, resulting in increased production and efficiency. Without putting the initiative into action, the organization will continue to have low library book utilization, which will have a negative effect on employee performance and obstruct the accomplishment of organizational objectives. Additionally, the organization can make a profit on the SmartBooks project because the potential financial gains outweigh the costs. </p> 
 
-= Business Case Analysis Team =
+== Business Case Analysis Team ==
 
 <p> The business case analysis team for the SmartBooks project consisted of Sim Paul Palacio and Marc Shane Rowy. Mr. Palacio served as the project lead and was responsible for overseeing the overall direction and management of the project. Mr. Rowy provided assistance to Mr. Palacio in carrying out the necessary research and analysis required to develop the business case. Together, they collaborated on developing the project objectives, identifying the business problem, analyzing alternative solutions, and assessing the costs and benefits of the proposed solution. Throughout the project, Mr. Palacio and Mr. Rowy will continue to serve in their respective roles and will work closely with the project team to ensure the successful implementation of the SmartBooks project. </p> 
 
-<h2> Problem Definition </h2> 
+== Problem Definition ==
 <h3> Problem Statement </h3>
 
 <p> The Asia Pacific College Library is currently struggling to efficiently and cost-effectively acquire and provide access to books and eBooks that meet the needs of its students. With limited resources and a wide range of disciplines and interests represented among its student population, the library faces the challenge of determining which books and eBooks to purchase in order to optimize student usage while minimizing costs. There is a need for a more effective approach to identifying the most relevant and useful books and eBooks for the library's collection, in order to better serve the needs of its students and faculty. <p> 
@@ -111,16 +111,16 @@
 
 <p> During the execution of this project, there might be some great technical requirements and challenges that need to be resolved. Data security, privacy, and regulatory compliance concerns, as well as the requirement for extra hardware or software upgrades, may be among them. To ensure the project's success, these criteria and challenges will need to be carefully evaluated and addressed throughout. </p> 
 
-= Project Overview =
+== Project Overview ==
 
 <p> The library at Asia Pacific College spends a lot of money each year buying books and eBooks for its users. The library staff struggles to make educated purchase selections due to a lack of information on these products' usage trends. The library may choose materials to buy more intelligently and save money by creating a system to track the consumption patterns of books and eBooks. This will also boost student happiness. </p>
 
-= Project Description =
+== Project Description ==
 <p> The Smartbooks Utilization project aims to improve the purchasing decisions of Asia Pacific College's library by implementing a system to track the usage patterns of books and eBooks. The project involves the development of a data analytics tool that will allow the library staff to identify which materials are frequently borrowed by students and make informed decisions about which books and eBooks to purchase in the future. The system will also provide recommendations for new titles that are similar to those that are already popular, leading to the development of a more diverse collection of books and eBooks. </p>
 
 <p> The project is intended to result in cost savings by avoiding the purchase of materials that are not frequently used, process improvement by streamlining the purchasing process, and increased student satisfaction by providing them with access to a wider range of relevant materials. Ultimately, the project aims to support the strategic goals of Asia Pacific College by improving the quality of education provided to students and managing resources effectively. </p> 
 
-= Goals and Objectives =
+== Goals and Objectives ==
 <p> These objectives align with Asia Pacific College's strategic plan to provide high-quality education to its students, foster a culture of innovation and continuous improvement, and manage resources effectively. By implementing a system to track the usage patterns of books and eBooks, the library can make data-driven decisions that support these goals and contribute to the overall success of the institution. </p> 
 
 <ul> 
@@ -129,7 +129,7 @@
 <li> Reduce the library's expenditure by avoiding the purchase of materials that are not frequently used, resulting in cost savings that can be allocated to other areas of the institution. </li> 
 </ul>
 
-= Project Performance =
+== Project Performance ==
 
 <p> These performance measures will be regularly tracked and reported to the project team and stakeholders to ensure that the project is on track and meeting its goals. </p>
 
@@ -140,7 +140,7 @@
 <li> Automated System Efficiency: This measures the percentage decrease in the time it takes for employees to locate and borrow books through the implementation of an automated library management system. </li>
 </ol>
 
-= Project Assumptions =
+== Project Assumptions ==
 
 <p> The following are a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct: </p> 
 
@@ -154,7 +154,7 @@
 <li> The students will provide accurate information when borrowing books and eBooks. </li>
 </ul> 
 
-= Project Constraints = 
+== Project Constraints ==
 
 <p> The following constraints pertain to the SmartBooks Utilization project:
 Budget:  </p>
@@ -166,7 +166,7 @@ Budget:  </p>
 <li> Staffing: The project must be completed using existing library staff resources. No additional staffing resources will be allocated. </li>
 </ul>
 
-= Major Project Milestones =
+== Major Project Milestones ==
 
 <p> The Asia Pacific College Library's proposed initiative to improve book and ebook procurement and use will be a complicated and comprehensive operation that calls for the coordination of numerous teams and partners. The primary project milestones and their anticipated completion dates are as follows: </p> 
 
@@ -177,7 +177,7 @@ Budget:  </p>
 <li> <b> Project Review and Evaluation: </b> This milestone will involve a review of the project's goals, timelines, and budgets, as well as an evaluation of its effectiveness and impact on the organization. Target Completion Date: 6 months from project kickoff. </li>
 </ul> 
 
-= Strategic Alignment = 
+== Strategic Alignment ==
 
 <p> The proposed initiative, which intends to enhance the collection's acquisition and usage of books and eBooks at Asia Pacific College, is consistent with the organization's strategic goals in the following ways: </p>
 
@@ -254,7 +254,7 @@ Budget:  </p>
 
 <p> The SmartBooks project is anticipated to have a positive return on investment with a payback period of roughly 15 months based on the cost-benefit analysis. This indicates that the project is anticipated to produce enough savings and benefits within 15 months of implementation to pay for its initial project expenditures. </p>
 
-= Alternative Analysis = 
+== Alternative Analysis ==
 
 <p> </p>
 <b> Alternative 1: Status Quo - Do Nothing </b>
@@ -280,13 +280,13 @@ Budget:  </p>
 
 <p> After considering these alternatives, the SmartBooks project was selected as the most viable solution to address the identified issues and achieve the project objectives. </p>
 
-= Approvals =
+== Approvals ==
 
 <p> The executive review board will be given the opportunity to approve the business case for the SmartBooks initiative. The executive review board is in charge of assessing the project's viability, dangers, and advantages before choosing whether to accept or reject the proposal. The project's possible alignment with the organization's strategic goals, as well as any potential effects on resources and finances, will be carefully considered by the board members after they have read the business case. If the proposal is accepted by the board, project planning and execution can begin. If the proposal is turned down, the project will not move further and substitute solutions will be taken into account. </p>
 
 = Project Charter Plan =
 
-<h2> Executive Summary </h2> 
+== Executive Summary == 
 <p> The organization's library resources will be used and used more effectively as a result of the SmartBooks utilization initiative. The goal of the project is to increase employee access to pertinent books and resources that can aid them in their work while addressing the issue of low library book usage. The project will involve the implementation of an automated library management system that will make it easier for employees to locate and borrow books. This system will also help in tracking the usage of books, identifying popular titles, and improving the overall management of the library. </p>
 
 <p> The project objectives are to increase book utilization by 25%, improve access to relevant resources for employees, and reduce the time it takes to locate and borrow books. The project will be led by Mr. Sim Paul Palacio and his Assistance, Mr. Marc Shane Rowy and is expected to be completed within six months. The project will have a projected budget of ₱280,000,.which will cover the cost of the library management system, training for employees, and any necessary hardware and software upgrades. The success of the project will be measured based on the achievement of the project objectives and the satisfaction of the stakeholders. </p>
@@ -306,7 +306,7 @@ Intended Effects of the Business Case:
 <li> Increased student satisfaction: By providing students with access to the books and eBooks they need for their coursework, the library can help to improve student satisfaction and academic success. </li>
 </ol> 
 
-<h2> Business Objectives </h2>
+== Business Objectives ==
 
 <p> These objectives align with Asia Pacific College's strategic plan to provide high-quality education to its students, foster a culture of innovation and continuous improvement, and manage resources effectively. By implementing a system to track the usage patterns of books and eBooks, the library can make data-driven decisions that support these goals and contribute to the overall success of the institution. </p>
 
@@ -316,12 +316,12 @@ Intended Effects of the Business Case:
 <li> Reduce the library's expenditure by avoiding the purchase of materials that are not frequently used, resulting in cost savings that can be allocated to other areas of the institution. </li>
 </ul>
 
-<h2> Project Description </h2>
+== Project Description ==
 
 <p> The Smartbooks Utilization project aims to improve the purchasing decisions of Asia Pacific College's library by implementing a system to track the usage patterns of books and eBooks. The project involves the development of a data analytics tool that will allow the library staff to identify which materials are frequently borrowed by students and make informed decisions about which books and eBooks to purchase in the future. The system will also provide recommendations for new titles that are similar to those that are already popular, leading to the development of a more diverse collection of books and eBooks. </p>
 <p> The project is intended to result in cost savings by avoiding the purchase of materials that are not frequently used, process improvement by streamlining the purchasing process, and increased student satisfaction by providing them with access to a wider range of relevant materials. Ultimately, the project aims to support the strategic goals of Asia Pacific College by improving the quality of education provided to students and managing resources effectively. </p> 
 
-<h2> Project Objectives and Success Criteria </h2>
+== Project Objectives and Success Criteria ==
 
 <p> These objectives align with Asia Pacific College's strategic plan to provide high-quality education to its students, foster a culture of innovation and continuous improvement, and manage resources effectively. By implementing a system to track the usage patterns of books and ebooks, the library can make data-driven decisions that support these goals and contribute to the overall success of the institution. </p>
 
@@ -373,7 +373,7 @@ Intended Effects of the Business Case:
 
 <p> Through the implementation of a system that monitors usage patterns and makes recommendations for purchasing choices based on data, the SmartBooks Utilization project seeks to increase the use of books and eBooks in the library at Asia Pacific College. The project will involve creating and putting into use a software system that will enable library personnel to gather information on borrowing patterns, spot materials that are in high demand, and make more informed purchasing decisions. The project's scope comprises the creation of the software system, instruction in its use for library staff members, and incorporation into the library's current workflows. The completion of the project will be marked by the successful implementation of the system and the ability of the library to use the system to make more efficient purchasing decisions. </p>
 
-<h2> Risks </h2>
+== Risks ==
 
 <p> These high-level risks should be monitored and managed throughout the project to minimize their impact on the project's success. </p>
 
@@ -384,7 +384,7 @@ Intended Effects of the Business Case:
 <li> Budget and timeline risks: Due to unanticipated difficulties, delays, or scope creep, the project may go above its allotted spending limit or completion date. </li>
 </ul>
 
-<h2> Project Deliverables </h2>
+== Project Deliverables ==
 
 <p> The following deliverables must be met upon the successful completion of the SmartBooks Project.  Any changes to these deliverables must be approved by the project sponsor. </p>
 
@@ -395,11 +395,23 @@ Intended Effects of the Business Case:
 <li> <b> Procurement Plan: </b> The procurement plan will outline the process for purchasing new books and eBooks, including how to evaluate usage patterns and determine which materials to acquire. </li> 
 </ol>
 
-<h2> Summary Milestones Schedule </h2>
+== Summary Milestones Schedule ==
 
 <p> The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. </p>
 
-![summaryMilestone](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/70191087/8baa53a6-50b3-4495-8fcd-d02da76e6311)
+<table>
+<tr>
+<th colspan="2"> Summary Milestone Schedule – List key project milestones relative to project start. </th>
+</tr>
+
+<tr> 
+<th> Project Milstone </th>
+<th> target Data </th>
+</tr>
+
+</table>
+
+
 
 
 
