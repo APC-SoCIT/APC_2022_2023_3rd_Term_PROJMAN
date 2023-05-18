@@ -845,6 +845,499 @@ Co-Manager: Marc Shane Rowy
 
 <p> Please note that the scope change process and its integration with the project schedule may vary based on the specific requirements and dynamics of the SmartBooks project. </p> 
 
+= Work Breakdown Structure = 
+
+== Introduction == 
+
+<p> The Work Breakdown Structure (WBS) is a hierarchical breakdown of the project's deliverables and work activities that provides a framework for organizing and managing the project. For the SmartBooks project, which aims to optimize book and eBook acquisition and utilization in Asia Pacific College Library, the WBS is a critical component that helps to ensure the project is completed on time, within budget, and meets the requirements of stakeholders. The WBS identifies all the necessary tasks, resources, and dependencies required to complete the project successfully, allowing for efficient planning and management of the project from start to finish. </p> 
+
+== Hierarchical Structure == 
+
+<table> 
+
+<tr> 
+<th> Level </th>
+<th> WBS Code </th>
+<th> Element Name </th>
+</tr>
+
+<tr> 
+<td> 1 </td>
+<td> 1 </td>
+<td> SmartBooks Utilization in Asia Pacific College Library </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.1 </td>
+<td> Requirements Analysis </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.1.1 </td>
+<td> Define project requirements </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.1.2 </td>
+<td> Gather and analyze user requirements </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.1.3 </td>
+<td> Determine project scope and constraints </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.1.4 </td>
+<td> Create a requirements traceability matrix </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.2 </td>
+<td> Design </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.1 </td>
+<td> Create a design document </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.2 </td>
+<td> Determine the database schema </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.3 </td>
+<td> Create wireframes for the user interface </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.4 </td>
+<td> Design the system architecture </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.5 </td>
+<td> Create a data flow diagram </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.3 </td>
+<td> Development </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.1 </td>
+<td> Set up the development environment </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.2 </td>
+<td> Develop the user interface </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.3 </td>
+<td> Create the database schema </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.4 </td>
+<td> Develop the backend functionality </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.5 </td>
+<td> Integrate SmartBooks with the existing Library website </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.4 </td>
+<td> Integrate SmartBooks with the existing Library website </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.1 </td>
+<td> Integrate SmartBooks with the existing Library website </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.2 </td>
+<td> Conduct unit testing </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.3 </td>
+<td> Conduct integration testing </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.4 </td>
+<td> Conduct system testing </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.5 </td>
+<td> Conduct user acceptance testing </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.5 </td>
+<td> Deployment </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.5.1 </td>
+<td> Create a deployment plan </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.5.2 </td>
+<td> Prepare the production environment </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.5.3 </td>
+<td> Install SmartBooks in the production environment </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.5.4 </td>
+<td> Perform system testing in the production environment </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.6 </td>
+<td> Maintenance and Support </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.1 </td>
+<td> Provide user training </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.2 </td>
+<td> Monitor system performance </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.3 </td>
+<td> Provide ongoing technical support </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.4 </td>
+<td> Perform system maintenance </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.5 </td>
+<td> Address user feedback and feature requests </td>
+</tr>
+
+</table>
+
+== Tree Structure View == 
+
+== WBS Dictionary ==
+
+<table> 
+
+<tr> 
+<th> Level </th>
+<th> WBS Code </th>
+<th> Element Name </th>
+<th> Definition </th>
+</tr>
+
+<tr> 
+<td> 1 </td>
+<td> 1 </td>
+<td> SmartBooks Utilization in Asia Pacific College Library </td>
+<td> SmartBooks is a digital platform that utilizes data analytics and visualization to provide insights into patterns and trends in student usage of a library's resources. Its purpose is to optimize the library's operations and enhance the user experience. </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.1 </td>
+<td> Requirements Analysis </td>
+<td> The process of identifying and documenting the needs and constraints of stakeholders for a project. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.1.1 </td>
+<td> Define project requirements </td>
+<td> Process of translating the needs and constraints into specific, measurable, and achievable requirements for a project. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.1.2 </td>
+<td> Gather and analyze user requirements </td>
+<td> Collecting and evaluating the needs and constraints of end-users for a project. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.1.3 </td>
+<td> Determine project scope and constraints </td>
+<td> Identifying and defining the boundaries and limitations of a project. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.1.4 </td>
+<td> Create a requirements traceability matrix </td>
+<td> A tool for tracking and managing requirements throughout a project's lifecycle. </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.2 </td>
+<td> Design </td>
+<td> The work for the planning process for the project. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.1 </td>
+<td> Create a design document </td>
+<td> The process of creating a plan or blueprint for the project. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.2 </td>
+<td> Determine the database schema </td>
+<td> Document that outlines the design and functionality of the project. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.3 </td>
+<td> Create wireframes for the user interface </td>
+<td> Defining the structure, constraints and relationships of the project's database. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.4 </td>
+<td> Design the system architecture </td>
+<td> Visual representation of the project's user interface. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.2.5 </td>
+<td> Create a data flow diagram </td>
+<td> Creating a high-level plan for the technical components of the project. </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.3 </td>
+<td> Development </td>
+<td> The process of building and testing the project's functionality and features. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.1 </td>
+<td> Set up the development environment </td>
+<td> Creating the necessary tools and resources to begin development. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.2 </td>
+<td> Develop the user interface </td>
+<td> Creating the visual and interactive elements that users will interact with. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.3 </td>
+<td> Create the database schema </td>
+<td> Defining the structure, constraints, and relationships of the project's database. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.4 </td>
+<td> Develop the backend functionality </td>
+<td> Building the code that supports the project's features and functionality. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.3.5 </td>
+<td> Integrate SmartBooks with the existing Library website </td>
+<td> The process of building and testing the project's functionality and features. </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.4 </td>
+<td> Integrate SmartBooks with the existing Library website </td>
+<td> The process of evaluating a system or component with the intent of finding and resolving defects. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.1 </td>
+<td> Integrate SmartBooks with the existing Library website </td>
+<td> Document outlining the testing approach, scope, objectives and schedules. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.2 </td>
+<td> Conduct unit testing </td>
+<td> Testing individual units or components of the project to ensure they function as expected. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.3 </td>
+<td> Conduct integration testing </td>
+<td> Testing how different components of the project work together to ensure they function as expected. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.4 </td>
+<td> Conduct system testing </td>
+<td> Testing the system as a whole to ensure it meets the project requirements. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.4.5 </td>
+<td> Conduct user acceptance testing </td>
+<td> Testing the system by end-users to ensure it meets their needs and requirements. </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.5 </td>
+<td> Deployment </td>
+<td> The process of delivering the software product into the operational environment. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.5.1 </td>
+<td> Create a deployment plan </td>
+<td> A plan that outlines the steps to deploy the software product into the operational environment. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.5.2 </td>
+<td> Prepare the production environment </td>
+<td> Setting up the hardware, software, and network infrastructure to support the deployed software product. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.5.3 </td>
+<td> Install SmartBooks in the production environment </td>
+<td> The process of installing SmartBooks software in the operational environment. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.5.4 </td>
+<td> Perform system testing in the production environment </td>
+<td> Testing the software product in the operational environment to ensure that it meets the specified requirements. </td>
+</tr>
+
+<tr> 
+<td> 2 </td>
+<td> 1.6 </td>
+<td> Maintenance and Support </td>
+<td> All project related files and documents are formally archived. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.1 </td>
+<td> Provide user training </td>
+<td> The ongoing process of providing updates, fixing bugs, and offering technical assistance to ensure the smooth operation of a system or software. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.2 </td>
+<td> Monitor system performance </td>
+<td> Educating users on how to use the system. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.3 </td>
+<td> Provide ongoing technical support </td>
+<td> Regularly checking system performance and identifying any issues. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.4 </td>
+<td> Perform system maintenance </td>
+<td> Offering continuous technical assistance to users of the system. </td>
+</tr>
+
+<tr> 
+<td> 3 </td>
+<td> 1.6.5 </td>
+<td> Address user feedback and feature requests </td>
+<td> Conducting regular maintenance activities to ensure system stability and performance. </td>
+</tr>
+
+</table>
+
+== Glossary of Terms == 
+
+<ul>
+
+<li> 
 
 
 
