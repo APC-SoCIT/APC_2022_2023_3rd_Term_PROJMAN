@@ -1662,7 +1662,50 @@ As for the RAM-IT's purpose and scope, it is needed to have management within th
 It should be regular for the team to check and review the member assigned and it's working deliverable and remains the scope and purpose of the project aligns with the project's goal. The project manager needs to call and advise the members about their roles and responsibilities and their sub-category roles for emergencies, to properly manage the staffing within the team.
 </p>
 
-<h3>Table is in under processing..</h3>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Project Responsibility</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Skills Required</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Performance Review</p></td>
+	</tr>
+
+	<tr>
+		<td><p style="text-align:center;"><em>Sponsor</em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+		<td><p style="text-align:center;"><em></em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+	</tr>
+
+        <tr>
+		<td><p style="text-align:center;"><em>Adviser</em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+		<td><p style="text-align:center;"><em></em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+	</tr>
+
+        <tr>
+		<td><p style="text-align:center;"><em>Manager</em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+		<td><p style="text-align:center;"><em></em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+	</tr>
+
+        <tr>
+		<td><p style="text-align:center;"><em>Programmer</em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+		<td><p style="text-align:center;"><em></em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+	</tr>
+
+        <tr>
+		<td><p style="text-align:center;"><em>Docummentation</em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+		<td><p style="text-align:center;"><em></em></p></td>
+                <td><p style="text-align:center;"><em></em></p></td>
+	</tr>
+
+</table>
 
 =Change Management Plan=
 
