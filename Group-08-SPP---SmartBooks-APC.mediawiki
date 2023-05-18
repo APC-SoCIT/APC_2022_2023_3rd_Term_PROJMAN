@@ -1075,6 +1075,78 @@ Co-Manager: Marc Shane Rowy
 
 == Tree Structure View == 
 
+<b> SmartBooks </b>
+# Requirement Analysis
+## Define Project requirements
+## Gather and analyze user requirements
+## Determine project scope and constraints
+## Create a requirements traceability matrix
+# Design
+## Create a design document
+## Determine the database schema
+## Create wireframes for the user interface
+## Design the system architecture
+## Create a data flow diagram
+# Development 
+## Set up the development environment
+## Develop the user interface
+## Create the database schema
+## Develop the backend functionality
+## Integrate Smartbooks with the existing Library website 
+# Testing
+## Develop a test plan
+## Conduct unit testing
+## Conduct integration Testing
+## Conduct system testing 
+## Conduct user acceptance testing
+# Deployment
+## Create a deployment plan
+## Prepare the production environment
+## Install Smartbooks in the production environment
+## Perform system testing in the production environment
+# Maintenance and Support
+## Provide user training
+## Monitor system performance
+## Provide ongoing technical support
+## Perform system maintenance
+## Address user feedback and feature requests
+
+<b> SmartBooks </b>
+# Requirement Analysis
+## Define Project requirements
+## Gather and analyze user requirements
+## Determine project scope and constraints
+## Create a requirements traceability matrix
+# Design
+## Create a design document
+## Determine the database schema
+## Create wireframes for the user interface
+## Design the system architecture
+## Create a data flow diagram
+# Development 
+## Set up the development environment
+## Develop the user interface
+## Create the database schema
+## Develop the backend functionality
+## Integrate Smartbooks with the existing Library website 
+# Testing
+## Develop a test plan
+## Conduct unit testing
+## Conduct integration Testing
+## Conduct system testing 
+## Conduct user acceptance testing
+# Deployment
+## Create a deployment plan
+## Prepare the production environment
+## Install Smartbooks in the production environment
+## Perform system testing in the production environment
+# Maintenance and Support
+## Provide user training
+## Monitor system performance
+## Provide ongoing technical support
+## Perform system maintenance
+## Address user feedback and feature requests
+
 == WBS Dictionary ==
 
 <table> 
@@ -1336,8 +1408,9 @@ Co-Manager: Marc Shane Rowy
 == Glossary of Terms == 
 
 <ul>
-
-<li> 
-
-
+<li> <b> Smartbooks </b> - An online platform that provides insights and statistics about the usage patterns of students in the Asia Pacific College Library. </li> 
+<li> <b> Dashboard </b> - A visual display of data that provides real-time insights into key performance indicators. </li> 
+<li> <b> Usage patterns </b> - The behavior of students in the library, including the number of books borrowed, frequency of visits, and other metrics. </li> 
+<li> <b> Quality Checklists </b> - Lists of criteria used to ensure that the deliverables meet the required quality standards. </li> 
+</ul>
 
