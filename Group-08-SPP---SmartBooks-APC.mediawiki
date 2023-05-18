@@ -54,7 +54,6 @@
 <p> Asia Pacific College Library established a vision to provide a holistic learning experience to its students, the library plays a crucial role in supporting the academic endeavors of the college. With a vast collection of books, scholarly journals, and digital resources, the library serves as a hub of knowledge and research for students, faculty, and staff. </p>
 
 <p> In today's digital age, the library recognizes the import ance of staying at the forefront of technological advancements to enhance the learning experience. Hence, the decision to adopt SmartBooks, an innovative solution for optimizing book and eBook acquisition and utilization, aligns perfectly with the library's commitment to providing cutting-edge resources and services to its users. By implementing SmartBooks, the library aims to revolutionize the way students access and interact with educational materials. The platform's features, such as usage pattern analysis and comprehensive statistics, will enable the library to gain valuable insights into students' reading habits, preferences, and information needs. This data-driven approach will not only enhance the library's collection development strategies but also empower students with personalized recommendations and a seamless digital reading experience. Overall, the adoption of SmartBooks aligns with Asia Pacific College Library's mission to foster a dynamic learning environment and ensure that students have access to the most relevant and engaging educational resources available. </p>
-***
 
 = Business Case =
 <h2> Executive Summary </h2> 
@@ -69,7 +68,7 @@
 
 <p> The anticipated outcomes of the SmartBooks project are numerous and impactful. By implementing an automated library management system, the project aims to increase book utilization by 25%, improve access to relevant resources for employees, and reduce the time it takes to locate and borrow books. As a result, employees will have easier access to the information they need to perform their work, leading to increased efficiency and productivity in the organization. The project will also improve the availability and accessibility of resources for employees, leading to a more satisfied and engaged workforce. Additionally, the project will reduce the library's expenditures on books and ebooks by 10%, leading to cost savings for the organization. Overall, the SmartBooks project will have a positive impact on the organization's bottom line and contribute to its overall success. </p>
 
-<h2>Recommendation</h2>
+<h2> Recommendation </h2>
 
 <p> The proposed project, SmartBooks, is a comprehensive initiative aimed at optimizing book and ebook acquisition and utilization in the Asia Pacific College Library. The current manual process for library book management has resulted in low utilization of available resources, which has been identified as a critical issue for the organization. The proposed project will address this issue by implementing an automated library management system that will make it easier for employees to locate and borrow books. This system will also help in tracking the usage of books, identifying popular titles, and improving the overall management of the library. The SmartBooks project aims to increase book utilization by 25%, improve access to relevant resources for employees, and reduce the time it takes to locate and borrow books. Overall, the project is expected to improve the availability and accessibility of resources for employees, leading to increased efficiency and productivity in the organization. </p> 
 
@@ -178,7 +177,7 @@ Budget:  </p>
 <li> <b> Project Review and Evaluation: </b> This milestone will involve a review of the project's goals, timelines, and budgets, as well as an evaluation of its effectiveness and impact on the organization. Target Completion Date: 6 months from project kickoff. </li>
 </ul> 
 
- = Strategic Alignment = 
+= Strategic Alignment = 
 
 <p> The proposed initiative, which intends to enhance the collection's acquisition and usage of books and eBooks at Asia Pacific College, is consistent with the organization's strategic goals in the following ways: </p>
 
@@ -202,18 +201,28 @@ Budget:  </p>
 <td> ₱200,000 </td>
 </tr>
 
+<tr>
+<td> Hardware and Software Upgrades </td>
+<td> ₱50,000 </td>
+</tr>
+
+<tr>
+<td> Total Project Cost </td>
+<td> ₱270,000 </td>
+</tr>
+
 </table>
-Hardware and software upgrades: ₱50,000
-Employee training: ₱20,000
-Total project cost: ₱270,000
 
-**Benefits:**
-Increased book utilization by 25%: estimated annual savings of ₱75,000
-Improved student satisfaction with library collection by 15%: potential increase in student retention and enrollment, resulting in estimated annual revenue increase of ₱100,000
-Reduced library expenditures on books and ebooks by 10%: estimated annual savings of ₱40,000
+<h3> Benefits </h3> 
 
-**Total annual benefits:**
- ₱215,000
+<ul> 
+<li> Increased Book Utilization by 25%: estimated annual savings of ₱75,000 </li> 
+<li> Improved Student Satisfaction with Library Collection by 15%: potential increase in student retention and enrollment, resulting in estimated annual revenue increase of ₱100,000 </li> 
+<li> Reduced Library Expenditures on Books and eBooks by 10%: estimated annual savings of ₱40,000 </li> 
+</ul> 
+
+<b> Total Annual Benefits </b> 
+<ul> ₱215,000 </ul> 
 
 **Cost-Benefit Analysis:**
 * Total project cost: ₱270,000
