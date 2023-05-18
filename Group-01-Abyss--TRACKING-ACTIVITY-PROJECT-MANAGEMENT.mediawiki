@@ -65,27 +65,27 @@
 <p>The Asia Pacific College is devoted to advancing knowledge and educating students in information technology, commerce, engineering, accountancy, entrepreneurship, multimedia arts, and other areas of scholarship that will best serve the global community in the 21st century. Graduates of APC are now found in all sectors of businesses and industries. They translate their knowledge into products, services, and jobs. </p>
 
 =Business Case=
-<h2>Executive Summary</h2>
+==Executive Summary==
 
 <p>The Tracking Activity Project Management project aims to address common issues and problems in  project  management  by  using  tools  and  techniques  to  track  progress  and  manage  tasks.  By implementing  tracking  activity  project  management  tools,  project  managers can  gain  better visibility into project status and identify potential bottlenecks or delays. This allows them to act and adjust to ensure the project stays on track. In  addition  to  tracking  progress,  project  management  tools  can  provide  many  other  benefits, including  improved  communication  between  team  members,  better  alignment  of  project objectives  with  overall  business  goals,  and  more  effective  prioritization  of  tasks.  Successful implementation  of  tracking  activity  project  management  tools  can  lead  to improved  project outcomes and greater efficiency and productivity for the organization. Overall,  the  Tracking  Activity  Project  Management  project  represents  a  valuable  initiative  to improve  project  outcomes  and  increase  efficiency  in  project  management.  By  implementing these tools and techniques, organizations can improve their project management practices and achieve better outcomes.</p>
 
-<h2>Issue</h2>
+==Issue==
 
 <p>The Project Development Office of Asia Pacific is having difficulty monitoring the status of the school's internal and external projects promptly. This includes the lack of visibility into project status,  potential  bottlenecks  or  delays,  poor  communication  among  team  members,  and difficulty aligning project objectives with overall business goals. These issues often result in missed deadlines, cost overruns, and poor-quality outcomes.</p>
 
-<h2>Anticipated Outcomes</h2>
+==Anticipated Outcomes==
 
 <p>The implementation of Tracking Activity Project Management can lead to improved project outcomes,  including  meeting  project  timelines,  staying  within  budget,  delivering  quality products or services, improved communication among team members, better alignment of project  objectives  with  overall  business  goals,  and  more  effective  prioritization  of  tasks.  In which case, it should benefit the stakeholders in increased efficiency and productivity for the organization and better utilization of resources.</p>
 
-<h2>Recommendation</h2>
+==Recommendation==
 
 <p>Implementing a systemwhich will solve the problem basedon lack of supervision, as such, a tool  that  will  be  used  in  improving  project  management  practices  and  achieve  better outcomes. Hence, the name Tracking Activity Project Management, will be a system that will provide real-time updates, task assignment, and progress tracking</p>
 
-<h2>Justification</h2>
+==Justification==
 
 <p>By  implementing  the  Tracking  Activity  Project  Management system, we  willbe  focused onthe need to meet market demands, improve project outcomes, and stay competitive in the marketplace. In  addition,  this  system  can help optimize  resource  allocation,  enhance team collaboration, and increase efficiency, resulting in cost savings and improved IT security.By implementing these tools, organizations can establish best practices for project management and improve their overall efficiency and productivity.</p>
 
-<h2>Business Case Analysis Team</h2>
+==Business Case Analysis Team==
 
 <table border="1" width="70%" align="center">
 	<tr>
@@ -114,11 +114,11 @@
 </table>
 <br />
 
-<h2>Problem Statement</h2>
+==Problem Statement==
 
 <p>There are current Tracking Activity and Project  Management processes that are inefficient and time-consuming,  resulting  in  misunderstandings,  missed deadlines,  and delays in project completion.</p>
 
-<h2>Organizational Impact</h2>
+==Organizational Impact==
 <ul>
 	<li>
 		Increased  Efficiency: A well  designed and  effective  Tracking  Activity  and  Project Management system can be used to optimize resource use, avoid duplication of work, and improve project workflows.
@@ -131,7 +131,7 @@
 	</li>
 </ul>
 
-<h2>Technology Migration</h2>
+==Technology Migration==
 <p>This are the technology migration for the Project Tracking Activity Management:</p>
 <ul>
 	<li>
@@ -157,7 +157,7 @@
 	</li>
 </ul>
 
-<h2>Project Overview</h2>
+==Project Overview==
 
 <p>The project aims to develop a website/system that will help the Asia Pacific College's Project Development Office monitor the progress of their internal and external projects promptly. The system will provide a platform that can enhance the PDO's capacity to track projects and generate reports efficiently.</p>
 
@@ -189,7 +189,7 @@
 	</li>
 </ul>
 
-<h2>Goals and Objectives</h2>
+==Goals and Objectives==
 
 <p>The listed goals and objectives below are designed to achieve the project's goals, which are to enhance the Project Development Office's capacity to track project progress and generate reports in a timely manner, improve project delivery and industry partner satisfaction, provide a collaboration space for student groups and faculty members, develop a system that can monitor the status of projects under PBL2 and allow the PDO to manage project expectations efficiently, and ensure the confidentiality of project information through a robust security mechanism. </p>
 
@@ -237,7 +237,7 @@
 	</li>
 </ul>
 
-<h2>Risks</h2>
+==Risks==
 <table width="795" border="1" width="70%" align="center">
 <tr>
 <td width="48" bgcolor="lightblue">
@@ -435,7 +435,7 @@
 </tr>
 </table>
 
-<h2>Major Project Milestones</h2>
+==Major Project Milestones==
 
 <p>The specific timeline and milestones for each phase of the project will depend on the project scope, complexity, and resource availability. By breaking down the project into these major milestones, you can track progress and ensure that the project stays on schedule and within budget. </p>
 
@@ -464,7 +464,7 @@
 	</li>
 </ul>
 
-<h2>Strategic Alignment</h2>
+==Strategic Alignment==
 
 <p>The project aligns with the goals and vision of the faculty, teachers and PDO which includes the needs to provide efficiency, enhancement of academic performance and simple to use application for tracking progress, task completion, display project information and monitoring projects being managed. Also, this project will be useful in taking on projects like PBL2, which many projects are based on. </p>
 
@@ -472,21 +472,21 @@
 
 <p>The project will be conducted with the guidance of the advisors, teachers, client, and the students assigned will work on the project with intensive research, documentation, and enough programming skills to ensure the project meet the requirements of the stakeholders. Lastly, to measure the project's success is if it has reached the approval of the panelist, also, the project team will analyze the efficiency and impact the project has on the participants or users. </p>
 
-<h2>Cost Benefit Analysis</h2>
+==Cost Benefit Analysis==
 
 <p>The project will mostly include the cost of developing the software, how to use our instruction for the applications, and the server that will be used. The benefit side of this project, upon forming the analysis it can improve the delivery of the project, increasing the satisfaction of the client, increasing efficiency, and saving the time on project tracking and reporting. Other benefits include better collaboration and communication with student groups and faculty/teachers, and security and privacy of project information. </p>
 
 =Project Charter=
 
-<h2>Executive Summary</h2>
+==Executive Summary==
 
 <p>The Tracking Activity Project Management project is focused on resolving common issues and challenges faced in project management by utilizing tools and techniques to track progress and manage tasks. These project management tools help managers gain better visibility into the project's status, identify potential delays, and take corrective action to ensure the project stays on track. Additionally, these tools aid in improving communication between team members, aligning project objectives with business goals, and prioritizing tasks effectively. Implementing these project management tools successfully can result in better project outcomes, increased efficiency, and productivity for the organization. Overall, the Tracking Activity Project Management project is an excellent initiative to improve project outcomes and increase efficiency in project management practices. By adopting these tools and techniques, organizations can enhance their project management practices and achieve better results.</p>
 
-<h2>Project Purpose/Justification</h2>
+==Project Purpose/Justification==
 
 <p>The purpose of this project  is  to  create  a  project  tracker  platform  that  enables  the  Project Development  Office  (PDO)  of  Asia  Pacific  College  to  efficiently  monitor  and  track  the progress  of  multiple  student  teams  working  on  a single  project  in  collaboration  with industry  partners.  The  project  deliverables  shall  include  a  collaborative  platform  with additional features that can help monitor, track, participate, and generate reports for the assigned  student  groups,  as  well  as  a  project  plan  that  includes  a  scope  statement, schedule,   cost   estimate,   budget,   and   provisions   for   scope,   resource,   schedule, communications,  quality,  risk,  procurement,  and  stakeholder  management  as  well  as project control. The project aims to improve the efficiency and effectiveness of the PDO and any educators  facing  similar  issues  in monitoring  student  team  progress on  group projects. The project may also address the fourth Sustainable Development Goal, which is  Quality  Education,  by  enhancing  the  educational  experience  of  students  through improved project management and monitoring.</p>
 
-<h2>Business Need/Case</h2>
+==Business Need/Case==
 
 <p>In today's fast-paced business environment, there is a growing demand for efficient and effective project management. The PDO needed to be able to deliver projects on time and within timeframe to remain concise. Tracking activity project management tools can help organizations meet this demand by improving project visibility, communication, and efficiency. </p>
 
@@ -497,7 +497,7 @@
 <p>In summary, the Business Need/Case for tracking activity project management is driven by a combination of market demand, organizational need, customer request, and technological advance. By implementing these tools, organizations can improve their project management capabilities, meet customer demands, and stay competitive in the marketplace. </p>
 
 
-<h2>Business Objectives</h2>
+==Business Objectives==
 
 <p>The business objectives for this project are in direct support of our corporate strategic plan to improve IT security and reduce costs associated with loss and waste.</p>
 <ul>
@@ -516,13 +516,13 @@
 
 </ul>
 
-<h2>Project Description</h2>
+==Project Description==
 
 <p>The project will be executed in phases, with the first phase focused on assessing the PDO/Faculty current project management practices and identifying areas for improvement. This will involve working closely with PDO, team members, and faculty/teachers to gather information about current project management practices and identify gaps and opportunities for improvement.</p>
 
 <p>In the subsequent phases, project management tools and technologies will be implemented, including project planning software, and project tracking and viewing mechanisms. The project team will work with project managers and team members to ensure that these tools are customized to meet the organization's specific needs.</p>
 
-<h2>Project Objectives and Success Criteria</h2>
+==Project Objectives and Success Criteria==
 
 <p>The objectives which mutually support the milestones and deliverables for this project have been identified.  To achieve success on the project, the following objectives for the tracking activity and project management project must be met within the designated time allocations:</p>
 <ul>
@@ -543,7 +543,7 @@
 	</li>
 </ul>
 
-<h2>Requirements</h2>
+==Requirements==
 
 <p>This project must meet the following list of requirements in order to achieve success.</p>
 <ul>
@@ -568,7 +568,7 @@
 
 </ul>
 
-<h2>Assumptions</h2>
+==Assumptions==
 
 <p>The following are a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:</p>
 <ul>
@@ -591,7 +591,7 @@
 		The project team assumes that communication channels will be clear and open, allowing for effective collaboration and problem-solving.
 	</li>
 </ul>
-<h2>Risks</h2>
+==Risks==
 
 <p>The following risks for the ISA project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:</p>
 <ul>
@@ -603,7 +603,7 @@
 	</li>
 </ul>
 
-<h2>Project Deliverables</h2>
+==Project Deliverables==
 <p>The following deliverables must be made upon the successful completion of the ISA project.  Any changes to these deliverables must be approved by the project sponsor. </p>
 <ul>
 	<li>
@@ -622,7 +622,7 @@
 		A working prototype of the tracking system to demonstrate its functionality and test it with PDO.  
 	</li>
 </ul>
-<h2>Summary Milestone Schedule</h2>
+==Summary Milestone Schedule==
 
 <table border="1" width="70%" align="center">
 	<tr>
@@ -691,25 +691,25 @@
 	</tr>
 </table>
 
-<h2>Summary Budget</h2>
+==Summary Budget==
 
-<h2>Project Approval Requirements</h2>
+==Project Approval Requirements==
 
 <p>Success for the Tracking Activity and Project Management includes obtaining approval from the project sponsor and stakeholders for the project charter, business case, and project plan. The project manager must ensure that the project aligns with the organization's strategic plan and that the project objectives are SMART. The project manager must also obtain approval for any changes to the project scope, schedule, or budget. Finally, the project manager must ensure that all project documentation is up to date and that project deliverables meet quality standards before seeking final approval and closing out the project.</p>
 
 <p>Success for the Tracking Activity and Project Management (TAPM) project will be achieved when a fully tested program functions properly, and all technical documentation, diagrams, finalization of the paper, is fully approved throughout the panelist being presented and from the client and advisor within term.  Additionally, success for the TAPM project will be determined by meeting the project objectives and completing the project within the approved schedule. The project team must also ensure that all deliverables are of high quality and meet the needs of the PDO. Regular communication with the PDO, advisor, teacher, and project team is critical to ensure that the project stays on track and any issues are addressed in a timely manner. Finally, once the project is completed, a thorough evaluation will be conducted to ensure that all project requirements have been met and that the project has achieved its intended outcomes. </p>
 
-<h2>Project Manager</h2>
+==Project Manager==
 
 <p>The Project Manager for the duration of the Tracking Activity and Project Management (TAPM) project will be Noreen Keziah Sioco she will be responsible for managing and dividing the completion of tasks, scheduling, and communication regarding the TAPM project. Her team, consisting of 5 members, all software and security students, will be the matrix support of the faculty. Noreen Keziah Sioco will coordinate all requirements through the PDO, Jayvee Cabardo. He will be advising and looking over the team till the completion of the project. Project team will provide weekly updates to the PDO about the project's progress.</p>
 
 =Stakeholder Strategy Management Plan=
 
-<h2>Purpose</h2>
+==Purpose==
 
 <p>The  Stakeholder  Management  Strategy  for  the  project  charter,  which  authorizes  the Project  Development  Office  (PDO)  of  Asia  Pacific  College  to  create  a  collaborative platform  to  monitor,  track,  participate  and  generate  reports  for  projects  assigned  to student groups in partnership with industry partners. The PDO aims to work closely with proponents   to   develop   a   project   plan   that   includes   provisions   for   stakeholder management,  among  other  key  project  components.  The  goal  is  to  ensure  that  all stakeholders are adequately identified, engaged and managed throughout the project's lifecycle.  The  successful  implementation  of  the  Stakeholder  Management  Strategy  will enable  the  PDO  to  gain  stakeholder  support,  prevent  conflicts,  and  enhance  project outcomes.</p>
 
-<h2>Stakeholders Identification</h2>
+==Stakeholders Identification==
 
 <ul>
 	<li>Group name</li>
@@ -883,13 +883,13 @@
 		</tr>
 </table>
 
-<h2>Power/Interest Classification</h2>
+==Power/Interest Classification==
 
-<h2><em></em>Stakeholder Interviews</h2>
+==Stakeholder Interviews==
 
-<h2>Plan Stakeholder Management</h2>
+==Plan Stakeholder Management==
 
-<h2>Stakeholder Engagement</h2>
+==Stakeholder Engagement==
 
 <table border="1" width="70%" align="center">
 		<tr>
@@ -996,23 +996,23 @@
 <p><strong>Stakeholder Engagement Assessment Matrix.  </strong>List stakeholders and place a “C” for their current level of engagement and “D” in the column of their desired level of engagement.</p>
 
 
-<h2>Manage Stakeholder Engagement</h2>
+==Manage Stakeholder Engagement==
 
-<h2>Monitor Stakeholder Engagement</h2>
+==Monitor Stakeholder Engagement==
 
 
-<h2>Stakeholder Plan Updates</h2>
+==Stakeholder Plan Updates==
 
 
 
 =Scope Management Plan=
 
 
-<h2>Introduction</h2>
+==Introduction==
 
 <p>The  Stakeholder  Management  Strategy  for  the  project  charter,  which  authorizes  the Project  Development  Office  (PDO)  of  Asia  Pacific  College  to  create  a  collaborative platform  to  monitor,  track,  participate  and  generate  reports  for  projects  assigned  to student groups in partnership with industry partners. The PDO aims to work closely with proponents   to   develop   a   project   plan   that   includes   provisions   for   stakeholder management,  among  other  key  project  components.  The  goal  is  to  ensure  that  all stakeholders are adequately identified, engaged and managed throughout the project's lifecycle.  The  successful  implementation  of  the  Stakeholder  Management  Strategy  will enable  the  PDO  to  gain  stakeholder  support,  prevent  conflicts,  and  enhance  project outcomes.</p>
 
-<h2>Scope Management Approach</h2>
+==Scope Management Approach==
 <ol>
 <li>
 Authority and responsibility for scope management will be held by Noreen Keziah S.  Sioco,  the project  manager  of  group Abyss. She will  closely  collaborate  with the project sponsor, Mr. Jayvee Cabardo, and other key stakeholders to establish and manage the project's scope.
@@ -1030,7 +1030,8 @@ The  scope  change  process  for  the  Tracking  Activity  Project  Management  
 The  project's  final  deliverables  will  be  accepted  and  approved  by  the  project sponsor and other key stakeholders, with Mr. Jayvee Cabardo being responsible for   verifying   that   all   project   requirements   have   been   satisfied.   Successful completion  of  the  project  will  be  confirmed  once  all  deliverables  have  been accepted, and any unresolved issues have been resolved.
 </li>
 </ol>
-<h2>Roles and Responsibilities </h2>
+
+==Roles and Responsibilities==
 
 <table border="1" width="70%" align="center">
 		<tr>
@@ -1074,11 +1075,12 @@ The  project's  final  deliverables  will  be  accepted  and  approved  by  the 
 			</td>
 		</tr>
 </table>
-<h2> Scope Definition </h2>
+
+==Scope Definition==
 
 <p>The  scope  of  this  project  aims  to  address  the  issues  faced  by  Mr.  Jayvee  Cabardo  in using  multiple  tracking  systems  and  checking  various  projects  simultaneously.  The project   will   focus   on   developing  a   system   that   enables   Mr.   Cabardo   and   other stakeholders,  such  as  students,  teachers,  and  consultants/advisors,  to  create  and manage   multiple   student   group   projects   simultaneously.   The   system   will   be implemented at Asia Pacific College (APC) and will ensure that projects are completed on time.</p>
 
-<h2> Project Scope Statement </h2>
+==Project Scope Statement==
 <ul>
 	<li>The Just-In-Time Website overall includes the design, functionality, and testing of the project for an E-Commerce Website. Additionality, will automate the transaction between the Customer to Distributor, and Distributor to Logistics. the payment gateway will be required to be implemented for the transaction to materialized into data entry while all the operations is processing in the background the effects of the automation of the transaction leads to reducing of inventory cost of the company.</li>
 	<li>The Just-In-Time Website will also include Analytics for the Marketing and Sales of the company to provide better business decisions in the company. Due to the time constraint of three months of planning, analysis, and development the project is forced to reduce the amount of work per sprint.</li>
@@ -1087,11 +1089,12 @@ The  project's  final  deliverables  will  be  accepted  and  approved  by  the 
 	<li>Bank-to-Bank method of payment gateway the project team and client agreed to avoid the work since the module requires the project team to apply credit cards transaction.</li>
 	<li>The project is not to exceed 180 days in duration, on the days of development will only use development tools, Environment, and equipment available to us. Assumptions for this project are that support will be provided by the project client, adviser, and all department managers and that information, data, as well as adequate resources are available for the successful completion of this project.</li>
 </ul>
-<h2> Work Breakdown Structure </h2>
+
+==Work Breakdown Structure==
 
 <p>The  Work  Breakdown  Structure  (WBS)  is  a  tool  that  will  be  used  to  divide  the  project into  smaller,  more  manageable  components.  This  hierarchical  representation  of  the project  scope  will  start  with  a  high-level  view  of  the  project  and  progressively  move down to a more detailed view. A companion document to the WBS, known as the WBS Dictionary,   will   provide   detailed   information about   each   component,   including deliverables, scope of work, responsibilities, and other relevant information. By  using  the  WBS  and  WBS  Dictionary,  the  project  team  will  be  able  to  assign responsibilities  for  each  component  of  the  project,  track  progress, and  ensure  that  all aspects of the project are accounted for. The WBS and WBS Dictionary will also help to identify and resolve issues and keep the project on track and within scope. The project team recognizes that the WBS and WBS Dictionary are essential tools for managing the project scope and ensuring the project's success.</p>
 
-<h2> Scope Verification </h2>
+==Scope Verification==
 
 <p>To  ensure  that  the  deliverables  of  the  Tracking  Activity  Project  Management  System project  align  with  the  original  project  scope,  the  project  team  will  employ  various methods for scope verification. These methods will involve:</p>
 <ul>
@@ -1111,11 +1114,11 @@ Formal acceptance: The  project  sponsor,  customer,  and  other  stakeholders  
 
 <p>Overall,   constant   communication   and   collaboration   with   the   customer   and   other stakeholders is essential throughout the project to ensure that the deliverables align with the original scope and are accepted formally.</p>
 
-<h2> Scope Control </h2>
+==Scope Control==
 
 <p>The scope control process for the Tracking Activity Project Management System project will involve regular reviews of the project's deliverables and progress to ensure that they align  with  the  original  project  scope  as  defined  in  the  Project  Scope  Statement.  Any deviations from the scope will be evaluated and, if necessary, changes to the scope will be  documented  and  approved  through  the  established  scope  change  process.  The Project  Manager  will  be  responsible  for  monitoring  and  controlling  the  project's  scope, with assistance from the project team and stakeholders. Periodic reviews of the project's scope  will  be  conducted  to  ensure  that  the  project  remains  on  track  and  within  the defined boundaries. The project manager will also be responsible for ensuring that any scope  changes  are  properly  documented  and  that  all  impacted  parties  are  notified  of any changes.</p>
 
-<h2> Scope Change </h2>
+==Scope Change==
 
 <p>The scope control process for the Tracking Activity Project Management System project will involve the following steps for making changes to the scope baseline:</p>
 <ol>
@@ -1141,7 +1144,7 @@ It  is  important  to  have a  formalized  process  for  making  changes  to  th
 
 =Cost Management Plan=
 
-<h2>Introduction</h2>
+==Introduction==
 
 <p>The Cost Management Plan for Tracking Activity Project Management (TAPM) is to outline the  approach  that  the  project  team  will  take  to  manage  costs  throughout  the  project.  The  plan outlines  the  methods  that  will  be  used  to  monitor  and  manage  costs,  such  as  budgeting,  cost reporting, and cost estimations.</p>
  
@@ -1161,7 +1164,7 @@ Submitted suggestions must be approved first by the Project Manager before execu
 </li>
 </ul>
 
-<h2>Cost Management Approach</h2>
+==Cost Management Approach==
 
 <p>The cost management approach for the tracking activity and project management system project will be based on these approaches including:</p>
 <ol type="a">
@@ -1184,7 +1187,7 @@ Cost Reporting: The  project  team  will  report  regularly  the  project  costs
 
 <p>By  adopting  these  approaches,  the  project  team  may  efficiently  manage  expenses  for  a  project that concentrates on tracking activity and project management by implementing these measures, ensuring that the project remains on track financially.</p>
 
-<h2>Measuring Project Costs</h2>
+==Measuring Project Costs==
 
 <p>The Project Tracking and Monitoring System (TAPM) cost almost nothing and involved the creation of software using Laravel and Visual Studio, as well as GitHub, we will use Man-hours and hourly rate to measure and control our project costs.</p>
 
@@ -1200,7 +1203,7 @@ Total Cost = 520 Hours * 375/hour = 195000</p>
 
 <p>To forecast future project costs, we will review cost performance over time and across work packages or schedule activities. This will help us identify any potential cost overruns or deviations from our project plan. By measuring and monitoring our project costs, we can ensure that we stay on track and deliver our project within budget.</p>
 
-<h2>Reporting Format</h2>
+==Reporting Format==
 
 <p>The ideal reporting format at the cost management plan for the Project Tracking and Monitoring System would be a financial report using a spreadsheet, excel, or table. This will include all the technical, maintenance, and for the hourly work of each member, inforamtion for the project budget that will be incurred.</p>
 <p>In addition to that there are format that are easily understandable and helpful for the stakeholders and theproject team, reporting is especially needed in seeing how much the expected cost and amount of a project, some helpful infographic can also be used upon reporting. The following formats can be used for the project Tracking and Monitoring System:</p>
@@ -1228,7 +1231,7 @@ Appendices
 </li>
 </ul>
 
-<h2>Cost Variance Response Process</h2>
+==Cost Variance Response Process==
 
 <p>Cost variable response for project TAPM is in the following:</p>
 <ul>
@@ -1296,7 +1299,7 @@ A budget for the actions
 </ul>
 </ul>
 
-<h2>Cost Change Control Process</h2>
+==Cost Change Control Process==
 
 <p><strong>Project Budget</strong></p>
 <p>            The budget for this project is detailed below.  Costs for this project are presented in various categories...</p>
@@ -2059,9 +2062,9 @@ A budget for the actions
 
 =Schedule Management Plan=
 
-<h2>Introduction</h2>
+==Introduction==
 
-<h2>Schedule Management Approach</h2>
+==Schedule Management Approach==
 
 <p>The following be assigned as points of reference or milestones for the project schedule:</p>
 <table border="1" width="70%" align="center">
@@ -2186,9 +2189,9 @@ A budget for the actions
 </table>
 <p> </p>
 
-<h2>Schedule Control</h2>
+==Schedule Control==
 
-<h2>Schedule Changes and Thresholds</h2>
+==Schedule Changes and Thresholds==
 
 <ul>
 	<li>The recommended change is reducing the duration or deliverables of an individual Sprint Backlog in developing phase in the project, or increasing the duration of individual Sprint Backlog by 10% or more, to clarify adding it to the duration not extending the work over all duration.</li>
@@ -2196,12 +2199,13 @@ A budget for the actions
 	<li>Another approach to the change is either to reduce the duration of the overall project schedule by 10% or more, or increase the duration of the overall project schedule by 2% or more.</li>
 </ul>
 
-<h2>Scope Change</h2>
+==Scope Change==
 
 =Quality Management Plan=
-<h2>Introduction</h2>
 
-<h2>Quality Management Approach</h2>
+==Introduction==
+
+==Quality Management Approach==
 
 <ul>
 	<li>Schedule</li>
@@ -2231,7 +2235,7 @@ A budget for the actions
 	<li>Customer Satisfaction (as a result of field trials)</li>
 </ul>
 
-<h2>Quality Requirements / Standards</h2>
+==Quality Requirements / Standards==
 
 <p><strong><em>Quality Factors:</em></strong></p>
 
@@ -2434,7 +2438,7 @@ A budget for the actions
 		</tr>
 </table>
 
-<h2>Quality Assurance</h2>
+==Quality Assurance==
 
 <table border="1" width="70%" align="center">
 		<tr>
