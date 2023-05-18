@@ -400,76 +400,175 @@ Intended Effects of the Business Case:
 <p> The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. </p>
 
 <table>
+
 <tr>
-<th colspan="2"> Summary Milestone Schedule – List key project milestones relative to project start. </th>
+<th colspan="2"> Summary Milestone Schedule – List key project milestones relative to project start </th>
 </tr>
 
 <tr> 
 <th> Project Milstone </th>
-<th> target Data </th>
+<th> Target Date </th>
+</tr>
+
+<tr>
+<td> Project initiation and planning phase
+<ul>
+<li> Define project scope and objectives. </li>
+<li> Develop project plan and schedule. </li>
+<li> Establish project team and roles. </li> </ul>
+</td>
+
+<td> June 1, 2023 </td>
+</tr>
+
+<tr>
+<td> Requirements gathering and analysis phase
+<ul>
+<li> Gather and analyze data on book and eBook usage patterns. </li>
+<li> Identify high-demand materials and potential new titles. </li>
+<li> Determine necessary system features and functionality. </li> </ul>
+</td>
+
+<td> June 15, 2023 </td>
+</tr>
+
+<tr>
+<td> System development and testing phase
+<ul>
+<li> Develop system for tracking book and eBook usage patterns. </li>
+<li> Test and refine the system to ensure accuracy and reliability. </li>
+<li> Implement necessary integrations with existing library systems. </li> </ul>
+</td>
+
+<td> July 15 – August 15 2023 </td>
+</tr>
+
+<tr>
+<td> Implementation and training phase
+<ul>
+<li> Train library staff on new system and processes </li>
+<li> Integrate new system with library operations. </li>
+<li> Launch new system to students and gather feedback. </li> </ul>
+</td>
+
+<td> September 1 – 15 2023 </td>
+</tr>
+
+<tr>
+<td> Maintenance and evaluation phase 
+<ul>
+<li> Monitor system performance and usage patterns. </li>
+<li> Collect and analyze user feedback for system improvements. </li>
+<li> Make necessary updates and modifications to system over time. </li> </ul>
+</td>
+
+<td> October 1, 2023 </td>
+</tr>
+
+<tr> 
+<th> Project Closure </th>
+<td> October 15, 2023 </td>
+</tr>
+
+
+</table>
+
+== Summary Budget ==
+
+<p> A summary budget based on the expected expenses needed to successfully complete the project and planned cost components is shown in the table below. </p>
+
+<table>
+
+<tr>
+<th colspan="2"> Summary Budget – List component project costs </th>
+</tr>
+
+<tr> 
+<th> Project Component </th>
+<th> Component Cost </th>
+</tr>
+
+<tr> 
+<td> Personnel (Project Manager, Developers, Testers, etc.) </td>
+<td> ₱200,000 </td>
+</tr>
+
+<tr> 
+<td> Hardware and Software </td>
+<td> ₱50,000 </td>
+</tr>
+
+<tr> 
+<td> Training and Documentation </td>
+<td> ₱10,000 </td>
+</tr>
+
+<tr> 
+<td> Contingency </td>
+<td> ₱20,000 </td>
+</tr>
+
+<tr>
+<th> Total Planned Cost </th>
+<td> ₱280,000 </td>
 </tr>
 
 </table>
 
+== Project Approval Requirements ==
 
+<p> The approval requirements for the SmartBooks Utilization project are as follows: </p>
 
+<ol>
 
+<li> Final approval of the project charter by the project sponsor. </li>
+<li> Approval of the project plan by the project sponsor and stakeholders. </li>
+<li> Approval of any changes to the project scope, schedule, or budget by the project sponsor and stakeholders. </li>
+<li> Completion and approval of all project deliverables by the project sponsor and stakeholders. </li>
+<li> Successful testing and acceptance of the system by library staff. </li>
+<li> Approval of the project closeout report by the project sponsor and stakeholders. </li>
+<li> Sign-off by the project sponsor indicating that all project objectives and success criteria have been met and that the project is complete. </li>
 
+</ol>
 
-## Summary Budget
+== Project Manager ==
 
-A summary budget based on the expected expenses needed to successfully complete the project and planned cost components is shown in the table below.
-
-![SummaryBudget](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/70191087/c64f2119-05fe-40ae-8e44-f6d0bebc1be7)
-
-## Project Approval Requirements 
-The approval requirements for the SmartBooks Utilization project are as follows:
-
-1. Final approval of the project charter by the project sponsor
-1. Approval of the project plan by the project sponsor and stakeholders
-1. Approval of any changes to the project scope, schedule, or budget by the project sponsor and stakeholders
-1. Completion and approval of all project deliverables by the project sponsor and stakeholders
-1. Successful testing and acceptance of the system by library staff
-1. Approval of the project closeout report by the project sponsor and stakeholders
-1. Sign-off by the project sponsor indicating that all project objectives and success criteria have been met and that the project is complete.
-
-## Project Manager
-
+<p>
 Name: Sim Paul Palacio
 Co-Manager: Marc Shane Rowy
+</p>
 
-Responsibility: The Project Manager is responsible for planning, executing, and closing the project within the defined budget, timeline, and scope. The Project Manager will also be responsible for managing the project team, ensuring all tasks are completed on time, and communicating with stakeholders.
+<p> Responsibility: The Project Manager is responsible for planning, executing, and closing the project within the defined budget, timeline, and scope. The Project Manager will also be responsible for managing the project team, ensuring all tasks are completed on time, and communicating with stakeholders. </p>
 
-Authority Level: The Project Manager will have the authority to manage project personnel, allocate resources, and make decisions related to project scope and schedule changes. Any major changes to the project budget or scope will require approval from the project sponsor.
-***
+<p> Authority Level: The Project Manager will have the authority to manage project personnel, allocate resources, and make decisions related to project scope and schedule changes. Any major changes to the project budget or scope will require approval from the project sponsor. </p>
 
-# Stakeholder Management Strategy Plan
+= Stakeholder Management Strategy Plan =
 
-## Introduction
+== Introduction ==
 
-Stakeholder management must be done effectively for any project to succeed. Among them is the program SmartBooks, whose objective is to increase the library's acquisition and utilization of printed books and eBooks. To ensure that the project is completed on schedule, within budget, and to everyone's satisfaction, a comprehensive stakeholder management strategy must be developed. The strategy's primary goals are to identify all stakeholders, analyze their interests, and decide how much communication and engagement is necessary to keep them informed and involved throughout the project's lifespan. With the aid of this strategy, we seek to lessen stakeholder opposition, disagreement, and conflict resulting from competing agendas and instead foster a supportive environment that will aid in the successful deployment of SmartBooks.
+<p> Stakeholder management must be done effectively for any project to succeed. Among them is the program SmartBooks, whose objective is to increase the library's acquisition and utilization of printed books and eBooks. To ensure that the project is completed on schedule, within budget, and to everyone's satisfaction, a comprehensive stakeholder management strategy must be developed. The strategy's primary goals are to identify all stakeholders, analyze their interests, and decide how much communication and engagement is necessary to keep them informed and involved throughout the project's lifespan. With the aid of this strategy, we seek to lessen stakeholder opposition, disagreement, and conflict resulting from competing agendas and instead foster a supportive environment that will aid in the successful deployment of SmartBooks. </p>
 
-## Identify Stakeholders 
+== Identify Stakeholders ==
 
-To effectively manage stakeholders for the SmartBooks project, the project team will use a systematic approach to identify all relevant stakeholders and their specific roles in the project. 
-The team will use a combination of techniques to identify additional stakeholders, including reviewing project documentation, conducting interviews with key personnel, and analyzing organizational charts. It is important to note that stakeholders are not limited to those directly involved in the project but may also include those indirectly impacted by the project, such as customers or suppliers.
-The team will classify each stakeholder when they have been identified based on their level of impact, interest, and influence on the project. The team will be able to prioritize their interactions with stakeholders thanks to this classification and modify their communication and engagement plans in accordance with their unique requirements and preferences. The project team can guarantee that the project is finished on schedule, within budget, and to the satisfaction of all stakeholders by properly identifying and managing stakeholders.
+<p> To effectively manage stakeholders for the SmartBooks project, the project team will use a systematic approach to identify all relevant stakeholders and their specific roles in the project. </p>
+<p> The team will use a combination of techniques to identify additional stakeholders, including reviewing project documentation, conducting interviews with key personnel, and analyzing organizational charts. It is important to note that stakeholders are not limited to those directly involved in the project but may also include those indirectly impacted by the project, such as customers or suppliers. </p>
+<p> The team will classify each stakeholder when they have been identified based on their level of impact, interest, and influence on the project. The team will be able to prioritize their interactions with stakeholders thanks to this classification and modify their communication and engagement plans in accordance with their unique requirements and preferences. The project team can guarantee that the project is finished on schedule, within budget, and to the satisfaction of all stakeholders by properly identifying and managing stakeholders. </p>
 
-## Key Stakeholders
+== Key Stakeholders ==
 
-The key stakeholders for the SmartBooks project have been identified as Mr. Jojo Castillo, the sponsor, and the Asia Pacific College Library. Mr. Castillo is a key stakeholder due to his role as the project sponsor and his authority to provide necessary resources and support for the project. The Asia Pacific College Library is a key stakeholder due to their direct involvement in the project and their potential to be most affected by the project's outcomes. As the primary beneficiary of the project, it is important to ensure that their needs and requirements are met throughout the project's lifecycle. Additionally, their feedback and involvement will be crucial to the success of the project. Effective communication and management with these key stakeholders will be necessary to ensure their support and buy-in for the project.
+<p> The key stakeholders for the SmartBooks project have been identified as Mr. Jojo Castillo, the sponsor, and the Asia Pacific College Library. Mr. Castillo is a key stakeholder due to his role as the project sponsor and his authority to provide necessary resources and support for the project. The Asia Pacific College Library is a key stakeholder due to their direct involvement in the project and their potential to be most affected by the project's outcomes. As the primary beneficiary of the project, it is important to ensure that their needs and requirements are met throughout the project's lifecycle. Additionally, their feedback and involvement will be crucial to the success of the project. Effective communication and management with these key stakeholders will be necessary to ensure their support and buy-in for the project. </p>
 
-## Stakeholder Analysis
+== Stakeholder Analysis ==
 
-The stakeholder analysis of SmartBooks involves categorizing and grouping the identified stakeholders based on their level of power, influence, and involvement in the project. Key stakeholders have been identified as Mr. Jojo Castillo, the Asia Pacific College Library, and other stakeholders such as faculty members, students, and staff. The project team will use tools and techniques such as stakeholder mapping and prioritization to analyze and quantify the stakeholders. The analysis will help the team identify potential issues and opportunities, anticipate resistance or competing objectives, and determine the appropriate level of communication and engagement with each stakeholder.
+<p> The stakeholder analysis of SmartBooks involves categorizing and grouping the identified stakeholders based on their level of power, influence, and involvement in the project. Key stakeholders have been identified as Mr. Jojo Castillo, the Asia Pacific College Library, and other stakeholders such as faculty members, students, and staff. The project team will use tools and techniques such as stakeholder mapping and prioritization to analyze and quantify the stakeholders. The analysis will help the team identify potential issues and opportunities, anticipate resistance or competing objectives, and determine the appropriate level of communication and engagement with each stakeholder. </p>
 
-= Scope Management Plan Template = 
+= Scope Management Plan = 
 
-<h2> Introduction </h2> 
+== Introduction ==
 
 <p> Project management's key component of scope management is ensuring that the project stays on track and achieves its goals. The project team's duties and responsibilities are outlined in the scope management plan, along with the procedures that will be used to define, develop, and validate the project's scope. Because it offers a clear road map for managing and controlling the project's scope throughout its lifecycle, this plan is essential to the project's success. To manage the project scope efficiently, we will use a five-step procedure in this plan: gather requirements, define scope, create WBS, verify scope, and control scope. By taking these actions, we can make sure that SmartBooks incorporates all the work required to accomplish its objectives while removing extraneous effort. </p> 
 
-<h2> Scope Managemeng Approach </h2>
+== Scope Management Approach ==
 
 <p> The scope management approach for SmartBooks involves a clear delineation of authority and responsibility for scope management. The project manager is ultimately responsible for scope management, while the project sponsor has the authority to approve changes to the scope. The scope will be defined through a combination of the Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and Statement of Work. </p> 
 
@@ -477,56 +576,46 @@ The stakeholder analysis of SmartBooks involves categorizing and grouping the id
 
 <p> The project team will guarantee that the final deliverable is produced in accordance with the project scope that has been accepted and that the project sponsor has given their approval. This strategy will enable SmartBooks to efficiently manage the project scope and guarantee that it is delivered on schedule, under budget, and to the satisfaction of all stakeholders. </p> 
 
-<h2> Roles and Responsibilities </h2> 
+== Roles and Responsibilities ==
+
 <ol>
-<li> <b> Project Manager: </b> The Project Manager is responsible for the overall management of the project scope. This includes developing the Scope Management Plan, defining the scope of the project, measuring and verifying scope, managing scope changes, and ensuring the project is completed within the defined scope.
-</li>
-<li> <b> Project Team: </b> The Project Team is responsible for working together to complete the project deliverables within the defined scope. Each team member should have a clear understanding of their role and responsibilities within the scope management process. 
-</li>
-<li> <b> Stakeholders: </b> Stakeholders are responsible for providing input into the project scope and accepting the final project deliverables as defined by the scope. They should be engaged throughout the project to ensure that their needs are met and that they are satisfied with the project outcomes.
-</li>
-<li> <b> Other key persons: </b> Other key persons involved in managing the scope of the project may include subject matter experts, quality assurance professionals, and change management specialists. Each of these roles should have clearly defined responsibilities within the scope management process.
-</li> 
+<li> <b> Project Manager: </b> The Project Manager is responsible for the overall management of the project scope. This includes developing the Scope Management Plan, defining the scope of the project, measuring and verifying scope, managing scope changes, and ensuring the project is completed within the defined scope. </li>
+<li> <b> Project Team: </b> The Project Team is responsible for working together to complete the project deliverables within the defined scope. Each team member should have a clear understanding of their role and responsibilities within the scope management process. </li>
+<li> <b> Stakeholders: </b> Stakeholders are responsible for providing input into the project scope and accepting the final project deliverables as defined by the scope. They should be engaged throughout the project to ensure that their needs are met and that they are satisfied with the project outcomes. </li>
+<li> <b> Other key persons: </b> Other key persons involved in managing the scope of the project may include subject matter experts, quality assurance professionals, and change management specialists. Each of these roles should have clearly defined responsibilities within the scope management process. </li> 
 </ol> 
 
-<h2> Scope Definition </h2> 
+== Scope Definition ==
 
 <p> Through the implementation of a system that monitors usage patterns and makes recommendations for purchasing choices based on data, the SmartBooks Utilization project seeks to increase the use of books and eBooks in the library at Asia Pacific College. The project will involve creating and putting into use a software system that will enable library personnel to gather information on borrowing patterns, spot materials that are in high demand, and make more informed purchasing decisions. The project's scope comprises the creation of the software system, instruction in its use for library staff members, and incorporation into the library's current workflows. The completion of the project will be marked by the successful implementation of the system and the ability of the library to use the system to make more efficient purchasing decisions. </p> 
 
-<h2> Project Scope Statement </h2>
+== Project Scope Statement ==
 
 <b> Product Scope Description: </b> 
-<p>        The SmartBooks Library System is a web-based application that allows library patrons to search for books and other resources, reserve books, and check the availability of books in real-time. It will provide librarians with a tool to manage the library's inventory, track the status of borrowed and returned books, and generate reports for library management. </p> 
+<p> The SmartBooks Library System is a web-based application that allows library patrons to search for books and other resources, reserve books, and check the availability of books in real-time. It will provide librarians with a tool to manage the library's inventory, track the status of borrowed and returned books, and generate reports for library management. </p> 
 
 <b> Product Acceptance Criteria </b>
 <p> The project will be considered complete and accepted when the following criteria have been met: </p> 
 
 <ul> 
-<li> The system is fully functional and meets all the requirements outlined in the scope statement.
-</li>
-<li> The system has been tested and validated by both librarians and library patrons.
-</li> 
-<li> The system is integrated with the existing library infrastructure and can communicate with other library systems.
-</li>
+<li> The system is fully functional and meets all the requirements outlined in the scope statement. </li>
+<li> The system has been tested and validated by both librarians and library patrons. </li> 
+<li> The system is integrated with the existing library infrastructure and can communicate with other library systems. </li>
 </ul> 
 
 <h3> <b> Project Deliverables </b> </h3> 
 
 <b> Project Exclusions: </b> 
 <ul>
-<li> The project team will not be responsible for any hardware or software upgrades to the existing IT infrastructure of the Asia Pacific College Library. 
-</li> 
-<li> The project team will not be responsible for any additional staff training or development outside of the scope of the SmartBooks system.
-</li> 
-<li> The project team will not be responsible for any additional modules or features that are not specified in the project scope statement. 
-</li>
-<li> The project team will not be responsible for any changes or modifications to the existing library policies and procedures outside of the scope of the SmartBooks system.
-</li>
-<li> The project team will not be responsible for any maintenance or support of the SmartBooks system beyond the project completion date, unless specifically stated in a separate agreement.
-</li>
+<li> The project team will not be responsible for any hardware or software upgrades to the existing IT infrastructure of the Asia Pacific College Library. </li> 
+<li> The project team will not be responsible for any additional staff training or development outside of the scope of the SmartBooks system. </li> 
+<li> The project team will not be responsible for any additional modules or features that are not specified in the project scope statement.  </li>
+<li> The project team will not be responsible for any changes or modifications to the existing library policies and procedures outside of the scope of the SmartBooks system. </li>
+<li> The project team will not be responsible for any maintenance or support of the SmartBooks system beyond the project completion date, unless specifically stated in a separate agreement. </li>
 </ul>
 
 <b> Project Constraints </b>
+
 <ul>
 <li> Budget: The project must be completed within the allocated budget. Any additional expenses must be approved by the project sponsor.
 </li>
@@ -541,45 +630,69 @@ The stakeholder analysis of SmartBooks involves categorizing and grouping the id
 <p> <b> Project Assumptions </b> </p>
 
 <ul>
-<li> The library has a system in place for tracking books and eBook usage data.
-</li>
-<li> Students will continue to use the library's services and borrow books and eBooks.
-</li>
-<li> The library has the necessary budget to purchase additional books and eBooks based on the usage data.
-</li>
-<li> The library staff have the necessary skills and training to analyze the usage data and make informed purchasing decisions.
-</li>
-<li> The library has a sufficient amount of storage space for additional books and eBooks.
-</li>
-<li> The library's website is able to accommodate the additional data and features required to display usage patterns.
-</li>
-<li> The students will provide accurate information when borrowing books and eBooks.
-</li>
+<li> The library has a system in place for tracking books and eBook usage data. </li>
+<li> Students will continue to use the library's services and borrow books and eBooks. </li>
+<li> The library has the necessary budget to purchase additional books and eBooks based on the usage data. </li>
+<li> The library staff have the necessary skills and training to analyze the usage data and make informed purchasing decisions. </li>
+<li> The library has a sufficient amount of storage space for additional books and eBooks. </li>
+<li> The library's website is able to accommodate the additional data and features required to display usage patterns. </li>
+<li> The students will provide accurate information when borrowing books and eBooks. </li>
 </ul>
 
-<h2> Work Breakdown Structure </h2> 
+== Work Breakdown Structure == 
 
-<h2> Scope Verification </h2> 
+<b> SmartBooks </b>
+# Requirement Analysis
+## Define Project requirements
+## Gather and analyze user requirements
+## Determine project scope and constraints
+## Create a requirements traceability matrix
+# Design
+## Create a design document
+## Determine the database schema
+## Create wireframes for the user interface
+## Design the system architecture
+## Create a data flow diagram
+# Development 
+## Set up the development environment
+## Develop the user interface
+## Create the database schema
+## Develop the backend functionality
+## Integrate Smartbooks with the existing Library website 
+# Testing
+## Develop a test plan
+## Conduct unit testing
+## Conduct integration Testing
+## Conduct system testing 
+## Conduct user acceptance testing
+# Deployment
+## Create a deployment plan
+## Prepare the production environment
+## Install Smartbooks in the production environment
+## Perform system testing in the production environment
+# Maintenance and Support
+## Provide user training
+## Monitor system performance
+## Provide ongoing technical support
+## Perform system maintenance
+## Address user feedback and feature requests
+
+== Scope Verification ==
 
 <p> Scope verification is an important process in ensuring that project deliverables are in alignment with the original scope. The following methods will be used for scope verification in the SmartBooks project: 
 </p> 
 
 <ul>
-<li> <b> Quality Checklists: </b>  Quality checklists will be used to ensure that all project deliverables meet the specified quality standards. The checklists will be developed based on the project requirements and will be used to verify that all deliverables meet the requirements.
-</li> 
-<li> <b> Work Performance Measurements: </b> Work performance measurements will be used to track the progress of the project deliverables against the project schedule. This will help to identify any deviations from the original scope and allow for corrective action to be taken if necessary. 
-</li> 
-<li> <b> Scope Baseline: </b> The scope baseline will be used as a reference to ensure that all project deliverables are within the defined scope. Any changes to the scope will be documented and tracked against the baseline.
-</li> 
-<li> <b> Formal Acceptance: </b>  Deliverables will be formally accepted by the stakeholders throughout the project lifecycle. This will ensure that all stakeholders are satisfied with the deliverables and that they meet the specified requirements. Formal acceptance will also help to avoid delays and issues that may arise if deliverables are held back until the end of the project.
-</li> 
+<li> <b> Quality Checklists: </b>  Quality checklists will be used to ensure that all project deliverables meet the specified quality standards. The checklists will be developed based on the project requirements and will be used to verify that all deliverables meet the requirements. </li> 
+<li> <b> Work Performance Measurements: </b> Work performance measurements will be used to track the progress of the project deliverables against the project schedule. This will help to identify any deviations from the original scope and allow for corrective action to be taken if necessary.  </li> 
+<li> <b> Scope Baseline: </b> The scope baseline will be used as a reference to ensure that all project deliverables are within the defined scope. Any changes to the scope will be documented and tracked against the baseline. </li> 
+<li> <b> Formal Acceptance: </b>  Deliverables will be formally accepted by the stakeholders throughout the project lifecycle. This will ensure that all stakeholders are satisfied with the deliverables and that they meet the specified requirements. Formal acceptance will also help to avoid delays and issues that may arise if deliverables are held back until the end of the project. </li> 
 </ul> 
 
-<h2> Scope Control </h2> 
+== Scope Control ==
 
 <ul>
-<li> <b> Scope Baseline: </b> The Scope Baseline document will serve as a reference for measuring project performance and controlling changes to the project scope. The Scope Baseline will be updated as necessary to reflect changes in the project scope.
-</li> 
+<li> <b> Scope Baseline: </b> The Scope Baseline document will serve as a reference for measuring project performance and controlling changes to the project scope. The Scope Baseline will be updated as necessary to reflect changes in the project scope. </li> 
 </ul>
 
 
