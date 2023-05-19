@@ -1002,3 +1002,38 @@ Helps to secure stakeholder buyin. Resolves major issues and conflicts. Can allo
         </tr>
 
     </table>
+<table>
+  <tr>
+    <th style="border: 1px solid black; padding: 5px;">WBS</th>
+    <td style="border: 1px solid black; padding: 5px;">1.2.4</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black; padding: 5px;">Work Package</th>
+    <td style="border: 1px solid black; padding: 5px;">Develop Project Plan</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black; padding: 5px;">Package Owner</th>
+    <td style="border: 1px solid black; padding: 5px;">Janssen Pedrola</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black; padding: 5px;">Owner Organization</th>
+    <td style="border: 1px solid black; padding: 5px;">Apelo Dental Clinic</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black; padding: 5px;">Participants</th>
+    <td style="border: 1px solid black; padding: 5px;">Progmatiks Members</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black; padding: 5px;">Description</th>
+    <td style="border: 1px solid black; padding: 5px;">Under the direction of the Project Manager, the team develops the project plan.</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black; padding: 5px;">Completion State</th>
+    <td style="border: 1px solid black; padding: 5px;">The project plan successfully conducted all of the participants have been participated in the planning.</td>
+  </tr>
+  <tr>
+    <th style="border: 1px solid black; padding: 5px;">Reference Docs</th>
+    <td style="border: 1px solid black; padding: 5px;"></td>
+  </tr>
+</table>
+
