@@ -1684,6 +1684,7 @@ It should be regular for the team to check and review the member assigned and it
                     <p style="text-align:center;"><em>Decision-making skills</em></p>
                     <p style="text-align:center;"><em>Technical skills</em></p>
                     <p style="text-align:center;"><em>Creativity skills</em></p>
+                    <p style="text-align:center;"><em>Project management skills</em></p>
                 </td>
                 <td><p style="text-align:center;"><em>The project sponsor will be asked to join a meeting regarding the updates and progress of the project system. It requires the project sponsor to give recommendations and suggestions to the project team and provide benefits to the project sponsor's office.
 
@@ -1692,9 +1693,19 @@ The project sponsor oversees the progress and milestones of the project system.<
 
         <tr>
 		<td><p style="text-align:center;"><em>Adviser</em></p></td>
-                <td><p style="text-align:center;"><em></em></p></td>
-		<td><p style="text-align:center;"><em></em></p></td>
-                <td><p style="text-align:center;"><em></em></p></td>
+                <td><p style="text-align:center;"><em>Provide additional plans, and plan management for the project team.</em></p>
+                    <p style="text-align:center;"><em>Judges the system and documentation, and provides feedback as to what to change, remove or update in the project system and documentation provided by the project team.</em></p>
+                    <p style="text-align:center;"><em>Guides, assist, and oversees the project team and its deliverables.</em></p>
+                </td>
+		<td><p style="text-align:center;"><em>Leadership</em></p>
+                    <p style="text-align:center;"><em>Communication</em></p>
+                    <p style="text-align:center;"><em>Problem-solving skills</em></p>
+                    <p style="text-align:center;"><em>Decision-making skills</em></p>
+                    <p style="text-align:center;"><em>Project management skills</em></p>
+                </td>
+                <td><p style="text-align:center;"><em>The project adviser will thoroughly check the documentation and the project system before submitting it to the project sponsor. It ensures that the project system's updates and changes are well done to proceed to another build and the documentation is written well and aligns with the project system.
+
+The project adviser is the final decision for the mini-progress submissions and milestones of the project team's deliverables.</em></p></td>
 	</tr>
 
         <tr>
