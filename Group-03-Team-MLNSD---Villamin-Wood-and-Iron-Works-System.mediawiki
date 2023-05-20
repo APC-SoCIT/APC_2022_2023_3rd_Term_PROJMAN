@@ -736,6 +736,15 @@ These are the goals of the quality of the management plan:
 <ul><b> 4.Project Sponsor </b> – is responsible for supporting the project and allocating financial resources. </ul>
 
 ==Quality Requirements / Standards==
+<p>These are the following steps that include: </p>
+<ul><b> 1.Define Quality Standards:</b> The project team will prioritize delivering value to the customer by establishing quality standards that are in line with the principles of Agile Methodology.</ul>
+<ul><b> 2. Quality Planning:</b> To determine the project's requirements and prioritize the best features, the team will maintain regular collaboration and schedule a meeting with stakeholders. This procedure includes creating the Product Backlog and establishing quality objectives to guarantee that the project transition produces value and abides by quality standards.</ul>
+<ul><b> 3. Quality Control: </b> Quality control incorporates the most common way of looking into and testing to distinguish any potential issues that emerge at different stages. This system is done throughout the run to ensure that the established requirements and project goals are fulfilled. </ul>
+<ul><b> 4. Quality Assurance: </b> The team will employ efficient methods and procedures to ensure that the project adheres to established standards and guidelines. To actively prevent issues and defects from occurring, they will implement quality assurance measures. </ul>
+<ul><b> 5. Continuous Improvement: </b> The team consistently monitors its performance throughout the project's development to identify areas for improvement and make necessary adjustments. In this process, feedback plays a crucial role in involving stakeholders and fostering team collaboration. The team can identify areas that need improvement and improve the project's overall quality by actively seeking feedback. </ul>
+<ul><b> 6. Communication: </b> Effective communication between the development team and stakeholders holds significant importance in this process. It serves multiple purposes, including updating stakeholders on the current quality status of the product, demonstrating alignment between the system's processes and the product's goals, and providing stakeholders with an opportunity to provide valuable feedback. </ul>
+
+
 ==Quality Assurance==
 ==Quality Control==
 ==Quality Control Measurements==
