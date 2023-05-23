@@ -1142,3 +1142,205 @@ The budget includes direct and indirect costs, and it is designed to provide the
 <p>Dashboards and other visual tools will be used to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. The dashboards will draw attention to patterns and problem areas so that the team can act fast and make the necessary adjustments. The quality control metrics will be reviewed, and the method will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the group  will  pinpoint  potential  improvement  areas  and  put  any  found  problems  into practice.</p>
 <p>In conclusion, the Dispatch Directory System project will use Agile and Scrum approaches to implement a collaborative and dynamic quality control strategy. To make sure the product satisfies the standards and needs, the team will regularly assess the product's quality and make the required improvements. On a common platform, all quality control measurements will be collected and tracked in real-time. The team will collaborate to address any problems and implement any necessary improvements. </p>
 
+
+=Change Management Plan=
+==Introduction==
+<p>The Change Management plan was created for the ADENICSY project to set and meet goals on how the clinic would change regarding appointments and storage. All stakeholders are expected to submit or request changes to the ADENICSY project in accordance with this Change Management Plan and all requests and submissions will follow the process detailed herein.</p>
+
+==Change Control Board==
+
+<p>The ADENICSY Change Control Board is the approval authority for all proposed change requests pertaining to the IS Project. The purpose of ADENICSY is to review all change requests, determine their impacts on the project risk, scope, cost, and schedule, and to approve or deny each change request. The following chart provides a list of the CCB (Change Control Board) members for the IS Project: </p>
+
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Change Control Board Roles</th>
+      <th>Roles</th>
+      <th>Name</th>
+      <th>Contact</th>
+      <th>Responsibilities</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Change Control Board Chair</td>
+      <td>Project Sponsor </td>
+      <td>Dr. Denroe Apelo</td>
+      <td></td>
+      <td>Project Sponsors can help to ensure that the project accomplishes its goals and adds value to the organization by supervising it, resolving problems, talking to stakeholders, offering support, and celebrating success. </td>
+      </tr>
+      <tr>
+      <td>Change Control Board Member</td>
+      <td>Project Leader/Manager</td>
+      <td>Janssen Pedrola</td>
+      <td>jtpedrola@student.apc.edu.ph</td>
+      <td>The project manager oversees defining ADENICSY’s project scope and goal. The Project Leader/Manager oversees developing or implementing new software, launching a new product, or completely overhauling an organization's marketing plan.  </td>
+      </tr>
+      <tr>
+      <td>Change Control Board Member</td>
+      <td>Project Operations Lead</td>
+      <td>Alfonzo Louise De Vera</td>
+      <td>abdevera@student.apc.edu.ph</td>
+      <td>The operation lead oversees developing any project execution strategies and overseeing the project's operational performance by keeping track of the project's progress. </td>
+      </tr>
+      <tr>
+      <td>Change Control Board Member</td>
+      <td>Project Technical Lead</td>
+      <td>Guiler Marion Regalado</td>
+      <td>grregalado@student.apc.edu.ph</td>
+      <td>Determines ADENICSY’s project requirements and develops work schedules for the team. Identifying risks and forming contingency plans as soon as possible. Analyzing the existing operations and meeting to discuss improvements.  </td>
+      </tr>
+      <tr>
+      <td>Change Control Board Member</td>
+      <td>Project Documentations Lead</td>
+      <td>Patricia Anne Meltran</td>
+      <td>plmeltran@student.apc.edu.ph</td>
+      <td>Documentation lead is responsible for identifying and suggesting improvements after assessing the effectiveness and efficiency of the current document management systems and practices. </td>
+      </tr>
+      <tr>
+      <td>Change Control Board Member</td>
+      <td>Project Operations Lead</td>
+      <td>Earl Eufimeah Dahinao</td>
+      <td>etdahinao@student.apc.edu.ph</td>
+      <td>The operation lead oversees developing any project execution strategies and overseeing the project's operational performance by keeping track of the project's progress. </td>
+      </tr>
+      <tr>
+      <td>Change Control Board Member</td>
+      <td>Project Technical Lead</td>
+      <td>Ivan Emmanuel Flores</td>
+      <td>ilflores@student.apc.edu.ph</td>
+      <td>Determines ADENICSY’s project requirements and develops work schedules for the team. Identifying risks and forming contingency plans as soon as possible. Analyzing the existing operations and meeting to discuss improvements.</td>
+      </tr>
+      </tbody>
+</table>
+<br>
+==Roles and Responsibilities==
+<br>
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Name</th>
+      <th>Project Roles</th>
+      <th>Responsibilities</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Dr. Denroe Apelo</td>
+      <td>Project Sponsor</td>
+      <td>Project Sponsors can help to ensure that the project accomplishes its goals and adds value to the organization by supervising it, resolving problems, talking to stakeholders, offering support, and celebrating success. </td>
+      </tr>
+      <tr>
+      <td>Janssen Pedrola</td>
+      <td>Project Leader/Manager</td>
+      <td>The project manager oversees defining ADENICSY’s project scope and goal. The Project Leader/Manager oversees developing or implementing new software, launching a new product, or completely overhauling an organization's marketing plan.  </td>
+      </tr>
+      <tr>
+      <td>Alfonzo Louise De Vera</td>
+      <td>Project Operations Lead</td>
+      <td>The operation lead oversees developing any project execution strategies and overseeing the project's operational performance by keeping track of the project's progress. </td>
+      </tr>
+      <tr>
+      <td>Guiler Marion Regalado</td>
+      <td>Project Technical Lead</td>
+      <td>Determines ADENICSY’s project requirements and develops work schedules for the team. Identifying risks and forming contingency plans as soon as possible. Analyzing the existing operations and meeting to discuss improvements.  </td>
+      </tr>
+      <tr>
+      <td>Patricia Anne Meltran</td>
+      <td>Project Documentations Lead</td>
+      <td>Documentation lead is responsible for identifying and suggesting improvements after assessing the effectiveness and efficiency of the current document management systems and practices. </td>
+      </tr>
+      <tr>
+      <td>Earl Eufimeah Dahinao</td>
+      <td>Project Operations Lead</td>
+      <td>The operation lead oversees developing any project execution strategies and overseeing the project's operational performance by keeping track of the project's progress. </td>
+      </tr>
+
+      <td>Ivan Emmanuel Flores</td>
+      <td>Project Technical Lead</td>
+      <td>Determines ADENICSY’s project requirements and develops work schedules for the team. Identifying risks and forming contingency plans as soon as possible. Analyzing the existing operations and meeting to discuss improvements.</td>
+      </tr>
+      </tbody>
+      </table>
+<br>
+==Change Control Process==
+<br>
+<p>Apelo Dental Clinic System would like to provide the utmost care for patients who want to achieve their desired procedure for their dental health. And is responsible for achieving the patients’ demand. ADENICSY’s change protocol process guarantees that, in accordance with accountability protocols, each change proposed during an initiative is properly specified, examined, and approved before execution. The change control process promotes the effective use of resources and helps prevent unneeded modifications that could influence delivery in terms of time, budget, and quality. </p>
+<br>
+<p>The following steps below are the ADENICSY’s change control process:  </p>
+<br>
+<a href=""></a>
+<br>
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Process Step</th>
+      <th>Description</th>
+      <th>Change Log Status</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Proposing a Change</td>
+      <td>ADENICSY’s project leader oversees submitting a Change Request Form. At this point, organizational process inefficiencies, technological improvements, and changing client needs all point to the need for change. </td>
+      <td>Submitted</td>
+      </tr>
+      <tr>
+      <td>Change Request Evaluation</td>
+      <td>The second step involves evaluating the change request to determine its effect on company operations, resource requirements, and budgeting. This step also includes risk assessment and any behavioral adjustments necessary for the change to be successful. If the change is authorized, the procedure then advances to the following stage. If it is denied, the reasons are logged and shared with the customer and stakeholders. </td>
+      <td>Submitted</td>
+      </tr>
+      <tr>
+      <td>Decision</td>
+      <td>The third step of a change endeavor involves thorough preparation. Building a clear and simple strategy that includes dates, resources, pilot testing, and how to lessen the impact of change </td>
+      <td>Submitted </td>
+      </tr>
+      <tr>
+      <td>Implementing a Change</td>
+      <td>In this step, to accommodate the change, update the strategy and obtain resources.</td>
+      <td>Submitted</td>
+      </tr>
+      <tr>
+      <td>Closing a change</td>
+      <td>In this last step of ADENICSY’s change control process. Review all the implemented changes and update the change log. Once the document is signed for closure, the process will be finalized. </td>
+      <td>Submitted</td>
+      </tr>
+      </tbody>
+      </table>
+<br>
+<p>To keep track of the change request progress, each step has a corresponding change request status as show on the table below: </p>
+<br>
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Status</th>
+      <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Submitted</td>
+      <td>A member of the project development team or key stakeholders submitted a change request log and has not been reviewed by the Project Manager for impact analysis. </td>
+      </tr>
+      <tr>
+      <td>In review</td>
+      <td>Impact analysis is being performed.</td>
+      </tr>
+      <tr>
+      <td>Approved</td>
+      <td>Change request is approved and will be moved to implementation. </td>
+      </tr>
+      <tr>
+      <td>Denied</td>
+      <td>Change request is denied. </td>
+      </tr>
+      <tr>
+      <td>In Progress</td>
+      <td>Action plan to execute the change request is being implemented </td>
+      </tr>
+      <tr>
+      <td>Verifying</td>
+      <td>Review of proper implementation of change request </td>
+      </tr>
+      <tr>
+      <td>Closed</td>
+      <td>Chang request work is complete, has passed all tests, and updates    have been released.</td>
+      </tr>
+      </tbody>
+      </table>
