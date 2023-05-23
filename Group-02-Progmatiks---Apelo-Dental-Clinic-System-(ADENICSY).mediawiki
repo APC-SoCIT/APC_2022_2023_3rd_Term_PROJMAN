@@ -989,6 +989,7 @@ The budget includes direct and indirect costs, and it is designed to provide the
 ==Scope Change==
 <p>If a project problem arises that requires a substantial change in the project scope, it is best to propose a change. It is necessary to use prudence during the process of suggesting and evaluating the project's scope adjustment. Any project team member or project client may ask to change the project's scope. All change requests must be submitted in the form of a project change request document to the project advisor. Following that, the project manager will go over the requested change to the project's scope. The project adviser will either reject the request for change if it does not fit in with the project's goals or schedule, a meeting with the project client and project team to discuss it and determine its impact. Following initial approval from the project client and project adviser, the project manager will communicate the scope change to the entire project team. In result of that, the team members will amend any applicable paperwork, deliverables, and product backlogs. </p>
 
+
 =Quality Management Plan=
 ==Introduction==
 <p>Dental clinic systems are complex organizations that treat varieties of problems for their patients. With a quality system it would drastically increase their productivity and even give convenience of access for their staff and patients. This thesis was created for Apelo dental clinic as they were the chosen client for this research. This research and creation of this system would not only help the clinic but will make treatment fast and easy while also generating satisfaction for their customers.</p>
@@ -1006,10 +1007,10 @@ The budget includes direct and indirect costs, and it is designed to provide the
 ==Quality Management Plan==
 <br>
 <ul>
-   <li><bold>Project Completion - </bold> when the project objectives have been achieved and proper backups have been created for potential risks regarding within the system.</li>
-   <li><bold>Acceptance criteria - </bold> when the project has achieved standards regarding user-friendliness and operation of functions, buttons, and commands. </li>
-   <li><bold>Continuous integration – </bold> for future updates and expanding of system operations, the developers would recommend a compatible and capable developer of handling the system.</li>
-   <li><bold>Test-driven development – </bold> the system would be heavily tested to ensure its functions are working in their best condition and that the code would satisfy the quality of the system as its integration to live servers. </li>
+   <li><b>Project Completion - </b> when the project objectives have been achieved and proper backups have been created for potential risks regarding within the system.</li>
+   <li><b>Acceptance criteria - </b> when the project has achieved standards regarding user-friendliness and operation of functions, buttons, and commands. </li>
+   <li><b>Continuous integration – </b> for future updates and expanding of system operations, the developers would recommend a compatible and capable developer of handling the system.</li>
+   <li><b>Test-driven development – </b> the system would be heavily tested to ensure its functions are working in their best condition and that the code would satisfy the quality of the system as its integration to live servers. </li>
 </ul>
 <br>
 <p>This quality management plan provides a comprehensive framework for managing, maintaining, and improving project quality. This plan ensures that the project meets its objectives with regards to the clients’ requests, stakeholders, its users, and even the patients, providing a clear set of rules, guidelines, process, tools, and roles and responsibilities for using, creating, and improving the system itself and any issues that may arise. All stakeholders should be familiarized with the changes, the plan itself, and their role contribution in the project. </p>
@@ -1041,17 +1042,18 @@ The budget includes direct and indirect costs, and it is designed to provide the
       <td>Project Sponsor </td>
       <td>Provides executive support for the project </td>
       </tr>
+      </tbody>
 </table>
 <br>
 <p>The approach will include the following steps:</p>
 <br>
 <ul>
-   <li><bold>Define quality standards - </bold>The developers would define and follow quality standards based on Agile and Scrum methodology and requests of the client with the focus of delivering value.</li>
-   <br><li><bold>Quality planning –  </bold>The team closely works with the stakeholders to identify and ensure the project requirements are met alongside prioritizing the most important features. The team will create a product backlog to view the changes made and set the quality goals to ensure that each iteration of the product has significant changes approaching the objectives of the quality standard.</li>
-   <br><li><bold>Quality control – </bold>This measures sprint implementations to ensure that the product meets the defined requirements and quality goals. It would also identify and defects, issues, and potential requests to the system.</li>
-   <br><li><bold>Quality Assurance – </bold>This would put the measures in place to prevent defects and issues from occurring in the first place, as the team would do various testing methods and processes to ensure the project is being executed according to the established standards and guidelines.</li>
-   <br><li><bold>Continuous Improvement – </bold>The team would recommend a competent and professional developer for future updates, improvements, and fixes for the project.</li>
-   <br><li><bold>Communication – </bold>The team will maintain constant communication with the stakeholders, clients, users, and patients in order for them to be aware of the changes, plans, status and feedback if needed.</li>
+   <li><b>Define quality standards - </b>The developers would define and follow quality standards based on Agile and Scrum methodology and requests of the client with the focus of delivering value.</li>
+   <br><li><b>Quality planning –  </b>The team closely works with the stakeholders to identify and ensure the project requirements are met alongside prioritizing the most important features. The team will create a product backlog to view the changes made and set the quality goals to ensure that each iteration of the product has significant changes approaching the objectives of the quality standard.</li>
+   <br><li><b>Quality control – </b>This measures sprint implementations to ensure that the product meets the defined requirements and quality goals. It would also identify and defects, issues, and potential requests to the system.</li>
+   <br><li><b>Quality Assurance – </b>This would put the measures in place to prevent defects and issues from occurring in the first place, as the team would do various testing methods and processes to ensure the project is being executed according to the established standards and guidelines.</li>
+   <br><li><b>Continuous Improvement – </b>The team would recommend a competent and professional developer for future updates, improvements, and fixes for the project.</li>
+   <br><li><b>Communication – </b>The team will maintain constant communication with the stakeholders, clients, users, and patients in order for them to be aware of the changes, plans, status and feedback if needed.</li>
 </ul>
 <br>
 <p>The  project  team  will  incorporate  Agile  and  Scrum  practices,  including  user  stories, sprints,  and  retrospectives,  to  ensure  that  quality  is  built-in  throughout  the  project's lifecycle  and  meets  the  organization's  quality  standards  and  the  needs  of  the  project stakeholders.  In  addition,  a  risk  management  plan  will  be  developed  to  proactively identify and mitigate potential quality risks throughout the project's lifecycle.  </p>
@@ -1061,7 +1063,7 @@ The budget includes direct and indirect costs, and it is designed to provide the
 ==Requirements==
 <p>ADENICSY will be completely functional, user-friendly, and compatible with multiple devices that have access to internet connection and the latest operating system compatible to the clinics system as the quality management plan will contain both the product and process quality standards. </p>
 <br>
-<bold><p>Requirements for product quality </p></bold>
+<b><p>Requirements for product quality </p></b>
 <ul>
     <li>ADENICSY will be fully operational and adhere to the product backlog’s technical requirements. </li>
     <li>The interface shall be user-friendly to all the stakeholders and its users. This project comes with instruction manuals or tutorials that can be viewed by its users. </li>
@@ -1069,7 +1071,7 @@ The budget includes direct and indirect costs, and it is designed to provide the
     <li>The system requires the latest OS compatible with the clinics devices and the system itself. </li>
 </ul>
 <br>
-<bold><p>Requirements for ensuring quality of process</p></bold>
+<b><p>Requirements for ensuring quality of process</p></b>
 <ul>
    <li>The development team will implement an ongoing process of testing and quality assurance to ensure that the system meets all technical specifications and requirements. </li>
    <li>A version control tool will be used by the development team to ensure that any modifications to the system are properly documented, reviewed, and authorized. </li>
@@ -1077,7 +1079,7 @@ The budget includes direct and indirect costs, and it is designed to provide the
    <li>The development team will follow a defined configuration management process to ensure consistent development, testing, and deployment of the system.   </li>
 </ul>
 <br>
-<bold><p>Compliance Demonstration</p></bold>
+<b><p>Compliance Demonstration</p></b>
 <ul>
    <li>ADENICSY will be tested and evaluated against the established quality requirements and standards before being deployed to the client.    </li>
    <li>The development team will maintain comprehensive documentation of all testing and quality assurance activities, which will be made available to the client upon request.</li>
@@ -1091,15 +1093,15 @@ The budget includes direct and indirect costs, and it is designed to provide the
 ==Quality Assurance==
 <p>The QA process for ADENICSY will be integrated into the Agile and Scrum method to ensure that the quality is achieved through collaborative effort and continuous improvement as the following steps will be undertaken: </p>
 <ul>
-   <li><bold>Defining quality standards – </bold>The developers will collaborate with stakeholders, client, users, and its patients to define and document the quality standards for the project in the quality management plan as the quality standards will constantly be communicated to everyone. </li>
-   <li><bold>Quality Metrics – </bold>The project team will use quality metrics to track and report on the project's performance against the quality standards.
+   <li><b>Defining quality standards – </b>The developers will collaborate with stakeholders, client, users, and its patients to define and document the quality standards for the project in the quality management plan as the quality standards will constantly be communicated to everyone. </li>
+   <li><b>Quality Metrics – </b>The project team will use quality metrics to track and report on the project's performance against the quality standards.
    <ul>
       <li>Test coverage presents the percentage of the system that has been tested</li>
       <li>Case pass rate presents the test cases that have been passed </li>
    </ul></li>
-   <li><bold>Continuous Improvement – </bold>The developers would use the feedback to modify changes requested by the stakeholder and the client to ensure a quality product.</li>
-   <li><bold>Compliance with Industry Standards – </bold>The developers would ensure that ADENICSY would adhere to relevant industry standards such as accessibility standards, security standards, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.</li>
-   <li><bold>Reviewing Feedback – </bold>The developers would constantly review feedback in order to improve and modify changes for the betterment of the system.</li>
+   <li><b>Continuous Improvement – </b>The developers would use the feedback to modify changes requested by the stakeholder and the client to ensure a quality product.</li>
+   <li><b>Compliance with Industry Standards – </b>The developers would ensure that ADENICSY would adhere to relevant industry standards such as accessibility standards, security standards, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.</li>
+   <li><b>Reviewing Feedback – </b>The developers would constantly review feedback in order to improve and modify changes for the betterment of the system.</li>
 </ul>
 <br>
 <p>The  quality  assurance  metrics  will  be  closely  monitored,  tracked,  and  reported  on  a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and  
@@ -1140,8 +1142,4 @@ The budget includes direct and indirect costs, and it is designed to provide the
 <br>
 <p>Dashboards and other visual tools will be used to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. The dashboards will draw attention to patterns and problem areas so that the team can act fast and make the necessary adjustments. The quality control metrics will be reviewed, and the method will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the group  will  pinpoint  potential  improvement  areas  and  put  any  found  problems  into practice.</p>
 <p>In conclusion, the Dispatch Directory System project will use Agile and Scrum approaches to implement a collaborative and dynamic quality control strategy. To make sure the product satisfies the standards and needs, the team will regularly assess the product's quality and make the required improvements. On a common platform, all quality control measurements will be collected and tracked in real-time. The team will collaborate to address any problems and implement any necessary improvements. </p>
-
-
-
-
 
