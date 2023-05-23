@@ -378,7 +378,7 @@ Based on this analysis, it appears that Alternative 3, developing and implementi
 </tr>
 </table>
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q4Zd_Big4KF2i_8cJN44PBwJTyXx7xr2t1z-V4R0M5aKkWg2ZT55lFiKzODBiddi3aTc6zzm9NjBV6Zo3qM09Ix8Bp4g=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q4Zd_Big4KF2i_8cJN44PBwJTyXx7xr2t1z-V4R0M5aKkWg2ZT55lFiKzODBiddi3aTc6zzm9NjBV6Zo3qM09Ix8Bp4g=s2560" /> </a>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q4Zd_Big4KF2i_8cJN44PBwJTyXx7xr2t1z-V4R0M5aKkWg2ZT55lFiKzODBiddi3aTc6zzm9NjBV6Zo3qM09Ix8Bp4g=s2560?source=screenshot.guru"> </a>
 
 =Scope Management Plan= 
 ==Introduction==
@@ -1218,6 +1218,7 @@ The budget includes direct and indirect costs, and it is designed to provide the
       <th>Name</th>
       <th>Project Roles</th>
       <th>Responsibilities</th>
+</tr>
       <tbody>
       <tr>
       <td>Dr. Denroe Apelo</td>
@@ -1249,7 +1250,7 @@ The budget includes direct and indirect costs, and it is designed to provide the
       <td>Project Operations Lead</td>
       <td>The operation lead oversees developing any project execution strategies and overseeing the project's operational performance by keeping track of the project's progress. </td>
       </tr>
-
+<tr>
       <td>Ivan Emmanuel Flores</td>
       <td>Project Technical Lead</td>
       <td>Determines ADENICSY’s project requirements and develops work schedules for the team. Identifying risks and forming contingency plans as soon as possible. Analyzing the existing operations and meeting to discuss improvements.</td>
