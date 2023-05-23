@@ -63,9 +63,9 @@ Helps to secure stakeholder buyin. Resolves major issues and conflicts. Can allo
 <p>The Staffing Management Plan for Apelo Dental Clinic System (ADENICSY) project is a critical component in ensuring the successful execution of the project. It outlines the strategies and processes for acquiring, managing, and releasing human resources throughout the project lifecycle.</p>
 <br>
 <p>
-•Acquisition of human resources will be done in a timely manner to ensure that the necessary skills and expertise are in place when needed. This may include recruiting new hires, hiring contractors, or utilizing internal staff. The timeline for resource acquisition will be aligned with the project schedule to ensure that resources are available when needed.
-•Training for any resources with identified gaps in skills required will be provided to ensure that they have the necessary knowledge and capabilities to perform their roles effectively. This may include both on-the-job training and formal training programs.
-•Performance reviews will be conducted regularly to assess the performance of team members and identify areas for improvement. These reviews will also provide feedback on how well team members are meeting the project's expectations and objectives.
+•Acquisition of human resources will be done in a timely manner to ensure that the necessary skills and expertise are in place when needed. This may include recruiting new hires, hiring contractors, or utilizing internal staff. The timeline for resource acquisition will be aligned with the project schedule to ensure that resources are available when needed.<br>
+•Training for any resources with identified gaps in skills required will be provided to ensure that they have the necessary knowledge and capabilities to perform their roles effectively. This may include both on-the-job training and formal training programs.<br>
+•Performance reviews will be conducted regularly to assess the performance of team members and identify areas for improvement. These reviews will also provide feedback on how well team members are meeting the project's expectations and objectives.<br>
 •A rewards and recognition system will be implemented to acknowledge and motivate outstanding performance. This may include bonuses, promotions, and other incentives.
 </p>
 <br>
@@ -74,6 +74,91 @@ It is important to note that depending on the scope of the project, there may be
 The Staffing Management Plan will be regularly reviewed and updated as necessary to ensure that it remains aligned with the project's objectives and requirements. It is important for the project manager to conduct a thorough analysis of the project's specific requirements and regulations to determine if any additional items need to be included in the staffing management plan.
 </p>
 
+<table>
+        <thead>
+            <tr>
+                <th>Role</th>
+                <th>Project Responsibility</th>
+                <th>Skills Required</th>
+                <th>Number of Staff</th>
+                <th>Performance Reviews</th>
+                <th>Recognition and Rewards</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Project Manager</td>
+                <td>Plan, execute, and close projects effectively and efficiently.<br>
+                    Ensure the project meets the objectives and goals.<br>
+                    Manage project risks and issues.<br>
+                    Coordinate with stakeholders and team members.</td>
+                <td>Leadership<br>
+                    Communication<br>
+                    Problem-solving<br>
+                    Time management<br>
+                    Technical skills related to the project</td>
+                <td>Depends on the scope and complexity of the project.<br>
+                    Determined in collaboration with other stakeholders</td>
+                <td>The project manager will conduct regular performance reviews with team members to assess their progress, provide feedback, and address any issues.</td>
+                <td>The project manager will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
+            </tr>
+            <tr>
+                <td>Project Team Leader</td>
+                <td>Lead a project team and ensure the project is delivered on time, within budget, and to the required quality standards.<br>
+                    Define project objectives and develop a detailed project plan.<br>
+                    Monitor and manage project risks, issues, and dependencies.<br>
+                    Communicate project progress and status to stakeholders and senior management.<br>
+                    Manage project scope, budget, and resources</td>
+                <td>Leadership<br>
+                    Communication<br>
+                    Planning and organizing<br>
+                    Risk management<br>
+                    Budget management<br>
+                    Technical skills related to the project</td>
+                <td>Depends on the scope and complexity of the project.<br>
+                    Determined in collaboration with other stakeholders</td>
+                <td>The project leader will work with team members to set achievable performance goals and track their progress throughout the project.</td>
+                <td>The project leader will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
+            </tr>
+            <tr>
+                <td>Project Team Member</td>
+                <td>Collaborate with other team members to achieve project goals.<br>
+                    Complete tasks assigned by the project leader or manager.<br>
+                    Report progress and status to the project leader or manager.<br>
+                    Participate in project meetings and contribute to discussions.<br>
+                    Manage their time and work effectively to ensure project tasks are completed on time and within budget.</td>
+                <td>Technical skills related to the project.<br>
+                    Communication<br>
+                    Collaboration and teamwork<br>
+                    Problem-solving<br>
+                    Time management</td>
+                <td>Depends on the scope and complexity of the project.<br>
+                    Determined in collaboration with other stakeholders</td>
+                <td>The frequency and format of performance reviews will be determined based on the project's needs and the company's policies.</td>
+                <td>The project leader or manager will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
+            </tr>
+            <tr>
+                <td>Executive Sponsor</td>
+                <td>Provide strategic direction and leadership for the project.<br>
+                    Ensure the project is aligned with the organization's goals and vision.<br>
+                    Allocate resources and secure funding for the project.<br>
+                    Act as the primary point of contact between the project team and senior management.<br>
+                    Monitor project progress and provide guidance and support to the project team</td>
+                <td>Leadership<br>
+                    Strategic thinking<br>
+                    Communication<br>
+                    Decision-making<br>
+                    Risk management<br>
+                    Budget management</td>
+                <td>The executive sponsor is typically a high-level executive or member of the board of directors.<br>
+                    May be supported by a project management office or other support staff.</td>
+                <td>The executive sponsor may conduct performance reviews of the project leader or manager to ensure they are meeting the organization's standards and goals for the project.<br>
+                    They may also receive updates and progress reports from the project leader or manager.</td>
+                <td>The executive sponsor may recognize and reward the project team for their achievements and progress towards the project's goals.<br>
+                    They may also provide opportunities for career growth and development for the project team members, as well as for the project leader or manager.</td>
+            </tr>
+        </tbody>
+    </table>
 
 
 =Work Breakdown Structure=
