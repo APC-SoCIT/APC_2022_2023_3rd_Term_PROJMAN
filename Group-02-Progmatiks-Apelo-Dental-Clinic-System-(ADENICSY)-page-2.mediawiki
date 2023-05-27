@@ -240,6 +240,7 @@ Additionally, it is crucial to take into account the affordability and practical
 <p>Considering these considerations, it is advisable for the Apelo Dental Clinic System project to employ a blend of communication methods and technologies, such as project management software, email, telephone, and video conferencing. This approach will effectively keep all stakeholders informed and enable the project to achieve its communication goals.</p>
 
 
+
 =System Requirements Specifications=
 ==1. System Requirements for Development==
 <table border="1" width="70%" align="center">
@@ -247,7 +248,6 @@ Additionally, it is crucial to take into account the affordability and practical
       <th>Software</th>
       <th>Specifications</th>
       </tr>
-      </thead>
       <tbody>
       <tr>
       <td>Operating System</td>
@@ -282,7 +282,6 @@ Additionally, it is crucial to take into account the affordability and practical
       <th>Software</th>
       <th>Specifications</th>
       </tr>
-      </thead>
       <tbody>
       <tr>
       <td>Operating System</td>
@@ -327,6 +326,8 @@ Additionally, it is crucial to take into account the affordability and practical
       <tr>
          <td>Atleast 4g/LTE connection  </td>
       </tr>
+   </tbody>
+</table>
 <br>
 ==2. Deployment Tools Specifications==
 <table border="1" width="70%" align="center">
@@ -355,6 +356,8 @@ Additionally, it is crucial to take into account the affordability and practical
       <tr>
          <td>Atleast 4g/LTE connection  </td>
       </tr>
+      </tbody>
+      </table>
 
 =Work Breakdown Structure=
 
