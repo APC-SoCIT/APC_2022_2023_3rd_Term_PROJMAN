@@ -240,6 +240,122 @@ Additionally, it is crucial to take into account the affordability and practical
 <p>Considering these considerations, it is advisable for the Apelo Dental Clinic System project to employ a blend of communication methods and technologies, such as project management software, email, telephone, and video conferencing. This approach will effectively keep all stakeholders informed and enable the project to achieve its communication goals.</p>
 
 
+=System Requirements Specifications=
+==1. System Requirements for Development==
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Software</th>
+      <th>Specifications</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Operating System</td>
+      <td>Windows 10 or later (32/64 bit) </td>
+      </tr>
+      <tr>
+      <td>Visual Studio Code  </td>
+      <td>Version 1.72.1  </td>
+      </tr>
+      <tr>
+      <td>Browser   </td>
+      <td>Chrome(Windows 80.0.3987.87, macOs version: 80.0.3987.87, Linux Version: 80.0.3987.87, Android Version 80.0.3987.87, Ios 80.0.3987.88),Safari (macOS Laptops and Desktops version: 13.0, iOs iPhone, iPad)  </td>
+      </tr>
+      <tr>
+      <td>XAMPP </td>
+      <td>Version 8.0.28 </td>
+      </tr>
+      <tr>
+      <td>Laravel  </td>
+      <td>Version 8.2 </td>
+      </tr>
+      <tr>
+      <td>GitHub  </td>
+      <td>Version 3.4 </td>
+      </tr>
+      </tbody>
+</table>
+<br>
+==2. System Requirements for Devployment==
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Software</th>
+      <th>Specifications</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Operating System</td>
+      <td>Windows 10 or later (32/64 bit) </td>
+      </tr>
+      <tr>
+      <td>Browser   </td>
+      <td>Chrome(Windows 80.0.3987.87, macOs version: 80.0.3987.87, Linux Version: 80.0.3987.87, Android Version 80.0.3987.87, Ios 80.0.3987.88),Safari (macOS Laptops and Desktops version: 13.0, iOs iPhone, iPad)  </td>
+      </tr>
+      <tr>
+      <td>XAMPP </td>
+      <td>Version 8.0.28 </td>
+      </tr>
+      </tbody>
+</table>
+<br>
+=Tools Specifications=
+==1. Development Tools Specifications==
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Hardware</th>
+      <th>Specifications</th>
+      </tr>
+      <tbody>
+      <tr>
+      <td>PC or Laptop</td>
+      <td>Processor – dual core @ 2.4 GHz (i5 or i7 Intel Processor or equivalent AMD), 64 bits</td>
+      </tr>
+      <tr>
+      <td>RAM – 8 GB  </td>
+      </tr>
+      <tr>
+      <td>Free disk space – 1 GB </td>
+      </tr>
+      <tr>
+      <td>Internet Connection  </td>
+      <td>At least 3mbps</td>
+      </tr>
+      <tr>
+      <td>Preferably DSL  </td>
+      </tr>
+      <tr>
+         <td>Atleast 4g/LTE connection  </td>
+      </tr>
+<br>
+==2. Deployment Tools Specifications==
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Hardware</th>
+      <th>Specifications</th>
+      </tr>
+      <tbody>
+      <tr>
+      <td>PC or Laptop</td>
+      <td>Processor – dual core @ 2.4 GHz (i5 or i7 Intel Processor or equivalent AMD), 64 bits</td>
+      </tr>
+      <tr>
+      <td>RAM – 8 GB  </td>
+      </tr>
+      <tr>
+      <td>Free disk space – 1 GB </td>
+      </tr>
+      <tr>
+      <td>Internet Connection  </td>
+      <td>At least 3mbps</td>
+      </tr>
+      <tr>
+      <td>Preferably DSL  </td>
+      </tr>
+      <tr>
+         <td>Atleast 4g/LTE connection  </td>
+      </tr>
+
 =Work Breakdown Structure=
 
 ==Introduction==
