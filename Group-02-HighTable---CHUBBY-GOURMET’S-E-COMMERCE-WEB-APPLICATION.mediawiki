@@ -1249,9 +1249,107 @@ If the evaluation indicates that the scope change will have a significant impact
 The project sponsor will review and approve scope changes based on the established criteria. The project sponsor will consider the impact on the project schedule, resources, and budget when making their decision. If the scope change is approved, the project manager will update the project schedule, obtain the necessary approvals, and communicate the changes to the project team and stakeholders. </p>
 
 =Change Management Plan=
+==Introduction==
+<p>The Chubby Gourmet’s E-Commerce Web Application was created for the group’s chosen client which is Ms. Priscilla Mariano in order to help solve certain problems found within her current  
+system of her local food business. Everyone involved in the development of the project must request changes to the group HighTable in accordance with this Change Management Plan and all requests and submissions will follow the process detailed herein. </p>
 
+==Change Control Board==
+<p>The Change Control Board (CCB) is the approval authority for all proposed change requests pertaining to the IS Project. The purpose of the CCB is to review all change requests, determine their impacts on the project risk, scope, cost, and schedule, and to approve or deny each change request. The following chart provides a list of the CCB members for the IS Project: 
+</p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
+<td><p style="text-align:center;">Project Sponsor</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Gianna Bernice R. Artajos</p></td>
+<td><p style="text-align:center;">Project Owner</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Marcus Philip L. Flores</p></td>
+<td><p style="text-align:center;">Scrum Master</p></td>
+	</tr>
+</table>
+<p>As change requests are submitted to the IS Project Manager by the project team/stakeholders, the Project Manager will log the requests in the change log and the CCB will convene every other Friday to review all change requests. For a change request to be approved, all CCB members must vote in favor. In the event more information is needed for a particular change request, the request will be deferred and sent back to the requestor for more information or clarification. If a change is deemed critical, an ad hoc CCB meeting can be called in order to review the change prior to the next scheduled bi-weekly CCB meeting. 
+</p>
+
+==Roles and Responsibilities==
+<p>The following are the roles and responsibilities for all change management efforts related to the IS Project: </p>
+<p>Project Sponsor and Project Manager: </p>
+<ul>
+<li>Seek clarification from change requestors on any open issues or concerns </li>
+<li>Review documentation revisions/edits as necessary for all approved changes </li>
+<li>Participate of CCB </li>
+</ul>
+<p>Scrum Master:</p>
+<li>Submit all change requests on standard organizational change request forms </li>
+<li>Propose/Provide all applicable information and detail on change request forms </li>
+<li>Be prepared to address questions regarding any submitted change requests </li>
+<li>Provide feedback as necessary on impact of proposed changes </li>
+
+==Change Control Process==
+<p>The Change Control Process for the Chubby Gourmet’s E-commerce Web Application will follow the organizational standard change process for all projects. The Scrum Master has overall 
+responsibility for executing the change management process for each change request. </p>
+
+<ol>
+<li>Identify the need for a change (Scrum Master) – Change requestor will submit a 
+completed change request form to the project manager. </li>
+<li>Log change in the change request register (Scrum Master) – The Scrum Master will  
+also keep a log of all submitted change requests throughout the project’s lifecycle. </li>
+<li>Evaluate the change (Project Manager, Scrum Master) – The Scrum Master  
+will conduct a preliminary analysis on the impact of the change to risk, schedule, and 
+scope and seek clarification from both the project advisor and HighTable members. </li>
+<li>Submit change request to CCB (Scrum Master) – The Scrum Master will submit the 
+change request, as well as the preliminary analysis, to the PBL head for review. </li>
+<li>Obtain decision on change request (Project Manager) – The CCB will 
+discuss the proposed change and decide whether it will be approved based on all 
+submitted information or not. </li>
+<li>Implement change (HighTable) – If a change is approved by the CCB,  
+Scrum Master will update and re-baseline project documentation as necessary. </li>
+</ol>
 
 =Communications Management Plan=
+==Introduction==
+
+
+
+==Communications Management Approach==
+
+
+==Communications Management Constraints==
+
+
+==Stakeholder Communication Requirements==
+
+
+==Roles==
+
+
+==Project Team Directory==
+
+
+==Communications Methods and Technology==
+
+
+==Communication Flowchart==
+
+
+==Guidelines for Meeting==
+
+
+==Communication Standards==
+
+
+==Communication Escalation Process==
+
+
+==Glossary of Communication Terminology==
+
+
 
 =Quality Management Plan=
 
