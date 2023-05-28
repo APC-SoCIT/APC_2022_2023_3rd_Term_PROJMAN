@@ -1539,29 +1539,155 @@ The client may not be too well versed in the field of technology. Keeping a simp
 <td bgcolor="lightblue"><p style="text-align:center;">DELIVERY MEDIA</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Sponsor</p></td>
-<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
-<td><p style="text-align:center;">Business Owner</p></td>
-<td><p style="text-align:center;">External</p></td>
-<td><p style="text-align:center;">priscillamariano403@gmail.com</p></td>
-<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
-<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
+		<td><p style="text-align:center;">Project Planning</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once before the start of the project </p></td>
+<td><p style="text-align:center;">Formal</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
 </tr>
+<tr>
+		<td><p style="text-align:center;">Release Planning</p></td>
+<td><p style="text-align:center;">Program Manager, Project Manager </p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once before the start of the project, Update if necessary </p></td>
+<td><p style="text-align:center;">Formal</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Sprint Planning</p></td>
+<td><p style="text-align:center;">Project Manager, Development Team </p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once every week </p></td>
+<td><p style="text-align:center;">Informal</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Management Processes</p></td>
+<td><p style="text-align:center;">Program Manager, Project Manager </p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once before the start of the project, Update if necessary </p></td>
+<td><p style="text-align:center;">Written Documents</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Product Backlog</p></td>
+<td><p style="text-align:center;">Project Manager, Development Team </p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Artifact</p></td>
+<td><p style="text-align:center;">Once every week</p></td>
+<td><p style="text-align:center;">Written Documents</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Project Update</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Stakeholder, Program Manager</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once every week</p></td>
+<td><p style="text-align:center;">Informal</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+</table>
 
 ==Communication Flowchart==
-
+insert image here
 
 ==Guidelines for Meeting==
+<p>In order to ensure an effective flow of information that is met with everyone involved, HighTable will be holding meetings that are productive, efficient, and effective. To do so, it is important to establish clear guidelines for the said meetings. These guidelines will include information on the purpose of meetings, the roles and responsibilities of attendees, and the procedures that will done in the meetings. </p>
+<p>Having the meeting guidelines allows both the attendees and the project manager to have a sense of preparedness and can participate to the meeting accordingly. This will also allow the meeting flow to be more organized and efficient as it aims to avoid confusion and waste time. </p>
+<p>Here are the following meeting guidelines for HighTable: </p>
+
+<ol>
+<li>Purpose: Defining the purpose of the meeting allows the attendees to discuss the progress, resolve issues, and create decisions. </li>
+ 
+<li>Scheduling: Scheduling meeting in advance and placed in a time slot suited for everyone attending the meeting. </li>
+ 
+<li>Attendance: All team members are required to attend all meetings unless their excuse is valid, and they have requested their leave in advance.  </li>
+  
+<li>Minutes of the Meeting: All minutes of the meeting with be recorded by the Scrum Master, if they so happen to NOT be in the meeting, the project manager shall take over their role in their absence. </li>
+ 
+<li>Decisions: Based on the discussion of the meeting and how the flow of the meeting has gone, the decision must be made by consensus, if it does not reach a consensus the project manager will be the one to decide for the group. 
+Follow-up: Must be noted down in the minutes of the meeting and must be addressed in the next meeting. </li>
+ 
+<li>Time Management: Meetings should start and end on the specified time slot agreed upon, to avoid going off schedule from project development. </li>
+ 
+<li>Recording:  Agreed upon by everyone in the meeting (and a note to the privacy act enacted upon the online meeting), a recording of the session should be standard, in case of an attendee not being able to reach the meeting. </li>
+</ol>
 
 
 ==Communication Standards==
-
+<p>The communication standards for the Chubby Gourmet’s E-Commerce Web Application project are the following: </p>
+<ol>
+<li>Standardized Document Templates:  Making use of the standardized templates (usually provided by the program manager) will give a sense of consistency throughout the documentation of the project. These templates include: minutes of the meeting, meeting agendas, status reports, documentation deliverables, and etc. </li>
+ 
+<li>Communication Protocols: Creating a standard way of communicating can allow a more fluid way of getting the information out more efficiently and effectively. This will also include the handling of sensitive or confidential information that may come across in the meetings. </li>
+ 
+<li>File Naming Convention: Having a standardized way of naming file, can ensure an easier way of locating and accessing files when needed. </li>
+ 
+<li>Online Conferencing: The use of online conference tools such as Microsoft Teams will be useful for the team, considering how the stakeholder is located in a different area form the team. </li>
+</ol>
 
 ==Communication Escalation Process==
-
+<p>The ideal communication escalation process for HighTable would involve the following steps: </p>
+<ol>
+<li>Identify the Problem: The team should identify what problem they are to solve, so that they know if it needs to be escalated or not. </li>
+ 
+<li>Attempt to solve the problem within the team: The team should attempt to solve the issue by themselves in order to measure how big the problem is. </li>
+ 
+<li>Involve a communication manager: If the problem cannot be resolved, the group must look towards a communication manager, that will responsible for the communication between the team and the program manager. 
+Consult to higher positions: If the problem is still not resolved, the problem will notified by the higher positions to review and look for further solutions.  </li>
+ 
+ 
+<li>Document the problem and resolution: Once the problem is resolved, all details of the session must be recorded for documentation purposes. </li>
+ 
+<li>Review and prepare for follow-up: After resolving and documentation, those who were not at the session can review on what had transpired and can formulate follow-ups if needed.  </li>
+</ol>
 
 ==Glossary of Communication Terminology==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">TERM</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">DEFINITION</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Communication Plan</p></td>
+<td><p style="text-align:center;">Document outlining the communication management strategy for the project team and the stakeholders. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Sole individual that has taken interest in the project’s output. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Frequency</p></td>
+<td><p style="text-align:center;">The frequency how much communications are distributed. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Flowchart</p></td>
+<td><p style="text-align:center;">Visual representation of how information is passed around. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Standards</p></td>
+<td><p style="text-align:center;">Standard templates, formats, or documents that are established in the project development. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Guidelines</p></td>
+<td><p style="text-align:center;">Protocols used for conducting any kind of communication done. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Tools</p></td>
+<td><p style="text-align:center;">Technology and tools used for communication. Applications such as Microsoft Teams and Outlook. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Escalation Process</p></td>
+<td><p style="text-align:center;">Process used for resolving problems found within the project development. </p></td>
+</tr>
 
+</table>
 
 
 =Quality Management Plan=
