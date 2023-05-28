@@ -1314,26 +1314,239 @@ Scrum Master will update and re-baseline project documentation as necessary. </l
 
 =Communications Management Plan=
 ==Introduction==
+<p>The Communications Management Plan document tackles Chubby Gourmet’s E-Commerce Web Application’s communication strategy and protocols that both HighTable and the stakeholder can use. The plan will be answering the following: </p>
+
+<ul>
+<li>The plan outlines types of information that will be communicated, such as project updates, progress reports, risks, and issues. It will also include the amount of detail and format of the information (Whether it be communicated verbally or through written means) </li>
+<li>The plan outlines the methods of communication that will be utilized, such as meetings, or email, telephone.  </li>
+<li>The plan outlines the frequency of project communications, both formal and informal methods. </li>
+<li>The plan defines the roles and responsibilities of team members and stakeholders in terms of communication; this also includes who is responsible for distributing project information. </li>
+<li>The plan outlines the communication needs of all stakeholders and how they will be met.  </li>
+<li>The plan outlines the resources needed for communication (Such as budget and personnel) to have free flowing communication amongst all parties. </li>
+<li>The plan outlines the protocols for exchanging sensitive or confidential information and includes who must authorize the release of such information.  </li>
+<li>The plan defines a process for managing changes in the communication process. This will include how changes will be proposed, reviewed, and approved. This ensures that all stakeholders are aware of any changes and that the communication process remains consistent throughout the project. </li>
+<li>The plan outlines the flow of communication within the production of the project. This also includes how information is exchanged between team members, the stakeholder, and other individuals involved in the development of the project. This helps to ensure that everyone involved in the Chubby Gourmet’s E-Commerce Web Application project is informed and that the information is shared in a timely manner.  </li>
+<li>The plan discusses any constraints that may affect the project communications (E.g. legal or regulatory requirements) and outlines how these constraints will be addressed.  </li>
+<li>The plan outlines any standard templates, formats, or documents that will be used for communicating project information (E.g. progress report, minutes of the meeting). </li>
+<li>The plan includes an escalation process for resolving any communication-based conflicts or issues that may arise during the project.</li>  
+</ul>
 
 
 
 ==Communications Management Approach==
+<p>In this portion of the paper, it will be tackling how HighTable intends to manage their communications on the project. The group will approach this with a proactive and practical way of communicating with one another. </p>
+<p>By being proactive, this allows the group to have a selfless attitude as the principle allows them to avoid small difficulties that may build up in the future. All members should have a proactive mindset as it allows everyone to have a deep understanding of what is needed and what actions can be taken to accomplish them.  </p>
+<p>By being practical, this allows the group to be concise and efficient with how they progress throughout the development of the project. Analyzing and narrowing down the needed details, information, and data can ensure that everyone involved is getting the important points. Taking into consideration of how the status of the project and how the status of each member is, can help determine when and how to communicate the needs for one another. </p>
+
 
 
 ==Communications Management Constraints==
+<p>The Communications Management Constraints for Chubby Gourmet’s E-Commerce Web Application will be identifying the constraints, limitations, and boundaries that may leave an impact or hinder the project’s development. It is important to address these constraints as it will serve as an outline of what the team’s limits are in terms of information and it can help find a way to mitigate potential roadblocks along the way. </p>
+<p>This portion of the paper will discuss an overview of key constraints to take note of, and these may include communication processes such as internal and external factors, technological limitations, and regulatory requirements. </p>
+<p>The Communications Management Constraints of the project are as follows: </p>
+
+<ol>
+<li>Limited budget for communication tools and resources: The project has a limited budget for communication tools and resources, so the usage of provided communication applications (E.g. Microsoft Teams meeting) will be mainly used. </li>
+ 
+<li>Limited access to the stakeholder: The stakeholder may have limitations upon meeting physically as they are assigned to farther locations (specifically outside of NCR). </li>
+ 
+<li>Limited availability of team members: The team members may be preoccupied with other commitments or responsibilities in their own times, which may limit their availability for communication.  </li>
+ 
+ 
+<li>Confidentiality: Certain information related to the project may be confidential and require special handling and communication protocols (E.g. Addresses, Contact information, Account Information, and etc.).  </li>
+ 
+ 
+<li>Technical difficulties: Technical difficulties may hinder communications as times may be unavoidable depending on the situation.  </li>
+ 
+<li>Time constraints: The project can be restricting in time due to the needed deliverable dates assigned by either the team or the stakeholder. </li>
+</ol>
 
 
 ==Stakeholder Communication Requirements==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Program Manager</p></td>
+<td><p style="text-align:center;">Oversees the overall progress of HighTable’s project development. They may also be responsible for overseeing other projects. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Key Stakeholder</p></td>
+<td><p style="text-align:center;">Same induvial as the project sponsor. Group/Individual that has taken interest in collaborating with HighTable in the development of the project. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Individual responsible for planning, handling, and executing the project. They are considered to be the team leader that will do the best of their abilities to accomplish any and all tasks relating to the project.  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Change Control Board</p></td>
+<td><p style="text-align:center;">The designated group, which reviews technical specifications and authorizes changes within the organization’s infrastructure.  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Individuals responsible for the technical aspects of the Chubby Gourmet’s E-Commerce Web Application. They handle the front and back-end components of the project and accomplish all and needed tasks to meet the key stakeholder’s needs.  </p></td>
+	</tr>
 
+</table>
 
 ==Roles==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Program Manager</p></td>
+<td><p style="text-align:center;">Oversees the overall progress of HighTable’s project development. They may also be responsible for overseeing other projects. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Key Stakeholder</p></td>
+<td><p style="text-align:center;">Same induvial as the project sponsor. Group/Individual that has taken interest in collaborating with HighTable in the development of the project. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Individual responsible for planning, handling, and executing the project. They are considered to be the team leader that will do the best of their abilities to accomplish any and all tasks relating to the project.  </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Change Control Board</p></td>
+<td><p style="text-align:center;">The designated group, which reviews technical specifications and authorizes changes within the organization’s infrastructure.  </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Individuals responsible for the technical aspects of the Chubby Gourmet’s E-Commerce Web Application. They handle the front and back-end components of the project and accomplish all and needed tasks to meet the key stakeholder’s needs. </p></td>
+</tr>
+</table>
 
 
 ==Project Team Directory==
+<p>The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people. </p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">TITLE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">ORGANIZATION/DEPARTMENT</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">PHONE</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
+<td><p style="text-align:center;">Business Owner</p></td>
+<td><p style="text-align:center;">External</p></td>
+<td><p style="text-align:center;">priscillamariano403@gmail.com</p></td>
+<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Program Manager</p></td>
+<td><p style="text-align:center;">Mr. Jose Eugenio L. Quesada </p></td>
+<td><p style="text-align:center;">PMO Manager</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
+<td><p style="text-align:center;">(555) 555-1313 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Gianna Bernice R. Artajos</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">grartajos@student.apc.edu.ph</p></td>
+<td><p style="text-align:center;">(+63) 908 814 4825 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Stakeholder</p></td>
+<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
+<td><p style="text-align:center;">Business Owner</p></td>
+<td><p style="text-align:center;">External</p></td>
+<td><p style="text-align:center;">priscillamariano403@gmail.com </p></td>
+<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">John Rysal C. Rosel</p></td>
+<td><p style="text-align:center;">Product Developer</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">jcrosel@student.apc.edu.ph </p></td>
+<td><p style="text-align:center;">(+63) 977 216 8841 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Lester Dave M. Salazar</p></td>
+<td><p style="text-align:center;">Product Designer</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">lmsalazar2@student.apc.edu.ph </p></td>
+<td><p style="text-align:center;">(+63) 935 553 5180  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Marcus Philip L. Flores</p></td>
+<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">mlflores@student.apc.edu.ph </p></td>
+<td><p style="text-align:center;">(+63) 939 439 3060  </p></td>
+	</tr>
+
+</table>
 
 
-==Communications Methods and Technology==
 
+==Communication Methods and Technologies==
+<p>The Chubby Gourmet’s E-Commerce Web Application project needs a thorough understanding of what communication models and technologies are available to them, in order to effectively choose which method benefits all. Taking into consideration the different capabilities and limitations of each communication method and technology, will ensure that all individuals receive the necessary information they need. This portion of the document will determine the most effective methods for delivering project updates, progress reports, risks, and issues, and any other relevant information. </p>
+<p>It is also important to consider the cost and feasibility of using different technologies, as well as any security or privacy related issues that may occur. By carefully considering all possibilities available to the team, this will ensure that all information will be received to everyone involved efficiently and safely. </p>
+<p>These are the following considerations that HighTable will factor in for the communication methods: </p>
+
+<ol>
+<li>Location of the Stakeholder 
+Since Ms. Mariano is stationed in Laguna and cannot hold a physical meeting and prefers a purely online way of communicating, the technology used to contact her must suit their current technology without sacrificing any security measures as much as possible. </li>
+ 
+<li>The Type of Information dealt with 
+Depending on how crucial or confidential the information is, the mode of communication must be considered depending on the type of information that is being handled. </li>
+ 
+<li>Size and Complexity of the Project  
+Considering how Chubby Gourmet is a micro-enterprise, the need for web portals and large-scale project management applications would not be a priority. </li>
+ 
+<li>Level of technical expertise 
+The client may not be too well versed in the field of technology. Keeping a simple and straight to the point communication will be most effective in this scenario. </li>
+</ol>
+
+<p>With all of these factors in mind, HighTable will take into consideration on how to approach the stakeholder with the combination of all of these factors in the most effective and efficient way as possible. </p>
+
+
+==Communications Matrix==
+<p>The following table identifies the communications requirements for this project. </p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">CHANNEL</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">FROM</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">TO</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">TYPE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">FREQUENCY</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">FORMAT USED</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">DELIVERY MEDIA</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
+<td><p style="text-align:center;">Business Owner</p></td>
+<td><p style="text-align:center;">External</p></td>
+<td><p style="text-align:center;">priscillamariano403@gmail.com</p></td>
+<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
+<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
+</tr>
 
 ==Communication Flowchart==
 
