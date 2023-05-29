@@ -387,12 +387,59 @@ The Apelo Dental Clinic System project is nearing completion, and as part of the
 
 The transition approach will include the following steps:  
 </p>
-<ol type=a>
+<ol type="a">
 <li>Communication Plan: The communication plan will ensure that all stakeholders are aware of the transition plan, timelines, and expectations for the transition.</li>
 <li>Transition Planning: The transition plan will be developed in coordination with the Apelo Dental Clinic Staff, and it will include a detailed timeline of all activities that need to be completed during the transition.</li>
 <li>Knowledge Transfer: Knowledge transfer will occur through various means, such as documentation, instruction manuals, as-built documents, and formal training classes, to ensure that the Apelo Dental Clinic Staff has the necessary skills and knowledge to support the system.</li>
 <li>Staffing: During the transition, the project team will scale down their staff to a minimum level required to support the knowledge transfer and transition activities.</li>
 </ol>
+<p><b>Timeline</p></b>
+<p>The transition out plan for this project involves a comprehensive schedule of activities that are necessary to successfully transition from the incumbent contractor to the Apelo Dental Clinic Staff. The transition plan is broken down into two main phases, execution, and closeout. The execution phase includes user training and go-live events that are scheduled from August 28th to August 31st.</p>
+<p>The closeout phase involves document lessons learned, update files/records, gain formal acceptance, archive files/documents, and project closeout meeting. These activities will be conducted from September 1st to September 29th. The timeline provides a detailed schedule for each activity to ensure timely completion of all transition activities. The success of the transition plan will depend on the careful planning and execution of each activity as outlined in the timeline.</p>
+<p><b>Assumption</b></p>
+<p>The following assumptions will be made for the transition approach:</p> 
+
+<ol type="a">
+<li>The Apelo Dental Clinic staff will be available onsite meeting to participate in the transition and receive knowledge transfer.  </li>
+<li>The project team will provide all necessary documentation, training, and instruction manuals to the Apelo Dental Clinic Staff to facilitate knowledge transfer.</li>
+<li>The owner will provide all necessary equipment and software licenses for the Apelo Dental Clinic Staff to support the system.</li>
+<li>The Apelo Dental Clinic Staff will have the necessary skills and knowledge to support the system after the completion of the transition.</li>
+==Transition Team Organization== 
+
+<p><b>Roles and Responsibilities:</b></p> 
+<ol>
+<li><b>Transition Project Manager (TPM)</b> Overall responsible for the success of the transition. The TPM will manage the transition team, ensure timely completion of transition activities, coordinate with the customer, and ensure compliance with the transition plan.</li>
+<li><b>Developers/Technical Lead (TL):</b> Responsible for providing technical expertise on the project. The Developers/Technical Lead will work closely with the project team to understand the system and develop a plan for the transition. The TL will also be responsible for coordinating with the new contractor to ensure a smooth transition of technical knowledge and expertise.</li>
+<li><b>Subject Matter Experts (SMEs):</b> Responsible for providing subject matter expertise on specific areas of the project. The SMEs will work closely with the developers, project team and the Apelo Dental Clinic Staff to ensure a smooth transition of knowledge and expertise.</li>
+<li><b>Quality Assurance (QA) Lead:</b> Responsible for ensuring that all deliverables meet the quality standards set forth in the transition plan. The QA Lead will work closely with the TPM to develop quality metrics and ensure that all transition activities are completed to a high standard.</li>  
+<li><b>Project Team Members:</b> Responsible for providing support with knowledge and expertise on the system. They will work closely with the TPM, developers, SME, and Apelo Dental Clinic Staff members to ensure a smooth transition of knowledge and expertise.</li> 
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Responsibilities</th>
+  </tr>
+  <tr>
+    <td>Transition Project Manager (TPM)</td>
+    <td>Overall responsible for the success of the transition. The TPM will manage the transition team, ensure timely completion of transition activities, coordinate with the customer, and ensure compliance with the transition plan.</td>
+  </tr>
+  <tr>
+    <td>Developers/Technical Lead (TL)</td>
+    <td>Responsible for providing technical expertise on the project. The Developers/Technical Lead will work closely with the project team to understand the system and develop a plan for the transition. The TL will also be responsible for coordinating with the new contractor to ensure a smooth transition of technical knowledge and expertise.</td>
+  </tr>
+  <tr>
+    <td>Subject Matter Experts (SMEs)</td>
+    <td>Responsible for providing subject matter expertise on specific areas of the project. The SMEs will work closely with the developers, project team, and the Apelo Dental Clinic Staff to ensure a smooth transition of knowledge and expertise.</td>
+  </tr>
+  <tr>
+    <td>Quality Assurance (QA) Lead</td>
+    <td>Responsible for ensuring that all deliverables meet the quality standards set forth in the transition plan. The QA Lead will work closely with the TPM to develop quality metrics and ensure that all transition activities are completed to a high standard.</td>
+  </tr>
+  <tr>
+    <td>Project Team Members</td>
+    <td>Responsible for providing support with knowledge and expertise on the system. They will work closely with the TPM, developers, SME, and Apelo Dental Clinic Staff members to ensure a smooth transition of knowledge and expertise.</td>
+  </tr>
+</table>
+
 =System Requirements Specifications=
 ==1. System Requirements for Development==
 <table border="1" width="70%" align="center">
