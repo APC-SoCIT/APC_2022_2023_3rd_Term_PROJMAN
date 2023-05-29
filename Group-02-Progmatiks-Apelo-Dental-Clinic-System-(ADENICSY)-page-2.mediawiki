@@ -371,10 +371,28 @@ The contract approval process for the Apelo Dental Clinic project involves a ser
    <li>Risk Management: Assess the effectiveness of risk management in procurement activities. This includes tracking the identification, assessment, and mitigation of risks related to suppliers, supply chain disruptions, contractual issues, and other procurement-specific risks.</li>
 </ol>
 
+=Implementation Plan=
+==Executive Summary==
+<p>
+The Apelo Dental Clinic System project is nearing completion, and as part of the project closeout, a transition out plan has been developed to ensure a smooth handover of the system to its new owners. The purpose of this plan is to provide a high-level overview of the transition process, including the history of the contract, the current state of the system, and the planned transition to the new owners. The Apelo Dental Clinic System was developed by our organization in collaboration with the client to improve their data management storing and queuing system. The system has been in use for the past year and has successfully achieved the project objectives. As per the contract agreement, the system is now transitioning to the client's ownership. The current state of the system is stable and operational. All required functionalities have been tested and validated, and user training has been completed. As we transition out, we aim to ensure that the client is equipped with all necessary documentation and support to manage and maintain the system effectively. </p>
 
+<p> The new owners will receive all project deliverables, including technical documentation, user manuals, and source code, to ensure they have a comprehensive understanding of the system. We will also provide knowledge transfer sessions to the new owners, covering system operations, maintenance, and troubleshooting. The transition out plan for the project includes a detailed timeline with a focus on a smooth and successful handover to the new contractor. The execution phase of the transition plan involves user training and go-live, which will take place at the end of August 2023.</p>
 
+<p>The closeout phase of the plan involves several key activities, including documenting lessons learned, updating files and records, gaining formal acceptance, archiving files and documents, and holding a project closeout meeting. These activities will take place throughout September 2023, with the project closeout meeting scheduled for the end of the month. Throughout the transition, the transition team will work closely together to ensure a smooth handover and minimize any disruptions to the project's operations.</p>
 
+<p>The team will consist of various roles, including the Transition Project Manager, Technical Lead, Subject Matter Experts, Quality Assurance Lead, and Project Team Members. By following this transition plan and timeline, the project team aims to ensure a successful and seamless handover to the new contractor while maintaining the quality of the project's deliverables. Overall, the transition out plan aims to ensure that the client receives a fully operational and sustainable system, and that our organization completes the project on a positive note. </p>
+==Transition Approach==
+<p><b>Overall Approach</b></p>
+<p>The approach for the Transition Out plan for the Apelo Dental Clinic System Project will be a phased transition approach since there is a need for continuity and minimal disruption to ongoing operations. This approach allows for a gradual and systematic transfer of knowledge, resources, and responsibility to the new team, minimizing the risk of downtime and service interruption.  
 
+The transition approach will include the following steps:  
+</p>
+<ol type=a>
+<li>Communication Plan: The communication plan will ensure that all stakeholders are aware of the transition plan, timelines, and expectations for the transition.</li>
+<li>Transition Planning: The transition plan will be developed in coordination with the Apelo Dental Clinic Staff, and it will include a detailed timeline of all activities that need to be completed during the transition.</li>
+<li>Knowledge Transfer: Knowledge transfer will occur through various means, such as documentation, instruction manuals, as-built documents, and formal training classes, to ensure that the Apelo Dental Clinic Staff has the necessary skills and knowledge to support the system.</li>
+<li>Staffing: During the transition, the project team will scale down their staff to a minimum level required to support the knowledge transfer and transition activities.</li>
+</ol>
 =System Requirements Specifications=
 ==1. System Requirements for Development==
 <table border="1" width="70%" align="center">
