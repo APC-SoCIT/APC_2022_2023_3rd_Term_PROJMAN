@@ -560,6 +560,111 @@ Conclusion:
 </table>
 <br>
 
+=Human Resource Management Plan=
+==Introduction==
+<p>The human resource plan is a critical component of the project management process for Chubby Gourmet. It outlines how the project team will be organized, including roles and responsibilities, communication protocols, and performance management measures. By using this plan, the business owner and the team can ensure that they have the right people with the necessary skills to achieve project objectives, and that everyone is working together effectively towards a common goal. </p>
+
+
+==Roles and Responsibilities==
+<p>An effective human resources management plan is essential for the execution of the Chubby Gourmet Web Application project. It outlines the roles and responsibilities of each team member and stakeholder, ensuring clear accountability for specific project areas. The plan also establishes the level of authority granted to each team member, empowering them to make decisions and allocate project resources. Additionally, it specifies the responsibilities and work activities that each team member must undertake to accomplish their assigned tasks effectively. Competencies and required skills are identified, ensuring that team members possess the necessary capabilities to fulfill their project responsibilities. By providing this structure, the human resources management plan ensures efficient collaboration, effective resource allocation, and contributes to the successful completion of the Chubby Gourmet Web Application project. </p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">AUTHORITY</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">COMPETENCY</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Business Owner</p></td>
+<td><p style="text-align:center;">Responsible for overall project direction, decision-making, and resource allocation. </p></td>
+		<td><p style="text-align:center;">Ensuring the business goals and objectives are aligned with the project, providing the final approval of project deliverables. </p></td>
+<td><p style="text-align:center;">Strong business understanding, leadership skills, and a clear understanding of the industry and market trends. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Product Owner</p></td>
+<td><p style="text-align:center;">Responsible for project planning, execution, and resource management. </p></td>
+		<td><p style="text-align:center;">Defining project scope, creating and managing the project schedule, coordinating team members, tracking progress, and ensuring timely delivery of project milestones. </p></td>
+<td><p style="text-align:center;">Project management skills, leadership, strong organizational skills, communication skills, and the ability to manage risks and resolve conflicts. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">Facilitates the Scrum process, ensuring adherence to agile principles and removing any obstruction that may hinder team productivity. </p></td>
+		<td><p style="text-align:center;">Guiding the team in adopting Agile practices, organizing and facilitating Scrum meetings, monitoring team progress, and promoting effective collaboration. </p></td>
+<td><p style="text-align:center;">Knowledgeable in agile and Scrum methodologies, excellent facilitation and conflict resolution skills. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Product Developer</p></td>
+<td><p style="text-align:center;">Empowered to make decisions regarding the technical aspects of product development, including coding, testing, and implementation. </p></td>
+		<td><p style="text-align:center;">Responsible for designing, developing, and maintaining the web application, ensuring adherence to project requirements and quality standards. </p></td>
+<td><p style="text-align:center;">Proficiency in programming languages relevant to the project, software development expertise, and problem-solving skills.  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Product Designer</p></td>
+<td><p style="text-align:center;">Has decision-making authority regarding the visual and user experience aspects of the web application. </p></td>
+		<td><p style="text-align:center;">Creating user interface designs, wireframes, prototypes, and ensuring a seamless and interactive user experience.  </p></td>
+<td><p style="text-align:center;">Proficiency in design tools and software, creativity, and the ability to translate user requirements into visually appealing and functional designs. </p></td>
+	</tr>
+</table>
+
+==Project Organizational Chart==
+<p>The Project Organizational Chart for Chubby Gourmet provides a visual representation of the project team and their relationships. At the top of the chart is the Business Owner who is responsible for the overall success of the project, followed by the Product Owner who oversees the project's resources, scope, and schedule. The Scrum Master and Product Developer are also included in the chart to show their roles in facilitating the development process and ensuring product delivery. Finally, the Product Designer is responsible for creating and delivering the design elements for the project. The chart helps to clarify the roles and responsibilities of each team member, ensuring that everyone is aligned with the project's goals and objectives. </p>
+
+<insert image here>
+
+==Staffing Management==
+<p>The Staffing Management section of the human resource plan for Chubby Gourmet outlines the following key aspects: </p>
+<ul>
+<li>Acquisition of Human Resources: The plan specifies when and how human resources will be acquired, whether through internal recruitment, external hiring, or outsourcing. It identifies the roles and responsibilities that need to be filled and the criteria for selecting suitable candidates. </li>
+<li>Skills Training: If there are identified gaps in the skills required for project activities, the plan includes provisions for training and development. It outlines the training programs or activities that will be provided to ensure that team members have the necessary competencies to perform their assigned tasks effectively. </li>
+<li>Performance Reviews: The plan establishes a framework for conducting performance reviews to assess the progress and effectiveness of team members. It defines the criteria for evaluation, the frequency of reviews, and the individuals responsible for conducting them. This helps in identifying areas of improvement and providing feedback to enhance performance. </li>
+<li>Rewards and Recognition: The plan includes a rewards and recognition system to motivate and acknowledge the contributions of team members. It outlines the criteria for rewards, such as bonuses or incentives, and the methods of recognition, such as public appreciation or certificates of achievement. </li>
+</ul>
+
+<p>By addressing these aspects, the Staffing Management section of the human resource plan ensures that the project has the right resources with appropriate skills, provides support for their development, and establishes mechanisms for performance evaluation and recognition, ultimately contributing to the successful execution of the Chubby Gourmet project. </p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">SKILLS REQUIRED</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">PERFORMANCE REVIEW</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">RECOGNITION AND REWARD</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Team Leader</p></td>
+<td><p style="text-align:center;">Overall project planning, coordination, and execution. Ensuring project goals and objectives are met, managing project resources, timelines, and deliverables, and facilitating communication and collaboration among team members. </p></td>
+		<td><p style="text-align:center;">Strong leadership skills, excellent communication and interpersonal skills, project management expertise, ability to prioritize and make critical decisions, problem-solving and conflict resolution skills. </p></td>
+<td><p style="text-align:center;">Conduct regular performance reviews to assess the project team leader's effectiveness in managing the project, meeting objectives, and leading the team. Evaluate their ability to coordinate activities and successfully deliver project outcomes. </p></td>
+<td><p style="text-align:center;">Recognize the Team Leader's leadership, successful project delivery, and ability to overcome challenges. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Team Members</p></td>
+<td><p style="text-align:center;">Collaborating with the project team leader and other team members to complete assigned tasks, contributing to project deliverables, meeting deadlines, and providing input and expertise in their respective areas of specialization. </p></td>
+		<td><p style="text-align:center;">Relevant skills and expertise specific to their assigned tasks, such as web development, database management, and user-interface design. Effective communication and teamwork skills, time management, attention to detail, and the ability to work independently and follow project guidelines.  </p></td>
+<td><p style="text-align:center;">Regular performance reviews assess the project team members' performance, task completion, quality of work, and the ability to collaborate and contribute effectively within the project team. </p></td>
+<td><p style="text-align:center;">Recognized based on their individual contributions, exceptional performance, and adherence to project requirements.  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">Facilitates the Scrum process, ensuring adherence to agile principles and removing any obstruction that may hinder team productivity. </p></td>
+		<td><p style="text-align:center;">Guiding the team in adopting Agile practices, organizing and facilitating Scrum meetings, monitoring team progress, and promoting effective collaboration. </p></td>
+<td><p style="text-align:center;">Knowledgeable in agile and Scrum methodologies, excellent facilitation and conflict resolution skills. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Product Developer</p></td>
+<td><p style="text-align:center;">Empowered to make decisions regarding the technical aspects of product development, including coding, testing, and implementation. </p></td>
+		<td><p style="text-align:center;">Responsible for designing, developing, and maintaining the web application, ensuring adherence to project requirements and quality standards. </p></td>
+<td><p style="text-align:center;">Proficiency in programming languages relevant to the project, software development expertise, and problem-solving skills.  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Product Designer</p></td>
+<td><p style="text-align:center;">Has decision-making authority regarding the visual and user experience aspects of the web application. </p></td>
+		<td><p style="text-align:center;">Creating user interface designs, wireframes, prototypes, and ensuring a seamless and interactive user experience.  </p></td>
+<td><p style="text-align:center;">Proficiency in design tools and software, creativity, and the ability to translate user requirements into visually appealing and functional designs. </p></td>
+	</tr>
+</table>
+
 =Scope Management Plan=
 ==Introduction==
 	<p>Chubby Gourmet is a local food business that has been facing process problems in its daily operations. To address these issues, our group has undertaken the task of implementing an E-commerce web application to improve the business's overall efficiency. The success of this project will depend on effective scope management, which involves defining, controlling, and monitoring the project's scope.</p>
