@@ -1701,17 +1701,15 @@ It should be regular for the team to check and review the member assigned and it
                     <p style="text-align:center;"><em>Decision-making skills</em></p>
                     <p style="text-align:center;"><em>Project management skills</em></p>
                 </td>
-                <td><p style="text-align:center;"><em>The project adviser will thoroughly check the documentation and the project system before submitting it to the project sponsor. It ensures that the project system's updates and changes are well done to proceed to another build and the documentation is written well and aligns with the project system.
-
-The project adviser is the final decision for the mini-progress submissions and milestones of the project team's deliverables.</em></p></td>
+                <td><p style="text-align:center;">The project adviser will thoroughly check the documentation and the project system before submitting it to the project sponsor. It ensures that the project system's updates and changes are well done to proceed to another build and the documentation is written well and aligns with the project system. The project adviser is the final decision for the mini-progress submissions and milestones of the project team's deliverables.</p></td>
 	</tr>
 
         <tr>
-		<td><p style="text-align:center;"><em>Manager</em></p></td>
-                <td><p style="text-align:center;"><em>Leads, checks, and supervises the project team's deliverables.</em></p>
-                    <p style="text-align:center;"><em>Ensures that the deliverables made or in progress follow the objectives and goals of the project system and the project sponsor's office goals.</em></p>
-                    <p style="text-align:center;"><em>Manages the project team and their assigned deliverables.</em></p>
-                    <p style="text-align:center;"><em>Coordinates with the project adviser and sponsor.</em></p>
+		<td><p style="text-align:center;">Manager</p></td>
+                <td><p style="text-align:center;">Leads, checks, and supervises the project team's deliverables.</p>
+                    <p style="text-align:center;">Ensures that the deliverables made or in progress follow the objectives and goals of the project system and the project sponsor's office goals.</p>
+                    <p style="text-align:center;">Manages the project team and their assigned deliverables.</p>
+                    <p style="text-align:center;">Coordinates with the project adviser and sponsor.</p>
                 </td>
 		<td><p style="text-align:center;"><em>Leadership</em></p>
                     <p style="text-align:center;"><em>Communication</em></p>
@@ -1720,15 +1718,14 @@ The project adviser is the final decision for the mini-progress submissions and 
                     <p style="text-align:center;"><em>Technical skills</em></p>
                     <p style="text-align:center;"><em>Project management skills</em></p>
                 </td>
-                <td><p style="text-align:center;"><em>The project manager will lead the team in creating the project system. It oversees the final made deliverables before presenting them to the adviser and thus will be passed to the sponsor. The project manager frequently conducts meetings to let himself be updated, and as well the team is updated on each of one's deliverables. Thus, the project manager gives feedback on the progress and finished deliverables of the team.</em></p></td>
+                <td><p style="text-align:center;">The project manager will lead the team in creating the project system. It oversees the final made deliverables before presenting them to the adviser and thus will be passed to the sponsor. The project manager frequently conducts meetings to let himself be updated, and as well the team is updated on each of one's deliverables. Thus, the project manager gives feedback on the progress and finished deliverables of the team.</p></td>
 	</tr>
 
         <tr>
-		<td><p style="text-align:center;"><em>Programmer</em></p></td>
-                <td><p style="text-align:center;"><em>Create, and build the project system, an ideal system provided by the project sponsor.
-</em></p>
-                    <p style="text-align:center;"><em>To update and change the project system coming from the feedback of the project adviser and sponsor of the project system.</em></p>
-                    <p style="text-align:center;"><em>To consult and present the project system to the project adviser and sponsor.</em></p>
+		<td><p style="text-align:center;">Programmer</p></td>
+                <td><p style="text-align:center;">Create, and build the project system, an ideal system provided by the project sponsor.</p>
+                    <p style="text-align:center;">To update and change the project system coming from the feedback of the project adviser and sponsor of the project system.</p>
+                    <p style="text-align:center;">To consult and present the project system to the project adviser and sponsor.</p>
                 </td>
 		<td><p style="text-align:center;"><em>Technical skills</em></p>
                     <p style="text-align:center;"><em>Decision-making skills</em></p>
@@ -1736,22 +1733,22 @@ The project adviser is the final decision for the mini-progress submissions and 
                     <p style="text-align:center;"><em>Communication skills</em></p>
                     <p style="text-align:center;"><em>Management skills</em></p>
                 </td>
-                <td><p style="text-align:center;"><em>The programmers are the ones who create and build the system that ideally came from the project sponsor and approved, which was the project system provided by the project team. Frequently checks, codes, and consumes new ideas for the project system. Updates and changes the project system based on the feedback received from the project adviser and sponsor.</em></p></td>
+                <td><p style="text-align:center;">The programmers are the ones who create and build the system that ideally came from the project sponsor and approved, which was the project system provided by the project team. Frequently checks, codes, and consumes new ideas for the project system. Updates and changes the project system based on the feedback received from the project adviser and sponsor.</p></td>
 	</tr>
 
         <tr>
-		<td><p style="text-align:center;"><em>Documentation</em></p></td>
-                <td><p style="text-align:center;"><em>Create and write the documentation for the project system, an ideal system provided by the project sponsor.</em></p>
-                    <p style="text-align:center;"><em>To update, change, re-write, and proofread the documentation for the project system coming from the feedback of the project adviser and sponsor of the project system.</em></p>
-                    <p style="text-align:center;"><em>To consult and present the documentation to the project adviser and sponsor.
-</em></p>
+		<td><p style="text-align:center;">Documentation</p></td>
+                <td><p style="text-align:center;">Create and write the documentation for the project system, an ideal system provided by the project sponsor.</p>
+                    <p style="text-align:center;">To update, change, re-write, and proofread the documentation for the project system coming from the feedback of the project adviser and sponsor of the project system.</p>
+                    <p style="text-align:center;">To consult and present the documentation to the project adviser and sponsor.
+</p>
                 </td>
 		<td><p style="text-align:center;"><em>Technical skills in writing</em></p>
                     <p style="text-align:center;"><em>Communication skills</em></p>
                     <p style="text-align:center;"><em>Management skills</em></p>
                 </td>
-                <td><p style="text-align:center;"><em>The documentations write the information of the system that ideally came from the project sponsor and was approved, which was the project system provided by the project team. Frequently writes documentation for the project system. Updates and changes the documentation of the project system based on the feedback received from the project adviser and sponsor.
-</em></p></td>
+                <td><p style="text-align:center;">The documentations write the information of the system that ideally came from the project sponsor and was approved, which was the project system provided by the project team. Frequently writes documentation for the project system. Updates and changes the documentation of the project system based on the feedback received from the project adviser and sponsor.
+</p></td>
 	</tr>
 
 </table>
