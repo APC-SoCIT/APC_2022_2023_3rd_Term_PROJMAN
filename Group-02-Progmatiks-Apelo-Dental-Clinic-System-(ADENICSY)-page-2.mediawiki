@@ -439,7 +439,80 @@ The transition approach will include the following steps:
     <td>Responsible for providing support with knowledge and expertise on the system. They will work closely with the TPM, developers, SME, and Apelo Dental Clinic Staff members to ensure a smooth transition of knowledge and expertise.</td>
   </tr>
 </table>
+==Transition Workforce==
+<p>The workforce transition is a critical aspect of the transition out plan for the Apelo Dental Clinic System project. In order to ensure a smooth and efficient transition, it is essential to determine and communicate the workforce plan of time. As part of the transition team, the Transition Project Manager will work closely with both the incumbent and new contractors as well as the customer to determine the best course of action for the workforce.</p>
 
+<p>This may include retaining current staff, transitioning staff to the new contractor, or hiring new staff altogether. Communication will be key in this process, as the workforce must be informed of any changes in a timely and respectful manner. The Transition Project Manager will work closely with HR and management to ensure that all staff are aware of their options and are provided with the necessary support throughout the transition process.</p>
+
+<p>In addition, any necessary training or re-training will be provided to ensure that the workforce is fully equipped to continue providing high-quality services during and after the transition period. The workforce transition plan will be regularly reviewed and updated as necessary to ensure that the project is successfully completed on time and within budget.</p>
+==Workforce Execution During Transition==
+<p>During the transition period of the Apelo Dental Clinic System project, work will still need to be performed they are as follows:</p>
+<ul>
+<li>User Training: This will involve the development and delivery of training materials to educate users on the new system. The training sessions will likely be held over a period of three days and will involve both classroom and hands-on training.</li>
+<li>Go Live: This will be the actual launch of the new system. The team will need to ensure that all systems are in place and functioning correctly before the system is made available to users. This will likely involve final system testing and ensuring that all data has been migrated correctly.</li> 
+<li>Document Lessons Learned: This phase will involve documenting the lessons learned during the project. This includes identifying areas where the team performed well, as well as areas where there is room for improvement. The document will be used to help inform future projects and ensure that best practices are adopted moving forward.</li>
+<li>Update Files/Records: During this phase, the team will be responsible for updating all relevant files and records to reflect the completion of the project. This may involve archiving certain documents or updating contracts and agreements with new information.</li>
+<li>Gain Formal Acceptance: This phase involves formally gaining acceptance from the customer that the transition has been completed successfully. The team will need to ensure that all deliverables have been met and that the customer is satisfied with the new system.</li>
+<li>Archive Files/Documents: This phase involves archiving all project-related files and documents. This may include contracts, agreements, project plans, and other relevant materials.</li> 
+<li>Project Close Out Meeting: The final phase of the transition will involve a project close out meeting with all stakeholders. This will be an opportunity to discuss the project as a whole, including any successes or areas for improvement, and to ensure that all outstanding issues have been resolved.</li>
+</ul>
+==Subcontracts==
+
+<p>No contracts or subcontract agreements about this project currently exist, thus there is no need for any transfer or transition of contracts or related agreements.</p>
+
+<p><b>Property Transition</b></p>
+<ol>
+<li><b>Government Furnished Equipment (GFE)</b>
+Since there is no involvement of Government Furnished Equipment (GFE) in the Apelo Dental Clinic System project, this section of the transition plan is not applicable. </li>
+
+<li><b>Incumbent Owned Equipment</b> 
+It is crucial to clearly specify the equipment owned by the current party and ensure it remains in their possession. In case there is any equipment required for supporting the customer's applications and services, the plan should indicate whether the new contractor or customer has the choice to buy or utilize it. Additionally, the plan should incorporate a schedule for the transfer of ownership and any essential paperwork, such as bills of sale or agreements for transferring ownership.
+
+If Apelo Dental Clinic can provide the necessary equipment upon transition, there may not be a need for the project team to transition the equipment to ADENICSY. However, it remains crucial to clearly distinguish between the equipment owned by the incumbent and the equipment that will be supplied by Apelo Dental Clinic. This is necessary to facilitate a seamless transition and prevent any potential conflicts or misunderstandings. The project team should closely collaborate with Apelo Dental Clinic and ADENICSY to ensure that all required equipment is accessible and appropriately transferred.</li>
+
+<li><b>Intellectual Property</b>
+
+During the transition process of the Apelo Dental Clinic System Project, it is crucial to give careful thought to the management of intellectual property (IP) to facilitate a seamless transfer of all pertinent documentation, supplier and subcontractor details, service agreements, as well as original designs or plans. Intellectual property entails various legal considerations and may involve the requirement of non-disclosure agreements (NDAs) between the current party and the customer.</li>
+
+
+<p>The following steps will be taken to ensure proper handling of intellectual property during the transition:</p>
+<ol>
+<li>Identification of all relevant intellectual property: 
+All intellectual property related to the project will be identified, including but not limited to design documents, patents, trademarks, copyrights, software code, and any proprietary information or trade secrets.</li>
+<li>Evaluation of contractual agreements: 
+The current contractual agreements about the ownership and transfer of intellectual property will be examined and assessed to guarantee adherence during the transition.</li> 
+<li>Negotiation of new agreements: 
+If there are any discrepancies or inadequacies in the current agreements, new agreements will be negotiated among the incumbent, new contractor, and customer to ensure the appropriate ownership and transfer of all intellectual property.</li> 
+<li>Protection of intellectual property: 
+Throughout the transition period, adequate safeguards, such as non-disclosure agreements (NDAs) and other legal measures, will be implemented to ensure the protection of all intellectual property.</li>
+
+<li>Transfer of intellectual property: 
+Once the transition process is finalized, the transfer of all pertinent intellectual property will be carried out by the contractual agreements in effect. The intellectual property will be transferred to the new contractor, the customer, or retained by the incumbent, depending on the terms specified in the agreements.</li>
+</ol>
+<p>By following these steps, the Apelo Dental Clinic System Project can ensure a smooth and secure transition of all intellectual property related to the project.</p>
+<li>User Accounts and Passwords</li>
+</ol>
+<p>As part of the transition plan for the Apelo Dental Clinic System project, it is important to address the transition of user accounts and passwords. The following details the steps and considerations for this aspect of the property transition:</p>
+
+User Account Inventory  
+
+Firstly, it is essential to create a detailed inventory that encompasses all user accounts and their corresponding privileges. This inventory should encompass both internal and external users, including system administrators, third-party vendors, and end users. Additionally, the inventory should clearly indicate which accounts are inactive or no longer required for the system. 
+
+Password Security 
+
+Maintaining security during the transition is crucial, and this can be achieved by resetting or disabling all user passwords. By taking this step, unauthorized access to the system and its data can be prevented. Before the transition takes place, users should be informed to change their passwords to a temporary one provided to them. Subsequently, during the transition, the new contractor or system owner should enforce the creation of new, strong passwords by all users. 
+
+Account Transition and Disablement 
+
+After addressing the inventory and password security measures, the subsequent task is to determine which accounts will undergo the transition process and which accounts will be deactivated. The transition plan should clearly outline the individuals entrusted with overseeing the transfer of accounts and passwords, ensuring a seamless transition. 
+
+If there is a need to disable accounts, the transition plan should provide comprehensive information regarding the process and procedures for deactivating accounts. This is crucial to ensure that the access rights of terminated employees, contractors, or third-party vendors are promptly revoked. 
+
+Table of User Accounts 
+
+Within the transition plan, it is necessary to include a table comprising all user accounts that will either undergo the transition or be disabled. This table should encompass the username, associated email address, and corresponding privileges or access rights for each account. Additionally, the table should specify whether the account will be transitioned or disabled, accompanied by any specific instructions for the transition process. 
+
+To conclude, the transfer of user accounts and passwords is a critical component of the Apelo Dental Clinic project's property transition plan. By adhering to a thorough inventory, implementing password security measures, following account transition and disablement procedures, and furnishing a user account table, a seamless and secure transition can be accomplished. 
 =System Requirements Specifications=
 ==1. System Requirements for Development==
 <table border="1" width="70%" align="center">
