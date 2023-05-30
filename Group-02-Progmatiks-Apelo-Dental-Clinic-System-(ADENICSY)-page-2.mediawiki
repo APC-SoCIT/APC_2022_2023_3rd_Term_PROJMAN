@@ -493,26 +493,37 @@ Once the transition process is finalized, the transfer of all pertinent intellec
 <li>User Accounts and Passwords</li>
 </ol>
 <p>As part of the transition plan for the Apelo Dental Clinic System project, it is important to address the transition of user accounts and passwords. The following details the steps and considerations for this aspect of the property transition:</p>
-
-User Account Inventory  
-
-Firstly, it is essential to create a detailed inventory that encompasses all user accounts and their corresponding privileges. This inventory should encompass both internal and external users, including system administrators, third-party vendors, and end users. Additionally, the inventory should clearly indicate which accounts are inactive or no longer required for the system. 
-
-Password Security 
-
-Maintaining security during the transition is crucial, and this can be achieved by resetting or disabling all user passwords. By taking this step, unauthorized access to the system and its data can be prevented. Before the transition takes place, users should be informed to change their passwords to a temporary one provided to them. Subsequently, during the transition, the new contractor or system owner should enforce the creation of new, strong passwords by all users. 
-
-Account Transition and Disablement 
-
+<ol>
+<li>User Account Inventory  
+Firstly, it is essential to create a detailed inventory that encompasses all user accounts and their corresponding privileges. This inventory should encompass both internal and external users, including system administrators, third-party vendors, and end users. Additionally, the inventory should clearly indicate which accounts are inactive or no longer required for the system.</li>
+<li>Password Security 
+Maintaining security during the transition is crucial, and this can be achieved by resetting or disabling all user passwords. By taking this step, unauthorized access to the system and its data can be prevented. Before the transition takes place, users should be informed to change their passwords to a temporary one provided to them. Subsequently, during the transition, the new contractor or system owner should enforce the creation of new, strong passwords by all users.</li>
+<li>Account Transition and Disablement 
 After addressing the inventory and password security measures, the subsequent task is to determine which accounts will undergo the transition process and which accounts will be deactivated. The transition plan should clearly outline the individuals entrusted with overseeing the transfer of accounts and passwords, ensuring a seamless transition. 
 
-If there is a need to disable accounts, the transition plan should provide comprehensive information regarding the process and procedures for deactivating accounts. This is crucial to ensure that the access rights of terminated employees, contractors, or third-party vendors are promptly revoked. 
+If there is a need to disable accounts, the transition plan should provide comprehensive information regarding the process and procedures for deactivating accounts. This is crucial to ensure that the access rights of terminated employees, contractors, or third-party vendors are promptly revoked.</li>
 
-Table of User Accounts 
+<li>Table of User Accounts 
 
-Within the transition plan, it is necessary to include a table comprising all user accounts that will either undergo the transition or be disabled. This table should encompass the username, associated email address, and corresponding privileges or access rights for each account. Additionally, the table should specify whether the account will be transitioned or disabled, accompanied by any specific instructions for the transition process. 
+Within the transition plan, it is necessary to include a table comprising all user accounts that will either undergo the transition or be disabled. This table should encompass the username, associated email address, and corresponding privileges or access rights for each account. Additionally, the table should specify whether the account will be transitioned or disabled, accompanied by any specific instructions for the transition process.</li>
 
-To conclude, the transfer of user accounts and passwords is a critical component of the Apelo Dental Clinic project's property transition plan. By adhering to a thorough inventory, implementing password security measures, following account transition and disablement procedures, and furnishing a user account table, a seamless and secure transition can be accomplished. 
+<p>To conclude, the transfer of user accounts and passwords is a critical component of the Apelo Dental Clinic project's property transition plan. By adhering to a thorough inventory, implementing password security measures, following account transition and disablement procedures, and furnishing a user account table, a seamless and secure transition can be accomplished.</p>
+==Knowledge Transfer==
+<p>Documentation/Manuals:</p> 
+<ul>
+<li>The project team and senior developer will provide documentation and manuals to the Apelo Dental Clinic.</li>
+<li>The documentation package will encompass an overview of the project, system architecture details, functional requirements, technical specifications, and other pertinent information. This documentation will aid the Apelo Dental Clinic staff in gaining a comprehensive understanding of the system and its functionality.</li>
+<li>The manuals will offer detailed, sequential guidance on executing specific tasks associated with the system.</li>
+<p>Training:</p>
+
+<li>The project team, along with a senior developer, will provide personalized training to the Apelo Dental Clinic to ensure a comprehensive understanding of the system and its operational procedures.</li>
+<li>The Apelo Dental Clinic will be granted access to online training materials and resources, which will assist them in enhancing their knowledge and skills about the system.</li>
+<li>The Apelo Dental Clinic will take on the responsibility of disseminating the information to their staff members, as formal classroom training or scheduled sessions may not be feasible in their dynamic and fast-paced work environment.</li>
+</ul>
+<p>As an integral component of the Knowledge Transfer Plan, frequent check-ins and meetings will be arranged between the project team, senior developer, and Apelo Dental Clinic. These interactions aim to facilitate a successful transfer of knowledge and address any questions or concerns promptly. Furthermore, any modifications or updates to the system will be documented and shared with the Apelo Dental Clinic staff, ensuring that they have access to the latest information.</p>
+==Schedule== 
+<img src=https://drive.google.com/file/d/16p9Q4Q9JWTlBcq_-PjgcU7hDEWpxqZxH/view?usp=sharing>
+<img src=https://drive.google.com/file/d/1fpYNY__o-Pi_AteOJB0g7-IZ1Y-N9v2Q/view?usp=share_link>
 =System Requirements Specifications=
 ==1. System Requirements for Development==
 <table border="1" width="70%" align="center">
