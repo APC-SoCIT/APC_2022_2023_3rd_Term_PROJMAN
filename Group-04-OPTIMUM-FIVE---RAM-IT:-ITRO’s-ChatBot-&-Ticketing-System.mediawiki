@@ -1822,10 +1822,101 @@ changes and deadlines for the modifications will contribute to the project's suc
 		<td><p style="text-align:center;">List of Requested Changes</p></td>
                 <td><p style="text-align:center;">
 # The Developers or the Documentation will list the changes from their suggestions and recommendations that may be made through the developers' project system or the documentation's documents. 
-# The list of changes will be submitted and compiled by the Project Manager and prepared for the team's meeting discussion
+# The list of changes will be submitted and compiled by the Project Manager and prepared for the team's meeting discussion.
                 </p></td>
                 <td><p style="text-align:center;">Submission</p></td>
        </tr>
+
+       <tr>
+		<td><p style="text-align:center;">Analyzation and Discussion</p></td>
+                <td><p style="text-align:center;">
+# Upon compiling the list of changes on the project system and the documentation, the Project Manager will set a meeting to further discuss and brainstorm about the submitted changes on how they will affect and benefit the project system.  
+# The Project Manager should be able to make each member be on the same phase and understand the list of changes.
+# Either the Developer or Documentation will address and clarify the list of changes submitted while being supported by the project manager.
+                </p></td>
+                <td><p style="text-align:center;">Reviewing</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">Team’s Approval or Denial</p></td>
+                <td><p style="text-align:center;">
+
+                <p>After discussing the list of changes, the Project Manager will base the decision not only on himself but also on the team. The decision will determine the standards, possibility, and capability to create the changes to the project system and determines if the changes should proceed to progress.</p>
+
+                <p>The Project Manager and the team will consider the changes through the following standards:</p>
+
+                <p>
+# Minor Changes
+## After discussing the specific change, once the team decides that the change is minor, the Project Manager will put it as the least priority. 
+### If the team approves the minor change, it will not be a priority to present but will be guaranteed to discuss with the client.
+### If the team denies the minor change, the change will be closed.
+## Once decided, it will be recorded in the change logs and have its change status until further notice.
+# Major Changes
+## After discussing the specific change, once the team decides that the change is major, the Project Manager will put it as a high priority.
+### If the team approves the major change, it will add to one of the changes presented to the client.
+### If the team denies the major change, it will be listed out from being presented and thus be documented instead for future purposes.
+## Once decided, it will be recorded in the change logs and have its temporary change status.
+                </p></td>
+                <td><p style="text-align:center;">Deciding</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">Presentation of Changes</p></td>
+                <td><p style="text-align:center;">
+# The Project Team will present the team's approved changes to the client.
+# The effects and benefits of the approved changes will be presented by the Project Manager, supported by the Developers and Documentation, or who submitted the change for further explanation or information about the changes.
+                </p></td>
+                <td><p style="text-align:center;">Presenting</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">Client’s Approval or Denial</p></td>
+                <td><p style="text-align:center;">
+
+<p>After presenting the list of changes, the Client will decide which of the presented changes must proceed or not. The team will depend on their actions toward the client on what they should do to the approved or denied changes, given that the client is the final judge of the presented changes.</p>
+
+<p>Technically there are only (2) statuses, and their action might change until further notice or update from either the client or the project team through the Project Manager. The followings are statuses on what will happen to the decided changes:</p>
+
+<p>
+# Approved
+## The team will proceed to develop and implement the approved changes. 
+## Instructions for the approved changes may differ depending on the process or execution of the change. The instructions may specifically be coming from the client.
+# Denied
+## The team will close the change that was denied by the client.
+                </p></td>
+                <td><p style="text-align:center;">Deciding</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">Implementation Changes</p></td>
+                <td><p style="text-align:center;">
+# After the change is approved, the Project Manager will create an action plan to know how to execute the changes implemented in the project system.
+# Once the Project Manager finished making the action plan, the Project Manager will distribute the responsibilities to those involved in the changes.
+# The members involved, either or both Developers and Documentation will do their tasks following the created action plan.
+# The Project Manager will update the project plan, budget, schedule, and the documents of the project system that are affected by the change.
+                </p></td>
+                <td><p style="text-align:center;">In Progress</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">Verification of Implemented Changes</p></td>
+                <td><p style="text-align:center;">
+# The Project Manager will verify that the approved changes have been implemented and are being developed, or listed and will undergo development with the Client and Project Adviser.
+# The Project Manager will update the change logs and the monitoring charts, which be used to present to the Client and Project Adviser from time to time for the progress updates of the changes.
+                </p></td>
+                <td><p style="text-align:center;">Verifying</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">Closing Requested Changes</p></td>
+                <td><p style="text-align:center;">
+# The Project Manager will forward the final statuses of the changes to the team, adviser, and client.
+# This section closes the approved submitted change.
+# Once the changes are implemented, the final results of either the project system or documents will be presented.
+                </p></td>
+                <td><p style="text-align:center;">Closed</p></td>
+       </tr>
+
 </table>
 
 =Work Breakdown Structure (WBS)=
