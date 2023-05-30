@@ -1919,6 +1919,57 @@ changes and deadlines for the modifications will contribute to the project's suc
 
 </table>
 
+<p>For the team to easily track the change, each of the following processes has its status for it to be easily recognized and understood. The table below describes each status of the process steps:</p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Status</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Description</p></td>
+	</tr>
+
+<tr>
+		<td><p style="text-align:center;">Submission</p></td>
+                <td><p style="text-align:center;">A Developer, Documentation, or any of the team members submitted a list of changes, here includes their suggestions and recommendations for the project under their respective parts or deliverables.</p></td>
+       </tr>
+
+<tr>
+		<td><p style="text-align:center;">Reviewing</p></td>
+                <td><p style="text-align:center;">Decisions and analyses of the change are done.</p></td>
+       </tr>
+
+<tr>
+		<td><p style="text-align:center;">Team - Deciding</p></td>
+                <td><p style="text-align:center;">Determining the minor and major changes, and deciding the changes to be either to proceed and present or not to the client or to keep the closed changes for future purposes of the project system.</p></td>
+       </tr>
+
+<tr>
+		<td><p style="text-align:center;">Presenting</p></td>
+                <td><p style="text-align:center;">Presenting the final list of approved changes of the team to the client.</p></td>
+       </tr>
+
+<tr>
+		<td><p style="text-align:center;">Client - Deciding</p></td>
+                <td><p style="text-align:center;"></p>Choosing between proceeding or not and removing or keeping for future purposes of the project system.</td>
+       </tr>
+
+<tr>
+		<td><p style="text-align:center;">In Progress</p></td>
+                <td><p style="text-align:center;">To plan, execute and implement the approved changes.</p></td>
+       </tr>
+
+<tr>
+		<td><p style="text-align:center;">Verifying</p></td>
+                <td><p style="text-align:center;">Reviewing, documenting and updating the implementation of changes.</p></td>
+       </tr>
+
+<tr>
+		<td><p style="text-align:center;">Closed</p></td>
+                <td><p style="text-align:center;">Submitted change of the team is complete, passed every process, and is expected to be done as much as possible while following the plan created.</p></td>
+       </tr>
+
+</table>
+
+
 =Work Breakdown Structure (WBS)=
 
 ==Introduction==
