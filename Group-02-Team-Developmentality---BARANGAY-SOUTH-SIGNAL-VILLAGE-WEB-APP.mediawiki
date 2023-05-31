@@ -1905,7 +1905,8 @@ Regular review and updates of requirements and adherence to standards are necess
 #Compatibility Requirements: This ensures that the web application will function correctly across different browsers, devices, and operating systems. These requirements cover the aspects of cross-browser compatibility, mobile responsiveness, and the adherence to web standards.  
 #Usability Requirements: This requirement will focus on enhancing the user experience and ease of use of the web application. This will cover the navigation, clear user interface design, accessibility for users with disabilities, and responsiveness to user actions, and lastly the compatibility across different browsers and devices.  
 #Scalability Requirements: The team needs to address the ability of the web application to handle user loads and data volumes.  
-
+#Compliance Requirements: This involves adhering to legal, regulatory, and industry-specific standards. Since the web application will be handling sensitive information and data, the team needs to comply with GDPR (General Data Protection Regulation) guidelines. 
+#Documentation Standards: Comprehensive and consistent documentation is important for the web application. It will establish standards for documenting requirements, user manuals, release notes, design specifications, and other relevant documentation. It will help ensure transparency, collaboration, and ease of maintenance. 
 
 ==12.4 Quality Assurance ==
 ==12.5 Quality Control ==
