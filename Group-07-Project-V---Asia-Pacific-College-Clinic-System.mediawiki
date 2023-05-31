@@ -501,188 +501,154 @@
 <h2>Introduction</h2>
 <p>This Stakeholder Management Plan aims to provide a comprehensive and practical framework for effectively managing the E-Cliniq project's stakeholders. The implementation of E-Cliniq is dependent on the cooperation and support of all stakeholders involved. Stakeholder management is an integral part of the project management process, and identifying, analyzing, and prioritizing stakeholders is essential for project success.</p>
 <p>The objective of the E-Cliniq Stakeholder Management Plan is to ensure that all stakeholders are identified, engaged, and effectively managed throughout the project lifecycle. These are the objectives of this plan:</p>
-<ol>
-
-<ol>
-<h2>Purpose</h2>
-
-
-<h2>Stakeholders Identification</h2>
-
 <ul>
-	<li>Group name</li>
-	<li>Number of Stakeholders in the Group</li>
-	<li>Description of the Group</li>
-	<li>Level of Impact on the Project</li>
-	<li>Level the Group is Impacted by Project</li>
-	<li>Current Change Readiness State</li>
-	<li>Desired Change Readiness State</li>
-	<li>Issues, Opportunities and Risks associated with each group</li>
-	<li>Strategies and Actions to address issues, risks and opportunities</li>
+	<li>Identify all stakeholders involved in or affected by the E-Cliniq project and assess their level of interest, influence, and impact.</li>
+	<li>Establish effective communication channels with project stakeholders to ensure that they are informed, consulted, and included in project-related decision-making processes.</li>
+	<li>To develop and implement a plan for stakeholder engagement that will guarantee the support and buy-in of all stakeholders.</li>
+	<li>Anticipate and effectively manage any stakeholder resistance, conflict, or competing objectives.</li>
+	<li>To monitor and evaluate stakeholder engagement throughout the project lifecycle and make any necessary adjustments to guarantee project success.</li>
+<ul>
+<p>Effective stakeholder management can yield numerous benefits for the E-Cliniq project, including improved project outcomes, decreased risks, increased stakeholder satisfaction, and an enhanced reputation.</p>
+
+<h2>Identify Stakeholders</h2>
+<p>Identification of every stakeholder who will be reached by the project is essential. Stakeholder identification, according to the IEEE Standards Association (2019), is the process of identifying all people or organizations who will be impacted by the project or have the potential to influence its result. The ability to manage stakeholder expectations, reduce negative effects, and secure stakeholder buy-in is why effective stakeholder identification is essential to project success. To identify stakeholders, apply the technique below:</p>
+<ul>
+	<li>
+		Stakeholder Mapping: This method entails identifying stakeholders, comprehending their requirements, interests, and concerns, and mapping them according to their level of involvement and impact with the project. You can carry out this process by:
+		<ol>
+			<li>
+				Creating a stakeholder list: This entails compiling a list of all prospective stakeholders, both internal and external, who may be influenced by the project.
+			</li>
+
+			<li>
+				Stakeholder analysis: This entails determining the stakeholders' level of interest, influence, and impact on the project's success. An interest-power grid or stakeholder matrix can be used to conduct the study.
+			</li>
+				
+			<li>
+				Prioritizing stakeholders: In this step, stakeholders are ranked according to their level of involvement, interest in the project, and possible effect on its outcome.
+			</li>
+		</ol>
+	</li>
+	<li>
+	Engagement of Stakeholders
+		<ol>
+			<li>
+				Creating a stakeholder engagement strategy that describes how the project team will interact with each stakeholder, what information they will share, and how they will manage stakeholder expectations.
+			</li>
+
+			<li>
+				Creating communication channels that includes developing ways for the project team to efficiently communicate with stakeholders.
+			</li>
+				
+			<li>
+				Maintaining stakeholder involvement entails being in touch with stakeholders throughout the course of the project, giving them regular updates, and attending to any issues they might have.
+			</li>
+		</ol>
+	</li>
 </ul>
 
-<p><strong><em>Stakeholder Analysis Register Snapshot:</em></strong></p>
-
-<table width="781" border="1" align="center">
-		<tr>
-			<td width="87" bgcolor="lightblue">
-				<p><strong>Group Name</strong></p>
-			</td>
-			<td width="80" bgcolor="lightblue">
-				<p><strong># in Group</strong></p>
-			</td>
-			<td width="130" bgcolor="lightblue">
-				<p><strong>Description &amp; Key attributes</strong></p>
-			</td>
-			<td width="46" bgcolor="lightblue">
-				<p><strong>Impact on Project</strong></p>
-			</td>
-			<td width="46" bgcolor="lightblue">
-				<p><strong>Impacted by Project</strong></p>
-			</td>
-			<td width="83" bgcolor="lightblue">
-				<p><strong>Current State</strong></p>
-			</td>
-			<td width="83" bgcolor="lightblue">
-				<p><strong>Desired State</strong></p>
-			</td>
-			<td width="102" bgcolor="lightblue">
-				<p><strong>Issues, Opportunities and Risks</strong></p>
-			</td>
-			<td width="123" bgcolor="lightblue">
-				<p><strong>Mitigation Strategies and Actions</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>Marketing &amp; Sales</p>
-			</td>
-			<td width="80">
-				<p>Indefinite</p>
-			</td>
-			<td width="130">
-				<p>·   Analytics</p>
-				<p>·   Purchase Order</p>
-				<p>·   Forecasting Sales</p>
-				<p>·   Advertisement</p>
-			</td>
-			<td width="46">
-				<p>H</p>
-			</td>
-			<td width="46">
-				<p>H</p>
-			</td>
-			<td width="83">
-				<p>Manual Documenting, Advertising, and Analytics</p>
-			</td>
-			<td width="83">
-				<p>Forecasting and Analytics using Artificial Intelligence</p>
-			</td>
-			<td width="102">
-				<p>Time Consuming, Automation, Risk of Employees resisting to change</p>
-			</td>
-			<td width="123">
-				<p>To Monitor the System in case of Inconsistency with data as well as backup for the system.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>Accounting &amp; Finance</p>
-			</td>
-			<td width="80">
-				<p>Indefinite</p>
-			</td>
-			<td width="130">
-				<p>·   Transaction</p>
-				<p>·   Assets</p>
-				<p>·   Profits</p>
-				<p>·   Budgeting</p>
-			</td>
-			<td width="46">
-				<p>M</p>
-			</td>
-			<td width="46">
-				<p>M</p>
-			</td>
-			<td width="83">
-				<p>Manual Calculations and Transactions</p>
-			</td>
-			<td width="83">
-				<p>Automation of Transaction, calculations, and budgeting</p>
-			</td>
-			<td width="102">
-				<p>Heavy reliant to the System. Better Monitoring of Profits. Risk</p>
-			</td>
-			<td width="123">
-				<p>Data Transparency in Transactions, Education of Employees of Digital Transformation</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>Inventory &amp; Logistics</p>
-			</td>
-			<td width="80">
-				<p>Indefinite</p>
-			</td>
-			<td width="130">
-				<p>·   Item Quality</p>
-				<p>·   Item Stocks</p>
-				<p>·   Item Delivery to Customer</p>
-			</td>
-			<td width="46">
-				<p>M</p>
-			</td>
-			<td width="46">
-				<p>H</p>
-			</td>
-			<td width="83">
-				<p>Faith and Confidence in the Distributor. Waiting for the Go Signal from the Inventory</p>
-			</td>
-			<td width="83">
-				<p>Total Control of the Inventory Status and Faster work function</p>
-			</td>
-			<td width="102">
-				<p>Leads to Fraud, Reliability of Distributors. Risk of generating unnecessary inventory cost.</p>
-			</td>
-			<td width="123">
-				<p>RFID Technology should be Implemented in the Items. Using Analytics and Automation of Transaction the company can predict the Order to reduce the Inventory cost of the company.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="87">
-				<p>Distributors</p>
-			</td>
-			<td width="80">
-				<p>Indefinite</p>
-			</td>
-			<td width="130">
-				<p>·   Item Purchase</p>
-				<p>·   Item Delivery to Company</p>
-				<p> </p>
-			</td>
-			<td width="46">
-				<p>L</p>
-			</td>
-			<td width="46">
-				<p>M</p>
-			</td>
-			<td width="83">
-				<p>Not Applicable</p>
-			</td>
-			<td width="83">
-				<p>Not Applicable</p>
-			</td>
-			<td width="102">
-				<p>Not Applicable</p>
-			</td>
-			<td width="123">
-				<p>Not Applicable</p>
-			</td>
-		</tr>
+<h2>Key Stakeholders</h2>
+<table>
+<tbody>
+<tr>
+<td><strong>Name</strong></td>
+<td><strong>Position</strong></td>
+<td><strong>Internal/External</strong></td>
+<td><strong>Project Role</strong></td>
+<td><strong>Contact Information</strong></td>
+</tr>
+<tr>
+<td><strong>Jojo F. Castillo</strong></td>
+<td>Clinic Administrator</td>
+<td>Internal</td>
+<td>Project Sponsor</td>
+<td>jojoc@apc.edu.ph</td>
+</tr>
+<tr>
+<td><strong>Ana Mae J. Torre</strong></td>
+<td>Clinic Nurse</td>
+<td>Internal</td>
+<td>Internal User of the System</td>
+<td>anamaet@apc.edu.ph</td>
+</tr>
+<tr>
+<td><strong>APC Doctor</strong></td>
+<td>Doctor</td>
+<td>Internal</td>
+<td>Internal User of the System</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>APC Dentist</strong></td>
+<td>Dentist</td>
+<td>Internal</td>
+<td>External User of the System</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><strong>APC Students</strong></td>
+<td>Students</td>
+<td>External</td>
+<td>External User of the System</td>
+<td>@student.apc.edu.ph</td>
+</tr>
+<tr>
+<td><strong>APC Faculty, Staff, &amp; Employee</strong></td>
+<td>Faculty, Staff, &amp; Employee</td>
+<td>External</td>
+<td>External User of the System</td>
+<td>@apc.edu.ph</td>
+</tr>
+</tbody>
 </table>
 
-<h2>Power/Interest Classification</h2>
-
+<h2>Stakeholder Analysis</h2>
+<table>
+<tbody>
+<tr>
+<td><strong>Name</strong></td>
+<td><strong>Power/Interest</strong></td>
+<td><strong>Current Engagement</strong></td>
+<td><strong>Potential Management Strategies</strong></td>
+</tr>
+<tr>
+<td><strong>Jojo F. Castillo</strong></td>
+<td>High/High</td>
+<td>Supportive</td>
+<td>Sir Jojo is very approachable and an open-minded person. Manage closely and update him with the project&rsquo;s progress</td>
+</tr>
+<tr>
+<td><strong>Ana Mae J. Torre</strong></td>
+<td>Low/High</td>
+<td>Leading</td>
+<td>Ms. Ana has been very engaged with the project team in terms of the project outcome. Keep her informed on the project decisions and progress.</td>
+</tr>
+<tr>
+<td><strong>APC Doctor</strong></td>
+<td>Low/High</td>
+<td>Neutral</td>
+<td>Keep them informed on the specific project development that is relevant to them.</td>
+</tr>
+<tr>
+<td><strong>APC Dentist</strong></td>
+<td>Low/High</td>
+<td>Neutral</td>
+<td>Keep them informed on the specific project development that is relevant to them.</td>
+</tr>
+<tr>
+<td><strong>APC Students</strong></td>
+<td>Low/Low</td>
+<td>Neutral</td>
+<td>Monitor their perspectives, provide general updates on the project&rsquo;s development.</td>
+</tr>
+<tr>
+<td><strong>APC Faculty, Staff, &amp; Employee</strong></td>
+<td>Low/Low</td>
+<td>Neutral</td>
+<td>Monitor their perspectives, provide general updates on the project&rsquo;s development.</td>
+</tr>
+</tbody>
+</table>
 <h2><em></em>Stakeholder Interviews</h2>
 
 <h2>Plan Stakeholder Management</h2>
