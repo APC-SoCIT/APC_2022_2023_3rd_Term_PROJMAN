@@ -1899,6 +1899,7 @@ Quality management is an ongoing process, and it's important to regularly review
 
 ==12.3 Quality Requirements/Standards ==
 Regular review and updates of requirements and adherence to standards are necessary to maintain the desired quality throughout the web application's development and maintenance phases. Quality requirements and standards for web applications are crucial for ensuring that the application meets the desired level of quality and performance. 
+
 #Functional Requirements: This defines the expected behavior and functionality of the web application. This will specify what the application should do like user authentication, form submission, data retrieval, and other specific features relevant to the application domain. 
 #Performance Requirements: This will focus on the responsiveness, speed, and efficiency of the web application. This will include the metrics such as response time, page load time, and server processing time. Performance requirements will help ensure that the web application will perform well under normal and peak load conditions.  
 #Security Requirements: This is essential for the team to protect the web application and its users from potential vulnerabilities and threats they will encounter. It includes measures such as secure authentication and authorization mechanisms, and data encryption for protection.  
@@ -1907,6 +1908,7 @@ Regular review and updates of requirements and adherence to standards are necess
 #Scalability Requirements: The team needs to address the ability of the web application to handle user loads and data volumes.  
 #Compliance Requirements: This involves adhering to legal, regulatory, and industry-specific standards. Since the web application will be handling sensitive information and data, the team needs to comply with GDPR (General Data Protection Regulation) guidelines. 
 #Documentation Standards: Comprehensive and consistent documentation is important for the web application. It will establish standards for documenting requirements, user manuals, release notes, design specifications, and other relevant documentation. It will help ensure transparency, collaboration, and ease of maintenance. 
+
 ==12.4 Quality Assurance ==
 ==12.5 Quality Control ==
 ==12.6 Quality Control Measurements ==
