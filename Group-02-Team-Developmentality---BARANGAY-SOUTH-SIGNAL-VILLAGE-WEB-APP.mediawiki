@@ -1888,14 +1888,14 @@ The Quality Management Plan consists of five components: Quality Management Appr
 
 ==12.2 Quality Management Approach ==
 Quality management is an ongoing process, and it's important to regularly review and improve the approach based on feedback and changing requirements. Here are the several key principles and approaches that the team followed to ensure a high level of quality. 
-  # Requirement Analysis: The team must begin defining and documenting the web application requirements. This will include the functional and non-functional requirements. The team needs to ensure that the requirements are testable, measurable, and aligned to the user expectations.  
-  # Test Planning: Develop a test plan that outlines the testing strategy, scope, and test objectives. Determine the testing tools and techniques that will be used in the project.  
-  # Test Execution: Execute the test cases according to the test plan that the team made. Record and track all the test results, and issues encountered during the testing.  
-  # Performance Testing: Conduct performance testing to evaluate the performance of the web application to know its responsiveness, scalability, and stability under expected and peak loads to optimize the application. 
-  # Security Testing: The team needs to perform security testing to identify vulnerabilities and ensure the web application is protected and secured against potential threats. Review all the code to identify security vulnerabilities and implement best security practices.
-  # Usability Testing: The team needs to evaluate the usability and user experience of the web application by doing a real user in the testing process. Gather all the feedback from the clients and insights to identify areas for improvement in terms of user interface, navigation, and overall user satisfaction.  
-  # Compatibility Testing: The web application needs to function correctly across different browsers, devices, and operating systems. The team needs to test the application on different combinations of browsers and versions to ensure a consistent performance and user experience.  
-  # Continuous Monitoring: Always monitor the performance, availability, and usage of the web application in production. Resolve all issues proactively, ensure a optimal performance, and user satisfaction. 
+#Requirement Analysis: The team must begin defining and documenting the web application requirements. This will include the functional and non-functional requirements. The team needs to ensure that the requirements are testable, measurable, and aligned to the user expectations.  
+#Test Planning: Develop a test plan that outlines the testing strategy, scope, and test objectives. Determine the testing tools and techniques that will be used in the project.  
+#Test Execution: Execute the test cases according to the test plan that the team made. Record and track all the test results, and issues encountered during the testing.  
+#Performance Testing: Conduct performance testing to evaluate the performance of the web application to know its responsiveness, scalability, and stability under expected and peak loads to optimize the application. 
+#Security Testing: The team needs to perform security testing to identify vulnerabilities and ensure the web application is protected and secured against potential threats. Review all the code to identify security vulnerabilities and implement best security practices.
+#Usability Testing: The team needs to evaluate the usability and user experience of the web application by doing a real user in the testing process. Gather all the feedback from the clients and insights to identify areas for improvement in terms of user interface, navigation, and overall user satisfaction.  
+#Compatibility Testing: The web application needs to function correctly across different browsers, devices, and operating systems. The team needs to test the application on different combinations of browsers and versions to ensure a consistent performance and user experience.  
+#Continuous Monitoring: Always monitor the performance, availability, and usage of the web application in production. Resolve all issues proactively, ensure a optimal performance, and user satisfaction. 
 ==12.3 Quality Requirements/Standards ==
 ==12.4 Quality Assurance ==
 ==12.5 Quality Control ==
