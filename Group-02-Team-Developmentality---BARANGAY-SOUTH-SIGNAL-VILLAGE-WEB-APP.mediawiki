@@ -1878,5 +1878,28 @@ The Barangay South Signal Village Web App Team’s Staffing Management Plan will
 *Performance reviews will be used and monitored often. This is done to evaluate each team member's contribution to the project. The performance reviews will act as a report to ensure that the team is fulfilling the requirements and goals of the project.<br>
 The project owner will continually review the project's requirements, scope, and objectives to see if any new information needs to be included in the staffing management plan. It is important to review the project’s scope since it will determine if other items will be included in the staffing management plan such as government regulations. Government regulations may be a consideration since the project is for a barangay. These regulations primarily involve data privacy and security and the requirements and specifications for a government owned web-application.
 
+=12. Quality Management Plan =
+==12.1 Introduction ==
+This Quality Management plan considers specific requirements and standards for the Barangay South Signal Village Web App project, covering various aspects of quality such as functionality, performance, security, usability, compatibility, and compliance. The plan promotes a collaborative and iterative approach inspired by Agile methodologies like Scrum. By incorporating continuous feedback and improvement cycles, the team proactively addresses issues, mitigates risks, and maintains desired quality levels throughout the project.
+<br>
+Involving stakeholders in defining quality standards is crucial as it shapes the final product. Aligning quality objectives with stakeholder needs creates a web application that exceeds user expectations, increasing satisfaction and adoption.
+<br>
+The Quality Management Plan consists of five components: Quality Management Approach, Quality Requirements / Standards, Quality Assurance, Quality Control, and Quality Control measurements. By following the principles outlined in the plan, the project team aims to deliver a strong, secure, and user-friendly web application that meets high-quality standards. Monitoring and measuring the effectiveness of quality management processes throughout the project life cycle allows necessary adjustments for success.
+
+==12.2 Quality Management Approach ==
+Quality management is an ongoing process, and it's important to regularly review and improve the approach based on feedback and changing requirements. Here are the several key principles and approaches that the team followed to ensure a high level of quality. 
+  # Requirement Analysis: The team must begin defining and documenting the web application requirements. This will include the functional and non-functional requirements. The team needs to ensure that the requirements are testable, measurable, and aligned to the user expectations.  
+  # Test Planning: Develop a test plan that outlines the testing strategy, scope, and test objectives. Determine the testing tools and techniques that will be used in the project.  
+  # Test Execution: Execute the test cases according to the test plan that the team made. Record and track all the test results, and issues encountered during the testing.  
+  # Performance Testing: Conduct performance testing to evaluate the performance of the web application to know its responsiveness, scalability, and stability under expected and peak loads to optimize the application. 
+  # Security Testing: The team needs to perform security testing to identify vulnerabilities and ensure the web application is protected and secured against potential threats. Review all the code to identify security vulnerabilities and implement best security practices.
+  # Usability Testing: The team needs to evaluate the usability and user experience of the web application by doing a real user in the testing process. Gather all the feedback from the clients and insights to identify areas for improvement in terms of user interface, navigation, and overall user satisfaction.  
+  # Compatibility Testing: The web application needs to function correctly across different browsers, devices, and operating systems. The team needs to test the application on different combinations of browsers and versions to ensure a consistent performance and user experience.  
+  # Continuous Monitoring: Always monitor the performance, availability, and usage of the web application in production. Resolve all issues proactively, ensure a optimal performance, and user satisfaction. 
+==12.3 Quality Requirements/Standards ==
+==12.4 Quality Assurance ==
+==12.5 Quality Control ==
+==12.6 Quality Control Measurements ==
+
 </tbody>
 </table>
