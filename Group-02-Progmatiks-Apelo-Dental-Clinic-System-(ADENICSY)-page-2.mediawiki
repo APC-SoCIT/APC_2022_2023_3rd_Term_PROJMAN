@@ -222,10 +222,13 @@ This section of the Communications Management Plan outlines the specific communi
 
 ==Roles== 
 <table>
+ <thead>
   <tr> 
     <th>Role</th>
     <th>Responsibilities</th>
   </tr>  
+ </thead>
+ <tbody>
   <tr>
     <td>Project Sponsor</td>
     <td>Project Manager</td>
@@ -238,6 +241,7 @@ This section of the Communications Management Plan outlines the specific communi
     <td>The individual in charge of supervising the Apelo Dental Clinic System and ensuring that it corresponds with the organization's broader goals and objectives. The program manager is responsible for monitoring several interrelated projects within the organization.</td>
     <td>Individuals or groups who have a vested interest in the Apelo Dental Clinic System, such as dentists, clinic employees, and patients who rely on the system for their daily operations.</td>
   </tr>
+ </tbody>
 </table>
 
 ==Project Team Directory== 
