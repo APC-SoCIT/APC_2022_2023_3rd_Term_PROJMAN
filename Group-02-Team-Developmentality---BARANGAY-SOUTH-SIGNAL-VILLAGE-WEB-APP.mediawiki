@@ -1917,13 +1917,39 @@ Quality assurance metrics will be monitored closely, tracked, and reported on a 
 
 ==12.5 Quality Control ==
 The quality control process is an integral part of the development and maintenance of the Barangay South Signal Village Web App. It ensures that all aspects of the application meet the defined quality standards and requirements. The following quality control measures will be implemented:
-#Defining Quality Standards: In cooperation with stakeholders, we will describe and document the quality standards for the project within the Quality Management Plan. The plan is communicated to all stakeholders.
-#Continuous Improvement: The project team will leverage feedback from quality audits and quality metrics to enhance the product and quality process. Collaboration with stakeholders will be necessary to pinpoint improvement opportunities and to implement required changes.
-#Compliance with Industry Standards: The project team will ensure that the Barangay Web Application conforms to applicable industry standards, including data privacy regulations, accessibility standards, and security standards. 
+#Code Review: Regular code reviews will be conducted by the development team to identify and rectify any issues or bugs in the source code. This process will help maintain code consistency, readability, and adherence to coding standards. Code reviews will be performed using a collaborative version control system, enabling multiple developers to review and provide feedback on each other's code.
 
-Quality assurance metrics will be monitored closely, tracked, and reported on a regular basis to guarantee that the project yields a high-quality outcome. Violations of these standards will prompt immediate review and revision. Regular reports from the application software will be utilized to gather data on these parameters. The goal is to ensure that the South Signal Village Barangay Web App adheres to the highest quality standards.
+#Unit Testing:  Unit testing will be employed to validate the functionality and correctness of individual components or units of code. The development team will write unit tests to cover critical functions and features of the web app. These tests will be executed frequently to detect and fix defects early in the development cycle. Test results will be logged, and any failures or errors will be addressed promptly.
+
+#Integration Testing: Integration testing will be performed to verify the proper functioning of various components when integrated together. This testing phase ensures that the interactions between different modules, APIs, and databases function correctly and produce the expected outcomes. Test scenarios will be designed to cover both normal and exceptional use cases to ensure comprehensive test coverage.
+
+#User Acceptance Testing (UAT):  User Acceptance Testing will involve the participation of end-users or representatives from the Barangay South Signal Village community. Test scenarios will be designed to simulate real-world usage scenarios, allowing users to provide feedback on the web app's usability, functionality, and user experience. Any issues or feedback raised during UAT will be recorded and prioritized for resolution.
+
+#Security Testing:  Comprehensive security testing measures will be implemented to identify and mitigate potential vulnerabilities in the web app. This includes testing for common security threats such as SQL injection, cross-site scripting (XSS), and session management vulnerabilities. Regular security audits and penetration testing will be conducted to maintain a secure environment for the users and protect their sensitive information.
+
+#Continuous Monitoring and Maintenance:  Once the web app is deployed, continuous monitoring and maintenance activities will be performed to ensure its ongoing performance, security, and reliability. This includes monitoring server logs, analyzing error reports, and promptly addressing any critical issues or incidents. Regular maintenance activities, such as applying updates and patches, will be conducted to keep the web app up to date and secure.
+
+By implementing these quality control measures, the Barangay South Signal Village Web App will adhere to high-quality standards, provide a reliable user experience, and meet the needs of the community it serves.
 
 ==12.6 Quality Control Measurements ==
-
+The Agile and Scrum Methodologies will be employed to promote continuous inspection and modification throughout the project lifecycle for the Barangay South Signal Village Web App. This project will adopt a transparent and collaborative approach to quality control.
+<br><br>
+To guarantee that the web app fulfills the defined standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table. The following details will be included in the platform:
+<br><br>
+*Measurement date
+*Measurement type (e.g., automated testing, code review, peer review, user story acceptance)
+*Findings of the measurement (such as passed/failed, the number of flaws discovered, and the percentage of code coverage)
+*Requirements and standards for comparison
+*Member of the team in charge of measuring
+*Team member responsible for assessing the measurement results
+*Actions taken for any required corrective measures
+*Date when the remedial measures were completed
+*Team member responsible for implementing corrective measures
+<br> <br>
+Dashboards and other visual tools will be utilized to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. The dashboards will draw attention to patterns and problem areas, enabling the team to act promptly and make the necessary adjustments.
+<br> <br>
+The quality control metrics will be reviewed, and the methodology will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the team will identify potential areas for improvement and implement any necessary changes based on the findings.
+<br> <br>
+In conclusion, the Barangay South Signal Village Web App project will utilize Scrum methodologies to implement a collaborative and dynamic quality control strategy. To ensure the web app satisfies the defined standards and requirements, the team will regularly assess its quality and make the necessary improvements. All quality control measurements will be collected and tracked on a common platform, allowing for real-time monitoring. The team will collaborate to address any issues and implement necessary improvements based on the findings.
 </tbody>
 </table>
