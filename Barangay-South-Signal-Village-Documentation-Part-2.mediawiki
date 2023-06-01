@@ -166,7 +166,8 @@ Overall, the project team will implement an agile risk management methodology th
 ==13.7 Risk Mitigation And Avoidance==
 When developing a web application, it is important to identify and mitigate potential risks to ensure the security, reliability, and performance of the application. Incorporating these risk mitigation and avoidance strategies into the web application development process, you can help minimize vulnerabilities, ensure a secure and reliable application, and mitigate potential risks throughout the lifecycle of the application. 
 <br>
-#Security Risks: 
+1.Security Risks: 
+<br>
 *The development team needs to implement secure coding practices to prevent common security risks and vulnerabilities.  
 *Team needs to regularly update and patch the software components, frameworks, and libraries to address security vulnerabilities.  
 *Use secure authentication and authorization mechanisms to protect the user accounts and sensitive data and information.  
