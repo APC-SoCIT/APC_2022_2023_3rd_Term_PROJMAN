@@ -185,6 +185,17 @@ Specifically, said application should:
 *Automate the manual process of documentation, and 
 *Provide analytical insights to interpret data reports and patterns for assisted and effective decision-making 
 
+===4.4.3 Project Performance===
+SurveiRams will be considered a success if the following features are achieved: 
+
+*A repository shows that the user can access to create, read, and update incident reports and logs. 
+*An analytics dashboard is shown where an administrator can see the available insight for the accumulated reports.The said dashboard could present the following information:  
+**Number of resolved and unresolved incident reports.  
+**Which department and floor has the most incidents that occurred 
+**Type of incident that occurred the most 
+**Number of incidents that occurred on each level 
+**Number of incidents addressed to each office 
+
 <h2>Strategic Alignment</h2>
 <p>SurveiRams has the same goal as Building Maintenance Office (BMO), and Information Technology Resource Office (ITRO) in enhancing and refining the manual verification system into a mobile application that serves as a patrolling assistant focusing on its reporting system aspect to develop a more digitalized, efficient, and sustainable method of keeping up with the security personnel’s daily operations. That also improves employees' productivity by creating a more effective and efficient environment. Overall, this strategic alliance resulted in a sustainable, innovative solution to revolutionize security personnel's operations while improving business productivity simultaneously.</p>
 
