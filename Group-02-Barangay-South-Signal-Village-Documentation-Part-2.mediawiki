@@ -539,5 +539,44 @@ Transitioning a workforce during a web application deployment or migration requi
 
 7.	Project Close Out Meeting: The development team needs to define the objectives of the close out meeting, including reviewing the project accomplishments, documenting lessons learned, and lastly, celebrating the project's success. 
 <br><br>
+==16.6 Property Transition==
+<b>INTELLECTUAL PROPERTY (KINS)</b>
+
+In the case of the Barangay South Signal Village Web App, the client has no prior system before the project has been done. All processes were conducted manually through a physical workforce and the storage are physical file cabinets. The system of the barangay before the project is all paper based so there will be no issues regarding the transition of all the intellectual properties. In terms of the election of the new barangay chairperson, all the legalities that are needed during the transition will be handled by the client.
+
+<b>USER ACCOUNTS AND PASSWORDS</b>
+
+For the South Signal Village Barangay Web App, the objective of this implementation plan is to outline the stages and procedures for implementing user accounts and passwords. The security and privacy of user data on the web app is greatly improved with user accounts and passwords. We hope to develop a reliable and intuitive authentication system by adhering to the guidelines and best practices described in this plan.
+ 
+Objectives
+The objectives of implementing user accounts and passwords are as follows:
+a)	Provide residents with a secure and personalized experience on the web app.
+b)	Protect sensitive user information by ensuring proper authentication and authorization.
+c)	Enable residents to access personalized services and features based on their roles.
+d)	Facilitate communication and interaction between residents and barangay officials.
+ 
+User Account Creation
+To create a user account, the following steps will be taken:
+a)	Registration: Users will be required to provide necessary information such as their full name, contact details, and government-issued identification.
+b)	Identity Verification: The system will verify the user's identity using the government-issued identification documents provided.
+c)	Account Creation: Upon successful verification, a unique user account will be created with a username and password.
+d)	Account Activation: An activation link will be sent to the user's registered email address for account activation.
+ 
+Password Management
+To ensure strong password security and management, the following measures will be implemented:
+a)	Password Complexity: When creating a password, users will be asked to use a combination of uppercase and lowercase letters, numbers, special characters with at least one character.
+b)	Password Encryption: User passwords will be stored in an encrypted format using industry-standard encryption algorithms to prevent unauthorized access.
+c)	Password Reset: A password reset mechanism will be provided, allowing users to reset their passwords through a secure email verification process.
+ 
+User Communication and Support
+To enhance user experience and provide necessary support, the following measures will be implemented:
+a)	User Notifications: Users will receive notifications for important announcements, updates, and account-related activities via email or in-app notifications.
+b)	Help and Support: A dedicated support system, such as a helpdesk or a frequently asked questions (FAQ) section, will be available to assist users with any issues or queries related to their accounts.
+ 
+Compliance and Data Protection
+To comply with data protection regulations and ensure user privacy, the following measures will be implemented:
+a)	Data Encryption: User data, including personal information, will be encrypted during transmission and storage to prevent unauthorized access.
+b)	Data Retention: User data will be retained for the necessary duration as per legal and regulatory requirements.
+c)	User Consent: Users will be required to provide explicit consent for the collection, processing, and storage of their personal information.
 
 
