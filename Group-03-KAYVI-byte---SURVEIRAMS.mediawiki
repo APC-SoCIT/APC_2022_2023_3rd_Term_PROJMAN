@@ -386,84 +386,43 @@ The following deliverables must be met upon the successful completion of the Sur
 **Implementation Plan 
 *Recommendation list for future security considerations and enhancements 
 
- 
 
-<h2>Summary Milestone Schedule</h2>
-<p>The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.</p>
+==5.6 Summary Milestone Schedule==
+The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
 
-<table border="1" width="70%" align="center">
-<tr>
-<td width="394" bgcolor="lightblue">
-<p><strong>Project Milestones</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>Target Date</strong></p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Initiation</p>
-</td>
-<td width="190">
-<p>03/31/2023</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Plan Review and Completion</p>
-</td>
-<td width="190">
-<p>04/14/2023</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Kickoff</p>
-</td>
-<td width="190">
-<p>05/14/2023</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Phase I  Complete – Analysis</p>
-</td>
-<td width="190">
-<p>06/15/2023</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Phase II  Complete – Design</p>
-</td>
-<td width="190">
-<p>07/30/2023</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Phase III Complete – Testing</p>
-</td>
-<td width="190">
-<p>09/15/2023</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Phase IV Complete – Implementation</p>
-</td>
-<td width="190">
-<p>10/27/2023</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Closeout/Project Completion</p>
-</td>
-<td width="190">
-<p>11/10/2023</p>
-</td>
-</tr>
+<table class="wikitable">
+  <tr>
+    <th>Project Milestones</th>
+    <th>Target Date</th>
+  </tr>
+  <tr>
+    <td>Project Initiation</td>
+    <td>03/31/2023</td>
+  </tr>
+  <tr>
+    <td>Project Plan Review and Completion</td>
+    <td>05/02/2023</td>
+  </tr>
+  <tr>
+    <td>Phase I Complete – Analysis</td>
+    <td>06/21/2023</td>
+  </tr>
+  <tr>
+    <td>Phase II Complete – Design</td>
+    <td>07/06/2023</td>
+  </tr>
+  <tr>
+    <td>Phase III Complete – Testing</td>
+    <td>12/13/2023</td>
+  </tr>
+  <tr>
+    <td>Phase IV Complete – Implementation</td>
+    <td>02/15/2024</td>
+  </tr>
+  <tr>
+    <td>Closeout/Project Completion</td>
+    <td>04/19/2024</td>
+  </tr>
 </table>
 
 <h2>Summary Budget</h2>
