@@ -74,29 +74,35 @@
 <br />
 
 =3. COMPANY PROFILE=
-<p><strong>Brief Background:</strong></p>
-<p>Asia Pacific College's security 
+
+Brief Background:
+Asia Pacific College's security 
 personnel and other departments conduct their processes manually, and the former records all reports and other activities in a logbook. The team provides a solution by developing a mobile application, SurveiRams, that will automate the manual documentation process to alleviate the problems caused by the manual management of security personnel, BMO, and ITRO departments. By digitizing the manual operations of security personnel and concerned departments using the SurveiRams application in Asia Pacific College, they can efficiently address any concerns or incident reports that have occurred within the school, and departments such as BMO and ITRO can effectively track, manage, and respond to incidents.</p>
 
 =4. BUSINESS CASE=
+
 ==4.1 Executive Summary==
-<p>The SurveiRams system is a digital solution aimed at enhancing the security personnel's daily operations at APC. The existing manual verification system used by security personnel is inefficient, time-consuming, and compromises productivity and efficiency. To address this issue, the project team aims to develop a mobile application that focuses on the reporting system aspect, which provides real-time feedback data to the management team. The SurveiRams system will serve as a ticketing system for recording incident reports and logs, insights into guards' routes, and a tactical transition to a digital approach to stakeholder's present difficulties. By implementing the SurveiRams system, the project team aims to increase accuracy and efficiency in determining whether security personnel have completed their assigned tasks. </p>
 
-===<h2>4.1.1 Issue</h2>===
-<p>Manually monitoring maintenance in a tall school building can be time-consuming, error-prone, and overwhelming for guards who have other duties. To address this issue, implementing a digital system for monitoring maintenance issues could significantly reduce the time and effort required to monitor maintenance, improve accuracy and consistency, and ensure timely issue resolution. Overall, implementing a digital system can improve efficiency, accuracy, safety, and reduce the workload of guards.</p>
+The SurveiRams system is a digital solution aimed at enhancing the security personnel's daily operations at APC. The existing manual verification system used by security personnel is inefficient, time-consuming, and compromises productivity and efficiency. To address this issue, the project team aims to develop a mobile application that focuses on the reporting system aspect, which provides real-time feedback data to the management team. The SurveiRams system will serve as a ticketing system for recording incident reports and logs, insights into guards' routes, and a tactical transition to a digital approach to stakeholder's present difficulties. By implementing the SurveiRams system, the project team aims to increase accuracy and efficiency in determining whether security personnel have completed their assigned tasks. 
 
-===<h2>4.1.2 Anticipated Outcomes</h2>===
+===4.1.1 Issue===
 
-<p>Implementing a digital system for tracking and addressing maintenance issues in a building has several benefits. By streamlining the process of identifying and resolving issues, it reduces the time and effort required for maintenance tasks. The centralized system provides quick access to information on issues that need attention and tracks progress in resolving them. The result is a more efficient environment for employees tasked with maintenance, allowing them to focus on other important tasks, such as preventative maintenance and improving safety standards. Overall, this creates a safer and more comfortable environment for everyone in the building and benefits the institution and its employees. </p>
+Manually monitoring maintenance in a tall school building can be time-consuming, error-prone, and overwhelming for guards who have other duties. To address this issue, implementing a digital system for monitoring maintenance issues could significantly reduce the time and effort required to monitor maintenance, improve accuracy and consistency, and ensure timely issue resolution. Overall, implementing a digital system can improve efficiency, accuracy, safety, and reduce the workload of guards.
 
-===<h2>4.1.3 Recommendation</h2>===
-<p>Providing training for employees responsible for building maintenance can enhance their ability to efficiently identify, prioritize, and provide solutions for issues in each room. Through training, employees can learn how to effectively use tracking systems, troubleshoot complex issues, and develop problem-solving skills. Additionally, regular reviews of the maintenance program can help identify areas that need improvement and ensure that issues are promptly addressed, resulting in a safer and more comfortable environment for occupants.
-</p>
+===4.1.2 Anticipated Outcomes===
 
-===<h2>4.1.4 Justification</h2>===
-<p>Implementing a system to track issues in a building can bring many benefits, including reducing manual effort and maximizing technology usage. Such a system can automatically identify and track issues in each room, freeing personnel to focus on other tasks. The use of sensors or monitoring devices can help detect issues that might be missed by manual inspections, leading to greater accuracy and consistency. In addition, real-time updates can make it easier to track progress and ensure that issues are addressed promptly. Overall, implementing a system for tracking issues can increase efficiency, accuracy, and technology utilization while saving time and effort.</p>
+Implementing a digital system for tracking and addressing maintenance issues in a building has several benefits. By streamlining the process of identifying and resolving issues, it reduces the time and effort required for maintenance tasks. The centralized system provides quick access to information on issues that need attention and tracks progress in resolving them. The result is a more efficient environment for employees tasked with maintenance, allowing them to focus on other important tasks, such as preventative maintenance and improving safety standards. Overall, this creates a safer and more comfortable environment for everyone in the building and benefits the institution and its employees. 
 
-==<h2>4.2 Business Case Analysis Team</h2>==
+===4.1.3 Recommendation===
+
+Providing training for employees responsible for building maintenance can enhance their ability to efficiently identify, prioritize, and provide solutions for issues in each room. Through training, employees can learn how to effectively use tracking systems, troubleshoot complex issues, and develop problem-solving skills. Additionally, regular reviews of the maintenance program can help identify areas that need improvement and ensure that issues are promptly addressed, resulting in a safer and more comfortable environment for occupants.
+
+
+===4.1.4 Justification===
+
+Implementing a system to track issues in a building can bring many benefits, including reducing manual effort and maximizing technology usage. Such a system can automatically identify and track issues in each room, freeing personnel to focus on other tasks. The use of sensors or monitoring devices can help detect issues that might be missed by manual inspections, leading to greater accuracy and consistency. In addition, real-time updates can make it easier to track progress and ensure that issues are addressed promptly. Overall, implementing a system for tracking issues can increase efficiency, accuracy, and technology utilization while saving time and effort.
+
+==4.2 Business Case Analysis Team==
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">Role</p></td>
@@ -154,75 +160,30 @@ personnel and other departments conduct their processes manually, and the former
 <br />
 
 
-===<h2>4.3.1 Problem Statement</h2>===
-<p>The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner. </p>
+===4.3.1 Problem Statement===
 
-===<h2>4.3.2 Organizational Impact</h2>===
-<p>SurveiRams facilitate the digitization of work processes by reducing the use of paper among employees. Security personnel quickly report incidents they encounter, which allows for a faster response time and enhances overall safety measures within the organization.</p>
+The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner. 
 
-===<h2>4.3.3 Technology Migration</h2>===
-<p>In order to address the issues brought on by the manual administration of security personnel, BMO, and ITRO, the team developed a mobile application called SurveiRams that automates the manual documentation procedure. The migration from manual administration to SurveiRams will improve the overall efficiency and accuracy of the security personnel reporting process. As the data will be securely stored and easily accessible to the cloud, it will enable faster decision-making and reduce the risk of errors or discrepancies in reporting. 
-</p>
+===4.3.2 Organizational Impact===
 
-==<h2>4.4 Project Overview</h2>==
-===<h2>4.4.1 Project Description</h2>===
-<p>This project will be concerned with the creation of a mobile application for the security personnel and several offices of APC, wherein they can log and view incident reports. This is to digitize the security personnel’s recording process, as well as boost their productivity. There will be different accessible features available depending on the user, which is based on what office or department they are from.</p>
+SurveiRams facilitate the digitization of work processes by reducing the use of paper among employees. Security personnel quickly report incidents they encounter, which allows for a faster response time and enhances overall safety measures within the organization.
 
-<h2>Goals and Objectives</h2>
+===4.3.3 Technology Migration===
 
-<p></p>
+In order to address the issues brought on by the manual administration of security personnel, BMO, and ITRO, the team developed a mobile application called SurveiRams that automates the manual documentation procedure. The migration from manual administration to SurveiRams will improve the overall efficiency and accuracy of the security personnel reporting process. As the data will be securely stored and easily accessible to the cloud, it will enable faster decision-making and reduce the risk of errors or discrepancies in reporting. 
 
-<h2>Major Project Milestones</h2>
-<table border="1" width="70%" align="center">
-<tr>
-<td width="394" bgcolor="lightblue">
-<p><strong>Milestone</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>Timeline</strong></p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Charter</p>
-</td>
-<td width="190">
-<p>1<sup>st </sup>month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Approval</p>
-</td>
-<td width="190">
-<p>2<sup>nd </sup>month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Developing the Website</p>
-</td>
-<td width="190">
-<p>3<sup>rd </sup>to 8<sup>th</sup> month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Complete Test Plan</p>
-</td>
-<td width="190">
-<p>9<sup>th</sup> month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Finalizing the Document</p>
-</td>
-<td width="190">
-<p>10<sup>th</sup> month</p>
-</td>
-</tr>
-</table>
+
+==4.4 Project Overview==
+===4.4.1 Project Description===
+This project will be concerned with the creation of a mobile application for the security personnel and several offices of APC, wherein they can log and view incident reports. This is to digitize the security personnel’s recording process, as well as boost their productivity. There will be different accessible features available depending on the user, which is based on what office or department they are from.
+
+===4.4.2 Goals and Objectives===
+The main goal of this project is to create SurveiRams, a ticketing mobile application for APC’s security personnel, ITRO, and BMO.
+
+Specifically, said application should: 
+*Develop a centralized location where the guards can log their patrols, 
+*Automate the manual process of documentation, and 
+*Provide analytical insights to interpret data reports and patterns for assisted and effective decision-making 
 
 <h2>Strategic Alignment</h2>
 <p>SurveiRams has the same goal as Building Maintenance Office (BMO), and Information Technology Resource Office (ITRO) in enhancing and refining the manual verification system into a mobile application that serves as a patrolling assistant focusing on its reporting system aspect to develop a more digitalized, efficient, and sustainable method of keeping up with the security personnel’s daily operations. That also improves employees' productivity by creating a more effective and efficient environment. Overall, this strategic alliance resulted in a sustainable, innovative solution to revolutionize security personnel's operations while improving business productivity simultaneously.</p>
