@@ -179,24 +179,24 @@ When developing a web application, it is important to identify and mitigate pote
 *Team needs to conduct performance testing to identify potential bottlenecks and optimize the application’s performance.  
 *Optimize the database queries and ensure efficient data retrieval and manipulation. 
 *Monitor and analyze the web application performance in production to identify and address different performance issues. 
- <br> <br>
+<br> <br>
 #Compliance Risks:  
 
 *Understand and comply with relevant legal and industry-specific regulations.  
 *The development team needs to implement necessary security measures and data protection practices to meet compliance requirements.  
 *The team needs to regularly review, and update compliance practices based on changes in regulations.  
- <br> <br>
+<br> <br>
 #Scalability Risks: 
 
 *The team needs to think and design the application with scalability, they need to consider several factors like load balancing, and database scalability.  
 *They need to regularly monitor application performance and scalability to identify and address scalability issues.  
- <br> <br>
+<br> <br>
 #Data loss and Data Breach Risks:  
 
 *Implement a regular data backup and disaster recovery plan to prevent any data loss along the way.  
 *Encrypt all sensitive data. 
 *Implement access controls and user permissions to restrict unauthorized access to sensitive data.  
- <br> <br>
+<br> <br>
 #Third-Party Risks: 
 
 *The team needs to stay updated with security patches and updates provided by third-party vendors.  
@@ -276,50 +276,50 @@ The specific communication needs of stakeholders are described in this section o
 #Conflict Resolution - Creating methods to handle and facilitate disagreements or conflicts among parties.
 ==14.5 Roles==
 #Project Manager 
-  <br><br>
+<br><br>
 The Project Manager is responsible for managing the project's scope and ensuring that it remains within the defined boundaries. This includes identifying and managing any changes to the scope, communicating scope changes to the team and stakeholders, and ensuring that the project's deliverables align with the scope. The Project Manager is also responsible for ensuring that the project is completed on time and meets the specified quality standards. 
-  <br><br>
+<br><br>
 #Product Owner 
-  <br><br>
+<br><br>
 The Product Owner is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the Project Sponsor. They work closely with the Project Manager and Scrum Team to ensure that the project deliverables align with the scope. 
-  <br><br>
+<br><br>
 #Scrum Master 
-  <br><br>
+<br><br>
 The Scrum Master is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework. They work closely with the Project Manager and Product Owner to ensure that the project is progressing according to the defined scope. The Scrum Master is also responsible for identifying and managing any scope-related risks or issues. 
   <br><br>
 #Scrum Team 
-  <br><br>
+<br><br>
 The Scrum Team is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project. This includes understanding and adhering to the project's scope, identifying any scope-related risks or issues, and communicating these to the Project Manager and Scrum Master. 
-  <br><br>
+<br><br>
 #Documentation Manager 
-  <br><br>
+<br><br>
 The Documentation Manager is responsible for managing the project documentation and ensuring it is complete and accurate. They work closely with the Project Manager and team to ensure that all project documentation aligns with the scope. 
-  <br><br>
+<br><br>
 #Project Sponsor 
- <br><br>
+<br><br>
 The Project Sponsor is responsible for providing input on the project's scope, including requirements and expectations. Also, responsible for accepting the project deliverables defined by the project's scope. It is important for the Project Manager to communicate regularly with Project Sponsor to ensure that the project remains aligned with their needs and expectations. 
 ==14.6 Project Team Directory==
 The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
 ==14.7 Communication Method And Technologies==
 The Barangay South Signal Village Web App project requires a thorough understanding of the various communication methods and technologies that will be used to effectively communicate with all stakeholders. It is crucial to consider the capabilities and limitations of each communication method and technology to ensure timely and efficient information dissemination. This includes selecting appropriate methods for delivering project updates, progress reports, risks, issues, and other relevant information to stakeholders.
- <br><br>
+<br><br>
 Additionally, it is important to consider the cost, feasibility, security, and privacy concerns associated with different communication technologies. By carefully selecting the most appropriate communication methods and technologies, the project team can ensure that all stakeholders are kept informed, and the project's communication objectives are met.
-  <br><br>
+<br><br>
 When determining the best communication methods and technologies for the Barangay South Signal Village Web App project, the following factors should be considered:
-  <br><br>
+<br><br>
 #Size and Complexity of the Project: For large and complex projects, web portals and project management software may be the most suitable option as they allow for the centralization of information and easy access for all stakeholders.
 #Location of Stakeholders: For stakeholders located in different geographical areas, real-time communication methods such as video conferencing and telephone calls may be the best option to facilitate effective communication.
 #Technical Expertise of Stakeholders: Consider the level of technical proficiency among stakeholders. For stakeholders who are not technically proficient, simple communication methods such as email and telephone calls may be the most effective.
 #Type of Information: For sensitive or confidential information, secure methods such as encryption and password-protected portals should be employed to ensure the privacy and security of the information being communicated.
 #Budget and Resources: The chosen communication methods and technologies should align with the project's budget and available resources.
- <br><br> 
+<br><br> 
 Based on these factors, it is recommended that the Barangay South Signal Village Web App project utilizes a combination of communication methods and technologies, including:
-  <br><br>
+<br><br>
 #Project Management Software: Utilize project management software to centralize information, collaborate with stakeholders, track progress, and share updates and documents.
 #Email: Use email for regular communication, sharing important announcements, and exchanging non-urgent information.
 #Telephone: Employ telephone calls for direct and immediate communication, particularly for stakeholders located within the same geographical area.
 #Video Conferencing: Conduct video conferences to facilitate real-time discussions, remote meetings, and presentations with stakeholders located in different geographical areas.
-  <br><br>
+<br><br>
 By leveraging these communication methods and technologies, the project team can ensure effective and efficient communication with all stakeholders, promoting transparency, collaboration, and timely information exchange throughout the Barangay South Signal Village Web App project.
 ==14.8 Communication Matrix==
 The following table identifies the communications requirements for this project.
