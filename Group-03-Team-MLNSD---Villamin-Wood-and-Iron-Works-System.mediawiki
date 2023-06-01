@@ -879,12 +879,6 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 ==Staffing Management==
 <p>Staffing Management is a crucial part of ensuring the success of the project. It shows the plans and process of the project, managing the acquired information, and it also shows the responsibilities and task of the human resources. </p>
-<ul><ul>- Acquisition must be completed as soon as possible to obtain the skills and knowledge required for the project. This will involve using new employees, outside contractors, and even internal staff as needed to complete the project. </ul></ul>
-<ul><ul>- Prior to anything else, training will be used to reduce errors in the project working environment and to further hone skills for better application in the creation and execution of deliverables appropriately. </ul></ul>
-<ul><ul>- Regular performance evaluations will be done to evaluate the performance of team members and pinpoint potential improvement areas. These evaluations also comment on the team members' performance in achieving the project's goals objectives and expectations. </ul></ul>
-<ul><ul>- A recognition and incentive program will be put in place to reward and encourage exceptional performance. This could apply to rewards, promotions, and other advantages. </ul></ul>
-
-<p> Regular reviews and updates to the Staffing Management Plan will be made as necessary to Ensure that it continues to be in line with the project's requirements and objectives. It is crucial that the project manager perform a thorough analysis of the project's particular requirements and laws to ascertain whether any extra items need to be added to the management of staffing. </p>
 
 ==Staff Acquisition==
 ==Resource Calendars==
@@ -1034,68 +1028,43 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 =Risk Management Plan=
 ==Introduction==
-	<p>In this project, the risk management plan aims to breakdown and identify the potential risks that might be there for the project. That is why the risk management plan is being developed as a way to response to those potential risks and also manage those risks by ensuring that the project team can mitigate it as we achieve the project’s objectives. </p>
-
-<p> The risk management plan includes an overview of the risk management process, showing the roles and responsibilities of the project team and the risk assessment approach. It is key to be able to identify all the potential risks and as a team be able to develop resolutions for it. </p>
-
-
 ==Top Three Risks==
-<p> The project’s top three risks are:</p>
-
-<p> 1.	Technical risks which may occur due to delays in development of the project or technical issues. This may result in issues with the budget and delay in the project timeline as well. </p>
-<p> 2.	Resource risks which may occur when there are insufficient resources which may be needed for further development. </p>
-<p> 3.	Security Risks which may occur when there is a data breach or any other form of hacking of the system. </p>
-
-
 ==Risk Management Approach==
-<p> The risk management approach focuses on quickly identifying the potential risks and composing mitigation plans that are capable of handling and resolving the risks that may occur. All stakeholders will be included in this risk management process as it requires a cooperative approach and contribution from everyone involved. </p>
 ==Risk Identification==
-<p>The risks identified in the risk assessment were updated and regularly monitored to ensure that they are being managed effectively.
-Some of the potential risks identified in the risk assessment are listed below:</p>
-<p>	1. Technical Risks – There is a risk that the project may be delayed due to technical reasons. </p>
-<p>	2. Resource Risks – There is a risk that the project may not have access to enough resources causing a stop of work or adjustments in budget or other delays. </p>
-<p>	3. Security Risks – There is a risk of being hacked and having a breach in the system. </p>
-<p>	4. Changes in Technology – There is a risk that a change in the industry of technology occurs which may require additional work or resources to adapt. </p>
-<p>        5. Human Error – There is risk that a person may commit a mistake or error that could negatively affect the project. </p>
-<p>	6. Unforeseen Circumstances – There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way. </p>
-
-<p> To mitigate these risks, the team has developed a plan which will mitigate all risks and monitor them all in the process as to protect the project avoid all risks. </p>
-
-
-
-==Risk Monitoring ==
-
-	<p> Risks will always be present especially during the project’s life cycle which is why it is important to continuously monitor those risks and document the entire process which includes identifying the conditions which may trigger certain risks.
-As for the plan, the project manager will incorporate and assign a risk manager to oversee the monitoring process which will help the team to determine if the risks require a higher level of attention in case the risks trigger. The risk manager will provide report updates during team meetings to keep everyone updated. </p>
-
-<p> Furthermore, it should be noted that not only the risk manager should pay attention to any risks around the project, but the entire project team should also remain aware of the identified risks and the potential they have to impact the project which is why everyone is encouraged to help and notify the project manager or risk manager in case new risks occur. </p>
-
-Risk Mitigation and Avoidance 
-
-	<p> The risk management plan will be created by the team based on the criteria created rating the risks based on their impact and importance. In preparation for those risks, the project team will work alongside with stakeholders to put mitigation techniques in place in order to mitigate the risks. </p>
-
-<p>In order to accomplish risk mitigation and avoidance the team should identify the potential risks and prioritize what to handle first based on the severity of its impact. Provided below are considerations or options available for the project manager to avoid and mitigate the risks: </p>
-	<p> 1. Resource Allocation: Guaranteeing that the project has all the required resources is crucial for the project to be successful and efficient which is why resource allocation is important to ensure that the resources are available to the team in order to finish the project. </p>
-<p>	2. Risk Assessment: The team needs to analyze potential risks effectively in order to anticipate it and immediately apply resolutions. </p>
-<p>	3. Contingency Planning: In order to be prepared for potential risks, the team needs to come up with multiple backup plans in case some may not work due to some reason in a given scenario. </p>
-<p>	4. Communication: It is important for the entire team to be able to communicate clearly and prevent misunderstandings as it has the potential to create risks. Having clear communication between the project team, clients, and stakeholders can help minimize this risks. </p>
-==Risk Register==
-![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/127073670/20119262-011b-4e0e-9025-b8b9362b7808)
-
 ==Risk Qualification and Prioritization==
 ==Risk Monitoring==
-	<p> Risks will always be present especially during the project’s life cycle which is why it is important to continuously monitor those risks and document the entire process which includes identifying the conditions which may trigger certain risks. </p>
-
-<p>As for the plan, the project manager will incorporate and assign a risk manager to oversee the monitoring process which will help the team to determine if the risks require a higher level of attention in case the risks trigger. The risk manager will provide report updates during team meetings to keep everyone updated. </p>
-
-<p>Furthermore, it should be noted that not only the risk manager should pay attention to any risks around the project, but the entire project team should also remain aware of the identified risks and the potential they have to impact the project which is why everyone is encouraged to help and notify the project manager or risk manager in case new risks occur. </p>
-
-
-
-
+==Risk Mitigation and Avoidance==
 
 =Communication Management Plan=
 ==Introductions==
 ==Communication Management Approach==
 ==Communication Management Constraints==
 ==Roles==
+
+==Implementation Plan==
+==Executive Summary==
+==Transition Approach==
+<p><b>Overall Approach</b></p>
+<p>The Villamin Wood and Iron Works System addressed the Transition Plan, in which there will be a phase or transition that should be followed for continuity and to reduce any operational challenges or interruptions that they encounter. This precise and systematic approach enables the transfer of knowledge, resources, and responsibility to the business company, thereby reducing all possible technical interruptions. The transition approach will include the following steps:</p>
+<p><b> 1. Communication Plan - </b> – the stakeholders will be able to familiarize themselves with the transition plan as a result, resulting in a better comprehension of project timelines and transition expectations.</p>
+<p><b> 2. Staffing - </b> – As the transition takes place, the project team will minimize their staff to the necessary level needed for supporting knowledge transfer and transition activities.</p>
+<p><b> 3. Transition Planning - </b> – A transition plan can be completed by interacting with the company, the team followed the timeline in which all requirements and process is required to be completed for the time of transition.</p>
+<p><b> 4. Knowledge Transfer - </b> – A variety of approaches, including documentation and hands-on demonstrations, will be used to facilitate knowledge transfer. These initiatives seek to provide Villamin Wood and Iron Works with the skills and knowledge they need to provide effective system support.
+</p>
+<p><b>Assumptions</b></p>
+<p>The following assumptions will be made for the transition approach:</p>
+<p> 1. If any difficulties arise during the deployment process, the team will maintain communication with the company. </p>
+<p> 2. To make it easier for the client to learn, the project team will provide them with all the necessary documentation, training, and instruction manuals. </p>
+<p> 3. Once the transition is finalized, the team will engage in a discussion with the client and continue to assist the owner, aiming to gain a deeper comprehension of any concerns related to the system.
+<p><b>6.11.3 Transition Team Organization</b></p>
+<p><b>Roles and Responsibilities</b></p>
+<p><b> 1. Project Manager - </b> The responsibility of the project manager leads this project to its completion. The project manager guarantees to meet all the requirements, setting a plan for the deadline of deliverables, and speaking with the client is effective to ensure progress. </p>
+<p><b> 2. Project Stakeholder - </b> responsible for allocating the required resources to guarantee the success of the project. Assuming responsibility for the relevant tasks and objectives. Staying updated on the project's advancements and sharing relevant information with the necessary individuals. Taking proactive steps to identify and fulfill training and development needs. </p>
+<p><b> 3. Project Sponsor - </b> the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule. </p>
+<p><b> 4. Project Developers - </b> the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule. </p>
+<p><b> 5. Project Team - </b> the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule. </p>
+<p><b>6.11.4 Workforce Transition </b></p>
+
+
+
+
