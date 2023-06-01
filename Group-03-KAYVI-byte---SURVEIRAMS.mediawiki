@@ -356,7 +356,7 @@ The following is a list of assumptions.  Upon agreement and signature of this do
 
 The SurveiRams project aims to create a more robust ticketing system for the entire organization. The project team will handle all aspects of the project, including administering personnel, hardware, and software resources, and all necessary testing will be conducted independently of daily operations. The Project Manager is responsible for securing project funding as outlined in this document. Additional funding must be approved by the project sponsor. The project will be considered complete once the SurveiRams system is tested and deployed throughout the organization, the final report is submitted within 30 days, and technical documentation is distributed to appropriate personnel.
 
-==5.4 Risks
+==5.4 Risks==
 The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:   
 
 *Potential disruption to internet service during testing phase and deployment 
@@ -365,21 +365,43 @@ The following risks for the SurveiRams project have been identified.  The projec
 
 *Project Cost 
 
- 
-<p>The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:</p>
-<ul>
-<li>Potential disruption to internet service during testing phase and deployment</li>
-<li>Project Timeline Changes</li>
-<li>Project Cost</li>
-</ul>
+==5.5 Project Deliverables==
 
-<h2>Project Deliverables</h2>
-<p>The following deliverables must be met upon the successful completion of the SurveiRams project.  Any changes to these deliverables must be approved by the project sponsor.</p>
-<ul>
-<li>Complete implementation of SurveiRams Ticketing System</li>
-<li>SurveiRams project’s technical documentation</li>
-<li>Recommendation list for future security considerations and enhancements</li>
-</ul>
+The following deliverables must be met upon the successful completion of the SurveiRams project.  Any changes to these deliverables must be approved by the project sponsor. 
+
+*Complete implementation of SurveiRams Ticketing System 
+
+*SurveiRams project’s technical documentation 
+
+Project Charter (Long) 
+
+Stakeholder Management Strategy 
+
+Scope Management Plan 
+
+Cost Management Plan 
+
+Schedule Management Plan 
+
+Work Breakdown Structure (WBS) 
+
+Communications Management Plan 
+
+Quality Management Plan 
+
+Risk Management Plan 
+
+Change Management Plan 
+
+Procurement Management Plan 
+
+Human Resource Plan 
+
+Implementation Plan 
+
+Recommendation list for future security considerations and enhancements 
+
+ 
 
 <h2>Summary Milestone Schedule</h2>
 <p>The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.</p>
