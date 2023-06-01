@@ -717,12 +717,13 @@ the project manager alongside the team and stakeholders. The project manager wil
 =Quality Management Plan=
 ==Introduction==
 <p>To ensure consistently high quality throughout the project, a quality management plan, and an agile methodology is needed to complete the requirements. The quality standards for evaluating the Villamin Wood and Iron Works project will be established by this plan. In addition, it offers a structure for resolving quality issues, illustrating the jobs and obligations of team members, and enumerating the standards and techniques connected with quality.
-These are the goals of the quality of the management plan:
-<ul><ul> 1. Ensure that the project meets or surpasses the expectations of stakeholders. </ul></ul>
-<ul><ul> 2. Determine the quality standards that will be used to evaluate the project. </ul></ul>
-<ul><ul> 3. Set up a system for managing and consistently maintaining the project's quality throughout its duration. </ul></ul>
-<ul><ul> 4. Identify and resolve any potential quality issues. </ul></ul>
-<ul><ul> 5. Make sure to define the roles and responsibilities of team members to attain quality standards. </ul></ul>
+
+<p>These are the goals of the quality of the management plan: <p>
+<ul> 1. Ensure that the project meets or surpasses the expectations of stakeholders. </ul>
+<ul> 2. Determine the quality standards that will be used to evaluate the project. </ul>
+<ul> 3. Set up a system for managing and consistently maintaining the project's quality throughout its duration. </ul>
+<ul> 4. Identify and resolve any potential quality issues. </ul>
+<ul> 5. Make sure to define the roles and responsibilities of team members to attain quality standards. </ul>
 
 <p>The system implemented by Villamin Wood and Iron Works will prioritize user-friendliness and accommodation for the two clients and the actual business. It will seamlessly integrate with the organization's current technology, ensuring adaptability. The Quality Management Plan will encompass both product and process quality standards. It will include a comprehensive strategy with specific procedures and reporting for the overall overview of quality. </p> 
 
@@ -738,37 +739,38 @@ These are the goals of the quality of the management plan:
 ==Quality Requirements / Standards==
 <p>These are the following steps that include: </p>
 
-<ul><ul> 1. <b> Define Quality Standards:</b> The project team will prioritize delivering value to the customer by establishing quality standards that are in line with the principles of Agile Methodology. </ul></ul>
-<ul><ul> 2. <b> Quality Planning:</b> To determine the project's requirements and prioritize the best features, the team will maintain regular collaboration and schedule a meeting with stakeholders. This procedure includes creating the Product Backlog and establishing quality objectives to guarantee that the project transition produces value and abides by quality standards. </ul></ul>
-<ul><ul> 3. <b> Quality Control: </b> Quality control incorporates the most common way of looking into and testing to distinguish any potential issues that emerge at various stages. This system is done throughout the run to ensure that the established requirements and project goals are fulfilled. </ul></ul>
-<ul><ul> 4. <b> Quality Assurance: </b> The team will employ efficient methods and procedures to ensure that the project adheres to established standards and guidelines. To actively prevent issues and defects from occurring, they will implement quality assurance measures. </ul></ul>
-<ul><ul> 5. <b>Continuous Improvement: </b> The team consistently monitors its performance throughout the project's development to identify areas for improvement and make necessary adjustments. In this process, feedback plays a crucial role in involving stakeholders and fostering team collaboration. The team can identify areas that need improvement and improve the project's overall quality by actively seeking feedback. </ul></ul>
-<ul><ul> 6. <b> Communication: </b> Effective communication between the development team and stakeholders holds significant importance in this process. It serves multiple purposes, including updating stakeholders on the current quality status of the product, demonstrating alignment between the system's processes and the product's goals, and providing stakeholders with an opportunity to provide valuable feedback. </ul></ul>
+<ul> 1. <b> Define Quality Standards:</b> The project team will prioritize delivering value to the customer by establishing quality standards that are in line with the principles of Agile Methodology. </ul>
+<ul> 2. <b> Quality Planning:</b> To determine the project's requirements and prioritize the best features, the team will maintain regular collaboration and schedule a meeting with stakeholders. This procedure includes creating the Product Backlog and establishing quality objectives to guarantee that the project transition produces value and abides by quality standards. </ul>
+<ul> 3. <b> Quality Control: </b> Quality control incorporates the most common way of looking into and testing to distinguish any potential issues that emerge at various stages. This system is done throughout the run to ensure that the established requirements and project goals are fulfilled. </ul>
+<ul> 4. <b> Quality Assurance: </b> The team will employ efficient methods and procedures to ensure that the project adheres to established standards and guidelines. To actively prevent issues and defects from occurring, they will implement quality assurance measures. </ul>
+<ul> 5. <b>Continuous Improvement: </b> The team consistently monitors its performance throughout the project's development to identify areas for improvement and make necessary adjustments. In this process, feedback plays a crucial role in involving stakeholders and fostering team collaboration. The team can identify areas that need improvement and improve the project's overall quality by actively seeking feedback. </ul>
+<ul> 6. <b> Communication: </b> Effective communication between the development team and stakeholders holds significant importance in this process. It serves multiple purposes, including updating stakeholders on the current quality status of the product, demonstrating alignment between the system's processes and the product's goals, and providing stakeholders with an opportunity to provide valuable feedback. </ul>
 
 <p> In conclusion, the Villamin Wood and Iron Works system project's quality management strategy will prioritize the delivery of a high-quality product that meets customer requirements by employing an Agile methodology. To go beyond meeting quality expectations, the approach will remain adaptable and continuously improved, and the team ensures that it is in line with the organization's quality standards and that it fulfills the requirements of the project stakeholders. </p>
 
 <p><b> Product Quality Requirements:</b> </p>
-<ul><ul> 1. The system will have user-friendly instructions and an interface, making it easy to operate and meet all the requirements for the project. </ul></ul>
-<ul><ul> 2. The project will enhance business operations and align with the existing technology infrastructure. </ul></ul>
+<ul> 1. The system will have user-friendly instructions and an interface, making it easy to operate and meet all the requirements for the project. </ul>
+<ul> 2. The project will enhance business operations and align with the existing technology infrastructure. </ul>
 
 <p><b> Requirements for Ensuring Quality of Processes: </p></b>
-<ul><ul> 1. The product owner and development team will carefully review and support any endeavor expectations before communicating to the customer. </ul>
-<ul><ul> 2. The improvement gathering will lead to typical run reviews to promptly recognize and decide on any quality concerns. </ul></ul>
-<ul><ul> 3. To guarantee consistent system development, testing, and deployment, the development team will adhere to a specified configuration management procedure. </ul></ul>
-<ul><ul> 4. The development team will set up continuous testing along with a quality assurance approach to make sure that the system complies with all technical requirements and requirements. </ul></ul>
+<ul> 1. The product owner and development team will carefully review and support any endeavor expectations before communicating to the customer. </ul>
+<ul> 2. The improvement gathering will lead to typical run reviews to promptly recognize and decide on any quality concerns. </ul>
+<ul> 3. To guarantee consistent system development, testing, and deployment, the development team will adhere to a specified configuration management procedure. </ul>
+<ul>4. The development team will set up continuous testing along with a quality assurance approach to make sure that the system complies with all technical requirements and requirements. </ul>
 
 <p><b> Compliance Demonstrations: </b> </p>
-<ul><ul> • Before deploying to the client, the group will evaluate and test the Villamin Wood and Iron Works framework as per the characterized quality necessities and principles. </ul></ul>
-<ul><ul> • The improvement group will keep up with nitty gritty documentation of all testing and quality affirmation exercises, which can be gotten to by the client upon demand. </ul></ul>
-<ul><ul> • A conventional acknowledgment test will be led by the improvement group in a joint effort with the client to ensure that the framework meets their necessities and assumptions. </ul></ul>
-<ul><ul> • The development team will provide ongoing support to guarantee that the system consistently adheres to the established quality standards. </ul></ul>
+<ul> 1. Before deploying to the client, the group will evaluate and test the Villamin Wood and Iron Works framework as per the characterized quality necessities and principles. </ul>
+<ul> 2. The improvement group will keep up with nitty gritty documentation of all testing and quality affirmation exercises, which can be gotten to by the client upon demand. </ul>
+<ul> 3. A conventional acknowledgment test will be led by the improvement group in a joint effort with the client to ensure that the framework meets their necessities and assumptions. </ul>
+<ul> 4. The development team will provide ongoing support to guarantee that the system consistently adheres to the established quality standards. </ul></ul>
 
 <p><b> Continual Improvement:</b> </p>
 <p> Continuous client feedback collection and analysis, system performance monitoring, and internal audits to find areas for improvement will all be part of the development team's continuous improvement process. This kind of setup will be incorporated into the venture to guarantee that the Villamin Wood and Iron Works System ensures quality standards are met as well as proactively adjusts to developing client needs. </p>
 
 ==Quality Assurance==
 ==Quality Control==
-<p> The process of quality control within the Villamin Wood and Iron Works System project will be established into the Agile approach with the goal of ensuring that quality meets expectations through teamwork and continuous development. These are the following steps that involve within the project: </ul>
+<p> The process of quality control within the Villamin Wood and Iron Works System project will be established into the Agile approach with the goal of ensuring that quality meets expectations through teamwork and continuous development. These are the following steps that involve within the project: </p>
+
 <ul><b> 1. Continuous Testing and Feedback: </b> To identify any issues and assure that the product corresponds to the demands of the client, the project team is going to perform a continual evaluation. </ul>
 <p><b> 2. User Acceptance Testing: </b> To ensure that it aligns with client requirements and demands, the system's functionality will be monitored by the project manager or developer. This phase will be finished at the end of each sprint, and user feedback will be used to make any necessary improvements. </ul>
 <ul><b> 3. Compatibility Testing: </b> The Villamin Wood and Iron Works System will undergo testing across several phases, including mobile devices and any browser, to confirm consistency and handle any potential problems within the system. </ul>
@@ -783,10 +785,12 @@ These are the goals of the quality of the management plan:
 ==Introduction==
 <p> Having a strong project team that will manage and help structure the project is what human resource management strategies are. It is one of the most crucial parts to the success of the project, as it helps to assist in establishing the appropriate and qualified people that will work on the project. This strategy includes the roles and responsibilities, communication protocols, and performance management issues. </p>
 <p> With the use of this plan, the team can successfully manage the project as it will make sure that all team members are working effectively and understands their role and responsibilities, that communications are open, that their performance while working and on what their working on is monitored as their contribution to the success of the project. </p>
+
 ==Roles and Responsibilities==
-<p> For the project to be completed successfully, a strong human resources management strategy is essential of any project. It describes the duties and responsibilities of each member of the project team, stakeholders, making sure that everyone is aware of their contributions and how they fit into the overall picture. </p>
+<p> For the project to be completed successfully, a strong human resources management strategy is essential for any project. It describes the duties and responsibilities of each member of the project team, stakeholders, making sure that everyone is aware of their contributions and how they fit into the overall picture. </p>
 <p> The strategy also specifies the degree of authority and decision-making held by each team member, making sure that resources are distributed and used efficiently. By distinctly defining the strategy will ensure that the appropriate individuals are in the right positions based on their competencies and skill requirements to the appropriate roles to ensure project success. </p>
 <p> This plan acts as the success of the project roadmap for the project team to execute and deliver. </p>
+
 ==Project Organizational Charts==
 ==Staffing Management==
 ==Staff Acquisition==
