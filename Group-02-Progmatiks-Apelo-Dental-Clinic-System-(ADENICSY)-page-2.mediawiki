@@ -269,6 +269,7 @@ This section of the Communications Management Plan outlines the specific communi
 
       </tr>
   </tbody>
+</table>
 
 ==Communication Methods and Technologies==
 <p>The successful implementation of the Apelo Dental Clinic System project relies on having a comprehensive grasp of the different communication methods and technologies that will be utilized to establish effective communication with all involved parties. It is crucial to consider the unique strengths and limitations of each communication method and technology to guarantee that all stakeholders receive the necessary information promptly and efficiently. This encompasses selecting suitable approaches for delivering project updates, progress reports, risks, issues, and any other pertinent details.<br>
@@ -311,6 +312,74 @@ procurement needs are met efficiently and effectively, with an emphasis on quali
 and schedule. It provides a clear and concise roadmap for the procurement process, 
 ensuring that all stakeholders are aligned and informed throughout the process.
 </p>
+
+==Communications Matrix==
+<table>
+  <tr>
+    <th>Channel</th>
+    <th>From</th>
+    <th>To</th>
+    <th>Type</th>
+    <th>Frequency</th>
+    <th>Format Used</th>
+    <th>Delivery Media</th>
+  </tr>
+  <tr>
+    <td>Project Planning</td>
+    <td>Project Manager</td>
+    <td>Stakeholders</td>
+    <td>Meeting</td>
+    <td>Once Before the start of the project</td>
+    <td>Formal</td>
+    <td>Physical Meeting</td>
+  </tr>
+  <tr>
+    <td>Release Planning</td>
+    <td>Project Manager, Project Team</td>
+    <td>Stakeholders</td>
+    <td>Meeting</td>
+    <td>Once before start of the project<br>Updated when necessary</td>
+    <td>Formal</td>
+    <td>Microsoft Teams, Email</td>
+  </tr>
+  <tr>
+    <td>Sprint Planning</td>
+    <td>Project Manager</td>
+    <td>Project Team</td>
+    <td>Meeting</td>
+    <td>Twice a week</td>
+    <td>Informal</td>
+    <td>Microsoft Teams</td>
+  </tr>
+  <tr>
+    <td>Management Processes</td>
+    <td>Project Manager, Project Team</td>
+    <td>Stakeholders</td>
+    <td>Artifact</td>
+    <td>Once Before start of the project<br>Updated when necessary</td>
+    <td>Written Document</td>
+    <td>Microsoft Teams, Email</td>
+  </tr>
+  <tr>
+    <td>Product Backlog</td>
+    <td>Project Manager</td>
+    <td>Project Team</td>
+    <td>Artifact</td>
+    <td>Once every week</td>
+    <td>Written Document</td>
+    <td>Microsoft Teams</td>
+  </tr>
+  <tr>
+    <td>Project Update</td>
+    <td>Project Manager</td>
+    <td>Project Team</td>
+    <td>Meeting</td>
+    <td>Once every week</td>
+    <td>Informal</td>
+    <td>Microsoft Teams</td>
+  </tr>
+</table>
+
 ==Procurement Risk==
 <p>Procurement is a critical aspect of the Apelo Dental Clinic project, involving the acquisition of goods, services, and equipment from external sources. The procurement process inherently carries risks that can impact the project's success. It is vital to proactively identify and address these risks to minimize their potential negative effects. The Apelo Dental Clinic project encompasses various procurement activities, each with its own set of inherent risks that need to be managed effectively.
 
