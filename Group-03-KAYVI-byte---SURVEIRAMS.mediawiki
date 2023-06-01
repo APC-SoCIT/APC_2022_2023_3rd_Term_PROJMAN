@@ -327,34 +327,45 @@ The objectives which mutually support the milestones and deliverables for this p
 *Complete the required documentation for this project. 
 *Implement the solution across the APC organization within 48 days (about 7 weeks).
 
-<h3>Requirements</h3>
-<p>This project must meet the following list of requirements in order to achieve success.</p>
-<ul>
-<li>The application must be tested and approved by the client, project sponsor, and other relevant stakeholders prior to deployment.</li>
-<li>All documentation must be approved by the Project Manager and Project Sponsor before confirming project completion.</li>
-</ul>
-<p>Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward.</p>
+===5.3.2 Requirements===
 
-<h3>Constraints</h3>
-<p>The following constraints pertain to the SurveiRams project:</p>
-<ul>
-<li>All mobile devices to be used by the security personnel are exclusive of the allocated budget.</li>
-<li>The entire project timeline will last for two terms, from PROJMAN to SOFTDEV.</li>
-<li>Two software developers, two documentation specialists, and a project manager will be provided as resources for this project.</li>
-</ul>
+This project must meet the following list of requirements to achieve success.   
 
-<h3>Assumptions</h3>
-<p>The following are a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:</p>
-<ul>
-<li>This project has the full support of the client, project sponsor, stakeholders, and project adviser.</li>
-<li>The purpose of this project will be communicated throughout the company prior to deployment.</li>
-<li>The project adviser and project sponsor will provide additional resources if necessary.</li>
-</ul>
+*The application must be tested and approved by the client, project sponsor, and other relevant stakeholders prior to deployment. 
+*All documentation must be approved by the Project Manager and Project Sponsor before confirming project completion. 
 
-<h3>Preliminary Scope Statement</h3>
-<p>The SurveiRams project aims to create a more robust ticketing system for the entire organization. The project team will handle all aspects of the project, including administering personnel, hardware, and software resources, and all necessary testing will be conducted independently of daily operations. The Project Manager is responsible for securing project funding as outlined in this document. Additional funding must be approved by the project sponsor. The project will be considered complete once the SurveiRams system is tested and deployed throughout the organization, the final report is submitted within 30 days, and technical documentation is distributed to appropriate personnel.</p>
+Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward. 
 
-<h2>Risks</h2>
+===5.3.3 Constraints===
+
+The following constraints pertain to the SurveiRams project: 
+
+*All mobile devices to be used by the security personnel are exclusive of the allocated budget. 
+*The entire project timeline will last for 283 days (about 40 weeks).  
+*Two software developers, one documentation specialist, one software tester and a project manager will be provided as resources for this project. 
+
+===5.3.4 Assumptions===
+
+The following is a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct: 
+
+*This project has the full support of the client, project sponsor, stakeholders, and project adviser. 
+*The purpose of this project will be communicated throughout the company prior to deployment. 
+*The project adviser and project sponsor will provide additional resources if necessary. 
+
+===5.3.5 Preliminary Scope Statement===
+
+The SurveiRams project aims to create a more robust ticketing system for the entire organization. The project team will handle all aspects of the project, including administering personnel, hardware, and software resources, and all necessary testing will be conducted independently of daily operations. The Project Manager is responsible for securing project funding as outlined in this document. Additional funding must be approved by the project sponsor. The project will be considered complete once the SurveiRams system is tested and deployed throughout the organization, the final report is submitted within 30 days, and technical documentation is distributed to appropriate personnel.
+
+==5.4 Risks
+The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:   
+
+*Potential disruption to internet service during testing phase and deployment 
+
+*Project Timeline Changes 
+
+*Project Cost 
+
+ 
 <p>The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:</p>
 <ul>
 <li>Potential disruption to internet service during testing phase and deployment</li>
