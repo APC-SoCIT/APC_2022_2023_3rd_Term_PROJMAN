@@ -1,5 +1,5 @@
 ='''Project Title''' =
-<h1 style="text-align:center">Project Management Plan for SurveiRams</h1>
+<h2 style="text-align:center">Project Management Plan for SurveiRams</h2>
 
 =Project Members=
 ==Project Professor==
@@ -111,7 +111,7 @@ personnel and other departments conduct their processes manually, and the former
                 <td bgcolor="lightblue"><p style="text-align:center;">Name</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;"><em>Project Manager</em></p></td>
+		<td><p style="text-align:center;">Project Manager</p></td>
 		<td width="517">
 <p>·         <em>Approves Scope Management Plan. </em></p>
 </td>
