@@ -798,6 +798,7 @@ the project manager alongside the team and stakeholders. The project manager wil
  <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">COMPETENCY</p></td>
  </tr>
+
  <tr>
  <td><p style="text-align:center;">Project Sponsor</p></td>
  <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. Provides 
@@ -809,6 +810,34 @@ the project manager alongside the team and stakeholders. The project manager wil
      team. </p></td>
  <td><p style="text-align:center;">Communicating effectively with the team. Strong leadership and strategic 
      thinking skills. Understands the team’s goal for the project. Ability to support the project. </p></td>
+ </tr>
+
+ <td><p style="text-align:center;">Project Stakeholder</p></td>
+ <td><p style="text-align:center;">Checks the approved changes in the deliverables. Authority to revise an 
+     information that will mislead the goals of the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the deliverables are complete before sending and having it 
+     checked by the project sponsor. Organize meetings with the project manager and project team members for 
+     the feedback from the project sponsor. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <td><p style="text-align:center;">Project Manager</p></td>
+ <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve changes to 
+     project scope, schedule, and budget that has low change effect. </p></td>
+ <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors 
+     the work of the team members. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <td><p style="text-align:center;">Project Manager</p></td>
+ <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve changes to 
+     project scope, schedule, and budget that has low change effect. </p></td>
+ <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors 
+     the work of the team members. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
  </tr>
 </table>
 
