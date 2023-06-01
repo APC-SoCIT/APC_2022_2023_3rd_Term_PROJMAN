@@ -1343,108 +1343,211 @@ Upon the finalization of the transition plan, which incorporates all essential d
 <p>WBS Component:    A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
 <p>WBS Element:         A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
 =Work Packages=
-<table style="border: 1px solid black; padding: 5px;">
+<table>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">WBS:</td>
-    <td style="border: 1px solid black; padding: 5px;">1</td>
+    <th>WBS</th>
+    <td>1</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Work Package:</td>
-    <td style="border: 1px solid black; padding: 5px;">Apelo Dental Clinic System</td>
+    <th>Work Package</th>
+    <td>Apelo Dental Clinic System</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Package Owner:</td>
-    <td style="border: 1px solid black; padding: 5px;">Janssen Pedrola</td>
+    <th>Package Owner</th>
+    <td>Janssen Pedrola</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Owner Organization:</td>
-    <td style="border: 1px solid black; padding: 5px;">Apelo Dental Clinic</td>
+    <th>Owner Organization</th>
+    <td>Apelo Dental Clinic</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Participants:</td>
-    <td style="border: 1px solid black; padding: 5px;">Progmatiks Members</td>
+    <th>Participants</th>
+    <td>Progmatiks Members</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Description:</td>
-    <td style="border: 1px solid black; padding: 5px;">All work to implement a new Apelo Dental Clinic System</td>
+    <th>Description</th>
+    <td>All work to implement a new Apelo Dental Clinic System</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Completion State:</td>
-    <td style="border: 1px solid black; padding: 5px;">All the participants participate in the new implementation of the Apelo Dental Clinic System.</td>
+    <th>Completion State</th>
+    <td>All the participants participate in the new implementation of the Apelo Dental Clinic System.</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Reference Docs:</td>
-    <td style="border: 1px solid black; padding: 5px;"></td>
+    <th>Reference Docs</th>
+    <td></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>WBS</th>
+    <td>1.1</td>
+  </tr>
+  <tr>
+    <th>Work Package</th>
+    <td>Initiation</td>
+  </tr>
+  <tr>
+    <th>Package Owner</th>
+    <td>Janssen Pedrola</td>
+  </tr>
+  <tr>
+    <th>Owner Organization</th>
+    <td>Apelo Dental Clinic</td>
+  </tr>
+  <tr>
+    <th>Participants</th>
+    <td>Progmatiks Members</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>The work to initiate the project.</td>
+  </tr>
+  <tr>
+    <th>Completion State</th>
+    <td>The project was initiated by the project manager and the members of the group.</td>
+  </tr>
+  <tr>
+    <th>Reference Docs</th>
+    <td></td>
   </tr>
 </table>
 
-<table style="border: 1px solid black; padding: 5px;">
+<table>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">WBS:</td>
-    <td style="border: 1px solid black; padding: 5px;">1.1</td>
+    <th>WBS</th>
+    <td>1.1.1</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Work Package:</td>
-    <td style="border: 1px solid black; padding: 5px;">Initiation</td>
+    <th>Work Package</th>
+    <td>Evaluation and Recommendations</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Package Owner:</td>
-    <td style="border: 1px solid black; padding: 5px;">Janssen Pedrola</td>
+    <th>Package Owner</th>
+    <td>Janssen Pedrola</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Owner Organization:</td>
-    <td style="border: 1px solid black; padding: 5px;">Apelo Dental Clinic</td>
+    <th>Owner Organization</th>
+    <td>Apelo Dental Clinic</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Participants:</td>
-    <td style="border: 1px solid black; padding: 5px;">Progmatiks Members</td>
+    <th>Participants</th>
+    <td>Progmatiks Members</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Description:</td>
-    <td style="border: 1px solid black; padding: 5px;">Activities related to project initiation</td>
+    <th>Description</th>
+    <td>Working group to evaluate solution sets and make recommendations.</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Completion State:</td>
-    <td style="border: 1px solid black; padding: 5px;">Initiation activities completed</td>
+    <th>Completion State</th>
+    <td>The group evaluate the problem of the organization and create a specific objective on how to deal with the problem.</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 5px;">Reference Docs:</td>
-    <td style="border: 1px solid black; padding: 5px;">Initiation Document</td>
+    <th>Reference Docs</th>
+    <td></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>WBS</th>
+    <td>1.1.2</td>
+  </tr>
+  <tr>
+    <th>Work Package</th>
+    <td>Develop Project Charter</td>
+  </tr>
+  <tr>
+    <th>Package Owner</th>
+    <td>Earl Eufimeah Dahinao</td>
+  </tr>
+  <tr>
+    <th>Owner Organization</th>
+    <td>Apelo Dental Clinic</td>
+  </tr>
+  <tr>
+    <th>Participants</th>
+    <td>Progmatiks Members</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>Project Manager to develop the Project Charter.</td>
+  </tr>
+  <tr>
+    <th>Completion State</th>
+    <td>The project charter was completed, and all the participants contributed.</td>
+  </tr>
+  <tr>
+    <th>Reference Docs</th>
+    <td>Project-Charter_ADENICSY.docx</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>WBS</th>
+    <td>1.1.3</td>
+  </tr>
+  <tr>
+    <th>Work Package</th>
+    <td>Deliverable: Submit Project Charter</td>
+  </tr>
+  <tr>
+    <th>Package Owner</th>
+    <td>Earl Eufimeah Dahinao</td>
+  </tr>
+  <tr>
+    <th>Owner Organization</th>
+    <td>Apelo Dental Clinic</td>
+  </tr>
+  <tr>
+    <th>Participants</th>
+    <td>Progmatiks Members</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>Project Charter is delivered to the Project Sponsor.</td>
+  </tr>
+  <tr>
+    <th>Completion State</th>
+    <td>The Project Charter Document arrived at the Project Sponsor and is to be reviewed.</td>
+  </tr>
+  <tr>
+    <th>Reference Docs</th>
+    <td>Project-Charter_ADENICSY.docx</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>WBS</th>
+    <td>1.1.4</td>
+  </tr>
+  <tr>
+    <th>Work Package</th>
+    <td>Deliverable: Submit Project Charter</td>
+  </tr>
+  <tr>
+    <th>Package Owner</th>
+    <td>Earl Eufimeah Dahinao</td>
+  </tr>
+  <tr>
+    <th>Owner Organization</th>
+    <td>Apelo Dental Clinic</td>
+  </tr>
+  <tr>
+    <th>Participants</th>
+    <td>Dr. Denroe Apelo</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>Project sponsor reviews the Project Charter.</td>
+  </tr>
+  <tr>
+    <th>Completion State</th>
+    <td>The Project sponsor signs the project charter.</td>
+  </tr>
+  <tr>
+    <th>Reference Docs</th>
+    <td>Project-Charter_ADENICSY.docx</td>
   </tr>
 </table>
 
-<table style="border: 1px solid black; padding: 5px;">
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">WBS:</td>
-    <td style="border: 1px solid black; padding: 5px;">1.2</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">Work Package:</td>
-    <td style="border: 1px solid black; padding: 5px;">Requirements Gathering</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">Package Owner:</td>
-    <td style="border: 1px solid black; padding: 5px;">Janssen Pedrola</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">Owner Organization:</td>
-    <td style="border: 1px solid black; padding: 5px;">Apelo Dental Clinic</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">Participants:</td>
-    <td style="border: 1px solid black; padding: 5px;">Progmatiks Members</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">Description:</td>
-    <td style="border: 1px solid black; padding: 5px;">Gathering requirements for the new system</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">Completion State:</td>
-    <td style="border: 1px solid black; padding: 5px;">Requirements gathered and documented</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">Reference Docs:</td>
-    <td style="border: 1px solid black; padding: 5px;">Requirements Document</td>
-  </tr>
-</table>
+
 
