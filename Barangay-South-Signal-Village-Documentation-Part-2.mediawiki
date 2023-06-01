@@ -1,1 +1,358 @@
-hi
+=11. HR MANAGEMENT PLAN=
+== 11.1 Introduction ==
+The Human Resource Plan establishes a comprehensive strategy for managing and organizing the project team. It ensures that the person assigned to each position is appropriately qualified at the right time. By using the Human Resource Plan, the roles of the project manager and project team can effectively handle and oversee the project's progress. This plan helps the team members gain knowledge and understanding on their roles and responsibilities in the project. Also, as pushes for open communication within the team members, which opens to more information exchange and problem solving. Overall, the Human Resource Plan is essential in guiding the management and the project team. The implementation it enables shows an effective project management by giving clarity in each role and provides a detailed road map for managing the people, which helps toward the success of the project outcome. 
+
+== 11.2 Roles and Responsibilities==
+'''Project Manager ''' 
+* The Project Manager is responsible for managing the project's scope and ensuring that it remains within the defined boundaries. This includes identifying and managing any changes to the scope, communicating scope changes to the team and stakeholders, and ensuring that the project's deliverables align with the scope. The Project Manager is also responsible for ensuring that the project is completed on time and meets the specified quality standards.  
+
+''' Product Owner ''' 
+*The Product Owner is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the Project Sponsor. They work closely with the Project Manager and Scrum Team to ensure that the project deliverables align with the scope.  
+
+''' Scrum Master ''' 
+*The Scrum Master is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework. They work closely with the Project Manager and Product Owner to ensure that the project is progressing according to the defined scope. The Scrum Master is also responsible for identifying and managing any scope-related risks or issues.  
+
+''' Scrum Team ''' 
+*The Scrum Team is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project. This includes understanding and adhering to the project's scope, identifying any scope-related risks or issues, and communicating these to the Project Manager and Scrum Master.
+
+''' Documentation Manager '''
+*The Documentation Manager is responsible for managing the project documentation and ensuring it is complete and accurate. They work closely with the Project Manager and team to ensure that all project documentation aligns with the scope.  
+
+'''Project Sponsor '''
+*The Project Sponsor is responsible for providing input on the project's scope, including requirements and expectations. Also, responsible for accepting the project deliverables defined by the project's scope. It is important for the Project Manager to communicate regularly with Project Sponsor to ensure that the project remains aligned with their needs and expectations.  
+  
+== 11.3 Project Organizational Charts==
+Project organizational chart of the Barangay South Signal Village Web Application provides a visual presentation of the project team, Team Developmentality, and the relationship with their client. The Product Sponsor is at the top of the organizational chart which provides resources and support for the project and is responsible for major decisions. Directly under the Project Sponsor is the Project Manager who oversees the project from planning through to closing phase. Under the Project Manager are the Product Owner who is responsible for maximizing the value of the product and managing the product backlog, Scrum Master who is facilitate the agile methodology among the team, removing any obstacles and ensuring the team adheres to its agreed processes, and the documentation manager who in charge of all documentation, ensuring all required information is recorded, organized, and maintained properly. The Scrum Members are attached directly to the Scrum Master who are responsible in developing the product and delivering the value. 
+
+== 11.4 Staffing Management==
+
+The Barangay South Signal Village Web App Team’s Staffing Management Plan will be extensively examined and monitored since it is crucial to the project's successful deployment. It consists of the techniques and procedures the team will use to secure, manage, and release employees over the course of the project.<br> 
+*The project sponsor will secure the required personnel for the project. This will guarantee that the roles will be filled with the necessary skills and responsibilities. Internal resources will make up most of the workforce responsible for managing the web application's use and maintenance.
+
+*Training will be provided by the team to each of the designated staff that will handle the web application. This will guarantee that the web application will be utilized to its fullest extent and lower any risk that could arise from a lack of training.
+
+*Performance reviews will be used and monitored often. This is done to evaluate each team member's contribution to the project. The performance reviews will act as a report to ensure that the team is fulfilling the requirements and goals of the project.<br>
+The project owner will continually review the project's requirements, scope, and objectives to see if any new information needs to be included in the staffing management plan. It is important to review the project’s scope since it will determine if other items will be included in the staffing management plan such as government regulations. Government regulations may be a consideration since the project is for a barangay. These regulations primarily involve data privacy and security and the requirements and specifications for a government owned web-application.
+
+=12. QUALITY MANAGEMENT PLAN =
+==12.1 Introduction ==
+This Quality Management plan considers specific requirements and standards for the Barangay South Signal Village Web App project, covering various aspects of quality such as functionality, performance, security, usability, compatibility, and compliance. The plan promotes a collaborative and iterative approach inspired by Agile methodologies like Scrum. By incorporating continuous feedback and improvement cycles, the team proactively addresses issues, mitigates risks, and maintains desired quality levels throughout the project.
+
+Involving stakeholders in defining quality standards is crucial as it shapes the final product. Aligning quality objectives with stakeholder needs creates a web application that exceeds user expectations, increasing satisfaction and adoption.
+
+The Quality Management Plan consists of five components: Quality Management Approach, Quality Requirements / Standards, Quality Assurance, Quality Control, and Quality Control measurements. By following the principles outlined in the plan, the project team aims to deliver a strong, secure, and user-friendly web application that meets high-quality standards. Monitoring and measuring the effectiveness of quality management processes throughout the project life cycle allows necessary adjustments for success.
+
+==12.2 Quality Management Approach ==
+Quality management is an ongoing process, and it's important to regularly review and improve the approach based on feedback and changing requirements. Here are the several key principles and approaches that the team followed to ensure a high level of quality. 
+#Requirement Analysis: The team must begin defining and documenting the web application requirements. This will include the functional and non-functional requirements. The team needs to ensure that the requirements are testable, measurable, and aligned to the user expectations. 
+#Test Planning: Develop a test plan that outlines the testing strategy, scope, and test objectives. Determine the testing tools and techniques that will be used in the project.  
+#Test Execution: Execute the test cases according to the test plan that the team made. Record and track all the test results, and issues encountered during the testing.  
+#Performance Testing: Conduct performance testing to evaluate the performance of the web application to know its responsiveness, scalability, and stability under expected and peak loads to optimize the application. 
+#Security Testing: The team needs to perform security testing to identify vulnerabilities and ensure the web application is protected and secured against potential threats. Review all the code to identify security vulnerabilities and implement best security practices.
+#Usability Testing: The team needs to evaluate the usability and user experience of the web application by doing a real user in the testing process. Gather all the feedback from the clients and insights to identify areas for improvement in terms of user interface, navigation, and overall user satisfaction.  
+#Compatibility Testing: The web application needs to function correctly across different browsers, devices, and operating systems. The team needs to test the application on different combinations of browsers and versions to ensure a consistent performance and user experience.  
+#Continuous Monitoring: Always monitor the performance, availability, and usage of the web application in production. Resolve all issues proactively, ensure a optimal performance, and user satisfaction. 
+
+==12.3 Quality Requirements/Standards ==
+Regular review and updates of requirements and adherence to standards are necessary to maintain the desired quality throughout the web application's development and maintenance phases. Quality requirements and standards for web applications are crucial for ensuring that the application meets the desired level of quality and performance. 
+#Functional Requirements: This defines the expected behavior and functionality of the web application. This will specify what the application should do like user authentication, form submission, data retrieval, and other specific features relevant to the application domain. 
+#Performance Requirements: This will focus on the responsiveness, speed, and efficiency of the web application. This will include the metrics such as response time, page load time, and server processing time. Performance requirements will help ensure that the web application will perform well under normal and peak load conditions.  
+#Security Requirements: This is essential for the team to protect the web application and its users from potential vulnerabilities and threats they will encounter. It includes measures such as secure authentication and authorization mechanisms, and data encryption for protection.  
+#Compatibility Requirements: This ensures that the web application will function correctly across different browsers, devices, and operating systems. These requirements cover the aspects of cross-browser compatibility, mobile responsiveness, and the adherence to web standards.  
+#Usability Requirements: This requirement will focus on enhancing the user experience and ease of use of the web application. This will cover the navigation, clear user interface design, accessibility for users with disabilities, and responsiveness to user actions, and lastly the compatibility across different browsers and devices.  
+#Scalability Requirements: The team needs to address the ability of the web application to handle user loads and data volumes.  
+#Compliance Requirements: This involves adhering to legal, regulatory, and industry-specific standards. Since the web application will be handling sensitive information and data, the team needs to comply with GDPR (General Data Protection Regulation) guidelines. 
+#Documentation Standards: Comprehensive and consistent documentation is important for the web application. It will establish standards for documenting requirements, user manuals, release notes, design specifications, and other relevant documentation. It will help ensure transparency, collaboration, and ease of maintenance. 
+
+==12.4 Quality Assurance ==
+Quality Assurance (QA) for the South Signal Village Barangay Web App project will be rooted in Agile methodologies, promoting quality through iterative development, constant collaboration, and improvement. The following steps is followed to make sure the quality is in the standard:
+*Defining Quality Standards: In cooperation with stakeholders, we will describe and document the quality standards for the project within the Quality Management Plan. The plan is communicated to all stakeholders.
+*Continuous Improvement: The project team will leverage feedback from quality audits and quality metrics to enhance the product and quality process. Collaboration with stakeholders will be necessary to pinpoint improvement opportunities and to implement required changes.
+*Compliance with Industry Standards: The project team will ensure that the Barangay Web Application conforms to applicable industry standards, including data privacy regulations, accessibility standards, and security standards. 
+Quality assurance metrics will be monitored closely, tracked, and reported on a regular basis to guarantee that the project yields a high-quality outcome. Violations of these standards will prompt immediate review and revision. Regular reports from the application software will be utilized to gather data on these parameters. The goal is to ensure that the South Signal Village Barangay Web App adheres to the highest quality standards.
+
+==12.5 Quality Control ==
+The quality control process is an integral part of the development and maintenance of the Barangay South Signal Village Web App. It ensures that all aspects of the application meet the defined quality standards and requirements. The following quality control measures will be implemented:
+#Code Review: Regular code reviews will be conducted by the development team to identify and rectify any issues or bugs in the source code. This process will help maintain code consistency, readability, and adherence to coding standards. Code reviews will be performed using a collaborative version control system, enabling multiple developers to review and provide feedback on each other's code.
+
+#Unit Testing:  Unit testing will be employed to validate the functionality and correctness of individual components or units of code. The development team will write unit tests to cover critical functions and features of the web app. These tests will be executed frequently to detect and fix defects early in the development cycle. Test results will be logged, and any failures or errors will be addressed promptly.
+
+#Integration Testing: Integration testing will be performed to verify the proper functioning of various components when integrated together. This testing phase ensures that the interactions between different modules, APIs, and databases function correctly and produce the expected outcomes. Test scenarios will be designed to cover both normal and exceptional use cases to ensure comprehensive test coverage.
+
+#User Acceptance Testing (UAT):  User Acceptance Testing will involve the participation of end-users or representatives from the Barangay South Signal Village community. Test scenarios will be designed to simulate real-world usage scenarios, allowing users to provide feedback on the web app's usability, functionality, and user experience. Any issues or feedback raised during UAT will be recorded and prioritized for resolution.
+
+#Security Testing:  Comprehensive security testing measures will be implemented to identify and mitigate potential vulnerabilities in the web app. This includes testing for common security threats such as SQL injection, cross-site scripting (XSS), and session management vulnerabilities. Regular security audits and penetration testing will be conducted to maintain a secure environment for the users and protect their sensitive information.
+
+#Continuous Monitoring and Maintenance:  Once the web app is deployed, continuous monitoring and maintenance activities will be performed to ensure its ongoing performance, security, and reliability. This includes monitoring server logs, analyzing error reports, and promptly addressing any critical issues or incidents. Regular maintenance activities, such as applying updates and patches, will be conducted to keep the web app up to date and secure.
+
+By implementing these quality control measures, the Barangay South Signal Village Web App will adhere to high-quality standards, provide a reliable user experience, and meet the needs of the community it serves.
+
+==12.6 Quality Control Measurements ==
+The Agile and Scrum Methodologies will be employed to promote continuous inspection and modification throughout the project lifecycle for the Barangay South Signal Village Web App. This project will adopt a transparent and collaborative approach to quality control.
+<br><br>
+To guarantee that the web app fulfills the defined standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table. The following details will be included in the platform:
+<br><br>
+*Measurement date
+*Measurement type (e.g., automated testing, code review, peer review, user story acceptance)
+*Findings of the measurement (such as passed/failed, the number of flaws discovered, and the percentage of code coverage)
+*Requirements and standards for comparison
+*Member of the team in charge of measuring
+*Team member responsible for assessing the measurement results
+*Actions taken for any required corrective measures
+*Date when the remedial measures were completed
+*Team member responsible for implementing corrective measures
+<br> <br>
+Dashboards and other visual tools will be utilized to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. The dashboards will draw attention to patterns and problem areas, enabling the team to act promptly and make the necessary adjustments.
+<br> <br>
+The quality control metrics will be reviewed, and the methodology will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the team will identify potential areas for improvement and implement any necessary changes based on the findings.
+<br> <br>
+In conclusion, the Barangay South Signal Village Web App project will utilize Scrum methodologies to implement a collaborative and dynamic quality control strategy. To ensure the web app satisfies the defined standards and requirements, the team will regularly assess its quality and make the necessary improvements. All quality control measurements will be collected and tracked on a common platform, allowing for real-time monitoring. The team will collaborate to address any issues and implement necessary improvements based on the findings.
+
+=13. RISK MANAGEMENT PLAN=
+==13.1 Introduction==
+The Barangay South Signal Village Web Application project aims to develop a web application for the Barangay South Signal Village residents that can access online services of the barangay including the online document request and submitting concerns. The web application’s primary goal is to provide information about the barangay and online service/s for their community more efficiently, effectively, and transparently.
+<br><br>
+In an agile project, the risk management plan is required to be incorporated by the project team because it aims to aims to detect and evaluate possible risks, as well as develop risk response techniques, as well as risk monitoring and control throughout the project's life cycle. The strategy will be integrated into the daily operations of the project and evaluated and revised as needed. 
+The project team may guarantee that risks are mitigated, and the project's objectives are met within the budget and timetable by proactively managing risks.
+<br><br>
+The risk management plan will contain the possible project risks, the approach to managing risks, the process of identifying and evaluating risks, monitoring risks, implementing risk mitigation and avoidance measures, and maintaining a risk register. This management strategy will clearly define the methods for addressing risks and overseeing their progress. The effectiveness of the plan will be assessed based on how promptly risks are identified and resolved, and whether the project's goals are successfully met.
+
+==13.2 Top Three Risk==
+The following are the risks for the Barangay South Signal Village Web-Application identified by the team. The project manager will choose and use the proper risk reduction and avoidance measures to reduce the likelihood of these hazards.
+<br> <br>
+#External Security Threats: External attacks may compromise the web application's security. Malicious assaults, hacking efforts, and unauthorized access to sensitive information are examples of such risks.
+#Data Theft or Loss: Data theft or loss is possible due to potential security breaches. Unauthorized access or security breaches in the web application might compromise or lose sensitive data, such as the residents' and barangay information needed for protection. 
+#Unpredictable Risks: the project team is aware of the possibility of unpredictable risks (natural disasters, power outages, and internet disruptions) happening that could cause an impact on the project.
+
+==13.3 Risk Management Approach==
+After identifying potential risks that the project team may encounter, the team will then proceed to discuss these risks with the project sponsor. The team will collaborate with the project sponsor on the ideal response that the team will implement. After the discussion and the implementation, the team will analyze the mitigation response and will apply improvements if deemed necessary.
+<br> <br>
+Agile methodology is the methodology that the Barangay South Signal Village Web Application is based on. Thus, the team will follow the risk management for the agile methodology. Risk management involves quick and accurate response and identification of potential risks. Both the stakeholders and the team will be actively involved in the risk management process to ensure that the proper steps are taken.
+<br> <br>
+The following are the steps in the Risk Management Approach of the Barangay South Signal Village Web Application:
+#Risk Identification: The project team will identify potential project risks through regular meetings, brainstorming sessions, project scope review, web application testing. The identified risks will be listed by each of the members that have discovered the risk based on their impact on the project.
+#Risk Assessment:  After identifying potential risks, the team will then assess the identified risks based on their potential impact on the project. Severity and priority will be applied to the identified risks using a risk matrix to ensure that the risks will be properly evaluated.
+#Risk Response: The team will create a risk mitigation plan for risks that have a high severity for the project. Techniques and processes in reducing, preventing, and avoiding the risks will be included in the risk mitigation plan. 
+#Risk Review: The risks will be closely monitored by the team and all changes and improvements will be properly communicated with the project sponsor. The review will reassess and identify both the old and new potential risks and determine whether the risk mitigation action is effective or needs to be changed.
+==13.4 Risk Identification==
+The risks for Barangay South Signal Village Web Application were identified through expert interviews, historical data from previous projects, and a risk assessment meeting with the team and the stakeholders.
+<br><br>
+The historical data from earlier projects was thoroughly examined and researched to identify possible risks and create plans and methods for risk mitigation. Project advisors and consultants were interviewed as they are experts in developing similar systems and projects to discover new risks, manage existing risks, and develop more effective risk mitigation strategies.
+<br><br>
+The risk assessment meeting consists of both the project team and the stakeholders. The risks were evaluated by their impact on the project and risk mitigation strategies were discussed. 
+<br><br>
+The potential risks that were identified for the Barangay South Signal Village Web App consists of:
+#Scope Creep: The project may go beyond its original scope. Cost overruns and schedule delays will result from this.
+#Security Vulnerability: The project may be vulnerable to security breaches such as malware, identity theft or even data loss, which may lead to the disruption of processes within the barangay and massive damage to both the client and the residents.
+#Human Error: The project team may commit mistakes or errors that may impact the project.
+#Lack of resources: The project may not have access to relevant resources and materials that will be crucial to the completion of the project.
+#Unpredictable Risks: the project team is aware of the possibility of unpredictable risks (natural disasters, power outages, and internet disruptions) happening that could cause an impact on the project.
+<br><br>
+To ensure that the risks are properly mitigated, the team conducted thorough testing and consultations with experts to get insights on existing or new techniques that the team can use to reduce the risks.
+
+==13.5 Risk Qualification And Prioritization==
+The potential risks identified for the Barangay South Signal Village Web Application project will now be qualitatively assessed and prioritized based on their probability and impact. This process will allow the project manager to determine the critical risks that require immediate attention and develop appropriate mitigation strategies. The risk qualification and prioritization for each identified risk are as follows:
+<br> <br>
+Based on the risk qualification and prioritization, the high-priority risks are scope creep and security vulnerability. These risks require immediate attention and dedicated mitigation efforts to minimize their potential impact on the project. The medium-priority risks, human error, and lack of resources should also be addressed, but with a lower intensity of resources and attention.
+==13.6 Risk  Monitoring==
+The Risk Monitoring approach provides active management of risks throughout the project, it is important to maintain continuous monitoring throughout the project's life cycle and comprehensively record the process, including identifying conditions for risks. 
+ <br><br>
+According to the plan, the project manager will incorporate scoring risks into the project schedule and assign a dedicated risk manager to oversee their monitoring. This enables the project manager to specify when risks require immediate attention and when the risk manager should provide updates during the weekly team meetings.
+  <br><br>
+During the team meetings, the risk manager will report on the status of identified risks, any new risks found, and the effectiveness of mitigation plans. Any new changes to the Risk Management Plan will be made with the project team.
+  <br><br>
+Overall, the project team will implement an agile risk management methodology that emphasizes continuous progress and flexibility. The effectiveness of the risk management plan will be assessed and adjusted as needed. This ensures that the project passes the quality standards.
+
+==13.7 Risk Mitigation And Avoidance==
+When developing a web application, it is important to identify and mitigate potential risks to ensure the security, reliability, and performance of the application. Incorporating these risk mitigation and avoidance strategies into the web application development process, you can help minimize vulnerabilities, ensure a secure and reliable application, and mitigate potential risks throughout the lifecycle of the application. 
+<br> <br>
+#Security Risks: 
+<br> <br>
+*The development team needs to implement secure coding practices to prevent common security risks and vulnerabilities.  
+*Team needs to regularly update and patch the software components, frameworks, and libraries to address security vulnerabilities.  
+*Use secure authentication and authorization mechanisms to protect the user accounts and sensitive data and information.  
+*Implement secure communication protocols like HTTPS to encrypt data transmitted between the server and the client in the web application.  
+*Conduct a penetration testing to identify and address potential vulnerabilities.  
+<br> <br>
+#Performance Risks: 
+
+*Team needs to conduct performance testing to identify potential bottlenecks and optimize the application’s performance.  
+*Optimize the database queries and ensure efficient data retrieval and manipulation. 
+*Monitor and analyze the web application performance in production to identify and address different performance issues. 
+ <br> <br>
+#Compliance Risks:  
+
+*Understand and comply with relevant legal and industry-specific regulations.  
+*The development team needs to implement necessary security measures and data protection practices to meet compliance requirements.  
+*The team needs to regularly review, and update compliance practices based on changes in regulations.  
+ <br> <br>
+#Scalability Risks: 
+
+*The team needs to think and design the application with scalability, they need to consider several factors like load balancing, and database scalability.  
+*They need to regularly monitor application performance and scalability to identify and address scalability issues.  
+ <br> <br>
+#Data loss and Data Breach Risks:  
+
+*Implement a regular data backup and disaster recovery plan to prevent any data loss along the way.  
+*Encrypt all sensitive data. 
+*Implement access controls and user permissions to restrict unauthorized access to sensitive data.  
+ <br> <br>
+#Third-Party Risks: 
+
+*The team needs to stay updated with security patches and updates provided by third-party vendors.  
+*Carefully assess the security practices of third-party libraries, frameworks, and services used in the application.  
+*Regularly review and update third-party components to mitigate potential risks. 
+
+==13.8 Risk Register==
+The risk register, which will be updated throughout the project, will include a detailed explanation of each risk, its likelihood and potential consequences, as well as any mitigation measures implemented. The risk register will be reviewed and updated on a regular basis to ensure that it accurately reflects the project's current state. The risk registry, which will be housed in a central location, will be accessible to all stakeholders.
+<br><br>
+This risk management strategy is generally consistent with the Agile methodology, emphasizing early and frequent risk discovery, collaborative risk management, and continual risk monitoring. Team Developmentality can mitigate the consequences of potential risks and increase the likelihood of project success by predicting and resolving them. Furthermore, using a cloud-based project management tool such as Jira, Asana, or Trello, the risk register for the Barangay South Signal Village Web App will be saved in a shared document. This tool will be used by the project team to manage and prioritize risks, allocate responsibilities, and monitor risk mitigation progress.
+<br><br>
+The following criteria will be used for the risk register: 
+
+*Risk ID - each risk will be assigned a unique identifier. 
+*Risk Description - there will be a clear and concise description of the risk event. 
+*Risk Category - will classify risks into technical, organizational, or legal categories. 
+*Risk Owner - will be responsible for monitoring and managing each risk. 
+*Probability - likelihood of a risk occurring is assessed using a scale of 1 to 5, with 1 
+*indicating the lowest likelihood and 5 indicating the highest. 
+*Impact - the risk's potential impact on the project is rated on a scale of 1 to 5, with 1 
+*indicating the least significant impact and 5 indicating the most significant impact. 
+*Risk Score - the probability and impact scores are multiplied to determine the overall risk. 
+*score. 
+*Mitigation Strategy - outlines the specific measures to be taken to mitigate the risk. 
+*Status -risk's current status, whether it is open, in progress, or closed, is also documented. 
+*Target Resolution Date - anticipated date for risk resolution to be resolved.
+
+=14. COMMUNICATION MANAGEMENT PLAN=
+==14.1 Introduction==
+The goal of this Communications Management Plan is to provide the communication requirements for the "South Signal Village Barangay Web App" and detail how the information will be distributed among the team.
+<br><br>
+#There will be communication regarding the status of the project, updates, issues, decisions, and adjustments. Reports will include phases of detail suitable for the audience, such as high-level stakeholder overviews and project team reports.
+#Different techniques will be used to guarantee adequate communication. In-person and online meetings, emails, phone discussions, and the usage of a project management web site for tracking progress are all included in this.
+#Every stakeholder will get weekly project status updates. However, as soon as a major issue or change arises, it will be notified.
+#The Project communications department is mostly responsible for the project manager, with team members providing updates on their individual tasks. The project manager will handle stakeholder communication, with aid from the team leads as needed.
+#Stakeholders will be notified frequently of the progress and outcomes of the project. To meet each of the stakeholders' particular informational needs, personalized communication will be used.
+#Resources for software, communication tools, and possible travel for in-person meetings are all covered by the project budget.
+#Confidential information will be shared on a need-to-know basis.
+#The project manager will examine and approve any changes to the communication process to make sure they are in line with the goals of the project and the requirements of the stakeholders.
+#The person in charge of the project will be the primary link for communication to guarantee consistency and accuracy of data.
+#Different time zones, stakeholder accessibility, language barriers, and access to technology are some potential limitations.
+#To guarantee consistency, progress reports, meeting agendas, meeting minutes, and other project documents will all be written using standardized templates.
+#Conflicts or problems concerning communication should be brought to the project manager's attention for solution.
+<br><br>
+This Communications Management Plan serves as a guide to ensure clear, consistent, and effective communication throughout the project lifecycle.
+==14.2 Communications Management Approach==
+Our Project Management Approach for the "South Signal Village Barangay Web App" project focuses on effective communication. Here is a more comprehensive breakdown of our strategy:
+<br><br>
+#Good Communication: The team will actively provide periodic updates on the status, challenges, and revisions of the project to prevent delays and misunderstandings. All team members are encouraged to voice any potential problems or worries as soon as they do so.
+#Message is Clear and Consistent: Communication that is effective must be accurate and consistent. For all project communications, we are going to adhere to established methods and formats to ensure that all stakeholders have the same understanding. This will decrease misunderstandings and confusion.
+#Multiple Channels of Communication: We shall use a wide range of channels in consideration of the varied communication requirements and preferences of our stakeholders. These include in-person and online meetings. The type and urgency of the message will influence the form of communication that is selected.
+#Open Feedback: Collaboration and continuous enhancement thrive through an open feedback culture. We will encourage feedback from all stakeholders at frequent meetings where we will discuss the status of the project. We may adjust and improve our project management and communication procedures because of this.
+#Change of Management: The team acknowledge that changes to communication procedures are necessary. All suggested changes will be thoroughly reviewed and require the project manager's approval to ensure smooth transitions and minimal disruption.
+
+==14.3 Communications Management Constraints==
+In the Barangay South Signal Village Web Application project, the Communication Management Constraints are essential in the project management plan for the entire project team, including the project sponsor. These constraints are crucial factors in the project management strategy, which applies to the whole project team, including the project sponsor.
+<br><br>
+By identifying and understanding the Communication Management Constraints, the project team may effectively establish the boundaries and limitations that may affect communication within the project. This understanding supports the team in developing appropriate approaches to manage possible difficulties and promote successful communication throughout the project lifecycle.
+<br><br>
+The constraints in communication management for the Barangay South Signal Village Web Application project may include the following:
+#Technological limitations - Technological limitations influence the communication process. For example, unreliable internet connections, outdated communication tools, or a lack of access to essential software can affect the communications between each project team. 
+#Time constraints - Time-sensitive deliverables and deadlines are typical in projects, which can cause difficulties with communication. Limited time for meetings, decision-making, or delivering feedback might impact the overall communication flow.
+#Limited access to some stakeholders – Limited access to stakeholders can limit the success of project team communication, especially when reaching out to the project sponsor and organizing meetings ahead of time to assure everyone's availability.
+#Confidentiality - Communication within the Barangay South Signal Village Web Application project is made difficult by the requirement for confidentiality since some project-related material and information must be handled carefully and follow strict guidelines when provided to the team.
+==14.4 Stakeholder Communication Requirements==
+The Stakeholder Communication Requirements play a crucial role in the Barangay South Signal Village Web Application project by defining the unique communication needs of all stakeholders and the project team. These criteria provide a way to recognize and respond to the various communication requirements of everyone involved, including stakeholders and the project team. An efficient communication process is essential to ensure that the project is on schedule, within budget, and effectively meets the expectations and satisfaction of the stakeholders. By recognizing and satisfying the stipulated needs for communication among stakeholders, the project team can actively manage expectations, establish trust, and promote collaboration.
+<br><br>
+The specific communication needs of stakeholders are described in this section of the Communications Management Plan, along with a strategy for addressing them throughout the project. The stakeholder communication requirements for the Barangay South Signal Village Web Application project would likely include the following:
+<br><br>
+#Project Updates - Stakeholders should be provided with regular updates by the team to inform them of the project's progress, milestones, and any changes or issues encountered. 
+#Communication Channels - Creating efficient communication channels, such as email, meetings, and collaboration tools, to ensure that information flows smoothly between the project team and stakeholders. 
+#Clarity of Information - All project-related information should be delivered clearly and straightforwardly, eliminating technical jargon, and ensuring stakeholders easily comprehend the material.
+#Stakeholder Involvement - Engaging stakeholders in discussions, requesting their participation, and considering their views and recommendations throughout the project.
+#Timeliness - It is essential to keep stakeholders informed as soon as possible, especially regarding significant decision-making, risks, or changes in project plans.
+#Transparency – Transparent and open communication helps stakeholders create trust and credibility by providing information about the project's progress and the goals, objectives, and outcomes.
+#Confidentiality -Any sensitive or private information should be shared only with the appropriate parties and managed securely to maintain confidentiality.
+#Conflict Resolution - Creating methods to handle and facilitate disagreements or conflicts among parties.
+==14.5 Roles==
+#Project Manager 
+  <br><br>
+The Project Manager is responsible for managing the project's scope and ensuring that it remains within the defined boundaries. This includes identifying and managing any changes to the scope, communicating scope changes to the team and stakeholders, and ensuring that the project's deliverables align with the scope. The Project Manager is also responsible for ensuring that the project is completed on time and meets the specified quality standards. 
+  <br><br>
+#Product Owner 
+  <br><br>
+The Product Owner is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the Project Sponsor. They work closely with the Project Manager and Scrum Team to ensure that the project deliverables align with the scope. 
+  <br><br>
+#Scrum Master 
+  <br><br>
+The Scrum Master is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework. They work closely with the Project Manager and Product Owner to ensure that the project is progressing according to the defined scope. The Scrum Master is also responsible for identifying and managing any scope-related risks or issues. 
+  <br><br>
+#Scrum Team 
+  <br><br>
+The Scrum Team is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project. This includes understanding and adhering to the project's scope, identifying any scope-related risks or issues, and communicating these to the Project Manager and Scrum Master. 
+  <br><br>
+#Documentation Manager 
+  <br><br>
+The Documentation Manager is responsible for managing the project documentation and ensuring it is complete and accurate. They work closely with the Project Manager and team to ensure that all project documentation aligns with the scope. 
+  <br><br>
+#Project Sponsor 
+ <br><br>
+The Project Sponsor is responsible for providing input on the project's scope, including requirements and expectations. Also, responsible for accepting the project deliverables defined by the project's scope. It is important for the Project Manager to communicate regularly with Project Sponsor to ensure that the project remains aligned with their needs and expectations. 
+==14.6 Project Team Directory==
+The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
+==14.7 Communication Method And Technologies==
+The Barangay South Signal Village Web App project requires a thorough understanding of the various communication methods and technologies that will be used to effectively communicate with all stakeholders. It is crucial to consider the capabilities and limitations of each communication method and technology to ensure timely and efficient information dissemination. This includes selecting appropriate methods for delivering project updates, progress reports, risks, issues, and other relevant information to stakeholders.
+ <br><br>
+Additionally, it is important to consider the cost, feasibility, security, and privacy concerns associated with different communication technologies. By carefully selecting the most appropriate communication methods and technologies, the project team can ensure that all stakeholders are kept informed, and the project's communication objectives are met.
+  <br><br>
+When determining the best communication methods and technologies for the Barangay South Signal Village Web App project, the following factors should be considered:
+  <br><br>
+#Size and Complexity of the Project: For large and complex projects, web portals and project management software may be the most suitable option as they allow for the centralization of information and easy access for all stakeholders.
+#Location of Stakeholders: For stakeholders located in different geographical areas, real-time communication methods such as video conferencing and telephone calls may be the best option to facilitate effective communication.
+#Technical Expertise of Stakeholders: Consider the level of technical proficiency among stakeholders. For stakeholders who are not technically proficient, simple communication methods such as email and telephone calls may be the most effective.
+#Type of Information: For sensitive or confidential information, secure methods such as encryption and password-protected portals should be employed to ensure the privacy and security of the information being communicated.
+#Budget and Resources: The chosen communication methods and technologies should align with the project's budget and available resources.
+ <br><br> 
+Based on these factors, it is recommended that the Barangay South Signal Village Web App project utilizes a combination of communication methods and technologies, including:
+  <br><br>
+#Project Management Software: Utilize project management software to centralize information, collaborate with stakeholders, track progress, and share updates and documents.
+#Email: Use email for regular communication, sharing important announcements, and exchanging non-urgent information.
+#Telephone: Employ telephone calls for direct and immediate communication, particularly for stakeholders located within the same geographical area.
+#Video Conferencing: Conduct video conferences to facilitate real-time discussions, remote meetings, and presentations with stakeholders located in different geographical areas.
+  <br><br>
+By leveraging these communication methods and technologies, the project team can ensure effective and efficient communication with all stakeholders, promoting transparency, collaboration, and timely information exchange throughout the Barangay South Signal Village Web App project.
+==14.8 Communication Matrix==
+The following table identifies the communications requirements for this project.
+==14.9 Communication Flowchart==
+==14.10 Guidelines For Meetings==
+Listed below are the meeting guidelines for Barangay South Signal Village Web App:
+<br><br>
+#Agenda: The meeting agenda should be discussed in advance, it should include the purpose of the meeting, the topics to be discussed, and what the team should resolve after the meeting is done. This will help the team members to prepare thoroughly for the session.
+#Minutes: The minutes should include all of what has taken place during the session. It should document all topics discussed, changes made, resolved resolutions, and decisions made by the team.
+#Attendance: attendance dictates that all team members must be present at the time of the meeting. If a member is unable to attend, they should inform the project manager in advance as well as provide a valid excuse for the absence.
+#Schedule: The schedule of the meeting should be scheduled in advance. The time should be agreed upon by all the team members to ensure that everyone will be able to attend.
+#Communication: All team members are required to voice their opinions and ideas which they think will contribute to the project. Having a smooth flow of communication will guarantee that there are no misunderstandings between the team members and that everyone has understood what has taken place in the meeting.
+<br><br>
+Having a set of well-defined guidelines will be beneficial for the team as it will help the team prepare for the meetings thoroughly. The guidelines will help each session of the team to be more organized and consistent, which will create a more collaborative environment for the team. Meetings will be more effective, efficient and productive by indicating the roles of each team member in the session and the agenda of the meeting that was established with the help of the meeting guidelines.
+==14.11 Communication Standards==
+It is important to establish clear guidelines and protocols to ensure effective and efficient communication among team members and stakeholders. Encourage open communication channels, provide opportunities for team members to provide input, and ensure that the established communication standards are consistently followed throughout the web application development process. 
+<br><br>
+#Active Listening: The development team needs to encourage every team member to pay attention, seek clarification if needed, and demonstrate understanding by summarizing what others have communicated or talked about. When the team is actively listening, they will have a better understanding and it will reduce the chances of miscommunication.  
+#Clarity and Conciseness: Team needs to emphasize the importance of clear and concise communication. Everyone in the team must express their thoughts and ideas in a straightforward manner, not just the team manager or team leader in the team. Also, avoid unnecessary jargon and technical terms that may hinder or cause comprehension.  
+#Timeliness: Team needs to establish a standard for timely communication. Team members need to encourage everyone to respond or give feedback to messages, emails, and requests within a reasonable time limit. Set a deadline for how urgent the matters should be done or addressed. Having timely communication in the team helps maintain the project momentum that can prevent delays on the project.  
+#Professionalism and Respect: In every communication exchange, the team should emphasize the importance of professionalism and respect to each other. Team members should be or must be respectful and courteous in every discussion, even when disagreements arise.  
+#Documentation: Having clear documentation in the team helps maintain a record of essential information and serves as a point of reference for future use. The development team must encourage every team member to document decisions, discussions, email exchanges, agreements, and action items from meetings.  
+#Collaboration Tools: The team should establish this in the first place where they would communicate and collaborate on their project. They need to determine the preferred collaboration tools and platforms for their communication. Standardize the use of these tools to facilitate efficient communication and ensure that all team members are familiar with their functionalities.  
+#Meeting Guidelines: Provide guidelines for conducting effective meetings. This includes the setting of agendas, defining clear objectives for each meeting, and ensuring that the stakeholders are invited or involved when necessary. Team members must have active participation, time management, and efficient decision-making during team meetings. Always record or share meeting minutes or summaries afterward to ensure that information is accurately captured and shared.  
+#Regular Project Updates: Team needs to have a standard for regular project updates and progress reporting. Ensure consistent and timely communication with the stakeholders. Having a regular update on the project keeps all parties informed of its progress.  
+#Feedback and Constructive Criticism: Every team member must have an open mind and encourage a culture of feedback and constructive criticism within the team. Every team member must feel comfortable providing feedback and suggestions for improvement of the project. Emphasize the importance of delivering feedback respectfully and focusing on actionable suggestions rather than personal attacks. 
+==14.12 Communication Escalation Process==
+The communication escalation process for a web application development project outlines the steps to be taken when communication issues or conflicts arise and need to be escalated for resolution. Establishing a clear communication escalation process, you can address and resolve communication issues promptly, minimizing their impact on the web application development project. 
+<br><br>
+#Define Communication Channels: The development team needs to identify and establish the primary communication channels to be used for their project, like email, project management software, or designated communication tools. Every team member must be aware of and have access to these communication channels.  
+#Establish Communication Hierarchy: The development team should define the communication hierarchy within the project team. They should identify the key project stakeholders, responsibilities, roles, this includes the project managers, project leader, and clients. The team must clearly communicate the chain of command and reporting structure to all team members.  
+#Escalation Points: Escalating the issue to the higher-level team members or project managers who can help facilitate resolution. This is essential to address communication issues that cannot be resolved.  
+#Initial Resolution Attempts: Whenever there is an issue in the team, team members should resolve communication issues informally and at the lowest level possible. When there are conflicts or misunderstandings, members should first attempt to address the issue directly with the involved parties through open and respectful communication.  
+#Escalation Process: First the team needs to Identify the issue then notify immediately the supervisor or project manager. After that, Document and track the issue and facilitate a resolution. Communicate the resolution to the team for them to be aware of the resolution and move forward with a clear understanding of the resolution’s impact.  
+#Continuous Improvement: Encourage Feedback and review the effectiveness of the communication escalation process periodically. Make necessary adjustments if needed to the process based on lessons learned. 
+==14.13 Glossary Of Communication Terminology==
