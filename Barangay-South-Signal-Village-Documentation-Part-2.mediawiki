@@ -89,9 +89,9 @@ By implementing these quality control measures, the Barangay South Signal Villag
 
 ==12.6 Quality Control Measurements ==
 The Agile and Scrum Methodologies will be employed to promote continuous inspection and modification throughout the project lifecycle for the Barangay South Signal Village Web App. This project will adopt a transparent and collaborative approach to quality control.
-<br><br>
+<br>
 To guarantee that the web app fulfills the defined standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table. The following details will be included in the platform:
-<br><br>
+<br>
 *Measurement date
 *Measurement type (e.g., automated testing, code review, peer review, user story acceptance)
 *Findings of the measurement (such as passed/failed, the number of flaws discovered, and the percentage of code coverage)
@@ -101,11 +101,11 @@ To guarantee that the web app fulfills the defined standards and criteria, quali
 *Actions taken for any required corrective measures
 *Date when the remedial measures were completed
 *Team member responsible for implementing corrective measures
-<br> <br>
+<br> 
 Dashboards and other visual tools will be utilized to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. The dashboards will draw attention to patterns and problem areas, enabling the team to act promptly and make the necessary adjustments.
-<br> <br>
+<br> 
 The quality control metrics will be reviewed, and the methodology will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the team will identify potential areas for improvement and implement any necessary changes based on the findings.
-<br> <br>
+<br>
 In conclusion, the Barangay South Signal Village Web App project will utilize Scrum methodologies to implement a collaborative and dynamic quality control strategy. To ensure the web app satisfies the defined standards and requirements, the team will regularly assess its quality and make the necessary improvements. All quality control measurements will be collected and tracked on a common platform, allowing for real-time monitoring. The team will collaborate to address any issues and implement necessary improvements based on the findings.
 
 =13. RISK MANAGEMENT PLAN=
@@ -138,16 +138,16 @@ The following are the steps in the Risk Management Approach of the Barangay Sout
 The risks for Barangay South Signal Village Web Application were identified through expert interviews, historical data from previous projects, and a risk assessment meeting with the team and the stakeholders.
 <br><br>
 The historical data from earlier projects was thoroughly examined and researched to identify possible risks and create plans and methods for risk mitigation. Project advisors and consultants were interviewed as they are experts in developing similar systems and projects to discover new risks, manage existing risks, and develop more effective risk mitigation strategies.
-<br><br>
+<br>
 The risk assessment meeting consists of both the project team and the stakeholders. The risks were evaluated by their impact on the project and risk mitigation strategies were discussed. 
-<br><br>
+<br>
 The potential risks that were identified for the Barangay South Signal Village Web App consists of:
 #Scope Creep: The project may go beyond its original scope. Cost overruns and schedule delays will result from this.
 #Security Vulnerability: The project may be vulnerable to security breaches such as malware, identity theft or even data loss, which may lead to the disruption of processes within the barangay and massive damage to both the client and the residents.
 #Human Error: The project team may commit mistakes or errors that may impact the project.
 #Lack of resources: The project may not have access to relevant resources and materials that will be crucial to the completion of the project.
 #Unpredictable Risks: the project team is aware of the possibility of unpredictable risks (natural disasters, power outages, and internet disruptions) happening that could cause an impact on the project.
-<br><br>
+<br>
 To ensure that the risks are properly mitigated, the team conducted thorough testing and consultations with experts to get insights on existing or new techniques that the team can use to reduce the risks.
 
 ==13.5 Risk Qualification And Prioritization==
@@ -165,40 +165,35 @@ Overall, the project team will implement an agile risk management methodology th
 
 ==13.7 Risk Mitigation And Avoidance==
 When developing a web application, it is important to identify and mitigate potential risks to ensure the security, reliability, and performance of the application. Incorporating these risk mitigation and avoidance strategies into the web application development process, you can help minimize vulnerabilities, ensure a secure and reliable application, and mitigate potential risks throughout the lifecycle of the application. 
-<br> <br>
+<br>
 #Security Risks: 
-<br> <br>
+<br> 
 *The development team needs to implement secure coding practices to prevent common security risks and vulnerabilities.  
 *Team needs to regularly update and patch the software components, frameworks, and libraries to address security vulnerabilities.  
 *Use secure authentication and authorization mechanisms to protect the user accounts and sensitive data and information.  
 *Implement secure communication protocols like HTTPS to encrypt data transmitted between the server and the client in the web application.  
 *Conduct a penetration testing to identify and address potential vulnerabilities.  
-<br> <br>
+<br>
 #Performance Risks: 
-
 *Team needs to conduct performance testing to identify potential bottlenecks and optimize the application’s performance.  
 *Optimize the database queries and ensure efficient data retrieval and manipulation. 
 *Monitor and analyze the web application performance in production to identify and address different performance issues. 
-<br> <br>
+<br> 
 #Compliance Risks:  
-
 *Understand and comply with relevant legal and industry-specific regulations.  
 *The development team needs to implement necessary security measures and data protection practices to meet compliance requirements.  
 *The team needs to regularly review, and update compliance practices based on changes in regulations.  
-<br> <br>
+<br> 
 #Scalability Risks: 
-
 *The team needs to think and design the application with scalability, they need to consider several factors like load balancing, and database scalability.  
 *They need to regularly monitor application performance and scalability to identify and address scalability issues.  
-<br> <br>
+<br>
 #Data loss and Data Breach Risks:  
-
 *Implement a regular data backup and disaster recovery plan to prevent any data loss along the way.  
 *Encrypt all sensitive data. 
 *Implement access controls and user permissions to restrict unauthorized access to sensitive data.  
-<br> <br>
+<br>
 #Third-Party Risks: 
-
 *The team needs to stay updated with security patches and updates provided by third-party vendors.  
 *Carefully assess the security practices of third-party libraries, frameworks, and services used in the application.  
 *Regularly review and update third-party components to mitigate potential risks. 
@@ -244,7 +239,7 @@ The goal of this Communications Management Plan is to provide the communication 
 This Communications Management Plan serves as a guide to ensure clear, consistent, and effective communication throughout the project lifecycle.
 ==14.2 Communications Management Approach==
 Our Project Management Approach for the "South Signal Village Barangay Web App" project focuses on effective communication. Here is a more comprehensive breakdown of our strategy:
-<br><br>
+<br>
 #Good Communication: The team will actively provide periodic updates on the status, challenges, and revisions of the project to prevent delays and misunderstandings. All team members are encouraged to voice any potential problems or worries as soon as they do so.
 #Message is Clear and Consistent: Communication that is effective must be accurate and consistent. For all project communications, we are going to adhere to established methods and formats to ensure that all stakeholders have the same understanding. This will decrease misunderstandings and confusion.
 #Multiple Channels of Communication: We shall use a wide range of channels in consideration of the varied communication requirements and preferences of our stakeholders. These include in-person and online meetings. The type and urgency of the message will influence the form of communication that is selected.
@@ -276,27 +271,27 @@ The specific communication needs of stakeholders are described in this section o
 #Conflict Resolution - Creating methods to handle and facilitate disagreements or conflicts among parties.
 ==14.5 Roles==
 #Project Manager 
-<br><br>
+<br>
 The Project Manager is responsible for managing the project's scope and ensuring that it remains within the defined boundaries. This includes identifying and managing any changes to the scope, communicating scope changes to the team and stakeholders, and ensuring that the project's deliverables align with the scope. The Project Manager is also responsible for ensuring that the project is completed on time and meets the specified quality standards. 
-<br><br>
+<br>
 #Product Owner 
-<br><br>
+<br>
 The Product Owner is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the Project Sponsor. They work closely with the Project Manager and Scrum Team to ensure that the project deliverables align with the scope. 
-<br><br>
+<br>
 #Scrum Master 
-<br><br>
+<br>
 The Scrum Master is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework. They work closely with the Project Manager and Product Owner to ensure that the project is progressing according to the defined scope. The Scrum Master is also responsible for identifying and managing any scope-related risks or issues. 
-  <br><br>
+<br>
 #Scrum Team 
-<br><br>
+<br>
 The Scrum Team is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project. This includes understanding and adhering to the project's scope, identifying any scope-related risks or issues, and communicating these to the Project Manager and Scrum Master. 
-<br><br>
+<br>
 #Documentation Manager 
-<br><br>
+<br>
 The Documentation Manager is responsible for managing the project documentation and ensuring it is complete and accurate. They work closely with the Project Manager and team to ensure that all project documentation aligns with the scope. 
-<br><br>
+<br>
 #Project Sponsor 
-<br><br>
+<br>
 The Project Sponsor is responsible for providing input on the project's scope, including requirements and expectations. Also, responsible for accepting the project deliverables defined by the project's scope. It is important for the Project Manager to communicate regularly with Project Sponsor to ensure that the project remains aligned with their needs and expectations. 
 ==14.6 Project Team Directory==
 The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
