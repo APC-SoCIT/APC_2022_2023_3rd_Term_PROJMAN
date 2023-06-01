@@ -1878,7 +1878,7 @@ The Barangay South Signal Village Web App Team’s Staffing Management Plan will
 *Performance reviews will be used and monitored often. This is done to evaluate each team member's contribution to the project. The performance reviews will act as a report to ensure that the team is fulfilling the requirements and goals of the project.<br>
 The project owner will continually review the project's requirements, scope, and objectives to see if any new information needs to be included in the staffing management plan. It is important to review the project’s scope since it will determine if other items will be included in the staffing management plan such as government regulations. Government regulations may be a consideration since the project is for a barangay. These regulations primarily involve data privacy and security and the requirements and specifications for a government owned web-application.
 
-=12. Quality Management Plan =
+=12. QUALITY MANAGEMENT PLAN =
 ==12.1 Introduction ==
 This Quality Management plan considers specific requirements and standards for the Barangay South Signal Village Web App project, covering various aspects of quality such as functionality, performance, security, usability, compatibility, and compliance. The plan promotes a collaborative and iterative approach inspired by Agile methodologies like Scrum. By incorporating continuous feedback and improvement cycles, the team proactively addresses issues, mitigates risks, and maintains desired quality levels throughout the project.
 
@@ -1952,7 +1952,7 @@ The quality control metrics will be reviewed, and the methodology will be adjust
 <br> <br>
 In conclusion, the Barangay South Signal Village Web App project will utilize Scrum methodologies to implement a collaborative and dynamic quality control strategy. To ensure the web app satisfies the defined standards and requirements, the team will regularly assess its quality and make the necessary improvements. All quality control measurements will be collected and tracked on a common platform, allowing for real-time monitoring. The team will collaborate to address any issues and implement necessary improvements based on the findings.
 
-=13. Risk Management Plan=
+=13. RISK MANAGEMENT PLAN=
 ==13.1 Introduction==
 The Barangay South Signal Village Web Application project aims to develop a web application for the Barangay South Signal Village residents that can access online services of the barangay including the online document request and submitting concerns. The web application’s primary goal is to provide information about the barangay and online service/s for their community more efficiently, effectively, and transparently.
 <br><br>
@@ -2068,5 +2068,87 @@ The following criteria will be used for the risk register:
 *Status -risk's current status, whether it is open, in progress, or closed, is also documented. 
 *Target Resolution Date - anticipated date for risk resolution to be resolved.
 
+=14. COMMUNICATION MANAGEMENT PLAN=
+==14.1 Introduction==
+The goal of this Communications Management Plan is to provide the communication requirements for the "South Signal Village Barangay Web App" and detail how the information will be distributed among the team.
+<br><br>
+#There will be communication regarding the status of the project, updates, issues, decisions, and adjustments. Reports will include phases of detail suitable for the audience, such as high-level stakeholder overviews and project team reports.
+#Different techniques will be used to guarantee adequate communication. In-person and online meetings, emails, phone discussions, and the usage of a project management web site for tracking progress are all included in this.
+#Every stakeholder will get weekly project status updates. However, as soon as a major issue or change arises, it will be notified.
+#The Project communications department is mostly responsible for the project manager, with team members providing updates on their individual tasks. The project manager will handle stakeholder communication, with aid from the team leads as needed.
+#Stakeholders will be notified frequently of the progress and outcomes of the project. To meet each of the stakeholders' particular informational needs, personalized communication will be used.
+#Resources for software, communication tools, and possible travel for in-person meetings are all covered by the project budget.
+#Confidential information will be shared on a need-to-know basis.
+#The project manager will examine and approve any changes to the communication process to make sure they are in line with the goals of the project and the requirements of the stakeholders.
+#The person in charge of the project will be the primary link for communication to guarantee consistency and accuracy of data.
+#Different time zones, stakeholder accessibility, language barriers, and access to technology are some potential limitations.
+#To guarantee consistency, progress reports, meeting agendas, meeting minutes, and other project documents will all be written using standardized templates.
+#Conflicts or problems concerning communication should be brought to the project manager's attention for solution.
+<br><br>
+This Communications Management Plan serves as a guide to ensure clear, consistent, and effective communication throughout the project lifecycle.
+==14.2 Communications Management Approach==
+Our Project Management Approach for the "South Signal Village Barangay Web App" project focuses on effective communication. Here is a more comprehensive breakdown of our strategy:
+<br><br>
+#Good Communication: The team will actively provide periodic updates on the status, challenges, and revisions of the project to prevent delays and misunderstandings. All team members are encouraged to voice any potential problems or worries as soon as they do so.
+#Message is Clear and Consistent: Communication that is effective must be accurate and consistent. For all project communications, we are going to adhere to established methods and formats to ensure that all stakeholders have the same understanding. This will decrease misunderstandings and confusion.
+#Multiple Channels of Communication: We shall use a wide range of channels in consideration of the varied communication requirements and preferences of our stakeholders. These include in-person and online meetings. The type and urgency of the message will influence the form of communication that is selected.
+#Open Feedback: Collaboration and continuous enhancement thrive through an open feedback culture. We will encourage feedback from all stakeholders at frequent meetings where we will discuss the status of the project. We may adjust and improve our project management and communication procedures because of this.
+#Change of Management: The team acknowledge that changes to communication procedures are necessary. All suggested changes will be thoroughly reviewed and require the project manager's approval to ensure smooth transitions and minimal disruption.
+
+==14.3 Communications Management Constraints==
+In the Barangay South Signal Village Web Application project, the Communication Management Constraints are essential in the project management plan for the entire project team, including the project sponsor. These constraints are crucial factors in the project management strategy, which applies to the whole project team, including the project sponsor.
+<br><br>
+By identifying and understanding the Communication Management Constraints, the project team may effectively establish the boundaries and limitations that may affect communication within the project. This understanding supports the team in developing appropriate approaches to manage possible difficulties and promote successful communication throughout the project lifecycle.
+<br><br>
+The constraints in communication management for the Barangay South Signal Village Web Application project may include the following:
+#Technological limitations - Technological limitations influence the communication process. For example, unreliable internet connections, outdated communication tools, or a lack of access to essential software can affect the communications between each project team. 
+#Time constraints - Time-sensitive deliverables and deadlines are typical in projects, which can cause difficulties with communication. Limited time for meetings, decision-making, or delivering feedback might impact the overall communication flow.
+#Limited access to some stakeholders – Limited access to stakeholders can limit the success of project team communication, especially when reaching out to the project sponsor and organizing meetings ahead of time to assure everyone's availability.
+#Confidentiality - Communication within the Barangay South Signal Village Web Application project is made difficult by the requirement for confidentiality since some project-related material and information must be handled carefully and follow strict guidelines when provided to the team.
+==14.4 Stakeholder Communication Requirements==
+The Stakeholder Communication Requirements play a crucial role in the Barangay South Signal Village Web Application project by defining the unique communication needs of all stakeholders and the project team. These criteria provide a way to recognize and respond to the various communication requirements of everyone involved, including stakeholders and the project team. An efficient communication process is essential to ensure that the project is on schedule, within budget, and effectively meets the expectations and satisfaction of the stakeholders. By recognizing and satisfying the stipulated needs for communication among stakeholders, the project team can actively manage expectations, establish trust, and promote collaboration.
+<br><br>
+The specific communication needs of stakeholders are described in this section of the Communications Management Plan, along with a strategy for addressing them throughout the project. The stakeholder communication requirements for the Barangay South Signal Village Web Application project would likely include the following:
+<br><br>
+#Project Updates - Stakeholders should be provided with regular updates by the team to inform them of the project's progress, milestones, and any changes or issues encountered. 
+#Communication Channels - Creating efficient communication channels, such as email, meetings, and collaboration tools, to ensure that information flows smoothly between the project team and stakeholders. 
+#Clarity of Information - All project-related information should be delivered clearly and straightforwardly, eliminating technical jargon, and ensuring stakeholders easily comprehend the material.
+#Stakeholder Involvement - Engaging stakeholders in discussions, requesting their participation, and considering their views and recommendations throughout the project.
+#Timeliness - It is essential to keep stakeholders informed as soon as possible, especially regarding significant decision-making, risks, or changes in project plans.
+#Transparency – Transparent and open communication helps stakeholders create trust and credibility by providing information about the project's progress and the goals, objectives, and outcomes.
+#Confidentiality -Any sensitive or private information should be shared only with the appropriate parties and managed securely to maintain confidentiality.
+#Conflict Resolution - Creating methods to handle and facilitate disagreements or conflicts among parties.
+==14.5 Roles==
+#Project Manager 
+  <br><br>
+The Project Manager is responsible for managing the project's scope and ensuring that it remains within the defined boundaries. This includes identifying and managing any changes to the scope, communicating scope changes to the team and stakeholders, and ensuring that the project's deliverables align with the scope. The Project Manager is also responsible for ensuring that the project is completed on time and meets the specified quality standards. 
+  <br><br>
+#Product Owner 
+  <br><br>
+The Product Owner is responsible for defining and prioritizing the project requirements and ensuring that the final product meets the needs of the Project Sponsor. They work closely with the Project Manager and Scrum Team to ensure that the project deliverables align with the scope. 
+  <br><br>
+#Scrum Master 
+  <br><br>
+The Scrum Master is responsible for facilitating the agile development process and ensuring that the team is following the Scrum framework. They work closely with the Project Manager and Product Owner to ensure that the project is progressing according to the defined scope. The Scrum Master is also responsible for identifying and managing any scope-related risks or issues. 
+  <br><br>
+#Scrum Team 
+  <br><br>
+The Scrum Team is responsible for developing the project deliverables and working together with the rest of the team to ensure the success of the project. This includes understanding and adhering to the project's scope, identifying any scope-related risks or issues, and communicating these to the Project Manager and Scrum Master. 
+  <br><br>
+#Documentation Manager 
+  <br><br>
+The Documentation Manager is responsible for managing the project documentation and ensuring it is complete and accurate. They work closely with the Project Manager and team to ensure that all project documentation aligns with the scope. 
+  <br><br>
+#Project Sponsor 
+ <br><br>
+The Project Sponsor is responsible for providing input on the project's scope, including requirements and expectations. Also, responsible for accepting the project deliverables defined by the project's scope. It is important for the Project Manager to communicate regularly with Project Sponsor to ensure that the project remains aligned with their needs and expectations. 
+==14.6 Project Team Directory==
+==14.7 Communication Method And Technologies==
+==14.8 Communication Matrix==
+==14.9 Communication Flowchart==
+==14.10 Guidelines For Meetings==
+==14.11 Communication Standards==
+==14.12 Communication Escalation Process==
+==14.13 Glossary Of Communication Terminology==
 </tbody>
 </table>
