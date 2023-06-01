@@ -2143,12 +2143,62 @@ The Documentation Manager is responsible for managing the project documentation 
  <br><br>
 The Project Sponsor is responsible for providing input on the project's scope, including requirements and expectations. Also, responsible for accepting the project deliverables defined by the project's scope. It is important for the Project Manager to communicate regularly with Project Sponsor to ensure that the project remains aligned with their needs and expectations. 
 ==14.6 Project Team Directory==
+The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
 ==14.7 Communication Method And Technologies==
+The Barangay South Signal Village Web App project requires a thorough understanding of the various communication methods and technologies that will be used to effectively communicate with all stakeholders. It is crucial to consider the capabilities and limitations of each communication method and technology to ensure timely and efficient information dissemination. This includes selecting appropriate methods for delivering project updates, progress reports, risks, issues, and other relevant information to stakeholders.
+ <br><br>
+Additionally, it is important to consider the cost, feasibility, security, and privacy concerns associated with different communication technologies. By carefully selecting the most appropriate communication methods and technologies, the project team can ensure that all stakeholders are kept informed, and the project's communication objectives are met.
+  <br><br>
+When determining the best communication methods and technologies for the Barangay South Signal Village Web App project, the following factors should be considered:
+  <br><br>
+#Size and Complexity of the Project: For large and complex projects, web portals and project management software may be the most suitable option as they allow for the centralization of information and easy access for all stakeholders.
+#Location of Stakeholders: For stakeholders located in different geographical areas, real-time communication methods such as video conferencing and telephone calls may be the best option to facilitate effective communication.
+#Technical Expertise of Stakeholders: Consider the level of technical proficiency among stakeholders. For stakeholders who are not technically proficient, simple communication methods such as email and telephone calls may be the most effective.
+#Type of Information: For sensitive or confidential information, secure methods such as encryption and password-protected portals should be employed to ensure the privacy and security of the information being communicated.
+#Budget and Resources: The chosen communication methods and technologies should align with the project's budget and available resources.
+ <br><br> 
+Based on these factors, it is recommended that the Barangay South Signal Village Web App project utilizes a combination of communication methods and technologies, including:
+  <br><br>
+#Project Management Software: Utilize project management software to centralize information, collaborate with stakeholders, track progress, and share updates and documents.
+#Email: Use email for regular communication, sharing important announcements, and exchanging non-urgent information.
+#Telephone: Employ telephone calls for direct and immediate communication, particularly for stakeholders located within the same geographical area.
+#Video Conferencing: Conduct video conferences to facilitate real-time discussions, remote meetings, and presentations with stakeholders located in different geographical areas.
+  <br><br>
+By leveraging these communication methods and technologies, the project team can ensure effective and efficient communication with all stakeholders, promoting transparency, collaboration, and timely information exchange throughout the Barangay South Signal Village Web App project.
 ==14.8 Communication Matrix==
+The following table identifies the communications requirements for this project.
 ==14.9 Communication Flowchart==
 ==14.10 Guidelines For Meetings==
+Listed below are the meeting guidelines for Barangay South Signal Village Web App:
+<br><br>
+#Agenda: The meeting agenda should be discussed in advance, it should include the purpose of the meeting, the topics to be discussed, and what the team should resolve after the meeting is done. This will help the team members to prepare thoroughly for the session.
+#Minutes: The minutes should include all of what has taken place during the session. It should document all topics discussed, changes made, resolved resolutions, and decisions made by the team.
+#Attendance: attendance dictates that all team members must be present at the time of the meeting. If a member is unable to attend, they should inform the project manager in advance as well as provide a valid excuse for the absence.
+#Schedule: The schedule of the meeting should be scheduled in advance. The time should be agreed upon by all the team members to ensure that everyone will be able to attend.
+#Communication: All team members are required to voice their opinions and ideas which they think will contribute to the project. Having a smooth flow of communication will guarantee that there are no misunderstandings between the team members and that everyone has understood what has taken place in the meeting.
+<br><br>
+Having a set of well-defined guidelines will be beneficial for the team as it will help the team prepare for the meetings thoroughly. The guidelines will help each session of the team to be more organized and consistent, which will create a more collaborative environment for the team. Meetings will be more effective, efficient and productive by indicating the roles of each team member in the session and the agenda of the meeting that was established with the help of the meeting guidelines.
 ==14.11 Communication Standards==
+It is important to establish clear guidelines and protocols to ensure effective and efficient communication among team members and stakeholders. Encourage open communication channels, provide opportunities for team members to provide input, and ensure that the established communication standards are consistently followed throughout the web application development process. 
+<br><br>
+#Active Listening: The development team needs to encourage every team member to pay attention, seek clarification if needed, and demonstrate understanding by summarizing what others have communicated or talked about. When the team is actively listening, they will have a better understanding and it will reduce the chances of miscommunication.  
+#Clarity and Conciseness: Team needs to emphasize the importance of clear and concise communication. Everyone in the team must express their thoughts and ideas in a straightforward manner, not just the team manager or team leader in the team. Also, avoid unnecessary jargon and technical terms that may hinder or cause comprehension.  
+#Timeliness: Team needs to establish a standard for timely communication. Team members need to encourage everyone to respond or give feedback to messages, emails, and requests within a reasonable time limit. Set a deadline for how urgent the matters should be done or addressed. Having timely communication in the team helps maintain the project momentum that can prevent delays on the project.  
+#Professionalism and Respect: In every communication exchange, the team should emphasize the importance of professionalism and respect to each other. Team members should be or must be respectful and courteous in every discussion, even when disagreements arise.  
+#Documentation: Having clear documentation in the team helps maintain a record of essential information and serves as a point of reference for future use. The development team must encourage every team member to document decisions, discussions, email exchanges, agreements, and action items from meetings.  
+#Collaboration Tools: The team should establish this in the first place where they would communicate and collaborate on their project. They need to determine the preferred collaboration tools and platforms for their communication. Standardize the use of these tools to facilitate efficient communication and ensure that all team members are familiar with their functionalities.  
+#Meeting Guidelines: Provide guidelines for conducting effective meetings. This includes the setting of agendas, defining clear objectives for each meeting, and ensuring that the stakeholders are invited or involved when necessary. Team members must have active participation, time management, and efficient decision-making during team meetings. Always record or share meeting minutes or summaries afterward to ensure that information is accurately captured and shared.  
+#Regular Project Updates: Team needs to have a standard for regular project updates and progress reporting. Ensure consistent and timely communication with the stakeholders. Having a regular update on the project keeps all parties informed of its progress.  
+#Feedback and Constructive Criticism: Every team member must have an open mind and encourage a culture of feedback and constructive criticism within the team. Every team member must feel comfortable providing feedback and suggestions for improvement of the project. Emphasize the importance of delivering feedback respectfully and focusing on actionable suggestions rather than personal attacks. 
 ==14.12 Communication Escalation Process==
+The communication escalation process for a web application development project outlines the steps to be taken when communication issues or conflicts arise and need to be escalated for resolution. Establishing a clear communication escalation process, you can address and resolve communication issues promptly, minimizing their impact on the web application development project. 
+<br><br>
+#Define Communication Channels: The development team needs to identify and establish the primary communication channels to be used for their project, like email, project management software, or designated communication tools. Every team member must be aware of and have access to these communication channels.  
+#Establish Communication Hierarchy: The development team should define the communication hierarchy within the project team. They should identify the key project stakeholders, responsibilities, roles, this includes the project managers, project leader, and clients. The team must clearly communicate the chain of command and reporting structure to all team members.  
+#Escalation Points: Escalating the issue to the higher-level team members or project managers who can help facilitate resolution. This is essential to address communication issues that cannot be resolved.  
+#Initial Resolution Attempts: Whenever there is an issue in the team, team members should resolve communication issues informally and at the lowest level possible. When there are conflicts or misunderstandings, members should first attempt to address the issue directly with the involved parties through open and respectful communication.  
+#Escalation Process: First the team needs to Identify the issue then notify immediately the supervisor or project manager. After that, Document and track the issue and facilitate a resolution. Communicate the resolution to the team for them to be aware of the resolution and move forward with a clear understanding of the resolution’s impact.  
+#Continuous Improvement: Encourage Feedback and review the effectiveness of the communication escalation process periodically. Make necessary adjustments if needed to the process based on lessons learned. 
 ==14.13 Glossary Of Communication Terminology==
 </tbody>
 </table>
