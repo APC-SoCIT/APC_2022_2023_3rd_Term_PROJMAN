@@ -1951,5 +1951,62 @@ Dashboards and other visual tools will be utilized to track the quality control 
 The quality control metrics will be reviewed, and the methodology will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the team will identify potential areas for improvement and implement any necessary changes based on the findings.
 <br> <br>
 In conclusion, the Barangay South Signal Village Web App project will utilize Scrum methodologies to implement a collaborative and dynamic quality control strategy. To ensure the web app satisfies the defined standards and requirements, the team will regularly assess its quality and make the necessary improvements. All quality control measurements will be collected and tracked on a common platform, allowing for real-time monitoring. The team will collaborate to address any issues and implement necessary improvements based on the findings.
+
+=13. Risk Management Plan=
+==13.1 Introduction==
+The Barangay South Signal Village Web Application project aims to develop a web application for the Barangay South Signal Village residents that can access online services of the barangay including the online document request and submitting concerns. The web application’s primary goal is to provide information about the barangay and online service/s for their community more efficiently, effectively, and transparently.
+<br><br>
+In an agile project, the risk management plan is required to be incorporated by the project team because it aims to aims to detect and evaluate possible risks, as well as develop risk response techniques, as well as risk monitoring and control throughout the project's life cycle. The strategy will be integrated into the daily operations of the project and evaluated and revised as needed. 
+The project team may guarantee that risks are mitigated, and the project's objectives are met within the budget and timetable by proactively managing risks.
+<br><br>
+The risk management plan will contain the possible project risks, the approach to managing risks, the process of identifying and evaluating risks, monitoring risks, implementing risk mitigation and avoidance measures, and maintaining a risk register. This management strategy will clearly define the methods for addressing risks and overseeing their progress. The effectiveness of the plan will be assessed based on how promptly risks are identified and resolved, and whether the project's goals are successfully met.
+
+==13.2 Top Three Risk==
+The following are the risks for the Barangay South Signal Village Web-Application identified by the team. The project manager will choose and use the proper risk reduction and avoidance measures to reduce the likelihood of these hazards.
+<br> <br>
+#External Security Threats: External attacks may compromise the web application's security. Malicious assaults, hacking efforts, and unauthorized access to sensitive information are examples of such risks.
+#Data Theft or Loss: Data theft or loss is possible due to potential security breaches. Unauthorized access or security breaches in the web application might compromise or lose sensitive data, such as the residents' and barangay information needed for protection. 
+#Unpredictable Risks: the project team is aware of the possibility of unpredictable risks (natural disasters, power outages, and internet disruptions) happening that could cause an impact on the project.
+
+==13.3 Risk Management Approach==
+After identifying potential risks that the project team may encounter, the team will then proceed to discuss these risks with the project sponsor. The team will collaborate with the project sponsor on the ideal response that the team will implement. After the discussion and the implementation, the team will analyze the mitigation response and will apply improvements if deemed necessary.
+<br> <br>
+Agile methodology is the methodology that the Barangay South Signal Village Web Application is based on. Thus, the team will follow the risk management for the agile methodology. Risk management involves quick and accurate response and identification of potential risks. Both the stakeholders and the team will be actively involved in the risk management process to ensure that the proper steps are taken.
+<br> <br>
+The following are the steps in the Risk Management Approach of the Barangay South Signal Village Web Application:
+#Risk Identification: The project team will identify potential project risks through regular meetings, brainstorming sessions, project scope review, web application testing. The identified risks will be listed by each of the members that have discovered the risk based on their impact on the project.
+#Risk Assessment:  After identifying potential risks, the team will then assess the identified risks based on their potential impact on the project. Severity and priority will be applied to the identified risks using a risk matrix to ensure that the risks will be properly evaluated.
+#Risk Response: The team will create a risk mitigation plan for risks that have a high severity for the project. Techniques and processes in reducing, preventing, and avoiding the risks will be included in the risk mitigation plan. 
+#Risk Review: The risks will be closely monitored by the team and all changes and improvements will be properly communicated with the project sponsor. The review will reassess and identify both the old and new potential risks and determine whether the risk mitigation action is effective or needs to be changed.
+==13.4 Risk Identification==
+The risks for Barangay South Signal Village Web Application were identified through expert interviews, historical data from previous projects, and a risk assessment meeting with the team and the stakeholders.
+<br><br>
+The historical data from earlier projects was thoroughly examined and researched to identify possible risks and create plans and methods for risk mitigation. Project advisors and consultants were interviewed as they are experts in developing similar systems and projects to discover new risks, manage existing risks, and develop more effective risk mitigation strategies.
+<br><br>
+The risk assessment meeting consists of both the project team and the stakeholders. The risks were evaluated by their impact on the project and risk mitigation strategies were discussed. 
+<br><br>
+The potential risks that were identified for the Barangay South Signal Village Web App consists of:
+#Scope Creep: The project may go beyond its original scope. Cost overruns and schedule delays will result from this.
+#Security Vulnerability: The project may be vulnerable to security breaches such as malware, identity theft or even data loss, which may lead to the disruption of processes within the barangay and massive damage to both the client and the residents.
+#Human Error: The project team may commit mistakes or errors that may impact the project.
+#Lack of resources: The project may not have access to relevant resources and materials that will be crucial to the completion of the project.
+#Unpredictable Risks: the project team is aware of the possibility of unpredictable risks (natural disasters, power outages, and internet disruptions) happening that could cause an impact on the project.
+<br><br>
+To ensure that the risks are properly mitigated, the team conducted thorough testing and consultations with experts to get insights on existing or new techniques that the team can use to reduce the risks.
+
+==13.5 Risk Qualification And Prioritization==
+The potential risks identified for the Barangay South Signal Village Web Application project will now be qualitatively assessed and prioritized based on their probability and impact. This process will allow the project manager to determine the critical risks that require immediate attention and develop appropriate mitigation strategies. The risk qualification and prioritization for each identified risk are as follows:
+<br> <br>
+Based on the risk qualification and prioritization, the high-priority risks are scope creep and security vulnerability. These risks require immediate attention and dedicated mitigation efforts to minimize their potential impact on the project. The medium-priority risks, human error, and lack of resources should also be addressed, but with a lower intensity of resources and attention.
+==13.6 Risk  Monitoring==
+The Risk Monitoring approach provides active management of risks throughout the project, it is important to maintain continuous monitoring throughout the project's life cycle and comprehensively record the process, including identifying conditions for risks. 
+ <br><br>
+According to the plan, the project manager will incorporate scoring risks into the project schedule and assign a dedicated risk manager to oversee their monitoring. This enables the project manager to specify when risks require immediate attention and when the risk manager should provide updates during the weekly team meetings.
+  <br><br>
+During the team meetings, the risk manager will report on the status of identified risks, any new risks found, and the effectiveness of mitigation plans. Any new changes to the Risk Management Plan will be made with the project team.
+  <br><br>
+Overall, the project team will implement an agile risk management methodology that emphasizes continuous progress and flexibility. The effectiveness of the risk management plan will be assessed and adjusted as needed. This ensures that the project passes the quality standards.
+
+==13.7 Risk Mitigation And Avoidance==
 </tbody>
 </table>
