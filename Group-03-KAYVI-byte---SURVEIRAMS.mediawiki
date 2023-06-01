@@ -1,8 +1,10 @@
 =1. PROJECT TITLE=
+
 <h2 style="text-align:center">Project Management Plan for SurveiRams</h2>
 
 =2. PROJECT MEMBERS=
 ==2.1 Project Professor==
+
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
@@ -17,6 +19,7 @@
 </table>
 
 ==2.2 Project Adviser==
+
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
@@ -31,6 +34,7 @@
 </table>
 
 ==2.3 Project Consultant==
+
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
@@ -45,6 +49,7 @@
 </table>
 
 ==2.4 Project Team==
+
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
@@ -76,14 +81,14 @@
 =3. COMPANY PROFILE=
 
 Brief Background:
-Asia Pacific College's security 
+Asia Pacific College's security
 personnel and other departments conduct their processes manually, and the former records all reports and other activities in a logbook. The team provides a solution by developing a mobile application, SurveiRams, that will automate the manual documentation process to alleviate the problems caused by the manual management of security personnel, BMO, and ITRO departments. By digitizing the manual operations of security personnel and concerned departments using the SurveiRams application in Asia Pacific College, they can efficiently address any concerns or incident reports that have occurred within the school, and departments such as BMO and ITRO can effectively track, manage, and respond to incidents.</p>
 
 =4. BUSINESS CASE=
 
 ==4.1 Executive Summary==
 
-The SurveiRams system is a digital solution aimed at enhancing the security personnel's daily operations at APC. The existing manual verification system used by security personnel is inefficient, time-consuming, and compromises productivity and efficiency. To address this issue, the project team aims to develop a mobile application that focuses on the reporting system aspect, which provides real-time feedback data to the management team. The SurveiRams system will serve as a ticketing system for recording incident reports and logs, insights into guards' routes, and a tactical transition to a digital approach to stakeholder's present difficulties. By implementing the SurveiRams system, the project team aims to increase accuracy and efficiency in determining whether security personnel have completed their assigned tasks. 
+The SurveiRams system is a digital solution aimed at enhancing the security personnel's daily operations at APC. The existing manual verification system used by security personnel is inefficient, time-consuming, and compromises productivity and efficiency. To address this issue, the project team aims to develop a mobile application that focuses on the reporting system aspect, which provides real-time feedback data to the management team. The SurveiRams system will serve as a ticketing system for recording incident reports and logs, insights into guards' routes, and a tactical transition to a digital approach to stakeholder's present difficulties. By implementing the SurveiRams system, the project team aims to increase accuracy and efficiency in determining whether security personnel have completed their assigned tasks.
 
 ===4.1.1 Issue===
 
@@ -91,18 +96,18 @@ Manually monitoring maintenance in a tall school building can be time-consuming,
 
 ===4.1.2 Anticipated Outcomes===
 
-Implementing a digital system for tracking and addressing maintenance issues in a building has several benefits. By streamlining the process of identifying and resolving issues, it reduces the time and effort required for maintenance tasks. The centralized system provides quick access to information on issues that need attention and tracks progress in resolving them. The result is a more efficient environment for employees tasked with maintenance, allowing them to focus on other important tasks, such as preventative maintenance and improving safety standards. Overall, this creates a safer and more comfortable environment for everyone in the building and benefits the institution and its employees. 
+Implementing a digital system for tracking and addressing maintenance issues in a building has several benefits. By streamlining the process of identifying and resolving issues, it reduces the time and effort required for maintenance tasks. The centralized system provides quick access to information on issues that need attention and tracks progress in resolving them. The result is a more efficient environment for employees tasked with maintenance, allowing them to focus on other important tasks, such as preventative maintenance and improving safety standards. Overall, this creates a safer and more comfortable environment for everyone in the building and benefits the institution and its employees.
 
 ===4.1.3 Recommendation===
 
 Providing training for employees responsible for building maintenance can enhance their ability to efficiently identify, prioritize, and provide solutions for issues in each room. Through training, employees can learn how to effectively use tracking systems, troubleshoot complex issues, and develop problem-solving skills. Additionally, regular reviews of the maintenance program can help identify areas that need improvement and ensure that issues are promptly addressed, resulting in a safer and more comfortable environment for occupants.
-
 
 ===4.1.4 Justification===
 
 Implementing a system to track issues in a building can bring many benefits, including reducing manual effort and maximizing technology usage. Such a system can automatically identify and track issues in each room, freeing personnel to focus on other tasks. The use of sensors or monitoring devices can help detect issues that might be missed by manual inspections, leading to greater accuracy and consistency. In addition, real-time updates can make it easier to track progress and ensure that issues are addressed promptly. Overall, implementing a system for tracking issues can increase efficiency, accuracy, and technology utilization while saving time and effort.
 
 ==4.2 Business Case Analysis Team==
+
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">Role</p></td>
@@ -155,14 +160,14 @@ Implementing a system to track issues in a building can bring many benefits, inc
 <p style="text-align:center;"><em>Sir Jose Manuel Garcia</em></p>
 </td>
 
-	</tr>
+    </tr>
+
 </table>
 <br />
 
-
 ===4.3.1 Problem Statement===
 
-The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner. 
+The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner.
 
 ===4.3.2 Organizational Impact===
 
@@ -170,8 +175,7 @@ SurveiRams facilitate the digitization of work processes by reducing the use of 
 
 ===4.3.3 Technology Migration===
 
-In order to address the issues brought on by the manual administration of security personnel, BMO, and ITRO, the team developed a mobile application called SurveiRams that automates the manual documentation procedure. The migration from manual administration to SurveiRams will improve the overall efficiency and accuracy of the security personnel reporting process. As the data will be securely stored and easily accessible to the cloud, it will enable faster decision-making and reduce the risk of errors or discrepancies in reporting. 
-
+In order to address the issues brought on by the manual administration of security personnel, BMO, and ITRO, the team developed a mobile application called SurveiRams that automates the manual documentation procedure. The migration from manual administration to SurveiRams will improve the overall efficiency and accuracy of the security personnel reporting process. As the data will be securely stored and easily accessible to the cloud, it will enable faster decision-making and reduce the risk of errors or discrepancies in reporting.
 
 ==4.4 Project Overview==
 
@@ -183,58 +187,74 @@ This project will be concerned with the creation of a mobile application for the
 
 The main goal of this project is to create SurveiRams, a ticketing mobile application for APC’s security personnel, ITRO, and BMO.
 
-Specifically, said application should: 
-*Develop a centralized location where the guards can log their patrols, 
-*Automate the manual process of documentation, and 
-*Provide analytical insights to interpret data reports and patterns for assisted and effective decision-making 
+Specifically, said application should:
+*Develop a centralized location where the guards can log their patrols,
+*Automate the manual process of documentation, and
+\*Provide analytical insights to interpret data reports and patterns for assisted and effective decision-making
 
 ===4.4.3 Project Performance===
 
-SurveiRams will be considered a success if the following features are achieved: 
+SurveiRams will be considered a success if the following features are achieved:
 
-*A repository shows that the user can access to create, read, and update incident reports and logs. 
-*An analytics dashboard is shown where an administrator can see the available insight for the accumulated reports.The said dashboard could present the following information:  
-**Number of resolved and unresolved incident reports.  
-**Which department and floor has the most incidents that occurred 
-**Type of incident that occurred the most 
-**Number of incidents that occurred on each level 
-**Number of incidents addressed to each office 
+*A repository shows that the user can access to create, read, and update incident reports and logs.
+*An analytics dashboard is shown where an administrator can see the available insight for the accumulated reports.The said dashboard could present the following information: 
+**Number of resolved and unresolved incident reports. 
+**Which department and floor has the most incidents that occurred
+**Type of incident that occurred the most
+**Number of incidents that occurred on each level
+\*\*Number of incidents addressed to each office
 
 ===4.4.4 Project Assumptions===
 
-Below are the initial expectations about the proposed system: 
+Below are the initial expectations about the proposed system:
 
-1. The system built is only accessible for Asia Pacific College institution only. 
-2. The developers who will work on this project are fellow APC students who will continue the development of the system by providing additional features. 
+1. The system built is only accessible for Asia Pacific College institution only.
+2. The developers who will work on this project are fellow APC students who will continue the development of the system by providing additional features.
 
 ===4.4.5 Project Contstraints===
 
-The initial limitations for the proposed project are listed as follows: 
+The initial limitations for the proposed project are listed as follows:
 
-*The number of financial resources accessible to the team during the project's initial stage of development. 
-*The availability of resources, such as developers, that the organization can assign and concentrate exclusively on the project. 
+*The number of financial resources accessible to the team during the project's initial stage of development.
+*The availability of resources, such as developers, that the organization can assign and concentrate exclusively on the project.
 
- ===4.4.6 Major Project Milestones===
-<h2>Strategic Alignment</h2>
-<p>SurveiRams has the same goal as Building Maintenance Office (BMO), and Information Technology Resource Office (ITRO) in enhancing and refining the manual verification system into a mobile application that serves as a patrolling assistant focusing on its reporting system aspect to develop a more digitalized, efficient, and sustainable method of keeping up with the security personnel’s daily operations. That also improves employees' productivity by creating a more effective and efficient environment. Overall, this strategic alliance resulted in a sustainable, innovative solution to revolutionize security personnel's operations while improving business productivity simultaneously.</p>
+===4.4.6 Major Project Milestones===
+In order to facilitate the team's advancement towards project completion, the subsequent milestones and deliverables have been recognized for this project.
 
-<h2>Cost Benefit Analysis</h2>
-<p>The process of cost-benefit analysis will assist in evaluating the relative advantages of the SurveiRams System project compared to the expenses it entails.</p>
-
-<strong>Benefits:</strong>
-<p>The SurveiRams project can provide several benefits, including:</p>
-<ul>
-<li>Improved efficiency and productivity: The implementation of a digitalized system can optimize reviewing system reports by reducing paper documents, which can result in more efficient and effective work by allowing employees to focus more on higher-value tasks.</li>
-<li>Enhanced accuracy: The automated system can help reduce human error, providing a more accurate method of determining whether the security personnel have completed their assigned tasks.</li>
-<li>Better decision-making: The application can provide analytical insights that can help the stakeholders interpret data reports and patterns, making decision-making more informed and strategic.</li>
-<li>Increased security: The SurveiRams can help ensure building security by identifying anomalies or incident reports, aiding in monitoring and preventing future security breaches.</li>
-<li>More sustainable and cost-effective: By digitizing the current system, the project can eliminate the need for excessive paperwork, making the entire process more sustainable and cost-effective in the long run.</li>
-</ul>
-<strong>Costs:</strong>
-<ul>
-<li>Cost Savings: SurveiRams reduces the use of papers. This also results in cost savings and increased productivity. Paperless documentation increases the efficiency of data transmission by reducing paper works and physical contacts like couriers and printers.</li>
-<li>Cloud Cost: According to Amazon AWS Pricing in the Asia Pacific region, their cloud storage will cost $0.025 (PHP 1.38) per GB for the first 50 TB and will cost $0.024 (PHP 1.33) per GB on the next 450 TB. This will be cheaper than physical storage in the long run.</li>
-</ul>
+ <table class="wikitable">
+  <tr>
+    <th>Project Milestones</th>
+    <th>Target Date</th>
+  </tr>
+  <tr>
+    <td>Project Initiation</td>
+    <td>03/31/2023</td>
+  </tr>
+  <tr>
+    <td>Project Plan Review and Completion</td>
+    <td>05/02/2023</td>
+  </tr>
+  <tr>
+    <td>Phase I Complete – Analysis</td>
+    <td>06/21/2023</td>
+  </tr>
+  <tr>
+    <td>Phase II Complete – Design</td>
+    <td>07/06/2023</td>
+  </tr>
+  <tr>
+    <td>Phase III Complete – Testing</td>
+    <td>12/13/2023</td>
+  </tr>
+  <tr>
+    <td>Phase IV Complete – Implementation</td>
+    <td>02/15/2024</td>
+  </tr>
+  <tr>
+    <td>Closeout/Project Completion</td>
+    <td>04/19/2024</td>
+  </tr>
+</table>
 
 =Project Charter=
 
@@ -436,8 +456,6 @@ user, which is based on what office or department they are from.</p>
 <p><strong>What is important to the stakeholder?</strong></p>
 </td>
 
-
-
 <td width="420" bgcolor="lightblue">
 <p><strong>How could the stakeholder contribute to the project?</strong></p>
 </td>
@@ -447,8 +465,6 @@ user, which is based on what office or department they are from.</p>
 </td>
 </tr>
 
-
-
 <tr>
 <td width="394">
 <p>Jojo Castillo</p>
@@ -456,7 +472,6 @@ user, which is based on what office or department they are from.</p>
 <td width="190">
 <p>ITRO Head</p>
 </td>
-
 
 <td width="190">
 <p>High</p>
@@ -478,10 +493,6 @@ user, which is based on what office or department they are from.</p>
 <p>Set a meeting</p>
 </td>
 </tr>
-
-
-
-
 
 <tr>
 <td width="394">
@@ -510,8 +521,6 @@ user, which is based on what office or department they are from.</p>
 <p>Interview</p>
 </td>
 </tr>
-
-
 
 <tr>
 <td width="394">
@@ -542,9 +551,7 @@ user, which is based on what office or department they are from.</p>
 </tr>
 </table>
 
-
 =Scope Management Plan=
-
 
 <h2>Introduction</h2>
 <p>The scope management plan is a crucial component of the overall project management approach for the SurveiRams project. It outlines the tools and techniques that will be utilized to effectively document and control the scope of the project, ensuring that it remains within the defined boundaries and aligns with the project objectives. As an agile project, the scope management plan will be developed and executed in accordance with agile methodologies, which emphasize flexibility, collaboration, and iterative progress.</p>
@@ -634,13 +641,13 @@ SurveiRams should include the following features:</p>
 <ul>-	How many incidents happened per floor </ul>
 <ul>-	How many incidents happened per department </ul>
 
-	<li>The project team and client agreed upon on the requirements of the website to be at the prototype stage with the agreed modules implement to the website which are the automation and the sales report analytics as well as the common functionality of an E-Commerce Website which are Shopping Cart, User Authentication, and Order Item. Better Designs can be implemented in other iteration of the project.</li>
-	<li>This project does not include ongoing operations and maintenance cost of the website since the development team can benefit from the student development tools sponsored by their respective colleges.</li>
-	<li>Bank-to-Bank method of payment gateway the project team and client agreed to avoid the work since the module requires the project team to apply credit cards transaction.</li>
-	<li>The project is not to exceed 180 days in duration, on the days of development will only use development tools, Environment, and equipment available to us. Assumptions for this project are that support will be provided by the project client, adviser, and all department managers and that information, data, as well as adequate resources are available for the successful completion of this project.</li>
+    <li>The project team and client agreed upon on the requirements of the website to be at the prototype stage with the agreed modules implement to the website which are the automation and the sales report analytics as well as the common functionality of an E-Commerce Website which are Shopping Cart, User Authentication, and Order Item. Better Designs can be implemented in other iteration of the project.</li>
+    <li>This project does not include ongoing operations and maintenance cost of the website since the development team can benefit from the student development tools sponsored by their respective colleges.</li>
+    <li>Bank-to-Bank method of payment gateway the project team and client agreed to avoid the work since the module requires the project team to apply credit cards transaction.</li>
+    <li>The project is not to exceed 180 days in duration, on the days of development will only use development tools, Environment, and equipment available to us. Assumptions for this project are that support will be provided by the project client, adviser, and all department managers and that information, data, as well as adequate resources are available for the successful completion of this project.</li>
+
 </ul>
 <h2> Work Breakdown Structure </h2>
-
 
 <h2> Scope Verification </h2>
 <p>
@@ -680,7 +687,6 @@ Overall, it is critical that the project team maintains open communication and c
 
 <h2> Scope Change </h2>
 <p>The team will need to evaluate the impact of any change in project scope that is authorized by the project sponsor on the present timetable. When an issue arises in the project that requires a substantial revision of the project scope, a change proposal can be considered. The team should approach any modification carefully given that the outcome could have a favorable or negative impact on the project's advancement. Any team member may request modifications, but they must be submitted in the form of a project change request document to the project stakeholder. </p>
-
 
 =Cost Management Plan=
 
@@ -728,17 +734,18 @@ Overall, it is critical that the project team maintains open communication and c
 <h2>Measuring Project Costs</h2>
 <p>            This section defines how the project’s costs will be measured.  The PMBOK focuses on Earned Value Management for measuring and controlling a project’s costs.  Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management.
 
-In this section you should detail how you will measure the project costs.  What Earned Value measurements will be captured and reported upon.  Will you use any tools, such as project management software, to assist in capturing Earned Value metrics?  How will you forecast future project costs?  Will you review cost performance over time, across work packages or schedule activities?
+In this section you should detail how you will measure the project costs. What Earned Value measurements will be captured and reported upon. Will you use any tools, such as project management software, to assist in capturing Earned Value metrics? How will you forecast future project costs? Will you review cost performance over time, across work packages or schedule activities?
 
-Our example in this section measures four Earned Value measurements; Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI) and Cost Performance Index (CPI).  For most typical projects these four measurements can provide enough insight for effective management without overburdening the Project Manager with Earned Value calculations and measurements.
+Our example in this section measures four Earned Value measurements; Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI) and Cost Performance Index (CPI). For most typical projects these four measurements can provide enough insight for effective management without overburdening the Project Manager with Earned Value calculations and measurements.
 
-Schedule Variance (SV) is a measurement of the schedule performance for a project.  It’s calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV).  Since EV is the actual value earned in the project and the PV is the value our project plan says we should have earned at this point, when we subtract what we planned from the actual we have a good measurement which tells us if we are ahead or behind the baseline schedule according to our project plan.  If SV is zero, then the project is perfectly on schedule.  If SV is greater than zero, the project is earning more value than planned thus it’s ahead of schedule.  If SV is less than zero, the project is earning less value than planned thus it’s behind schedule.
+Schedule Variance (SV) is a measurement of the schedule performance for a project. It’s calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV). Since EV is the actual value earned in the project and the PV is the value our project plan says we should have earned at this point, when we subtract what we planned from the actual we have a good measurement which tells us if we are ahead or behind the baseline schedule according to our project plan. If SV is zero, then the project is perfectly on schedule. If SV is greater than zero, the project is earning more value than planned thus it’s ahead of schedule. If SV is less than zero, the project is earning less value than planned thus it’s behind schedule.
 
-Cost Variance (CV) is a measurement of the budget performance for a project.  CV is calculated by subtracting Actual Costs (AC) from Earned Value (EV).  As we already know, EV is the actual value earned in the project.  AC is the actual costs incurred to date, thus when we subtract what our actual costs from the EV we have a good measurement which tells us if we are above or below budget.  If CV is zero, then the project is perfectly on budget.  If CV is greater than zero, the project is earning more value than planned thus it’s under budget.  If CV is less than zero, the project is earning less value than planned thus it’s over budget.
+Cost Variance (CV) is a measurement of the budget performance for a project. CV is calculated by subtracting Actual Costs (AC) from Earned Value (EV). As we already know, EV is the actual value earned in the project. AC is the actual costs incurred to date, thus when we subtract what our actual costs from the EV we have a good measurement which tells us if we are above or below budget. If CV is zero, then the project is perfectly on budget. If CV is greater than zero, the project is earning more value than planned thus it’s under budget. If CV is less than zero, the project is earning less value than planned thus it’s over budget.
 
-The Schedule Performance Index (SPI) measures the progress achieved against that which was planned.  SPI is calculated as EV/PV.  If EV is equal to PV the value of the SPI is 1.  If EV is less than the PV then the value is less than 1, which means the project is behind schedule.  If EV is greater than the PV the value of the SPI is greater than one, which means the project is ahead of schedule.  A well performing project should have its SPI as close to 1 as possible, or maybe even a little under 1.
+The Schedule Performance Index (SPI) measures the progress achieved against that which was planned. SPI is calculated as EV/PV. If EV is equal to PV the value of the SPI is 1. If EV is less than the PV then the value is less than 1, which means the project is behind schedule. If EV is greater than the PV the value of the SPI is greater than one, which means the project is ahead of schedule. A well performing project should have its SPI as close to 1 as possible, or maybe even a little under 1.
 
-Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed.  CPI is calculated as EV/AC. If CPI is equal to 1 the project is perfectly on budget.  If the CPI is greater than 1 the project is under budget, if it’s less than 1 the project is over budget.
+Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed. CPI is calculated as EV/AC. If CPI is equal to 1 the project is perfectly on budget. If the CPI is greater than 1 the project is under budget, if it’s less than 1 the project is over budget.
+
 </p>
 
 <h2>Reporting Format</h2>
@@ -749,6 +756,7 @@ Cost Performance Index (CPI) measures the value of the work completed compared t
 
 If the Project Sponsor selects a corrective action option,  
 The corrective actions may include:
+
 </p>
 <li>Reducing the scope of the project </li>
 <li>Reducing the quality of the project deliverables </li>
@@ -782,7 +790,6 @@ If the project continues to exceed the Control Thresholds, the Project Manager w
 <p>The cost change control process is a crucial aspect of managing the SurveiRams ticketing system project's financial aspects. By analyzing and approving cost changes, the project can ensure that it remains within the allocated budget and avoids any unexpected financial challenges. Regular reporting on cost changes will allow the project manager to keep the project sponsor and other key stakeholders informed of any financial updates and ensure transparency throughout the project's lifecycle. By adhering to this cost change control process, the SurveiRams ticketing system project can achieve its objectives and deliver quality results within the specified budget.
 </p>
 
-
 =Schedule Management Plan=
 
 <h2>Introduction</h2>
@@ -799,17 +806,16 @@ If the project continues to exceed the Control Thresholds, the Project Manager w
 
 <li>- The project manager will provide regular status reports to stakeholders, including the project sponsor, to keep them informed of the project's progress.  </li>
 
- 
 <h2>Schedule Control</h2>
 <p>  Frequency of Updates and Reviews:</p>
 <li> The project schedule will be updated on a weekly basis by the project manager. </li> 
 <li> A schedule review meeting will be held every week to review the progress of the project against the schedule. </li> 
-<li> Any changes to the schedule will be communicated to the project team and stakeholders within 24 hours of being made. </li> 
+<li> Any changes to the schedule will be communicated to the project team and stakeholders within 24 hours of being made. </li>
 
 <p>Roles and Responsibilities</p>
 <li> The project manager is responsible for maintaining and updating the project schedule, as well as communicating any changes to the team and stakeholders. </li> 
 <li> The project team is responsible for providing accurate and timely information to the project manager to help ensure the schedule is up-to-date and on track. </li> 
-<li> Stakeholders are responsible for reviewing the project schedule and providing feedback or concerns to the project manager in a timely manner. </li> 
+<li> Stakeholders are responsible for reviewing the project schedule and providing feedback or concerns to the project manager in a timely manner. </li>
 
 <p> Communicating Schedule and Progress: </p>
 <li> The project manager will communicate the project schedule and progress to the project team and stakeholders on a regular basis. </li> 
@@ -824,7 +830,6 @@ If the project continues to exceed the Control Thresholds, the Project Manager w
 
 <h2>Scope Change</h2>
 <p> The team will need to evaluate the impact of any change in project scope that is authorized by the project sponsor on the present timetable. When an issue arises in the project that requires a substantial revision of the project scope, a change proposal can be considered. The team should approach any modification carefully given that the outcome could have a favorable or negative impact on the project's advancement. Any team member may request modifications, but they must be submitted in the form of a project change request document to the project stakeholder.</p>
-
 
 =Work Breakdown Structure=
 
