@@ -2008,5 +2008,66 @@ During the team meetings, the risk manager will report on the status of identifi
 Overall, the project team will implement an agile risk management methodology that emphasizes continuous progress and flexibility. The effectiveness of the risk management plan will be assessed and adjusted as needed. This ensures that the project passes the quality standards.
 
 ==13.7 Risk Mitigation And Avoidance==
+When developing a web application, it is important to identify and mitigate potential risks to ensure the security, reliability, and performance of the application. Incorporating these risk mitigation and avoidance strategies into the web application development process, you can help minimize vulnerabilities, ensure a secure and reliable application, and mitigate potential risks throughout the lifecycle of the application. 
+<br> <br>
+#Security Risks: 
+<br> <br>
+*The development team needs to implement secure coding practices to prevent common security risks and vulnerabilities.  
+*Team needs to regularly update and patch the software components, frameworks, and libraries to address security vulnerabilities.  
+*Use secure authentication and authorization mechanisms to protect the user accounts and sensitive data and information.  
+*Implement secure communication protocols like HTTPS to encrypt data transmitted between the server and the client in the web application.  
+*Conduct a penetration testing to identify and address potential vulnerabilities.  
+<br> <br>
+#Performance Risks: 
+
+*Team needs to conduct performance testing to identify potential bottlenecks and optimize the application’s performance.  
+*Optimize the database queries and ensure efficient data retrieval and manipulation. 
+*Monitor and analyze the web application performance in production to identify and address different performance issues. 
+ <br> <br>
+#Compliance Risks:  
+
+*Understand and comply with relevant legal and industry-specific regulations.  
+*The development team needs to implement necessary security measures and data protection practices to meet compliance requirements.  
+*The team needs to regularly review, and update compliance practices based on changes in regulations.  
+ <br> <br>
+#Scalability Risks: 
+
+*The team needs to think and design the application with scalability, they need to consider several factors like load balancing, and database scalability.  
+*They need to regularly monitor application performance and scalability to identify and address scalability issues.  
+ <br> <br>
+#Data loss and Data Breach Risks:  
+
+*Implement a regular data backup and disaster recovery plan to prevent any data loss along the way.  
+*Encrypt all sensitive data. 
+*Implement access controls and user permissions to restrict unauthorized access to sensitive data.  
+ <br> <br>
+#Third-Party Risks: 
+
+*The team needs to stay updated with security patches and updates provided by third-party vendors.  
+*Carefully assess the security practices of third-party libraries, frameworks, and services used in the application.  
+*Regularly review and update third-party components to mitigate potential risks. 
+
+==13.8 Risk Register==
+The risk register, which will be updated throughout the project, will include a detailed explanation of each risk, its likelihood and potential consequences, as well as any mitigation measures implemented. The risk register will be reviewed and updated on a regular basis to ensure that it accurately reflects the project's current state. The risk registry, which will be housed in a central location, will be accessible to all stakeholders.
+<br><br>
+This risk management strategy is generally consistent with the Agile methodology, emphasizing early and frequent risk discovery, collaborative risk management, and continual risk monitoring. Team Developmentality can mitigate the consequences of potential risks and increase the likelihood of project success by predicting and resolving them. Furthermore, using a cloud-based project management tool such as Jira, Asana, or Trello, the risk register for the Barangay South Signal Village Web App will be saved in a shared document. This tool will be used by the project team to manage and prioritize risks, allocate responsibilities, and monitor risk mitigation progress.
+<br><br>
+The following criteria will be used for the risk register: 
+
+*Risk ID - each risk will be assigned a unique identifier. 
+*Risk Description - there will be a clear and concise description of the risk event. 
+*Risk Category - will classify risks into technical, organizational, or legal categories. 
+*Risk Owner - will be responsible for monitoring and managing each risk. 
+*Probability - likelihood of a risk occurring is assessed using a scale of 1 to 5, with 1 
+*indicating the lowest likelihood and 5 indicating the highest. 
+*Impact - the risk's potential impact on the project is rated on a scale of 1 to 5, with 1 
+*indicating the least significant impact and 5 indicating the most significant impact. 
+*Risk Score - the probability and impact scores are multiplied to determine the overall risk. 
+*score. 
+*Mitigation Strategy - outlines the specific measures to be taken to mitigate the risk. 
+*Status -risk's current status, whether it is open, in progress, or closed, is also documented. 
+*Target Resolution Date - anticipated date for risk resolution to be resolved.
+
+
 </tbody>
 </table>
