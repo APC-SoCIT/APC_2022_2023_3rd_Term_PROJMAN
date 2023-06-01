@@ -789,6 +789,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 ==Roles and Responsibilities==
 <p> For the project to be completed successfully, a strong human resources management strategy is essential for any project. It describes the duties and responsibilities of each member of the project team, stakeholders, making sure that everyone is aware of their contributions and how they fit into the overall picture. </p>
 <p> The strategy also specifies the degree of authority and decision-making held by each team member, making sure that resources are distributed and used efficiently. By distinctly defining the strategy will ensure that the appropriate individuals are in the right positions based on their competencies and skill requirements to the appropriate roles to ensure project success. </p>
+
 <p> This plan acts as the success of the project roadmap for the project team to execute and deliver. </p>
 
 <table border="1" width="70%" align="center">
@@ -833,14 +834,43 @@ the project manager alongside the team and stakeholders. The project manager wil
      Knowledge of the company for precise information. </p></td>
  </tr>
 
- <td><p style="text-align:center;">Project Manager</p></td>
- <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve changes to 
-     project scope, schedule, and budget that has low change effect. </p></td>
- <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors 
-     the work of the team members. </p></td>
+ <tr>
+ <td><p style="text-align:center;">Project Team Leader (Internal User) </p></td>
+ <td><p style="text-align:center;">Leads the team members. Authority to call a meeting with the project manager 
+     and team members about the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
  <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
      Knowledge of the company for precise information. </p></td>
  </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Members (Internal Users) </p></td>
+ <td><p style="text-align:center;">Authority to help the project leader and project manager in deciding the 
+     plans on the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
+     to the objectives of the project. Ensures that the deliverables are complete within the given period. 
+     </p></td>
+ <td><p style="text-align:center;">Effective communication skills, project management skills, and cooperation.
+     Knowledge of the company needs, and information to complete deliverables. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Customers (External Users) </p></td>
+ <td><p style="text-align:center;">Test the project’s system. </p></td>
+ <td><p style="text-align:center;">Provides feedback on the project’s system. Communicates with the team to 
+     help improve the system. </p></td>
+ <td><p style="text-align:center;">Communication skills. Knowledge in using an online system. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Client (External User) </p></td>
+ <td><p style="text-align:center;">Company Owner that introduced the project and will test the system. </p> 
+ </td>
+ <td><p style="text-align:center;">Provides feedback on the deliverables and system. Communicates with the 
+     project sponsor, project stakeholder, and project manager for updates and progress.  </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and negotiation skills. </p></td>
+ </tr>
+
 </table>
 
 ==Project Organizational Charts==
