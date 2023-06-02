@@ -1674,8 +1674,7 @@ In Agile and Scrum methodology, the development process incorporates quality con
 * '''User Acceptance Testing (UAT):''' Representative end users will conduct UAT at the end of each sprint to validate the system's adherence to their needs and expectations. Feedback from users will guide necessary modifications.
 * '''Compatibility Testing:''' The Dispatch Directory System will undergo testing on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any challenges encountered in different environments.
 * '''Continuous Monitoring:''' Post-deployment, the project team will closely monitor system effectiveness, focusing on key performance indicators such as user satisfaction, response time, and system uptime. This data will inform system upgrades, issue identification, and bottleneck resolution.
-The following quality metrics will be utilized to monitor and evaluate system performance:<br/>
-**Defect Density: Number of defects identified per unit of measure (e.g., per KLOC).
+The following quality metrics will be utilized to monitor and evaluate system performance:<br/> **Defect Density: Number of defects identified per unit of measure (e.g., per KLOC).
 **Defect Severity: Classification of defects based on their impact on the system.
 **Test Coverage: Percentage of the system subjected to testing.
 **Test Case Pass Rate: Percentage of test cases successfully executed.
