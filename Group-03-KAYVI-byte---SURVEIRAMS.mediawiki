@@ -1390,7 +1390,7 @@ For SurveiRams to be implemented successfully, an effective human resource plan 
 
 The project manager and team members of SurveiRams may effectively manage the project by following this strategy, ensuring that roles are clearly defined, enabling open communication, and keeping an eye on performance to contribute to the project's overall success.
 
-==11.2 Introduction==
+==11.2 Roles and Responsibilities==
 The implementation of SurveiRams must have a clear human resources management plan. It clarifies and ensures alignment with the project objectives by outlining the precise duties and responsibilities of each member of the project team and stakeholder. This plan also establishes each team member's level of authority and decision-making ability, allowing for effective resource allocation and utilization. The plan ensures that individuals with the right expertise are assigned to their respective roles, contributing to the overall success of the project.
 
 The following table presents the key roles and their associated authorities, responsibilities, and competencies within the human resources management plan for SurveiRams:
@@ -1457,3 +1457,9 @@ The following table presents the key roles and their associated authorities, res
     </tr>
   </tbody>
 </table>
+
+==11.3 Project Organizational Charts==
+The project organizational chart of SurveiRams visually depicts the project team and the relationships between key stakeholders. At the top is the project sponsor, Mr. Jojo F. Castillo, who provides strategic direction and resources. The project manager, Ian Christopher Onrubia, oversees resources, scope, and schedule.
+
+Internal users, like the Development Team, contribute to system requirements and user testing. External users, ITRO and BMO, provide valuable feedback on usability and functionality. This chart clarifies roles and ensures alignment with SurveiRams' goals and objectives. 
+![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/0225ee65-1e0f-49bf-ba10-e09d7775e252)
