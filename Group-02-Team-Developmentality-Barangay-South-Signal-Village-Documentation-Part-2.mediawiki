@@ -465,6 +465,45 @@ The Documentation Manager is responsible for managing the project documentation 
 The Project Sponsor is responsible for providing input on the project's scope, including requirements and expectations. Also, responsible for accepting the project deliverables defined by the project's scope. It is important for the Project Manager to communicate regularly with Project Sponsor to ensure that the project remains aligned with their needs and expectations. 
 ==14.6 Project Team Directory==
 The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
+
+  <table border="1" width="70%" align="center">
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+      <th>Email</th>
+    </tr>
+    <tr>
+      <td>Project Manager</td>
+      <td>Mikedale Dellera</td>
+      <td>mbdellera@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Product Owner</td>
+      <td>Wilkins Caducio</td>
+      <td>wvcaducio@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Scrum Master</td>
+      <td>Jakerson Bermudo</td>
+      <td>jbbermudo@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Scrum team</td>
+      <td>Rark Mowen Alcantara</td>
+      <td>rlalcantara@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Carl James Garcia</td>
+      <td>cagarcia@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Documentation Manager</td>
+      <td>Princess Joy Ferrer</td>
+      <td>phferrer@student.apc.edu.ph</td>
+    </tr>
+  </table>
+
 ==14.7 Communication Method And Technologies==
 The Barangay South Signal Village Web App project requires a thorough understanding of the various communication methods and technologies that will be used to effectively communicate with all stakeholders. It is crucial to consider the capabilities and limitations of each communication method and technology to ensure timely and efficient information dissemination. This includes selecting appropriate methods for delivering project updates, progress reports, risks, issues, and other relevant information to stakeholders.
 <br>
