@@ -542,7 +542,87 @@ The Control Thresholds for this project is a CPI or SPI of less than 0.8 or grea
 == 8.7 Project Budget ==
 <img src="https://github.com/rth-rm/Nacor-Industries/blob/68585cc892c0e7ead2bc67cdfa4306ba3a70b240/Cost%20Management.png" alt="Image description" style="display:block; margin:0 auto;">
 
-      
+ = 9. Schedule Management Plan =
+== 9.1 Introduction ==
+The schedule management plan plays a vital role towards the accomplishment and documentation of each task so that the team may be able to work as efficiently as possible. By going through this section, readers can appreciate the approach of the team to finish their project from scratch along with their milestones done within the timeframe of the project and how the team was able to develop the software and thought process whilst developing the project. 
+== 9.2 Schedule Management Approach ==
+Throughout the project’s lifetime, the team is able to submit all deliverables needed. Each work that was assigned to each member has a specific deadline to help the team estimate how many resources will be needed to finish all the needed tasks before proceeding.  
+
+ 
+
+To create the project schedule, the team used software named ‘Project Libre’ to create a Gantt Chart. In this Gantt Chart, all the activities and deliverables are listed and recorded. In this way, it is much easier to monitor the project’s growth over time. 
+
+See reference below of the start and end date of deliverables for project schedule: 
+
+ <img src="https://github.com/rth-rm/Nacor-Industries/blob/f04ef2e48dcaf69710882a85dd8fe8f18fe063d3/MicrosoftTeams-image%20(4).png"display:block; margin:0 auto;">
+
+ <img src="https://github.com/rth-rm/Nacor-Industries/blob/f04ef2e48dcaf69710882a85dd8fe8f18fe063d3/MicrosoftTeams-image%20(3).png"display:block; margin:0 auto;">
+
+<img src="https://github.com/rth-rm/Nacor-Industries/blob/f04ef2e48dcaf69710882a85dd8fe8f18fe063d3/MicrosoftTeams-image%20(1).png"display:block; margin:0 auto;">
+
+<img src="https://github.com/rth-rm/Nacor-Industries/blob/f04ef2e48dcaf69710882a85dd8fe8f18fe063d3/MicrosoftTeams-image%20(2).png"display:block; margin:0 auto;">
+
+<table border="1" width="100%">
+    <thead>
+      <tr>
+        <th>Role</th>
+        <th>Responsibilities</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Project Adviser</td>
+        <td>
+          <ul>
+            <li>Responsible for guiding the team</li>
+            <li>Oversees that the changes and updates are aligned to the scope of work</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Project Leader</td>
+        <td>
+          <ul>
+            <li>Spearheads the project</li>
+            <li>Overlooks the documentation and software changes/updates</li>
+            <li>Approves the changes/updates made within the software and paper under his/her authority</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Product Owner</td>
+        <td>
+          <ul>
+            <li>Communicates with the project leader and project adviser for product vision</li>
+            <li>Responsible for making sure that the deliverables are on time and presentable</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Scrum Master</td>
+        <td>
+          <ul>
+            <li>Develops the project deliverables</li>
+            <li>Oversees that the methodology that is used is consistent</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Scrum Member</td>
+        <td>
+          <ul>
+            <li>Helps the scrum master on the deliverables</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+One of the benefits of finishing the activities first is that it may reveal changes that are overlooked and need immediate revisions. In this case, this may slow down the progression of the project. When this happens, the team needs to weigh which changes that can have a significant impact. If changes happen, the project adviser is consulted before implementing the changes. In the roles and responsibilities section, you can determine here the scope of work of the people who are assigned to the roles. 
+
+
+
+     
 = 10. Work Breakdown Structure = 
 == 10. 1 Introduction ==
 The Work Breakdown Structure presented here represents all the work required to complete this project.
