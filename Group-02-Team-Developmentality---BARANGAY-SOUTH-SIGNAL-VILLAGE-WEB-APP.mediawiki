@@ -1737,16 +1737,6 @@ The hierarchical structure makes it easy to see how the different components of 
 
 The Tabular View shows the WBS for the Barangay South Signal Village Web App project, organized in a table format with four main categories: Planning, Analysis and Design, Development, and Implementation, with a fifth category for project closeout. Each category is broken down into subcategories and tasks, making it easier to track project progress and ensure timely completion of tasks.
 
-
-
-==10.5 Tree Structure View==
-
-<img src="https://user-images.githubusercontent.com/110672519/235923804-b2c55355-5e4b-49a4-a4d2-40758aa46933.jpg" alt="Image description" style="display:block; margin:0 auto; width:30%;">
-
-==10.6 WBS Dictionary==
-
-The WBS Dictionary is a document that contains all the essential details of the Work Breakdown Structure (WBS) required to complete a project successfully. It includes a definition of each Work Package, which acts as a mini scope statement. The WBS Dictionary is an important reference for project resources to understand the scope of the Work Package assigned to them. Typically, the WBS Dictionary includes more information than what is shown in the sample, such as Level of Effort, Cost Control Numbers, Resource Assignments, Responsibility Assignments, and other relevant information.
-
 <table border="1" width="100%" align="center">
 <tbody>
 <tr>
@@ -1877,3 +1867,13 @@ The WBS Dictionary is a document that contains all the essential details of the 
 </tr>
 </tbody>
 </table>
+
+
+==10.5 Tree Structure View==
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/110672519/87265012-1ece-407a-9153-062fc925c561" alt="Image description" style="display:block; margin:0 auto; width:30%;">
+
+==10.6 WBS Dictionary==
+
+The WBS Dictionary is a document that contains all the essential details of the Work Breakdown Structure (WBS) required to complete a project successfully. It includes a definition of each Work Package, which acts as a mini scope statement. The WBS Dictionary is an important reference for project resources to understand the scope of the Work Package assigned to them. Typically, the WBS Dictionary includes more information than what is shown in the sample, such as Level of Effort, Cost Control Numbers, Resource Assignments, Responsibility Assignments, and other relevant information.
+
