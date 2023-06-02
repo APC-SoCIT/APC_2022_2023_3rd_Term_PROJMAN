@@ -656,11 +656,10 @@ The Work Breakdown Structure presented here represents all the work required to 
   <td>1.1.5</td>
   <td>Deliverable: Project Idea</td>
  </tr>
-
 </table>
 
 
-==HR Management Plan==
+==6.5 HR Management Plan==
 
 ==6.5.1 Introduction== 
 
@@ -676,4 +675,48 @@ To ensure that resources are distributed and used efficiently, the plan guarante
 
 Overall, the project team is guided toward effective project execution and delivery by the human resources management strategy, which serves as a road map.
 
+<table border="1" width="70%" align="left">
+ <tr>
+  <td> Role </td>
+  <td> Authority </td>
+  <td> Responsibility </td>
+  <td> Competency </td>
+ </tr>
+ <tr>
+  <td>Project Client</td>
+  <td>One that provides the ideas and asks for help for the project team to fulfill. the one who also approves the project’s business case and budget.
+able to assign project resources and give high-impact approval for modifications to the project's scope, timeline, and budget.
+</td>
+  <td>Ensures if the team is producing good results. Gives insights and advice to the team and project manager. 
+Assists in updating the company on the status and advantages of the project
+<td> strong capacity for strategic thought and leadership communication.
+Profound comprehension of the organization's mission, objectives, and values. Possibility of providing the initiative with resources and support.
+ </td>
+</td>
+ </tr>
+ <tr>
+  <td>Project Adviser</td>
+  <td>The Project Advisor is responsible for providing technical expertise and advice to the team to ensure the project’s products meet the client. Monitors the progress of the team, facilitates effective communication among the team members, and provide updates and insights. </td>
+  <td>Helps in the project planning and provides insights for each team member and their specific roles. Develops strategies for the team and guarantees that the quality of the project is good. </td>
+  <td>Provide guidance and supports the team. Possesses a deep understanding of the project and the things that are needed to do in the project. Has the planning and analytical skills to develop strategies and assess the project. </td>
+ </tr>
+ <tr>
+  <td>Project Manager</td>
+  <td>Handles the team and makes the decisions, can distribute project resources, and provide the go-ahead for low-impact adjustments to the project's scope, timetable, and budget.</td>
+  <td>Has the authority and the ability to oversee all the aspects of the project including its, planning, implementation, monitoring, and release.</td>
+  <td> Solid understanding of the project, leadership skills, communicating skills, and project management skills, risk management skills, team management and can learn continuously and develop their knowledge.</td>
+ </tr>
+ <tr>
+  <td>Internal Users of the system (Programmers)</td>
+  <td>Has access to the system and the power to improve and decode errors when necessary. </td>
+  <td>In charge of coding the software and UI/UX of the project and handles the system.</td>
+  <td>Has the technical expertise, background, talents, and experience necessary to build software solutions successfully. </td>
+ </tr>
+ <tr>
+  <td>External users of the system (Project Documentator)</td>
+  <td>Handles the paper and documents the process of the project from start to end.</td>
+  <td>In charge of the documentations and the deliverables of the project.</td>
+  <td>The ability to efficiently develop and manage project documentation is possessed by a documentation specialist, who possesses a range of abilities, expertise, traits, and skills.</td>
+ 
+</table>
 
