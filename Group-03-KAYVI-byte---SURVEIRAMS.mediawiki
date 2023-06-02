@@ -601,7 +601,8 @@ The project team will work collaboratively with stakeholders, using agile techni
 * The scope of the SurveiRams project will be defined using various documents such as a Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and a detailed Statement of Work (SOW), with regular reviews conducted throughout the project to ensure alignment with objectives and proper documentation of any changes. To measure and verify the scope, quality checklists will be developed, a scope baseline will be established, and work performance measurements will be used to track any progress. The Project Manager will submit a formal request for scope change, which the project sponsor will approve after evaluating it for alignment with the project goals, impacts on schedule and budget, and contribution to project success, ensuring only approved changes are made. 
 
 ==7.3 Roles and Responsibilities==
-<p>The project manager, sponsor and the project team will play an important role in analyzation and documentation the scope of the project. As such, the project sponsor, manager and the team must be assigned to their respective roles and knows the responsibilities to ensure that the person assigned is performing the work better than the expected throughout the entire duration of the project.</p>
+
+The following are the roles and responsibilities in managing the project's scope:  
 <table border="1" width="70%" align="center">
 		<tr>
 			<td bgcolor="lightblue">
@@ -645,41 +646,54 @@ The project team will work collaboratively with stakeholders, using agile techni
 		</tr>
 </table>
 
-<h2> Scope Definition </h2>
-<p>The scope definition process for the project "SurveiRams” was developed based on the requirements identified during the requirements definition process. The following documents were used as references: Requirements Documentation, Requirements Management Plan and a Requirements Traceability Matrix.</p>
-<p>To define the project's scope, we used the following tools and techniques: feedback analysis, product analysis, and facilitated interviews. The team utilized adviser judgment to assess the feasibility of the project and identify potential risks. Product analysis was conducted to determine the features and functions required by the new system. Facilitated interviews were also conducted with stakeholders to gather their inputs and ensure their requirements were considered.</p>
-<p>Based on the analysis and input gathered, the following deliverables were defined as part of the project scope:
-SurveiRams should include the following features:</p>
-<p><em> Ticketing Database </em></p>
-<p><em> Performance Evaluation</em></p>
-<p><em> Reporting and Analytics </em></p>
-<p><em> User Training and Support </em></p>
-<p>The scope definition process was tied back to the requirements definition process, ensuring that the project scope met all the identified requirements. Additionally, the Project Charter and Preliminary Project Scope Statement were also referred to during the scope definition process.</p>
+==7.4 Scope Definition==
 
-<h2> Project Scope Statement </h2>
-<ul>
-	<li>Product Scope Description</li>
-<ol>1.	Centralize where guards can log their reports in their patrols through a mobile application</ol>
-<ol>2.	Eliminate the manual processes for documenting </ol>
-<ol>3.	Provide analytics using the data collected in the application to help in decision-making
-</ol>
-	<li>Product Acceptance Criteria</li>
-<p>The project will be accepted as complete if:</p>
-<ol>1.	The user can create, read, and update reports and logs in the application.</ol>
-<ol>2.	An administrator can access an analytics dashboard with the following information:</pl>
-<ul>-	How many resolved and unresolved incident reports there are </ul>
-<ul>-	The department name and floor number that has the most incidents </ul>
-<ul>-	What incident occurred the most </ul>
-<ul>-	How many incidents happened per floor </ul>
-<ul>-	How many incidents happened per department </ul>
+The scope definition process for the project "SurveiRams” was developed based on the requirements identified during the requirements definition process. The following documents were used as references: Requirements Documentation, Requirements Management Plan and a Requirements Traceability Matrix. 
 
-    <li>The project team and client agreed upon on the requirements of the website to be at the prototype stage with the agreed modules implement to the website which are the automation and the sales report analytics as well as the common functionality of an E-Commerce Website which are Shopping Cart, User Authentication, and Order Item. Better Designs can be implemented in other iteration of the project.</li>
-    <li>This project does not include ongoing operations and maintenance cost of the website since the development team can benefit from the student development tools sponsored by their respective colleges.</li>
-    <li>Bank-to-Bank method of payment gateway the project team and client agreed to avoid the work since the module requires the project team to apply credit cards transaction.</li>
-    <li>The project is not to exceed 180 days in duration, on the days of development will only use development tools, Environment, and equipment available to us. Assumptions for this project are that support will be provided by the project client, adviser, and all department managers and that information, data, as well as adequate resources are available for the successful completion of this project.</li>
+To define the project's scope, we used the following tools and techniques: feedback analysis, product analysis, and facilitated interviews. The team utilized adviser judgment to assess the feasibility of the project and identify potential risks. Product analysis was conducted to determine the features and functions required by the new system. Facilitated interviews were also conducted with stakeholders to gather their inputs and ensure their requirements were considered. 
 
-</ul>
-<h2> Work Breakdown Structure </h2>
+Based on the analysis and input gathered, the following deliverables were defined as part of the project scope: 
+SurveiRams should include the following features: 
+
+*Ticketing database 
+
+*Performance evaluation 
+
+*Reporting and analytics 
+
+*User training and support 
+
+The scope definition process was tied back to the requirements definition process, ensuring that the project scope met all the identified requirements. Additionally, the Project Charter and Preliminary Project Scope Statement were also referred to during the scope definition process. 
+
+==7.5 Project Scope Statement ==
+
+* Product Scope Description
+# Centralize where guards can log their reports in their patrols through a mobile application
+# Eliminate the manual processes for documenting
+# Provide analytics using the data collected in the application to help in decision-making
+
+* Product Acceptance Criteria
+The project will be accepted as complete if:
+
+# The user can create, read, and update reports and logs in the application.
+# An administrator can access an analytics dashboard with the following information:
+** How many resolved and unresolved incident reports there are
+** The department name and floor number that has the most incidents
+** What incident occurred the most
+** How many incidents happened per floor
+** How many incidents happened per department
+
+* Project Deliverables – Detailed list of deliverables the project will result in 
+Upon the successful conclusion of the project, the subsequent deliverables will be provided: 
+# A fully operational system. 
+
+# User manuals and training materials. 
+
+# Technical documentation. 
+
+# Any other deliverables as outlined in the Project Scope Statement and agreed upon by the Project Sponsor. 
+
+== Work Breakdown Structure </h2>
 
 <h2> Scope Verification </h2>
 <p>
