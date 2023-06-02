@@ -627,6 +627,52 @@ The communication escalation process for a web application development project o
 #Escalation Process: First the team needs to Identify the issue then notify immediately the supervisor or project manager. After that, Document and track the issue and facilitate a resolution. Communicate the resolution to the team for them to be aware of the resolution and move forward with a clear understanding of the resolution’s impact.  
 #Continuous Improvement: Encourage Feedback and review the effectiveness of the communication escalation process periodically. Make necessary adjustments if needed to the process based on lessons learned. 
 ==14.13 Glossary Of Communication Terminology==
+  <table border="1" width="100%" align="center">
+    <tr>
+      <th>Term</th>
+      <th>Explanation</th>
+    </tr>
+    <tr>
+      <td>Communications Management Plan</td>
+      <td>A plan for how the people on the project team will talk to each other and share information.</td>
+    </tr>
+    <tr>
+      <td>Stakeholders</td>
+      <td>People or groups who are interested in or have something to do with the project.</td>
+    </tr>
+    <tr>
+      <td>Project Manager</td>
+      <td>The person in charge of running the project and making sure everyone involved is kept in the loop.</td>
+    </tr>
+    <tr>
+      <td>Communication Techniques</td>
+      <td>There are many ways to communicate well, such as in-person and online meetings, emails, phone calls, and websites for project management.</td>
+    </tr>
+    <tr>
+      <td>Project Status Updates</td>
+      <td>Stakeholders are kept up to date on the project's progress, goals, problems, and changes.</td>
+    </tr>
+    <tr>
+      <td>Communication Constraints</td>
+      <td>There are things that can get in the way of good communication, like the limits of technology, lack of time, limited access for stakeholders, and the need for privacy.</td>
+    </tr>
+    <tr>
+      <td>Stakeholder Communication Requirements</td>
+      <td>The unique communication needs of stakeholders, such as project updates, clear information, stakeholder participation, meeting deadlines, being honest, keeping information private, and resolving conflicts.</td>
+    </tr>
+    <tr>
+      <td>Communication Methods and Technologies</td>
+      <td>Communication routes and tools, like project management software, email, the phone, and video conferencing.</td>
+    </tr>
+    <tr>
+      <td>Meeting Guidelines</td>
+      <td>There are rules for how to run successful meetings, such as having an agenda, taking minutes, making sure everyone is there, planning, and encouraging open communication.</td>
+    </tr>
+    <tr>
+      <td>Confidentiality</td>
+      <td>Sharing private information only with people who need to know it and following rules about how to handle protected information.</td>
+    </tr>
+  </table>
 =15. PROCUREMENT MANAGEMENT PLAN=
 ==15.1 Introduction==
 The Procurement Management Plan for the South Signal Village Barangay Web App project aims to establish an effective framework for managing the procurement activities associated with the development and deployment of the web application. This plan outlines the approach and strategies that will be employed to identify, analyze, monitor, and mitigate procurement risks, as well as determine costs, consider procurement constraints, and establish a contract approval process.
