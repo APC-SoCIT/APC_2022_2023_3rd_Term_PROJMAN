@@ -904,50 +904,51 @@ The team will need to evaluate the impact of any change in project scope that is
 A Work Breakdown Structure (WBS) has been developed to help clarify the project's goals and scope. The project is divided into smaller, more manageable components called work packages by the WBS, each of which represents a specific task that must be completed to achieve the project's overall objectives. The WBS acts as a hierarchical structure that aids in establishing a project schedule, budget, and resource plan as well as assisting the project team in understanding the relationships between various work packages. It is an essential tool for managing and controlling the SurveiRams System project because it also aids in tracking progress and spotting potential risks and problems. 
 
 ==10.2 Outline View ==
-# SurveiRams Ticketing System
-## Initiation
-### Create Business Case
-### Conduct a Feasibility Study
-### Project Charter
-### Identify Stakeholder
-### Final Review
-## Develop Project Charter and Plan
-### Project Description
-### Business Need
-### Cost Management Plan
-### Schedule Management Plan
-### Scope Management Plan
-### Change Management Plan
-### Communications Management Plan
-### Risk Management Plan
-### Quality Management Plan
-### Procurement Management Plan
-### Human Resource Plan
-### Implementation Plan
-### Work Breakdown Structure
-### Consolidated Management Plan
-## Analysis
-### Project Risk Analysis
-### Cost Benefit Analysis
-## Design
-### Process Design
-### User Interface
-## Testing
-### System Test
-### User Acceptance Test
-### Unit and Integration Testing
-## Implementation
-### Define Key Variables
-### Determine Roles
-### Determine Responsibilities
-### Delegate the Work
-### Monitor Progress
-### Take Corrective Action
-## Close Project
-### Finalize Project Deliverables
-### Confirm Project Completion
-### Review all Contracts
-### Review Documentation
+:1. SurveiRams Ticketing System
+   ::1.1 Initiation
+      :::1.1.1 Create Business Case
+      :::1.1.2 Conduct a Feasibility Study
+      :::1.1.3 Project Charter
+      :::1.1.4 Identify Stakeholder
+      :::1.1.5 Final Review
+   ::1.2 Develop Project Charter and Plan
+      :::1.2.1 Project Description
+      :::1.2.2 Business Need
+      :::1.2.3 Cost Management Plan
+      :::1.2.4 Schedule Management Plan
+      :::1.2.5 Scope Management Plan
+      :::1.2.6 Change Management Plan
+      :::1.2.7 Communications Management Plan
+      :::1.2.8 Risk Management Plan
+      :::1.2.9 Quality Management Plan
+      :::1.2.10 Procurement Management Plan
+      :::1.2.11 Human Resource Plan
+      :::1.2.12 Implementation Plan
+      :::1.2.13 Work Breakdown Structure
+      :::1.2.14 Consolidated Management Plan
+   ::1.3 Analysis
+      :::1.3.1 Project Risk Analysis
+      :::1.3.2 Cost Benefit Analysis
+   ::1.4 Design
+      :::1.4.1 Process Design
+      :::1.4.2 User Interface
+   ::1.5 Testing
+      :::1.5.1 System Test
+      :::1.5.2 User Acceptance Test
+      :::1.5.3 Unit and Integration Testing
+   ::1.6 Implementation
+      :::1.6.1 Define Key Variables
+       :::1.6.2 Determine Roles
+       :::1.6.3 Determine Responsibilities
+       :::1.6.4 Delegate the Work
+       :::1.6.5 Monitor Progress
+       :::1.6.6 Take Corrective Action
+   ::1.7 Close Project
+      :::1.7.1 Finalize Project Deliverables
+      :::1.7.2 Confirm Project Completion
+      :::1.7.3 Review all Contracts
+      :::1.7.4 Review Documentation
+
 
 
 
