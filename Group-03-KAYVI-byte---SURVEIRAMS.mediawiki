@@ -2095,3 +2095,80 @@ To prevent misunderstandings, the team must maintain open communication with the
 Factors to be considered in determining the best communication methods and technologies for the SurveiRams system:   
 '''Stakeholder’s Preference'''
 :: Stakeholders may prefer to meet online or face-to-face. It really depends on what mode of communication they want. Either way, if they want to meet online, the team may set a meeting through Microsoft Teams.
+'''Type of Information'''
+:: The team may just send an email with the links of their documents for the stakeholders to consult with that does not require a meeting. 
+'''Budget and Resources Available'''
+:: The chosen method of communication should be aligned with the budget. 
+    
+Therefore, the SurveiRams System suggests using a combination of project management software, email, and video conferencing apps like Microsoft Teams to keep the stakeholders updated and achieve the project's goals.
+
+==14.8 Communications Matrix==
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Communication</strong></td>
+      <td><strong>Purpose</strong></td>
+      <td><strong>Medium</strong></td>
+      <td><strong>Frequency</strong></td>
+      <td><strong>Audience</strong></td>
+    </tr>
+    <tr>
+      <td>Project Planning</td>
+      <td>To establish a solid base and maintain the team's focus and progress</td>
+      <td>OpenProject, Meeting</td>
+      <td>Once Before the start of the project</td>
+      <td>Project Manager<br>Project Team<br>Project Sponsor</td>
+    </tr>
+    <tr>
+      <td>Release Planning</td>
+      <td>To manage dependencies</td>
+      <td>OpenProject, Meeting</td>
+      <td>Once every month</td>
+      <td>Project Manager<br>Project Team<br>Project Sponsor</td>
+    </tr>
+    <tr>
+      <td>Monthly Sprint Planning</td>
+      <td>To determine monthly goals</td>
+      <td>OpenProject, Meeting</td>
+      <td>Once before starting another feature</td>
+      <td>Project Manager<br>Project Team<br>Project Sponsor</td>
+    </tr>
+    <tr>
+      <td>Management Processes</td>
+      <td>To ensure there is coordination in the team</td>
+      <td>Email, OpenProject</td>
+      <td>Once every week</td>
+      <td>Project Manager<br>Project Team<br>Project Sponsor</td>
+    </tr>
+    <tr>
+      <td>Product Backlog</td>
+      <td>Inform stakeholders the tasks that have not been processed and need to be addressed</td>
+      <td>Email, Meeting</td>
+      <td>When necessary</td>
+      <td>Project Manager<br>Project Sponsor</td>
+    </tr>
+    <tr>
+      <td>Project Consultation</td>
+      <td>Enhance project by having stakeholder’s guidance and comments</td>
+      <td>Meeting</td>
+      <td>Once every week</td>
+      <td>Project Manager<br>Project Team<br>Project Sponsor</td>
+    </tr>
+    <tr>
+      <td>Project Update</td>
+      <td>Weekly update on the progress of the project</td>
+      <td>Email</td>
+      <td>Once every week</td>
+      <td>Project Manager<br>Project Team<br>Project Sponsor</td>
+    </tr>
+  </tbody>
+</table>
+==14.9 Communication Flowchart=
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/3372df55-4cee-4a0b-9e63-8fba201f87f3" alt="WBS" style="display:block; margin:0 auto;">
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/ebcd66c5-0ed5-46ee-b21a-ad51ffa70ee4" alt="WBS" style="display:block; margin:0 auto;">
+==14.10 Guidelines for Meetings=
+Meeting guidelines are a set of principles and recommendations that help ensure effective and productive meetings. These guidelines serve as a framework for conducting meetings in a structured and efficient manner, promoting collaboration, engagement, and positive outcomes. The SurveiRams project is no exception. To ensure that meetings are productive, efficient, and effective, it is important to establish clear guidelines for meetings. These guidelines should include information on the purpose of meetings, the roles and responsibilities of attendees, and the procedures that will be followed during meetings.    
+
+Having clearly outlined meeting guidelines enables project team members and stakeholders to come well-prepared and actively engage in discussions, enhancing their participation. Furthermore, it allows the project manager to maintain consistency and organization throughout meetings, preventing any potential confusion or misunderstandings.
+   
+The following guide is to help the project team to initiate a successful meeting:
