@@ -1598,28 +1598,62 @@ The approach will include the following steps:
 <table>
   <tbody>
     <tr>
-      <td>Set Quality Standards</td>
+      <td>'''Set Quality Standards'''</td>
       <td>The project manager will define quality standards based on Agile and Scrum methodology, with a focus on delivering value to the client.</td>
     </tr>
     <tr>
-      <td>Quality Planning</td>
+      <td>'''Quality Planning'''</td>
       <td>The team will work closely with stakeholders to identify the requirements of the project and prioritize the most important features. To make sure that each version of the project complies with the set standards, the team will create a Product Backlog.</td>
     </tr>
     <tr>
-      <td>Quality Control</td>
+      <td>'''Quality Control'''</td>
       <td>To identify issues or bugs, the team will conduct testing during each sprint to manage and control the quality of the project and meet its requirement or goal.</td>
     </tr>
     <tr>
-      <td>Quality Assurance</td>
+      <td>'''Quality Assurance'''</td>
       <td>To avoid problems during the project, preventive measures will be implemented through quality assurance. The team will implement proper testing procedures to ensure that the project follows the set standards.</td>
     </tr>
     <tr>
-      <td>Continuous Improvement</td>
+      <td>'''Continuous Improvement'''</td>
       <td>To ensure continuous functionality of the project, the team will regularly monitor and assess its performance. They will gather feedback from stakeholders, identify areas that require improvement, and make necessary adjustments to enhance the overall quality of the project.</td>
     </tr>
     <tr>
-      <td>Communication</td>
+      <td>'''Communication'''</td>
       <td>For the project to succeed, communication with the stakeholders is needed to give them awareness of the product’s status and have their feedback on it.</td>
     </tr>
   </tbody>
 </table>
+
+A risk management strategy will be created to detect and mitigate any potential quality issues that may arise throughout the course of the project. Overall, the SurveiRams system's quality management approach will prioritize using an Agile and Scrum methodology to provide a high-quality product that satisfies the intended client's criteria. To guarantee that the project meets or exceeds all quality requirements, the methodology will be adaptable and continually improved.
+
+==12.3 Quality Requirements / Standards==
+The team will work together to establish and record quality requirements and standards because the SurveiRams System places a high priority on them. Adherence to these standards will be ensured by client feedback, testing, and evaluations. The SurveiRams System project will adhere to the following criteria and quality standards:   
+  
+'''Requirements for Product Quality:'''
+* The SurveiRams System shall be fully functional and adhere to the technical specifications listed in the product backlog.
+* For ease of use by users, the interface should possess simplicity. 
+* The system must be compatible with the technology used by the institution.  
+* To protect the customer's personal data, the system will have a high level of data security. 
+
+'''Requirements for Ensuring Quality of Processes:'''   
+* The product owner and development team will evaluate and approve all project deliverables before they are handed to the client.
+* The development team will set up a continuous process of testing and quality assurance to ensure that the system complies with all technical specifications and guidelines.
+* To ensure that any system modifications are properly recorded, approved, and reviewed, the development team will employ a version control technology.
+* To identify and promptly address any quality issues, the development team will perform frequent sprint reviews.
+* The development team will follow a predetermined configuration management procedure to guarantee uniform system development, testing, and deployment.
+
+'''Compliance Demonstration:'''     
+* Before being delivered to the client, the SurveiRams System will go through extensive testing and evaluation to make sure it satisfies the necessary quality requirements.
+* The development team will keep thorough records of all testing and quality assurance procedures, which the client can request.
+* The customer will participate in a formal acceptance test to make sure the system satisfies their particular needs and expectations.
+* To guarantee that the system continually complies with the defined quality requirements in the long run, the development team will offer ongoing support and maintenance services.  
+
+'''Continual Improvement:'''
+The development team will set up a strategy for continuous improvement by routinely collecting and reviewing client feedback, monitoring system performance, and conducting internal audits to identify potential improvement opportunities. They will also create a procedure for identifying and addressing any non-conformities that may arise throughout the project. This comprises locating the non-conformity, figuring out why it exists, devising a solution, and then evaluating how well it worked. These procedures will be used in the project to ensure that the SurveiRams System actively adapts to meet shifting client needs while maintaining the required level of quality.
+
+==12.4 Quality Assurance==
+To ensure quality is achieved through collaboration and continuous improvement, the SurveiRams Ticketing System project will integrate the QA process into the Agile and Scrum methodology. The following steps will be taken:
+* '''Defining Quality Standards:''' The project team, in collaboration with stakeholders, will establish and document the quality standards in the Quality Management Plan. These standards will be effectively communicated to all stakeholders involved.
+* '''Agile Quality Auditing:''' Regular quality audits will be conducted by the project team using Agile practices such as peer reviews, test-driven development, and continuous integration. These practices will be utilized to verify compliance with the defined quality standards and to identify areas that require improvement.
+* '''Quality Metrics:''' The project team will employ quality metrics to monitor and report on the project's adherence to the defined quality standards.
+
