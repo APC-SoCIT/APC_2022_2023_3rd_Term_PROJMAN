@@ -579,15 +579,20 @@ The security personnel, Building Maintenance Office (BMO), and Information Techn
 ==7.1 Introduction==
 
 The scope management plan is a crucial component of the overall project management approach for the SurveiRams project. It outlines the tools and techniques that will be utilized to effectively document and control the scope of the project, ensuring that it remains within the defined boundaries and aligns with the project objectives. As an agile project, the scope management plan will be developed and executed in accordance with agile methodologies, which emphasize flexibility, collaboration, and iterative progress.
+
 The project team will work collaboratively with stakeholders, using agile techniques to prioritize and manage scope, identify and manage changes, and ensure that the project remains on track to deliver a successful SurveiRams system that meets the needs of all stakeholders.
-Scope Definition:  The scope of SurveiRams ticketing system will be defined through the following activities:
 
-1.	Project Charter: The project charter will provide a clear definition of the project's objectives, deliverables, stakeholders, and constraints, serving as a foundational document for scope management.
-2.	Product Backlog: The product backlog, a key artifact in agile methodologies, will be utilized to capture and prioritize all the features, functionalities, and requirements of the SurveiRams system. It will serve as a dynamic document that evolves throughout the project, reflecting changing priorities and stakeholder needs.
-3.	User Stories: User stories, a common practice in agile methodologies, will be used to further detail the requirements of the SurveiRams system in a user-centric manner. User stories will capture the "who," "what," and "why" of each requirement, supplying a clear understanding of the desired outcomes.
-4.	Scope statement: The scope statement involves clearly defining the boundaries and extent of the project. The scope statement will outline the specific features, functionalities, and requirements of the ticketing system, as well as any exclusions or limitations that will provide a high-level overview of the project scope.
-5.	Sprint Planning and Review Meetings: Sprint planning and review meetings, integral to agile methodologies, will be conducted to collaboratively define the scope of each sprint and review the completed work against the defined scope. This will ensure that the project team and stakeholders have a shared understanding of the scope at each stage of the project.
+# Scope Definition:  The scope of SurveiRams ticketing system will be defined through the following activities:
 
+# Project Charter: The project charter will provide a clear definition of the project's objectives, deliverables, stakeholders, and constraints, serving as a foundational document for scope management.
+
+# Product Backlog: The product backlog, a key artifact in agile methodologies, will be utilized to capture and prioritize all the features, functionalities, and requirements of the SurveiRams system. It will serve as a dynamic document that evolves throughout the project, reflecting changing priorities and stakeholder needs.
+
+# User Stories: User stories, a common practice in agile methodologies, will be used to further detail the requirements of the SurveiRams system in a user-centric manner. User stories will capture the "who," "what," and "why" of each requirement, supplying a clear understanding of the desired outcomes.
+
+# Scope statement: The scope statement involves clearly defining the boundaries and extent of the project. The scope statement will outline the specific features, functionalities, and requirements of the ticketing system, as well as any exclusions or limitations that will provide a high-level overview of the project scope.
+
+# Sprint Planning and Review Meetings: Sprint planning and review meetings, integral to agile methodologies, will be conducted to collaboratively define the scope of each sprint and review the completed work against the defined scope. This will ensure that the project team and stakeholders have a shared understanding of the scope at each stage of the project.
 
 ==7.2 Scope Management Approach==
 
