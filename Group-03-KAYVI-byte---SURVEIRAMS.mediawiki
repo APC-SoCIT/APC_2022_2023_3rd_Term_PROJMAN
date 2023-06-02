@@ -1542,14 +1542,19 @@ A quality management plan's tools include:
   <thead>
     <tr>
       <th>Definition of Done</th>
-      <th>A clear explanation of what makes a finished product increment.</th>
+      <td>A clear explanation of what makes a finished product increment.</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Acceptance Criteria</td>
-      <td>Criteria must be met for it to be approved by the project manager.</td>
-
+      <th>Acceptance Criteria</th>
+      <td>Criteria must be met for it to be approved by the project manager.</th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th>Continuous Integration</th>
+      <td>Regularly updates the code to make sure it is good for releasing.</th>
     </tr>
   </tbody>
 </table>
