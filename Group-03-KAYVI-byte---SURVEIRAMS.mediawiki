@@ -1657,12 +1657,12 @@ To ensure quality is achieved through collaboration and continuous improvement, 
 * '''Agile Quality Auditing:''' Regular quality audits will be conducted by the project team using Agile practices such as peer reviews, test-driven development, and continuous integration. These practices will be utilized to verify compliance with the defined quality standards and to identify areas that require improvement.
 * '''Quality Metrics:''' The project team will employ quality metrics to monitor and report on the project's adherence to the defined quality standards.
 To effectively monitor the quality process, the following metrics will be utilized: <br> 
-** Agile Metrics: Velocity, Burn-Down Charts, and Sprint Reviews
-** Defect Density: Number of defects found per unit of measure (e.g., per KLOC)
-** Defect Severity: Classification of defects based on their impact on the system
-** Test Coverage: Percentage of the system that has been tested
-** Test Case Pass Rate: Percentage of test cases that have been successfully passed
-** Root Cause Analysis Effectiveness: Percentage of issues resolved at the root cause level.
+**Agile Metrics: Velocity, Burn-Down Charts, and Sprint Reviews
+**Defect Density: Number of defects found per unit of measure (e.g., per KLOC)
+**Defect Severity: Classification of defects based on their impact on the system
+**Test Coverage: Percentage of the system that has been tested
+**Test Case Pass Rate: Percentage of test cases that have been successfully passed
+**Root Cause Analysis Effectiveness: Percentage of issues resolved at the root cause level.
 * '''Continuous Improvement:''' The project team will leverage feedback received from quality audits and metrics to drive continuous improvement in both the product and the quality process. Opportunities for enhancement will be identified in collaboration with stakeholders, and appropriate changes will be implemented.
 * '''Compliance with Industry Standards:''' The project team will ensure adherence to relevant industry standards, including accessibility, security, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
 * '''Reviewing Customer Feedback:''' Regular reviews of customer feedback will be conducted to identify any issues or areas requiring improvement. This feedback will play a crucial role in informing the continuous improvement efforts and ensuring that the product aligns with customer needs and expectations.
@@ -1676,14 +1676,13 @@ In Agile and Scrum methodology, the development process incorporates quality con
 * '''Compatibility Testing:''' The Dispatch Directory System will undergo testing on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any challenges encountered in different environments.
 * '''Continuous Monitoring:''' Post-deployment, the project team will closely monitor system effectiveness, focusing on key performance indicators such as user satisfaction, response time, and system uptime. This data will inform system upgrades, issue identification, and bottleneck resolution.
 The following quality metrics will be utilized to monitor and evaluate system performance: 
-
-** Defect Density: Number of defects identified per unit of measure (e.g., per KLOC).
-** Defect Severity: Classification of defects based on their impact on the system.
-** Test Coverage: Percentage of the system subjected to testing.
-** Test Case Pass Rate: Percentage of test cases successfully executed.
-** User Happiness: Measured through surveys and user feedback.
-** Response Time: Duration for the system to respond to user requests.
-** System Uptime: Percentage of time the system is available and functioning as expected.
+**Defect Density: Number of defects identified per unit of measure (e.g., per KLOC).
+**Defect Severity: Classification of defects based on their impact on the system.
+**Test Coverage: Percentage of the system subjected to testing.
+**Test Case Pass Rate: Percentage of test cases successfully executed.
+**User Happiness: Measured through surveys and user feedback.
+**Response Time: Duration for the system to respond to user requests.
+**System Uptime: Percentage of time the system is available and functioning as expected.
 * '''Monitoring and Documenting Quality Assessments:''' The project team will diligently track and record the results of the Quality Control process, enabling ongoing monitoring of the project's advancement and the impact of any corrective measures implemented. Thorough documentation will provide valuable insights into the project's quality status.
 * '''Continuous Improvement:''' The Quality Control process will undergo regular reviews to identify areas for enhancement and embrace opportunities for improvement. The project team will proactively seek out avenues to refine the process and swiftly incorporate necessary adjustments. This commitment to continuous improvement ensures that the Quality Control process remains adaptable to evolving requirements and industry best practices. 
 
