@@ -667,13 +667,15 @@ The scope definition process was tied back to the requirements definition proces
 
 ==7.5 Project Scope Statement ==
 
-* Product Scope Description
+===7.5.1 Product Scope Description===
+
 # Centralize where guards can log their reports in their patrols through a mobile application
 # Eliminate the manual processes for documenting
 # Provide analytics using the data collected in the application to help in decision-making
 
 
-* Product Acceptance Criteria
+===7.5.2 Product Acceptance Criteria===
+
 The project will be accepted as complete if:
 
 # The user can create, read, and update reports and logs in the application.
@@ -684,8 +686,8 @@ The project will be accepted as complete if:
 :* How many incidents happened per floor
 :* How many incidents happened per department
 
+===7.5.3 Project Deliverables===
 
-* Project Deliverables – Detailed list of deliverables the project will result in 
 Upon the successful conclusion of the project, the subsequent deliverables will be provided: 
 # A fully operational system. 
 
@@ -695,7 +697,42 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 
 # Any other deliverables as outlined in the Project Scope Statement and agreed upon by the Project Sponsor. 
 
-== Work Breakdown Structure </h2>
+===7.5.4 Project Exclusions===
+
+# Data Collection: This project does not include data collection from other sources or 	systems other than what is inputted by the user. 
+
+# Automated Entry: This project does not include automated entry for the reports, all 	reports must be done or reported manually using the application. The user will be 	responsible for the creation of reports. 
+
+# Machine Learning: This project will not involve the development or implementation 	of any machine learning algorithms. The focus will be to manage the reports from 	students and to lessen the use of paper by using a dedicated application for the reports. 
+
+===7.5.5 Project Constraints===
+
+# The project will only be limited to the use of security personnel, ITRO, and BMO. 
+
+# The system is specifically designed for the use of the institution's security personnel and the building maintenance office. 
+
+# The project is not intended to be used for purposes other than processes regarding       patrolling, post logs, and incident reports. 
+
+# Going paperless can result in cost savings and increased productivity, but the cost of paper can be substantial. 
+
+# The trend toward a paperless environment accelerates each year, but additional upgrades or replacements of expensive office equipment may still be necessary. 
+
+===7.5.6 Project Assumptions===
+
+# This project is fully supported by the project sponsor, stakeholders, and all departments involved. This means the approvals or permissions for the project will be obtained in a timely manner. 
+
+# The developers of SurveiRams have the necessary technical skills and experience to carry out the project. The development tools and testing environment are available and provided by Asia Pacific College. 
+
+# The build for this system is only accessible within the APC network. 
+
+# Throughout the course of the project, there will be no changes to either the budget or the project timeline. 
+
+# Asia Pacific College possesses the necessary conditions to facilitate system implementation, sustain maintenance efforts, and provide comprehensive support for project development. 
+
+==7.6 Work Breakdown Structure==
+
+The Work Breakdown Structure (WBS) and Work Breakdown Structure Dictionary are key elements to effective scope management.  This section should discuss how the project scope is to be subdivided into smaller deliverables in the WBS and WBS Dictionary and how these smaller components are managed during the life of the project.   
+
 
 <h2> Scope Verification </h2>
 <p>
