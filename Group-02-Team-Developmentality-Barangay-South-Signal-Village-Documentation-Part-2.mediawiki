@@ -156,6 +156,7 @@ To ensure that the risks are properly mitigated, the team conducted thorough tes
 
 ==13.5 Risk Qualification And Prioritization==
 The potential risks identified for the Barangay South Signal Village Web Application project will now be qualitatively assessed and prioritized based on their probability and impact. This process will allow the project manager to determine the critical risks that require immediate attention and develop appropriate mitigation strategies. The risk qualification and prioritization for each identified risk are as follows:
+
 <br> 
 
 <table border="1" width="70%" align="center">
@@ -271,8 +272,8 @@ The potential risks identified for the Barangay South Signal Village Web Applica
       <td>Medium</td>
     </tr>
   </table>
-
 <br>
+
 Based on the risk qualification and prioritization, the high-priority risks are scope creep and security vulnerability. These risks require immediate attention and dedicated mitigation efforts to minimize their potential impact on the project. The medium-priority risks, human error, and lack of resources should also be addressed, but with a lower intensity of resources and attention.
 ==13.6 Risk  Monitoring==
 The Risk Monitoring approach provides active management of risks throughout the project, it is important to maintain continuous monitoring throughout the project's life cycle and comprehensively record the process, including identifying conditions for risks. 
