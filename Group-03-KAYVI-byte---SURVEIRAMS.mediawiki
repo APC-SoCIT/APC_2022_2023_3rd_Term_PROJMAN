@@ -1384,8 +1384,76 @@ This is a hierarchical structure outlining the various stages involved in the Su
 | The Estimated Duration in WBS refers to the amount of time that is expected to be required for completing a particular task or activity.
 |}
 
-=11. HUMAN RESOURCES MANAGEMENT PLAN=
+=11. HR MANAGEMENT PLAN=
 ==11.1 Introduction==
 For SurveiRams to be implemented successfully, an effective human resource plan is required. This plan acts as a guide for organizing and leading the project team, making sure that people who are qualified for the jobs are assigned to them at the right moments. It includes creating effective communication channels, defining roles, and putting performance management methods into practice. 
 
 The project manager and team members of SurveiRams may effectively manage the project by following this strategy, ensuring that roles are clearly defined, enabling open communication, and keeping an eye on performance to contribute to the project's overall success.
+
+==11.2 Introduction==
+The implementation of SurveiRams must have a clear human resources management plan. It clarifies and ensures alignment with the project objectives by outlining the precise duties and responsibilities of each member of the project team and stakeholder. This plan also establishes each team member's level of authority and decision-making ability, allowing for effective resource allocation and utilization. The plan ensures that individuals with the right expertise are assigned to their respective roles, contributing to the overall success of the project.
+
+The following table presents the key roles and their associated authorities, responsibilities, and competencies within the human resources management plan for SurveiRams:
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Role</th>
+      <th>Authority</th>
+      <th>Responsibility</th>
+      <th>Competency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mr. Jojo F. Castillo</td>
+      <td>Project Sponsor</td>
+      <td>Approves the project's business case and budget, provides strategic direction & resources.</td>
+      <td>Ensures that the project is aligned with the organization's strategic goals and objectives, and that it delivers the expected benefits and value.</td>
+      <td>Strong leadership and strategic thinking skills, ability to communicate effectively with a wide range of stakeholders, deep understanding of the organization's mission, goals, and values, and ability to secure resources and support for the project.</td>
+    </tr>
+    <tr>
+      <td>Ian Christopher Onrubia</td>
+      <td>Project Manager</td>
+      <td>Full decision-making authority on the project, allocate project resources and approve changes to project scope, schedule, and budget that have a low impact.</td>
+      <td>Oversees the entire project, including project planning, execution, monitoring, control, and closeout, ensures project objectives are met on time, within budget, and to the required quality standards.</td>
+      <td>Strong leadership, communication, and project management skills, experience in managing complex projects.</td>
+    </tr>
+    <tr>
+      <td>Alexis Martin</td>
+      <td>Project Team Leader</td>
+      <td>Has authority over the project team assigned to them.</td>
+      <td>Provide leadership and guidance to the project team, evaluate the change request log and reports to ensure consistency with the implemented changes, assist in supervising the overall change request process.</td>
+      <td>Ensure proper documentation and reporting of project progress and outcomes, strong leadership and management skills, ability to motivate and inspire team members, problem-solving and decision-making skills.</td>
+    </tr>
+    <tr>
+      <td>Security Guard</td>
+      <td>Internal User of the System</td>
+      <td>Utilizes the system as designed to complete work activities.</td>
+      <td>Completes work activities using the system as designed, ensures data accuracy and completeness, reports system issues and problems to the project team, provides feedback on system usability, functionality, and performance.</td>
+      <td>Understanding of the work processes and activities for which the system is being used, knowledge of the data and information required to complete assigned work activities, Basic computer skills, including proficiency in the use of the system.</td>
+    </tr>
+    <tr>
+      <td>ITRO</td>
+      <td>External User of the System</td>
+      <td>Accesses and uses the system to receive and respond to service requests, updates service request statuses.</td>
+      <td>Reviews and responds to service requests in a timely manner, maintains accurate and up-to-date information on service request statuses, diagnoses and troubleshoots technical issues.</td>
+      <td>Understanding of the importance of maintaining accurate and up-to-date information in the system, ability to diagnose and troubleshoot technical issues.</td>
+    </tr>
+    <tr>
+      <td>BMO</td>
+      <td>External User of the System</td>
+      <td>Accesses and uses the system to review, approve, or reject service requests, assigns service requests to internal or external technicians, monitors and reports on service request status and completion.</td>
+      <td>Reviews service requests and approves, or rejects based on organizational policies and priorities, assigns service requests to internal or external technicians based on skill and availability, monitors and reports on service request status and completion to internal stakeholders and customers.</td>
+      <td>Knowledge of the organization's policies and priorities related to service requests, ability to assign and prioritize work assignments based on technician skill and availability, Understanding of the importance of accurate and timely reporting on service request status and completion.</td>
+    </tr>
+    <tr>
+      <td>Development Team</td>
+      <td>Developer</td>
+      <td>Responsible for developing and designing the program, making decisions related to the technical aspects of the project, and ensuring that it aligns with organizational goals.</td>
+      <td>Write, test, and debug software code based on project requirements and specifications.</td>
+      <td>Collaborate with other team members to design and develop software solutions, strong programming skills in the relevant programming languages and technologies.</td>
+    </tr>
+  </tbody>
+</table>
