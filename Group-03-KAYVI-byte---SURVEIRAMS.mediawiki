@@ -1687,7 +1687,13 @@ The following quality metrics will be utilized to monitor and evaluate system pe
 
 <br> In conclusion, the SurveiRams Ticketing System project's Quality Control process will be deeply integrated into the development cycle, encompassing continuous testing, user feedback, and performance monitoring. The project team will vigilantly evaluate and maintain product quality, ensuring alignment with established standards and customer expectations.
 
-==12.5 Quality Control Measurements==
+==12.6 Quality Control Measurements==
 The SurveiRams Ticketing System project will leverage Agile and Scrum methodologies to foster continuous inspection and adaptation throughout its lifecycle, promoting a transparent and collaborative approach to quality control. Quality control measures will be implemented at each stage of the development process and documented on a shared, accessible platform, replacing static spreadsheets or tables.
 
 The platform will include essential details such as the measurement date, type of measurement (e.g., automated testing, code review, peer review, user story acceptance), measurement findings (pass/fail, number of discovered flaws, code coverage percentage), comparison with requirements and standards, team member responsible for measurement, team member assessing the results, corrective actions taken, completion date of remedial measures, and team member responsible for their implementation.
+
+Real-time dashboards and visual tools will be utilized to track quality control metrics, enabling all team members to access and understand the data easily. These dashboards will highlight patterns and areas of concern, facilitating prompt action and necessary adjustments.
+
+Regular team reviews, including sprint reviews and retrospectives, will entail the review of quality control metrics and allow for adjustments to the process as needed. Collaboratively, the team will identify potential areas for improvement and implement necessary changes.
+
+In summary, the SurveiRams Ticketing System project will adopt Agile and Scrum methodologies to establish a collaborative and dynamic quality control strategy. Continuous assessment of the product's quality will be performed, with regular improvements implemented. All quality control measurements will be collected and tracked on a shared platform in real-time. The team will collaborate to address any issues and drive necessary enhancements.
