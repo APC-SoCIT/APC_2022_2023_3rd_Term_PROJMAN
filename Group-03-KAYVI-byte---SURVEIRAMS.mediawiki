@@ -1997,3 +1997,95 @@ The stakeholder communication requirements for the Dispatch Directory System pro
     </tr>
   </tbody>
 </table>
+
+==14.5 Roles==
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Roles</strong></td>
+      <td><strong>Responsibilities</strong></td>
+    </tr>
+    <tr>
+      <td>Project Sponsor</td>
+      <td>A high-level executive who provides financial resources and strategic direction for the project.</td>
+    </tr>
+    <tr>
+      <td>Program Manager</td>
+      <td>A person responsible for overseeing the SurveiRams System and ensuring that it aligns with the organization's overall goals and objectives. The program manager might oversee multiple related projects within the organization.</td>
+    </tr>
+    <tr>
+      <td>Key Stakeholders</td>
+      <td>Individuals or groups who have a vested interest in the SurveiRams System, such as the ITRO, BMO, and Security Personnel who rely on the system for their daily operations.</td>
+    </tr>
+    <tr>
+      <td>Project Manager</td>
+      <td>The person responsible for planning, executing, and closing the SurveiRams System. The project manager leads the project team and ensures that the system is completed on time, within budget, and to the required quality standards.</td>
+    </tr>
+    <tr>
+      <td>Development Team</td>
+      <td>A person responsible for the technical aspects of the SurveiRams System, such as the system architecture, database design, and software development. The team ensures that the system meets the required technical specifications and standards, and that it is scalable, secure, and reliable.</td>
+    </tr>
+  </tbody>
+</table>
+==14.6 Project Team Directory==
+The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.   
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Name</strong></td>
+      <td><strong>Position</strong></td>
+      <td><strong>Internal, External</strong></td>
+      <td><strong>Project Role</strong></td>
+      <td><strong>Contact Information</strong></td>
+    </tr>
+    <tr>
+      <td>Jose Manuel Garcia</td>
+      <td>Campus Architect</td>
+      <td>Internal</td>
+      <td>Project Sponsor</td>
+      <td>manoletg@apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Jojo Castillo</td>
+      <td>ITRO Head</td>
+      <td>Internal</td>
+      <td>Project Sponsor</td>
+      <td>jojoc@apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Ian Christopher Onrubia</td>
+      <td>Project Manager</td>
+      <td>Internal</td>
+      <td>Project Manager</td>
+      <td>iconrubia@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Jan Karlo Boongaling</td>
+      <td>Documentation Specialist</td>
+      <td>Internal</td>
+      <td>Documentation Team</td>
+      <td>jmboongaling@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Alexis Martin</td>
+      <td>Quasar Front-end Developer</td>
+      <td>Internal</td>
+      <td>Development Team</td>
+      <td>atmartin@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Vladimir Ken Perez</td>
+      <td>Back-end Developer</td>
+      <td>Internal</td>
+      <td>Development Team</td>
+      <td>viperez@student.apc.edu.ph</td>
+    </tr>
+    <tr>
+      <td>Yuan Alexandrei Serafico</td>
+      <td>Software Tester</td>
+      <td>Internal</td>
+      <td>Documentation Team</td>
+      <td>yaserafico@student.apc.edu.ph</td>
+    </tr>
+  </tbody>
+</table>
