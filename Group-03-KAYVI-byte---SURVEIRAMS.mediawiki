@@ -1475,3 +1475,50 @@ The Staffing Management Plan for SurveiRams is a crucial aspect of ensuring the 
 It is important to note that additional considerations may be included in the staffing management plan depending on the project's scope. Factors such as government and regulatory compliance, organizational health, and safety may be addressed, depending on industry-specific requirements and location. For instance, if SurveiRams deals with sensitive data, compliance with data privacy and security regulations becomes essential. Additionally, if the project involves equipment or technology posing potential risks, organizational health and safety measures should be incorporated.
    
 Regular review and updates of the Staffing Management Plan will ensure its alignment with the project's objectives and requirements. The project manager should conduct a comprehensive analysis of the project's specific needs and regulations to determine if any additional components should be included in the staffing management plan.
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Project Responsibility</th>
+      <th>Skills Required</th>
+      <th>Number of Staff</th>
+      <th>Performance Reviews</th>
+      <th>Recognition and Rewards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project Manager</td>
+      <td>Responsible for effectively planning, executing, and closing projects, Coordinate with stakeholders and team members.</td>
+      <td>Leadership, Communication, Problem-solving, Time management, technical skills (dependent on project scope/complexity)</td>
+      <td>Depends on project scope and complexity</td>
+      <td>Conduct regular performance reviews, provide feedback, address issues</td>
+      <td>The project manager will implement recognition and rewards system to motivate team members and encourage high performance</td>
+    </tr>
+    <tr>
+      <td>Project Team Leader</td>
+      <td>Leads the project team and ensures timely, budget-compliant, and high-quality project delivery.</td>
+      <td>Leadership, Communication, Planning and organizing, Risk management, Budget, Technical skills related to the project</td>
+      <td>Depends on project scope and complexity</td>
+      <td>The project leader will work with team members to set performance goals, track progress throughout the project.</td>
+      <td>The project leader will implement recognition and rewards system to motivate team members and encourage high performance.</td>
+    </tr>
+    <tr>
+      <td>Project Team Member</td>
+      <td>Collaborates with team members to achieve project goals, Complete tasks assigned by the project leader or manager, demonstrate efficient time management skills while working diligently to guarantee that tasks are accomplished within budgetary and planned timelines for the successful completion of the project.</td>
+      <td>Technical skills, Communication, Collaboration, Problem-solving</td>
+      <td>Depends on project scope and complexity</td>
+      <td>Performance reviews frequency/format determined by project needs and company policies</td>
+      <td>The project leader or manager will implement a recognition and reward system to motivate team members and encourage high performance.</td>
+    </tr>
+    <tr>
+      <td>Executive Sponsor</td>
+      <td>Provides strategic direction, leadership, and resource allocation for the project, Ensuring the project is aligned with the organization's goals and vision, following up on project developments and giving the project team direction and assistance.</td>
+      <td>Leadership, Strategic thinking, Communication, Decision-making, Risk management</td>
+      <td>A senior executive or board of directors’ member often serves as the executive sponsor. May have the assistance of project management office or other support personnel.</td>
+      <td>May conduct performance reviews, receive project updates, and progress reports. They may also receive updates and progress reports from the project leader or manager.</td>
+      <td>The executive sponsor may conduct performance reviews, receive project updates, and progress reports. They might also offer chances for career advancement and growth for the project team both for the project manager or leader and the team members.</td>
+    </tr>
+  </tbody>
+</table>
