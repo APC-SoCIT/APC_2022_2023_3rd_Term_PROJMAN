@@ -1037,6 +1037,18 @@ To be specific, here are the possible risks that are identified for the RAMs Cor
 
 To mitigate these aforementioned risks, the team developed a contingency plan that will allow the ITRO to address these issues in a considerable amount of time. Training before deployment is also a necessary step to familiarize the staff with how they are going to navigate the system. A regular reporting of the progress in risk mitigation will also be held in one-week sprints so that the system can remain up to date to the growing risk potentials and the possible ways to minimize it. 
 
+==Risk Assessment==
+After Identifying the risk for the ITRO Ticketing Service System, we are able to categorize them based on how likely these risks will occur, and how much are its impact both on the ITRO and their client. We have come-up with an impact-probability matrix that can help in prioritizing which type of risk needs a focused mitigation strategy.
 
+In the matrix, the probability of risk occurring, and its impact is described as below:
+*Extreme: these are the risks that pose highest level with highly likely to occur and has catastrophic impacts for the ITRO.
+*High: these are the risks that pose substantial risk that can lead to disastrous outcomes.
+*Medium: these are the risks that has a moderate likelihood of occurrence and can result to negative impacts within the ITRO
+*Low: these are the risks that has a lower likelihood of occurrence, but there is still noticeable impact to the ITRO
+*Negligible: these are the risks that are not likely to occur and have insignificant impact on the ITRO if it were to happen.
+
+The table below depicts the matrix of impact-probability of the risk identified:
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/risk%20assessment.png" alt="Image description" style="display:block; margin:0 auto;">
 
 
