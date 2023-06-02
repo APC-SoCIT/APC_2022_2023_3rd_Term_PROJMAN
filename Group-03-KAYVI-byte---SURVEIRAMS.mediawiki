@@ -1731,3 +1731,36 @@ To further develop a risk management plan for the SurveiRams System, the followi
     </tr>
   </tbody>
 </table>
+By considering these additional factors in a risk management plan, the SurveiRams System project team can ensure that the project is completed successfully, meeting all objectives while minimizing potential risks.   
+
+==13.2 Top Three Risks==
+Every project has risks whether foreseen or not. However, in the situation of the SurveiRams project, the three biggest foreseen risks are the following:
+# '''Technical Risks'' – Risks that are brought by evolving technology, such as failure from either or both software and hardware and cyberattacks resulting in data loss and/or security breaches.
+# '''Insufficient Resources''' – Risks that are brought by the lack of project resources such as exceeding the project timeline or going over budget, which may delay the completion.
+# '''Human Error''' – Risks that are brought by the unavoidable mistakes made by humans involved in the project such as the project team, stakeholders, and personnel.
+
+==13.3 Risk Management Approach==
+Agile risk management values lean thinking and efficient communication. This means that for the SurveiRams risk management strategy, the focus will be data gathering and analysis before deciding on a course of action. Stakeholders, sponsors, and the project team must cooperate with each other for the risk management approach.
+   
+Specifically, these are the steps to be followed:   
+* '''Risk Identification:''' Meetings will be held to discuss relevant risks encountered based from experience in other projects, and a Risk Register will be put together.
+* '''Risk Assessment:''' A Risk Assessment Matrix will be constructed to rank the risks discussed based on the probability of its occurrence as well as the gravity of its impact on the project.
+* '''Risk Mitigation:''' Mitigation plans will be made for the risks that have a high probability and extreme gravity, which include how to prevent them and minimize their impact. 
+* '''Risk Monitoring:''' There might be unforeseen risks that could arise. To be ready to minimize or eliminate them, there will be a bi-monthly examination of the Risk Register, as well as another round of brainstorming for possible risks that haven’t been discussed. New risks discovered will be added to the Risk Register.
+* '''Risk Communication:''' All stakeholders must regularly keep contact to be informed about the occurrences of risks and how they are handled. They must also be updated regarding changes in the risk management plan and process.
+
+==13.4 Risk Identification==
+After a thorough discussion with the project team, risks to SurveiRams were identified. The team organized these risks into the following categories:
+* '''Technical:''' Risks related to technology 
+* '''Cost:''' Risks related to the project budget
+* '''Schedule:''' Risks related to the project timeline
+* '''Communication:''' Risks related to communication among all stakeholders
+* '''Skills Resource:''' Risks related to the project team’s skills and expertise
+* '''Strategic:''' Risks related to the project team’s approach in accomplishing the project
+* '''External Hazard:''' Risks related to nature, society, and the government
+
+These are all the possible types of risks that could affect the project. Updates will be made in the event that another type is discovered. Specific risks under these categories will be discussed in the Risk Register below.
+
+==13.5 Risk Qualification and Prioritization== 
+A Risk Assessment Matrix based on probability and impact was created to aid in ranking the risks in the Risk Register.
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/7ee3c489-4c79-41f5-87e2-3884eb0ca07b" alt="Image description" style="display:block; margin:0 auto; width:30%;">
