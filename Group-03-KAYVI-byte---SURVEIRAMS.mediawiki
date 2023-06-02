@@ -949,605 +949,235 @@ A Work Breakdown Structure (WBS) has been developed to help clarify the project'
 :::1.7.3 Review all Contracts
 :::1.7.4 Review Documentation
 
+==10.3 Hierarchical Structure==
 
+This is a hierarchical structure outlining the various stages involved in the SurveiRams System, a project management system that aims to manage violations and track progress of related projects. The structure starts with the initiation stage, which involves creating a business case and conducting a feasibility study, followed by the development of a project charter and plan, analysis, design, testing, implementation, and finally, the close of the project. Each stage is further broken down into sub-stages, which provide detailed information on the specific tasks and responsibilities that need to be carried out to achieve the overall goal of the project. This structure is designed to ensure that the project is completed efficiently, effectively, and within the specified timeline and budget.
 
-
-<h2>WBS Dictionary</h2>
-<table width="780" border="1" align="center">
-		<tr>
-			<td width="141" bgcolor="lightblue">
-				<p>Level</p>
-			</td>
-			<td width="64" bgcolor="lightblue">
-				<p>WBS Code</p>
-			</td>
-			<td width="228" bgcolor="lightblue">
-				<p>Element Name</p>
-			</td>
-			<td width="348" bgcolor="lightblue">
-				<p>Definition</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>1</p>
-			</td>
-			<td width="64">
-				<p>1</p>
-			</td>
-			<td width="228">
-				<p>SurveiRams Ticketing System</p>
-				<p> </p>
-			</td>
-			<td width="348">
-				<p>KAYVI byte</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>2</p>
-			</td>
-			<td width="64">
-				<p>1.1</p>
-			</td>
-			<td width="228">
-				<p>Initiation</p>
-			</td>
-			<td width="348">
-				<p>The Team will work to initiate the project.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p> </p>
-			</td>
-			<td width="64">
-				<p>1.1.1</p>
-			</td>
-			<td width="228">
-				<p>Determine Project Team</p>
-			</td>
-			<td width="348">
-				<p>The Project Manager determines the project team and requests the resources.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p> </p>
-			</td>
-			<td width="64">
-				<p>1.1.2</p>
-			</td>
-			<td width="228">
-				<p>Develop Project Charter</p>
-				<p> </p>
-			</td>
-			<td width="348">
-				<p>The Project Team will come-up a project charter.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p> </p>
-			</td>
-			<td width="64">
-				<p>1.1.3</p>
-			</td>
-			<td width="228">
-				<p><em>Deliverable:</em> Submit Project Charter</p>
-			</td>
-			<td width="348">
-				<p>The Project Manager will deliver the project charter to the Project Sponsor.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p> </p>
-			</td>
-			<td width="64">
-				<p>1.1.4</p>
-			</td>
-			<td width="228">
-				<p>Project Sponsor Reviews Project Charter</p>
-			</td>
-			<td width="348">
-				<p>The Project sponsor will review the Project Charter.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p> </p>
-			</td>
-			<td width="64">
-				<p>1.1.5</p>
-			</td>
-			<td width="228">
-				<p>Project Charter Signed/Approved</p>
-			</td>
-			<td width="348">
-				<p>The Project Manager will need to approve/sign the Project Charter to the Project Sponsor.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p> </p>
-			</td>
-			<td width="64">
-				<p>1.1.6</p>
-			</td>
-			<td width="228">
-				<p><em>Deliverable:</em> Work Breakdown Structure</p>
-			</td>
-			<td width="348">
-				<p>The Project Manager will deliver the Work Breakdown Structure to the Project Sponsor.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2</p>
-			</td>
-			<td width="228">
-				<p>Planning</p>
-			</td>
-			<td width="348">
-				<p>The Project Team will work for the planning process for the project.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2.1</p>
-			</td>
-			<td width="228">
-				<p>Create Preliminary Scope Statement</p>
-			</td>
-			<td width="348">
-				<p>The Project Manager will create a Preliminary Scope Statement.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2.2</p>
-			</td>
-			<td width="228">
-				<p>Project Team Initial Meeting</p>
-			</td>
-			<td width="348">
-				<p>The Project Team will start an initial meeting together with Project Manager and Project Sponsor (optional).</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2.3</p>
-			</td>
-			<td width="228">
-				<p><em>Deliverable:</em> Stakeholder Management Plan</p>
-			</td>
-			<td width="348">
-				<p>The Project manager will analyze all stakeholders and their anticipated expectations of the project outcome and deliverables.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2.4</p>
-			</td>
-			<td width="230">
-				<p><em>Deliverable:</em> Schedule Management Plan</p>
-			</td>
-			<td width="354">
-				<p>The Project Manager will develop a schedule management plan and the communicating schedules for time and resource.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2.5</p>
-			</td>
-			<td width="230">
-				<p><em>Deliverable:</em> Cost Management Plan</p>
-			</td>
-			<td width="354">
-				<p>The Project Manager will plan and controll the budget of a business also a form of management accounting that allows a business to predict impending expenditures to help reduce the chance of going over budget.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2.6</p>
-			</td>
-			<td width="230">
-				<p>Submit Deliverables</p>
-			</td>
-			<td width="354">
-				<p>The Project Manager will submit the project deliverables to the project sponsor.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2.7</p>
-			</td>
-			<td width="230">
-				<p>Project Team Meeting</p>
-			</td>
-			<td width="354">
-				<p>The Project Team will continue the initial meeting together with Project Manager and Project Sponsor</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>3</p>
-			</td>
-			<td width="64">
-				<p>1.2.8</p>
-			</td>
-			<td width="230">
-				<p><em>Milestone:</em> Project Plan Approval</p>
-			</td>
-			<td width="354">
-				<p>When the project plan is already approved, the Project Manager has permission to proceed to execute the project according to the project plan.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3</p>
-			</td>
-			<td width="230">
-				<p>Execution</p>
-			</td>
-			<td width="354">
-				<p>Execute the project plan.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p> </p>
-				<p> </p>
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.1</p>
-			</td>
-			<td width="230">
-				<p>Project Team Meeting</p>
-			</td>
-			<td width="354">
-				<p>The Project Manager will conduct a formal meeting with the project team, project stakeholders and project sponsor.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.2</p>
-			</td>
-			<td width="230">
-				<p>Verify &amp; Validate User Requirements</p>
-			</td>
-			<td width="354">
-				<p>The original user requirements are reviewed by the project manager and team, then validated with the users/stakeholders. This is where additional clarification may be needed.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.3</p>
-			</td>
-			<td width="230">
-				<p>Design System</p>
-			</td>
-			<td width="354">
-				<p>The Project Team design the new management system.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.4</p>
-			</td>
-			<td width="230">
-				<p>Procure Hardware/Software</p>
-			</td>
-			<td width="354">
-				<p>The Project Team will procure of all hardware, software and facility needs for the project.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.5</p>
-			</td>
-			<td width="230">
-				<p>Install Development System</p>
-			</td>
-			<td width="354">
-				<p>The Project Team will install a development system for testing and customizations of user interfaces.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.6</p>
-			</td>
-			<td width="230">
-				<p>Sprint Planning Meeting</p>
-			</td>
-			<td width="354">
-				<p>Planning Meeting for maximum of eight hours for a one-month Sprint. </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.7</p>
-			</td>
-			<td width="230">
-				<p>Create Sprint Backlog</p>
-			</td>
-			<td width="354">
-				<p>During the sprint planning meeting, the Project team selects some number of product backlog items, usually in the form of user stories, and identifies the tasks necessary to complete each user story.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.8</p>
-			</td>
-			<td width="230">
-				<p>Develop Sprint Backlog Items (Daily Scrum)</p>
-			</td>
-			<td width="354">
-				<p>The Project Team develop a Daily Scrum meeting ideally during start of the working day.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.9</p>
-			</td>
-			<td width="230">
-				<p>Sprint Review Meeting</p>
-			</td>
-			<td width="354">
-				<p>At the end of each sprint, the project team has produced a coded, tested and usable piece of software.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.10</p>
-			</td>
-			<td width="230">
-				<p>Sprint Retrospective Meeting</p>
-			</td>
-			<td width="354">
-				<p>Usually the last thing done in a sprint. The entire team, including both the ScrumMaster and the product owner should participate.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>4</p>
-			</td>
-			<td width="64">
-				<p>1.3.11</p>
-			</td>
-			<td width="230">
-				<p>Integration to Cloud Server</p>
-			</td>
-			<td width="354">
-				<p>Enables the integration and interaction of different operating systems, application and services within an enterprise IT environment.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>5</p>
-			</td>
-			<td width="64">
-				<p>1.4</p>
-			</td>
-			<td width="230">
-				<p>Control</p>
-			</td>
-			<td width="354">
-				<p>The work involved for the control process of the project.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>5</p>
-			</td>
-			<td width="64">
-				<p>1.4.1</p>
-			</td>
-			<td width="230">
-				<p>Quality Assurance Control</p>
-			</td>
-			<td width="354">
-				<p>The process oriented and focuses on defect prevention.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>5</p>
-			</td>
-			<td width="64">
-				<p>1.4.2</p>
-			</td>
-			<td width="230">
-				<p>Project Management</p>
-			</td>
-			<td width="354">
-				<p>Overall project management for the project.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>5</p>
-			</td>
-			<td width="64">
-				<p>1.4.3</p>
-			</td>
-			<td width="230">
-				<p>Project Status Meetings</p>
-			</td>
-			<td width="354">
-				<p>Weekly team status meetings.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>5</p>
-			</td>
-			<td width="64">
-				<p>1.4.4</p>
-			</td>
-			<td width="230">
-				<p>Risk Management</p>
-			</td>
-			<td width="354">
-				<p>Risk management efforts as defined in the Risk Management Plan.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>5</p>
-			</td>
-			<td width="64">
-				<p>1.4.5</p>
-			</td>
-			<td width="230">
-				<p>Update Project Management Plan</p>
-			</td>
-			<td width="354">
-				<p>Project Manager updates the Project Management Plan as the project progresses.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>6</p>
-			</td>
-			<td width="64">
-				<p>1.5</p>
-			</td>
-			<td width="230">
-				<p>Closeout</p>
-			</td>
-			<td width="354">
-				<p>The work to close-out the project.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>6</p>
-			</td>
-			<td width="64">
-				<p>1.5.1</p>
-			</td>
-			<td width="230">
-				<p>Audit Procurement</p>
-			</td>
-			<td width="354">
-				<p>An audit of all hardware and software procured for the project, ensures that all procured products are accounted for and in the asset management system.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>6</p>
-			</td>
-			<td width="64">
-				<p>1.5.2</p>
-			</td>
-			<td width="230">
-				<p>Document Lessons Learned</p>
-			</td>
-			<td width="354">
-				<p>Project Manager along with the project team performs a lesson learned meeting and documents the lessons learned for the project.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>6</p>
-			</td>
-			<td width="64">
-				<p>1.5.3</p>
-			</td>
-			<td width="230">
-				<p>Update Files / Records</p>
-			</td>
-			<td width="354">
-				<p>All files and records are updated to reflect the widget management system.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>6</p>
-			</td>
-			<td width="64">
-				<p>1.5.4</p>
-			</td>
-			<td width="230">
-				<p>Gain Formal Acceptance</p>
-			</td>
-			<td width="354">
-				<p>The Project Sponsor formally accepts the project by signing the acceptance document included in the project plan.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="141">
-				<p>6</p>
-			</td>
-			<td width="64">
-				<p>1.5.5</p>
-			</td>
-			<td width="230">
-				<p>Archive Files / Documents</p>
-			</td>
-			<td width="354">
-				<p>All project related files and documents are formally archived.</p>
-			</td>
-		</tr>
+Here is the updated format with the provided data:
+<table border="1" width="100%">
+  <tr>
+    <th>Level</th>
+    <th>WBS Code</th>
+    <th>Element Name</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>SurveiRams Ticketing System</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.1</td>
+    <td>Initiation</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.1.1</td>
+    <td>Create Business Case</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.1.2</td>
+    <td>Conduct a Feasibility Study</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.1.3</td>
+    <td>Project Charter</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.1.4</td>
+    <td>Identify Stakeholders</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.1.5</td>
+    <td>Final Review</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.2</td>
+    <td>Develop Project Charter and Plan</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.2.1</td>
+    <td>Project Description</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.2</td>
+    <td>Business Need</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.3</td>
+    <td>Cost Management Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.4</td>
+    <td>Schedule Management Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.5</td>
+    <td>Scope Management Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.6</td>
+    <td>Change Management Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.7</td>
+    <td>Communications Management Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.8</td>
+    <td>Risk Management Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.9</td>
+    <td>Quality Management Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.10</td>
+    <td>Procurement Management Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.11</td>
+    <td>Human Resource Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.12</td>
+    <td>Implementation Plan</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.13</td>
+    <td>Work Breakdown Structure</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.2.14</td>
+    <td>Consolidated Management Plan</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.3</td>
+    <td>Analysis</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.3.1</td>
+    <td>Cost Benefit Analysis</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.4</td>
+    <td>Design</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.4.1</td>
+    <td>Process Design</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.4.2</td>
+    <td>User Interface</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.5</td>
+    <td>Testing</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.5.1</td>
+    <td>System Test</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.5.2</td>
+    <td>User Acceptance Test</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.5.3</td>
+    <td>Unit and Integration Testing</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.6</td>
+    <td>Implementation</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.6.1</td>
+    <td>Define Key Variables</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.6.2</td>
+    <td>Determine Roles</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.6.3</td>
+    <td>Determine Responsibilities</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.6.4</td>
+    <td>Delegate the Work</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.6.5</td>
+    <td>Monitor Progress</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.6.6</td>
+    <td>Take Corrective Action</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.7</td>
+    <td>Close Project</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.7.1</td>
+    <td>Finalize Project Deliverables</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.7.2</td>
+    <td>Confirm Project Completion</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.7.3</td>
+    <td>Review all Contracts</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1.7.4</td>
+    <td>Review Documentation</td>
+  </tr>
 </table>
-<h2>Glossary of Terms </h2>
+
+==Glossary of Terms==
 <p><strong>Project Charter</strong> - A formal and concise document that provides a comprehensive overview of the project including its objectives, execution methodology, and stakeholders.</p>
 <p>Level of Effort:       Level of Effort (LOE) is how much work is required to complete a task.</p>
 <p>WBS Code:              A unique identifier assigned to each element in a Work Breakdown Structure for designating the elements hierarchical location within the WBS.</p>
