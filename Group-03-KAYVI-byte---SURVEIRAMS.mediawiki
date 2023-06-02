@@ -1656,7 +1656,7 @@ To ensure quality is achieved through collaboration and continuous improvement, 
 * '''Defining Quality Standards:''' The project team, in collaboration with stakeholders, will establish and document the quality standards in the Quality Management Plan. These standards will be effectively communicated to all stakeholders involved.
 * '''Agile Quality Auditing:''' Regular quality audits will be conducted by the project team using Agile practices such as peer reviews, test-driven development, and continuous integration. These practices will be utilized to verify compliance with the defined quality standards and to identify areas that require improvement.
 * '''Quality Metrics:''' The project team will employ quality metrics to monitor and report on the project's adherence to the defined quality standards.
-To effectively monitor the quality process, the following metrics will be utilized: <br> 
+***To effectively monitor the quality process, the following metrics will be utilized: <br> 
 **Agile Metrics: Velocity, Burn-Down Charts, and Sprint Reviews
 **Defect Density: Number of defects found per unit of measure (e.g., per KLOC)
 **Defect Severity: Classification of defects based on their impact on the system
