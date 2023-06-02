@@ -701,9 +701,9 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 
 # Data Collection: This project does not include data collection from other sources or 	systems other than what is inputted by the user. 
 
-# Automated Entry: This project does not include automated entry for the reports, all 	reports must be done or reported manually using the application. The user will be 	responsible for the creation of reports. 
+# Automated Entry: This project does not include automated entry for the reports, all reports must be done or reported manually using the application. The user will be responsible for the creation of reports. 
 
-# Machine Learning: This project will not involve the development or implementation 	of any machine learning algorithms. The focus will be to manage the reports from 	students and to lessen the use of paper by using a dedicated application for the reports. 
+# Machine Learning: This project will not involve the development or implementation of any machine learning algorithms. The focus will be to manage the reports from students and to lessen the use of paper by using a dedicated application for the reports. 
 
 ===7.5.5 Project Constraints===
 
@@ -711,7 +711,7 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 
 # The system is specifically designed for the use of the institution's security personnel and the building maintenance office. 
 
-# The project is not intended to be used for purposes other than processes regarding       patrolling, post logs, and incident reports. 
+# The project is not intended to be used for purposes other than processes regarding patrolling, post logs, and incident reports. 
 
 # Going paperless can result in cost savings and increased productivity, but the cost of paper can be substantial. 
 
@@ -732,7 +732,7 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 ==7.6 Work Breakdown Structure==
 
 The Work Breakdown Structure (WBS) and Work Breakdown Structure Dictionary are key elements to effective scope management.  This section should discuss how the project scope is to be subdivided into smaller deliverables in the WBS and WBS Dictionary and how these smaller components are managed during the life of the project.   
-
+![WBS](https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI202_G03_KAYVI_byte/blob/main/wiki_images/WBS.png)
 
 <h2> Scope Verification </h2>
 <p>
