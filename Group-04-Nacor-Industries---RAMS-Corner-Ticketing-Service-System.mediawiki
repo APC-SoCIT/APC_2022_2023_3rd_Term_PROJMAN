@@ -1175,8 +1175,8 @@ The following are the list of elements in the Risk Register
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/Risk%20ID.png" alt="Image description" style="display:center; margin:0 auto;">
 
-==14 Business Case==
-=14.1Executive Summary=
+=14 Business Case=
+==14.1Executive Summary==
 Through the cooperation of Asia Pacific College’s Information Technology Resource Office (APC-ITRO), Nacor Industries could help them improve their workflow and minimize any unwanted outcome that was prevalent before by making them an application suited more for their jobs as our client. The issue, anticipated outcomes, recommendation, and justification are provided in this report.
 
 
@@ -1198,12 +1198,12 @@ The project approach is to create a dedicated system for the ITRO so that they w
 Justification
 The project is being implemented to keep up with the modern era and for the school to be more efficient when it comes to dealing with requests and inquiries.
 
-=14.2 Business Case Analysis Team=
+==14.2 Business Case Analysis Team==
 Nacor Industries is a team composed of six BSIT students from Asia Pacific College under the common goal of performing and delivering the best possible software experience for the client, APC-ITRO.
 
 <img src="https://github.com/rth-rm/Nacor-Industries/blob/fe6450cc57245520fa69feed79c2bc2b3e8dab3d/Table1.png"display:block; margin:0 auto;">
 
-=14.3 Problem Definition=
+==14.3 Problem Definition==
 Problem Statement
 The Asia Pacific College ITRO Department lacks a system that would help them address 	 the school’s technical-related problems. They only use email system which often-times. 
 ITRO personnel tend to miss out the students, teachers or staff emails regarding the problem they encountered. This might lead to a bigger problem since there are problems that need attention and action.
@@ -1235,7 +1235,7 @@ With the acknowledgement of the ITRO Head, Mr. Jojo Castillo, the ITRO are encou
 Phase 4:
 Since most inquiries sent through email are only being recorded and handled manually, the complete transfer of the already ongoing processes from emails to the RAMS Corner Ticketing Service System would not be advised, therefore, all new inquiries would be made in the web application, while the already ongoing ones are meant to be handled separately until completion. Inquiries that are sent through email, but have long been pending, however should be sent to the RAMS Corner to be handled. 
 
-=14.4 Project Overview=
+==14.4 Project Overview==
 Project Description
 
 
@@ -1287,7 +1287,7 @@ The ITRO staff are bound to learn and familiarize themselves with the new system
 Major Project Milestones
 <img src="https://github.com/rth-rm/Nacor-Industries/blob/fe6450cc57245520fa69feed79c2bc2b3e8dab3d/table2.png"display:block; margin:0 auto;">
 
-=14.4 Strategic Alignment=
+==14.4 Strategic Alignment==
 The ITRO follows the following mission and objectives for each of the ITRO sub-department:
 Objectives of the Infrastructure Team:​
 Provide IT hardware, cloud services, technical support services, where and when needed by the members of the APC Communality​
@@ -1317,10 +1317,10 @@ Create Service Level Agreement (SLA) for the problems/request raised to the ITRO
 
 By following this strategic alignment, the ITRO can leverage or improve its internal resources and capabilities to be able to manage the external environment issues and achieve the objectives of their department whilst retaining their success in providing service for the APC Community in the following years
 
-=14.5 Cost Benefit Analysis=
+==14.5 Cost Benefit Analysis==
 RAMS Corner Ticketing System, and the team of developers behind it: Nacor Industries would be working voluntarily and would not require any form of compensation from the project stakeholders aside from donations that would be very much welcome. Considering these of course, Nacor Industries is only limited to whatever hardware or time the group has for the Project Management course (PROJMAN) as of the moment. Neither the team nor the individuals are compelled to take part in any financial investments towards the development of the system since the application would be done as a requirement for the course which would take about two more terms to fully realize, or about four to five months before being deployed. Making RAMS Corner the most obvious choice for the client as it will be tailor-made and free.
 
-=14.6 Alternatives Analysis=
+==14.6 Alternatives Analysis==
 Upon various discussions with the project stakeholders through an agile-based methodology, the team managed to list down the following as the alternatives that have been found prior to the project development:
 Maintain Current System
 By maintaining ITRO’s current system, this means that they would still be using their email-based reporting and inquiry method for their clients and stakeholders. It would save them from having to implement and learn to navigate a new user interface, but they would ultimately sacrifice their productivity as it will lead to stagnation. 
