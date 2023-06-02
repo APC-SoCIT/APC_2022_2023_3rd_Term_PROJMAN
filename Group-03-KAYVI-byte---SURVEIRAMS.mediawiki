@@ -1489,7 +1489,7 @@ Regular review and updates of the Staffing Management Plan will ensure its align
   </thead>
   <tbody>
     <tr>
-      <td>Project Manager</td>
+      <td>'''Project Manager'''</td>
       <td>Responsible for effectively planning, executing, and closing projects, Coordinate with stakeholders and team members.</td>
       <td>Leadership, Communication, Problem-solving, Time management, technical skills (dependent on project scope/complexity)</td>
       <td>Depends on project scope and complexity</td>
@@ -1497,7 +1497,7 @@ Regular review and updates of the Staffing Management Plan will ensure its align
       <td>The project manager will implement recognition and rewards system to motivate team members and encourage high performance</td>
     </tr>
     <tr>
-      <td>Project Team Leader</td>
+      <td>'''Project Team Leader'''</td>
       <td>Leads the project team and ensures timely, budget-compliant, and high-quality project delivery.</td>
       <td>Leadership, Communication, Planning and organizing, Risk management, Budget, Technical skills related to the project</td>
       <td>Depends on project scope and complexity</td>
@@ -1505,7 +1505,7 @@ Regular review and updates of the Staffing Management Plan will ensure its align
       <td>The project leader will implement recognition and rewards system to motivate team members and encourage high performance.</td>
     </tr>
     <tr>
-      <td>Project Team Member</td>
+      <td>'''Project Team Member'''</td>
       <td>Collaborates with team members to achieve project goals, Complete tasks assigned by the project leader or manager, demonstrate efficient time management skills while working diligently to guarantee that tasks are accomplished within budgetary and planned timelines for the successful completion of the project.</td>
       <td>Technical skills, Communication, Collaboration, Problem-solving</td>
       <td>Depends on project scope and complexity</td>
@@ -1513,7 +1513,7 @@ Regular review and updates of the Staffing Management Plan will ensure its align
       <td>The project leader or manager will implement a recognition and reward system to motivate team members and encourage high performance.</td>
     </tr>
     <tr>
-      <td>Executive Sponsor</td>
+      <td>'''Executive Sponsor'''</td>
       <td>Provides strategic direction, leadership, and resource allocation for the project, Ensuring the project is aligned with the organization's goals and vision, following up on project developments and giving the project team direction and assistance.</td>
       <td>Leadership, Strategic thinking, Communication, Decision-making, Risk management</td>
       <td>A senior executive or board of directors’ member often serves as the executive sponsor. May have the assistance of project management office or other support personnel.</td>
@@ -1560,3 +1560,34 @@ A quality management plan's tools include:
 </table>
 
 In conclusion, the quality management plan will create a comprehensive framework to efficiently manage project quality from beginning to end. It will ensure that the project meets and/or exceeds stakeholder expectations and provide a clear framework of procedures, resources, and roles for locating and resolving quality issues. It is crucial that all parties involved are aware of the plan and comprehend how they may help to make it effective.
+
+==12.2 Quality Management Approach==
+The Quality Management Plan for the Dispatch Directory system project will utilize an Agile and Scrum method to ensure that the project meets or exceeds all stakeholders' quality expectations. The approach will prioritize delivering high-quality products and meeting customer requirements over following a rigid process.   
+   
+The following are the roles and duties for the quality management plan:   
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project Manager</td>
+      <td>The Project Manager oversees establishing the standards and making sure the final product satisfies all stakeholders.</td>
+    </tr>
+    <tr>
+      <td>Project Team Leader</td>
+      <td>The Project Team Leader is responsible for ensuring that the team is following the Scrum framework and works with the Product Owner, Product Manager, and Development Team to enhance the final product.</td>
+    </tr>
+    <tr>
+      <td>Project Development Team</td>
+      <td>The Project Development Team’s responsibilities include producing a high-caliber product and upholding the specified quality policies and standards.</td>
+    </tr>
+    <tr>
+      <td>Project Sponsor</td>
+      <td>Provides executive support for the project.</td>
+    </tr>
+  </tbody>
+</table>
