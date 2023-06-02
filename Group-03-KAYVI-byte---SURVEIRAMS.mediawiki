@@ -1473,7 +1473,7 @@ The Staffing Management Plan for SurveiRams is a crucial aspect of ensuring the 
 * A rewards and recognition system will be implemented to acknowledge and motivate exceptional performance. This may include bonuses, promotions, and other incentives to foster a positive work environment.
 
 It is important to note that additional considerations may be included in the staffing management plan depending on the project's scope. Factors such as government and regulatory compliance, organizational health, and safety may be addressed, depending on industry-specific requirements and location. For instance, if SurveiRams deals with sensitive data, compliance with data privacy and security regulations becomes essential. Additionally, if the project involves equipment or technology posing potential risks, organizational health and safety measures should be incorporated.
-   
+
 Regular review and updates of the Staffing Management Plan will ensure its alignment with the project's objectives and requirements. The project manager should conduct a comprehensive analysis of the project's specific needs and regulations to determine if any additional components should be included in the staffing management plan.
 
 <table>
@@ -1522,3 +1522,39 @@ Regular review and updates of the Staffing Management Plan will ensure its align
     </tr>
   </tbody>
 </table>
+
+=12. QUALITY MANAGEMENT PLAN=
+==12.1 Introduction==
+Quality Management Plan for the SurveiRams System is essential to maintain the project’s quality. With this plan, the team can evaluate the system for the betterment of it. Additionally, the plan has a framework for evaluating the quality.
+   
+Goals of the quality management plan
+
+* Ensure that the project meets stakeholder expectations.
+* Specify the quality criteria to be used for evaluating the project.
+* Clarify the roles and responsibilities of team members to meet quality standards.
+* Identify and fix any potential quality issues.
+* Establish a framework to effectively manage and maintain project quality throughout the course of the project.
+
+The SurveiRams System will operate completely functionally, have a user-friendly interface, and be compatible with the organization's existing technology infrastructure. The Quality Management Plan will cover both product and process quality standards. The plan will outline specific procedures, tools, and techniques for monitoring and reporting quality performance.
+   
+A quality management plan's tools include:   
+<table>
+  <thead>
+    <tr>
+      <th>Definition of Done</th>
+      <th>Acceptance Criteria</th>
+      <th>Continuous Integration</th>
+      <th>Test-Driven Development</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A clear explanation of what makes a finished product increment.</td>
+      <td>Criteria must be met for it to be approved by the project manager.</td>
+      <td>Regularly updates the code to make sure it is good for releasing.</td>
+      <td>A way that emphasizes creating tests prior to writing code to ensure that the resulting code meets the desired quality standards.</td>
+    </tr>
+  </tbody>
+</table>
+
+In conclusion, the quality management plan will create a comprehensive framework to efficiently manage project quality from beginning to end. It will ensure that the project meets and/or exceeds stakeholder expectations and provide a clear framework of procedures, resources, and roles for locating and resolving quality issues. It is crucial that all parties involved are aware of the plan and comprehend how they may help to make it effective.
