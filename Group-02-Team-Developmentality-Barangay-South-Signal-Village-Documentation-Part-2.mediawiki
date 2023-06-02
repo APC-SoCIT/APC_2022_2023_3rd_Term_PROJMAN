@@ -340,6 +340,54 @@ The following criteria will be used for the risk register:
 *Status -risk's current status, whether it is open, in progress, or closed, is also documented. 
 *Target Resolution Date - anticipated date for risk resolution to be resolved.
 
+<br>
+
+  <table border="1" width="70%" align="center">
+    <tr>
+      <th>Risk ID</th>
+      <th>Risk Rank</th>
+      <th>Risk Description</th>
+      <th>Category</th>
+      <th>Destination/Owner</th>
+      <th>Probability</th>
+      <th>Impact</th>
+      <th>Status</th>
+    </tr>
+    <tr>
+      <td>RID 001</td>
+      <td>1</td>
+      <td>Technical Risks</td>
+      <td>The Barangay South Signal Village Web App may not work effectively with existing software and hardware systems, resulting in system faults and delays.</td>
+      <td>Technology</td>
+      <td>Project Leader</td>
+      <td>High</td>
+      <td>High</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>RID 002</td>
+      <td>2</td>
+      <td>Resource Risks</td>
+      <td>There is a risk of not having enough resources to execute the project on time, which could lead to delays and budget overruns.</td>
+      <td>Organizational</td>
+      <td>Project Manager</td>
+      <td>Medium</td>
+      <td>Medium</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>RID 003</td>
+      <td>2</td>
+      <td>Security Risks</td>
+      <td>Data breaches and cyberattacks pose a threat to sensitive information.</td>
+      <td>Technical</td>
+      <td>System Developer</td>
+      <td>Medium</td>
+      <td>Medium</td>
+      <td>In Progress</td>
+    </tr>
+  </table>
+
 =14. COMMUNICATION MANAGEMENT PLAN=
 ==14.1 Introduction==
 The goal of this Communications Management Plan is to provide the communication requirements for the "South Signal Village Barangay Web App" and detail how the information will be distributed among the team.
