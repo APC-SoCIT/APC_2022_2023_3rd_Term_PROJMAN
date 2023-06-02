@@ -2423,16 +2423,16 @@ The project management process encompasses the following stages:
 
 By following these steps, the project management process facilitates effective communication, meticulous planning, knowledge transfer, efficient allocation of staff, and the ability to actively monitor progress while addressing any emerging issues.
 
+
 '''  Timeline:'''   
-   
 The transition plan is divided into two primary phases: implementation and closeout.
 
 The implementation phase, scheduled from February 15 to April 18, includes activities such as user training and progress monitoring. The closeout phase, which takes place from April 19 to June 7, involves documenting lessons learned, updating files/records, obtaining formal acceptance, archiving files/documents, and conducting a project closeout meeting.
 
 The timeline provides a detailed schedule for each activity, ensuring that all transition tasks are completed promptly. The success of the transition plan hinges on the careful planning and execution of each activity as outlined in the timeline.
 
-'''  Assumptions:'''  
-
+'''  Assumptions:'''
+  
 To facilitate the transition approach, the following assumptions will be made:
 # The Project Developers and Software testers will be physically present on-site or available for online meetings to actively participate in the transition process and receive knowledge transfer.
 # The project team will provide the Quality Assurance Lead with all necessary documentation, training materials, and instruction manuals to facilitate the transfer of knowledge.
@@ -2473,3 +2473,71 @@ To facilitate the transition approach, the following assumptions will be made:
     </tr>
   </tbody>
 </table>
+
+==16.4 Workforce Transition==
+The transition of the workforce holds significant importance within the SurveiRams Ticketing System project's plan for transitioning out. To ensure a seamless and efficient transition, it is imperative to establish and effectively communicate a comprehensive workforce plan.
+
+As an integral part of the transition team, the Transition Project Manager will closely collaborate with both the existing and new contractors, as well as the customer, to determine the most optimal approach for managing the workforce. This may encompass various actions, such as retaining the current staff, transitioning employees to the new contractor, or even recruiting new personnel.
+
+Clear and timely communication plays a pivotal role in this process, as it is crucial to keep the workforce informed of any changes in a respectful manner. Working closely with BMO, ITRO, and security management, the Transition Project Manager will ensure that all staff members are well-informed about their options and receive the necessary support throughout the transition.
+
+Furthermore, any required training or re-training will be provided to ensure that the workforce is fully equipped to deliver exceptional services during and after the transition period. The workforce transition plan will be subject to regular review and updates as necessary, with the ultimate goal of successfully completing the project within the designated timeframe and budget.
+
+==16.5 Workforce Execution During Transition==
+During the transition period of the Dispatch Directory System project, several essential tasks will still need to be completed, which are as follows:
+
+'''User Training:''' This involves developing and delivering training materials to educate users about the new system. The training sessions will likely span three days and will include a combination of classroom instruction and hands-on practice.
+
+'''Live System:''' This signifies the actual launch of the new system. Before making it available to users, the team must ensure that all necessary systems are in place and functioning properly. This will likely involve conducting final system tests and verifying the accurate migration of data.
+
+'''Documentation of Lessons Learned:''' This phase involves documenting the insights gained throughout the project. It entails identifying areas where the team performed well and areas where improvements can be made. The document will serve as a valuable resource for future projects, promoting the adoption of best practices.
+
+'''Updating Files/Records:''' The team will be responsible for updating relevant files and records to reflect the project's completion. This may include archiving specific documents or updating contracts and agreements with updated information.
+
+'''Formal Acceptance:''' This phase involves obtaining formal acceptance from the customer, indicating successful completion of the transition. The team must ensure that all deliverables have been met and that the customer is satisfied with the new system.
+
+'''Archiving Files/Documents:''' In this phase, all project-related files and documents will be archived. This may include contracts, agreements, project plans, and other pertinent materials.
+
+'''Project Closeout Meeting:''' The final phase of the transition includes a project closeout meeting with all stakeholders. This meeting provides an <br/>
+
+opportunity to discuss the project as a whole, acknowledging successes, areas for improvement, and ensuring resolution of any outstanding issues.  
+==16.6 Subcontracts==
+As there are currently no contracts or subcontract agreements associated with this project, there is no need for any transition or transfer of contracts or related agreements.  
+==16.7 Property Transition==
+===16.7.1 User Accounts and Passwords===
+As part of the transition plan for the SurveiRams Ticketing System project, it is crucial to address the transfer of user accounts and passwords. The following outlines the steps and considerations for this particular aspect of the transition:
+
+'''User Account Inventory:'''
+* Initially, it is necessary to create a comprehensive inventory that lists all user accounts and their associated privileges. This inventory should encompass both internal and external users, such as system administrators, BMO, ITRO, and end users (security personnel). Additionally, it should identify which accounts are no longer active or necessary for the system.
+
+'''Password Security:'''
+* Ensuring security remains a top priority throughout the transition process, which involves resetting or disabling all user passwords upon transition. This step serves to prevent unauthorized access to the system and its data. Before the transition, users should be notified to change their passwords to a temporary password provided to them. Then, during the transition, the system owner should enforce the creation of new, robust passwords by all users.
+
+'''User Account Table:'''
+* The transition plan should include a table that outlines all user accounts to be transferred or disabled. This table should include details such as the username, associated email address, and corresponding privileges or access rights. Additionally, it should indicate whether the account will be transferred or disabled, along with any specific instructions regarding the transition.
+
+In summary, the transition of user accounts and passwords is a critical aspect of the property transition plan for the SurveiRams Ticketing System project. By implementing a comprehensive account inventory, prioritizing password security, establishing clear procedures for account transition and disablement, and providing a user account table, a seamless and secure transition can be achieved.  
+
+==16.8 Knowledge Transfer==
+'''Documentation/Manuals:'''
+* The project team and senior developer will provide APC management, BMO, ITRO, and security personnel with comprehensive documentation and manuals.
+* The documentation will encompass a project overview, system architecture, functional requirements, technical specifications, and other relevant materials to enhance APC management's understanding of the system's workings.
+* The manuals will offer detailed, step-by-step instructions on performing specific tasks related to the system.
+
+'''Training:'''
+* APC management will receive personalized training from the project team and senior developer to ensure a thorough grasp of the system and its processes.
+* Access to online training materials and resources will be granted to APC management for further knowledge and skill development related to the system.
+* APC management will be responsible for disseminating the information to BMO, ITRO, and security personnel, as formal classes may not be suitable given the fast-paced environment.
+
+As part of the Knowledge Transfer Plan, regular check-ins and meetings will be scheduled between the project team, senior developer, and APC management to ensure successful knowledge transfer and prompt resolution of any questions or issues. Additionally, any system updates or changes will be documented and shared with APC management to ensure they are equipped with the latest information. 
+==16.9 Schedule==
+==16.10 Handover and Acceptance==
+The initiation of the handover and acceptance process will commence upon the fulfillment of the implementation phase, encompassing all necessary documentation and deliverables. Subsequently, the project team will arrange a formal meeting with the project sponsor and other pertinent stakeholders to review the transition plan and verify the fulfillment of all requirements.
+
+During the handover meeting, the project team will present the completed transition plan, along with all essential documentation and deliverables, to the project sponsor and relevant stakeholders. The presented materials will be thoroughly examined and discussed to address any remaining issues or concerns.
+
+Once all matters are resolved, the project sponsor and stakeholders will endorse the formal acceptance document as proof of the successful completion of the handover. This acceptance document will encompass a checklist of all obligatory deliverables and documentation, featuring the signatures of the stakeholders who have reviewed and approved the materials.
+
+Additionally, the handover and acceptance section will outline the procedure for resolving any lingering issues or concerns that may arise subsequent to the handover. This may involve following a formal dispute resolution process or implementing corrective measures to rectify identified deficiencies.
+
+Overall, the handover and acceptance section within the contract transition out plan will offer a comprehensive and detailed roadmap for accomplishing the handover process, ensuring the satisfaction of all stakeholders with the outcomes.
