@@ -388,6 +388,7 @@ The following deliverables must be met upon the successful completion of the Sur
 
 
 ==5.6 Summary Milestone Schedule==
+
 The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
 
 <table class="wikitable">
@@ -425,29 +426,36 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
   </tr>
 </table>
 
-<h2>Summary Budget</h2>
-<p>The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project.</p>
-![image](https://user-images.githubusercontent.com/69951803/235903018-f7a53dda-b995-44e9-9a6a-b20492c64495.png)
+==5.7 Summary Budget==
 
-<h2>Project Approval Requirements</h2>
-<p>The ultimate objective of the SurveiRams project is to deploy a fully tested and well-documented ticketing system within the time and budget limitations specified in this charter. The project's success criteria will include a list of recommended future enhancements, as the solution is expected to evolve to accommodate future changes. The project sponsor, Mr. Jojo F. Castillo, who will authorize its completion, will ultimately determine whether the project has met the success criteria.</p>
+The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project. 
 
-<h2>Project Manager</h2>
-<p>Alexis Martin has been designated as the Project Manager for the SurveiRams project. As the Project Manager, Mr. Martin will be responsible for overseeing the project's scope management, which includes collaborating with Mr. Jojo Castillo, the project sponsor, and other key stakeholders to define and effectively manage the project scope.<p>
-<p>He will oversee the fulfillment of all project requirements, ensuring that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders. Furthermore, he will have the authority to make decisions related to personnel, project expenditures, and scheduling, as determined by the organization and scope of the project. Throughout the project lifecycle, he will be responsible for ensuring that the project is completed successfully and all deliverables are accepted, and any outstanding issues are resolved.</p>
+==5.8 Project Approval Requirements==
+The ultimate objective of the SurveiRams project is to deploy a fully tested and well-documented ticketing system within the time and budget limitations specified in this charter. The project's success criteria will include a list of recommended future enhancements, as the solution is expected to evolve to accommodate future changes. The project sponsors, Mr. Jojo F. Castillo and Mr. Jose Manuel Garcia, who will authorize its completion, will ultimately determine whether the project has met the success criteria. 
 
-=Stakeholder Strategy Management Plan=
+==5.9 Project Manager==
+Ian Onrubia has been designated as the Project Manager for the SurveiRams project. As the Project Manager, Mr. Onrubia will be responsible for overseeing the project's scope management, which includes collaborating with Mr. Jojo Castillo and Mr. Jose Manuel Garcia, the project sponsor, and other key stakeholders to define and effectively manage the project scope. 
 
-<h2>Introduction</h2>
-<p>This document stands as the guidelines on how the team will approach the stakeholders and their needs. Addressing their concerns and requirements is important, as they are the people affected by the outcome of this project. The list of the stakeholders and their information relative to the deliverables can be found here. In doing so, the team can manage them well and be one step closer to the success of SurveiRams. </p>
-<h2>Identify Stakeholders</h2>
-<p>The Stakeholder Management Strategy aims to identify and engage all individuals or groups with a personal interest in the project and who will be impacted by its implementation or success. To achieve this, the project team will use a structured methodology that involves interviews, document review, and consultation processes. The methodology includes identifying all potential stakeholders through a stakeholder analysis, prioritizing stakeholders based on their influence and impact on the project and developing a stakeholder engagement plan. Ongoing communication with stakeholders is also essential to ensure that their needs and concerns are addressed and that the project stays on track. </p>
+The Project Manager will oversee the fulfillment of all project requirements, ensuring that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders. Furthermore, he will have the authority to make decisions related to personnel, project expenditures, and scheduling, as determined by the organization and scope of the project. Throughout the project lifecycle, he will be responsible for ensuring that the project is completed successfully, and all deliverables are accepted, and any outstanding issues are resolved.   
 
-<h2>Key Stakeholders</h2>
-<p>The security personnel, Building Maintenance Office (BMO), and Information Technology Resource Office (ITRO) are key stakeholders in ensuring the safety and proper functioning of the building and its technology systems. Allowing employees to use SurveiRams as an automated ticketing system, employees can streamline communication and task assignment between these stakeholders to ensure efficient resolution of any security, maintenance, or technology-related issues within the building. Additionally, this enables the stakeholders to maintain and keep incident reports, streamline cross-functional processes, and increase the organization’s dependability, all of which contribute to the organization’s overall efficiency. 
-</p>
 
-<h2>Stakeholder Analysis</h2>
+=6. Stakeholder Strategy Management Plan=
+
+==6.1 Introduction==
+
+This document stands as the guidelines on how the team will approach the stakeholders and their needs. Addressing their concerns and requirements is important, as they are the people affected by the outcome of this project. The list of the stakeholders and their information relative to the deliverables can be found here. In doing so, the team can manage them well and be one step closer to the success of SurveiRams. 
+
+==6.2 Identify Stakeholders==
+
+The Stakeholder Management Strategy aims to identify and engage all individuals or groups with a personal interest in the project and who will be impacted by its implementation or success. To achieve this, the project team will use a structured methodology that involves interviews, document review, and consultation processes. The methodology includes identifying all potential stakeholders through a stakeholder analysis, prioritizing stakeholders based on their influence and impact on the project and developing a stakeholder engagement plan. Ongoing communication with stakeholders is also essential to ensure that their needs and concerns are addressed and that the project stays on track. 
+
+==6.3 Key Stakeholders==
+
+The security personnel, Building Maintenance Office (BMO), and Information Technology Resource Office (ITRO) are key stakeholders in ensuring the safety and proper functioning of the building and its technology systems. Allowing employees to use SurveiRams as an automated ticketing system, employees can streamline communication and task assignment between these stakeholders to ensure efficient resolution of any security, maintenance, or technology-related issues within the building. Additionally, this enables the stakeholders to maintain and keep incident reports, streamline cross-functional processes, and increase the organization’s dependability, all of which contribute to the organization’s overall efficiency. 
+
+
+==6.4 Stakeholder Analysis==
+
 <table border="1" width="70%" align="center">
 <tr>
 
