@@ -1539,22 +1539,22 @@ The SurveiRams System will operate completely functionally, have a user-friendly
    
 A quality management plan's tools include:   
 <table>
-  <thead>
-    <tr>
-      <th>Definition of Done</th>
-      <td>A clear explanation of what makes a finished product increment.</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <th>Acceptance Criteria</th>
-      <td>Criteria must be met for it to be approved by the project manager.</th>
+      <td>Definition of Done</td>
+      <td>A clear explanation of what makes a finished product increment.</td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
-      <th>Continuous Integration</th>
-      <td>Regularly updates the code to make sure it is good for releasing.</th>
+      <td>Acceptance Criteria</td>
+      <td>Criteria must be met for it to be approved by the project manager.</td>
+    </tr>
+    <tr>
+      <td>Continuous Integration</td>
+      <td>Regularly updates the code to make sure it is good for releasing.</td>
+    </tr>
+    <tr>
+      <td>Test-Driven Development</td>
+      <td>A way that emphasizes creating tests prior to writing code to ensure that the resulting code meets the desired quality standards.</td>
     </tr>
   </tbody>
 </table>
