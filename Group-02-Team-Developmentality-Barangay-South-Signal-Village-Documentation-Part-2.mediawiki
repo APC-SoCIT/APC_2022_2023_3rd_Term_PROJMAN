@@ -340,7 +340,8 @@ The following criteria will be used for the risk register:
 *Status -risk's current status, whether it is open, in progress, or closed, is also documented. 
 *Target Resolution Date - anticipated date for risk resolution to be resolved.
 
-   <table border="1" align="center">
+
+<table border="1" width="70%" align="center">
     <tr>
       <th>Risk ID</th>
       <th>Risk Rank</th>
@@ -387,6 +388,7 @@ The following criteria will be used for the risk register:
     </tr>
   </table>
 
+   
 =14. COMMUNICATION MANAGEMENT PLAN=
 ==14.1 Introduction==
 The goal of this Communications Management Plan is to provide the communication requirements for the "South Signal Village Barangay Web App" and detail how the information will be distributed among the team.
