@@ -953,7 +953,6 @@ A Work Breakdown Structure (WBS) has been developed to help clarify the project'
 
 This is a hierarchical structure outlining the various stages involved in the SurveiRams System, a project management system that aims to manage violations and track progress of related projects. The structure starts with the initiation stage, which involves creating a business case and conducting a feasibility study, followed by the development of a project charter and plan, analysis, design, testing, implementation, and finally, the close of the project. Each stage is further broken down into sub-stages, which provide detailed information on the specific tasks and responsibilities that need to be carried out to achieve the overall goal of the project. This structure is designed to ensure that the project is completed efficiently, effectively, and within the specified timeline and budget.
 
-Here is the updated format with the provided data:
 <table border="1" width="100%">
   <tr>
     <th>Level</th>
@@ -1174,6 +1173,87 @@ Here is the updated format with the provided data:
     <td>2</td>
     <td>1.7.4</td>
     <td>Review Documentation</td>
+  </tr>
+</table>
+
+==10.4 Tabular View==
+
+<table>
+  <tr>
+    <th>Level 1</th>
+    <th>Level 2</th>
+    <th>Level 3</th>
+  </tr>
+  <tr>
+    <td>1 SurveiRams Ticketing System</td>
+    <td>1.1 Initiation</td>
+    <td>1.1.1 Create Business Case<br>
+        1.1.2 Conduct a Feasibility Study<br>
+        1.1.3 Project Charter<br>
+        1.1.4 Identify Stakeholders<br>
+        1.1.5 Final Review
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1.2 Develop Project Charter and Plan</td>
+    <td>1.2.1 Project Description<br>
+        1.2.2 Business Need<br>
+        1.2.3 Cost Management Plan<br>
+        1.2.4 Schedule Management Plan<br>
+        1.2.5 Scope Management Plan<br>
+        1.2.6 Change Management Plan<br>
+        1.2.7 Communications Management Plan<br>
+        1.2.8 Risk Management Plan<br>
+        1.2.9 Quality Management Plan<br>
+        1.2.10 Procurement Management Plan<br>
+        1.2.11 Human Resource Plan<br>
+        1.2.12 Implementation Plan<br>
+        1.2.13 Work Breakdown Structure<br>
+        1.2.14 Consolidated Management Plan
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1.3 Analysis</td>
+    <td>1.3.1 Project Risk Analysis<br>
+        1.3.2 Cost Benefit Analysis
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1.4 Design</td>
+    <td>1.4.1 Process Design<br>
+        1.4.2 User Interface
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1.5 Testing</td>
+    <td>1.5.1 System Test<br>
+        1.5.2 User Acceptance Test<br>
+        1.5.3 Unit and Integration Testing
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1.6 Implementation</td>
+    <td>1.6.1 Define Key Variables<br>
+        1.6.2 Determine Roles<br>
+        1.6.3 Determine Responsibilities<br>
+        1.6.4 Delegate the Work<br>
+        1.6.5 Monitor Progress<br>
+        1.6.6 Take Corrective Action
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1.7 Close Project</td>
+    <td>1.7.1 Finalize Project Deliverables<br>
+        1.7.2 Confirm Project Completion<br>
+        1.7.3 Review all Contracts<br>
+        1.7.4 Review Documentation
+    </td>
   </tr>
 </table>
 
