@@ -743,12 +743,10 @@ The project team will use various techniques for scope verification to guarantee
 
 The project team will use checklists that outline the essential requirements for each deliverable to be accepted. These checklists will be employed to ensure that each deliverable satisfies all necessary criteria before progressing. 
 
-
 ===7.7.2 Work Performance Measurements===
 
 The team will use work performance measurements to monitor and gauge the advancement of each deliverable during the development phase. This approach will enable the team to detect any possible issues or deviations from the original scope and take prompt corrective measures. 
 
-  
 ===7.7.3 Scope Baseline===
 
 The team will establish a scope baseline, which captures a snapshot of the initial project scope. Any modifications to the scope must be recorded and authorized before being implemented. The scope baseline will be employed to ensure that the final deliverables align with the original project scope. 
@@ -759,14 +757,10 @@ Each deliverable will be formally accepted by the project sponsor, customer, and
 
 Overall, it is critical that the project team maintains open communication and cooperation with the client and other stakeholders throughout the project to ensure that the deliverables meet the original scope and are formally approved. 
 
- 
-<h2> Scope Control </h2>
-<p>The Project adviser and the project team will discuss and identify on controlling the scope of the project. The project team will have based the statement of the work using WBS Dictionary and Product Backlogs for each Scope. The project team will guarantee that they execute the job based on the description of the WBS Dictionary and generate the defined deliverable for each WBS element. The project advisor will monitor the project team and their progression the project to provide guidance that the scope control process is followed and progress is reported through the Project Scope measurement tools.</p>
+==7.8 Scope Control==
+The change management plan must be consulted in the event of the desire to change the project scope. The procedures written there will be followed. The change’s impact on the schedule and budget will be factored into making the decision. Should any changes happen, all project documents related will be updated. 
 
-<h2> Scope Change </h2>
-<p>The team will need to evaluate the impact of any change in project scope that is authorized by the project sponsor on the present timetable. When an issue arises in the project that requires a substantial revision of the project scope, a change proposal can be considered. The team should approach any modification carefully given that the outcome could have a favorable or negative impact on the project's advancement. Any team member may request modifications, but they must be submitted in the form of a project change request document to the project stakeholder. </p>
-
-=Cost Management Plan=
+=8. COST MANAGEMENT PLAN=
 
 <h2>Introduction</h2>
 <p>The purpose of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are managed efficiently throughout its entire duration. The plan outlines the techniques and guidelines that will be employed to gauge, communicate, and regulate project expenses.</p>
