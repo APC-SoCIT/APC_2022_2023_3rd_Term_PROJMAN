@@ -672,16 +672,18 @@ The scope definition process was tied back to the requirements definition proces
 # Eliminate the manual processes for documenting
 # Provide analytics using the data collected in the application to help in decision-making
 
+
 * Product Acceptance Criteria
 The project will be accepted as complete if:
 
 # The user can create, read, and update reports and logs in the application.
 # An administrator can access an analytics dashboard with the following information:
-** How many resolved and unresolved incident reports there are
-** The department name and floor number that has the most incidents
-** What incident occurred the most
-** How many incidents happened per floor
-** How many incidents happened per department
+:* How many resolved and unresolved incident reports there are
+:* The department name and floor number that has the most incidents
+:* What incident occurred the most
+:* How many incidents happened per floor
+:* How many incidents happened per department
+
 
 * Project Deliverables – Detailed list of deliverables the project will result in 
 Upon the successful conclusion of the project, the subsequent deliverables will be provided: 
