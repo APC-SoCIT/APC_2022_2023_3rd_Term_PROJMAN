@@ -817,7 +817,8 @@ By implementing a clear cost management approach in SurveiRams, the project team
 
 
 ==8.3 Measuring Project Costs==
-<p>            This section defines how the project’s costs will be measured.  The PMBOK focuses on Earned Value Management for measuring and controlling a project’s costs.  Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management.
+
+This section defines how the project’s costs will be measured.  The PMBOK focuses on Earned Value Management for measuring and controlling a project’s costs.  Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management.
 
 In this section you should detail how you will measure the project costs. What Earned Value measurements will be captured and reported upon. Will you use any tools, such as project management software, to assist in capturing Earned Value metrics? How will you forecast future project costs? Will you review cost performance over time, across work packages or schedule activities?
 
@@ -831,25 +832,28 @@ The Schedule Performance Index (SPI) measures the progress achieved against that
 
 Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed. CPI is calculated as EV/AC. If CPI is equal to 1 the project is perfectly on budget. If the CPI is greater than 1 the project is under budget, if it’s less than 1 the project is over budget.
 
-</p>
 
-<h2>Reporting Format</h2>
-<p>Reporting for cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p>
+==8.4 Reporting Format==
 
-<h2>Cost Variance Response Process</h2>
-<p>The Control Thresholds for this project is a CPI or SPI of 1, as stated above in the Measuring Project Cost.
+Reporting on cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. 
 
-If the Project Sponsor selects a corrective action option,  
-The corrective actions may include:
+==8.5 Cost Variance Response Process==
 
-</p>
-<li>Reducing the scope of the project </li>
-<li>Reducing the quality of the project deliverables </li>
-<li>Increasing the budget for the project </li>
-<li>Increasing productivity or efficiency of project team members </li>
-<p> The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget.
-If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action.
-</p>
+The Control Thresholds for this project is a CPI or SPI of 1, as stated above in the Measuring Project Cost. 
+
+If the Project Sponsor selects a corrective action option,   
+The corrective actions may include: 
+
+* Reducing the scope of the project 
+* Reducing the quality of the project deliverables 
+* Increasing the budget for the project 
+* Increasing productivity or efficiency of project team members 
+
+ 
+
+The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget. 
+
+If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action. 
 
 <h2>Cost Change Control Process</h2>
 <p> The cost change control process will include the following steps: </p>
