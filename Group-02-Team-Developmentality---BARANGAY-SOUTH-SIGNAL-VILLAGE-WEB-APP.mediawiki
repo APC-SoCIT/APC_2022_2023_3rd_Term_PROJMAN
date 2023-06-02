@@ -1622,96 +1622,116 @@ The hierarchical structure makes it easy to see how the different components of 
 |- 
 | 4 || 1.3.7.2 || MCSPROJ Final Presentation (Sprint 9)
 |- 
-| 2 || 1.4 || Implementation
+| 2 || 1.4 || Testing 
 |- 
-| 3 || 1.4.1 || PROJMAN Project Progression
+| 3 || 1.4.1 || Unit Testing
 |- 
-| 4 || 1.4.1.1 || Submission of MCSPROJ Final Documents
+| 4 || 1.4.1.1 || Unit Testing for Release 1
 |- 
-| 4 || 1.4.1.2 || Request Letter for Adviser/Consultant
+| 4 || 1.4.1.2 || Unit Testing for Release 2
 |- 
-| 3 || 1.4.2 || PROJMAN Week 1-3
+| 4 || 1.4.1.3 || Unit Testing for Release 3
 |- 
-| 4 || 1.4.2.1 || Creation of Project Charter
+| 3 || 1.4.2 || Users Acceptance Test (UI/UX)
 |- 
-| 4 || 1.4.2.2 || Creation of Business Case
+| 3 || 1.4.3 || Security Testing
 |- 
-| 4 || 1.4.2.3 || Creation of Stakeholders Management Strategy Plan
+| 3 || 1.4.4 || Functional Testing
 |- 
-| 3 || 1.4.3 || PROJMAN Week 4-6
+| 3 || 1.4.5 || Verified use cases with the client (Sprint 10)
 |- 
-| 4 || 1.4.3.1 || Creation of Scope Management Plan
+| 2 || 1.5 || Implementation
 |- 
-| 4 || 1.4.3.2 || Creation of Cost Management Plan
+| 3 || 1.5.1 || PROJMAN Project Progression
 |- 
-| 4 || 1.4.3.3 || Creation of Time Management Plan
+| 4 || 1.5.1.1 || Submission of MCSPROJ Final Documents
 |- 
-| 4 || 1.4.3.4 || Creation of Work Breakdown Structure
+| 4 || 1.5.1.2 || Request Letter for Adviser/Consultant
 |- 
-| 4 || 1.4.3.5 || Creation of Work Packages based on WBS.
+| 3 || 1.5.2 || PROJMAN Week 1-3
 |- 
-| 3 || 1.4.4 || System Updates
+| 4 || 1.5.2.1 || Creation of Project Charter
 |- 
-| 4 || 1.4.4.1 || Testing 1
+| 4 || 1.5.2.2 || Creation of Business Case
 |- 
-| 3 || 1.4.5 || PROJMAN Midterm Evaluation
+| 4 || 1.5.2.3 || Creation of Stakeholders Management Strategy Plan
 |- 
-| 4 || 1.4.5.1 || Submission of PROJMAN Midterm Requirements
+| 3 || 1.5.3 || PROJMAN Week 4-6
 |- 
-| 4 || 1.4.5.2 || PROJMAN Midterm presentation (Sprint 10)
+| 4 || 1.5.3.1 || Creation of Scope Management Plan
 |- 
-| 3 || 1.4.6 || PROJMAN Week 8-10
+| 4 || 1.5.3.2 || Creation of Cost Management Plan
 |- 
-| 4 || 1.4.6.1 || Creation of HR Management Plan
+| 4 || 1.5.3.3 || Creation of Time Management Plan
 |- 
-| 4 || 1.4.6.2 || Creation of Quality Management Plan
+| 4 || 1.5.3.4 || Creation of Work Breakdown Structure
 |- 
-| 4 || 1.4.6.3 || Creation of Risk Management Plan
+| 4 || 1.5.3.5 || Creation of Work Packages based on WBS.
 |- 
-| 4 || 1.4.6.4 || Creation of Communications Management Plan
+| 3 || 1.5.4 || System Updates
 |- 
-| 4 || 1.4.6.5 || Creation of Procurement Management Plan
+| 4 || 1.5.4.1 || Testing 1
 |- 
-| 3 || 1.4.7 || PROJMAN Week 11
+| 3 || 1.5.5 || PROJMAN Midterm Evaluation
 |- 
-| 4 || 1.4.7.1 || Creation of Project Status Reports Distribution Plan
+| 4 || 1.5.5.1 || Submission of PROJMAN Midterm Requirements
 |- 
-| 4 || 1.4.7.2 || Creation of Change Request Documentation
+| 4 || 1.5.5.2 || PROJMAN Midterm presentation (Sprint 10)
 |- 
-| 4 || 1.4.7.3 || Creation of Project Execution Monitoring Report
+| 3 || 1.5.6 || PROJMAN Week 8-10
 |- 
-| 4 || 1.4.7.4 || Creation of Implementation Plan
+| 4 || 1.5.6.1 || Creation of HR Management Plan
 |- 
-| 3 || 1.4.8 || PROJMAN Week 12
+| 4 || 1.5.6.2 || Creation of Quality Management Plan
 |- 
-| 4 || 1.4.8.1 || Creation of Change Management Plan
+| 4 || 1.5.6.3 || Creation of Risk Management Plan
 |- 
-| 4 || 1.4.8.2 || Creation of Project Status Reports
+| 4 || 1.5.6.4 || Creation of Communications Management Plan
 |- 
-| 4 || 1.4.8.3 || Creation of Transition-Out Plan
+| 4 || 1.5.6.5 || Creation of Procurement Management Plan
 |- 
-| 4 || 1.4.8.4 || Creation of Project Turn-Over Plan
+| 3 || 1.5.7 || PROJMAN Week 11
 |- 
-| 4 || 1.4.8.5 || Creation of Post Project Review Plan
+| 4 || 1.5.7.1 || Creation of Project Status Reports Distribution Plan
 |- 
-| 3 || 1.4.9 || PROJMAN Week 13
+| 4 || 1.5.7.2 || Creation of Change Request Documentation
 |- 
-| 4 || 1.4.9.1 || Creation of Consolidated Project Plan
+| 4 || 1.5.7.3 || Creation of Project Execution Monitoring Report
 |- 
-| 3 || 1.4.10 || PROJMAN Final Evaluation
+| 4 || 1.5.7.4 || Creation of Implementation Plan
 |- 
-| 4 || 1.4.10.1 || Submission of PROJMAN Final Requirements
+| 3 || 1.5.8 || PROJMAN Week 12
 |- 
-| 4 || 1.4.10.2 || PROJMAN Final presentation (Sprint 11)
+| 4 || 1.5.8.1 || Creation of Change Management Plan
 |- 
-| 2 || 1.5 || Closeout
+| 4 || 1.5.8.2 || Creation of Project Status Reports
 |- 
-| 3 || 1.5.1 || System and documentation handover
+| 4 || 1.5.8.3 || Creation of Transition-Out Plan
 |- 
-| 3 || 1.5.2 || Gain Formal Acceptance
+| 4 || 1.5.8.4 || Creation of Project Turn-Over Plan
 |- 
-| 3 || 1.5.3 || Project close out meeting
+| 4 || 1.5.8.5 || Creation of Post Project Review Plan
+|- 
+| 3 || 1.5.9 || PROJMAN Week 13
+|- 
+| 4 || 1.5.9.1 || Creation of Consolidated Project Plan
+|- 
+| 3 || 1.5.10 || PROJMAN Final Evaluation
+|- 
+| 4 || 1.5.10.1 || Submission of PROJMAN Final Requirements
+|- 
+| 4 || 1.5.10.2 || PROJMAN Final presentation (Sprint 11)
+|- 
+| 2 || 1.6 || Closeout
+|- 
+| 3 || 1.6.1 || System and documentation handover
+|- 
+| 3 || 1.6.2 || Gain Formal Acceptance
+|- 
+| 3 || 1.6.3 || Project close out meeting
 |}
+
+
 
 ==10.4 Tabular View ==
 
