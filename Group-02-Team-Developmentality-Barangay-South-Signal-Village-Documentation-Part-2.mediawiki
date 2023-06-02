@@ -181,6 +181,27 @@ The potential risks identified for the Barangay South Signal Village Web Applica
     </tr>
   </table>
 
+<table border="1" width="70%" align="center">
+<tr>
+      <th colspan="2">2.	Risk: Security Vulnerability</th>
+    </tr>
+    <tr>
+      <td>Probability</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Impact</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Justification</td>
+      <td>The project's exposure to security breaches, such as malware, identity theft, or data loss, is significant, considering the sensitive information involved. The impact can lead to process disruptions and severe damage to the client and residents.</td>
+    </tr>
+    <tr>
+      <td>Priority</td>
+      <td>High</td>
+    </tr>
+  </table>
  
 Based on the risk qualification and prioritization, the high-priority risks are scope creep and security vulnerability. These risks require immediate attention and dedicated mitigation efforts to minimize their potential impact on the project. The medium-priority risks, human error, and lack of resources should also be addressed, but with a lower intensity of resources and attention.
 ==13.6 Risk  Monitoring==
