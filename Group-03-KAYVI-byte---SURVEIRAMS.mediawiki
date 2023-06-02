@@ -2414,22 +2414,62 @@ Overall, the transition out plan aims to ensure that the client receives a fully
 To ensure a smooth and uninterrupted transition for the SurveiRams Ticketing System Project, a phased approach will be implemented, prioritizing continuity and minimal disruption. The aim is to transfer knowledge, resources, and responsibilities gradually and systematically to the new team, thereby minimizing the risk of service interruptions and downtime.
 
 The project management process encompasses the following stages:
-# Project Management Process
+# '''Identifying Key Variables:''' An in-depth understanding of the essential factors, variables, or parameters relevant to the project will be established. This involves recognizing crucial elements that significantly impact the project's overall success.
+# '''Determining Roles:''' The specific roles and responsibilities of each team member will be determined. This entails assigning particular tasks and clearly defining the roles and duties of individuals involved in the project.
+# '''Clarifying Responsibilities:''' Clear and concise responsibilities will be outlined for each team member. This ensures that everyone possesses a precise understanding of their specific duties and the expectations placed upon them.
+# '''Assigning Work:''' Tasks and activities will be delegated to team members who possess the appropriate skills and expertise. This delegation process ensures an effective and efficient distribution of workload.
+# '''Monitoring Progress:''' The progress of the project will be closely monitored to track the timely completion of tasks and milestones. This allows for the prompt identification of any issues or delays, enabling proactive corrective actions.
+# '''Implementing Corrective Action:''' In the event of any project-related challenges or issues, suitable corrective actions will be undertaken. This may involve modifying the project plan, reallocating resources, or making necessary adjustments to ensure the achievement of project success.
 
-a. Identifying Key Variables
-   An in-depth understanding of the essential factors, variables, or parameters relevant to the project will be established. This involves recognizing crucial elements that significantly impact the project's overall success.
+By following these steps, the project management process facilitates effective communication, meticulous planning, knowledge transfer, efficient allocation of staff, and the ability to actively monitor progress while addressing any emerging issues.
 
-b. Determining Roles
-   The specific roles and responsibilities of each team member will be determined. This entails assigning particular tasks and clearly defining the roles and duties of individuals involved in the project.
+'''  Timeline:'''   
+   
+The transition plan is divided into two primary phases: implementation and closeout.
 
-c. Clarifying Responsibilities
-   Clear and concise responsibilities will be outlined for each team member. This ensures that everyone possesses a precise understanding of their specific duties and the expectations placed upon them.
+The implementation phase, scheduled from February 15 to April 18, includes activities such as user training and progress monitoring. The closeout phase, which takes place from April 19 to June 7, involves documenting lessons learned, updating files/records, obtaining formal acceptance, archiving files/documents, and conducting a project closeout meeting.
 
-d. Assigning Work
-   Tasks and activities will be delegated to team members who possess the appropriate skills and expertise. This delegation process ensures an effective and efficient distribution of workload.
+The timeline provides a detailed schedule for each activity, ensuring that all transition tasks are completed promptly. The success of the transition plan hinges on the careful planning and execution of each activity as outlined in the timeline.
 
-e. Monitoring Progress
-   The progress of the project will be closely monitored to track the timely completion of tasks and milestones. This allows for the prompt identification of any issues or delays, enabling proactive corrective actions.
+'''  Assumptions:'''  
 
-f. Implementing Corrective Action
-   In the event of any project-related challenges or issues, suitable corrective actions will be undertaken. This may involve modifying the project plan, reallocating resources, or making necessary adjustments to ensure the achievement of project success.
+To facilitate the transition approach, the following assumptions will be made:
+# The Project Developers and Software testers will be physically present on-site or available for online meetings to actively participate in the transition process and receive knowledge transfer.
+# The project team will provide the Quality Assurance Lead with all necessary documentation, training materials, and instruction manuals to facilitate the transfer of knowledge.
+# Asia Pacific College (APC) will supply all required equipment and software licenses to the project team to support the system.
+# The project team possesses the requisite skills and knowledge to sustainably support the system once the transition is completed.
+
+==16.3 Transition Team Organization==
+# '''Transition Project Manager (TPM):''' The individual accountable for the overall success of the transition. The TPM oversees the transition team, ensures the timely completion of transition tasks, maintains coordination with the customer, and guarantees adherence to the transition plan.
+# '''Developers/Technical Lead (DTL):''' Responsible for offering technical proficiency throughout the project. The Developers/Technical Lead collaborates closely with the project team to comprehend the system and establish a transition plan. Additionally, the TL facilitates coordination with the new contractor to ensure a seamless transfer of technical knowledge and expertise.
+# '''Software Tester Lead (STL):''' Tasked with creating test plans, organizing testing activities, and upholding software quality standards. The STL closely collaborates with project managers, developers, and stakeholders to ensure a smooth and successful software testing process.
+# '''Quality Assurance (QA) Lead:''' Responsible for guaranteeing that all deliverables meet the quality standards specified in the transition plan. The QA Lead works in close collaboration with the TPM to develop quality metrics and ensure the completion of all transition tasks to a high standard.
+# '''Project Team Members:''' Responsible for providing support, knowledge, and expertise regarding the system. They work closely with the TPM, developers, and other team members to facilitate a seamless transition of knowledge and expertise.
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Role</strong></td>
+      <td><strong>Responsibilities</strong></td>
+    </tr>
+    <tr>
+      <td>Transition Project Manager</td>
+      <td>The individual accountable for the overall success of the transition. The TPM oversees the transition team, ensures the timely completion of transition tasks, maintains coordination with the customer, and guarantees adherence to the transition plan.</td>
+    </tr>
+    <tr>
+      <td>Developers/Technical Lead</td>
+      <td>Responsible for offering technical proficiency throughout the project. The Developers/Technical Lead collaborates closely with the project team to comprehend the system and establish a transition plan. Additionally, the TL facilitates coordination with the new contractor to ensure a seamless transfer of technical knowledge and expertise.</td>
+    </tr>
+    <tr>
+      <td>Software Tester Lead</td>
+      <td>Tasked with creating test plans, organizing testing activities, and upholding software quality standards. The STL closely collaborates with project managers, developers, and stakeholders to ensure a smooth and successful software testing process.</td>
+    </tr>
+    <tr>
+      <td>Quality Assurance Lead</td>
+      <td>Responsible for guaranteeing that all deliverables meet the quality standards specified in the transition plan. The QA Lead works in close collaboration with the TPM to develop quality metrics and ensure the completion of all transition tasks to a high standard.</td>
+    </tr>
+    <tr>
+      <td>Project Team Members</td>
+      <td>Responsible for providing support, knowledge, and expertise regarding the system. They work closely with the TPM, developers, and other team members to facilitate a seamless transition of knowledge and expertise.</td>
+    </tr>
+  </tbody>
+</table>
