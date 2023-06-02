@@ -985,4 +985,25 @@ The project manager will handle and manage all the things needed to be obtained 
 
 After making the list of necessary materials for the project, the project would then look for a suitable supplier to either buy or start having a contract with the store.  
 
+=Risk Management Plan=
+
+==Introduction==
+
+RAMS Corner Ticketing System aims to modernize and introduce a more efficient and manageable workflow for the Information Technology Resource Office of Asia Pacific College by replacing their current email-based reporting system into a more organized ticketing system that addresses all inquiries or incidents that needs the ITRO expertise.
+
+By following a hybrid model of project lifecycle, this risk management plan will follow specific steps that will be consolidated upon sprints. This includes identifying potential risks, developing quick risk response techniques, controlling, and monitoring the potential risks, that will help the entirety of project to adhere to the allotted time and budget, as well as to mitigate the risk whilst continuing to provide the solution aimed by the project.
+
+This risk management plan will include the risk assessment, risk response, risk control, risk monitoring, while having all these details further reviewed and revised based on the recent technology advancements and how they will affect the execution of the application that will enable us to mitigate, or minimize  the risk involved in a ticketing system.
+
+==Risk Management Approach==
+
+This risk management plan will follow these steps:
+*Risk Identification – this is a crucial step to be able to analyze the potential risks that will affect the deployment of RAMs Corner Ticketing System greatly. This can include technical problems, Staff problems, customer management problems, or the security problems.
+*Risk Assessment – during this step, the prioritization of risk-handling will occur. After identifying the risk, they will be analyzed to see which is most likely to occur. In this sense, the focus of the allotted time and budget can be given to a risk with higher potential. 
+*Risk Analysis – after having put the risks in hierarchy, analysis of the possible root causes for these potential risks will undergo this process. This will help in assessing the possible impacts of certain risk factors and update the existing control measures or create a new plan.
+*Risk Treatment – once the risks are analyzed one-by-one, an appropriate contingency plan will be created based on the risk factors.
+*Risk Monitoring and Review – it is important to keep the risk under control, so the monitoring and review will help in further improving the risk mitigation strategies or the contingency plan based on the different circumstances 
+*Communication with the Team and the Stakeholders – regular reporting of progress in risk mitigation will be held so that each and every one of the team members as well as the stakeholders will be informed of what is going on within the system, and what to expect upon the existing risk mitigation procedures.  
+*Documentation – lastly is to document all the risk mitigation processes that the project has undergone. It is important to have historical data as a reference if the risk management plan adhered to the rules set to the project.
+
 
