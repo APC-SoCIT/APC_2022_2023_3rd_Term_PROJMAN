@@ -1675,7 +1675,8 @@ In Agile and Scrum methodology, the development process incorporates quality con
 * '''User Acceptance Testing (UAT):''' Representative end users will conduct UAT at the end of each sprint to validate the system's adherence to their needs and expectations. Feedback from users will guide necessary modifications.
 * '''Compatibility Testing:''' The Dispatch Directory System will undergo testing on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any challenges encountered in different environments.
 * '''Continuous Monitoring:''' Post-deployment, the project team will closely monitor system effectiveness, focusing on key performance indicators such as user satisfaction, response time, and system uptime. This data will inform system upgrades, issue identification, and bottleneck resolution.
-<br> The following quality metrics will be utilized to monitor and evaluate system performance: 
+The following quality metrics will be utilized to monitor and evaluate system performance: 
+
 ** Defect Density: Number of defects identified per unit of measure (e.g., per KLOC).
 ** Defect Severity: Classification of defects based on their impact on the system.
 ** Test Coverage: Percentage of the system subjected to testing.
@@ -1684,6 +1685,6 @@ In Agile and Scrum methodology, the development process incorporates quality con
 ** Response Time: Duration for the system to respond to user requests.
 ** System Uptime: Percentage of time the system is available and functioning as expected.
 * '''Monitoring and Documenting Quality Assessments:''' The project team will diligently track and record the results of the Quality Control process, enabling ongoing monitoring of the project's advancement and the impact of any corrective measures implemented. Thorough documentation will provide valuable insights into the project's quality status.
-* '''Continuous Improvement:''' The Quality Control process will undergo regular reviews to identify areas for enhancement and embrace opportunities for improvement. The project team will proactively seek out avenues to refine the process and swiftly incorporate necessary adjustments. This commitment to continuous improvement ensures that the Quality Control process remains adaptable to evolving requirements and industry best practices.
+* '''Continuous Improvement:''' The Quality Control process will undergo regular reviews to identify areas for enhancement and embrace opportunities for improvement. The project team will proactively seek out avenues to refine the process and swiftly incorporate necessary adjustments. This commitment to continuous improvement ensures that the Quality Control process remains adaptable to evolving requirements and industry best practices. 
 
-In conclusion, the SurveiRams Ticketing System project's Quality Control process will be deeply integrated into the development cycle, encompassing continuous testing, user feedback, and performance monitoring. The project team will vigilantly evaluate and maintain product quality, ensuring alignment with established standards and customer expectations.
+<br> In conclusion, the SurveiRams Ticketing System project's Quality Control process will be deeply integrated into the development cycle, encompassing continuous testing, user feedback, and performance monitoring. The project team will vigilantly evaluate and maintain product quality, ensuring alignment with established standards and customer expectations.
