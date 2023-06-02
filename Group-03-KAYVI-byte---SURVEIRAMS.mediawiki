@@ -2163,12 +2163,103 @@ Therefore, the SurveiRams System suggests using a combination of project managem
     </tr>
   </tbody>
 </table>
-==14.9 Communication Flowchart=
-<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/3372df55-4cee-4a0b-9e63-8fba201f87f3" alt="WBS" style="display:block; margin:0 auto;">
+==14.9 Communication Flowchart==
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/3372df55-4cee-4a0b-9e63-8fba201f87f3" alt="WBS" style="display:block; margin:0 auto;"> <br/>
 <img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/ebcd66c5-0ed5-46ee-b21a-ad51ffa70ee4" alt="WBS" style="display:block; margin:0 auto;">
-==14.10 Guidelines for Meetings=
+==14.10 Guidelines for Meetings==
 Meeting guidelines are a set of principles and recommendations that help ensure effective and productive meetings. These guidelines serve as a framework for conducting meetings in a structured and efficient manner, promoting collaboration, engagement, and positive outcomes. The SurveiRams project is no exception. To ensure that meetings are productive, efficient, and effective, it is important to establish clear guidelines for meetings. These guidelines should include information on the purpose of meetings, the roles and responsibilities of attendees, and the procedures that will be followed during meetings.    
 
 Having clearly outlined meeting guidelines enables project team members and stakeholders to come well-prepared and actively engage in discussions, enhancing their participation. Furthermore, it allows the project manager to maintain consistency and organization throughout meetings, preventing any potential confusion or misunderstandings.
    
 The following guide is to help the project team to initiate a successful meeting:
+* '''Define Clear Objectives:''' Start by clarifying the purpose and objectives of the meeting. Clearly communicate what you aim to accomplish. Ensure that all participants are aware of the desired outcomes.
+* '''Prepare an Agenda:''' Create a well-structured agenda that outlines the topics to be discussed, the time allocated for each item and any necessary materials or preparations.
+* '''Start and End on time:''' Punctuality is crucial for effective meetings. Begin the meeting promptly at the scheduled time, regardless of whether all participants are present. Respect everyone's time by ending the meeting on time.
+* '''Encourage active participation:''' Create an environment that encourages people to participate and speak. Encourage diverse perspectives, ask open-ended questions, and provide opportunities for everyone to contribute.
+* '''Allocate time effectively:''' Allocate sufficient time for each agenda item, considering its importance and complexity. Prioritize critical discussions and be mindful of time constraints. If needed, table less urgent topics for subsequent meetings.
+* '''Document key points and action items:''' Assign someone to document the meeting minutes or key takeaways. Capture important decisions, action items, and responsibilities assigned to individuals. Share the minutes with participants after the meeting to ensure everyone is aligned.
+* '''Follow up on action items:''' Monitor progress on action items and provide updates in subsequent meetings. Hold individuals accountable for their assigned tasks and track their completion. This ensures that the outcomes of the meeting are implemented effectively.
+
+By adhering to these meeting guidelines, you can enhance the efficiency, collaboration, and overall effectiveness of your meetings, leading to better outcomes and stronger teamwork.
+
+==14.11 Communication Standards==
+The best communication standards for the SurveiRams project may include the following:  
+* '''Regular Team Meetings:''' Schedule regular team meetings mostly once or twice a week to discuss project progress, address challenges, and ensure everyone is aligned. These meetings can be conducted in person or remotely, depending on the team's location. 
+* '''Active listening:''' Engage in attentive listening, focusing on understanding others' perspectives and ideas. Avoid interrupting and demonstrate respect for the speaker by giving them your full attention.
+* '''Clear and concise expression:''' Express your thoughts and ideas clearly, using simple and concise language. Avoid jargon or overly technical terms that may confuse others.
+* '''Respectful dialogue:''' Foster a respectful and inclusive environment where all participants feel comfortable expressing their opinions. Treat others with courtesy and avoid engaging in personal attacks or disrespectful behavior.
+* '''Constructive feedback:''' Provide feedback in a constructive and tactful manner, emphasizing specific points and suggestions for improvement. Avoid overly critical or negative language that may hinder collaboration.
+* '''Clarity in questioning:''' Ask clear and relevant questions to seek clarification, gather information, or prompt deeper discussion. Avoid vague or ambiguous questions that may lead to confusion.
+* '''Summarize and recap:''' Periodically summarize key points and takeaways from the discussion to ensure everyone is on the same page. This helps consolidate information and maintain focus throughout the meeting.
+* '''Follow up:''' After the meeting, ensure that any action items or decisions are documented and communicated to relevant parties. Take responsibility for assigned tasks and provide updates as necessary.
+* '''Communication Channels:''' Establish clear channels of communication for the project team, such as email, instant messaging platforms, project management tools, or collaboration software. Ensure that everyone knows which channels to use for different types of communication.
+* '''Documentation:''' Emphasize the importance of documenting project-related information. This includes maintaining a project repository for code and design assets, documenting requirements, technical specifications, meeting minutes, and any decisions made during the project.
+* '''Status Updates:''' Regularly provide status updates on project milestones, progress, and any blockers or challenges. This can be done through project management tools, email, or shared documents. Transparent and timely communication helps the team stay informed and take necessary actions.
+
+==14.12 Communication Escalation Process==
+The ideal and best communication escalation process for the SurveiRams project would involve the following steps:  
+# '''Direct Communication:''' Encourage team members to communicate directly with each other for routine project-related matters. This includes discussions about tasks, progress updates, and minor issues. Team members should be able to resolve these matters through open and direct communication.
+# '''Team Lead/Manager Involvement:''' If a communication issue persists or if team members are unable to resolve it directly, the next step is to involve the respective team lead or manager. The team lead or manager can mediate the discussion, clarify misunderstandings, and help find a resolution.
+# '''Project Manager/Project Sponsor Involvement:''' If the issue remains unresolved or requires higher-level intervention, it should be escalated to the project manager or project sponsor. The project manager or sponsor will assess the situation, provide guidance, and take necessary actions to address the issue.
+# '''Project Stakeholder Involvement:''' In cases where the issue involves project stakeholders, such as clients or end-users, and it cannot be resolved at the team level, escalate the matter to the project stakeholder(s). This may include scheduling a meeting or providing a detailed written report outlining the issue and the attempts made to resolve it.
+# '''Post-Incident Review:''' After a communication issue has been resolved, conduct a post-incident review to analyze the root cause, identify areas for improvement, and implement any necessary corrective or preventive actions. This review helps prevent similar communication issues in the future.
+
+It's important to note that the escalation process should be flexible and adaptable to the specific needs of the project. The project team should review the escalation process regularly to ensure that it remains effective and efficient in addressing communication related issues.   
+
+==14.13 Glossary of Communication Terminology==
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Term</strong></td>
+      <td><strong>Definition</strong></td>
+    </tr>
+    <tr>
+      <td>Team Meetings</td>
+      <td>Scheduled Gatherings of the project team</td>
+    </tr>
+    <tr>
+      <td>Active Listening</td>
+      <td>Engaging in attentive listening to understand others' perspectives without interruption.</td>
+    </tr>
+    <tr>
+      <td>Constructive Feedback</td>
+      <td>Providing Feedback in a tactful and helpful manner to promote improvement.</td>
+    </tr>
+    <tr>
+      <td>Non-verbal cues</td>
+      <td>Observing and Interpreting body language and facial expressions to understand reactions and sentiments.</td>
+    </tr>
+    <tr>
+      <td>Follow-up and Follow-through</td>
+      <td>Documenting action items, decisions and ensuring their completion.</td>
+    </tr>
+    <tr>
+      <td>Post-Incident Review</td>
+      <td>A review after resolving a communication issue to analyze the root cause, identify areas for improvement, and implement necessary corrective or preventive actions.</td>
+    </tr>
+    <tr>
+      <td>Project Manager</td>
+      <td>The individual responsible for planning, executing, and overseeing a project from initiation to completion, including managing resources, risks, and stakeholders.</td>
+    </tr>
+    <tr>
+      <td>Project Management</td>
+      <td>The application of knowledge, skills, tools, and techniques to achieve project objectives within defined constraints, such as scope, time, cost, and quality.</td>
+    </tr>
+    <tr>
+      <td>Communication Standards</td>
+      <td>Standard templates, formats, or documents used for communicating within a project.</td>
+    </tr>
+    <tr>
+      <td>Project-related matters</td>
+      <td>Tasks, issues, updates, materials that are related to the project</td>
+    </tr>
+    <tr>
+      <td>Communication Channels</td>
+      <td>Is where the team can communicate whether personally or through software applications like MS teams, Zoom, etc.,</td>
+    </tr>
+    <tr>
+      <td>Documentation</td>
+      <td>All documents related to the project</td>
+    </tr>
+  </tbody>
+</table>
