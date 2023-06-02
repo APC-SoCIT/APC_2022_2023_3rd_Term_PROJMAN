@@ -1357,9 +1357,30 @@ This is a hierarchical structure outlining the various stages involved in the Su
 
 ==10.7 Glossary of Terms==
 
-<p><strong>Project Charter</strong> - A formal and concise document that provides a comprehensive overview of the project including its objectives, execution methodology, and stakeholders.</p>
-<p>Level of Effort:       Level of Effort (LOE) is how much work is required to complete a task.</p>
-<p>WBS Code:              A unique identifier assigned to each element in a Work Breakdown Structure for designating the elements hierarchical location within the WBS.</p>
-<p>Work Package:         A Work Package is a deliverable or work component at the lowest level of its WBS branch.</p>
-<p>WBS Component:    A component of a WBS which is located at any level.  It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.</p>
-<p>WBS Element:         A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.</p>
+{| border="1" width="70%" align="center"
+|-
+! Terms
+! Definition
+|-
+| Project Charter
+| A formal and concise document that provides a comprehensive overview of the project including its objectives, execution methodology, and stakeholders.
+|-
+| Level of Effort
+| Level of Effort (LOE) is how much work is required to complete a task.
+|-
+| WBS Code
+| A unique identifier assigned to each element in a Work Breakdown Structure for the purpose of designating the element's hierarchical location within the WBS.
+|-
+| Work Package
+| A Work Package is a deliverable or work component at the lowest level of its WBS branch.
+|-
+| WBS Component
+| A component of a WBS which is located at any level. It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.
+|-
+| WBS Element
+| A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS. A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.
+|-
+| WBS Estimated Duration
+| The Estimated Duration in WBS refers to the amount of time that is expected to be required for completing a particular task or activity.
+|}
+
