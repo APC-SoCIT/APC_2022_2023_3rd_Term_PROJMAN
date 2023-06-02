@@ -1,1 +1,0 @@
-Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Group-02-Team-Developmentality-Barangay-South-Signal-Village-Documentation-Part-2
