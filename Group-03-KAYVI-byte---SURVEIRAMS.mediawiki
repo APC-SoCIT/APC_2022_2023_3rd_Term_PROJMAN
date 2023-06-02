@@ -2214,52 +2214,186 @@ It's important to note that the escalation process should be flexible and adapta
       <td><strong>Definition</strong></td>
     </tr>
     <tr>
-      <td>Team Meetings</td>
+      <td>'''Team Meetings'''</td>
       <td>Scheduled Gatherings of the project team</td>
     </tr>
     <tr>
-      <td>Active Listening</td>
+      <td>'''Active Listening'''</td>
       <td>Engaging in attentive listening to understand others' perspectives without interruption.</td>
     </tr>
     <tr>
-      <td>Constructive Feedback</td>
+      <td>'''Constructive Feedback'''</td>
       <td>Providing Feedback in a tactful and helpful manner to promote improvement.</td>
     </tr>
     <tr>
-      <td>Non-verbal cues</td>
+      <td>'''Non-verbal cues'''</td>
       <td>Observing and Interpreting body language and facial expressions to understand reactions and sentiments.</td>
     </tr>
     <tr>
-      <td>Follow-up and Follow-through</td>
+      <td>'''Follow-up and Follow-through'''</td>
       <td>Documenting action items, decisions and ensuring their completion.</td>
     </tr>
     <tr>
-      <td>Post-Incident Review</td>
+      <td>'''Post-Incident Review'''</td>
       <td>A review after resolving a communication issue to analyze the root cause, identify areas for improvement, and implement necessary corrective or preventive actions.</td>
     </tr>
     <tr>
-      <td>Project Manager</td>
+      <td>'''Project Manager'''</td>
       <td>The individual responsible for planning, executing, and overseeing a project from initiation to completion, including managing resources, risks, and stakeholders.</td>
     </tr>
     <tr>
-      <td>Project Management</td>
+      <td>'''Project Management'''</td>
       <td>The application of knowledge, skills, tools, and techniques to achieve project objectives within defined constraints, such as scope, time, cost, and quality.</td>
     </tr>
     <tr>
-      <td>Communication Standards</td>
+      <td>'''Communication Standards'''</td>
       <td>Standard templates, formats, or documents used for communicating within a project.</td>
     </tr>
     <tr>
-      <td>Project-related matters</td>
+      <td>'''Project-related matters'''</td>
       <td>Tasks, issues, updates, materials that are related to the project</td>
     </tr>
     <tr>
-      <td>Communication Channels</td>
+      <td>'''Communication Channels'''</td>
       <td>Is where the team can communicate whether personally or through software applications like MS teams, Zoom, etc.,</td>
     </tr>
     <tr>
-      <td>Documentation</td>
+      <td>'''Documentation'''</td>
       <td>All documents related to the project</td>
     </tr>
   </tbody>
 </table>
+
+=15. PROCUREMENT MANAGEMENT PLAN=
+==15.1 Introduction==
+The project's success depends on the Procurement Management Plan. The procurement requirements for the project are outlined in this plan, with how the procurement process will be managed from the creation of procurement paperwork to the conclusion of contracts. This strategy attempts to assure that all necessary materials are acquired within the budget, on schedule and in accordance with the level of quality needed for the project. The kinds of items that need to be acquired, the justifications and timetables to accomplish, the contract types to be used, the risks connected to procurement management, and how these risks will be addressed are all specified in this strategy. It also describes how to determine costs and evaluate vendors, including how to use templates and other forms of standard procurement.   
+
+Management of vendors, a crucial step in the procurement process, is also included in this strategy. In addition, it identifies any qualified sellers if necessary. The plan includes performance metrics for procurement operations in order to guarantee that the procurement procedure is monitored and controlled throughout the project's life cycle.   
+   
+To summarize, Procurement Management Plan’s objective is to have an efficient and effective completion on the project’s procurement requirements while giving a priority on the quality, cost, and schedule. This management provides a roadmap of the procurement process, for stakeholders to be aware and informed of what is happening in the development.
+
+==15.2 Procurement Risks==
+Procurement in every project is a vital component that should be taken with care because it involves budget in acquiring goods, services or work from external sources.  Having risks in the procurement may negatively impact the development. Therefore, it is an issue that should be addressed to minimize the impact on the project.
+   
+The SurveiRams System incorporates procurement processes that entail a number of hazards, including but not exclusive to the following:   
+* Delivery of services or goods within the project timeline from vendor may result in increased costs.
+* The absence of competition in the market may lead to higher prices or reduced quality of goods and services.
+* Commitments with the vendor and procurement activities may be compromised when there will be a sudden change in the project scope, schedule or budget.
+* Misunderstandings between the project team and the vendor may arise when there are no clear specifications, lack of documents and incorrect assumptions.
+* Poor communication with the vendor may lead to misunderstandings.
+* Vendor does not comply with the regulatory requirements or legal issues, which may impact the project, team and stakeholder’s reputation.
+* Inadequate vendor selection or evaluation may result into partnering with unreliable sources that has a low quality of goods or services.
+* Contract management oversight may lead the vendor’s services or goods and the project team’s development to fail.
+
+To mitigate these risks, the Procurement Management Plan includes detailed strategies for risk identification, assessment, and mitigation. The team will consistently monitor the plan throughout the project’s duration to specify and address the risks. Moreover, the team will impose accurate procurement processes to control the potential risks associated with procurement management.
+
+==15.3 Procurement Risk Management==
+# Identification of Procurement Risks  
+The first step in managing procurement risks is to identify and assess them. For the SurveiRams System, potential procurement risks include: 
+* Unexpected increase in the cost of goods or services
+* Delays in the delivery of goods or services
+* Vendor bankruptcy 
+* Incomplete or substandard goods or services  
+* Unclear or insufficient contract terms and conditions 
+* Misalignment of the vendor’s goals with the project
+* Inaccurate estimates of costs and timelines  
+* Insufficient supplier qualifications
+
+# Risk Mitigation Strategies  
+After identifying the potential procurement risks, it is ideal to plot a strategy to mitigate them. For the SurveiRams System, the following risk mitigation strategies will be put into action:
+* Regularly monitoring and evaluating the vendor’s performance to ensure that they adhere the project and the team’s standards.
+* Implement an effective contract management practice to prevent vagueness and ensure clear information.
+* Conducting research in the market to identify lists of reliable vendors with a good track record in delivering high-quality goods or services.
+* Establishing a clear delivery schedules, specifications and performance criteria for the procurement plan.
+* Developing a comprehensive contract terms and conditions that protects the interests of the project and the team.
+* Having a contingency plan to address potential vendor bankruptcy.
+* Conducting a regular risk assessment in the procurement process to identify and address emerging risks.  
+# Assignment of Responsibilities 
+Every person in the team should be given a clear assignment of duties for controlling procurement risks. The procurement manager will be in charge of identifying and evaluating procurement risks for the SurveiRams System, creating risk mitigation plans, and keeping an eye on risk throughout the procurement process.    
+
+Project manager and the team’ s input and feedback on procurement risk management strategies are also valuable and essential. 
+# Communication and Reporting  
+Communication and reporting in the process of procurement risk management is valuable. The regular updates on the procurement risks and risks mitigation activities will be provided to the team.
+
+Moreover, communication plan is developed for the stakeholders to keep informed in any changes or developments made in the procurement risk management.
+# Continuous Improvement  
+To improve future procurement planning and execution, lessons acquired from risk management and procurement operations will be recorded and communicated to the project team. It should be a constant practice to improve procurement risk management.
+  
+In order to identify areas for improvement, procurement risk management operations will also be regularly reviewed.     
+
+==15.4 Cost Determination==
+Determining costs is a key component of the SurveiRams System procurement process. The team will employ a thorough cost determination procedure to choose the providers who are both competent and cost-efficient. As part of the cost estimation process, potential suppliers are asked to submit quotes, proposals, or bids in response to an RFP (Request for Proposal). The team must assess the costs related to the procurement process, such as acquisition, delivery, installation, and maintenance costs. The group will evaluate potential cost overruns as well as suggest measures to reduce them. To promote openness and equity in the selection process, the project team will make cost one of the primary deciding factors.    
+
+The cost determination process will involve a number of stakeholders, such as procurement managers, project managers, and financial analysts. These parties will work together to make sure that the procurement budget is continuously tracked and that all expenditures are accurately estimated. The project team will use standardized procurement templates and papers to speed up the cost estimation procedure. This will make it easier to guarantee that all cost estimates are accurate and consistent across all procurement operations. The project team will also construct procurement performance measures to evaluate the efficiency of the cost estimation procedure.  
+   
+Overall, the procurement management plan's cost determination section will be extremely important in ensuring that the SurveiRams System is completed successfully and within the allotted budget. 
+
+==15.5 Procurement Constraints==
+The following constraints must be considered as part of the SurveiRams project’s procurement management process:   
+# '''Budget Constraint:''' The project must be completed within a specific budgetary limit. This constraint ensures that the procurement process and subsequent implementation of the web application are cost-effective and aligned with the available financial resources.
+# '''Time Constraint:''' The project must be delivered within a specified timeframe. This constraint helps ensure that the web application is developed and deployed according to the project schedule, meeting the required deadlines.
+# '''Quality Constraint:''' The project must meet certain quality standards and performance expectations. This constraint ensures that the procurement process focuses on selecting vendors or suppliers who can deliver a high-quality product that meets the project requirements.
+# '''Technical Constraint:''' The project must adhere to specific technical specifications or compatibility requirements. This constraint ensures that the chosen vendors or suppliers have the necessary technical expertise and can provide a solution that integrates seamlessly with existing systems or infrastructure.
+# '''Security and Compliance Constraint:''' The project must comply with relevant security standards, data protection regulations, and industry-specific compliance requirements. This constraint ensures that the procurement process considers vendors or suppliers who have a strong focus on security and compliance measures.
+# '''Scalability Constraint:''' The project must be scalable to accommodate future growth and increased user demand. This constraint ensures that the procurement process accounts for vendors or suppliers who can provide a solution that can easily scale and handle the projected increase in users or data volume.
+
+These constraints must be considered throughout the procurement process to ensure that the Dispatch Directory System project's requirements are met within the project's timeline and budget constraints.    
+
+==15.6 Contract Approval Process==
+The contract approval process for the SurveiRams project will follow a systematic and organized approach to ensure the timely and effective approval of all contracts. The process will adhere to the organization's policies and procedures and encompass the following stages:
+# '''Initiation:''' The project sponsor or requester identifies the need for a web application and initiates the contract approval process. This includes documenting the project requirements, objectives, and expected outcomes.
+# '''Preparing the Request for Proposal (RFP):''' The project team, in collaboration with the procurement department, prepares a detailed Request for Proposal (RFP). The RFP includes project specifications, technical requirements, timeline, budget, evaluation criteria, and any other relevant information.
+# '''Vendor Selection:''' The procurement department issues the RFP to potential vendors and suppliers. Interested vendors submit their proposals, which are evaluated based on predetermined criteria such as experience, technical capabilities, price, references, and compliance with security and regulatory requirements.
+# '''Proposal Evaluation:''' The project team reviews and evaluates the proposals received. They assess each proposal based on the defined evaluation criteria and shortlist the vendors that best meet the project requirements.
+# '''Contract Negotiation:''' The project team engages in contract negotiation with the selected vendor(s). This includes discussing terms and conditions, pricing, scope of work, service-level agreements, intellectual property rights, data protection, and any other relevant contractual aspects.
+# '''Contract Approval:''' The revised contract is submitted for final approval to the designated authority, such as a project steering committee, management team, or legal department. The approval authority carefully reviews the contract, considering factors such as budget, alignment with organizational objectives, legal compliance, and risk assessment.
+# '''Signatures and Execution:''' Once the contract receives final approval, both parties (the company and the vendor) sign the contract, acknowledging their agreement to the terms and conditions. This may involve obtaining signatures from authorized signatories and stakeholders and storing the executed contract in a secure repository.
+# '''Contract Management:''' After contract execution, a contract management process is established to monitor the vendor's performance, ensure compliance with contractual obligations, track deliverables, manage changes, and handle any issues or disputes that may arise during the project implementation.
+
+It's important to note that the contract approval process may vary depending on the organization's specific procedures, hierarchy, and approval authority levels. Therefore, it is advisable to adapt the process to align with your organization's unique requirements and internal policies.
+
+==15.7 Decision Criteria==
+For the SurveiRams project, the following decision criteria will be used by the contract review board:   
+* '''Technical Expertise:''' The vendor should possess the necessary technical skills and capabilities to successfully complete the project, demonstrating experience in similar projects and expertise in relevant technologies.
+* '''Pricing:''' The vendor's proposed solution should have competitive and reasonable pricing, which will be evaluated based on market research and comparison with other received proposals.
+* '''Timelines:''' The vendor must demonstrate the ability to meet the project's timeline and deliverables, including key milestones and completion dates.
+* '''Quality Assurance:''' The vendor's track record should demonstrate a consistent delivery of high-quality solutions and services, supported by references and testimonials from previous clients.
+* '''Risk Management:''' The vendor should exhibit a comprehensive understanding of potential risks and have effective risk mitigation plans in place. This includes identifying procurement-related risks as well as risks associated with project execution.
+* '''Sustainability:''' The vendor's proposed solution should consider sustainability factors, including environmental, social, and economic aspects. This could involve utilizing eco-friendly materials or supporting local communities.
+* '''Compliance:''' The vendor must comply with all applicable legal, regulatory, and contractual requirements, including intellectual property rights, data privacy, and security protocols.
+* '''Communication:''' The vendor must exhibit excellent communication skills and be responsive to inquiries, concerns, and updates throughout the project lifecycle. Effective and open communication channels are essential for successful collaboration.
+* '''Scalability:''' The vendor's solution should be scalable, allowing for future growth and adaptability to evolving business needs. This includes the ability to accommodate increased user demand, handle larger datasets, and integrate additional features seamlessly.
+* '''Innovation and Creativity:''' The vendor should demonstrate a capacity for innovation and creativity in their proposed solution. This involves providing unique and forward-thinking ideas, leveraging emerging technologies, and offering insights to enhance the overall project outcome.
+* '''Team Expertise:''' The vendor's team members should possess the necessary expertise and experience to contribute effectively to the project. Their qualifications, certifications, and relevant industry knowledge will be evaluated to ensure the availability of a skilled and capable team.
+* '''Collaboration and Flexibility:''' The vendor should exhibit a willingness to collaborate closely with the organization's team, demonstrating flexibility in accommodating changes, feedback, and evolving project requirements. A collaborative approach fosters a productive working relationship.
+* '''Vendor Stability:''' The vendor's financial stability, reputation, and longevity in the industry should be assessed. This helps ensure a reliable and sustainable partnership, reducing the risks associated with vendor instability or unforeseen business disruptions.
+
+The criteria provided ensure that the decision-making process for selecting a vendor for the web application project is comprehensive and aligned with the organization's specific needs and priorities.
+
+==15.8 Performance Metrics for Procurement Activities==
+For the SurveiRams project, the following performance metrics will be used for procurement activities:   
+
+'''Supplier Performance:'''
+This metric evaluates the performance of suppliers based on criteria such as on-time delivery, product quality, adherence to specifications, responsiveness to inquiries, and overall satisfaction of the procurement team and end-users.
+
+'''Procurement Cycle Time:''' 
+Cost Savings: This metric measures the cost savings achieved through procurement activities by comparing the negotiated prices or discounts with market rates or previous prices. It helps determine the effectiveness of cost management strategies and identifies opportunities for further savings.
+
+'''Supplier Diversity:'''
+This metric assesses the diversity and inclusivity of the supplier base, tracking the percentage of contracts awarded to minority-owned, women-owned, veteran-owned, or small businesses. It promotes supplier diversity and supports social responsibility goals.
+
+'''Contract Compliance:'''
+This metric measures the extent to which suppliers adhere to the terms and conditions specified in the contracts. It evaluates factors such as timely delivery, quality of goods or services, invoicing accuracy, and compliance with regulatory requirements.
+
+'''Risk Management:'''
+This metric evaluates the procurement team's ability to identify and mitigate risks associated with suppliers, such as financial instability, supply chain disruptions, regulatory non-compliance, or ethical concerns. It helps ensure supplier reliability and minimize potential risks.
+
+'''Stakeholder Satisfaction:'''
+This metric measures the satisfaction levels of internal stakeholders, such as end-users, project managers, and finance teams, with the procurement process. It involves collecting feedback on factors like responsiveness, accuracy, timeliness, and overall experience.
+
+'''Process Efficiency:'''
+This metric evaluates the efficiency of procurement processes, such as requisition processing, supplier selection, contract negotiation, purchase order creation, and invoice processing. It aims to identify areas for streamlining and automation to optimize efficiency.
+
+'''Continuous Improvement:'''
+This metric assesses the procurement team's ability to drive continuous improvement initiatives. It tracks the implementation of process enhancements, cost reduction strategies, supplier performance improvement plans, and other improvement projects.
+
