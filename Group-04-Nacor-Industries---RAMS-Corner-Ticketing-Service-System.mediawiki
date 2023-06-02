@@ -1006,4 +1006,37 @@ This risk management plan will follow these steps:
 *Communication with the Team and the Stakeholders – regular reporting of progress in risk mitigation will be held so that each and every one of the team members as well as the stakeholders will be informed of what is going on within the system, and what to expect upon the existing risk mitigation procedures.  
 *Documentation – lastly is to document all the risk mitigation processes that the project has undergone. It is important to have historical data as a reference if the risk management plan adhered to the rules set to the project.
 
+By following these steps, this will ensure that the RAMs Corner will run smoothly and efficiently, with less-to-no potential risk, and produce a satisfactory result for customer service  that is one of the aims of the project.
+
+==Risk Identification==
+
+Top three Risk in RAMs Corner Ticketing Service System
+After identifying the risk, they are categorized intro three major types, these are: 
+
+1.Vulnerabilities in System Security – as a ticketing system, this application will typically handle sensitive information of its customers such as their personal details. A weak authentication system may not be able to withstand data breaches, that will probably cause not only operational losses for the ITRO, but also reputational damage with its clients.
+
+2.System Failure – since a ticketing system acts mainly as a customer support channel, it is very crucial for the RAMs Corner service to be up all the time, especially if it is within school hours. In the instances where the system is down, maybe due to some technical problems or external problems, the inability to cater to the client’s tickets will have a negative impact on the ITRO services as a whole.
+
+3.Performance Issue – this is both true for the hardware and peopleware. A  ticketing system is expected to handle a large volume of tickets, maybe not every day, but to a certain point in time. In that instance, it is possible to have performance issues both with the hardware that is being used (be it crashes, slow response time, etc.), and peopleware issues such as taking a long time resolving one ticket. If the ticketing system and its staff were not able to handle a surge of requests and incidents from their customers, there is the operational and reputational risk for the ITRO. 
+
+To be specific, here are the possible risks that are identified for the RAMs Corner: 
+
+1.Security Breaches – personal information that are stored and is being used in a ticketing system is at risk when there is a weak security for the system.
+ 
+2.Downtime – system downtime can greatly reduce the trust of the client to the ITRO because they will not be able to raise their concerns timely. 
+
+3.Inadequate Scalability and Elasticity – a ticketing system is expected to handle customer support efficiently. If the system is not scalable or elastic enough that it will not be able to handle the increase or decrease in the volume of tickets received daily, the system is bound to produce customer dissatisfaction.
+
+4.Lack of Integration – since RAMs Corner will be adapted by the ITRO, it is expected to be able to integrate well with the current software and hardware equipment that is used by the ITRO, as well as the Asia Pacific College Residents being the clients. Inability to integrate means a decrease in productivity, that will therefore cause operational damage.
+
+5.Insufficient Reporting and Analytics – it is important to have a comprehensive analytical report for a ticketing system to measure whether the organization was able to uphold their service satisfactorily. If there is no available data, the performance of the staffs will not be monitored, the customer engagement will not be properly reviewed, therefore, ITRO will miss out on a bunch of important details that can help them in deriving a data-driven decision in the future.
+
+6.Ticket Mishandling -  human errors are also a possible occurrence when handling tickets, this can be misrouting of tickets to unrelated staff/division/department or maybe failure in prioritizing of tickets. These errors will cause client dissatisfaction that will  greatly affect the trust given to the ITRO.
+
+7.Poor User Experience – as a ticketing system, it is expected to be using technical terms at some point. But a very technical user interface is highly likely to overwhelm ordinary users, especially if they are non-IT people. A confusing interface will not only affect the client, but also the satisfaction rate for the ITRO service.
+
+To mitigate these aforementioned risks, the team developed a contingency plan that will allow the ITRO to address these issues in a considerable amount of time. Training before deployment is also a necessary step to familiarize the staff with how they are going to navigate the system. A regular reporting of the progress in risk mitigation will also be held in one-week sprints so that the system can remain up to date to the growing risk potentials and the possible ways to minimize it. 
+
+
+
 
