@@ -488,12 +488,11 @@ The following table presents contact information for all persons identified in t
       <td>jbbermudo@student.apc.edu.ph</td>
     </tr>
     <tr>
-      <td>Scrum team</td>
+      <td rowspan="2">Scrum team</td>
       <td>Rark Mowen Alcantara</td>
       <td>rlalcantara@student.apc.edu.ph</td>
     </tr>
     <tr>
-      <td></td>
       <td>Carl James Garcia</td>
       <td>cagarcia@student.apc.edu.ph</td>
     </tr>
