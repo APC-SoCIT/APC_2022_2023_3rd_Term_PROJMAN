@@ -774,31 +774,15 @@ The Project Manager will be responsible for managing the project's expenses and 
 
 Authorization from the Project Manager is required prior to implementing any changes in cost. In case the cost modification exceeds 10% of the total project budget, approval from the Project Sponsor must be obtained before executing it. 
 
-  
-<h2>Cost Management Approach</h2>
-<p>The cost management approach for SurveiRams will be based on the following principles:</p>
+===8.1.3 Cost measurement and reporting===
 
-<li>Clear definition of costs</li>
-<p>The project team will define all the costs associated with SurveiRams. Hardware and software costs, development costs, maintenance costs, testing and quality assurance costs, and any other expenses related to the project.</p>
+The budget will be presented in a simplified and concise format by utilizing a spreadsheet program like Microsoft Excel. The budget will be divided into distinct line items, with each item having a detailed cost estimate. It will be updated once there are any changes, and any changes made will be indicated.  
 
-<li>Budget development and tracking</li>
-<p>An effective budget tracking system will be implemented to regularly monitor actual spending against the allocated budget and identify areas for improvement.</p>
+Overall, the objective of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are effectively monitored and controlled, allowing the project to be completed within the assigned budget. This approach will ensure the project's successful and timely completion. 
 
-<li>Cost estimates</li>
-<p>The project team will utilize diverse methods of cost estimation to guarantee that the allocated budget is precise and feasible.</p>
 
-<li>Cost variance analysis</li>
-<p>The project team will analyze and distinguish between the actual cost in the budget and predicted cost estimates to pinpoint reasons for any discrepancies, then initiate remedial measures to align expenses accordingly.</p>
+==8.2 Cost Management Approach==
 
-<li>Cost management roles and responsibilities</li>
-<p>The project team members will define and establish clear roles and responsibilities for cost management.</p>
-
-<li>Approval process for changes</li>
-<p>Changes to projects or budgets will be approved formally through an established and implemented procedure.</p>
-
-<li>Reporting and communication</li>
-<p>Regular cost reports will be provided and distributed to the project team, project sponsor, and management to inform every one of the project's financial situations.</p>
-<p>By implementing a clear cost management approach in SurveiRams, the project team can help ensure that the project stays on budget and meets financial objectives. This can help to minimize the risk of cost overruns and ensure that the project is completed successfully.</p>
 
 <h2>Measuring Project Costs</h2>
 <p>            This section defines how the project’s costs will be measured.  The PMBOK focuses on Earned Value Management for measuring and controlling a project’s costs.  Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management.
