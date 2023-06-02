@@ -848,183 +848,6 @@ The cost change control process is a crucial aspect of managing the SurveiRams t
 
 
 ==8.7 Project Budget==
-<table class="wikitable">
-  <tr>
-    <th>SurveiRams Ticketing System</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>Budget</td>
-    <td>PHP 1,502,850.00</td>
-  </tr>
-  <tr>
-    <td>Project Duration</td>
-    <td>9.5 months</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Project Cost Elements</strong></td>
-  </tr>
-  <tr>
-    <td>Manpower Cost: Estimate *based on glassdoor</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Role</td>
-    <td>Average Salary (monthly)</td>
-  </tr>
-  <tr>
-    <td>Quasar Front-end developer – junior level</td>
-    <td>PHP 35,000.00</td>
-  </tr>
-  <tr>
-    <td>Back-end developer – junior level</td>
-    <td>PHP 25,000.00</td>
-  </tr>
-  <tr>
-    <td>Project Manager</td>
-    <td>PHP 42,250.00</td>
-  </tr>
-  <tr>
-    <td>Software Tester</td>
-    <td>PHP 25,485.00</td>
-  </tr>
-  <tr>
-    <td>Documentation Specialist</td>
-    <td>PHP 16,000.00</td>
-  </tr>
-  <tr>
-    <td><strong>Total</strong></td>
-    <td>PHP 817,860.00</td>
-  </tr>
-  <tr>
-    <td>Hardware</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Item(s)</td>
-    <td>Price per Unit</td>
-  </tr>
-  <tr>
-    <td>Laptops (Lenovo IdeaPad 5 15)</td>
-    <td>PHP 40,999.00</td>
-  </tr>
-  <tr>
-    <td>Logitech Mouse (Wireless mouse Logitech M191)</td>
-    <td>PHP 804.60</td>
-  </tr>
-  <tr>
-    <td>Keyboard (A4Tech KRS-92 Natural_A FN Keyboard)</td>
-    <td>PHP 499.00</td>
-  </tr>
-  <tr>
-    <td>Printer(Canon Pixma E3370 Inkjet Printer)</td>
-    <td>PHP 5,595.00</td>
-  </tr>
-  <tr>
-    <td><strong>Total</strong></td>
-    <td>PHP 217,108.00</td>
-  </tr>
-  <tr>
-    <td>Software</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Item(s)</td>
-    <td>Price per License</td>
-  </tr>
-  <tr>
-    <td>Quasar</td>
-    <td>*free of use</td>
-  </tr>
-  <tr>
-    <td>Github</td>
-    <td>*free of use</td>
-  </tr>
-  <tr>
-    <td>Visual studio</td>
-    <td>*free of use</td>
-  </tr>
-  <tr>
-    <td>Openproject</td>
-    <td>*free of use</td>
-  </tr>
-  <tr>
-    <td>MS Teams Essentials MS 365</td>
-    <td>PHP 1,126.00</td>
-  </tr>
-  <tr>
-    <td><strong>Total</strong></td>
-    <td>PHP 11,260.00</td>
-  </tr>
-  <tr>
-    <td>Recurring Payment</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Item(s)</td>
-    <td>Fee per Month</td>
-  </tr>
-  <tr>
-    <td>Monthly Rent 25 sqm – Better Living Triple Tech bldg.</td>
-    <td>PHP 20,000.00</td>
-  </tr>
-  <tr>
-    <td>Electric bill Meralco</td>
-    <td>PHP 5,000.00</td>
-  </tr>
-  <tr>
-    <td>Water bill Manila Water</td>
-    <td>PHP 500.00</td>
-  </tr>
-  <tr>
-    <td>Internet bill FlexiBiz 120</td>
-    <td>PHP 6,000.00</td>
-  </tr>
-  <tr>
-    <td><strong>Total</strong></td>
-    <td>PHP 320,000.00</td>
-  </tr>
-  <tr>
-    <td>Onetime Payment</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Item(s)</td>
-    <td>Price</td>
-  </tr>
-  <tr>
-    <td>Internet bill FlexiBiz 120</td>
-    <td>PHP 5,000.00</td>
-  </tr>
-  <tr>
-    <td><strong>Total</strong></td>
-    <td>PHP 50,000.00</td>
-  </tr>
-  <tr>
-    <td>Contingency Cost</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Item(s)</td>
-    <td>Price</td>
-  </tr>
-  <tr>
-    <td>Estimated contingency cost (Total overall costings * 10%)</td>
-    <td>PHP 136,622.00</td>
-  </tr>
-  <tr>
-    <td><strong>Total</strong></td>
-    <td>PHP 136,622.00</td>
-  </tr>
-  <tr>
-    <td>Estimated Total Project Cost</td>
-    <td>Grand Total</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>PHP 1,502,850.00</td>
-  </tr>
-</table>
 
 
 =9. SCHEDULE MANAGEMENT PLAN=
@@ -1039,29 +862,17 @@ Once a preliminary schedule has been produced, the project team will regularly r
 Any changes to the schedule will be communicated to all stakeholders in a timely manner. Regular monitoring and tracking of the project will be done to ensure adherence to the schedule. 
 
 * The team will also utilize project management software to facilitate task tracking and ensure that deadlines are met.  
-
 * The project manager will be responsible for monitoring the progress of the project against the schedule, identifying potential delays, and taking corrective action where necessary.  
-
 * The team will also hold regular status meetings to discuss progress and identify any issues that need to be addressed.  
-
 * The project manager will provide regular status reports to stakeholders, including the project sponsor, to keep them informed of the project's progress. 
 
 ==9.3 Schedule Control==
-<p>  Frequency of Updates and Reviews:</p>
-<li> The project schedule will be updated on a weekly basis by the project manager. </li> 
-<li> A schedule review meeting will be held every week to review the progress of the project against the schedule. </li> 
-<li> Any changes to the schedule will be communicated to the project team and stakeholders within 24 hours of being made. </li>
+# '''Frequency of Updates and Reviews: ''' <br> 
+* The project schedule will be updated on a weekly basis by the project manager. 
+* A schedule review meeting will be held every week to review the progress of the project against the schedule. 
+* Any changes to the schedule will be communicated to the project team and stakeholders within 48 hours of being made. 
 
-<p>Roles and Responsibilities</p>
-<li> The project manager is responsible for maintaining and updating the project schedule, as well as communicating any changes to the team and stakeholders. </li> 
-<li> The project team is responsible for providing accurate and timely information to the project manager to help ensure the schedule is up-to-date and on track. </li> 
-<li> Stakeholders are responsible for reviewing the project schedule and providing feedback or concerns to the project manager in a timely manner. </li>
-
-<p> Communicating Schedule and Progress: </p>
-<li> The project manager will communicate the project schedule and progress to the project team and stakeholders on a regular basis. </li> 
-<li> Progress reports will be provided weekly to stakeholders, highlighting any major accomplishments or issues that may impact the project schedule. </li> 
-<li> The project manager will also provide a monthly schedule status report to stakeholders, which will include an updated schedule and any changes made during the month. </li> 
-<p>In conclusion, effective schedule control is critical to the success of the SurveiRams project. By establishing clear roles and responsibilities and maintaining open communication with the project team and stakeholders, the project manager can ensure that the project stays on schedule and within budget.</p>
+ 
 
 <h2>Schedule Changes and Thresholds</h2>
 <p> Schedule changes and thresholds are critical elements of project management. It is essential to have a defined process in place to ensure that any schedule changes are well-documented and approved by the appropriate project stakeholders. Before making any changes to the schedule, the project team must complete the "Schedule Change" form. This form must include the proposed changes, justification for the changes, and the potential impact on the project's timeline, budget, and resources. The project sponsor must approve the schedule change request, and the updated schedule must be communicated to all relevant stakeholders. By following this process, the project team can ensure that all schedule changes are transparent, well-documented, and aligned with the project's goals and objectives.</p>
