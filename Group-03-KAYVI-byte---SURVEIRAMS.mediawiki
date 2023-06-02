@@ -1697,3 +1697,37 @@ Real-time dashboards and visual tools will be utilized to track quality control 
 Regular team reviews, including sprint reviews and retrospectives, will entail the review of quality control metrics and allow for adjustments to the process as needed. Collaboratively, the team will identify potential areas for improvement and implement necessary changes.
 
 In summary, the SurveiRams Ticketing System project will adopt Agile and Scrum methodologies to establish a collaborative and dynamic quality control strategy. Continuous assessment of the product's quality will be performed, with regular improvements implemented. All quality control measurements will be collected and tracked on a shared platform in real-time. The team will collaborate to address any issues and drive necessary enhancements.
+
+=13. RISK MANAGEMENT PLAN=
+==13.1 Introduction==
+SurveiRams is a mobile application designed to develop a centralized system for Asia Pacific College’s (APC) Information Technology Resources Office (ITRO), Management Office (BMO), and Security Office. The application will assist them in managing incident reports and logs as well as provide insights.
+
+The Risk Management Plan is important for projects following the Agile Methodology to use as a guide on how to identify and respond to risks. The team must enumerate potential risks, plan for responses, and monitor and control said risks from the project’s start to finish. Upon completion, the plan will be used every day, and may be revised to fit the project’s needs better, thus ensuring that the objectives of the project are achieved on time within budget.
+
+Contents of this document include a summary of the risk management process, describing the sequence of steps as well as who is assigned to do so. Next is a guide for what constitutes as a risk and their hierarchy. Followed by this is the monitoring and controlling process for the risks, and last is the risk register.
+   
+To further develop a risk management plan for the SurveiRams System, the following information should be considered:   
+<table>
+  <tbody>
+    <tr>
+      <td>'''Identifying and Assessing Risks'''</td>
+      <td>The teams must enumerate potential risks to all phases of the project, such as technical issues, company policies, cybersecurity, time constraint, and human factors. These should then be assessed by the probability of their occurrence, as well as the scale of impact they may have.</td>
+    </tr>
+    <tr>
+      <td>'''Risk Mitigation Strategies'''</td>
+      <td>After identifying and assessing risks, the project team should develop a plan for mitigating or avoiding the risks. Mitigation strategies should be prioritized based on their effectiveness in reducing risk and their feasibility in terms of time and cost. Strategies may include contingency planning, redundancy, and the development of fallback procedures.</td>
+    </tr>
+    <tr>
+      <td>'''Contingency Planning'''</td>
+      <td>The project team should develop contingency plans for significant risks that could significantly impact the project's success. Contingency plans should outline the steps required to minimize the impact of the risk and maintain the project's progress. These plans should be regularly reviewed and updated as the project progresses, and new risks are identified.</td>
+    </tr>
+    <tr>
+      <td>'''Communication and Reporting'''</td>
+      <td>The project team should establish a clear communication and reporting framework for risk management. This framework should ensure that risks are regularly reviewed, and the project team is updated on any changes to the risk landscape. Communication should occur between project managers, team members, and stakeholders.</td>
+    </tr>
+    <tr>
+      <td>'''Risk Monitoring and Review'''</td>
+      <td>Risk management is an ongoing process that requires continuous monitoring and review. The project team should establish a regular review process to ensure that risk management strategies remain effective, risks are updated, and new risks are identified. The review process should be transparent, with all stakeholders being updated on any changes.</td>
+    </tr>
+  </tbody>
+</table>
