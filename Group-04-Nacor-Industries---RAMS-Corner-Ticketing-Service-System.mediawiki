@@ -770,13 +770,13 @@ The Work Breakdown Structure presented here represents all the work required to 
 
 =11. HR Management Plan=
 
-==Introduction== 
+==6.5.1Introduction== 
 
 The staff or team serves as a model for how the project will be led and organized, and it helps to guarantee that the correct individuals, with the necessary credentials, are there at the appropriate time. The strategy includes metrics for performance management as well as roles and responsibilities and communication procedures because the success of the project depends on a solid human resource management plan.
 
 The project manager and project team can successfully manage the project by making sure that everyone on the team is aware of their duties and responsibilities, that communication is clear and efficient, and that performance is tracked and managed in a way that supports the project's success.
 
-==Roles and Responsibilities==
+==6.5.2Roles and Responsibilities==
 
 	A project must have a team that has a strategy in place in order to succeed as it clarifies the duties and responsibilities of each member of the project team and the client, and to make sure that everyone in the team is aware of their own contributions.
 
@@ -829,11 +829,25 @@ Profound comprehension of the organization's mission, objectives, and values. Po
  </tr>
 </table>
 
-==Project Organizational Charts==
+==6.5.3Project Organizational Charts==
 
 	Project organizational chart of APC ITRO Ticketing System provides a visual representation of the project team and the relationships between the key stakeholders. Where the client of the project is in the top, followed by the project adviser who is responsible for giving the team guidance and insights. Then The project manager, who oversees overseeing the project's resources, scope, and timeline, is often listed above the project sponsor on the organizational chart. Lastly the team projects members, who are responsible for the success of the project and fulfilling the request of the client.
 
-=12 =
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/tree.PNG" alt="Image description" style="display:center; margin:0 auto;">
+
+==Staffing Management==
+
+A vital element in guaranteeing the APC ITRO Ticketing System project's effective execution is the staff management plan. Throughout the project lifetime, it describes the tactics and procedures for recruiting, supervising, and releasing human resources.
+
+*To guarantee that the required skills and knowledge are available when needed, human resource acquisition will be completed promptly. This can entail using internal workers or engaging contractors in addition to existing employees. To guarantee that resources are accessible when required, the acquisition timeframe will be coordinated with the project schedule.
+
+*To evaluate team members' performance and pinpoint areas for development, performance evaluations will be done on a regular basis. The effectiveness of the team's performance in reaching the goals and expectations of the project will also be evaluated through these evaluations.
+
+*A rewards and recognition system will be implemented to acknowledge and motivate outstanding performance.
+
+The project's goals and requirements will be taken into consideration when the Staffing Management Plan is periodically reviewed and amended as appropriate. To ascertain if any extra things need to be included in the staffing management plan, it is critical that the project manager perform a comprehensive examination of the project's unique requirements and rules.
+
+
 
 =13. Procurement Management Plan=
 ==13.1 Introduction ==
@@ -1051,4 +1065,113 @@ The table below depicts the matrix of impact-probability of the risk identified:
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/risk%20assessment.png" alt="Image description" style="display:block; margin:0 auto;">
 
+The identified risks are prioritized as follows: 
+
+1. Ticket Mishandling – High probability with significant impact
+
+2. Lack of Integration – Medium probability with significant impact
+
+3. Poor User Experience – Medium probability with significant impact
+
+4. Downtime – medium probability with disastrous impact
+
+5. Insufficient Reporting and Analytics – medium probability with disastrous impact 
+
+6. Inadequate Scalability and Elasticity – medium probability with catastrophic impact
+
+7. Security Breaches – medium probability with catastrophic impact
+
+After the assessment, we will focus on developing solutions for the risks that are considered in extreme and high priority. The risks on the low to medium priority will be constantly monitored as well, and there are no negligible risks since we firmly believe that all risks must be considered and should have a minimum possible solution whenever they occur.
+
+This risk assessment is subject to revisions after reviews and monitoring. This process will happen during sprint meetings so that all the team members and the stakeholders are up to date with the current risk management plan should there be any changes to be made.
+
+==Risk Monitoring==
+
+Risk monitoring is a very important step in risk management of the RAMs Corner. It will allow the team, as well as the stakeholders, to be involved in the ongoing risk management process that could impact the achievement of the long-term goals of the project. This is also to ensure that the identified and assessed risks are being reviewed and monitored thoroughly so that the ITRO can make informed decisions to make timely actions in preventing or minimizing a risk potential. 
+
+In this step, the project manager will assign a team member to be the overseer for the risk management or to be the risk manager. The risk manager will be the one responsible for overseeing the ongoing risk mitigation process, continuously monitoring the system logs, security alerts, and performance metrics. They will also provide the team with reviews for user feedback, support ticket, bug reports, and implement Key Performance Indicators to measure how effective is the current risk mitigation. 
+
+The risk manager is expected to report on the status of the ongoing risk management regularly in every sprint meeting. After the assessment from the report, the team will then collaborate for further reviews if there are risk mitigation plans that should be changed, should be added, or should be maintained.
+
+To sum it all up, having an effective risk monitoring that incorporates the agile methodology, the ITRO can have an early risk detection, which will lead onto improved decision-making when dealing with potential risks, that can also therefore improve the operational efficiency of the system in servicing its clients, and continuous improvement of the system as a whole.
+
+==Risk Mitigation==
+
+As mentioned in the previous risk management plan sections, the risk mitigation will be based upon the identified risk and their prioritization as described in the hierarchy from the risk assessment. The risks labeled as Extreme will be given the highest priority when allocating resources, down until the risks labeled Low. This step will allow the  team to have an overview of the suitable mitigation plan per assessed risks while continuing to improve, monitor, and review the overall health of the system.
+
+The following are the available mitigation plan that is ongoing or to be implemented: 
+*Contingency Plan – It is important to develop contingency plans that outline the steps that should be taken should there be any security mishaps or some kind of operational disturbance within the system. To make sure that there is an effective contingency plan, the project manager will supervise all of the development and execution phase of the project. 
+*Regular Assessments and Audits – It is also absolutely crucial that there is a periodic review of the current plans. This will be attained by applying the Hybrid(Waterfall-Agile) Methodology, wherein the team must follow the specific steps in risk management while also submitting reports regarding monitoring and reviewing of currently implemented actions every sprint meeting.
+*Implement robust access controls – while the users are already defined for the RAMs Corner, it is still imperative to have a definite access control to ensure that there would be no unauthorized access to the ticketing system. This will include user authentication, requiring using strong passwords, role-based access controls, and periodic access reviews by the assigned ITRO Staff.
+*System Backups – consistency in backing up the RAMs Corner data must be implemented to ensure that there will be no information and data loss in an event of system failure, data corruption, and some unforeseen circumstances should occur. Reviewing the restoration process and verifying integrity of the back-up data must also be included in the regular assessments.
+*Employee Training – provide a detailed training plan for the employees regarding the use and management of the RAMs Corner Ticketing Service System so that the staffs are educated on the proper handling of tickets, as well as providing them the details for the risk mitigation should there be any threats occur within the system or when using the system.
+*Regular Communication – while all other technical aspects are important, communication within the team is also important to ensure that every stakeholder is informed regarding the ongoing plans, especially when tackling about the risk that the system is facing. This is to make sure that no resources are lost while still maintaining the efficacy of the system.
+*Change Management Plan – there must be a distinct change management plan for when there are any changes that need to be made to the system. It is important to document and gain the approval of every stakeholder when applying changes within the project. This will allow the team to handle potential risks without creating any ambivalence within the project stakeholders’ ideas.
+
+==Risk Register==
+In the risk register section, the risk management plan that will be intended for the top categories of identified risks will be constantly revised throughout the project. This will include all necessary details such as the probability of these risks occurring, their impacts, and the mitigation and avoidance procedures.
+
+The risk registry will be available for viewing for all the stakeholders to make sure that there is transparency when it comes to risk management. This file will be kept in a shared location where all the stakeholders can access it. 
+
+The aim for this risk register is to allow the stakeholders, especially the team, to have an overview of the history of risk management planning for comparison and improvement basis, as well as the ongoing measures taken for risk mitigation. In this way, the RAMs Corner project team will be able to manage the potential risks in a timely and efficient manner. 
+
+The following are the list of elements in the Risk Register
+*Risk ID – each risk identified will have their own unique identifier
+*Risk Description – brief and concise description of the identified risk
+*Risk Category – classify the type of risk as Vulnerability in Security, System Failure, and Performance Issues
+*Risk Owner – project team member that is responsible for monitoring and reviewing current potential risks
+*Probability – probability of risk occurrence scaling from 1 – 4, 1 indicating Very Low Probability and 5 indicating High probability
+*Impact – impact of the potential risk scaling from 1-5, 1 having Insignificant impact, and 5 having the Catastrophic impact
+*Risk Score – product of probability and impact score
+*Mitigation Procedure – specific measures intended for the listed potential risk
+*Status – historical status of the risk. It can be Open, Ongoing, or Closed.
+*Target Resolution Date – date for the resolution of the listed risk.
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/Risk%20ID.png" alt="Image description" style="display:center; margin:0 auto;">
+
+<table border="1" width="70%" align="left">
+ <tr>
+  <td> Role </td>
+  <td> Project Responsibility </td>
+  <td> Skills Required </td>
+  <td> Number of Staff </td>
+  <td> Performance Reviews </td>
+  <td> Performance Reviews </td>
+ </tr>
+ <tr>
+  <td> Project Avdiver</td>
+  <td> Provides insights to the project manager and the project members. Gives details on how the project should progress and be made.</td>
+  <td> Communication Problem Solving Technical Knowledge for the team’s project </td>
+  <td> Number of Staff </td>
+  <td> Depending on the project's size and complexity. formulated in cooperation with other stakeholders </td>
+  <td> To evaluate team members' work, offer comments, and handle any problems, the project adviser will hold frequent meetings regarding the progression of the project. </td>
+  <td>The project adviser will implement a recognition and rewards system to motivate team members and encourage high performance </td>
+ </tr>
+ <tr> 
+ <td> Project Manager</td>
+  <td> Is the project team leader and oversees efficient planning of the project and its execution. Create a thorough project strategy and establish a project goal. Communicates or conveys the project status and progress to the client.</td>
+  <td> Leadership Communication Problem Solving Analytical Skills Adaptability Technical Knowledge </td>
+  <td> Depending on the project's size and complexity.formulated in cooperation with other stakeholders </td>
+  <td> The project manager will collaborate with team members to establish realistic performance targets and monitor their advancement. </td>
+  <td> The project manager will implement a recognition and rewards system to motivate team members and encourage high performance. </td>
+ </tr>
+  <tr> 
+ <td> Project Team Members</td>
+  <td> Executing the tasks and duties given by the project manager and implement the project adviser’s idea. To guarantee that project activities are finished on schedule and within budget, people must properly manage their time and work.  
+Inform the project manager or leader of the progress and status. Participate in project meetings and discussion by contributing ideas. </td>
+  <td> Time management Communication Collaboration & Cooperation Technical Skills Problem-solving</td>
+  <td> Depending on the project's size and complexity.formulated in cooperation with other stakeholders </td>
+  <td> Evaluations will be based and determined from the performance of the team members and reporting regarding the project’s progress. 
+according to the demands of the project and the rules of the business. </td>
+  <td> The project manager or adviser will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
+ </tr>
+ <td> Project Client</td>
+  <td> Following up on project developments and giving the project team direction and assistance Ensure that the project is in line with the objectives and vision of the company. Give the project strategic leadership and direction. </td>
+  <td> Leadership Strategic Thinking Communication Risk Management Budget Managemen</td>
+  <td> The client is a top executive or board of directors’ member. Possibly assisted by project management office or other support personnel.</td>
+  <td> The client may assess the recipient's performance by to make sure they are adhering to the standards and objectives of the company for the project. The client could also receive updates regarding the project’s progression from the project manager  </td>
+  <td> The client may recognize and reward the project team for their achievements and progress towards the project's goals.</td>
+ </tr>
+
+</table>
 
