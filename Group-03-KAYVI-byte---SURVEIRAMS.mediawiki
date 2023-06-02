@@ -1656,4 +1656,34 @@ To ensure quality is achieved through collaboration and continuous improvement, 
 * '''Defining Quality Standards:''' The project team, in collaboration with stakeholders, will establish and document the quality standards in the Quality Management Plan. These standards will be effectively communicated to all stakeholders involved.
 * '''Agile Quality Auditing:''' Regular quality audits will be conducted by the project team using Agile practices such as peer reviews, test-driven development, and continuous integration. These practices will be utilized to verify compliance with the defined quality standards and to identify areas that require improvement.
 * '''Quality Metrics:''' The project team will employ quality metrics to monitor and report on the project's adherence to the defined quality standards.
+To effectively monitor the quality process, the following metrics will be utilized: <br> 
+** Agile Metrics: Velocity, Burn-Down Charts, and Sprint Reviews
+** Defect Density: Number of defects found per unit of measure (e.g., per KLOC)
+** Defect Severity: Classification of defects based on their impact on the system
+** Test Coverage: Percentage of the system that has been tested
+** Test Case Pass Rate: Percentage of test cases that have been successfully passed
+** Root Cause Analysis Effectiveness: Percentage of issues resolved at the root cause level.
+* '''Continuous Improvement:''' The project team will leverage feedback received from quality audits and metrics to drive continuous improvement in both the product and the quality process. Opportunities for enhancement will be identified in collaboration with stakeholders, and appropriate changes will be implemented.
+* '''Compliance with Industry Standards:''' The project team will ensure adherence to relevant industry standards, including accessibility, security, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
+* '''Reviewing Customer Feedback:''' Regular reviews of customer feedback will be conducted to identify any issues or areas requiring improvement. This feedback will play a crucial role in informing the continuous improvement efforts and ensuring that the product aligns with customer needs and expectations.
 
+The project will implement rigorous monitoring, tracking, and reporting of quality assurance metrics to ensure the delivery of a high-quality outcome. Any deviations from the established standards will be promptly reviewed and rectified. The project team will receive regular reports from the software application, which will capture relevant data for these metrics. The quality assurance process will undergo frequent reviews to identify opportunities for enhancement and implement necessary improvements. The objective is to ensure that the Dispatch Directory System meets the most stringent quality standards, with close monitoring of all quality assurance metrics to guarantee project success.
+
+==12.5 Quality Control==
+In Agile and Scrum methodology, the development process incorporates quality control measures to emphasize continuous testing and feedback. The Quality Control process for the SurveiRams Ticketing System project entails the following steps:
+* '''Continuous testing and feedback:''' The project team will engage in ongoing testing to identify defects and ensure alignment with customer requirements. Automation will be employed whenever possible, and results will be tracked within a continuous integration/continuous delivery (CI/CD) system.
+* '''User Acceptance Testing (UAT):''' Representative end users will conduct UAT at the end of each sprint to validate the system's adherence to their needs and expectations. Feedback from users will guide necessary modifications.
+* '''Compatibility Testing:''' The Dispatch Directory System will undergo testing on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any challenges encountered in different environments.
+* '''Continuous Monitoring:''' Post-deployment, the project team will closely monitor system effectiveness, focusing on key performance indicators such as user satisfaction, response time, and system uptime. This data will inform system upgrades, issue identification, and bottleneck resolution.
+The following quality metrics will be utilized to monitor and evaluate system performance: <br> 
+** Defect Density: Number of defects identified per unit of measure (e.g., per KLOC).
+** Defect Severity: Classification of defects based on their impact on the system.
+** Test Coverage: Percentage of the system subjected to testing.
+** Test Case Pass Rate: Percentage of test cases successfully executed.
+** User Happiness: Measured through surveys and user feedback.
+** Response Time: Duration for the system to respond to user requests.
+** System Uptime: Percentage of time the system is available and functioning as expected.
+* '''Monitoring and Documenting Quality Assessments:''' The project team will diligently track and record the results of the Quality Control process, enabling ongoing monitoring of the project's advancement and the impact of any corrective measures implemented. Thorough documentation will provide valuable insights into the project's quality status.
+* '''Continuous Improvement:''' The Quality Control process will undergo regular reviews to identify areas for enhancement and embrace opportunities for improvement. The project team will proactively seek out avenues to refine the process and swiftly incorporate necessary adjustments. This commitment to continuous improvement ensures that the Quality Control process remains adaptable to evolving requirements and industry best practices.
+
+In conclusion, the SurveiRams Ticketing System project's Quality Control process will be deeply integrated into the development cycle, encompassing continuous testing, user feedback, and performance monitoring. The project team will vigilantly evaluate and maintain product quality, ensuring alignment with established standards and customer expectations.
