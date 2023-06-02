@@ -1568,8 +1568,8 @@ The following are the roles and duties for the quality management plan:
 <table>
   <thead>
     <tr>
-      <th>Role</th>
-      <th>Description</th>
+      <th>'''Role'''</th>
+      <th>'''Description'''</th>
     </tr>
   </thead>
   <tbody>
@@ -1588,6 +1588,38 @@ The following are the roles and duties for the quality management plan:
     <tr>
       <td>Project Sponsor</td>
       <td>Provides executive support for the project.</td>
+    </tr>
+  </tbody>
+</table>
+
+Quality management will be incorporated throughout every part of the project and engage the entire team. To improve the product, the team will work to develop a Minimum Viable Product (MVP) for the team to have early feedback from the users.
+   
+The approach will include the following steps:   
+<table>
+  <tbody>
+    <tr>
+      <td>Set Quality Standards</td>
+      <td>The project manager will define quality standards based on Agile and Scrum methodology, with a focus on delivering value to the client.</td>
+    </tr>
+    <tr>
+      <td>Quality Planning</td>
+      <td>The team will work closely with stakeholders to identify the requirements of the project and prioritize the most important features. To make sure that each version of the project complies with the set standards, the team will create a Product Backlog.</td>
+    </tr>
+    <tr>
+      <td>Quality Control</td>
+      <td>To identify issues or bugs, the team will conduct testing during each sprint to manage and control the quality of the project and meet its requirement or goal.</td>
+    </tr>
+    <tr>
+      <td>Quality Assurance</td>
+      <td>To avoid problems during the project, preventive measures will be implemented through quality assurance. The team will implement proper testing procedures to ensure that the project follows the set standards.</td>
+    </tr>
+    <tr>
+      <td>Continuous Improvement</td>
+      <td>To ensure continuous functionality of the project, the team will regularly monitor and assess its performance. They will gather feedback from stakeholders, identify areas that require improvement, and make necessary adjustments to enhance the overall quality of the project.</td>
+    </tr>
+    <tr>
+      <td>Communication</td>
+      <td>For the project to succeed, communication with the stakeholders is needed to give them awareness of the product’s status and have their feedback on it.</td>
     </tr>
   </tbody>
 </table>
