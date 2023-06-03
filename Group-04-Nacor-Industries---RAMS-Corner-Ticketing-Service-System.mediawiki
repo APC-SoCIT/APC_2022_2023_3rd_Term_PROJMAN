@@ -999,13 +999,53 @@ To monitor the quality process, the following metrics will be used:
 
 *'''Reviewing Customer Feedback:''' The project team will regularly review customer feedback to identify any issues or areas for improvement. This feedback will be used to inform the continuous improvement process and ensure that the product meets customer needs and expectations.
 
+The quality assurance metrics will be closely monitored, tracked, and reported on a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and implement improvements. The goal is to ensure that the Ticketing Service System meets the highest quality standards, and that all quality assurance metrics are closely monitored to ensure the project's success.
 
+==Quality Control==
+In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Ticketing Service System project will involve the following steps:
 
+*'''Continuous testing and feedback:''' The project team will perform continuous testing to identify defects and ensure that the product is meeting customer requirements. The testing will be automated wherever possible, and the results will be tracked in a continuous integration/continuous delivery (CI/CD) system.
 
+*'''User Acceptance Testing (UAT):''' A representative group of end users will test the system to ensure it satisfies their needs and expectations. The UAT will be performed at the end of each sprint, and any necessary modifications will be made based on feedback from the users.
 
+*'''Compatibility Testing:''' The Ticketing Service System will be tested on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any difficulties that may arise when the system is used in various settings.
 
+The following quality metrics will be used to monitor and assess the system's performance:
 
+**Defect Density: The number of defects found per unit of measure (e.g., per KLOC) 
+**Defect Severity: The classification of defects based on their impact on the system.
+**Test Coverage: The percentage of the system that has been tested.
+**Test Case Pass Rate: The percentage of test cases that have been passed.
+**User Satisfaction: Measured through surveys and feedback from users.
+**Response Time: The time taken for the system to respond to user requests.
+**System Uptime: The percentage of time the system is available and functioning as expected.
 
+*'''Tracking and Documenting Quality Evaluations:''' The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.
+*'''Continuous Improvement:''' The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.
+
+In conclusion, the Quality Control process for RAMS Corner: Ticketing Service System project will be an integral part of the development process, with a focus on continuous testing, user feedback, and performance monitoring. The project team will continuously monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the required quality standards and customer requirements.
+
+==Quality Control Measurements==
+The Agile and Scrum techniques will be employed to promote continuous inspection and modification throughout the project lifecycle for the project, which will adopt a transparent and collaborative approach to quality control.
+
+To guarantee that the product fulfills the standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table.
+
+The following details will be on the platform:
+*Measurement date
+*Measurement type (e.g., automated testing, code review, peer review, user story acceptance)
+*The measurement's findings (such as passed/failed, the number of flaws discovered, and the percentage of code coverage)
+*Requirements and standards for comparison
+*Member of the team in charge of measuring
+*Team member responsible for assessing the measurement results
+*Taking any required corrective actions
+*The date that the remedial measures were finished
+*Team member in charge of carrying out corrective measures
+
+To track quality control measurements in real-time, the team, Nacor Industries, will utilize software applications such as Microsoft Teams, GitHub, and OpenProject as collaborative platforms. These tools will enable all team members to easily access and comprehend the data related to quality control. Using these, the team would be able to monitor each update that would be made within the span of the project. The dashboards provided by these tools will highlight patterns and areas of concern, allowing the team to promptly identify issues and take appropriate actions. This proactive approach will facilitate quick adjustments and ensure that the necessary measures are implemented to maintain and improve the project's quality standards.
+
+During regular team reviews, such as sprint reviews and retrospectives, the quality control metrics will be thoroughly assessed and reviewed. If necessary, adjustments will be made to the methodology to ensure its effectiveness. The team will collaborate to identify areas for improvement and actively implement solutions for any identified issues. This iterative process will enable the team to continuously enhance the quality control methods and ensure the project's overall success.
+
+To summarize, the RAMS Corner: Ticketing Service System project will employ Agile and Scrum methodologies to establish a collaborative and adaptable quality control strategy. The team will consistently evaluate the product's quality and make necessary enhancements to meet the established standards and requirements. All quality control measurements will be collected and monitored in real-time on a shared platform. The team will work together to address any issues that arise and implement improvements as needed.
 
 
 
