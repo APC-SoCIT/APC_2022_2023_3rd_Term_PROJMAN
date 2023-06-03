@@ -1,3 +1,282 @@
+=11. HR Management Plan=
+
+==11.1 Introduction== 
+
+The staff or team serves as a model for how the project will be led and organized, and it helps to guarantee that the correct individuals, with the necessary credentials, are there at the appropriate time. The strategy includes metrics for performance management as well as roles and responsibilities and communication procedures because the success of the project depends on a solid human resource management plan.
+
+The project manager and project team can successfully manage the project by making sure that everyone on the team is aware of their duties and responsibilities, that communication is clear and efficient, and that performance is tracked and managed in a way that supports the project's success.
+
+==11.2 Roles and Responsibilities==
+
+	A project must have a team that has a strategy in place in order to succeed as it clarifies the duties and responsibilities of each member of the project team and the client, and to make sure that everyone in the team is aware of their own contributions.
+
+To ensure that resources are distributed and used efficiently, the plan guarantees that the appropriate individuals are in the appropriate roles to accomplish project successfully by explicitly identifying competences and skill needs.
+
+Overall, the project team is guided toward effective project execution and delivery by the human resources management strategy, which serves as a road map.
+
+<table border="1" width="70%" align="left">
+ <tr>
+  <td> Role </td>
+  <td> Authority </td>
+  <td> Responsibility </td>
+  <td> Competency </td>
+ </tr>
+ <tr>
+  <td>Project Client</td>
+  <td>One that provides the ideas and asks for help for the project team to fulfill. the one who also approves the project’s business case and budget.
+able to assign project resources and give high-impact approval for modifications to the project's scope, timeline, and budget.
+</td>
+  <td>Ensures if the team is producing good results. Gives insights and advice to the team and project manager. 
+Assists in updating the company on the status and advantages of the project
+<td> strong capacity for strategic thought and leadership communication.
+Profound comprehension of the organization's mission, objectives, and values. Possibility of providing the initiative with resources and support.
+ </td>
+</td>
+ </tr>
+ <tr>
+  <td>Project Adviser</td>
+  <td>The Project Advisor is responsible for providing technical expertise and advice to the team to ensure the project’s products meet the client. Monitors the progress of the team, facilitates effective communication among the team members, and provide updates and insights. </td>
+  <td>Helps in the project planning and provides insights for each team member and their specific roles. Develops strategies for the team and guarantees that the quality of the project is good. </td>
+  <td>Provide guidance and supports the team. Possesses a deep understanding of the project and the things that are needed to do in the project. Has the planning and analytical skills to develop strategies and assess the project. </td>
+ </tr>
+ <tr>
+  <td>Project Manager</td>
+  <td>Handles the team and makes the decisions, can distribute project resources, and provide the go-ahead for low-impact adjustments to the project's scope, timetable, and budget.</td>
+  <td>Has the authority and the ability to oversee all the aspects of the project including its, planning, implementation, monitoring, and release.</td>
+  <td> Solid understanding of the project, leadership skills, communicating skills, and project management skills, risk management skills, team management and can learn continuously and develop their knowledge.</td>
+ </tr>
+ <tr>
+  <td>Internal Users of the system (Programmers)</td>
+  <td>Has access to the system and the power to improve and decode errors when necessary. </td>
+  <td>In charge of coding the software and UI/UX of the project and handles the system.</td>
+  <td>Has the technical expertise, background, talents, and experience necessary to build software solutions successfully. </td>
+ </tr>
+ <tr>
+  <td>External users of the system (Project Documentator)</td>
+  <td>Handles the paper and documents the process of the project from start to end.</td>
+  <td>In charge of the documentations and the deliverables of the project.</td>
+  <td>The ability to efficiently develop and manage project documentation is possessed by a documentation specialist, who possesses a range of abilities, expertise, traits, and skills.</td>
+ </tr>
+</table>
+
+==11.3 Project Organizational Charts==
+
+	Project organizational chart of APC ITRO Ticketing System provides a visual representation of the project team and the relationships between the key stakeholders. Where the client of the project is in the top, followed by the project adviser who is responsible for giving the team guidance and insights. Then The project manager, who oversees overseeing the project's resources, scope, and timeline, is often listed above the project sponsor on the organizational chart. Lastly the team projects members, who are responsible for the success of the project and fulfilling the request of the client.
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/tree.PNG" alt="Image description" style="display:center; margin:0 auto;">
+
+==11.4 Staffing Management==
+
+A vital element in guaranteeing the APC ITRO Ticketing System project's effective execution is the staff management plan. Throughout the project lifetime, it describes the tactics and procedures for recruiting, supervising, and releasing human resources.
+
+*To guarantee that the required skills and knowledge are available when needed, human resource acquisition will be completed promptly. This can entail using internal workers or engaging contractors in addition to existing employees. To guarantee that resources are accessible when required, the acquisition timeframe will be coordinated with the project schedule.
+
+*To evaluate team members' performance and pinpoint areas for development, performance evaluations will be done on a regular basis. The effectiveness of the team's performance in reaching the goals and expectations of the project will also be evaluated through these evaluations.
+
+*A rewards and recognition system will be implemented to acknowledge and motivate outstanding performance.
+
+The project's goals and requirements will be taken into consideration when the Staffing Management Plan is periodically reviewed and amended as appropriate. To ascertain if any extra things need to be included in the staffing management plan, it is critical that the project manager perform a comprehensive examination of the project's unique requirements and rules.
+
+<table border="1" width="70%" align="left">
+ <tr>
+  <td> Role </td>
+  <td> Project Responsibility </td>
+  <td> Skills Required </td>
+  <td> Number of Staff </td>
+  <td> Performance Reviews </td>
+  <td> Performance Reviews </td>
+ </tr>
+ <tr>
+  <td> Project Avdiver</td>
+  <td> Provides insights to the project manager and the project members. Gives details on how the project should progress and be made.</td>
+  <td> Communication Problem Solving Technical Knowledge for the team’s project </td>
+  <td> Depending on the project's size and complexity. formulated in cooperation with other stakeholders </td>
+  <td> To evaluate team members' work, offer comments, and handle any problems, the project adviser will hold frequent meetings regarding the progression of the project. </td>
+  <td>The project adviser will implement a recognition and rewards system to motivate team members and encourage high performance </td>
+ </tr>
+ <tr> 
+ <td> Project Manager</td>
+  <td> Is the project team leader and oversees efficient planning of the project and its execution. Create a thorough project strategy and establish a project goal. Communicates or conveys the project status and progress to the client.</td>
+  <td> Leadership Communication Problem Solving Analytical Skills Adaptability Technical Knowledge </td>
+  <td> Depending on the project's size and complexity.formulated in cooperation with other stakeholders </td>
+  <td> The project manager will collaborate with team members to establish realistic performance targets and monitor their advancement. </td>
+  <td> The project manager will implement a recognition and rewards system to motivate team members and encourage high performance. </td>
+ </tr>
+  <tr> 
+ <td> Project Team Members</td>
+  <td> Executing the tasks and duties given by the project manager and implement the project adviser’s idea. To guarantee that project activities are finished on schedule and within budget, people must properly manage their time and work.  
+Inform the project manager or leader of the progress and status. Participate in project meetings and discussion by contributing ideas. </td>
+  <td> Time management Communication Collaboration & Cooperation Technical Skills Problem-solving</td>
+  <td> Depending on the project's size and complexity.formulated in cooperation with other stakeholders </td>
+  <td> Evaluations will be based and determined from the performance of the team members and reporting regarding the project’s progress. 
+according to the demands of the project and the rules of the business. </td>
+  <td> The project manager or adviser will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
+ </tr>
+ <td> Project Client</td>
+  <td> Following up on project developments and giving the project team direction and assistance Ensure that the project is in line with the objectives and vision of the company. Give the project strategic leadership and direction. </td>
+  <td> Leadership Strategic Thinking Communication Risk Management Budget Managemen</td>
+  <td> The client is a top executive or board of directors’ member. Possibly assisted by project management office or other support personnel.</td>
+  <td> The client may assess the recipient's performance by to make sure they are adhering to the standards and objectives of the company for the project. The client could also receive updates regarding the project’s progression from the project manager  </td>
+  <td> The client may recognize and reward the project team for their achievements and progress towards the project's goals.</td>
+ </tr>
+
+</table>
+
+=12. QUALITY MANAGEMENT PLAN=
+
+==Introduction==
+In order to maintain quality throughout the project the team, Nacor Industries, opted to follow the hybrid Scrum-Fall methodology. This Quality Management Plan will define the quality standards that will be used to evaluate the RAMS Corner: Ticketing Service System. Furthermore, the plan provides a framework for resolving quality concerns and specifying the roles and duties of team members in addition to outlining quality principles and procedures from the development, through the deployment of RAMS Corner: Ticketing Service System, with the following goals in mind:
+
+*Make sure the project satisfies or exceeds the expectations of the client and 
+stakeholders, (APC-ITRO and their clientele)
+
+*List the criteria for quality that will be used to assess the project.
+
+*In order to meet the required standards of quality, it is important to define the 
+specific roles and responsibilities of each team member.
+
+*Identify and resolve any possible quality issues that may arise.
+
+*Create a framework to effectively oversee and maintain project quality throughout
+its duration.
+
+RAMS Corner: Ticketing Service System RAMS Corner: Ticketing Service System will be a completely functional web-based application to be used by the ITRO in lieu of their aging email-based system as the Quality Management Plan will contain both the product and process quality standards. The strategy will include detailed procedures to be followed as well as tools and methods to manage and document industry-standard quality which includes the following tools:
+
+*Definition of Done: A concise and clear description of the conditions that determine the completion of a product increment.
+
+*Acceptance Criteria: Specific requirements that a product increment must meet in order to receive approval from the product owner.
+
+*Continuous Integration: A method used to frequently merge code updates into a shared repository to ensure that the final product is consistently ready for release—which would be done through GitHub.
+
+In summary, this Quality Management Plan will offer a comprehensive structure to effectively manage and sustain the quality of the project from start to finish. It guarantees that the project will meet or surpass the expectations of all parties involved. Additionally, the plan outlines specific processes, tools, and roles and responsibilities for identifying and resolving any potential quality concerns. It is essential for all stakeholders to be acquainted with this plan and understand their contributions towards its successful implementation.
+
+==Quality Management Approach==
+
+The Quality Management Plan for the RAMS Corner: Ticketing Service System project will utilize the hybrid Scrum-Fall methodology to ensure that the project meets or exceeds all stakeholders' quality expectations. This approach would promote flexibility as they would be directly involved within each step of the way from the development, through the deployment stage as referenced in the diagram below:
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/c2a9e9b575b3facf7896111f63853343f375ecbe/image_2023-06-03_134301758.png?raw=true"display:block; margin:0 auto;">
+
+The following are the roles and duties for the quality management plan:
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/9e53b76fe7abc8e59bb32eb99d8b6ad7d8201a4c/wikihub%20photos/image_2023-06-03_134949165.png?raw=true"display:block; margin:0 auto;">
+
+Quality management will be integrated into every aspect of the project and will be handled by the entire team—each being a part of the quality management team. Nacor Industries will strive to deliver a Minimum Viable Product (MVP) and will continuously incorporate customer feedback to refine and improve the product.
+
+The approach will include the following steps:
+
+1. '''Establishing Quality Standards:''' The project team will define precise quality standards aligned with Agile and Scrum methodologies, emphasizing the delivery of value to the customer.
+
+2. '''Quality Planning:''' Working closely with stakeholders, the team will identify project requirements and prioritize essential features. They will create a Product Backlog and set quality objectives to ensure that each product iteration provides value and meets the defined quality standards.
+
+3. '''Quality Control:''' Throughout the sprint, the team will implement quality control measures to ensure compliance with established requirements and quality goals. This will involve conducting testing and reviews during each sprint to identify and address any defects or issues.
+
+4. '''Continuous Improvement:''' The team will continuously monitor and evaluate the project's performance and adjust as necessary. This will involve collecting and analyzing feedback from stakeholders, identifying areas for improvement, and implementing changes to improve the project's overall quality.
+
+5. '''Communication:''' The team will maintain constant communication with stakeholders to ensure that they are aware of the product's quality status and can provide feedback as needed.
+
+Throughout the span of this project, the team will incorporate Agile and Scrum practices, including user stories, sprints, and retrospectives, to ensure that quality is built-in throughout the project's lifecycle and meets the organization's quality standards and the needs of the project stakeholders. In addition, a risk management plan will be developed to proactively identify and mitigate potential quality risks throughout the project's lifecycle.
+
+Overall, the Quality Management Approach for the RAMS Corner: Ticketing Service System project will prioritize delivering a high-quality product that meets customer requirements through an Agile and Scrum method. The approach will be flexible and continuously refined to ensure that the project meets or exceeds all quality expectations.
+
+==Quality Requirements / Standards==
+
+The RAMS Corner: Ticketing Service System project places a high focus on quality, and the team will cooperate to create and record quality requirements and standards. Client comments, testing, and assessments will be used to guarantee adherence to these criteria. The following requirements and standards for quality will be followed by the RAMS Corner: Ticketing Service System. 
+
+'''Requirements for Product Quality:'''
+
+*The RAMS Corner: Ticketing Service System will be fully operational and adhere to the product backlog's technical requirements.
+*The interface shall be simple to use, with prompts and instructions that are obvious to users.
+*The solution will work and be compatible with the company's current technological infrastructure.
+*The system will have a layer of data security to safeguard the customer's private information through password authorization.
+
+'''Requirements for Ensuring Quality of Processes:'''
+
+*The product owner and development team will review and approve all project deliverables prior to being provided to the client.
+*The development team will implement an ongoing process of testing and quality assurance to ensure that the system meets all technical specifications and requirements.
+*A version control tool will be used by the development team to ensure that any modifications to the system are properly documented, reviewed, and authorized.
+*Regular sprint reviews will be conducted by the development team to identify and promptly address any quality issues.
+*The development team will follow a defined configuration management process to ensure consistent development, testing, and deployment of the system.
+
+'''Compliance Demonstration:'''
+
+*The Ticketing Service System will be tested and evaluated against the established quality requirements and standards before being deployed to the client.
+*The development team will maintain comprehensive documentation of all testing and quality assurance activities, which will be made available to the client upon request.
+*The development team will conduct a formal acceptance test with the client to ensure that the system meets their requirements and expectations.
+*The development team will provide ongoing support and maintenance services to ensure that the system continues to meet the established quality standards over time.
+
+'''Continual Improvement:'''
+The development team will design a method for continual improvement by routinely gathering and analyzing client feedback, monitoring system performance, and carrying out internal audits to spot potential improvement areas. A procedure for identifying and resolving any non-conformities that may emerge throughout the project should be established by the development team. This may entail recording the non-conformity, figuring out the underlying cause, taking corrective action, and assessing how well it works. These procedures can be incorporated into the project to guarantee that the Ticketing Service System is not only adhering to set quality standards but must also be actively working to fulfill customers' changing needs.
+
+==Quality Assurance==
+The QA process for RAMS Corner: Ticketing Service System project will be integrated into the Agile and Scrum method to ensure that quality is achieved through collaborative effort and continuous improvement. The following steps will be undertaken:
+
+*'''Defining Quality Standards:''' The project team will collaborate with stakeholders to define and document the quality standards for the project in the Quality Management Plan. The quality standards will be communicated to all stakeholders.
+*'''Agile Quality Auditing:''' The project team will conduct regular quality audits with the project adviser using Agile practices such as peer reviews, test-driven development, and continuous integration to make sure that quality standards are being met and identify areas for improvement.
+*'''Quality Metrics:''' The project team will use quality metrics to track and report on the project's performance against the quality standards.
+
+To monitor the quality process, the following metrics will be used:
+
+**Agile Metrics such as Velocity, Burn-Down Charts, and Sprint Reviews 
+**Defect Density: The number of defects found per unit of measure.
+**Defect Severity: The classification of defects based on their impact on the system.
+**Test Coverage: The percentage of the system that has been tested.
+**Test Case Pass Rate: The percentage of test cases that have been passed.
+**Root Cause Analysis Effectiveness: The percentage of issues that have been resolved at the root cause level.
+
+*'''Continuous Improvement:''' The project team will use the feedback received from quality audits and quality metrics to continuously improve the product and the quality process. The project team will work with stakeholders to identify opportunities for improvement and implement changes.
+
+*'''Compliance with Industry Standards:''' The project team will ensure that the Ticketing Service System adheres to relevant industry standards such as accessibility standards, security standards, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
+
+*'''Reviewing Customer Feedback:''' The project team will regularly review customer feedback to identify any issues or areas for improvement. This feedback will be used to inform the continuous improvement process and ensure that the product meets customer needs and expectations.
+
+The quality assurance metrics will be closely monitored, tracked, and reported on a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and implement improvements. The goal is to ensure that the Ticketing Service System meets the highest quality standards, and that all quality assurance metrics are closely monitored to ensure the project's success.
+
+==Quality Control==
+In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Ticketing Service System project will involve the following steps:
+
+*'''Continuous testing and feedback:''' The project team will perform continuous testing to identify defects and ensure that the product is meeting customer requirements. The testing will be automated wherever possible, and the results will be tracked in a continuous integration/continuous delivery (CI/CD) system.
+
+*'''User Acceptance Testing (UAT):''' A representative group of end users will test the system to ensure it satisfies their needs and expectations. The UAT will be performed at the end of each sprint, and any necessary modifications will be made based on feedback from the users.
+
+*'''Compatibility Testing:''' The Ticketing Service System will be tested on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any difficulties that may arise when the system is used in various settings.
+
+The following quality metrics will be used to monitor and assess the system's performance:
+
+**Defect Density: The number of defects found per unit of measure (e.g., per KLOC) 
+**Defect Severity: The classification of defects based on their impact on the system.
+**Test Coverage: The percentage of the system that has been tested.
+**Test Case Pass Rate: The percentage of test cases that have been passed.
+**User Satisfaction: Measured through surveys and feedback from users.
+**Response Time: The time taken for the system to respond to user requests.
+**System Uptime: The percentage of time the system is available and functioning as expected.
+
+*'''Tracking and Documenting Quality Evaluations:''' The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.
+*'''Continuous Improvement:''' The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.
+
+In conclusion, the Quality Control process for RAMS Corner: Ticketing Service System project will be an integral part of the development process, with a focus on continuous testing, user feedback, and performance monitoring. The project team will continuously monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the required quality standards and customer requirements.
+
+==Quality Control Measurements==
+The Agile and Scrum techniques will be employed to promote continuous inspection and modification throughout the project lifecycle for the project, which will adopt a transparent and collaborative approach to quality control.
+
+To guarantee that the product fulfills the standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table.
+
+The following details will be on the platform:
+*Measurement date
+*Measurement type (e.g., automated testing, code review, peer review, user story acceptance)
+*The measurement's findings (such as passed/failed, the number of flaws discovered, and the percentage of code coverage)
+*Requirements and standards for comparison
+*Member of the team in charge of measuring
+*Team member responsible for assessing the measurement results
+*Taking any required corrective actions
+*The date that the remedial measures were finished
+*Team member in charge of carrying out corrective measures
+
+To track quality control measurements in real-time, the team, Nacor Industries, will utilize software applications such as Microsoft Teams, GitHub, and OpenProject as collaborative platforms. These tools will enable all team members to easily access and comprehend the data related to quality control. Using these, the team would be able to monitor each update that would be made within the span of the project. The dashboards provided by these tools will highlight patterns and areas of concern, allowing the team to promptly identify issues and take appropriate actions. This proactive approach will facilitate quick adjustments and ensure that the necessary measures are implemented to maintain and improve the project's quality standards.
+
+During regular team reviews, such as sprint reviews and retrospectives, the quality control metrics will be thoroughly assessed and reviewed. If necessary, adjustments will be made to the methodology to ensure its effectiveness. The team will collaborate to identify areas for improvement and actively implement solutions for any identified issues. This iterative process will enable the team to continuously enhance the quality control methods and ensure the project's overall success.
+
+To summarize, the RAMS Corner: Ticketing Service System project will employ Agile and Scrum methodologies to establish a collaborative and adaptable quality control strategy. The team will consistently evaluate the product's quality and make necessary enhancements to meet the established standards and requirements. All quality control measurements will be collected and monitored in real-time on a shared platform. The team will work together to address any issues that arise and implement improvements as needed.
+
 =14. Risk Management Plan=
 
 ==Introduction==
