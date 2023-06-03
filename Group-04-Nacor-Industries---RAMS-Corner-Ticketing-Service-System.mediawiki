@@ -926,3 +926,93 @@ The Quality Management Plan for the RAMS Corner: Ticketing Service System projec
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/c2a9e9b575b3facf7896111f63853343f375ecbe/image_2023-06-03_134301758.png?raw=true"display:block; margin:0 auto;">
 
+The following are the roles and duties for the quality management plan:
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/9e53b76fe7abc8e59bb32eb99d8b6ad7d8201a4c/wikihub%20photos/image_2023-06-03_134949165.png?raw=true"display:block; margin:0 auto;">
+
+Quality management will be integrated into every aspect of the project and will be handled by the entire team—each being a part of the quality management team. Nacor Industries will strive to deliver a Minimum Viable Product (MVP) and will continuously incorporate customer feedback to refine and improve the product.
+
+The approach will include the following steps:
+
+1. '''Establishing Quality Standards:''' The project team will define precise quality standards aligned with Agile and Scrum methodologies, emphasizing the delivery of value to the customer.
+
+2. '''Quality Planning:''' Working closely with stakeholders, the team will identify project requirements and prioritize essential features. They will create a Product Backlog and set quality objectives to ensure that each product iteration provides value and meets the defined quality standards.
+
+3. '''Quality Control:''' Throughout the sprint, the team will implement quality control measures to ensure compliance with established requirements and quality goals. This will involve conducting testing and reviews during each sprint to identify and address any defects or issues.
+
+4. '''Continuous Improvement:''' The team will continuously monitor and evaluate the project's performance and adjust as necessary. This will involve collecting and analyzing feedback from stakeholders, identifying areas for improvement, and implementing changes to improve the project's overall quality.
+
+5. '''Communication:''' The team will maintain constant communication with stakeholders to ensure that they are aware of the product's quality status and can provide feedback as needed.
+
+Throughout the span of this project, the team will incorporate Agile and Scrum practices, including user stories, sprints, and retrospectives, to ensure that quality is built-in throughout the project's lifecycle and meets the organization's quality standards and the needs of the project stakeholders. In addition, a risk management plan will be developed to proactively identify and mitigate potential quality risks throughout the project's lifecycle.
+
+Overall, the Quality Management Approach for the RAMS Corner: Ticketing Service System project will prioritize delivering a high-quality product that meets customer requirements through an Agile and Scrum method. The approach will be flexible and continuously refined to ensure that the project meets or exceeds all quality expectations.
+
+==Quality Requirements / Standards==
+
+The RAMS Corner: Ticketing Service System project places a high focus on quality, and the team will cooperate to create and record quality requirements and standards. Client comments, testing, and assessments will be used to guarantee adherence to these criteria. The following requirements and standards for quality will be followed by the RAMS Corner: Ticketing Service System. 
+
+'''Requirements for Product Quality:'''
+
+*The RAMS Corner: Ticketing Service System will be fully operational and adhere to the product backlog's technical requirements.
+*The interface shall be simple to use, with prompts and instructions that are obvious to users.
+*The solution will work and be compatible with the company's current technological infrastructure.
+*The system will have a layer of data security to safeguard the customer's private information through password authorization.
+
+'''Requirements for Ensuring Quality of Processes:'''
+
+*The product owner and development team will review and approve all project deliverables prior to being provided to the client.
+*The development team will implement an ongoing process of testing and quality assurance to ensure that the system meets all technical specifications and requirements.
+*A version control tool will be used by the development team to ensure that any modifications to the system are properly documented, reviewed, and authorized.
+*Regular sprint reviews will be conducted by the development team to identify and promptly address any quality issues.
+*The development team will follow a defined configuration management process to ensure consistent development, testing, and deployment of the system.
+
+'''Compliance Demonstration:'''
+
+*The Ticketing Service System will be tested and evaluated against the established quality requirements and standards before being deployed to the client.
+*The development team will maintain comprehensive documentation of all testing and quality assurance activities, which will be made available to the client upon request.
+*The development team will conduct a formal acceptance test with the client to ensure that the system meets their requirements and expectations.
+*The development team will provide ongoing support and maintenance services to ensure that the system continues to meet the established quality standards over time.
+
+'''Continual Improvement:'''
+The development team will design a method for continual improvement by routinely gathering and analyzing client feedback, monitoring system performance, and carrying out internal audits to spot potential improvement areas. A procedure for identifying and resolving any non-conformities that may emerge throughout the project should be established by the development team. This may entail recording the non-conformity, figuring out the underlying cause, taking corrective action, and assessing how well it works. These procedures can be incorporated into the project to guarantee that the Ticketing Service System is not only adhering to set quality standards but must also be actively working to fulfill customers' changing needs.
+
+==Quality Assurance==
+The QA process for RAMS Corner: Ticketing Service System project will be integrated into the Agile and Scrum method to ensure that quality is achieved through collaborative effort and continuous improvement. The following steps will be undertaken:
+
+*'''Defining Quality Standards:''' The project team will collaborate with stakeholders to define and document the quality standards for the project in the Quality Management Plan. The quality standards will be communicated to all stakeholders.
+*'''Agile Quality Auditing:''' The project team will conduct regular quality audits with the project adviser using Agile practices such as peer reviews, test-driven development, and continuous integration to make sure that quality standards are being met and identify areas for improvement.
+*'''Quality Metrics:''' The project team will use quality metrics to track and report on the project's performance against the quality standards.
+
+To monitor the quality process, the following metrics will be used:
+
+**Agile Metrics such as Velocity, Burn-Down Charts, and Sprint Reviews 
+**Defect Density: The number of defects found per unit of measure.
+**Defect Severity: The classification of defects based on their impact on the system.
+**Test Coverage: The percentage of the system that has been tested.
+**Test Case Pass Rate: The percentage of test cases that have been passed.
+**Root Cause Analysis Effectiveness: The percentage of issues that have been resolved at the root cause level.
+
+*'''Continuous Improvement:''' The project team will use the feedback received from quality audits and quality metrics to continuously improve the product and the quality process. The project team will work with stakeholders to identify opportunities for improvement and implement changes.
+
+*'''Compliance with Industry Standards:''' The project team will ensure that the Ticketing Service System adheres to relevant industry standards such as accessibility standards, security standards, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
+
+*'''Reviewing Customer Feedback:''' The project team will regularly review customer feedback to identify any issues or areas for improvement. This feedback will be used to inform the continuous improvement process and ensure that the product meets customer needs and expectations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
