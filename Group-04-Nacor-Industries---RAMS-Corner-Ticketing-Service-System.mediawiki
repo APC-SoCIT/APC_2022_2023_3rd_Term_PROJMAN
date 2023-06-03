@@ -200,7 +200,6 @@ Listed below are the team’s project assumptions revolving regarding the deploy
 
 === 4.4.5. Project Constraints ===
 Listed below are the possible project constraints revolving around RAMS Corner’s design and implementation which involves—but are not limited to--the following:
- 
 <h3> Data Privacy </h3>
 *Upon takeover, the ITRO would be the one fully responsible for the web-application, and any other authorization regarding the APC faculty and the user’s credentials.
 
