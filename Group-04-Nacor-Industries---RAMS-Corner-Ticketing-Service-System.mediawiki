@@ -892,6 +892,37 @@ according to the demands of the project and the rules of the business. </td>
 
 </table>
 
+=12. QUALITY MANAGEMENT PLAN=
 
+==Introduction==
+In order to maintain quality throughout the project the team, Nacor Industries, opted to follow the hybrid Scrum-Fall methodology. This Quality Management Plan will define the quality standards that will be used to evaluate the RAMS Corner: Ticketing Service System. Furthermore, the plan provides a framework for resolving quality concerns and specifying the roles and duties of team members in addition to outlining quality principles and procedures from the development, through the deployment of RAMS Corner: Ticketing Service System, with the following goals in mind:
 
+*Make sure the project satisfies or exceeds the expectations of the client and 
+stakeholders, (APC-ITRO and their clientele)
+
+*List the criteria for quality that will be used to assess the project.
+
+*In order to meet the required standards of quality, it is important to define the 
+specific roles and responsibilities of each team member.
+
+*Identify and resolve any possible quality issues that may arise.
+
+*Create a framework to effectively oversee and maintain project quality throughout
+its duration.
+
+RAMS Corner: Ticketing Service System RAMS Corner: Ticketing Service System will be a completely functional web-based application to be used by the ITRO in lieu of their aging email-based system as the Quality Management Plan will contain both the product and process quality standards. The strategy will include detailed procedures to be followed as well as tools and methods to manage and document industry-standard quality which includes the following tools:
+
+*Definition of Done: A concise and clear description of the conditions that determine the completion of a product increment.
+
+*Acceptance Criteria: Specific requirements that a product increment must meet in order to receive approval from the product owner.
+
+*Continuous Integration: A method used to frequently merge code updates into a shared repository to ensure that the final product is consistently ready for release—which would be done through GitHub.
+
+In summary, this Quality Management Plan will offer a comprehensive structure to effectively manage and sustain the quality of the project from start to finish. It guarantees that the project will meet or surpass the expectations of all parties involved. Additionally, the plan outlines specific processes, tools, and roles and responsibilities for identifying and resolving any potential quality concerns. It is essential for all stakeholders to be acquainted with this plan and understand their contributions towards its successful implementation.
+
+==Quality Management Approach==
+
+The Quality Management Plan for the RAMS Corner: Ticketing Service System project will utilize the hybrid Scrum-Fall methodology to ensure that the project meets or exceeds all stakeholders' quality expectations. This approach would promote flexibility as they would be directly involved within each step of the way from the development, through the deployment stage as referenced in the diagram below:
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/c2a9e9b575b3facf7896111f63853343f375ecbe/image_2023-06-03_134301758.png?raw=true"display:block; margin:0 auto;">
 
