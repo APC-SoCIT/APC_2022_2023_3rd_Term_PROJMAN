@@ -775,6 +775,163 @@ The project team, Nacor Industries, will conduct scope verification upon each me
 ==18.13 Scope Control==
 Prior to any pivotal changes that may occur within the project’s development, the team ensures that each decision would need to first be approved by the stakeholders, especially the client: APC-ITRO, before getting greenlit. This process would be documented accordingly with regards to the team’s 
 
+=19 Quality Management Plan=
+
+==19.1 Introduction ==
+
+In order to maintain quality throughout the project the team, Nacor Industries, opted to follow the hybrid Scrum-Fall methodology. This Quality Management Plan will define the quality standards that will be used to evaluate the RAMS Corner: Ticketing Service System. Furthermore, the plan provides a framework for resolving quality concerns and specifying the roles and duties of team members in addition to outlining quality principles and procedures from the development, through the deployment of RAMS Corner: Ticketing Service System, with the following goals in mind:
+
+⦁	Make sure the project satisfies or exceeds the expectations of the client and 
+stakeholders, (APC-ITRO and their clientele)
+⦁	List the criteria for quality that will be used to assess the project.
+⦁	In order to meet the required standards of quality, it is important to define the 
+specific roles and responsibilities of each team member. 
+⦁	Identify and resolve any possible quality issues that may arise.
+⦁	Create a framework to effectively oversee and maintain project quality throughout
+its duration.
+
+RAMS Corner: Ticketing Service System RAMS Corner: Ticketing Service System will be a completely functional web-based application to be used by the ITRO in lieu of their aging email-based system as the Quality Management Plan will contain both the product and process quality standards. The strategy will include detailed procedures to be followed as well as tools and methods to manage and document industry-standard quality which includes the following tools:
+
+⦁	Definition of Done: A concise and clear description of the conditions that determine the completion of a product increment.
+⦁	Acceptance Criteria: Specific requirements that a product increment must meet in order to receive approval from the product owner.
+⦁	Continuous Integration: A method used to frequently merge code updates into a shared repository to ensure that the final product is consistently ready for release—which would be done through GitHub.
+
+In summary, this Quality Management Plan will offer a comprehensive structure to effectively manage and sustain the quality of the project from start to finish. It guarantees that the project will meet or surpass the expectations of all parties involved. Additionally, the plan outlines specific processes, tools, and roles and responsibilities for identifying and resolving any potential quality concerns. It is essential for all stakeholders to be acquainted with this plan and understand their contributions towards its successful implementation.
+
+==19.2 Quality Management Approach ==
+
+The Quality Management Plan for the RAMS Corner: Ticketing Service System project will utilize the hybrid Scrum-Fall methodology to ensure that the project meets or exceeds all stakeholders' quality expectations. This approach would promote flexibility as they would be directly involved within each step of the way from the development, through the deployment stage as referenced in the diagram below:
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/ScrumFall%20Methodology.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+
+The following are the roles and duties for the quality management plan:
+<table border='1' width="100%" align="center">
+  <tr>
+    <th>Role</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Project Manager</td>
+    <td>Charged with establishing the acceptance standards and making sure the final product satisfies all stakeholders.</td>
+  </tr>
+  <tr>
+    <td>Project Team Leader/Scrum Master</td>
+    <td>Oversees the team's adherence to the Scrum framework and works with the Product Owner and Development Team to enhance the final product.</td>
+  </tr>
+  <tr>
+    <td>Product Owner</td>
+    <td>Represents and interprets the stakeholder’s best interests to make sure that it adheres to their preferences while collaborating with the team to ensure the project’s feasibility without sacrificing quality.</td>
+  </tr>
+  <tr>
+    <td>Project Development Team</td>
+    <td>Responsibilities include producing a top-notch product and upholding the specified quality policies and standards that adhere to the needs of the client.</td>
+  </tr>
+  <tr>
+    <td>Project Sponsor</td>
+    <td>Provides executive support for the project.</td>
+  </tr>
+</table>
+
+
+==19.3 Quality Requirements/Standards==
+The RAMS Corner: Ticketing Service System project places a high focus on quality, and the team will cooperate to create and record quality requirements and standards. Client comments, testing, and assessments will be used to guarantee adherence to these criteria. The following requirements and standards for quality will be followed by the RAMS Corner: Ticketing Service System. 
+
+Requirements for Product Quality:
+
+⦁	The RAMS Corner: Ticketing Service System will be fully operational and adhere to the product backlog's technical requirements.
+⦁	The interface shall be simple to use, with prompts and instructions that are obvious to users.
+⦁	The solution will work and be compatible with the company's current technological infrastructure.
+⦁	The system will have a layer of data security to safeguard the customer's private information through password authorization.
+
+Requirements for Ensuring Quality of Processes:
+
+⦁	The product owner and development team will review and approve all project deliverables prior to being provided to the client.
+
+⦁	The development team will implement an ongoing process of testing and quality assurance to ensure that the system meets all technical specifications and requirements.
+⦁	A version control tool will be used by the development team to ensure that any modifications to the system are properly documented, reviewed, and authorized.
+⦁	Regular sprint reviews will be conducted by the development team to identify and promptly address any quality issues.
+⦁	The development team will follow a defined configuration management process to ensure consistent development, testing, and deployment of the system.
+
+Compliance Demonstration:
+
+⦁	The Ticketing Service System will be tested and evaluated against the established quality requirements and standards before being deployed to the client.
+⦁	The development team will maintain comprehensive documentation of all testing and quality assurance activities, which will be made available to the client upon request.
+⦁	The development team will conduct a formal acceptance test with the client to ensure that the system meets their requirements and expectations.
+⦁	The development team will provide ongoing support and maintenance services to ensure that the system continues to meet the established quality standards over time.
+
+Continual Improvement:
+
+The development team will design a method for continual improvement by routinely gathering and analyzing client feedback, monitoring system performance, and carrying out internal audits to spot potential improvement areas. A procedure for identifying and resolving any non-conformities that may emerge throughout the project should be established by the development team. This may entail recording the non-conformity, figuring out the underlying cause, taking corrective action, and assessing how well it works. These procedures can be incorporated into the project to guarantee that the Ticketing Service System is not only adhering to set quality standards but must also be actively working to fulfill customers' changing needs.
+
+==19.4 Quality Assurance==
+The QA process for RAMS Corner: Ticketing Service System project will be integrated into the Agile and Scrum method to ensure that quality is achieved through collaborative effort and continuous improvement. The following steps will be undertaken:
+
+⦁	Defining Quality Standards: The project team will collaborate with stakeholders to define and document the quality standards for the project in the Quality Management Plan. The quality standards will be communicated to all stakeholders.
+⦁	Agile Quality Auditing: The project team will conduct regular quality audits with the project adviser using Agile practices such as peer reviews, test-driven development, and continuous integration to make sure that quality standards are being met and identify areas for improvement.
+⦁	Quality Metrics: The project team will use quality metrics to track and report on the project's performance against the quality standards.
+
+To monitor the quality process, the following metrics will be used:
+
+⦁	Agile Metrics such as Velocity, Burn-Down Charts, and Sprint Reviews 
+o 	Defect Density: The number of defects found per unit of measure 
+o 	Defect Severity: The classification of defects based on their
+impact on the system.
+⦁	Test Coverage: The percentage of the system that has been tested 
+⦁	Test Case Pass Rate: The percentage of test cases that have been passed 
+⦁	Root Cause Analysis Effectiveness: The percentage of issues that have been resolved at the root cause level.
+
+⦁	Continuous Improvement: The project team will use the feedback received from quality audits and quality metrics to continuously improve the product and the quality process. The project team will work with stakeholders to identify opportunities for improvement and implement changes.
+⦁	Compliance with Industry Standards: The project team will ensure that the Ticketing Service System adheres to relevant industry standards such as accessibility standards, security standards, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
+⦁	Reviewing Customer Feedback: The project team will regularly review customer feedback to identify any issues or areas for improvement. This feedback will be used to inform the continuous improvement process and ensure that the product meets customer needs and expectations.
+
+The quality assurance metrics will be closely monitored, tracked, and reported on a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and
+
+implement improvements. The goal is to ensure that the Ticketing Service System meets the highest quality standards, and that all quality assurance metrics are closely monitored to ensure the project's success.
+
+==19.5 Quality Control ==
+In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Ticketing Service System project will involve the following steps:
+
+⦁	Continuous testing and feedback: The project team will perform continuous testing to identify defects and ensure that the product is meeting customer requirements. The testing will be automated wherever possible, and the results will be tracked in a continuous integration/continuous delivery (CI/CD) system.
+⦁	User Acceptance Testing (UAT): A representative group of end users will test the system to ensure it satisfies their needs and expectations. The UAT will be performed at the end of each sprint, and any necessary modifications will be made based on feedback from the users.
+⦁	Compatibility Testing: The Ticketing Service System will be tested on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any difficulties that may arise when the system is used in various settings.
+
+The following quality metrics will be used to monitor and assess the system's performance:
+
+⦁	Defect Density: The number of defects found per unit of measure (e.g., per KLOC) o Defect Severity: The classification of defects based on their
+impact on the system.
+⦁	Test Coverage: The percentage of the system that has been tested.
+⦁	Test Case Pass Rate: The percentage of test cases that have been passed.
+⦁	User Satisfaction: Measured through surveys and feedback from users.
+⦁	Response Time: The time taken for the system to respond to user requests.
+⦁	System Uptime: The percentage of time the system is available and functioning as expected.
+
+⦁	Tracking and Documenting Quality Evaluations: The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.
+⦁	Continuous Improvement: The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.
+
+In conclusion, the Quality Control process for RAMS Corner: Ticketing Service System project will be an integral part of the development process, with a focus on continuous testing, user feedback, and performance monitoring. The project team will continuously monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the required quality standards and customer requirements.
+
+==19.6 Quality Control Measurements ==
+The Agile and Scrum techniques will be employed to promote continuous inspection and modification throughout the project lifecycle for the project, which will adopt a transparent and collaborative approach to quality control.
+
+To guarantee that the product fulfills the standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table.
+
+The following details will be on the platform:
+
+⦁	Measurement date
+⦁	Measurement type (e.g., automated testing, code review, peer review, user story acceptance)
+⦁	The measurement's findings (such as passed/failed, the number of flaws discovered, and the percentage of code coverage)
+⦁	Requirements and standards for comparison
+⦁	Member of the team in charge of measuring
+⦁	Team member responsible for assessing the measurement results
+⦁	Taking any required corrective actions
+⦁	The date that the remedial measures were finished
+⦁	Team member in charge of carrying out corrective measures
+
+To track quality control measurements in real-time, the team, Nacor Industries, will utilize software applications such as Microsoft Teams, GitHub, and OpenProject as collaborative platforms. These tools will enable all team members to easily access and comprehend the data related to quality control. Through the use of these, the team would be able to monitor each and every update that would be made within the span of the project. The dashboards provided by these tools will highlight patterns and areas of concern, allowing the team to promptly identify issues and take appropriate actions. This proactive approach will facilitate quick adjustments and ensure that the necessary measures are implemented to maintain and improve the project's quality standards.
+
+During regular team reviews, such as sprint reviews and retrospectives, the quality control metrics will be thoroughly assessed and reviewed. If necessary, adjustments will be made to the methodology to ensure its effectiveness. The team will collaborate to identify areas for improvement and actively implement solutions for any identified issues. This iterative process will enable the team to continuously enhance the quality control methods and ensure the project's overall success.
+
+To summarize, the RAMS Corner: Ticketing Service System project will employ Agile and Scrum methodologies to establish a collaborative and adaptable quality control strategy. The team will consistently evaluate the product's quality and make necessary enhancements to meet the established standards and requirements. All quality control measurements will be collected and monitored in real-time on a shared platform. The team will work together to address any issues that arise and implement improvements as needed.
 
 
 
