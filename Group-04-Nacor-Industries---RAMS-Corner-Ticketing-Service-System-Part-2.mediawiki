@@ -674,7 +674,7 @@ Product Scope Description
 
 The project team's goal is to develop a deployable IT ticketing system that will be complete and functional as a  requirement for the team’s Project-Based Learning (PBL) course with the following features stated below:
 
-⦁	Dashboard
+⦁Dashboard
 ⦁	The dashboard is meant to provide information and updates at a glance, customized to each user and user type.
 ⦁	ITRO Client: 
 ⦁	A simpler version which aims to give ample information about the possible concerns of the client at a glance which includes ticket status, number of tickets sent, and KB shortcuts.
