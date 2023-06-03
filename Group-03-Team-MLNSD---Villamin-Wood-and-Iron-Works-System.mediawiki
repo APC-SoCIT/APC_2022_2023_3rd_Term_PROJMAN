@@ -880,11 +880,6 @@ the project manager alongside the team and stakeholders. The project manager wil
 ==Staffing Management==
 <p>Staffing Management is a crucial part of ensuring the success of the project. It shows the plans and process of the project, managing the acquired information, and it also shows the responsibilities and task of the human resources. </p>
 
-==Staff Acquisition==
-==Resource Calendars==
-==Training==
-==Performance Reviews==
-
 =Work Breakdown Structure=
 ==Introduction==
 <p></p>
@@ -1015,16 +1010,110 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 =Procurement Management Plan=
 ==Introduction==
-==Procurement Management Approach==
-==Cost Determination and Procurement Definition==
-==Type of Contract to be Used==
+<p> A procurement plan is a vital component of any organization's strategic planning process, as it outlines the approach and strategy for acquiring goods, services, or works from external sources. It serves as a roadmap that guides the procurement activities, ensuring that the organization obtains the necessary resources efficiently, effectively, and in compliance with relevant regulations and policies. </p>
+<p> It considers the organization's overall objectives, budgetary constraints, and specific project requirements. The plan outlines the procurement methods, timelines, and responsibilities for each procurement activity. The primary purpose of a procurement plan is to ensure transparency, fairness, and value for money in the procurement process. By having a well-defined plan in place, organizations can mitigate risks, avoid unnecessary delays, and maximize the benefits of their procurement activities. </p>
+<p> The procurement plan shows the details of multiple suppliers that can be managed by the company, and the approval process in the contract. The plan also includes the decision criteria, establishment of contract deliverables and schedule of deadlines, which explains the contracts that are coordinated with the project scope, budget, and schedule. </p>
+<p> Overall, Organizations must have a well-developed procurement strategy in place if they want to accomplish their goals methodically and affordably. Transparency, fairness, and value for money are ensured by the structured framework it provides for the procurement of goods, services, or works. Organizations can streamline their procurement processes, lower risks, and guarantee that the acquisition of goods and services is carried out in a transparent and effective manner by creating a thorough procurement plan. </p>
+
 ==Procurement Risks==
+
+<p> Procurement risk are potential problems that could issues that could potentially harm the project's success come up during the procurement process. To reduce these risks, it is crucial to recognize them and take proactive measures to address the influence over the project. </p>
+
+<p> The Villamin Wood and Iron Works Ordering System project may contain procurement activities that carry risks which are included but not limited to the following: </p>
+<ul> 1. Changes to the project's scope, schedule, or budget, which may have an impact on vendor commitments and procurement activities. </ul>
+<ul> 2.	Unclear and insufficient information in the documentation that may leads in misunderstanding between the team and the client. </ul>
+<ul> 3.	Incomplete contract terms or legal issues that will affect the project’s reputations and legal rights. </ul>
+<ul> 4.	Lack of communication and transparency between the team and the vendors, which may lead to misunderstanding. </ul>
+
+<p> To lessen the impact of the risks, this plan will include strategies for identifying, evaluating, and reducing risks. Throughout the course of the project, this plan will be continuously reviewed and updated to make sure that risks are recognized and promptly addressed. Furthermore, we'll put into practice strict processes and procedures for reducing the risks involved in procurement management. </p>
+
 ==Procurement Risk Management==
-==Standardized Procurement Documentation==
+
+<p> 1. Identification of Procurement Risks </p>
+<p> The following are the potential risks of the project: </p>
+<ul> - Sudden change in cost of goods and services </ul>
+<ul> - Lacking information of contract’s terms and conditions </ul>
+<ul> - Misunderstanding due to misinformation from the team to the vendor about the project </ul>
+
+<p> 2. Risk Mitigation Strategies </p>
+<p> The following are the strategies that will be implemented: </p>
+<ul> - Thoroughly research about the identity of the company supplier and their goods and services. </ul>
+<ul> - Conduct meetings as much as possible for communicating reports to clear confusion about the project. </ul>
+<ul> - Establish a clear and fair contract terms and conditions that will protect the company and the project. </ul>
+<ul> - Regular monitoring throughout the procurement process to ensure that the team will be ready for any emerging risks. </ul>
+
+<p> 3. Assignment of Responsibilities </p>
+<p> Villamin Wood and Iron Works Online System needs a clear roles and responsibilities to help ensure accountability, clarity, and effective coordination. It is essential to clearly communicate the assigned responsibilities to all parties involved and ensure that everyone understands their roles and obligations. Regular communication, coordination, and collaboration among the responsible parties contribute to the smooth execution of the procurement plan and successful procurement outcomes. </p>
+
+<p> 4. Communication and Reporting </p>
+<p> Effective communication and reporting play a crucial role in ensuring transparency, coordination, and accountability throughout the procurement process. Regular and clear communication helps stakeholders stay informed, aligned, and engaged. It enables the exchange of critical information, progress updates, and timely resolution of issues. </p>
+<p> This ensure that relevant stakeholders are kept informed about procurement activities, supplier selection processes, contract status, and any potential risks or issues. It will promote collaboration, enable timely decision-making, and provide a platform for addressing concerns, feedback, and suggestions. </p>
+
+<p> 5. Continuous Improvement </p>
+<p> Continuous improvement is a fundamental aspect of the procurement process, driving efficiency, effectiveness, and innovation. Lessons learned from past procurement experiences will be documented and shared to avoid repeating mistakes and capitalize on best practices. </p>
+<p> The procurement plan will emphasize the commitment to continuous improvement as an integral part of the procurement lifecycle, ensuring that the organization remains adaptive, responsive, and proactive in meeting evolving needs and achieving excellence. </p>
+
+==Cost Determination==
+
+<p> Villamin Wood and Iron Works Online System’s cost determination is a critical aspect of the procurement process, ensuring that the organization obtains goods or services at the most favorable price while maintaining quality and meeting requirements. When calculating the project's overall cost, it is important to take project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenses into account. </p>
+<p> Project management-related expenses for personnel, hardware, and software are all included. While integration costs cover the price of integrating the system with other programs or third-party applications, development costs cover the cost of creating software, hardware, testing, and quality assurance. The price of purchasing the necessary tools, software, and services to design and put the system into use is included in the procurement costs. The costs associated with training personnel to use the system effectively are also covered. </p>
+<p> This includes conducting thorough cost analysis, considering the total cost of ownership, conducting market research and benchmarking, engaging in effective cost negotiation, and maintaining cost transparency and documentation. By employing these strategies, the procurement team can make informed decisions, optimize cost savings, and achieve value for money while procuring goods and services that meet the organization's needs and quality standards. </p>
+<p> Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the completion success of Villamin Wood and Iron Works Online System project within the given budget constraints. </p>
+
 ==Procurement Constraints==
+
+<p> Procurement constraints are inherent limitations and factors that can influence the procurement process and pose challenges to achieving procurement objectives. The following constraints are considered in Villamin Wood and Iron Works Online System project’s procurement process: </p>
+<ul> 1.	Budget constraint: The project was given with a limited financial resource by the client. This requires careful budget planning and cost optimization strategies to ensure procurement objectives are met within the allocated budget. </ul>
+<ul> 2.	Schedule constraints: The project has a strict deadline, so procurement tasks must be finished promptly to keep the project on schedule. Any delays in the procurement process could affect the project's overall schedule and cause it to take longer to complete. </ul>
+<ul> 3.	Technology constraints: Villamin Wood and Iron Works Online System requires technical needs and features that will allow customers to view products and services, to be able to order and pay their products. Additionally, it must have a user-friendly interface that is simple to navigate and open to users with different levels of technical proficiency. </ul>
+<ul> 4.	Resource constraints: To ensure that procurement activities can be completed effectively and efficiently, the procurement process must consider the availability of internal resources, such as personnel. </ul>
+
+<p> By recognizing and proactively addressing these constraints, organizations can navigate the procurement landscape more efficiently and effectively, leading to better decision-making, cost optimization, and overall procurement success. </p>
+
+==Contract Approval Process==
+
+<p> The contract approval process is a critical step in the procurement lifecycle, ensuring that contracts are reviewed, authorized, and executed in accordance with established policies and procedures. These procedures include the following: </p>
+<ul> •	Contract Initiation: The procurement process will be initiated by the project manager by sending a Workday request for procurement to the procurement officer. </ul>
+<ul> •	Contract Planning: A procurement plan that specifies the kind of contract to be used, the evaluation standards, and the deadlines for procurement activities will be created by the procurement officer. </ul>
+<ul> •	Contract Development: The procurement officer will create the contract documents, such as the Terms and conditions, a pricing schedule, and a Statement of Work (SOW) after the procurement plan has been approved. </ul>
+<ul> •	Contract Review: The legal department will examine the contract documents to make sure they adhere to all relevant laws and rules. </ul>
+<ul> •	Contract Approval: The Contract Review Committee will be asked to approve the contract documents. The Committee will then assess the contract documentation and provide the Project Manager with a recommendation. </ul>
+<ul> •	Contract Execution: The Procurement Officer will execute the contract and issue a purchase order during the Workday after it has been approved. </ul>
+<ul> •	Contract Monitoring: To make sure the vendor is observing the terms of the contract, the project manager will monitor their performance. Additionally, the procurement officer will keep an eye on the agreement to make sure that all deliverables are fulfilled, and payments are made in accordance with the contract's terms. </ul>
+
+<p> Overall, by establishing a clear and structured contract approval process, organizations can enhance transparency, accountability, and efficiency in their procurement activities, minimizing potential legal and financial risks while fostering effective supplier relationships. </p>
+
 ==Decision Criteria==
-==Vendor Management==
+
+<p> Decision criteria are a set of predefined factors and considerations used to evaluate and make informed decisions in the procurement process. The following are the decision criteria of Villamin Wood and Iron Works Online System project that will be used by the contract review board: </p>
+<ul> •	Schedule: The vendor must show they can complete the project on time and meet all deliverables, including important deadlines and milestones. </ul>
+<ul> •	Business Needs: The project must be aligned with the company’s business needs, such as increasing operational effectiveness, enhancing customer experience, or an increase in revenue. </ul>
+<ul> •	Pricing: During the decision-making process, the cost of the vendor's suggested solution will be considered. The vendor's pricing should be competitive and reasonable in light of the market analysis and additional proposals received. </ul>
+<ul> •	Risk Management: The vendor must show that they have a solid grasp of potential risks and mitigation techniques. This includes identifying potential risks associated with project and procurement. </ul>
+<ul> •	Technical Requirements: The system must adhere to the organization's technical specifications, which may include compatibility with current systems, security protocols, and industry-specific standards. </ul>
+<ul> •	Compliance: The vendor must comply with all applicable laws, rules, and agreements, including those relating to intellectual property rights, data privacy, and security. </ul>
+
+<p> The use of clear and well-defined decision criteria promotes consistency, transparency, and accountability in the procurement decision-making process, enabling organizations to make informed choices that yield favorable outcomes. </p>
+
 ==Performance Metrics for Procurement Activities==
+
+<p> The following performance metrics will be used by Villamin Wood and Iron Works Online System project for procurement activities: </p>
+<ul> 1.	Vendor Performance Rating </ul>
+<p><ul> The rating is calculated by giving points to various factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with 5 being the best, can be created by averaging the total score. </ul></p>
+
+<ul> 2.	Customer Satisfaction </ul>
+<p><ul> Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery. </ul></p>
+
+<ul> 3.	Procurement Cycle Time </ul>
+<p><ul> The length of time needed to complete the procurement process from need identification to the issuance of a purchase order or contract. </ul></p>
+
+<ul> 4.	Cost Variance </ul>
+<p><ul> This metric contrasts actual and anticipated costs associated with procurement. To calculate, divide the result by the planned costs after deducting the actual costs. </ul></p>
+
+<ul> 5.	Contract Management </ul>
+<p><ul> The success of contract management procedures like contract extensions, modifications, and supplier performance evaluation. </ul></p>
+
+<p> By establishing and monitoring performance metrics, organizations can track their procurement performance, identify areas for improvement, and make data-driven decisions to optimize procurement activities. Performance metrics enable organizations to gauge the value and impact of their procurement efforts, drive continuous improvement, and ensure alignment with strategic objectives. </p>
 
 =Risk Management Plan=
 ==Introduction==
