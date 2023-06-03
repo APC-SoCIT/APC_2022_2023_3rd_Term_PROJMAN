@@ -549,19 +549,19 @@ After making the list of necessary materials for the project, the project would 
 ==18.1 Introduction==
 Towards the start of the project: RAMS Corner Ticketing System, the team, Nacor Industries has already set a list of scope and limitations that would enable the group to focus on the tasks at hand and not be swayed nor distracted by minor issues nor inconveniences prior, during and after the development phase. This Scope Management Plan aims to identify and elaborate the necessary processes used to define, control, approach, delegate, and verify the project’s scope which involves—but are not limited to—the following:
 
-⦁	Requirement Collection;
-⦁	This process would be done through collective and regular meetings with the group and the client through a Scrum-Fall methodology-based workflow. This ensures that the needed data and resources would be gathered and verified simultaneously while also allowing freedom for the team in case of revision, as referenced in the figure below:
+*Requirement Collection;
+*This process would be done through collective and regular meetings with the group and the client through a Scrum-Fall methodology-based workflow. This ensures that the needed data and resources would be gathered and verified simultaneously while also allowing freedom for the team in case of revision, as referenced in the figure below:
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/ScrumFall%20Methodology.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
 
-⦁	Scope Definition;
-⦁	Involves the checking of all the necessary documents such as contracts, agreements, and statements of work to ensure that they align with the project's goals, objectives, and constraints. 
-⦁	Work Breakdown Structure (WBS) Creation;
-⦁	The WBS is comprehensive and accurate visual representation of the tasks and goals that the team came up with through various sessions and meetings which entails all the work packages required to complete the project.
-⦁	Scope Verification;
-⦁	This would be done through performing a walkthrough of the project deliverables with stakeholders to ensure that they meet their needs and expectations. Furthermore, it will allow stakeholders to provide feedback and make suggestions for improvement as indicated accordingly through the team’s Scrum-Fall Methodology.
-⦁	Scope Control
-⦁	Controlling the project’s scope is needed to reflect any changes in the project's goals, objectives, or constraints. Prior to any changes the team would make sure that the stakeholders are aware of the project's scope.
+*Scope Definition;
+*Involves the checking of all the necessary documents such as contracts, agreements, and statements of work to ensure that they align with the project's goals, objectives, and constraints. 
+*Work Breakdown Structure (WBS) Creation;
+*The WBS is comprehensive and accurate visual representation of the tasks and goals that the team came up with through various sessions and meetings which entails all the work packages required to complete the project.
+*Scope Verification;
+*This would be done through performing a walkthrough of the project deliverables with stakeholders to ensure that they meet their needs and expectations. Furthermore, it will allow stakeholders to provide feedback and make suggestions for improvement as indicated accordingly through the team’s Scrum-Fall Methodology.
+*Scope Control
+*Controlling the project’s scope is needed to reflect any changes in the project's goals, objectives, or constraints. Prior to any changes the team would make sure that the stakeholders are aware of the project's scope.
 
 ==18.2 Scope Management Approach==
 The scope of the web application, RAMS Corner: Ticketing System is pre-determined in Scope Definition, Project Scope Statement, Work Breakdown Structure (WBS) and WBS dictionary. The primary objective of the project is to develop the said application for the client, APC-ITRO and provide a platform for them to use in lieu of their current email-based reporting system. The scope of the project revolves mainly around the main project documentation and the creation phase would include the planning of the system’s functionalities, design, actual development, test cases for usability and performance, along with the provision of user manuals, training, and support for the stakeholders and clients.
@@ -674,16 +674,16 @@ Product Scope Description
 
 The project team's goal is to develop a deployable IT ticketing system that will be complete and functional as a  requirement for the team’s Project-Based Learning (PBL) course with the following features stated below:
 
-⦁Dashboard
-⦁	The dashboard is meant to provide information and updates at a glance, customized to each user and user type.
-⦁	ITRO Client: 
-⦁	A simpler version which aims to give ample information about the possible concerns of the client at a glance which includes ticket status, number of tickets sent, and KB shortcuts.
-⦁	ITRO Admin/ITRO Staff: 
-⦁	The admin and staff dashboard has a more technical and professional look but has the same functions related to their concerns that involves—but are not limited to—the following: received tickets, assigned tickets, statuses of tickets concerning them, ticket summary, active clients, and agents, etc.
-⦁	Notifications
-⦁	The notifications pane would be available to every user type and would provide them with the latest updates regarding their tickets and other issues that may be of concern to them.
-⦁	Ticket Table 
-⦁	The ticket table lists all of the tickets received by the ITRO, along with their current status and details which entail the date and time it is created, along with its prioritization, assignment, etc. 
+<strong>Dashboard</strong>
+*The dashboard is meant to provide information and updates at a glance, customized to each user and user type.
+<strong>ITRO Client:</strong>  
+*A simpler version which aims to give ample information about the possible concerns of the client at a glance which includes ticket status, number of tickets sent, and KB shortcuts.
+*ITRO Admin/ITRO Staff: 
+*The admin and staff dashboard has a more technical and professional look but has the same functions related to their concerns that involves—but are not limited to—the following: received tickets, assigned tickets, statuses of tickets concerning them, ticket summary, active clients, and agents, etc.
+*Notifications
+*The notifications pane would be available to every user type and would provide them with the latest updates regarding their tickets and other issues that may be of concern to them.
+*Ticket Table 
+*The ticket table lists all of the tickets received by the ITRO, along with their current status and details which entail the date and time it is created, along with its prioritization, assignment, etc. 
 ⦁	Knowledge Base
 ⦁	The Knowledge Base is a collection of common IT problems and their resolutions that would aim to empower the users and give them the ability to troubleshoot their problems by themselves.
 ⦁	ITRO Admin:
