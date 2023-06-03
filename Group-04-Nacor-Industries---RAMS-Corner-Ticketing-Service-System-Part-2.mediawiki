@@ -656,15 +656,15 @@ In order to promote organizational harmony and present a systematic and effectiv
 ==18.4 Scope Definition==
 The project, RAMS Corner: Ticketing System, is designed for the use of the (1) APC organization; (2) APC staff and faculty members, (3) APC students, will help the ITRO in their workflow in identifying problems within the building. This ticketing system that the team is developing allows the ITRO Admins to have more control over how it tracks and resolves the ITRO Client complaints. The team’s ticketing software has a set of processes that enable the ITRO to efficiently oversee incidents and service requests logged or reported by its ITRO clients which involves—and is specifically limited to—the following: 
 
-⦁	Infrastructure-Based 
-⦁	Desktop Support 
-⦁	Server/Cloud Services Support 
-⦁	Audio/Video Equipment Support 
-⦁	Software-Based 
-⦁	Backend Development Support 
-⦁	Business Analysis/QA 
-⦁	Data Analysis 
-⦁	Software Development Support 
+*Infrastructure-Based 
+*Desktop Support 
+*Server/Cloud Services Support 
+*Audio/Video Equipment Support 
+*Software-Based 
+*Backend Development Support 
+*Business Analysis/QA 
+*Data Analysis 
+*Software Development Support 
 
 The flexible ticketing solution increases IT service delivery and overall ITRO Client satisfaction by integrating native IT service management modules such as IT problem management and asset management. But this ticketing system will not cover the management of the requests to ITRO that are raised via phone calls. This application serves only as Ticket Management and does not include ITRO’s Problem Management and User Management. This project will be used and be made available only to the APC staff, personnel, and students.  
 
