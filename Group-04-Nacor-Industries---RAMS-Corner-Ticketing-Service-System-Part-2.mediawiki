@@ -10,7 +10,7 @@ The project manager and project team can successfully manage the project by maki
 
 	A project must have a team that has a strategy in place in order to succeed as it clarifies the duties and responsibilities of each member of the project team and the client, and to make sure that everyone in the team is aware of their own contributions.
 
-To ensure that resources are distributed and used efficiently, the plan guarantees that the appropriate individuals are in the appropriate roles to accomplish project successfully by explicitly identifying competences and skill needs.
+To ensure that resources are distributed and used efficiently, the plan guarantees that the appropriate individuals are in the appropriate roles to accomplish project successfully by explicitly identifying competencies and skill needs.
 
 Overall, the project team is guided toward effective project execution and delivery by the human resources management strategy, which serves as a road map.
 
@@ -407,7 +407,7 @@ The following are the list of elements in the Risk Register
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/Risk%20ID.png" alt="Image description" style="display:center; margin:0 auto;">
 
-=15. COMMUNICATION MANAGEMENT PLAN=
+=15. Communication Management Plan=
 ==Introduction==
 The Communication Management Plan (CMP) is an essential tool for ensuring that the Rams Corner Ticketing Service System project is successful. It provides a framework for effective communication between the project team and stakeholders, which is essential for ensuring that the project stays on track and meets its objectives.
 
@@ -439,7 +439,7 @@ Here are some additional details about the CMP:
 
 In conclusion, the Communications Management Plan is an essential tool for ensuring that the Rams Corner Ticketing Service System project's stakeholders are fully informed, and that communication is effective and efficient.
 
-==COMMUNICATIONS MANAGEMENT APPROACH==
+==Communications Management Approach==
 As a Project Manager, it is crucial to have an effective communications management approach to ensure smooth project execution and minimize potential problems. Here is an overview of a comprehensive communications management approach:
 
 1.'''Clear Project Objectives:''' 
@@ -452,6 +452,114 @@ By cultivating a culture where team members feel comfortable sharing their thoug
 Implement a reporting structure that gives all stakeholders regular information on the status, milestones, and hazards of the project. Based on the requirements and preferences of the stakeholders, decide on the reporting schedule and format.
 
 Project managers may encourage effective cooperation, reduce risks, deal with problems quickly, and make sure that project stakeholders are informed and involved throughout the project lifecycle by putting this communications management method into practice.
+
+==Communication Management Constraints==
+The Rams Corner Ticketing Service System's communications management constraints play a critical role in the detailed project management plan. The limitations and boundaries that may impact the project's communication processes and tactics are established with the help of these constraints. The project team can take proactive steps to address potential difficulties by being aware of and addressing these limits, enabling a smooth flow of information throughout the project.
+When implementing The Rams Corner Ticketing Service System, it's important to consider the communications management constraints mentioned. 
+
+1.'''Time Constraints:'''
+Time-sensitive deliverables and deadlines are a common feature of projects, which can make communication difficult. The whole flow of communication may be impacted by the limited time available for meetings, decision-making, and delivering feedback.
+
+2.'''Language barriers:'''
+If team members or stakeholders communicate in different languages, there might arise a necessity for translation services or supplementary resources to enable effective communication.
+
+3.'''Technology limitations:''' 
+The sorts of communication that can be employed and the population that can be reached may be constrained by the accessibility and capabilities of communication technology. It could be challenging to organize live videoconferences, for instance, if a project team is dispersed across several time zones.
+
+4.'''Technical difficulties:'''
+Problems with network connections, power interruptions, hardware failures can disrupt communication channels, leading to delays or interruptions in transmitting information. This can hinder real-time communication and affect the overall efficiency of communication management.
+
+
+==Stakeholder Communication Requirements==
+
+The Stakeholder Communication Requirements play a vital role in the Rams Corner Ticketing Service System by defining the unique communication needs of stakeholders and the project team. By understanding and addressing the communication requirements of various stakeholders, project teams can ensure that project information is disseminated efficiently, and that stakeholder interests and expectations are properly managed. 
+
+Here are some steps to develop a stakeholder communication management plan:
+
+1.'''Communication Channels:'''
+The team should identify the most suitable communication channels and methods for reaching each stakeholder group. This can be achieved by considering a combination of communication tools such as email, meetings, newsletters, website updates, social media, and dedicated customer support lines.
+
+2.'''Transparency:'''
+Establishing transparent and open communication builds trust and credibility among stakeholders as it involves sharing information regarding the project's progress, goals, objectives, and expected outcomes.
+
+3.'''Feedback mechanisms:'''
+Establish channels for stakeholders to provide feedback, ask questions, or raise concerns. This can be in the form of dedicated feedback sessions, surveys, email addresses, or designated contact persons. Ensure that stakeholders have a means to express their opinions and that their feedback is actively solicited and acknowledged.
+
+4.'''Document and archive:'''
+The plan should be a living document that is regularly updated to reflect any changes in stakeholders, objectives, or communication requirements. Share the plan with the project team and stakeholders to ensure alignment and understanding.
+
+==Roles==
+
+1.'''Class Adviser'''
+The class adviser serves as a mentor and guide for students, providing advice, encouragement, and support. They may offer guidance on personal and career development, help students navigate challenges, and provide a safe space for students to discuss their concerns.
+
+2.'''Project Adviser'''
+The project adviser assists in the planning phase by providing expertise and advice on project scope, objectives, timelines, and resource allocation. They help the project team identify potential risks and develop strategies to mitigate them.
+
+3.'''Stakeholders'''
+Stakeholders have the responsibility to contribute their input regarding the project's scope, including requirements and expectations. Additionally, they are accountable for accepting the project deliverables as outlined within the project's scope. Maintaining regular communication between the Project Manager and stakeholders is crucial to ensure ongoing alignment of the project with their needs and expectations.
+
+4.'''Project Manager'''
+The role of a project manager is essential in effectively planning, executing, and delivering projects. Project managers are responsible for overseeing the entire project lifecycle and coordinating various aspects to achieve project objectives.
+
+5.'''Scrum Master'''
+The Scrum Master facilitates the Scrum process by organizing and leading various Scrum events, such as daily stand-up meetings, sprint planning sessions, sprint reviews, and sprint retrospectives. They ensure that these events are conducted efficiently and that all team members actively participate.
+
+6.'''Scrum Members'''
+The Scrum Team is responsible for delivering value incrementally and iteratively, working in short timeframes called sprints. The team collectively decides how to accomplish the work, collaborates closely, and shares accountability for the success of the project. The roles within the Scrum Team are complementary, with each role bringing its unique focus and expertise to achieve the project's goals and deliver a high-quality product.
+
+7.'''Documentation Manager'''
+The Documentation Manager has the crucial task of supervising the project documentation to ensure its thoroughness and accuracy. They work closely with the Project Manager and the team to ensure that all project documentation aligns smoothly with the project's scope.
+
+==Project Team Directory==
+The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
+
+<table border="1" width="70%" align="left">
+
+ <tr>
+  <td> Role </td>
+  <td> Name</td>
+  <td> Email</td>
+ </tr>
+
+ <tr>
+  <td>Class Adviser</td>
+  <td>Jose Eugenio Quesada</td>
+  <td>jlquesada@apc.edu.ph</td>
+ </tr>
+<tr>
+  <td>Project Adviser</td>
+  <td>Alvin C. Limpin</td>
+  <td>alvinl@apc.edu.ph</td>
+ </tr>
+ <tr>
+  <td>Stakeholder</td>
+  <td>Jose F. Castillo</td>
+  <td>jojoc@apc.edu.ph</td>
+ </tr>
+<tr>
+  <td>Scrum Master</td>
+  <td>Ruth Morallos</td>
+  <td>rrmorallos@student.apc.edu.ph</td>
+ </tr>
+ <tr>
+  <td>Scrum Members</td>
+  <td>- Patrick Cortez,
+      - Vincent Nacor
+      - Bryan Geneta
+</td>
+  <td>
+<ul>pacortez@student.apc.edu.ph</ul>
+<ul>vanacor@student.apc.edu.ph</ul>
+<ul>bdgeneta@student.apc.edu.ph</ul>
+</td>
+ </tr>
+ <tr>
+  <td>Project Adviser</td>
+  <td>Alvin C. Limpin</td>
+  <td>alvinl@apc.edu.ph</td>
+ </tr>
+</table>
 
 =16. PROCUREMENT MANAGEMENT PLAN=
 ==16.1 Introduction ==
