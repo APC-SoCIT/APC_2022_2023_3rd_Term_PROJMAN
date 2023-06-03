@@ -653,6 +653,124 @@ In order to promote organizational harmony and present a systematic and effectiv
 </tbody>
 </table>
 
+==18.4 Scope Definition==
+The project, RAMS Corner: Ticketing System, is designed for the use of the (1) APC organization; (2) APC staff and faculty members, (3) APC students, will help the ITRO in their workflow in identifying problems within the building. This ticketing system that the team is developing allows the ITRO Admins to have more control over how it tracks and resolves the ITRO Client complaints. The team’s ticketing software has a set of processes that enable the ITRO to efficiently oversee incidents and service requests logged or reported by its ITRO clients which involves—and is specifically limited to—the following: 
+
+⦁	Infrastructure-Based 
+⦁	Desktop Support 
+⦁	Server/Cloud Services Support 
+⦁	Audio/Video Equipment Support 
+⦁	Software-Based 
+⦁	Backend Development Support 
+⦁	Business Analysis/QA 
+⦁	Data Analysis 
+⦁	Software Development Support 
+
+The flexible ticketing solution increases IT service delivery and overall ITRO Client satisfaction by integrating native IT service management modules such as IT problem management and asset management. But this ticketing system will not cover the management of the requests to ITRO that are raised via phone calls. This application serves only as Ticket Management and does not include ITRO’s Problem Management and User Management. This project will be used and be made available only to the APC staff, personnel, and students.  
+
+==18.5 Project Scope Statement ==
+
+Product Scope Description
+
+The project team's goal is to develop a deployable IT ticketing system that will be complete and functional as a  requirement for the team’s Project-Based Learning (PBL) course with the following features stated below:
+
+⦁	Dashboard
+⦁	The dashboard is meant to provide information and updates at a glance, customized to each user and user type.
+⦁	ITRO Client: 
+⦁	A simpler version which aims to give ample information about the possible concerns of the client at a glance which includes ticket status, number of tickets sent, and KB shortcuts.
+⦁	ITRO Admin/ITRO Staff: 
+⦁	The admin and staff dashboard has a more technical and professional look but has the same functions related to their concerns that involves—but are not limited to—the following: received tickets, assigned tickets, statuses of tickets concerning them, ticket summary, active clients, and agents, etc.
+⦁	Notifications
+⦁	The notifications pane would be available to every user type and would provide them with the latest updates regarding their tickets and other issues that may be of concern to them.
+⦁	Ticket Table 
+⦁	The ticket table lists all of the tickets received by the ITRO, along with their current status and details which entail the date and time it is created, along with its prioritization, assignment, etc. 
+⦁	Knowledge Base
+⦁	The Knowledge Base is a collection of common IT problems and their resolutions that would aim to empower the users and give them the ability to troubleshoot their problems by themselves.
+⦁	ITRO Admin:
+⦁	Could view, add, modify, hide, and approve KB entries to be viewed by the ITRO Clients.
+⦁	ITRO Staff:
+⦁	Could view, add, modify, or hide KB entries from the ITRO Clients.
+⦁	ITRO Client:
+⦁	Could view the knowledge base for self-troubleshooting.
+⦁	Generate Reports
+⦁	This feature was made exclusively for the ITRO Admin/Staff interface so that they may be able to view the data regarding the tickets sent depending on their choice of date frame that could be downloaded in PDF format. 
+⦁	Tags
+⦁	This feature allows the users tagged through the CC section of the tickets to be notified about any updates and progress made to the tickets.
+⦁	My Personal Tickets
+⦁	This pane allows the users to see the tickets that they’ve sent personally.
+
+The project team also aims to hand over the said deployable IT Ticketing System for the ITRO Department of Asia Pacific College at the end of the semester since they are the main project beneficiaries as well as their respective clients (APC community.) 
+
+==18.6 Acceptance Criteria==
+Success for the project will be measured on three factors: deliverables, quality of work and deployment, if these three would be deemed to be complete by the stakeholders, project client, project advisor, and class advisor, then the project would be considered a success. 
+
+==18.7 Project Deliverables==
+Upon successful project completion, the team would be able to provide the fully-functional and finished system, along with the source code through GitHub with the Software Requirement Specification along with several other project documentations which include—but are not limited to the following:
+
+⦁	User Manual 
+⦁	Business Case 
+⦁	Stakeholders Management Strategy Plan 
+⦁	Scope Management Plan 
+⦁	Cost Management Plan 
+⦁	Time Management Plan 
+⦁	Human Resource Management Plan 
+⦁	Communication Management Plan 
+⦁	Procurement Management Plan  
+⦁	Project Status Reports Distribution plan 
+⦁	Change Request Documentation 
+⦁	Project Execution Monitoring Report 
+⦁	Implementation Plan 
+⦁	Change Management Plan 
+⦁	Project Status Reports 
+⦁	Transition-Out Plan 
+⦁	Project Turn-Over Plan 
+⦁	Post Project Review Plan 
+
+==18.8 Project Exclusions==
+The limitations and exclusions that the team found out has been compounded and listed below and were limited to the design and implementation constraints that the RAMS Corner web application will encounter:
+ 
+⦁	Data Privacy
+⦁	Upon takeover, the ITRO would be the one fully responsible for the web-application, and any other authorization regarding the APC faculty and the user’s credentials.
+⦁	Deployment Budget 
+⦁	The development team would not ask for any form of payment, and the ITRO would be the ones in charge of the system’s deployment within their budget, along with any other preceding financial needs that the app might incur.
+⦁	Manpower / Workforce
+⦁	The web-application has been made with the limited manpower that the ITRO currently has, however, their lack of workforce should be dealt with in order to have more hands-on deck to ensure that there would always be an eye out to see the updates within the system.
+⦁	Training / System Migration
+⦁	The ITRO staff are bound to learn and familiarize themselves with the new system to utilize it to its fullest extent along with its features and functionalities.
+
+==18.9 Project Assumptions:==
+⦁	The ITRO, as well as their clients have access to the internet through APC Rams Wi-Fi (or personal data/ISP) along with the necessary devices to use the web application.
+⦁	The ITRO Staff would be trained in using the new web application.
+⦁	The web application will be developed without any major technical issues or roadblocks.
+⦁	The web-app will be deployed by the client using their resources with sufficient processing power, memory, and storage.
+⦁	The web application will be developed within the given timeline (the entirety of PBL1).
+⦁	The APC faculty and students would utilize the new system instead of the email-based reporting system.
+⦁	The ITRO would properly launch and promote the new system.
+⦁	The email notification system will work without any issues.
+
+==18.10 Project Dependencies:==
+⦁	The team will use Laravel, an open-source PHP web framework for developing web applications.
+⦁	The team will use MySQL as their database for the web application.
+⦁	The ITRO would provide the developers with accurate information about their office and services.
+⦁	The users need access to the internet and the necessary devices to use the web application.
+⦁	The web application needs to be hosted on a reliable and secure server provided by ITRO.
+⦁	The web application should have access to a reliable and fast internet connection.
+⦁	The email notification system should have access to a reliable and fast internet connection.
+⦁	Microsoft Outlook should function accordingly in order to send the email-based notifications.
+⦁	The web browser/s upon which the application would be opened should be free of viruses or malware and is reliable.
+
+==18.11 Work Breakdown Structure==
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/wbs1.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/wbs2.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/wbs3.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/wbs4.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+
+
+
+
 
 
 
