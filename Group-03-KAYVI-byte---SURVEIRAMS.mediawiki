@@ -427,7 +427,26 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
 ==5.7 Summary Budget==
 
 The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project.
-<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135850/7a8b975a-c9c8-4104-ab75-09895dd04b02" altstyle="display:block; margin:0 auto;">
+
+{| class="wikitable"
+! Project Cost Elements !! Cost
+|-
+| Manpower Cost: Estimate (based on glassdoor) || PHP 818,860.00
+|-
+| Hardware || PHP 217,108.00
+|-
+| Software || PHP 11,260.00
+|-
+| Recurring Payment || PHP 310,000.00
+|-
+| Onetime Payment || PHP 50,000.00
+|-
+| Contingency Cost || PHP 140,722.00
+|-
+| Grand Total || PHP 1,547,950.80
+|}
+
+
 
 ==5.8 Project Approval Requirements==
 The ultimate objective of the SurveiRams project is to deploy a fully tested and well-documented ticketing system within the time and budget limitations specified in this charter. The project's success criteria will include a list of recommended future enhancements, as the solution is expected to evolve to accommodate future changes. The project sponsors, Mr. Jojo F. Castillo and Mr. Jose Manuel Garcia, who will authorize its completion, will ultimately determine whether the project has met the success criteria. 
