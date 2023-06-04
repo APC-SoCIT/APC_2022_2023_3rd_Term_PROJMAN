@@ -53,27 +53,33 @@
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
-		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+        <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Jan Karlo Boongaling</p></td>
-		<td><p style="text-align:center;">jmboongaling@student.apc.edu.ph</p></td>
+		<td><p style="text-align:center;">Ian Christopher M. Onrubia</p></td>
+        <td><p style="text-align:center;">Project Manager</p></td>
+		<td><p style="text-align:center;">iconrubia@student.apc.edu.ph</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Alexis Martin</p></td>
+        <td><p style="text-align:center;">jmboongaling@student.apc.edu.ph</p></td>
+		<td><p style="text-align:center;">Documentation Specialist</p></td>
+        <td><p style="text-align:center;">jmboongaling@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+        <td><p style="text-align:center;">Alexis Martin</p></td>
+        <td><p style="text-align:center;">Front-end Developer</p></td>
 		<td><p style="text-align:center;">atmartin@student.apc.edu.ph</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Yuan Alexandrei Serafico</p></td>
-		<td><p style="text-align:center;">yaserafico@student.apc.edu.ph</p></td>
-	</tr>
-	<tr>
 		<td><p style="text-align:center;">Vladimir Ken Perez</p></td>
+        <td><p style="text-align:center;">Back-end Developer</p></td>
 		<td><p style="text-align:center;">viperez@student.apc.edu.ph</p></td>
 	</tr>
-<tr>
-		<td><p style="text-align:center;">Ian Christopher Onrubia</p></td>
-		<td><p style="text-align:center;">iconrubia@student.apc.edu.ph</p></td>
+    <tr>
+        <td><p style="text-align:center;">Yuan Alexandrei Serafico</p></td>
+        <td><p style="text-align:center;">Software Tester</p></td>
+		<td><p style="text-align:center;">yaserafico@student.apc.edu.ph</p></td>
 	</tr>
 </table>
 <br />
