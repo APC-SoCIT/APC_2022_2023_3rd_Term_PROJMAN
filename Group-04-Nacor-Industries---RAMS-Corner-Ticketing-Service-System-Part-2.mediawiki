@@ -407,8 +407,8 @@ The following are the list of elements in the Risk Register
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/Risk%20ID.png" alt="Image description" style="display:center; margin:0 auto;">
 
-=15. Communication Management Plan=
-==Introduction==
+=14. Communication Management Plan=
+==14.1 Introduction==
 The Communication Management Plan (CMP) is an essential tool for ensuring that the Rams Corner Ticketing Service System project is successful. It provides a framework for effective communication between the project team and stakeholders, which is essential for ensuring that the project stays on track and meets its objectives.
 
 Here are some additional details about the CMP:
@@ -439,7 +439,7 @@ Here are some additional details about the CMP:
 
 In conclusion, the Communications Management Plan is an essential tool for ensuring that the Rams Corner Ticketing Service System project's stakeholders are fully informed, and that communication is effective and efficient.
 
-==Communications Management Approach==
+==14.2 Communications Management Approach==
 As a Project Manager, it is crucial to have an effective communications management approach to ensure smooth project execution and minimize potential problems. Here is an overview of a comprehensive communications management approach:
 
 1.'''Clear Project Objectives:''' 
@@ -453,7 +453,7 @@ Implement a reporting structure that gives all stakeholders regular information 
 
 Project managers may encourage effective cooperation, reduce risks, deal with problems quickly, and make sure that project stakeholders are informed and involved throughout the project lifecycle by putting this communications management method into practice.
 
-==Communication Management Constraints==
+==14.3 Communication Management Constraints==
 The Rams Corner Ticketing Service System's communications management constraints play a critical role in the detailed project management plan. The limitations and boundaries that may impact the project's communication processes and tactics are established with the help of these constraints. The project team can take proactive steps to address potential difficulties by being aware of and addressing these limits, enabling a smooth flow of information throughout the project.
 When implementing The Rams Corner Ticketing Service System, it's important to consider the communications management constraints mentioned. 
 
@@ -470,7 +470,7 @@ The sorts of communication that can be employed and the population that can be r
 Problems with network connections, power interruptions, hardware failures can disrupt communication channels, leading to delays or interruptions in transmitting information. This can hinder real-time communication and affect the overall efficiency of communication management.
 
 
-==Stakeholder Communication Requirements==
+==14.4 Stakeholder Communication Requirements==
 
 The Stakeholder Communication Requirements play a vital role in the Rams Corner Ticketing Service System by defining the unique communication needs of stakeholders and the project team. By understanding and addressing the communication requirements of various stakeholders, project teams can ensure that project information is disseminated efficiently, and that stakeholder interests and expectations are properly managed. 
 
@@ -488,7 +488,7 @@ Establish channels for stakeholders to provide feedback, ask questions, or raise
 4.'''Document and archive:'''
 The plan should be a living document that is regularly updated to reflect any changes in stakeholders, objectives, or communication requirements. Share the plan with the project team and stakeholders to ensure alignment and understanding.
 
-==Roles==
+==14.5 Roles==
 
 1.'''Class Adviser'''
 The class adviser serves as a mentor and guide for students, providing advice, encouragement, and support. They may offer guidance on personal and career development, help students navigate challenges, and provide a safe space for students to discuss their concerns.
@@ -511,7 +511,7 @@ The Scrum Team is responsible for delivering value incrementally and iteratively
 7.'''Documentation Manager'''
 The Documentation Manager has the crucial task of supervising the project documentation to ensure its thoroughness and accuracy. They work closely with the Project Manager and the team to ensure that all project documentation aligns smoothly with the project's scope.
 
-==Project Team Directory==
+==14.6 Project Team Directory==
 The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
 
 <table border="1" width="70%" align="left">
@@ -561,13 +561,13 @@ The following table presents contact information for all persons identified in t
  </tr>
 </table>
 
-=16. PROCUREMENT MANAGEMENT PLAN=
-==16.1 Introduction ==
+=15. PROCUREMENT MANAGEMENT PLAN=
+==15.1 Introduction ==
 The procurement management plan plays a vital role in the making of RAMS’ Corner: Ticketing service system. It serves as a guide and outlines to make all the things needed to make the software run smoothly. It will justify why using up to date technologies are needed. The procurement management plan will be revised or updated from time to time in case there has been a change in obtaining the necessary materials. Along with this paper, it will also include all the possible risks and will layout its mitigation plan, different types of contracts that will be used, and cost determination. 
 
 The procurement management plan outlines all the critical scenarios that are relevant to make the project successful. It will help align all the necessary deliverables to avoid delaying things and keep them on track. 
 
-==16.2 Procurement Risk ==
+==15.2 Procurement Risk ==
 All activities have their own risks. This includes procuring all the materials needed, goods, or any services that would be vital in making the project successful 
 
 The Nacor industries should plan out ahead on how to avoid or mitigate the damage a possible risk can cause. The team identified all the possible scenarios that should be considered when procuring all the necessary materials. The list below shows all the possible angles that can happen but not limited to:   
@@ -584,7 +584,7 @@ The Nacor industries should plan out ahead on how to avoid or mitigate the damag
 
 This part of the paper is simultaneously updated to keep track of the updated possible risks that can have an impact on the project. This will be updated from time to time throughout the project’s lifetime to ensure quality output when launching the finished project. 
 
-==16.3 Procurement Risk Management==
+==15.3 Procurement Risk Management==
 1. '''Identification of procurement risks '''
 
 For the company to plan out and mitigate the risk. The company should first the risk. The possible procurement management risk for the Nacor industries is below but not limited to: 
@@ -623,7 +623,7 @@ Since procurement risk management is continuously updated, the documents will be
 
 Regular analysis of the procurement risk will also be conducted in case a certain risk has been overlooked by the project manager and the project team. 
 
-==16.4 Cost Determination ==
+==15.4 Cost Determination ==
 Just like any project, Cost determination is also a crucial part of the project when procuring the essential materials. The project needs to have a high-quality product and cost effective at the same time. To guarantee this situation, the company may bid vendors who offers the best deal that would benefit the project. 
 
 The project team must review all the costs surrounding the procurement process. This goes from delivery of items to the installation of the said items, and the maintenance costs to keep the materials up and running. During this time around, the team would thoroughly review any potential cost overruns so that they might look for an alternative so that the budget for procuring materials cannot be affected that much and mitigate the possible risks that can happen. 
@@ -634,7 +634,7 @@ To make things fast and efficient, the project team will use standardized procur
 
 Cost determination plays a huge role in procurement management plan as it serves as a guide to make sure the budget for the project is correct and utilized well.
 
-==16.5 Procurement Constraints==
+==15.5 Procurement Constraints==
 The constraints below should be considered as a part of Ram’s Corner: Ticketing Software project.  
 
 1. '''Schedule constraints:''' Every project has a strict deadline including the Ram’s Corner: Ticketing Software project. The deliverables should be made based on its deadline or planned schedule. It is important that individuals pass their deliverables on time to avoid any delays to the project and to ensure the team stays on the right track. Any delays within the deliverables might cause the problem to snowball into bigger issues that can affect the project itself. 
@@ -645,7 +645,7 @@ The constraints below should be considered as a part of Ram’s Corner: Ticketin
 
 4. '''Resource constraints:''' The personnel of the office should be knowledgeable of how to operate or use the newly made software for them. 
 
-==16.6 Contract Approval Process==
+==15.6 Contract Approval Process==
 The contract approval process for the ITRO will be formally handled by the director of the office. The team will formally conduct a meeting with the director and present the idea. The team and the director would then start the process of conducting the contract and make sure no policies are bypassed. 
 
 1. '''Contract initiation:''' the project manager would 1st pitch the idea to the head of the ITRO.  
@@ -656,7 +656,7 @@ The contract approval process for the ITRO will be formally handled by the direc
 
 4. '''Contract Review:''' the director and the team would review the software to make sure the project is still within the scope 
 
-==16.7 Decision Criteria==
+==15.7 Decision Criteria==
 The following decision criteria for the Nacor Industries are the following: 
 
 '''Technical capabilities:''' the vendor must an experience handling any similar projects like this. This is important for the project to success. It is also important to take note that the vendor is knowledgeable in today’s technology  
@@ -673,7 +673,7 @@ The following decision criteria for the Nacor Industries are the following:
 
 '''Compliance:''' the vendor should abide the laws and have no past issues that possibly taint the project’s name and the company’s name 
 
-==16.8 Performance metrics for procurement Activities==
+==15.8 Performance metrics for procurement Activities==
 1. '''Vendor performance rating'''
 
 A. The project manager and the project would thoroughly review the product of the vendor's product. In this way, this gives the team a much better point of view since there are people vouching for the product of the vendor. 
@@ -690,10 +690,10 @@ A. This metric serves as a purpose to scout the market on the lowest price possi
 
 A. This metric tests the vendor’s accuracy when delivering the materials in a large quantity. One wrong item can possibly cause a delay in a project. 
 
-==16.9 Procurement Management Approach==
+==15.9 Procurement Management Approach==
 The project manager will handle and manage all the things needed to be obtained for the project. The project manager will brainstorm together with the team to discuss all the recent technologies on the market that would potentially help the software to run smoothly. The project manager and the team would then review the materials that are listed for further inspection and look for some alternatives to save budget without sacrificing the quality of the materials. After the meeting, the project manager would then decide if the lists were valid and reasonable to buy.  
 
 After making the list of necessary materials for the project, the project would then look for a suitable supplier to either buy or start having a contract with the store. 
 
-=17. IMPLMENTATION PLAN=
+=16. IMPLMENTATION PLAN=
 
