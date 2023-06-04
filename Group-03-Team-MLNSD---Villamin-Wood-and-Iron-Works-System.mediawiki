@@ -1142,6 +1142,86 @@ the project manager alongside the team and stakeholders. The project manager wil
 <p> 4.	Technical difficulties: This may include internet problems and other technicalities that may be a constraint to communication processes. </p>
 
 ==Roles==
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">AUTHORITY</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">COMPETENCY</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Sponsor</p></td>
+ <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. Provides 
+     feedback and comments on what can be improved. Able to allot project resources and consent to project 
+     scope changes, schedule, and budgeting plan with significant effects. </p></td>
+ <td><p style="text-align:center;">Ensures that the project delivers the anticipated benefits and value and is 
+     in line with the organization's strategic goals and objectives. Provide guidance to the project and 
+     project manager. Communicate with the stakeholder and project manager for the progress of the project and 
+     team. </p></td>
+ <td><p style="text-align:center;">Communicating effectively with the team. Strong leadership and strategic 
+     thinking skills. Understands the team’s goal for the project. Ability to support the project. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Stakeholder</p></td>
+ <td><p style="text-align:center;">Checks the approved changes in the deliverables. Authority to revise an 
+     information that will mislead the goals of the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the deliverables are complete before sending and having it 
+     checked by the project sponsor. Organize meetings with the project manager and project team members for 
+     the feedback from the project sponsor. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Manager</p></td>
+ <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve changes to 
+     project scope, schedule, and budget that has low change effect. </p></td>
+ <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors 
+     the work of the team members. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Leader (Internal User) </p></td>
+ <td><p style="text-align:center;">Leads the team members. Authority to call a meeting with the project manager 
+     and team members about the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Members (Internal Users) </p></td>
+ <td><p style="text-align:center;">Authority to help the project leader and project manager in deciding the 
+     plans on the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
+     to the objectives of the project. Ensures that the deliverables are complete within the given period. 
+     </p></td>
+ <td><p style="text-align:center;">Effective communication skills, project management skills, and cooperation.
+     Knowledge of the company needs, and information to complete deliverables. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Customers (External Users) </p></td>
+ <td><p style="text-align:center;">Test the project’s system. </p></td>
+ <td><p style="text-align:center;">Provides feedback on the project’s system. Communicates with the team to 
+     help improve the system. </p></td>
+ <td><p style="text-align:center;">Communication skills. Knowledge in using an online system. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Client (External User) </p></td>
+ <td><p style="text-align:center;">Company Owner that introduced the project and will test the system. </p> 
+ </td>
+ <td><p style="text-align:center;">Provides feedback on the deliverables and system. Communicates with the 
+     project sponsor, project stakeholder, and project manager for updates and progress.  </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and negotiation skills. </p></td>
+ </tr>
+
+</table>
 
 ==Implementation Plan==
 ==Executive Summary==
