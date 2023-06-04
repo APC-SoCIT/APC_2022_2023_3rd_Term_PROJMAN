@@ -542,24 +542,133 @@ The following table presents contact information for all persons identified in t
   <td>Ruth Morallos</td>
   <td>rrmorallos@student.apc.edu.ph</td>
  </tr>
- <tr>
+ <td>
   <td>Scrum Members</td>
-  <td>- Patrick Cortez,
-      - Vincent Nacor
-      - Bryan Geneta
+
+<ul>Patrick Cortez</ul>
+<ul>Vincent Nacor</ul>
+<ul>Bryan Geneta</ul>
 </td>
+
   <td>
 <ul>pacortez@student.apc.edu.ph</ul>
 <ul>vanacor@student.apc.edu.ph</ul>
 <ul>bdgeneta@student.apc.edu.ph</ul>
 </td>
- </tr>
+
  <tr>
   <td>Project Adviser</td>
   <td>Alvin C. Limpin</td>
   <td>alvinl@apc.edu.ph</td>
  </tr>
 </table>
+
+==Communications Methods and Technologies==
+A comprehensive grasp of diverse communication methods and technologies is essential for the successful implementation of the Rams Corner Ticketing Service System, enabling effective communication with all stakeholders. It is crucial to consider the capabilities and limitations of each communication method and technology to ensure the timely and efficient dissemination of information. This involves selecting suitable methods for delivering project updates, progress reports, risks, issues, and other pertinent information to stakeholders.
+
+When evaluating the most suitable communication methods and technologies for the Rams Corner Ticketing Service System, the following factors should be taken into consideration:
+
+'''Cost and Resources'''
+Assess the cost implications and resource requirements associated with the chosen communication methods and technologies. Consider factors such as equipment, software licenses, maintenance, and training needed for effective implementation.
+
+'''Time Sensitivity:'''
+Consider the urgency and time sensitivity of the information being shared. If real-time communication is crucial, options like instant messaging, video conferencing, or collaborative platforms may be more suitable. For less time-sensitive communication, email or project documentation systems may suffice.
+
+'''Accessibility and Availability:'''
+Consider the accessibility and availability of the chosen communication methods and technologies for all stakeholders. Ensure that everyone has the necessary tools and resources to participate in the communication process effectively.
+
+'''Complexity of Information:'''
+Evaluate the complexity of the information that needs to be communicated. Some concepts may require visual aids, diagrams, or presentations to ensure clarity and understanding. Assess whether the chosen communication methods and technologies can support such visual elements.
+
+Based on these considerations, it is advisable for the Rams Corner Ticketing Service System to employ a blend of communication methods and technologies, which may include:
+
+'''Meetings:'''
+Face-to-face meetings, either in person or through video conferencing, are an effective way to facilitate communication among project team members. Meetings can be used for project kick-offs, progress updates, issue resolution, and decision-making.
+
+'''Video Conferencing:'''
+Video conferencing tools like Zoom, WebEx, or Microsoft Teams enable remote team members to have virtual face-to-face meetings, discussions, and presentations. Video conferencing helps maintain a personal connection and can be particularly useful for distributed or global teams.
+
+'''Email:'''
+Email is accessible to most stakeholders, as it is a common method of communication in professional settings. It can be accessed from various devices, including computers, smartphones, and tablets.
+
+'''Telephone:'''
+Utilize telephone calls for direct and prompt communication, especially when engaging with stakeholders in proximity or within the same geographical area.
+
+Effective communication with all stakeholders is vital for the successful implementation of the Rams Corner Ticketing Service System. By considering factors such as cost, time sensitivity, accessibility, and complexity of information, a combination of communication methods and technologies can be utilized, including meetings, video conferencing, email, and telephone calls. This ensures efficient and seamless communication, fostering collaboration and project success.
+
+==COMMUNICATIONS MATRIX==
+The following table identifies the communications requirements for this project.
+
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/107228fa04bad621f83ae761b20ba6697edf4200/wikihub%20photos/Communications%20Management%20Plan.png" alt="Image description" style="display:block; margin:0 auto;">
+
+
+==Communication Flowchart==
+Flowcharts provide a visual representation of a process or processes which often allow a better understanding of how the process is intended to work.  Project communications may be extremely complex depending on the size and scope of the project and the number of stakeholders.  A flowchart provides all stakeholders with a better understanding of the steps involved with the distribution of all project communications. 
+
+
+==Guidelines for Meetings==
+Here are some general guidelines to help you conduct effective and productive meetings for the implementation of the Rams Corner Ticketing Service System:
+
+'''Objectives'''
+Determine the specific objectives of each meeting within the context of the project. Is it to provide updates, make decisions, gather feedback, or solve problems? Clearly define the purpose to ensure focused discussions.
+
+'''Agenda'''
+It is essential to have a pre-meeting discussion to establish the meeting agenda, including its purpose, discussion topics, and desired outcomes. This enables team members to adequately prepare for the meeting and ensures productive and focused discussions.
+
+'''Attendance'''
+Only invite individuals who are essential to achieving the meeting's objectives. Keeping the number of participants reasonable ensures a more focused and efficient discussion.
+
+'''Discussion'''
+Ensure that discussions are focused and productive. Keep the conversation on topic and prevent it from devolving into unrelated or lengthy tangents. Use techniques like round-robin style or go-around to ensure everyone has an opportunity to contribute.
+
+'''Time'''
+Determine the duration of the meeting and stick to it. Time management is crucial for maintaining participants' engagement and ensuring that discussions do not go off track. Begin the meeting promptly as scheduled, even if some participants are still joining. This encourages punctuality and demonstrates respect for everyone's time.
+
+==Communication Standards==
+Creating well-defined guidelines and protocols is crucial for facilitating effective and efficient communication within a team and among stakeholders. It is important to foster open channels of communication, allowing team members to freely express their thoughts and ideas. Encouraging active participation and providing opportunities for input from all team members can lead to more collaborative and innovative outcomes. Additionally, it is essential to ensure that the established communication standards are consistently adhered to throughout the entire web application development process. By maintaining clear guidelines and protocols, teams can minimize miscommunication, streamline workflows, and promote successful project outcomes.
+
+Here are some common communication standards that can be established to promote effective communication within a team during web application development:
+
+'''Responsive Communication:'''
+Encourage team members to respond promptly to messages and requests, ensuring that communication is timely and avoids unnecessary delays.
+
+'''Regular Project Updates:'''
+Set expectations for regular project updates, such as status reports or progress meetings, to keep all stakeholders informed about the project's progress, milestones, and any potential challenges.
+
+'''Active Listening:'''
+Promote active listening skills among team members, encouraging them to attentively listen to others, ask questions for clarification, and paraphrase to ensure understanding.
+
+'''Collaboration:'''
+Encourage collaborative communication practices, such as sharing ideas, soliciting input from team members, and fostering a supportive environment that values teamwork.
+
+'''Documentation:'''
+Emphasize the importance of documenting key decisions, discussions, and actions taken during the project. This ensures transparency, facilitates knowledge sharing, and serves as a reference for future communication.
+
+'''Feedback:'''
+Encourage regular feedback and provide opportunities for team members to share their thoughts and suggestions on improving communication processes. Foster a culture of continuous improvement to enhance communication practices over time.
+
+Remember that these standards can be tailored to fit the specific needs and dynamics for the development team.
+
+==Communication Escalation Process==
+When establishing a communication escalation process for the Rams Corner Ticketing Service System, it's important to have a clear and documented procedure that outlines the steps and guidelines for escalating issues when resolution cannot be achieved within the project team. Here is a general framework for a communication escalation process:
+
+'''Identify the Issue:'''
+The first step is to clearly identify the issue or complication that has arisen in project communications. This could be a breakdown in communication, unresolved conflicts, stakeholder disagreements, or any other communication-related problem.
+
+'''Review Documentation:'''
+Collect all relevant documentation, communication records, and any other evidence related to the issue. This will provide a clear understanding of the problem and help in the escalation process.
+
+'''Define Communication Channels:'''
+The development team must determine and establish the main methods of communication to be utilized for their project, such as email, project management software, or specific communication tools. It is essential for every team member to be knowledgeable about and could utilize these communication channels.
+
+'''Escalation Criteria:'''
+Define specific criteria that determine when an issue should be escalated. For example, if the issue has been ongoing for a certain period, or if it involves key stakeholders and significantly impacts project progress or objectives.
+
+'''Identify Escalation Points:'''
+Determine who should be involved in the escalation process. This may include project managers, senior management, or specific stakeholders depending on the nature of the issue. Clearly identify the roles and responsibilities of each escalation point.
+
+
 
 
 =15. PROCUREMENT MANAGEMENT PLAN=
