@@ -124,38 +124,26 @@ Implementing a system to track issues in a building can bring many benefits, inc
 	<tr>
 		<td><p style="text-align:center;">Project Manager</p></td>
 		<td width="517">
-<p>·         <em>Approves Scope Management Plan. </em></p>
+<p>·         <em>Manages the business case and the team. Provides support in overseeing the project’s completion </em></p>
 </td>
 <td><p style="text-align:center;"><em>Ian Onrubia</em></p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Team Leader</p></td>
+		<td><p style="text-align:center;">Document Specialist </p></td>
 		<td width="517">
-<p>·         <em>Provides support in overseeing the project’s completion </em></p>
+<p>·         <em>Provides support in the project's process improvement. </em></p>
 </td>
-<td><p style="text-align:center;"><em>Alexis Martin</em></p></td>
+<td><p style="text-align:center;"><em>Karlo Boongaling</em></p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Team Member</p></td>
+		<td><p style="text-align:center;">Development Team </p></td>
 		<td width="517">
-<p>·         <em>Provides support in the project's process improvement. </em></p>
+<p>·         <em>Provides technical support in the project.</em></p>
 </td>
-<td><p style="text-align:center;"><em>Jan Karlo Boongaling</em></p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Project Team Member</p></td>
-		<td width="517">
-<p>·         <em>Provides support in the project's process improvement. </em></p>
-</td>
-<td><p style="text-align:center;"><em>Yuan Serafico</em></p></td>
-	</tr>
-
-<tr>
-		<td><p style="text-align:center;">Project Team Member</p></td>
-		<td width="517">
-<p>·         <em>Provides technical support in the project. </em></p>
-</td>
-<td><p style="text-align:center;"><em>Vladimir Perez</em></p></td>
+<td><p style="text-align:center;"><em>Alexis Martin 
+</em><br>
+<em>Vladimir Perez </em><br>
+<em>Yuan Serafico </em></p></td>
 	</tr>
 
 <tr>
@@ -163,10 +151,8 @@ Implementing a system to track issues in a building can bring many benefits, inc
 		<td width="517">
 <p>·         <em>Provides executive support for the project. </em></p>
 </td>
-<td><p style="text-align:center;"><em>Sir Jojo F. Castillo</em></p> 
-<p style="text-align:center;"><em>Sir Jose Manuel Garcia</em></p>
+<td><p style="text-align:center;"><em>Sir Jojo F. Castillo</em><br> <em>Sir Jose Manuel Garcia</em> </p> 
 </td>
-
     </tr>
 
 </table>
@@ -734,15 +720,7 @@ The following are the roles and responsibilities in managing the project's scope
 				<p><em> Project Manager  </em></p>
 			</td>
 			<td>
-				<p><em> The project manager oversees specifying and establishing the scope of the project, as well as supervising and approving adjustments. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Product Owner </em></p>
-			</td>
-			<td>
-				<p><em> The product owner oversees raising stakeholder demands and priorities and making sure the project adds value to the company. </em></p>
+				<p><em> The project manager oversees specifying and establishing the scope of the project, as well as supervising and approving adjustments. Oversees raising stakeholder demands and priorities and making sure the project adds value to the company. </em></p>
 			</td>
 		</tr>
 		<tr>
@@ -1630,7 +1608,7 @@ This is a hierarchical structure outlining the various stages involved in the Su
 
 ==10.5 Tree Structure View==
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI202_G03_KAYVI_byte/blob/main/wiki_images/WBS.png" alt="WBS" style="display:block; margin:0 auto;">
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135850/fd3c4daa-80ba-461d-a44d-46186f024dec" alt="WBS" style="display:block; margin:0 auto;">
 
 ==10.6 WBS Dictionary==
 
