@@ -236,32 +236,32 @@ In order to facilitate the team's advancement towards project completion, the su
     <th>Target Date</th>
   </tr>
   <tr>
-    <td>Project Initiation</td>
-    <td>03/31/2023</td>
+    <td>Initiation</td>
+    <td>04/11/2023 – 05/12/2023</td>
   </tr>
   <tr>
-    <td>Project Plan Review and Completion</td>
-    <td>05/02/2023</td>
+    <td>Develop a Project Plan</td>
+    <td>05/15/2023 – 09/12/2023</td>
   </tr>
   <tr>
-    <td>Phase I Complete – Analysis</td>
-    <td>06/21/2023</td>
+    <td>Analysis</td>
+    <td>09/13/2023 – 10/10/2023</td>
   </tr>
   <tr>
-    <td>Phase II Complete – Design</td>
-    <td>07/06/2023</td>
+    <td>Design</td>
+    <td>10/11/2023 – 04/01/2024</td>
   </tr>
   <tr>
-    <td>Phase III Complete – Testing</td>
-    <td>12/13/2023</td>
+    <td>Testing</td>
+    <td>04/02/2024 – 04/25/2024</td>
   </tr>
   <tr>
-    <td>Phase IV Complete – Implementation</td>
-    <td>02/15/2024</td>
+    <td>Implementation</td>
+    <td>04/18/2024 – 06/26/2024</td>
   </tr>
   <tr>
-    <td>Closeout/Project Completion</td>
-    <td>04/19/2024</td>
+    <td>Close Project</td>
+    <td>07/27/2024 – 08/12/2024</td>
   </tr>
 </table>
 
@@ -290,8 +290,6 @@ The SurveiRams project can provide several benefits, including:
 ''' COST '''
 
 *Cost Savings: SurveiRams reduces the use of paper. This also results in cost savings and increased productivity. Paperless documentation increases the efficiency of data transmission by reducing paperwork and physical contact like couriers and printers. 
-
-*Cloud Cost: According to Amazon AWS Pricing in the Asia Pacific region, their cloud storage will cost $0.025 (PHP 1.38) per GB for the first 50 TB and will cost $0.024 (PHP 1.33) per GB on the next 450 TB. This will be cheaper than physical storage in the long run. 
 
 ==4.7 Alternatives Analysis==
 
