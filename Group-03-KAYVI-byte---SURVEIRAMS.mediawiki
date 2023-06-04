@@ -711,18 +711,6 @@ The scope management plan is a crucial component of the overall project manageme
 
 The project team will work collaboratively with stakeholders, using agile techniques to prioritize and manage scope, identify and manage changes, and ensure that the project remains on track to deliver a successful SurveiRams system that meets the needs of all stakeholders.
 
-# Scope Definition:  The scope of SurveiRams ticketing system will be defined through the following activities:
-
-# Project Charter: The project charter will provide a clear definition of the project's objectives, deliverables, stakeholders, and constraints, serving as a foundational document for scope management.
-
-# Product Backlog: The product backlog, a key artifact in agile methodologies, will be utilized to capture and prioritize all the features, functionalities, and requirements of the SurveiRams system. It will serve as a dynamic document that evolves throughout the project, reflecting changing priorities and stakeholder needs.
-
-# User Stories: User stories, a common practice in agile methodologies, will be used to further detail the requirements of the SurveiRams system in a user-centric manner. User stories will capture the "who," "what," and "why" of each requirement, supplying a clear understanding of the desired outcomes.
-
-# Scope statement: The scope statement involves clearly defining the boundaries and extent of the project. The scope statement will outline the specific features, functionalities, and requirements of the ticketing system, as well as any exclusions or limitations that will provide a high-level overview of the project scope.
-
-# Sprint Planning and Review Meetings: Sprint planning and review meetings, integral to agile methodologies, will be conducted to collaboratively define the scope of each sprint and review the completed work against the defined scope. This will ensure that the project team and stakeholders have a shared understanding of the scope at each stage of the project.
-
 ==7.2 Scope Management Approach==
 
 * Mr. Ian Onrubia, the designated Project Manager, will work closely with Mr. Jojo Castillo, the project sponsor, and other key stakeholders to define and effectively manage the scope of the project, as well as oversee the fulfillment of all project requirements and ensure that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders, with successful completion of the project dependent on the acceptance of all deliverables and resolution of any outstanding issues. 
@@ -777,31 +765,34 @@ The following are the roles and responsibilities in managing the project's scope
 
 ==7.4 Scope Definition==
 
-The scope definition process for the project "SurveiRams” was developed based on the requirements identified during the requirements definition process. The following documents were used as references: Requirements Documentation, Requirements Management Plan and a Requirements Traceability Matrix. 
+To define the project's scope, the project team conducted meetings to draft a list. The team then utilized adviser and consultant judgment to assess the feasibility of the project and identify potential risks. Product analysis was conducted to determine the features and functions required by the new system. Facilitated interviews were also conducted with stakeholders to gather their input and ensure their requirements were considered. The scope definition process was tied back to the Project Charter and preliminary Project Scope Statement were also referred to during the scope definition process. 
 
-To define the project's scope, we used the following tools and techniques: feedback analysis, product analysis, and facilitated interviews. The team utilized adviser judgment to assess the feasibility of the project and identify potential risks. Product analysis was conducted to determine the features and functions required by the new system. Facilitated interviews were also conducted with stakeholders to gather their inputs and ensure their requirements were considered. 
+The scope of SurveiRams ticketing system will be defined through the following activities: 
 
-Based on the analysis and input gathered, the following deliverables were defined as part of the project scope: 
-SurveiRams should include the following features: 
+;Project Charter: 
+:The project charter will provide a clear definition of the project's objectives, deliverables, stakeholders, and constraints, serving as a foundational document for scope management. 
 
-*Ticketing database 
+;Scope statement:
+:The scope statement involves clearly defining the boundaries and extent of the project. The scope statement will outline the specific features, functionalities, and requirements of the ticketing system, as well as any exclusions or limitations that will provide a high-level overview of the project scope. 
 
-*Performance evaluation 
+;Sprint Planning and Review Meetings: 
+:Sprint planning and review meetings will be conducted to collaboratively define the scope of each sprint and review the completed work against the defined scope. This will ensure that the project team and stakeholders have a shared understanding of the scope at each stage of the project. 
 
-*Reporting and analytics 
+;Product Backlog: 
+:The product backlog will be created in the development phase, then utilized to capture and prioritize all the features, functionalities, and requirements of the SurveiRams system. It will serve as a dynamic document that evolves throughout the project, reflecting changing priorities and stakeholder needs. 
 
-*User training and support 
-
-The scope definition process was tied back to the requirements definition process, ensuring that the project scope met all the identified requirements. Additionally, the Project Charter and Preliminary Project Scope Statement were also referred to during the scope definition process. 
+;User Stories: 
+:User stories will be done in the next phase of the project to be used to further detail the requirements of the SurveiRams system in a user-centric manner. User stories will capture the "who," "what," and "why" of each requirement, supplying a clear understanding of the desired outcomes. 
 
 ==7.5 Project Scope Statement ==
 
 ===7.5.1 Product Scope Description===
 
-# Centralize where guards can log their reports in their patrols through a mobile application
-# Eliminate the manual processes for documenting
-# Provide analytics using the data collected in the application to help in decision-making
-
+Based on the analysis and input gathered, the following deliverables were defined as part of the project scope: 
+# Ticketing database 
+# Performance evaluation 
+# Reporting and analytics 
+# User training and support 
 
 ===7.5.2 Product Acceptance Criteria===
 
@@ -832,19 +823,19 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 
 # Automated Entry: This project does not include automated entry for the reports, all reports must be done or reported manually using the application. The user will be responsible for the creation of reports. 
 
+# Data Transfer: The project team will not be responsible for encoding past logs and reports into the SurveiRams database. 
+
 # Machine Learning: This project will not involve the development or implementation of any machine learning algorithms. The focus will be to manage the reports from students and to lessen the use of paper by using a dedicated application for the reports. 
 
 ===7.5.5 Project Constraints===
 
-# The project will only be limited to the use of security personnel, ITRO, and BMO. 
+# The project team only consists of five (5) members. 
 
-# The system is specifically designed for the use of the institution's security personnel and the building maintenance office. 
+# The project team will only be operating on the budget that the Project Sponsors approve. 
+
+# The project will be developed only from April 2023 to July 2024. 
 
 # The project is not intended to be used for purposes other than processes regarding patrolling, post logs, and incident reports. 
-
-# Going paperless can result in cost savings and increased productivity, but the cost of paper can be substantial. 
-
-# The trend toward a paperless environment accelerates each year, but additional upgrades or replacements of expensive office equipment may still be necessary. 
 
 ===7.5.6 Project Assumptions===
 
@@ -853,8 +844,6 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 # The developers of SurveiRams have the necessary technical skills and experience to carry out the project. The development tools and testing environment are available and provided by Asia Pacific College. 
 
 # The build for this system is only accessible within the APC network. 
-
-# Throughout the course of the project, there will be no changes to either the budget or the project timeline. 
 
 # Asia Pacific College possesses the necessary conditions to facilitate system implementation, sustain maintenance efforts, and provide comprehensive support for project development. 
 
@@ -899,7 +888,9 @@ The purpose of the Cost Management Plan for the SurveiRams System project is to 
 
 # '''Cost change approval''' <br> - Authorization from the Project Manager is required prior to implementing any changes in cost. In case the cost modification exceeds 10% of the total project budget, approval from the Project Sponsor must be obtained before executing it. 
 
-# '''Cost measurement and reporting''' <br> - The budget will be presented in a simplified and concise format by utilizing a spreadsheet program like Microsoft Excel. The budget will be divided into distinct line items, with each item having a detailed cost estimate. It will be updated once there are any changes, and any changes made will be indicated.  
+# '''Cost measurement and reporting''' <br> - The project expenses will be evaluated and recorded on a monthly basis, using both the cost performance index (CPI) and the schedule performance index (SPI). Monthly expense reports will be submitted to the Project Sponsor. 
+
+# '''Budget format and standards''' <br> - The budget will be presented in a simplified and concise format by utilizing a spreadsheet program like Microsoft Excel. The budget will be divided into distinct line items, with each item having a detailed cost estimate. It will be updated once there are any changes, and any changes made will be indicated.  
 
 Overall, the objective of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are effectively monitored and controlled, allowing the project to be completed within the assigned budget. This approach will ensure the project's successful and timely completion. 
 
@@ -926,20 +917,270 @@ By implementing a clear cost management approach in SurveiRams, the project team
 
 ==8.3 Measuring Project Costs==
 
-This section defines how the project’s costs will be measured.  The PMBOK focuses on Earned Value Management for measuring and controlling a project’s costs.  Earned Value Management is a broad and powerful tool; as such, we recommend that all project managers take some formal courses in Earned Value Management.
+For this project, the Earned Value Management tool will be used to measure project costs. Specifically, the Cost Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule Performance Index (SPI) are the metrics to be used to aid in tracking whether the project is over or under budget, or whether the team is on schedule or not.  
 
-In this section you should detail how you will measure the project costs. What Earned Value measurements will be captured and reported upon. Will you use any tools, such as project management software, to assist in capturing Earned Value metrics? How will you forecast future project costs? Will you review cost performance over time, across work packages or schedule activities?
+<table border="1" width="70%" align="center">
+<tr>
+<td width="400" bgcolor="lightblue">
+<p><strong>Metrics</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>Formula/Definition</strong></p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Schedule Variance (SV)</p>
+</td>
+<td width="190">
+<p>EV - PV</p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Cost Variance (CV)</p>
+</td>
+<td width="190">
+<p>EV - AC</p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Schedule Performance Index (SPI)</p>
+</td>
+<td width="190">
+<p>EV / PV</p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Cost Performance Index (CPI)</p>
+</td>
+<td width="190">
+<p>EV / AC</p>
+</td>
+</tr>
+</table>
 
-Our example in this section measures four Earned Value measurements; Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI) and Cost Performance Index (CPI). For most typical projects these four measurements can provide enough insight for effective management without overburdening the Project Manager with Earned Value calculations and measurements.
+Table 1 shows the formula to calculate for each metric. SV is the difference between the EV and PV. It will determine whether the project is ahead (SV > 0), right on track (SV = 0), or behind schedule (SV < 0) in a specific timeframe or task. Meanwhile, CV is the difference between EV and AC. This dictates whether the project is under budget (CV > 0), perfectly on budget (CV = 0), or over budget (CV < 0) during a certain period. 
 
-Schedule Variance (SV) is a measurement of the schedule performance for a project. It’s calculated by taking the Earned Value (EV) and subtracting the Planned Value (PV). Since EV is the actual value earned in the project and the PV is the value our project plan says we should have earned at this point, when we subtract what we planned from the actual we have a good measurement which tells us if we are ahead or behind the baseline schedule according to our project plan. If SV is zero, then the project is perfectly on schedule. If SV is greater than zero, the project is earning more value than planned thus it’s ahead of schedule. If SV is less than zero, the project is earning less value than planned thus it’s behind schedule.
+On the other hand, CPI is the ratio of the EV to the AC. This will help in checking if the project is cost-effective. If the CPI is: 
 
-Cost Variance (CV) is a measurement of the budget performance for a project. CV is calculated by subtracting Actual Costs (AC) from Earned Value (EV). As we already know, EV is the actual value earned in the project. AC is the actual costs incurred to date, thus when we subtract what our actual costs from the EV we have a good measurement which tells us if we are above or below budget. If CV is zero, then the project is perfectly on budget. If CV is greater than zero, the project is earning more value than planned thus it’s under budget. If CV is less than zero, the project is earning less value than planned thus it’s over budget.
+* less than one (a negative number), then it means that the project is over budget so far 
 
-The Schedule Performance Index (SPI) measures the progress achieved against that which was planned. SPI is calculated as EV/PV. If EV is equal to PV the value of the SPI is 1. If EV is less than the PV then the value is less than 1, which means the project is behind schedule. If EV is greater than the PV the value of the SPI is greater than one, which means the project is ahead of schedule. A well performing project should have its SPI as close to 1 as possible, or maybe even a little under 1.
+* equal to one (1), then it means that the project is perfectly on budget so far 
 
-Cost Performance Index (CPI) measures the value of the work completed compared to the actual cost of the work completed. CPI is calculated as EV/AC. If CPI is equal to 1 the project is perfectly on budget. If the CPI is greater than 1 the project is under budget, if it’s less than 1 the project is over budget.
+* more than one (a positive number), then it means that the project is over budget so far 
 
+The Schedule Performance Index, which is the ratio of the EV to the PV, is similar to the SV, only in terms of the overall timeline. The aim is to consistently have an SPI that is either very close to 1, or if possible, be a little under 1. 
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI202_G03_KAYVI_byte/blob/main/wiki_images/WBS.png" alt="WBS" style="display:block; margin:0 auto;">
+
+<table border="1" width="70%" align="center">
+<tr>
+<td width="400" bgcolor="lightblue">
+<p><strong>PHASE</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>OVERALL COST</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>PERCENTAGE OF COMPLETION</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>BCWS/PV</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>BCPW/EV</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>ACWP/AC</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>CV</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>SPI</strong></p>
+</td>
+<td width="190" bgcolor="lightblue">
+<p><strong>CPI</strong></p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Initiation</p>
+</td>
+<td width="190">
+<p>₱311,353.00</p>
+</td>
+<td width="190">
+<p>100.00%</p>
+</td>
+<td width="190">
+<p>₱311,353.00</p>
+</td>
+<td width="190">
+<p>₱292,181.00</p>
+</td>
+<td width="190">
+<p>₱292,181.00</p>
+</td>
+<td width="190">
+<p>0</p>
+</td>
+<td width="190">
+<p>0.93842359</p>
+</td>
+<td width="190">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Develop a Project Plan</p>
+</td>
+<td width="190">
+<p>₱199,720.00</p>
+</td>
+<td width="190">
+<p>23.00%</p>
+</td>
+<td width="190">
+<p>₱45,935.60</p>
+</td>
+<td width="190">
+<p>₱45,160.00</p>
+</td>
+<td width="190">
+<p>₱45,160.00</p>
+</td>
+<td width="190">
+<p>0</p>
+</td>
+<td width="190">
+<p>0.983115492</p>
+</td>
+<td width="190">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Analysis</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Design</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Testing</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td width="400">
+<p>Implementation</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+<td width="190">
+<p>-</p>
+</td>
+</tr>
+</table>
 
 ==8.4 Reporting Format==
 
@@ -956,6 +1197,10 @@ The corrective actions may include:
 * Reducing the quality of the project deliverables 
 * Increasing the budget for the project 
 * Increasing productivity or efficiency of project team members 
+
+The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget. 
+
+If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action. 
 
 ==8.6 Cost Change Control Process==
 
@@ -978,6 +1223,7 @@ The cost change control process is a crucial aspect of managing the SurveiRams t
 
 ==8.7 Project Budget==
 
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135850/7a8b975a-c9c8-4104-ab75-09895dd04b02" altstyle="display:block; margin:0 auto;">
 
 =9. SCHEDULE MANAGEMENT PLAN=
 
