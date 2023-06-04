@@ -974,8 +974,6 @@ On the other hand, CPI is the ratio of the EV to the AC. This will help in check
 
 The Schedule Performance Index, which is the ratio of the EV to the PV, is similar to the SV, only in terms of the overall timeline. The aim is to consistently have an SPI that is either very close to 1, or if possible, be a little under 1. 
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI202_G03_KAYVI_byte/blob/main/wiki_images/WBS.png" alt="WBS" style="display:block; margin:0 auto;">
-
 <table border="1" width="70%" align="center">
 <tr>
 <td width="400" bgcolor="lightblue">
@@ -1374,7 +1372,7 @@ This is a hierarchical structure outlining the various stages involved in the Su
     <td>Develop Project Plan</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td>1.2.1</td>
     <td>Project Description</td>
   </tr>
