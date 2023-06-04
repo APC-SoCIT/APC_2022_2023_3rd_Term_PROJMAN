@@ -794,16 +794,20 @@ In this case of the Ticketing Service System, If the project client and their te
 
 '''User Accounts and Passwords'''
 
-As part of the transition plan for the Ticketing Service System project, it is also important to take note of how the user accounts and passwords transition. The following steps would be: 
-#User Accounts and Passwords
+As part of the transition plan for the Ticketing Service System project, it is also important to take note of how the user accounts and passwords transition. The following steps would be:
+
+1. User Account Inventory
 *A comprehensive inventory of all user accounts and their associated privileges. This includes.
 **Ticketing Service System Administrator 
 **ITRO Staff 
-**APC Students 
+**APC Students
+2. Passwords and security access 
+*Once the Ticketing Service System is handed over to the project client, the project client as the new owner of the system should create new or add user accounts depending on the situation if they will hire new staff to use the system or retain the old accounts which are already listed by the project team and secure passwords.
 
-#Intellectual Property
-During the transition process of the Ticketing Service System, it is important to consider the handling of intellectual property to ensure a smoother transfer of al the necessary documentation, original design and plans and preserve the system as it where is.  
-#Schedule
+'''Intellectual Property'''
+During the transition process of the Ticketing Service System, it is important to consider the handling of intellectual property to ensure a smoother transfer of al the necessary documentation, original design and plans and preserve the system as it where is.
+
+'''Schedule'''
 
 ==16.8 Handover and Acceptance==
 The handover and acceptance process will begin with the completion of the transition plan, it will include all the required technical documentation and deliverables. The project team will schedule a formal handover meeting with its project client Mr. Jose Castillo together with the relevant people in the ITRO department office that will help with the technical and equipment executions.
