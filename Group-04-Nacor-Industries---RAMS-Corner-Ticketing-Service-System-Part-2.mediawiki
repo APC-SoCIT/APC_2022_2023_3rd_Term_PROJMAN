@@ -488,7 +488,7 @@ Establish channels for stakeholders to provide feedback, ask questions, or raise
 4.'''Document and archive:'''
 The plan should be a living document that is regularly updated to reflect any changes in stakeholders, objectives, or communication requirements. Share the plan with the project team and stakeholders to ensure alignment and understanding.
 
-==14.5 Roles==
+'''Roles'''
 
 1.'''Class Adviser'''
 The class adviser serves as a mentor and guide for students, providing advice, encouragement, and support. They may offer guidance on personal and career development, help students navigate challenges, and provide a safe space for students to discuss their concerns.
@@ -511,13 +511,13 @@ The Scrum Team is responsible for delivering value incrementally and iteratively
 7.'''Documentation Manager'''
 The Documentation Manager has the crucial task of supervising the project documentation to ensure its thoroughness and accuracy. They work closely with the Project Manager and the team to ensure that all project documentation aligns smoothly with the project's scope.
 
-==14.6 Project Team Directory==
+'''Project Team Directory'''
 The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/6da8cbb25b1d11d9903b83795c4e48481e840c3a/wikihub%20photos/Project%20Team%20Directory.png" alt="Image description" style="display:block; margin:0 auto;">
 
 
-==Communications Methods and Technologies==
+==14.5 Communications Methods and Technologies==
 A comprehensive grasp of diverse communication methods and technologies is essential for the successful implementation of the Rams Corner Ticketing Service System, enabling effective communication with all stakeholders. It is crucial to consider the capabilities and limitations of each communication method and technology to ensure the timely and efficient dissemination of information. This involves selecting suitable methods for delivering project updates, progress reports, risks, issues, and other pertinent information to stakeholders.
 
 When evaluating the most suitable communication methods and technologies for the Rams Corner Ticketing Service System, the following factors should be taken into consideration:
@@ -550,20 +550,20 @@ Utilize telephone calls for direct and prompt communication, especially when eng
 
 Effective communication with all stakeholders is vital for the successful implementation of the Rams Corner Ticketing Service System. By considering factors such as cost, time sensitivity, accessibility, and complexity of information, a combination of communication methods and technologies can be utilized, including meetings, video conferencing, email, and telephone calls. This ensures efficient and seamless communication, fostering collaboration and project success.
 
-==Communications Matrix==
+==14.6 Communications Matrix==
 The following table identifies the communications requirements for this project.
 
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/107228fa04bad621f83ae761b20ba6697edf4200/wikihub%20photos/Communications%20Management%20Plan.png" alt="Image description" style="display:block; margin:0 auto;">
 
 
-==Communication Flowchart==
+==14.7 Communication Flowchart==
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/6da8cbb25b1d11d9903b83795c4e48481e840c3a/wikihub%20photos/Communication%20Flowchart.png" alt="Image description" style="display:block; margin:0 auto;">
 
 Flowcharts provide a visual representation of a process or processes which often allow a better understanding of how the process is intended to work.  Project communications may be extremely complex depending on the size and scope of the project and the number of stakeholders.  A flowchart provides all stakeholders with a better understanding of the steps involved with the distribution of all project communications. 
 
 
-==Guidelines for Meetings==
+'''Guidelines for Meetings'''
 Here are some general guidelines to help you conduct effective and productive meetings for the implementation of the Rams Corner Ticketing Service System:
 
 '''Objectives'''
@@ -581,7 +581,7 @@ Ensure that discussions are focused and productive. Keep the conversation on top
 '''Time'''
 Determine the duration of the meeting and stick to it. Time management is crucial for maintaining participants' engagement and ensuring that discussions do not go off track. Begin the meeting promptly as scheduled, even if some participants are still joining. This encourages punctuality and demonstrates respect for everyone's time.
 
-==Communication Standards==
+==14.8 Communication Standards==
 Creating well-defined guidelines and protocols is crucial for facilitating effective and efficient communication within a team and among stakeholders. It is important to foster open channels of communication, allowing team members to freely express their thoughts and ideas. Encouraging active participation and providing opportunities for input from all team members can lead to more collaborative and innovative outcomes. Additionally, it is essential to ensure that the established communication standards are consistently adhered to throughout the entire web application development process. By maintaining clear guidelines and protocols, teams can minimize miscommunication, streamline workflows, and promote successful project outcomes.
 
 Here are some common communication standards that can be established to promote effective communication within a team during web application development:
@@ -606,7 +606,7 @@ Encourage regular feedback and provide opportunities for team members to share t
 
 Remember that these standards can be tailored to fit the specific needs and dynamics for the development team.
 
-==Communication Escalation Process==
+==14.9 Communication Escalation Process==
 When establishing a communication escalation process for the Rams Corner Ticketing Service System, it's important to have a clear and documented procedure that outlines the steps and guidelines for escalating issues when resolution cannot be achieved within the project team. Here is a general framework for a communication escalation process:
 
 '''Identify the Issue:'''
