@@ -4,12 +4,13 @@
 
 =11. HR MANAGEMENT PLAN=
 ==11.1 Introduction==
-For SurveiRams to be implemented successfully, an effective human resource plan is required. This plan acts as a guide for organizing and leading the project team, making sure that people who are qualified for the jobs are assigned to them at the right moments. It includes creating effective communication channels, defining roles, and putting performance management methods into practice. 
+For SurveiRams to be implemented successfully, an effective human resource plan is required. This plan acts as a guide for organizing and leading the project team, making sure that people who are qualified for the jobs are assigned to them. It includes creating effective communication channels, defining roles, and putting performance management methods into practice. 
 
-The project manager and team members of SurveiRams may effectively manage the project by following this strategy, ensuring that roles are clearly defined, enabling open communication, and keeping an eye on performance to contribute to the project's overall success.
+This approach can help the project manager and the team successfully manage the project by ensuring that roles are clearly defined, fostering open communication, and monitoring performance to contribute to the project's overall success.  
+
 
 ==11.2 Roles and Responsibilities==
-The implementation of SurveiRams must have a clear human resources management plan. It clarifies and ensures alignment with the project objectives by outlining the precise duties and responsibilities of each member of the project team and stakeholder. This plan also establishes each team member's level of authority and decision-making ability, allowing for effective resource allocation and utilization. The plan ensures that individuals with the right expertise are assigned to their respective roles, contributing to the overall success of the project.
+This plan establishes each team member's level of authority and decision-making ability, allowing for effective resource allocation and utilization. The plan ensures that individuals with the right expertise are assigned to their respective roles, contributing to the overall success of the project.
 
 The following table presents the key roles and their associated authorities, responsibilities, and competencies within the human resources management plan for SurveiRams:
 
@@ -24,10 +25,17 @@ The following table presents the key roles and their associated authorities, res
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>'''Mr. Jose Manuel Garcia'''</td>
+      <td>Project Sponsor</td>
+      <td>Approves the project's business case and budget, provides strategic direction & resources on behalf of the whole campus.</td>
+      <td>Ensures that the project is aligned with the organization's strategic goals and objectives, and that it delivers the expected benefits and value.</td>
+      <td>Strong leadership and strategic thinking skills, ability to communicate effectively with a wide range of stakeholders, deep understanding of the organization's mission, goals, and values, and ability to secure resources and support for the project.</td>
+    </tr>
     <tr>
       <td>'''Mr. Jojo F. Castillo'''</td>
       <td>Project Sponsor</td>
-      <td>Approves the project's business case and budget, provides strategic direction & resources.</td>
+      <td>Approves the project's business case and budget, provides strategic direction & resources on behalf of ITRO.</td>
       <td>Ensures that the project is aligned with the organization's strategic goals and objectives, and that it delivers the expected benefits and value.</td>
       <td>Strong leadership and strategic thinking skills, ability to communicate effectively with a wide range of stakeholders, deep understanding of the organization's mission, goals, and values, and ability to secure resources and support for the project.</td>
     </tr>
@@ -38,12 +46,33 @@ The following table presents the key roles and their associated authorities, res
       <td>Oversees the entire project, including project planning, execution, monitoring, control, and closeout, ensures project objectives are met on time, within budget, and to the required quality standards.</td>
       <td>Strong leadership, communication, and project management skills, experience in managing complex projects.</td>
     </tr>
+	<tr>
+      <td>'''Jan Karlo Boongaling'''</td>
+      <td>Document Specialist</td>
+      <td>Has an authority on documents, ensuring that the documents are properly managed, version controlled, organized and in accordance with the requirements.</td>
+      <td>Works side by side with the Project Manager. Assists the Project Manager in developing a document to ensure consistency and clarity.</td>
+      <td>Strong understanding of managing documents, and possesses attention to detail for accuracy.</td>
+    </tr>
     <tr>
       <td>'''Alexis Martin'''</td>
-      <td>Project Team Leader</td>
-      <td>Has authority over the project team assigned to them.</td>
-      <td>Provide leadership and guidance to the project team, evaluate the change request log and reports to ensure consistency with the implemented changes, assist in supervising the overall change request process.</td>
-      <td>Ensure proper documentation and reporting of project progress and outcomes, strong leadership and management skills, ability to motivate and inspire team members, problem-solving and decision-making skills.</td>
+      <td>Front-end Developer</td>
+      <td>Lead developer of the project. Has an authority on the technical side of the project and can give guidance on the technical feasibility and implementation strategy.</td>
+      <td>Provide leadership and guidance to the back-end developer. Responsible for maintaining an open communication with the Project Manager and Back-end Developer. Shall meet the project deadlines.</td>
+      <td>Strong understanding/ techniques in debugging or troubleshooting. Proficient in using version control systems such as Git.</td>
+    </tr>
+	<tr>
+      <td>'''Vladimir Ken Perez'''</td>
+      <td>Back-end Developer</td>
+      <td>Has an authority on the technical side of the project and can give guidance on the technical feasibility and implementation strategy</td>
+      <td>Responsible for maintaining an open communication with the Project Manager and Back-end Developer. Shall meet the project deadlines.</td>
+      <td>Strong understanding/ techniques in debugging or troubleshooting. Proficient in using version control systems such as Git.</td>
+    </tr>
+	<tr>
+      <td>'''Yuan Alexandrei Serafico'''</td>
+      <td>Software Tester</td>
+      <td>Has an authority to provide his/her honest opinion about the system.</td>
+      <td>Responsible for finding bugs, errors and unnecessary features of the system.</td>
+      <td>Strong analytical skills and method for system testing. Must be able to communicate openly with the team.</td>
     </tr>
     <tr>
       <td>'''Security Guard'''</td>
@@ -54,24 +83,17 @@ The following table presents the key roles and their associated authorities, res
     </tr>
     <tr>
       <td>'''ITRO'''</td>
-      <td>External User of the System</td>
+      <td>Internal User of the System</td>
       <td>Accesses and uses the system to receive and respond to service requests, updates service request statuses.</td>
       <td>Reviews and responds to service requests in a timely manner, maintains accurate and up-to-date information on service request statuses, diagnoses and troubleshoots technical issues.</td>
       <td>Understanding of the importance of maintaining accurate and up-to-date information in the system, ability to diagnose and troubleshoot technical issues.</td>
     </tr>
     <tr>
       <td>'''BMO'''</td>
-      <td>External User of the System</td>
+      <td>Internal User of the System</td>
       <td>Accesses and uses the system to review, approve, or reject service requests, assigns service requests to internal or external technicians, monitors and reports on service request status and completion.</td>
       <td>Reviews service requests and approves, or rejects based on organizational policies and priorities, assigns service requests to internal or external technicians based on skill and availability, monitors and reports on service request status and completion to internal stakeholders and customers.</td>
       <td>Knowledge of the organization's policies and priorities related to service requests, ability to assign and prioritize work assignments based on technician skill and availability, Understanding of the importance of accurate and timely reporting on service request status and completion.</td>
-    </tr>
-    <tr>
-      <td>'''Development Team'''</td>
-      <td>Developer</td>
-      <td>Responsible for developing and designing the program, making decisions related to the technical aspects of the project, and ensuring that it aligns with organizational goals.</td>
-      <td>Write, test, and debug software code based on project requirements and specifications.</td>
-      <td>Collaborate with other team members to design and develop software solutions, strong programming skills in the relevant programming languages and technologies.</td>
     </tr>
   </tbody>
 </table>
@@ -80,7 +102,7 @@ The following table presents the key roles and their associated authorities, res
 The project organizational chart of SurveiRams visually depicts the project team and the relationships between key stakeholders. At the top is the project sponsor, Mr. Jojo F. Castillo, who provides strategic direction and resources. The project manager, Ian Christopher Onrubia, oversees resources, scope, and schedule.
 
 Internal users, like the Development Team, contribute to system requirements and user testing. External users, ITRO and BMO, provide valuable feedback on usability and functionality. This chart clarifies roles and ensures alignment with SurveiRams' goals and objectives. 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/f6e155de-e657-461f-944a-5c0556bdb3c0" alt="Image description" style="display:block; margin:0 auto; width:30%;">
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/67bedc56-af68-4d50-9c58-18c5fe194f74" alt="Image description" style="display:block; margin:0 auto; width:30%;">
 
 ==11.4 Staffing Management==
 The Staffing Management Plan for SurveiRams is a crucial aspect of ensuring the project's successful implementation. It encompasses strategies and processes for acquiring, managing, and releasing human resources throughout the project's lifecycle. 
@@ -90,7 +112,7 @@ The Staffing Management Plan for SurveiRams is a crucial aspect of ensuring the 
 * Regular performance reviews will be conducted to evaluate the performance of team members, identify areas for improvement, and provide feedback on their alignment with project expectations and objectives.  
 * A rewards and recognition system will be implemented to acknowledge and motivate exceptional performance. This may include bonuses, promotions, and other incentives to foster a positive work environment.
 
-It is important to note that additional considerations may be included in the staffing management plan depending on the project's scope. Factors such as government and regulatory compliance, organizational health, and safety may be addressed, depending on industry-specific requirements and location. For instance, if SurveiRams deals with sensitive data, compliance with data privacy and security regulations becomes essential. Additionally, if the project involves equipment or technology posing potential risks, organizational health and safety measures should be incorporated.
+It is important to note that additional considerations may be included in the staffing management plan depending on the project's scope. Factors such as government and regulatory compliance, organizational health, and safety may be addressed, depending on the requirements. For instance, if SurveiRams System deals with sensitive data, compliance with data privacy and security regulations is essential. Additionally, if the project involves equipment or technology posing potential risks, organizational health and safety measures should be incorporated.
 
 Regular review and updates of the Staffing Management Plan will ensure its alignment with the project's objectives and requirements. The project manager should conduct a comprehensive analysis of the project's specific needs and regulations to determine if any additional components should be included in the staffing management plan.
 
@@ -108,23 +130,15 @@ Regular review and updates of the Staffing Management Plan will ensure its align
   <tbody>
     <tr>
       <td>'''Project Manager'''</td>
-      <td>Responsible for effectively planning, executing, and closing projects, Coordinate with stakeholders and team members.</td>
+      <td>Oversees the entire project, including project planning, execution, monitoring, control, and closeout, ensures project objectives are met on time, within budget, and to the required quality standards. </td>
       <td>Leadership, Communication, Problem-solving, Time management, technical skills (dependent on project scope/complexity)</td>
-      <td>Depends on project scope and complexity</td>
+      <td>1</td>
       <td>Conduct regular performance reviews, provide feedback, address issues</td>
       <td>The project manager will implement recognition and rewards system to motivate team members and encourage high performance</td>
     </tr>
     <tr>
-      <td>'''Project Team Leader'''</td>
-      <td>Leads the project team and ensures timely, budget-compliant, and high-quality project delivery.</td>
-      <td>Leadership, Communication, Planning and organizing, Risk management, Budget, Technical skills related to the project</td>
-      <td>Depends on project scope and complexity</td>
-      <td>The project leader will work with team members to set performance goals, track progress throughout the project.</td>
-      <td>The project leader will implement recognition and rewards system to motivate team members and encourage high performance.</td>
-    </tr>
-    <tr>
-      <td>'''Project Team Member'''</td>
-      <td>Collaborates with team members to achieve project goals, Complete tasks assigned by the project leader or manager, demonstrate efficient time management skills while working diligently to guarantee that tasks are accomplished within budgetary and planned timelines for the successful completion of the project.</td>
+      <td>'''Project Team'''</td>
+      <td>Collaborates with team members to achieve project goals, Complete tasks assigned by the project manager, demonstrate efficient time management skills while working diligently to guarantee that tasks are accomplished within budgetary and planned timelines for the successful completion of the project.</td>
       <td>Technical skills, Communication, Collaboration, Problem-solving</td>
       <td>Depends on project scope and complexity</td>
       <td>Performance reviews frequency/format determined by project needs and company policies</td>
@@ -133,9 +147,9 @@ Regular review and updates of the Staffing Management Plan will ensure its align
     <tr>
       <td>'''Executive Sponsor'''</td>
       <td>Provides strategic direction, leadership, and resource allocation for the project, Ensuring the project is aligned with the organization's goals and vision, following up on project developments and giving the project team direction and assistance.</td>
-      <td>Leadership, Strategic thinking, Communication, Decision-making, Risk management</td>
-      <td>A senior executive or board of directors’ member often serves as the executive sponsor. May have the assistance of project management office or other support personnel.</td>
-      <td>May conduct performance reviews, receive project updates, and progress reports. They may also receive updates and progress reports from the project leader or manager.</td>
+      <td>Leadership, Strategic thinking, Communication, Decision-making, Risk management,</td>
+      <td>ITRO Head, and Campus Architect</td>
+      <td>May conduct performance reviews, receive project updates, and progress reports. They may also receive updates and progress reports from the project leader or manager</td>
       <td>The executive sponsor may conduct performance reviews, receive project updates, and progress reports. They might also offer chances for career advancement and growth for the project team both for the project manager or leader and the team members.</td>
     </tr>
   </tbody>
@@ -143,17 +157,17 @@ Regular review and updates of the Staffing Management Plan will ensure its align
 
 =12. QUALITY MANAGEMENT PLAN=
 ==12.1 Introduction==
-Quality Management Plan for the SurveiRams System is essential to maintain the project’s quality. With this plan, the team can evaluate the system for the betterment of it. Additionally, the plan has a framework for evaluating the quality.
+Quality Management Plan for the SurveiRams System is essential to maintain the project’s quality. With this guide, the team can evaluate the system for the betterment of it. Additionally, the plan has a framework for evaluating the quality.
    
 Goals of the quality management plan
 
-* Ensure that the project meets stakeholder expectations.
-* Specify the quality criteria to be used for evaluating the project.
+* Make sure the project satisfies the expectations of the stakeholders.
+* Indicate the quality standards that will be applied for evaluating the project.
 * Clarify the roles and responsibilities of team members to meet quality standards.
 * Identify and fix any potential quality issues.
-* Establish a framework to effectively manage and maintain project quality throughout the course of the project.
+* Make a plan for efficiently managing and upholding project quality over the length of the project.
 
-The SurveiRams System will operate completely functionally, have a user-friendly interface, and be compatible with the organization's existing technology infrastructure. The Quality Management Plan will cover both product and process quality standards. The plan will outline specific procedures, tools, and techniques for monitoring and reporting quality performance.
+The SurveiRams System will operate completely functionally, have a user-friendly interface, and be compatible with the organization's existing technology infrastructure. The Quality Management Plan will cover both the system and process quality standards. The plan will outline specific procedures, tools, and techniques for monitoring and reporting quality performance.
    
 A quality management plan's tools include:   
 <table>
@@ -177,10 +191,10 @@ A quality management plan's tools include:
   </tbody>
 </table>
 
-In conclusion, the quality management plan will create a comprehensive framework to efficiently manage project quality from beginning to end. It will ensure that the project meets and/or exceeds stakeholder expectations and provide a clear framework of procedures, resources, and roles for locating and resolving quality issues. It is crucial that all parties involved are aware of the plan and comprehend how they may help to make it effective.
+As a result, the quality management plan will establish a thorough framework for effectively managing project quality from start to finish. It will guarantee that the project satisfies and/or exceeds the expectations of stakeholders and offer a clear framework of processes, resources, and roles for identifying and resolving quality issues. It is necessary that everyone involved is aware of the plan and understands how they may contribute to its success.
 
 ==12.2 Quality Management Approach==
-The Quality Management Plan for the Dispatch Directory system project will utilize an Agile and Scrum method to ensure that the project meets or exceeds all stakeholders' quality expectations. The approach will prioritize delivering high-quality products and meeting customer requirements over following a rigid process.   
+The Quality Management Plan for the SurveiRams project will utilize Hybrid Project Management which combines Scrum and Waterfall methodology to ensure that the project meets or exceeds all stakeholders' quality expectations. The approach will prioritize delivering high-quality products per work package and meeting customer requirements by following a step-by-step process. 
    
 The following are the roles and duties for the quality management plan:   
 <table>
@@ -205,12 +219,12 @@ The following are the roles and duties for the quality management plan:
     </tr>
     <tr>
       <td>Project Sponsor</td>
-      <td>Provides executive support for the project.</td>
+      <td>Provides executive support and approval for the project.</td>
     </tr>
   </tbody>
 </table>
 
-Quality management will be incorporated throughout every part of the project and engage the entire team. To improve the product, the team will work to develop a Minimum Viable Product (MVP) for the team to have early feedback from the users.
+Every aspect of the project will integrate quality management, involving the entire team. The team will aim to create a Minimum Viable Product (MVP) so that they may receive early feedback from users and thus improve the product.
    
 The approach will include the following steps:   
 <table>
@@ -242,23 +256,24 @@ The approach will include the following steps:
   </tbody>
 </table>
 
-A risk management strategy will be created to detect and mitigate any potential quality issues that may arise throughout the course of the project. Overall, the SurveiRams system's quality management approach will prioritize using an Agile and Scrum methodology to provide a high-quality product that satisfies the intended client's criteria. To guarantee that the project meets or exceeds all quality requirements, the methodology will be adaptable and continually improved.
+A risk management strategy will be created to detect and mitigate any potential quality issues that may arise throughout the course of the project. Overall, the SurveiRams system's quality management approach will prioritize using Hybrid Project Management to provide a high-quality product that satisfies the intended client's criteria. To guarantee that the project meets or exceeds all quality requirements, the methodology will be adaptable and continually improved.
 
 ==12.3 Quality Requirements / Standards==
-The team will work together to establish and record quality requirements and standards because the SurveiRams System places a high priority on them. Adherence to these standards will be ensured by client feedback, testing, and evaluations. The SurveiRams System project will adhere to the following criteria and quality standards:   
+The SurveiRams System places an emphasis on high-quality requirements and standards; thus, the team will collaborate to develop and document them. The client's feedback, tests, and assessments will make sure that these criteria are followed. The following criteria and standards will be followed by the SurveiRams System project:   
   
 '''Requirements for Product Quality:'''
-* The SurveiRams System shall be fully functional and adhere to the technical specifications listed in the product backlog.
-* For ease of use by users, the interface should possess simplicity. 
-* The system must be compatible with the technology used by the institution.  
-* To protect the customer's personal data, the system will have a high level of data security. 
+* Functionality: The SurveiRams System should fulfill its intended purpose and meet functional requirements specified by the Stakeholders and users. It should perform the task in an efficient manner.
+* Reliability: The SurveiRams System should work consistently without issues, breakdowns or failures over sa specified period. 
+* Performance: The SurveiRams System should meet optimal performance and or exceed the expected standards.  
+* Design: The SurveiRams System should have an intuitive UI/UX where the users will have an easy time using the application.
+* Compatibility: The SurveiRams System should be compatible with the existing devices of APC and its users. It should also be compatible with newer devices.
+* Control: A control version of the system must always be available in case of issues.
 
 '''Requirements for Ensuring Quality of Processes:'''   
-* The product owner and development team will evaluate and approve all project deliverables before they are handed to the client.
-* The development team will set up a continuous process of testing and quality assurance to ensure that the system complies with all technical specifications and guidelines.
-* To ensure that any system modifications are properly recorded, approved, and reviewed, the development team will employ a version control technology.
-* To identify and promptly address any quality issues, the development team will perform frequent sprint reviews.
-* The development team will follow a predetermined configuration management procedure to guarantee uniform system development, testing, and deployment.
+* Standardization: All processes must be well-defined and documented in a standardized manner to ensure consistency.
+* Clear Roles and Responsibilities: Each individual should understand their roles and specific responsibilities.
+* Continuous Improvement: Processes should be ongoing and always have room for improvement. The development team will apply feedback mechanisms and testing to figure out what parts of the project can be improved and what parts has issues.
+* Monitoring: All proccesses must be monitored by the Project Manager, this will ensure the quality of the deliverables.
 
 '''Compliance Demonstration:'''     
 * Before being delivered to the client, the SurveiRams System will go through extensive testing and evaluation to make sure it satisfies the necessary quality requirements.
@@ -267,33 +282,31 @@ The team will work together to establish and record quality requirements and sta
 * To guarantee that the system continually complies with the defined quality requirements in the long run, the development team will offer ongoing support and maintenance services.  
 
 '''Continual Improvement:'''
-The development team will set up a strategy for continuous improvement by routinely collecting and reviewing client feedback, monitoring system performance, and conducting internal audits to identify potential improvement opportunities. They will also create a procedure for identifying and addressing any non-conformities that may arise throughout the project. This comprises locating the non-conformity, figuring out why it exists, devising a solution, and then evaluating how well it worked. These procedures will be used in the project to ensure that the SurveiRams System actively adapts to meet shifting client needs while maintaining the required level of quality.
+The development team will set up a strategy for continuous improvement by routinely collecting and reviewing client feedback, monitoring system performance, and conducting internal reviews to identify potential improvement opportunities. They will also create a procedure for identifying and addressing any issues that may arise throughout the project. This comprises locating the issue, figuring out why it exists, coming up with a solution, and then evaluating how well it worked. These procedures will be used in the project to ensure that the SurveiRams System actively adapts to meet shifting client needs while maintaining the required level of quality.
 
 ==12.4 Quality Assurance==
 To ensure quality is achieved through collaboration and continuous improvement, the SurveiRams Ticketing System project will integrate the QA process into the Agile and Scrum methodology. The following steps will be taken:
+
 * '''Defining Quality Standards:''' The project team, in collaboration with stakeholders, will establish and document the quality standards in the Quality Management Plan. These standards will be effectively communicated to all stakeholders involved.
-* '''Agile Quality Auditing:''' Regular quality audits will be conducted by the project team using Agile practices such as peer reviews, test-driven development, and continuous integration. These practices will be utilized to verify compliance with the defined quality standards and to identify areas that require improvement.
-* '''Quality Metrics:''' The project team will employ quality metrics to monitor and report on the project's adherence to the defined quality standards. <br/> To effectively monitor the quality process, the following metrics will be utilized: <br> 
-**Agile Metrics: Velocity, Burn-Down Charts, and Sprint Reviews
-**Defect Density: Number of defects found per unit of measure (e.g., per KLOC)
-**Defect Severity: Classification of defects based on their impact on the system
-**Test Coverage: Percentage of the system that has been tested
-**Test Case Pass Rate: Percentage of test cases that have been successfully passed
-**Root Cause Analysis Effectiveness: Percentage of issues resolved at the root cause level.
-* '''Continuous Improvement:''' The project team will leverage feedback received from quality audits and metrics to drive continuous improvement in both the product and the quality process. Opportunities for enhancement will be identified in collaboration with stakeholders, and appropriate changes will be implemented.
+* '''Agile Quality Auditing:''' The project team will conduct quality audits on a regular basis utilizing Agile techniques including peer reviews, test-driven development, and continuous integration. These procedures will be used to determine whether the quality criteria have been met and to pinpoint areas that need improvement.
+* '''Quality Metrics:''' The project team will employ quality metrics to monitor and report on the project's adherence to the defined quality standards. To effectively monitor the quality process, the following metrics will be utilized: <br> 
+**Performance Metrics: Application Load time, Server Response time.
+**Usability Metrics: User Satisfaction, Task Completion Time, Error Rate.
+**Design Metrics: User feedback, UI/UX design feedback.
+**Scalability Metrics: Response Time under load, Resource Utilization (eg. RAM allocation, CPU Usage)
+* '''Continuous Improvement:''' To promote continuous improvement in both the product and the quality process, the project team will make use of feedback from metrics and quality audits. Stakeholder participation will be used to identify areas for improvement, and the necessary adjustments will be made.
 * '''Compliance with Industry Standards:''' The project team will ensure adherence to relevant industry standards, including accessibility, security, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
 * '''Reviewing Customer Feedback:''' Regular reviews of customer feedback will be conducted to identify any issues or areas requiring improvement. This feedback will play a crucial role in informing the continuous improvement efforts and ensuring that the product aligns with customer needs and expectations.
 
-The project will implement rigorous monitoring, tracking, and reporting of quality assurance metrics to ensure the delivery of a high-quality outcome. Any deviations from the established standards will be promptly reviewed and rectified. The project team will receive regular reports from the software application, which will capture relevant data for these metrics. The quality assurance process will undergo frequent reviews to identify opportunities for enhancement and implement necessary improvements. The objective is to ensure that the Dispatch Directory System meets the most stringent quality standards, with close monitoring of all quality assurance metrics to guarantee project success.
+The project will implement rigorous monitoring, tracking, and reporting of quality assurance metrics to ensure the delivery of a high-quality outcome. Any deviations from the established standards will be promptly reviewed and fixed. The project team will receive regular reports from the software application, which will capture relevant data for these metrics. The quality assurance process will undergo frequent reviews to identify opportunities for enhancement and implement necessary improvements. The objective is to ensure that the SurveiRams System meets the best quality standards, with close monitoring of all quality assurance metrics to guarantee project success. 
 
 ==12.5 Quality Control==
-In Agile and Scrum methodology, the development process incorporates quality control measures to emphasize continuous testing and feedback. The Quality Control process for the SurveiRams Ticketing System project entails the following steps:
-* '''Continuous testing and feedback:''' The project team will engage in ongoing testing to identify defects and ensure alignment with customer requirements. Automation will be employed whenever possible, and results will be tracked within a continuous integration/continuous delivery (CI/CD) system.
-* '''User Acceptance Testing (UAT):''' Representative end users will conduct UAT at the end of each sprint to validate the system's adherence to their needs and expectations. Feedback from users will guide necessary modifications.
-* '''Compatibility Testing:''' The Dispatch Directory System will undergo testing on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any challenges encountered in different environments.
-* '''Continuous Monitoring:''' Post-deployment, the project team will closely monitor system effectiveness, focusing on key performance indicators such as user satisfaction, response time, and system uptime. This data will inform system upgrades, issue identification, and bottleneck resolution.
-The following quality metrics will be utilized to monitor and evaluate system performance: 
-** Defect Density: Number of defects identified per unit of measure (e.g., per KLOC).
+In Hybrid project management which combines both Scrum and Waterfall methodology, the development process incorporates quality control measures to emphasize continuous testing and feedback. The Quality Control process for the SurveiRams Ticketing System project entails the following steps:
+* '''Continuous testing and feedback:''' To find problems and make sure everything is in line with customer expectations, the project team will conduct regular testing and survey. Whenever possible, automation will be used such as online forms to collect feedback.
+* '''User Acceptance Testing (UAT):''' At the end of each sprint, representative end users will undertake UAT to confirm that the system adheres to their requirements and expectations. Users' feedback will help determine what changes are required.
+* '''Compatibility Testing:''' A variety of platforms, including mobile devices and personal computers, will be used to test the SurveiRams System in order to assure compatibility and identify any issues that may arise in various settings.
+* '''Continuous Monitoring:''' The project team will carefully assess the success of the system after deployment, concentrating on key performance metrics including user happiness, response time, and system uptime. This information will help with system improvements, problem identification, and bottleneck removal.
+The following quality metrics will be utilized to monitor and evaluate system performance:
 ** Defect Severity: Classification of defects based on their impact on the system.
 ** Test Coverage: Percentage of the system subjected to testing.
 ** Test Case Pass Rate: Percentage of test cases successfully executed.
@@ -306,15 +319,15 @@ The following quality metrics will be utilized to monitor and evaluate system pe
 <br> In conclusion, the SurveiRams Ticketing System project's Quality Control process will be deeply integrated into the development cycle, encompassing continuous testing, user feedback, and performance monitoring. The project team will vigilantly evaluate and maintain product quality, ensuring alignment with established standards and customer expectations.
 
 ==12.6 Quality Control Measurements==
-The SurveiRams Ticketing System project will leverage Agile and Scrum methodologies to foster continuous inspection and adaptation throughout its lifecycle, promoting a transparent and collaborative approach to quality control. Quality control measures will be implemented at each stage of the development process and documented on a shared, accessible platform, replacing static spreadsheets or tables.
+The SurveiRams Ticketing System project will leverage a Hybrid Project management metholody to foster continuous inspection and adaptation throughout its lifecycle, promoting a transparent and collaborative approach to quality control. Quality control measures will be implemented at each stage of the development process and documented on a shared, accessible platform, replacing static spreadsheets or tables.
 
-The platform will include essential details such as the measurement date, type of measurement (e.g., automated testing, code review, peer review, user story acceptance), measurement findings (pass/fail, number of discovered flaws, code coverage percentage), comparison with requirements and standards, team member responsible for measurement, team member assessing the results, corrective actions taken, completion date of remedial measures, and team member responsible for their implementation.
+The platform will include essential details such as the measurement date, type of measurement (e.g., defect density, error rate, performance metrics, usability metrics, design metrics and scalability metrics), team member responsible for measurement, team member assessing the results, corrective actions taken, completion date of remedial measures, and team member responsible for their implementation.
 
-Real-time dashboards and visual tools will be utilized to track quality control metrics, enabling all team members to access and understand the data easily. These dashboards will highlight patterns and areas of concern, facilitating prompt action and necessary adjustments.
+Real-time dashboards such as OpenProject and visual tools will be utilized to track quality control metrics, enabling all team members to access and understand the data easily. These dashboards will highlight patterns and areas of concern, facilitating prompt action and necessary adjustments.
 
 Regular team reviews, including sprint reviews and retrospectives, will entail the review of quality control metrics and allow for adjustments to the process as needed. Collaboratively, the team will identify potential areas for improvement and implement necessary changes.
 
-In summary, the SurveiRams Ticketing System project will adopt Agile and Scrum methodologies to establish a collaborative and dynamic quality control strategy. Continuous assessment of the product's quality will be performed, with regular improvements implemented. All quality control measurements will be collected and tracked on a shared platform in real-time. The team will collaborate to address any issues and drive necessary enhancements.
+In summary, the SurveiRams Ticketing System project will adopt Hybrid Project Management to establish a collaborative and dynamic quality control strategy. Continuous assessment of the product's quality will be performed, with regular improvements implemented. All quality control measurements will be collected and tracked on a shared platform in real-time. The team will collaborate to address any issues and drive necessary enhancements.
 
 =13. RISK MANAGEMENT PLAN=
 ==13.1 Introduction==
@@ -1159,3 +1172,5 @@ Once all matters are resolved, the project sponsor and stakeholders will endorse
 Additionally, the handover and acceptance section will outline the procedure for resolving any lingering issues or concerns that may arise subsequent to the handover. This may involve following a formal dispute resolution process or implementing corrective measures to rectify identified deficiencies.
 
 Overall, the handover and acceptance section within the contract transition out plan will offer a comprehensive and detailed roadmap for accomplishing the handover process, ensuring the satisfaction of all stakeholders with the outcomes.
+
+
