@@ -124,7 +124,7 @@ according to the demands of the project and the rules of the business. </td>
 
 =12. QUALITY MANAGEMENT PLAN=
 
-==Introduction==
+==12.1 Introduction==
 In order to maintain quality throughout the project the team, Nacor Industries, opted to follow the hybrid Scrum-Fall methodology. This Quality Management Plan will define the quality standards that will be used to evaluate the RAMS Corner: Ticketing Service System. Furthermore, the plan provides a framework for resolving quality concerns and specifying the roles and duties of team members in addition to outlining quality principles and procedures from the development, through the deployment of RAMS Corner: Ticketing Service System, with the following goals in mind:
 
 *Make sure the project satisfies or exceeds the expectations of the client and 
@@ -150,7 +150,7 @@ RAMS Corner: Ticketing Service System RAMS Corner: Ticketing Service System will
 
 In summary, this Quality Management Plan will offer a comprehensive structure to effectively manage and sustain the quality of the project from start to finish. It guarantees that the project will meet or surpass the expectations of all parties involved. Additionally, the plan outlines specific processes, tools, and roles and responsibilities for identifying and resolving any potential quality concerns. It is essential for all stakeholders to be acquainted with this plan and understand their contributions towards its successful implementation.
 
-==Quality Management Approach==
+==12.2 Quality Management Approach==
 
 The Quality Management Plan for the RAMS Corner: Ticketing Service System project will utilize the hybrid Scrum-Fall methodology to ensure that the project meets or exceeds all stakeholders' quality expectations. This approach would promote flexibility as they would be directly involved within each step of the way from the development, through the deployment stage as referenced in the diagram below:
 
@@ -178,7 +178,7 @@ Throughout the span of this project, the team will incorporate Agile and Scrum p
 
 Overall, the Quality Management Approach for the RAMS Corner: Ticketing Service System project will prioritize delivering a high-quality product that meets customer requirements through an Agile and Scrum method. The approach will be flexible and continuously refined to ensure that the project meets or exceeds all quality expectations.
 
-==Quality Requirements / Standards==
+==12.3 Quality Requirements / Standards==
 
 The RAMS Corner: Ticketing Service System project places a high focus on quality, and the team will cooperate to create and record quality requirements and standards. Client comments, testing, and assessments will be used to guarantee adherence to these criteria. The following requirements and standards for quality will be followed by the RAMS Corner: Ticketing Service System. 
 
@@ -207,7 +207,7 @@ The RAMS Corner: Ticketing Service System project places a high focus on quality
 '''Continual Improvement:'''
 The development team will design a method for continual improvement by routinely gathering and analyzing client feedback, monitoring system performance, and carrying out internal audits to spot potential improvement areas. A procedure for identifying and resolving any non-conformities that may emerge throughout the project should be established by the development team. This may entail recording the non-conformity, figuring out the underlying cause, taking corrective action, and assessing how well it works. These procedures can be incorporated into the project to guarantee that the Ticketing Service System is not only adhering to set quality standards but must also be actively working to fulfill customers' changing needs.
 
-==Quality Assurance==
+==12.4 Quality Assurance==
 The QA process for RAMS Corner: Ticketing Service System project will be integrated into the Agile and Scrum method to ensure that quality is achieved through collaborative effort and continuous improvement. The following steps will be undertaken:
 
 *'''Defining Quality Standards:''' The project team will collaborate with stakeholders to define and document the quality standards for the project in the Quality Management Plan. The quality standards will be communicated to all stakeholders.
@@ -231,7 +231,7 @@ To monitor the quality process, the following metrics will be used:
 
 The quality assurance metrics will be closely monitored, tracked, and reported on a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and implement improvements. The goal is to ensure that the Ticketing Service System meets the highest quality standards, and that all quality assurance metrics are closely monitored to ensure the project's success.
 
-==Quality Control==
+==12.5 Quality Control==
 In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Ticketing Service System project will involve the following steps:
 
 *'''Continuous testing and feedback:''' The project team will perform continuous testing to identify defects and ensure that the product is meeting customer requirements. The testing will be automated wherever possible, and the results will be tracked in a continuous integration/continuous delivery (CI/CD) system.
@@ -255,7 +255,7 @@ The following quality metrics will be used to monitor and assess the system's pe
 
 In conclusion, the Quality Control process for RAMS Corner: Ticketing Service System project will be an integral part of the development process, with a focus on continuous testing, user feedback, and performance monitoring. The project team will continuously monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the required quality standards and customer requirements.
 
-==Quality Control Measurements==
+==12.6 Quality Control Measurements==
 The Agile and Scrum techniques will be employed to promote continuous inspection and modification throughout the project lifecycle for the project, which will adopt a transparent and collaborative approach to quality control.
 
 To guarantee that the product fulfills the standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table.
@@ -277,17 +277,17 @@ During regular team reviews, such as sprint reviews and retrospectives, the qual
 
 To summarize, the RAMS Corner: Ticketing Service System project will employ Agile and Scrum methodologies to establish a collaborative and adaptable quality control strategy. The team will consistently evaluate the product's quality and make necessary enhancements to meet the established standards and requirements. All quality control measurements will be collected and monitored in real-time on a shared platform. The team will work together to address any issues that arise and implement improvements as needed.
 
-=14. Risk Management Plan=
+=13. Risk Management Plan=
 
-==Introduction==
-'''
+==13.1 Introduction==
+
 RAMS Corner Ticketing System aims to modernize and introduce a more efficient and manageable workflow for the Information Technology Resource Office of Asia Pacific College by replacing their current email-based reporting system into a more organized ticketing system that addresses all inquiries or incidents that needs the ITRO expertise.
 
 By following a hybrid model of project lifecycle, this risk management plan will follow specific steps that will be consolidated upon sprints. This includes identifying potential risks, developing quick risk response techniques, controlling, and monitoring the potential risks, that will help the entirety of project to adhere to the allotted time and budget, as well as to mitigate the risk whilst continuing to provide the solution aimed by the project.
 
 This risk management plan will include the risk assessment, risk response, risk control, risk monitoring, while having all these details further reviewed and revised based on the recent technology advancements and how they will affect the execution of the application that will enable us to mitigate, or minimize  the risk involved in a ticketing system.
 
-==Risk Management Approach==
+==13.2 Risk Management Approach==
 
 This risk management plan will follow these steps:
 *'''Risk Identification''' – this is a crucial step to be able to analyze the potential risks that will affect the deployment of RAMs Corner Ticketing System greatly. This can include technical problems, Staff problems, customer management problems, or the security problems.
@@ -300,7 +300,7 @@ This risk management plan will follow these steps:
 
 By following these steps, this will ensure that the RAMs Corner will run smoothly and efficiently, with less-to-no potential risk, and produce a satisfactory result for customer service  that is one of the aims of the project.
 
-==Risk Identification==
+==13.3 Risk Identification==
 
 Top three Risk in RAMs Corner Ticketing Service System
 After identifying the risk, they are categorized intro three major types, these are: 
@@ -329,7 +329,7 @@ To be specific, here are the possible risks that are identified for the RAMs Cor
 
 To mitigate these aforementioned risks, the team developed a contingency plan that will allow the ITRO to address these issues in a considerable amount of time. Training before deployment is also a necessary step to familiarize the staff with how they are going to navigate the system. A regular reporting of the progress in risk mitigation will also be held in one-week sprints so that the system can remain up to date to the growing risk potentials and the possible ways to minimize it. 
 
-==Risk Assessment==
+==13.4 Risk Assessment==
 After Identifying the risk for the ITRO Ticketing Service System, we are able to categorize them based on how likely these risks will occur, and how much are its impact both on the ITRO and their client. We have come-up with an impact-probability matrix that can help in prioritizing which type of risk needs a focused mitigation strategy.
 
 In the matrix, the probability of risk occurring, and its impact is described as below:
@@ -363,7 +363,7 @@ After the assessment, we will focus on developing solutions for the risks that a
 
 This risk assessment is subject to revisions after reviews and monitoring. This process will happen during sprint meetings so that all the team members and the stakeholders are up to date with the current risk management plan should there be any changes to be made.
 
-==Risk Monitoring==
+==13.5 Risk Monitoring==
 
 Risk monitoring is a very important step in risk management of the RAMs Corner. It will allow the team, as well as the stakeholders, to be involved in the ongoing risk management process that could impact the achievement of the long-term goals of the project. This is also to ensure that the identified and assessed risks are being reviewed and monitored thoroughly so that the ITRO can make informed decisions to make timely actions in preventing or minimizing a risk potential. 
 
@@ -373,7 +373,7 @@ The risk manager is expected to report on the status of the ongoing risk managem
 
 To sum it all up, having an effective risk monitoring that incorporates the agile methodology, the ITRO can have an early risk detection, which will lead onto improved decision-making when dealing with potential risks, that can also therefore improve the operational efficiency of the system in servicing its clients, and continuous improvement of the system as a whole.
 
-==Risk Mitigation==
+==13.6 Risk Mitigation==
 
 As mentioned in the previous risk management plan sections, the risk mitigation will be based upon the identified risk and their prioritization as described in the hierarchy from the risk assessment. The risks labeled as Extreme will be given the highest priority when allocating resources, down until the risks labeled Low. This step will allow the  team to have an overview of the suitable mitigation plan per assessed risks while continuing to improve, monitor, and review the overall health of the system.
 
@@ -386,7 +386,7 @@ The following are the available mitigation plan that is ongoing or to be impleme
 *'''Regular Communication''' – while all other technical aspects are important, communication within the team is also important to ensure that every stakeholder is informed regarding the ongoing plans, especially when tackling about the risk that the system is facing. This is to make sure that no resources are lost while still maintaining the efficacy of the system.
 *'''Change Management Plan''' – there must be a distinct change management plan for when there are any changes that need to be made to the system. It is important to document and gain the approval of every stakeholder when applying changes within the project. This will allow the team to handle potential risks without creating any ambivalence within the project stakeholders’ ideas.
 
-==Risk Register==
+==13.7 Risk Register==
 In the risk register section, the risk management plan that will be intended for the top categories of identified risks will be constantly revised throughout the project. This will include all necessary details such as the probability of these risks occurring, their impacts, and the mitigation and avoidance procedures.
 
 The risk registry will be available for viewing for all the stakeholders to make sure that there is transparency when it comes to risk management. This file will be kept in a shared location where all the stakeholders can access it. 
