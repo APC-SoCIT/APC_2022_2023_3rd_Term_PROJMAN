@@ -402,142 +402,129 @@
 <h2>Cost Benefit Analysis</h2>
 
 
-
+=Project Charter Plan=
 ==Executive Summary==
-<p>The developers are challenged to develop a dental clinic management software for Apelo Dental Clinic (ADC) since this clinic has no existing computerized system yet. This will help in storing patient information/records, medical history, payment records and other patient data. Moreover, it will also include features such as appointment scheduling with Short Messaging Service (SMS) notification and other additional features necessary. The said software will help them to focus on other areas that need attention. </p>
+<p>Asia Pacific College's clinic is seeking to upgrade its current Health Record System (HRS) by digitizing the system and integrating a better scheduling system. The current system involves physical records stored in filing cabinets, a physical logbook for appointments, and no system for scheduling. The project aims to provide faster management of health records and appointment schedules and include features such as clinic staff login for security solutions, CRUD operations, and a table and calendar view of the appointment schedules. The project also seeks to reduce paper usage by 40-60%, track inventory properly, and generate reports quickly. The project's significance is to address the concerns over the current system and provide better customer service for the nurse, clinic administrators, students, and employees. The proposed system's features include virtual consultation forms, an SMS notification feature, direct scheduling and rescheduling functions, and a generated summary report of clinic services. The project's scope is to provide a digitized solution for the current HRS and scheduling system, and the system will have limitations regarding data input and privacy concerns for medical staff outside the school.</p>
 
 ==Project Purpose/Justification==
 <p><b>Business Need/case</b></p>
-<p>This project will help the Apelo Dental Clinic (ADC) to have a dental clinic management system that will allow then to reduce the waiting time of the customer through appointment system, store patient information in digital format that will make retrieval and related processes easier, and track performance of the clinic that will help them in optimizing it. Hence, this project will benefit the following: </p>
-<ul>
-   <li><b>Dentist - </b>Storing and navigating medical history and other patient information will be easier which can improve the quality and time of making a diagnosis. </li>
-   <li><b>Front-desk Staff - </b>The project will reduce their time spent on data administration, processing, and management, allowing them to focus on other scopes of their work and respond to other issues that may arise.</li>
-   <li><b>Accounting Staff - </b>Recording of payment and generating sales report can be done in easily a supported by the system. </li>
-   <li><b>Patients - </b>Waiting time will be reduced and records do not have to be filled out multiple times when they get lost. They will also be able to see their payment records and balance or credits.</li>
-   <li><b>Future Developers - </b>This project will help future developers since it may be used as a reference for any related projects.</li>
-</ul>
-<br>
+
+<p>The clinic wishes to improve the quality of patient services by upgrading their health record system to a more efficient and accurate digitized system. The current system has several limitations that result in delayed access to patient information and increased chances of errors. The new system would streamline the process of storing and accessing patient information, reduce the risk of errors, and improve the overall efficiency of the clinic. 
+<br><br>
+The business case for the clinic is that the upgrade to the health record system would result in several benefits, including improved patient outcomes, increased patient satisfaction, reduced medical errors, and increased efficiency in the clinic's operations. The new system would also allow for better data analysis and reporting, which would enable the clinic to make data-driven decisions and improve its overall performance. Additionally, the upgraded system would be more scalable and adaptable, allowing the clinic to keep pace with changes in healthcare technology and regulations. 
+<br><br>
+Overall, the business case for the upgrade to the health record system is strong, as it would result in significant improvements to patient care and clinic operations, as well as a potential competitive advantage in the healthcare market.</p>
+
 <p><b>Business Objectives</b></p>
-<p>The business objectives for this project are in direct support of the clinics’ strategic plan to increase efficiency, accommodate a certain number of patients per day, and make records accessible by storing it digitally. </p>
+<p>The objective of the clinic as business are as follows:</p>
 <ul>
-   <li>Design a program that would give doctors and patients an appointment schedule for better accommodation and relieve doctors of extra workload. </li>
-   <li>Implement the program and files digitally for accessibility purposes and to reduce the risk of files being damaged or to lessen the physical space it consumes. </li>
-   <li>View the daily and weekly insight of the clinic. </li>
+   <li>To enhance the quality of patient services by providing accurate and up-to-date health information in real-time.</li>
+   <li>To improve the efficiency of the clinic's operations by reducing administrative tasks and manual processes. </li>
+   <li>To ensure compliance with relevant health care regulations and standards.</li>
+   <li>To increase patient satisfaction by improving the overall experience of the clinic's services.</li>
 </ul>
-<br>
+
 ==Project Description==
-<p>The ADENICSY project will provide efficiency regarding patient treatment and scheduling and accessibility for records like x-rays, dental records, and payment. This will also result in reducing the risk of data loss or physical damage and reduce the physical storage consumed by the files. This software will be developed in code using a computer so that the application will be accessed digitally through a mobile phone, a computer, and even a tablet, and of course, with secure control and different options for its users and staff. </p>
+<p>The E-CLINIQ is a web application that will enhance APC Clinic's health record management, appointment scheduling, and inventory management processes. The system's scheduling feature will enable easy appointment scheduling, monitoring, and notification of changes, improving customer experience. The system will also provide secure login access, CRUD operations on health records, summary report generation, and appointment schedule management, reducing the time spent on administrative tasks. Additionally, the inventory management module will track medicine and medical supplies for restocking and generate real-time analytics for clinic administrators. Overall, the upgraded system will help the clinic provide better customer service and experience to their students and employees.</p>
+
+
 <p><b>Project Objectives and Success Criteria</b></p>
-<p>The main objective of this project is to develop a website/ system for Apelo Dental Clinic that will improve their business processes. Thus, the developer wants to achieve the following:</p>
 <ul>
-   <li>Aim to make the waiting time from 4 hours to 1 hour.  </li>
-   <li>Provide a search function that will show the recent medical information of a certain patient.  </li>
-   <li>Make the appointment slot available a month ahead and provide insights via dashboard about monthly visitation date of the patients, active patients, and other key indicators.  </li>
+   <li>To optimize appointment scheduling by implementing an algorithm that evenly distributes patients based on their medical needs, time availability, 
+   and preferred healthcare provider, ultimately reducing patient waiting times, avoiding overcrowding, and improving the clinic's efficiency.</li>
+   <li>To develop a digital health record system that can efficiently store and retrieve patient records, eliminating the need for physical storage and 
+   enabling easy access to patient information.</li>
+   <li>To optimize report generation by reducing bottlenecks in the system, resulting in faster generation of patient reports that include appointment 
+   and treatment details as well as current medicine inventory levels.</li>
+   <li>To provide an email notification feature that provides updates to patients about their appointment schedules, weekly healthcare reminders and 
+   other medical information.</li>
 </ul>
-<br>
-<p><b>Success Criteria</b></p>
-<p>To achieve success on this project, the following objectives must be met within the designated time and budget allocations: </p>
-<ul>
-   <li> The new system is adopted and used by the CREST team with at least a 90% satisfaction rate. </li>
-   <li>The patients are satisfied with the wait time, operation time, and transactions with the clinic. </li>
-   <li>The clinic or management must be able to get feedback insights from their patients from the system to provide data driven actions. </li>
-   <li>The management should be able to monitor the clinics’ performance to keep track of problems and prevent further occurrences regarding their operations. </li>
-</ul>
-<br>
+
+
 <p><b>Requirements</b></p>
-<p>The following is a list of assumptions. Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct: </p>
-<ul>
-   <li>This project has the full support of the project sponsor, stakeholders, and all departments </li>
-   <li>The purpose of this project will be communicated throughout the company prior to deployment </li>
-   <li>The IT manager will provide additional resources if necessary </li>
-</ul>
-<br>
+<p>The functions of the project are implemented within the program. </p>
+
+<p><b>Constraints </b></p>
+<p>The application shall provide analytics with basic insights on the clinic services. The developers will not complete data input for all existing health records during the implementation of the project, this task would befall on the clinic staff as they have administrative privileges when it comes to managing sensitive health records of the students. Medical staff, such as dentists and doctors, outside the school would require approval from one of the personnel in the clinic to access the students’ health records for privacy reasons.</p>
+
 <p><b>Assumptions</b></p>
 <p>A list of assumptions for the project:</p>
 <ul>
-   <li>
-   <li>
-   <li>
-   <li>
-   <li>
-<br>
+   <li>The project team will have access to the necessary hardware and software to implement the new health record system. </li>
+   <li>The current data in the old system is accurate and complete and can be effectively migrated to the new system. </li>
+   <li>The project will be completed within the allotted time frame, with no major delays or unforeseen issues. </li>
+   <li>The new system will be compliant with relevant standards for health record keeping and privacy. </li>
+   <li>The end-users will be receptive to the new system and will receive sufficient help to be able to use it effectively.</li>
+   <li>The project will not require major changes to existing business processes or workflows. </li>
+   <li>The project team will be able to effectively communicate with the clinic staff throughout the project lifecycle to ensure project success.</li>
+</ul>
+
 <p><b>Preliminary Scope Statement</b></p>
 <p>This project aims to conduct a thorough requirements analysis, systems design, and implementation for Asia Pacific College's clinic health record system. It involves the installation, configuration, testing, and training of the new system, and the migration of data from the old system to the new one while maintaining data accuracy and integrity. The project's objective is to deliver a modern, efficient, and secure system that meets the needs of the healthcare industry and is fully operational for the clinic staff to use effectively. No hardware or infrastructure replacement is included in the project scope.</p>
-<br>
 
-<h2>Risks</h2>
-
-<h2>Project Deliverables</h2>
+==Risks==
+<p>Here are some high-level risks that could potentially impact the success of the Asia Pacific College's health record system upgrade:</p>
 <ul>
-	<li>
-		A fully functioning website complete with all the features will be helpfulto the MC Manabat&rsquo;s business.
-	</li>
-	<li>
-		A Cloud host server financially supported by the project sponsor for additional security options and good support maintenance of the host server.
-	</li>
-	<li>
-		The project required documents and manuals as well as the analysis and how the project came to be.
-	</li>
+	<li>Technical challenges: There could be unforeseen technical issues during the implementation of the new system, which could cause delays in the 
+        release such as programmers falling ill or personal emergencies.</li>
+	<li>Data privacy and security breaches: The new system will store sensitive health information, which could potentially be targeted by hackers or 
+        inadvertently accessed by unauthorized personnel.</li>
+	<li>User resistance: There may be hesitation from the college staff/students and medical personnel in adopting the new system due to a lack of familiarity or discomfort with technology.</li>
+        <li>Migration issues: The migration of physical records could take more time than anticipated due to the high volume of records already present in the clinic.</li>
+        
 </ul>
-<h2>Summary Milestone Schedule</h2>
 
-<table border="1" width="70%" align="center">
-<tr>
-<td width="394" bgcolor="lightblue">
-<p><strong>Milestone</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>Timeline</strong></p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Charter</p>
-</td>
-<td width="190">
-<p>1<sup>st </sup>month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Project Approval</p>
-</td>
-<td width="190">
-<p>2<sup>nd </sup>month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Developing the Website</p>
-</td>
-<td width="190">
-<p>3<sup>rd </sup>to 8<sup>th</sup> month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Complete Test Plan</p>
-</td>
-<td width="190">
-<p>9<sup>th</sup> month</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Finalizing the Document</p>
-</td>
-<td width="190">
-<p>10<sup>th</sup> month</p>
-</td>
-</tr>
+==Project Deliverables==
+<p>The following deliverables are as follows:</p>
+<ul>
+	<li>A fully functional scheduling system which can accommodate the number of patients mentioned in the project objectives. </li>
+	<li>Electronically accessible health records that can be retrieved by authorized staff. </li>
+	<li>Report generation based on the criteria requested based on appointments and inventory.</li>
+        <li>Complete documentation created during the process.</li>
+</ul>
+
+==Summary Milestone Schedule==
+<p>The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. </p>
+<table border="1" width="90%" align="center">
+   <tr>
+      <th>Project Milestone</th>
+      <th>Target Date<br>(mm/dd/yyyy)</th>
+      </tr>
+      <tbody>
+      <tr>
+      <td>Project Start</td>
+      <td>03/25/2022</td>
+      </tr>
+      <tr>
+      <td>Complete Solution Design</td>
+      <td>06/13/2022</td>
+      </tr>
+      <tr>
+      <td>Prototype Showcase</td>
+      <td>01/23/2023</td>
+      </tr>
+      <tr>
+      <td>Final Project Showcase</td>
+      <td>03/03/2023</td>
+      </tr>
+      <tr>
+      <td>Project Complete</td>
+      <td>03/05/2023</td>
+      </tr>
+      </tbody>
 </table>
-
 <h2>Summary Budget</h2>
 
-<h2>Project Approval Requirements</h2>
+==Project Approval Requirements==
+<p>The requirements for the project entail that the objectives and client pain points be solved during the implementation of the project, these would be:</p>
+<ul>
+    <li>Digitization of the patient health records.</li>
+    <li>Creation and launching of the scheduling system.</li>
+    <li>Easier generation of reports for the clinic.</li>
+</ul>
 
-<h2>Project Manager</h2>
-
+==Project Manager==
+<p>Our Project Manager is Kurt Jordan Cadenas who oversees the administrative functions of the group. </p>
 
 
 =Stakeholder Strategy Management Plan=
