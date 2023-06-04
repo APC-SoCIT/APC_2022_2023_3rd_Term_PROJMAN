@@ -94,7 +94,8 @@ personnel and other departments conduct their processes manually, and the former
 
 ==4.1 Executive Summary==
 
-The SurveiRams system is a digital solution aimed at enhancing the security personnel's daily operations at APC. The existing manual verification system used by security personnel is inefficient, time-consuming, and compromises productivity and efficiency. To address this issue, the project team aims to develop a mobile application that focuses on the reporting system aspect, which provides real-time feedback data to the management team. The SurveiRams system will serve as a ticketing system for recording incident reports and logs, insights into guards' routes, and a tactical transition to a digital approach to stakeholder's present difficulties. By implementing the SurveiRams system, the project team aims to increase accuracy and efficiency in determining whether security personnel have completed their assigned tasks.
+The SurveiRams system is a digital solution aimed at enhancing the security personnel's daily operations at APC. The existing manual verification system used by security personnel is inefficient, time-consuming, and compromises productivity and efficiency. 
+To address this issue, the project team aims to develop a mobile application that focuses on the reporting system aspect, which provides real-time feedback data to the management team. The SurveiRams system will serve as a ticketing system for recording incident reports and logs, insights into guards' routes, and a tactical transition to a digital approach to stakeholder's present difficulties. By implementing the SurveiRams system, the project team aims to increase accuracy and efficiency in determining whether security personnel have completed their assigned tasks.
 
 ===4.1.1 Issue===
 
@@ -175,11 +176,11 @@ Implementing a system to track issues in a building can bring many benefits, inc
 
 ===4.3.1 Problem Statement===
 
-The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner.
+The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner.The current system also has unnecessary steps that could be eliminated when digitized such as rewriting the information from the logbook onto an incident report to be submitted to the Information Technology Resource Office (ITRO) or Building Maintenance Office (BMO).
 
 ===4.3.2 Organizational Impact===
 
-SurveiRams facilitate the digitization of work processes by reducing the use of paper among employees. Security personnel quickly report incidents they encounter, which allows for a faster response time and enhances overall safety measures within the organization.
+SurveiRams facilitate the digitization of work processes by reducing the use of paper among employees. Security personnel quickly report incidents they encounter, which allows for a faster response time and enhances overall safety measures within the organization.BMO and ITRO faculty members will also receive the incident reports as soon as a guard logs it, instead of waiting for the rewritten version.
 
 ===4.3.3 Technology Migration===
 
@@ -204,27 +205,32 @@ Specifically, said application should:
 
 SurveiRams will be considered a success if the following features are achieved:
 
-*A repository shows that the user can access to create, read, and update incident reports and logs.
-*An analytics dashboard is shown where an administrator can see the available insight for the accumulated reports.The said dashboard could present the following information: 
-**Number of resolved and unresolved incident reports. 
-**Which department and floor has the most incidents that occurred
-**Type of incident that occurred the most
-**Number of incidents that occurred on each level
-**Number of incidents addressed to each office
+*A repository wherein the user has the ability to create, read, and update incident report and logs.
+*A dashboard where an administrator is able to view insights drawn from the stored data from the reports. The following information should be seen on the dashboard:
+** How many resolved and unresolved incident reports there are
+** The department and floor that ranks highest with regard to the number of incidents that occurred
+** What kind of incident occurred the most
+** How many incidents occurred per floor
+** How many incidents are reported per office
+
 
 ===4.4.4 Project Assumptions===
 
 Below are the initial expectations about the proposed system:
 
-1. The system built is only accessible for Asia Pacific College institution only.
-2. The developers who will work on this project are fellow APC students who will continue the development of the system by providing additional features.
+1.	Resources requested in the Cost Management Plan will be provided.
+2.	The project team have the skills required to complete the project
+3.	Stakeholders will provide necessary information to the project team regarding their current system and business needs.
+4.	Relevant stakeholders will cooperate with the team during training and implementation.
+5.	The project team is using a Hybrid Methodology ( Agile mixed with Waterfall). 
+
 
 ===4.4.5 Project Contstraints===
 
 The initial limitations for the proposed project are listed as follows:
-
-*The number of financial resources accessible to the team during the project's initial stage of development.
-*The availability of resources, such as developers, that the organization can assign and concentrate exclusively on the project.
+1.	Only two (2) developers are focused on developing the mobile application.
+2.	This project aims to solve business needs only for the BMO, ITRO, and Security Personnel
+3.	The features of the mobile application are for aiding the processes regarding logs, patrolling, and incident reports.
 
 ===4.4.6 Major Project Milestones===
 
@@ -308,9 +314,10 @@ Asia Pacific College (APC) has been using a manual process for recording inciden
 The SurveiRams project has been created to improve the incident reporting process. The APC employees involved will be more productive, make less errors, as well as spend less time on one report by using the mobile application. 
 
 ===5.2.2 Business Objectives===
-The general business objective is to develop SurveiRams, a ticketing system for APC’s security personnel, ITRO, and BMO to record incident reports and logs. It will provide insights into the security personnel’s routes to ensure they have completed their assigned tasks. 
+The general business objective is to develop SurveiRams, a ticketing system for APC’s security personnel, ITRO, and BMO to record incident reports and logs. It will provide insights into the security personnel’s routes to ensure they have completed their assigned tasks.
 
-Specifically, the SurveiRams mobile application should act as the centralized location of the guards’ patrol logs, automate the log documentations, and provide analytics to help stakeholders in their decision-making. Development is expected to be finished by June 2024 with a budget of [xxxxx]. 
+Specifically, the SurveiRams mobile application should act as the centralized location of the guards’ patrol logs, automate the log documentations, and provide analytics to help stakeholders in their decision-making. Development is expected to be finished by June 2024 with a budget of PHP1,547,950.80
+
 
 ==5.3 Project Description==
 This section discusses a high-level description of the SurveiRams Ticketing System project.
@@ -363,11 +370,12 @@ The SurveiRams project aims to create a more robust ticketing system for the ent
 ==5.4 Risks==
 The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:   
 
-*Potential disruption to internet service during testing phase and deployment 
+* Data Loss
+* System Bugs
+* Power Failure
+* Unstable Internet Connection
+* The project goes over budget
 
-*Project Timeline Changes 
-
-*Project Cost 
 
 ==5.5 Project Deliverables==
 
@@ -401,32 +409,32 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
     <th>Target Date</th>
   </tr>
   <tr>
-    <td>Project Initiation</td>
-    <td>03/31/2023</td>
+    <td>Initiation</td>
+    <td>04/11/2023 – 05/12/2023</td>
   </tr>
   <tr>
-    <td>Project Plan Review and Completion</td>
-    <td>05/02/2023</td>
+    <td>Develop a Project Plan</td>
+    <td>05/15/2023 – 09/12/2023</td>
   </tr>
   <tr>
-    <td>Phase I Complete – Analysis</td>
-    <td>06/21/2023</td>
+    <td>Analysis</td>
+    <td>09/13/2023 – 10/10/2023</td>
   </tr>
   <tr>
-    <td>Phase II Complete – Design</td>
-    <td>07/06/2023</td>
+    <td>Design</td>
+    <td>10/11/2023 – 04/01/2024</td>
   </tr>
   <tr>
-    <td>Phase III Complete – Testing</td>
-    <td>12/13/2023</td>
+    <td>Testing</td>
+    <td>04/02/2024 – 04/25/2024</td>
   </tr>
   <tr>
-    <td>Phase IV Complete – Implementation</td>
-    <td>02/15/2024</td>
+    <td>Implementation</td>
+    <td>04/18/2024 – 06/26/2024</td>
   </tr>
   <tr>
-    <td>Closeout/Project Completion</td>
-    <td>04/19/2024</td>
+    <td>Close Project</td>
+    <td>07/27/2024 – 08/12/2024</td>
   </tr>
 </table>
 
@@ -463,36 +471,28 @@ The security personnel, Building Maintenance Office (BMO), and Information Techn
 
 <table border="1" width="70%" align="center">
 <tr>
-
 <td width="400" bgcolor="lightblue">
 <p><strong>Stakeholder</strong></p>
 </td>
-
 <td width="190" bgcolor="lightblue">
 <p><strong>Role</strong></p>
 </td>
-
 <td width="190" bgcolor="lightblue">
 <p><strong>Impact</strong></p>
 </td>
-
 <td width="220" bgcolor="lightblue">
 <p><strong>Influence</strong></p>
 </td>
-
 <td width="420" bgcolor="lightblue">
 <p><strong>What is important to the stakeholder?</strong></p>
 </td>
-
 <td width="420" bgcolor="lightblue">
 <p><strong>How could the stakeholder contribute to the project?</strong></p>
 </td>
-
 <td width="394" bgcolor="lightblue">
 <p><strong>Strategy on engaging the stakeholder</strong></p>
 </td>
 </tr>
-
 <tr>
 <td width="394">
 <p>Jojo Castillo</p>
@@ -500,28 +500,22 @@ The security personnel, Building Maintenance Office (BMO), and Information Techn
 <td width="190">
 <p>ITRO Head</p>
 </td>
-
 <td width="190">
 <p>High</p>
 </td>
-
 <td width="190">
 <p>High</p>
 </td>
-
-<td width="190">
+<td width="420">
 <p>Directly receive reports</p>
 </td>
-
-<td width="190">
+<td width="420">
 <p>Project Approval and use of the application</p>
 </td>
-
-<td width="190">
+<td width="394">
 <p>Set a meeting</p>
 </td>
 </tr>
-
 <tr>
 <td width="394">
 <p>Marr Bringas</p>
@@ -532,24 +526,19 @@ The security personnel, Building Maintenance Office (BMO), and Information Techn
 <td width="190">
 <p>High</p>
 </td>
-
 <td width="190">
 <p>High</p>
 </td>
-
-<td width="190">
+<td width="420">
 <p>Directly send reports</p>
 </td>
-
-<td width="190">
+<td width="420">
 <p>Use of the application</p>
 </td>
-
-<td width="190">
+<td width="394">
 <p>Interview</p>
 </td>
 </tr>
-
 <tr>
 <td width="394">
 <p>Mervin Quilang</p>
@@ -560,24 +549,159 @@ The security personnel, Building Maintenance Office (BMO), and Information Techn
 <td width="190">
 <p>High</p>
 </td>
-
 <td width="190">
 <p>High</p>
 </td>
-
-<td width="190">
+<td width="420">
 <p>Directly send reports</p>
 </td>
-
-<td width="190">
+<td width="420">
 <p>Use of the application</p>
 </td>
-
-<td width="190">
+<td width="394">
 <p>Interview</p>
 </td>
 </tr>
+<tr>
+<td width="394">
+<p>Jose Manuel Garcia</p>
+</td>
+<td width="190">
+<p>Campus Architect</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="420">
+<p>Directly Receive reports, upload their physical files to the system</p>
+</td>
+<td width="420">
+<p>Project Approval and use of the application</p>
+</td>
+<td width="394">
+<p>Set a meeting</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Ian Christopher Onrubia</p>
+</td>
+<td width="190">
+<p>Project Manager</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="420">
+<p>Project Team and System</p>
+</td>
+<td width="420">
+<p>Manage the project team</p>
+</td>
+<td width="394">
+<p>Set a meeting</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Alexis Martin</p>
+</td>
+<td width="190">
+<p>Front-end Developer</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="420">
+<p>Front-end System</p>
+</td>
+<td width="420">
+<p>Develop Front-end System</p>
+</td>
+<td width="394">
+<p>Set a meeting</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Jan Karlo Boongaling</p>
+</td>
+<td width="190">
+<p>Documentation Specialist</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="420">
+<p>Deliverables</p>
+</td>
+<td width="420">
+<p>Document the whole process of the system</p>
+</td>
+<td width="394">
+<p>Set a meeting</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Yuan Serafico</p>
+</td>
+<td width="190">
+<p>Software Tester</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="420">
+<p>Completed System</p>
+</td>
+<td width="420">
+<p>Test the software</p>
+</td>
+<td width="394">
+<p>Set a meeting</p>
+</td>
+</tr>
+<tr>
+<td width="394">
+<p>Vladimir Perez</p>
+</td>
+<td width="190">
+<p>Back-end Developer</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="190">
+<p>High</p>
+</td>
+<td width="420">
+<p>Back-end System</p>
+</td>
+<td width="420">
+<p>Develop Back-end of the system</p>
+</td>
+<td width="394">
+<p>Set a meeting</p>
+</td>
+</tr>
 </table>
+
 
 =7. SCOPE MANAGEMENT PLAN=
 
