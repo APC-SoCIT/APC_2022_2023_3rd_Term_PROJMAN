@@ -1,7 +1,6 @@
-<h1>Project Title</h1>
-<b><font size="200"><h1 style="text-align:center">Fleeky Hub</p></font></b>
+<h1>Project Title: Fleeky Hub</h1>
 
-<h1>Project Members</h1>
+
 <h1>Project Professor</h1>
 <table border="1" width="70%" align="center">
 	<tr>
