@@ -65,6 +65,7 @@
 =Business Case=
 <h2>Executive Summary</h2>
 
+<p text-align: justify;">Asia Pacific College's clinic is seeking to upgrade its current Health Record System (HRS) by digitizing the system and integrating a better scheduling system. The current system involves physical records stored in filing cabinets, a physical logbook for appointments, and no system for scheduling. The project aims to provide faster management of health records and appointment schedules and include features such as clinic staff login for security solutions, CRUD operations, and a table and calendar view of the appointment schedules. The project also seeks to reduce paper usage by 40-60%, track inventory properly, and generate reports quickly. The project's significance is to address the concerns over the current system and provide better customer service for the nurse, clinic administrators, students, and employees. The proposed system's features include virtual consultation forms, an SMS notification feature, direct scheduling and rescheduling functions, and a generated summary report of clinic services. The project's scope is to provide a digitized solution for the current HRS and scheduling system, and the system will have limitations regarding data input and privacy concerns for medical staff outside the school. </p>
 
 
 <h2>Issue</h2>
