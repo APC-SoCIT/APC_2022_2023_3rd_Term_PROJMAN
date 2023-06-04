@@ -697,4 +697,120 @@ The project manager will handle and manage all the things needed to be obtained 
 After making the list of necessary materials for the project, the project would then look for a suitable supplier to either buy or start having a contract with the store. 
 
 =16. IMPLMENTATION PLAN=
+==16.1 Executive Summary==
+The Rams Corner Ticketing Service System is complete, and as a part of the project closeout, a transition plan is being developed to ensure that when the project team handover the system to its project client, it will be a seamless system turnover. The purpose of this is to provide an overview of the transition phases, which includes the system current state or to check if it's under the minimum viable product, and how It’s planned to transition from project team to the project client. 
+
+Rams Corner Ticketing Service System was developed by Nacor Industries in collaboration with Mr. Jose Castillo of the ITRO department office, our project client, and project adviser Mr. Alvin Limpin. The System has been done and completely developed for that past 3 semesters, starting from MNTSDEV which requires the project documentation academic papers, MYSADD which requires the System analysis and design, and up to MCSPROJ which finalizes the overall project from providing a working and deployable Ticketing Service System. 
+
+The project client will receive a deployable system that is stable and operational, all the functionalities and features have been validated and undergone various test cases. As we transition the system to the client, we aim to provide them with necessary documentation of the Ticketing Service System to ensure that the client will manage the system properly. 
+
+The project team will provide all the technical documentation, user manuals, source code, to ensure that the project client will have a comprehensive understanding of the system once it has been turned over to them. The project client will oversee the maintenance and troubleshooting as their scope of work encompasses these things.  
+
+Overall, once the transition phase of the system from project team to the project client is done, the project client will be receiving a fully operational Ticketing Service System, and that our project team completes all the objectives and requirements to pass the Projects Based Learning Course 1(PBL).  
+
+==16.2 Transition Approach==
+The approach for the transition of the system will require definite and systematic transfer of knowledge, resources, and responsibility to the new owners of the system, to avoid service interruption. 
+The transition approach will include the following steps: 
+
+a.	'''Communication Plan:''' The project team together with the project client and adviser is fully aware of the transition plan, timelines, and what results the transition should accomplish, emergency meetings will be held if necessary.
+
+b.	'''Transition Planning:''' the transition plan will be developed and coordinated by the NACOR INDUSTRIES project team which will include timelines of all the tasks that are needed to be accomplished during the transition.
+
+c.	'''Knowledge Transfer:''' ITRO Department is packed by IT professionals that are knowledgeable when it comes to technological field including software's, that is why it is going to be easy for them to understand the instructions manuals, technical documentation, and the Ticketing Service System itself once they receive and operate the functional system.
+
+d.	'''System Deployment:''' The project team will hand over the functional Ticketing Service System to the project client.
+
+==16.3 Timeline==
+The Transition out plan for this project involves a schedule of activities that will be necessary steps to fulfill until the time of handing over the functional and deployable system to the project client. There are two phases of the transition out plan execution from the project team and closeout from the project client, in this way, the project team will coordinate with the head of the ITRO Department and Mr Jose Castillo himself will be the one to closeout once the system is handed over to their team. 
+The handover schedule will take place after all the project team completes all the necessary deliverables for MCSPROJ final requirements after re-defense dated on March 23, 20203, this is to ensure that the project team have complied with the course requirements to pass the course and proceed to the deployment of the system in the platform of the client.
+
+'''Assumptions'''
+
+The following Assumptions will be made for the transition approach: 
+
+a.	NACOR INDUSTRIES project team members will be able onsite or via online meetings to participate and facilitate handover of the system.
+
+b.	The project team will provide all necessary documentation, instruction, and user manuals to the project client.
+
+c.	ITRO Department will provide the necessary equipment and software license if necessary to support the handover of the system. 
+
+d.	The NACOR INDUSTRIES project team is equipped with knowledge on the the system works and will be able to transfer knowledge to the project client and its team.
+
+e.	The ITRO department office of Asia Pacific College is packed with IT Professionals that is knowledgeable in the technological which makes it easy for their team to navigate and understand the Ticketing Service System that they will receive.
+
+==16.4 Roles and Responsibilities==
+
+# '''Transition Project Manager:''' is the overall InCharge for the success of the transition, is also the one responsible to manage the team involved in the transition team and will check transition task and its compliance.
+# '''Developers/Technical Lead:''' InCharge of providing all the technical expertise in the technological field and of course the project itself. Also, in charge of providing technical expertise to the project client and its team, if necessary, since the client’s team is knowledgeable enough to understand how the system works as it encompasses their scope of work.
+# '''Quality Assurance Lead:''' Responsible for ensuring that the system is functional, tested and passed the quality standards before handing over to the project client, also will lead the quality assurance that the deliverables for the transition tasks and plan is meets the quality standards.
+# '''Project Team Members:''' Overall assist and facilitate the transition plan, coordinate with the relevant people that have roles in the transition plan and will provide expertise towards their knowledge transfer about the whole project itself.
+
+<table border="1" width="70%" align="center">
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">Transition Project Manager</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">is the overall in-charge for the success of the transition, is also the one responsible to manage the team involved in the transition team and will check transition task and its compliance.</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Developers/Technical Lead </p></td>
+  <td><p style="text-align:center;">In-charge of providing all the technical expertise in the technological field and of course the project itself. Also, in charge of providing technical expertise to the project client and its team, if necessary, since the client’s team is knowledgeable enough to understand how the system works as it encompasses their scope of work. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Quality Assurance Lead </p></td>
+  <td><p style="text-align:center;">Responsible for ensuring that the system is functional, tested and passed the quality standards before handing over to the project client, also will lead the quality assurance that the deliverables for the transition tasks and plan is meets the quality standards</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Project Team Members </p></td>
+  <td><p style="text-align:center;">Overall assist and facilitate the transition plan, coordinate with the relevant people that have roles in the transition plan and will provide expertise towards their knowledge transfer about the whole project itself. </p></td>
+ </tr>
+
+</table>
+
+==16.5 Workforce Transition==
+Workforce transition is still important even if we already know that the project client team the ITRO Department would easily have the knowledge and background to use the system, it is critical that everything will be a seamless transition from the project team system deployment to the project clients work platform, an essential communication between project team and client should still be established as the transition of the overall system takes place.
+
+The Transition Project Manager will be working on assigning and retaining current staff or hiring a new one whichever is fit to handle the Ticketing Service System once it has been handed over to them. It is critical for the overall transition to determine the people who will handle and maintain the system, to ensure that it will be utilized as it should be.
+
+In addition, the necessary training or re-training will be on the side of the project client, since their department office is packed with IT professionals, the budget for training or hiring new staff will come under the department’s office budgets.
+
+==16.6 Workforce Execution During Transition==
+'''User briefing:''' this will involve a short introduction to the Ticketing Service System to the side of the project client’s team, this will include discussions on how the system works and its functionality. Proper user briefing will allow the new user of the system to understand the system and execute it properly.
+
+'''Update Documentations:''' The project team will record the latest and relevant files which include Uthe lessons learned in the entire project, where the team improves the most and the areas needed to improve as well.
+
+'''Update Files/Records:''' The project team is still responsible for recording relevant files and information that reflects the completion of the project, it may involve things such as archiving all project-related files and relevant documents.
+
+'''Project Closeout Meeting:''' The project team will facilitate the meeting with the project client either onsite or online. This will discuss the project together with a closure meeting with the relevant stakeholders of the project. After a successful transition of the system to the client open discussions about the areas needed to improve will take place to ensure that all outstanding issues have been resolved.
+
+'''Subcontracts'''
+There are no existing contracts or subcontract agreements related to this project. Therefore, no transition of contracts related agreements required. 
+
+
+
+==16.7 Property Transition==
+
+'''Incumbent Owned Equipment'''
+
+In this case of the Ticketing Service System, If the project client and their team ITRO department office can provide the necessary equipment upon transition, there may not be a need for the project team to transition the equipment to project client, however, it is still important to clearly identify which equipment is incumbent-owned and which will be provided by the project client and its team to ensure a smooth transition and avoid any possible conflicts or misunderstandings.
+
+'''User Accounts and Passwords'''
+
+As part of the transition plan for the Ticketing Service System project, it is also important to take note of how the user accounts and passwords transition. The following steps would be: 
+#User Accounts and Passwords
+*A comprehensive inventory of all user accounts and their associated privileges. This includes.
+**Ticketing Service System Administrator 
+**ITRO Staff 
+**APC Students 
+
+#Intellectual Property
+During the transition process of the Ticketing Service System, it is important to consider the handling of intellectual property to ensure a smoother transfer of al the necessary documentation, original design and plans and preserve the system as it where is.  
+#Schedule
+
+==16.8 Handover and Acceptance==
+The handover and acceptance process will begin with the completion of the transition plan, it will include all the required technical documentation and deliverables. The project team will schedule a formal handover meeting with its project client Mr. Jose Castillo together with the relevant people in the ITRO department office that will help with the technical and equipment executions.
+
+During the handover meeting, the project team will present the complete transition plan and discuss all the required technical documentation and deliverables to the project client and other relevant stakeholders of the project invited in the handover meeting.
+
+Once all issues have been resolved, the project client and other relevant stakeholders, if there are any, will review and sign a formal acceptance document. This will serve as evidence that handover of the system to the project client is completed successfully. The acceptance document will also include a checklist of all required deliverables and documentation, along with the signatures of the project client, and relevant stakeholders.
+
+
 
