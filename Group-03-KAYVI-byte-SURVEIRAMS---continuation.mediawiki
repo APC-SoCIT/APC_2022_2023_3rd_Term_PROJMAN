@@ -431,84 +431,25 @@ A Risk Register was made for the project team to have a centralized guide to ref
 </table>  
 
 Table 2, the Risk Register, shows the following information that are needed for managing the risks identified:  
-* '''Resource Allocation:''' It is crucial for the project to be successful and efficient that the project manager guarantees the team has the required resources, including proficiency, abilities, and knowledge, as well as access to tools and equipment. The project manager bears the responsibility of ensuring that these resources are available to the team to finish the project within the given budget and timeline.   
-* '''Risk Assessment:''' The team should thoroughly analyze potential risks to effectively anticipate and address them. The project manager should complete the risk assessment early in the project and take prompt actions to identify and mitigate potential risks.   
-* '''Contingency Planning:''' In order to be prepared for potential risks, the project team needs to come up with backup plans for contingencies. It's up to the project manager to supervise the development, testing, and confirmation of these plans for every potential risk.   
-* '''Communication:''' To minimize risks and prevent misunderstandings, it's important for the project manager to promote clear and open communication between the project team, clients, and stakeholders.  
-* '''Agile Approach:''' Using the Agile approach offers a flexible and responsive way to manage risks. The project manager needs to ensure that the team follows the Agile methodology, which enables ongoing risk management and the ability to adapt to changes.  
-* '''Change Management:''' The Dispatch Directory System project should have a clear change management process in place to handle any unexpected changes. The project team must document, communicate, and obtain approval from relevant stakeholders for any changes. This will help the project manager to effectively manage and prevent potential risks, and successfully complete the project.
+# '''Risk ID -''' The unique identifier assigned to each risk. 
+# '''Risk Category -''' Each risk is labelled based on the categories listed in Risk Identification it falls under.
+# '''Risk Description -''' The explanation of what the risk is and its effects.
+# '''Risk Assessment -''' The assessment of the risk based on the Risk Assessment Matrix.
+# '''Owner -''' The person/s responsible for taking action for each risk.
+# '''Mitigating/Avoiding Action -''' Indicates the steps needed to be done by the Owner to mitigate or avoid the risk. Risks assessed as low will have Avoiding Actions, while those assessed as high will have mitigating actions.
 
-==13.8 Risk Register== 
-From other part: The risk register is updated regularly to ensure that new risks are identified, and existing risks are managed effectively. The project team will continue to monitor and manage risks throughout the project lifecycle.   
-   
+When a risk occurs, the Owner must inform all stakeholders between 24-48 hours depending on its impact. Next, they must send a Risk Mitigation Request Form (found in Appendix A) to the Project Sponsors containing the Risk ID, incident, cause, their plan to mitigate the risk, and request for the resources they need to do so. The Project Sponsors shall review the report and approve or provide the requested resources so that the Owner may proceed in mitigating the risk.
 
-The risk register, which will be kept up to date throughout the project, will include a thorough explanation of each risk, its likelihood, and potential effects, as well as any mitigation measures taken. To make sure the risk register appropriately reflects the project's current condition, it will be reviewed and updated on a regular basis. All stakeholders will have access to the risk registry, which will be kept in a central location.   
-   
-This risk management strategy, which emphasizes early and frequent risk identification, collaborative risk management, and ongoing risk monitoring, is generally in line with the Agile methodology. The Dispatch Directory System project team can lessen the effects of probable risks and raise the possibility that the project will succeed by anticipating and resolving them. Furthermore, the risk register for the Dispatch Directory System project will be kept in a shared document with the help of a cloud-based project management tool like Jira, Asana, or Trello. The project team will use this tool to track and prioritize risks, assign responsibilities, and track progress in risk mitigation.   
-   
-The following criteria will be used for the risk register:   
-* Risk ID - each risk will be assigned a unique identifier.
-* Risk Description - there will be a clear and concise description of the risk event. 
-* Risk Category - will classify risks into technical, organizational, or legal categories.
-* Risk Owner - will be responsible for monitoring and managing each risk.
-* Probability - likelihood of a risk occurring is assessed using a scale of 1 to 5, with 1 indicating the lowest likelihood and 5 indicating the highest.
-* Impact - the risk's potential impact on the project is rated on a scale of 1 to 5, with 1 indicating the least significant impact and 5 indicating the most significant impact. 
-* Risk Score - the probability and impact scores are multiplied to determine the overall risk score. 
-* Mitigation Strategy - outlines the specific measures to be taken to mitigate the risk. 
-* Status - risk's current status, whether it is open, in progress, or closed, is also documented.   
-* Target Resolution Date - anticipated date for risk resolution to be resolved.   
+In case the system is down due to any risk except when there is no internet connection, the contingency plan is to use Microsoft Forms. The security guards may log their incident reports there instead of going back to manually writing in their log books. When the system is running again, the team can simply download the form’s responses and add it to the database. Another option is to input the details in the application.
 
-'''Risks Register:'''
-<table>
-  <thead>
-    <tr>
-      <th>Risk ID</th>
-      <th>Risk Rank</th>
-      <th>Risk</th>
-      <th>Description</th>
-      <th>Category</th>
-      <th>Destination/Owner</th>
-      <th>Probability</th>
-      <th>Impact</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>RID 001</td>
-      <td>1</td>
-      <td>Technical Risks</td>
-      <td>There is a risk that the Dispatch Directory System may not integrate well with existing software and hardware systems, resulting in system errors and delays.</td>
-      <td>Technology</td>
-      <td>Project Lead</td>
-      <td>High</td>
-      <td>High</td>
-      <td>In progress</td>
-    </tr>
-    <tr>
-      <td>RID 002</td>
-      <td>2</td>
-      <td>Resource Risks</td>
-      <td>There is a risk of insufficient resources to complete the project on time, resulting in delays and budget overruns.</td>
-      <td>Organizational</td>
-      <td>Project Manager</td>
-      <td>Medium</td>
-      <td>Medium</td>
-      <td>In progress</td>
-    </tr>
-    <tr>
-      <td>RID 003</td>
-      <td>2</td>
-      <td>Security Risks</td>
-      <td>There is a risk of data breaches and cyberattacks, compromising sensitive information.</td>
-      <td>Technical</td>
-      <td>System Developer</td>
-      <td>Medium</td>
-      <td>Medium</td>
-      <td>In progress</td>
-    </tr>
-  </tbody>
-</table>
+
+==13.8 Risk Monitoring== 
+Risk Management does not stop after mitigating the identified risks. They must be monitored continuously until the end of the project. After the risk’s Owner deals with the risk, they must inform all stakeholders of the risk’s status and submit a formal incident report to the Project Manager detailing the steps they took to solve the problems the risk caused. The Risk Incident Report format can be found in Appendix B.
+
+Weekly meetings must be held by the project team to review the Risk Register, to ensure that the mitigating/avoiding actions are still effective. Stakeholders must be informed should an update be made for the Risk Register. These meetings must also include review of past risks that occurred to make sure the probability of their future occurrence is lower, identify what might cause this risk to repeat, and create a plan to avoid this.
+
+To conclude, risks must be identified, assessed, mitigated or avoided, and monitored, with all of the stakeholders maintaining open communication. This is to ensure that the Risk Management Plan remains effective and up to date. Having this in this project will lead to an output that not only meets the objectives, but is of high quality.  
+
 
 =14. COMMUNICATION MANAGEMENT PLAN=
 ==14.1 Introduction==
