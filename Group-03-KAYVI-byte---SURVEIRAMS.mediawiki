@@ -1266,7 +1266,7 @@ In conclusion, effective schedule control is critical to the success of the Surv
 ==9.4 Schedule Changes and Thresholds==
 
 Schedule changes and thresholds are critical elements of project management. It is essential to have a defined process in place to ensure that any schedule changes are well-documented and approved by the appropriate project stakeholders. Before making any changes to the schedule, the project team must complete the "Schedule Change" form. This form must include the proposed changes, justification for the changes, and the potential impact on the project's timeline, budget, and resources. The project sponsor must approve the schedule change request, and the updated schedule must be communicated to all relevant stakeholders. By following this process, the project team can ensure that all schedule changes are transparent, well-documented, and aligned with the project's goals and objectives. 
- 
+
 The project manager is responsible for submitting a "Schedule Change" form to the project sponsor for approval before making any changes to the project schedule. Once approved, the project manager will update the schedule and communicate the changes and their impact to the project team and stakeholders. All change requests will be archived in the project records repository. 
 
 ==9.5 Scope Change==
@@ -1286,24 +1286,23 @@ A Work Breakdown Structure (WBS) has been developed to help clarify the project'
 :::1.1.3 Project Charter
 :::1.1.4 Identify Stakeholder
 :::1.1.5 Final Review
-::1.2 '''Develop Project Charter and Plan'''
+::1.2 '''Develop Project Plan'''
 :::1.2.1 Project Description
-:::1.2.2 Business Need
-:::1.2.3 Cost Management Plan
-:::1.2.4 Schedule Management Plan
-:::1.2.5 Scope Management Plan
-:::1.2.6 Change Management Plan
-:::1.2.7 Communications Management Plan
-:::1.2.8 Risk Management Plan
-:::1.2.9 Quality Management Plan
-:::1.2.10 Procurement Management Plan
-:::1.2.11 Human Resource Plan
-:::1.2.12 Implementation Plan
-:::1.2.13 Work Breakdown Structure
-:::1.2.14 Consolidated Management Plan
+:::1.2.2 Cost Management Plan
+:::1.2.3 Schedule Management Plan
+:::1.2.4 Scope Management Plan
+:::1.2.5 Change Management Plan
+:::1.2.6 Communications Management Plan
+:::1.2.7 Risk Management Plan
+:::1.2.8 Quality Management Plan
+:::1.2.9 Procurement Management Plan
+:::1.2.10 Human Resource Plan
+:::1.2.11 Implementation Plan
+:::1.2.12 Work Breakdown Structure
+:::1.2.13 Consolidated Management Plan
 ::1.3 '''Analysis'''
-:::1.3.1 Project Risk Analysis
-:::1.3.2 Cost Benefit Analysis
+:::1.3.1 Cost Benefit Analysis
+:::1.3.2 Project Risk Analysis
 ::1.4 '''Design'''
 :::1.4.1 Process Design
 :::1.4.2 User Interface
@@ -1372,7 +1371,7 @@ This is a hierarchical structure outlining the various stages involved in the Su
   <tr>
     <td>2</td>
     <td>1.2</td>
-    <td>Develop Project Charter and Plan</td>
+    <td>Develop Project Plan</td>
   </tr>
   <tr>
     <td>2</td>
@@ -1382,66 +1381,61 @@ This is a hierarchical structure outlining the various stages involved in the Su
   <tr>
     <td>3</td>
     <td>1.2.2</td>
-    <td>Business Need</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>1.2.3</td>
     <td>Cost Management Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.4</td>
+    <td>1.2.3</td>
     <td>Schedule Management Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.5</td>
+    <td>1.2.4</td>
     <td>Scope Management Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.6</td>
+    <td>1.2.5</td>
     <td>Change Management Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.7</td>
+    <td>1.2.6</td>
     <td>Communications Management Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.8</td>
+    <td>1.2.7</td>
     <td>Risk Management Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.9</td>
+    <td>1.2.8</td>
     <td>Quality Management Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.10</td>
+    <td>1.2.9</td>
     <td>Procurement Management Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.11</td>
+    <td>1.2.10</td>
     <td>Human Resource Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.12</td>
+    <td>1.2.11</td>
     <td>Implementation Plan</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.13</td>
+    <td>1.2.12</td>
     <td>Work Breakdown Structure</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>1.2.14</td>
+    <td>1.2.13</td>
     <td>Consolidated Management Plan</td>
   </tr>
   <tr>
@@ -1453,6 +1447,11 @@ This is a hierarchical structure outlining the various stages involved in the Su
     <td>3</td>
     <td>1.3.1</td>
     <td>Cost Benefit Analysis</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>1.3.2</td>
+    <td>Project Risk Analysis</td>
   </tr>
   <tr>
     <td>3</td>
@@ -1571,35 +1570,34 @@ This is a hierarchical structure outlining the various stages involved in the Su
   </tr>
   <tr>
     <td></td>
-    <td>1.2 Develop Project Charter and Plan</td>
+    <td>1.2 Develop Project Plan</td>
     <td>1.2.1 Project Description<br>
-        1.2.2 Business Need<br>
-        1.2.3 Cost Management Plan<br>
-        1.2.4 Schedule Management Plan<br>
-        1.2.5 Scope Management Plan<br>
-        1.2.6 Change Management Plan<br>
-        1.2.7 Communications Management Plan<br>
-        1.2.8 Risk Management Plan<br>
-        1.2.9 Quality Management Plan<br>
-        1.2.10 Procurement Management Plan<br>
-        1.2.11 Human Resource Plan<br>
-        1.2.12 Implementation Plan<br>
-        1.2.13 Work Breakdown Structure<br>
-        1.2.14 Consolidated Management Plan
+        1.2.2 Cost Management Plan<br>
+        1.2.3 Schedule Management Plan<br>
+        1.2.4 Scope Management Plan<br>
+        1.2.5 Change Management Plan<br>
+        1.2.6 Communications Management Plan<br>
+        1.2.7 Risk Management Plan<br>
+        1.2.8 Quality Management Plan<br>
+        1.2.9  Procurement Management Plan<br>
+        1.2.10 Human Resource Plan<br>
+        1.2.11 Implementation Plan<br>
+        1.2.12 Work Breakdown Structure<br>
+        1.2.13 Consolidated Management Plan<br>
     </td>
   </tr>
   <tr>
     <td></td>
     <td>1.3 Analysis</td>
-    <td>1.3.1 Project Risk Analysis<br>
-        1.3.2 Cost Benefit Analysis
+    <td>1.3.1 Cost Benefit Analysis <br>
+        1.3.2 Project Risk Analysis<br>
     </td>
   </tr>
   <tr>
     <td></td>
     <td>1.4 Design</td>
     <td>1.4.1 Process Design<br>
-        1.4.2 User Interface
+        1.4.2 User Interface<br>
     </td>
   </tr>
   <tr>
@@ -1607,7 +1605,7 @@ This is a hierarchical structure outlining the various stages involved in the Su
     <td>1.5 Testing</td>
     <td>1.5.1 System Test<br>
         1.5.2 User Acceptance Test<br>
-        1.5.3 Unit and Integration Testing
+        1.5.3 Unit and Integration Testing<br>
     </td>
   </tr>
   <tr>
@@ -1618,7 +1616,7 @@ This is a hierarchical structure outlining the various stages involved in the Su
         1.6.3 Determine Responsibilities<br>
         1.6.4 Delegate the Work<br>
         1.6.5 Monitor Progress<br>
-        1.6.6 Take Corrective Action
+        1.6.6 Take Corrective Action<br>
     </td>
   </tr>
   <tr>
@@ -1627,7 +1625,7 @@ This is a hierarchical structure outlining the various stages involved in the Su
     <td>1.7.1 Finalize Project Deliverables<br>
         1.7.2 Confirm Project Completion<br>
         1.7.3 Review all Contracts<br>
-        1.7.4 Review Documentation
+        1.7.4 Review Documentation<br>
     </td>
   </tr>
 </table>
@@ -1641,55 +1639,53 @@ This is a hierarchical structure outlining the various stages involved in the Su
 {| class="wikitable"
 ! Level !! WBS Code !! Element Name !! Definition
 |-
-| 1 || 1 || SurveiRams Ticketing System || All work to implement the modernized student management system.
+| 1 || 1 || SurveiRams Ticketing System || The project wherein the mobile application for digitizing incident reports and log will be done.
 |-
-| 2 || 1.1 || Initiation || The work to initiate the project.
+| 2 || 1.1 || Initiation || All the tasks involving starting the project.
 |-
-| 3 || 1.1.1 || Create Business Case || Provides justification for undertaking the project.
+| 3 || 1.1.1 || Create Business Case || Document that justifies the need for the project.
 |-
-| 3 || 1.1.2 || Conduct a Feasibility Study || To evaluate whether a project plan could be successful.
+| 3 || 1.1.2 || Conduct a Feasibility Study || Evaluates whether the project is possible to do or not.
 |-
-| 3 || 1.1.3 || Project Charter || Establishes the core details of the project's purpose and aims.
+| 3 || 1.1.3 || Project Charter || Outlines the details for the project.
 |-
-| 3 || 1.1.4 || Identify Stakeholders || Includes the identification and documentation of all project stakeholders, including their interests, impact, and potential negative influences.
+| 3 || 1.1.4 || Identify Stakeholders || Identification of all relevant people or departments to the project.
 |-
-| 3 || 1.1.5 || Final Review || Checking of the established initial documents and finalization.
+| 3 || 1.1.5 || Final Review || Reviewing and finalization of all initiation tasks.
 |-
-| 2 || 1.2 || Develop Project Charter and Plan || Provides core details and certain plans to make the project.
+| 2 || 1.2 || Develop a Project Plan || Provides core details and certain plans to make the project.
 |-
 | 3 || 1.2.1 || Project Description || Project Manager creates a Project Description.
 |-
-| 3 || 1.2.2 || Business Need || Pertain to the requirements of a public or private organization to run the specific department efficiently.
+| 3 || 1.2.2 || Cost Management Plan || Helps plan and manage a budget. It enables the project manager to estimate costs, allocate resources to the appropriate areas, and manage overall expenditures.
 |-
-| 3 || 1.2.3 || Cost Management Plan || Helps plan and manage a budget. It enables the project manager to estimate costs, allocate resources to the appropriate areas, and manage overall expenditures.
+| 3 || 1.2.3 || Schedule Management Plan || Details how the project's schedule will be created, managed, and monitored.
 |-
-| 3 || 1.2.4 || Schedule Management Plan || Details how the project's schedule will be created, managed, and monitored.
+| 3 || 1.2.4 || Scope Management Plan || To create project structure by documenting the resources required to achieve the project objectives.
 |-
-| 3 || 1.2.5 || Scope Management Plan || To create project structure by documenting the resources required to achieve the project objectives.
+| 3 || 1.2.5 || Change Management Plan || Outlines the structured approach to identifying, evaluating, and implementing changes in a project.
 |-
-| 3 || 1.2.6 || Change Management Plan || Outlines the structured approach to identifying, evaluating, and implementing changes in a project.
+| 3 || 1.2.6 || Communications Management Plan || Specifies how project information will be communicated, including stakeholders, channels, and frequency.
 |-
-| 3 || 1.2.7 || Communications Management Plan || Specifies how project information will be communicated, including stakeholders, channels, and frequency.
+| 3 || 1.2.7 || Risk Management Plan || This details the identification, assessment, and mitigation of project risks.
 |-
-| 3 || 1.2.8 || Risk Management Plan || This details the identification, assessment, and mitigation of project risks.
+| 3 || 1.2.8 || Quality Management Plan || This outlines the quality standards, processes, and metrics to ensure project deliverables meet requirements.
 |-
-| 3 || 1.2.9 || Quality Management Plan || This outlines the quality standards, processes, and metrics to ensure project deliverables meet requirements.
+| 3 || 1.2.9 || Procurement Management Plan || This specifies how project resources, goods, and services will be acquired and managed.
 |-
-| 3 || 1.2.10 || Procurement Management Plan || This specifies how project resources, goods, and services will be acquired and managed.
+| 3 || 1.2.10 || Human Resource Plan || Outlines the roles, responsibilities, and staffing requirements for project team members.
 |-
-| 3 || 1.2.11 || Human Resource Plan || Outlines the roles, responsibilities, and staffing requirements for project team members.
+| 3 || 1.2.11 || Implementation Plan || Outlines the activities, timeline, and resources required to execute project deliverables.
 |-
-| 3 || 1.2.12 || Implementation Plan || Outlines the activities, timeline, and resources required to execute project deliverables.
+| 3 || 1.2.12 || Work Breakdown Structure || A hierarchical breakdown of project tasks and deliverables, providing a visual representation of the project's scope.
 |-
-| 3 || 1.2.13 || Work Breakdown Structure || A hierarchical breakdown of project tasks and deliverables, providing a visual representation of the project's scope.
+| 3 || 1.2.13 || Consolidated Management Plan || An integrated document that combines various project management plans, providing a comprehensive overview of project management activities.
 |-
-| 3 || 1.2.14 || Consolidated Management Plan || An integrated document that combines various project management plans, providing a comprehensive overview of project management activities.
+| 2 || 1.3 || Analysis || Phase wherein certain variables will be assessed to ensure that the project is feasible and to create plans to mitigate anything that might hinder the process.
 |-
-| 2 || 1.3 || Analysis || To identify and articulate the need for change in how organizations work, and to facilitate that change.
+| 3 || 1.3.1 || Cost Benefit Analysis || Project costs and benefits will be compared to assess whether the benefits outweigh the cost.
 |-
-| 3 || 1.3.1 || Project Risk Analysis || Process of identifying, assessing, and analyzing potential risks that could affect the success of a project, allowing for proactive planning and mitigation strategies to be implemented.
-|-
-| 3 || 1.3.2 || Cost Benefit Analysis || Process that the team will use to analyze which decisions to make and which to forgo.
+| 3 || 1.3.2 || Project Risk Analysis || Using the Risk Management Plan as a guide for identifying, mitigating or avoiding, and controlling risks to be prepared should any of them occur.
 |-
 | 2 || 1.4 || Design || Process of defining the components, modules, interfaces, and data for a system to satisfy specified requirements.
 |-
@@ -1697,37 +1693,37 @@ This is a hierarchical structure outlining the various stages involved in the Su
 |-
 | 3 || 1.4.2 || User Interface || Anticipating what users may need to do and ensuring that the interface contains elements that are simple to access, comprehend, and use to facilitate those actions.
 |-
-| 2 || 1.5 || Testing || Team evaluates how the various components of the system interact together in the full, integrated system or application.
+| 2 || 1.5 || Testing || Evaluation of the overall performance of the application.
 |-
-| 3 || 1.5.1 || System Test || Level of testing that validates the complete and fully integrated software product.
+| 3 || 1.5.1 || System Test || Testing if the application's features are complete and meet the objectives.
 |-
-| 3 || 1.5.2 || User Acceptance Test || Type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment.
+| 3 || 1.5.2 || User Acceptance Test || Client and relevant stakeholders testing the application for approval.
 |-
-| 3 || 1.5.3 || Unit and Integration Testing || Involves testing modules of code to understand how they perform alone and how they interact with each other.
+| 3 || 1.5.3 || Unit and Integration Testing || Testing if the application works well with the devices to be used and debugging any errors.
 |-
-| 2 || 1.6 || Implementation || The work involved for the control process of the project.
+| 2 || 1.6 || Implementation || Relaying the application and new system/process to the end users.
 |-
-| 3 || 1.6.1 || Define Key Variables || Important aspects of the system.
+| 3 || 1.6.1 || Define Key Variables || Setting variables for identification.
 |-
-| 3 || 1.6.2 || Determine Roles || Refer to the tasks and duties of their particular role or job description.
+| 3 || 1.6.2 || Determine Roles || Identifying the different end users of the application.
 |-
-| 3 || 1.6.3 || Determine Responsibilities || The duty of a team member to perform organizational tasks, functions, or activities assigned to him.
+| 3 || 1.6.3 || Determine Responsibilities || Outlining the tasks each role has.
 |-
-| 3 || 1.6.4 || Delegate the Work || Transfer of responsibility for specific tasks from one person to another.
+| 3 || 1.6.4 || Delegate the Work || Giving the tasks to the end users.
 |-
-| 3 || 1.6.5 || Monitor Progress || Checking what has been done or spent in line with plans and schedules.
+| 3 || 1.6.5 || Monitor Progress || Keeping track of the end users' progress and updating the stakeholders and client.
 |-
-| 3 || 1.6.6 || Take Corrective Action || Action taken to eliminate the causes of non-conformities or other undesirable situations, so as to prevent recurrence.
+| 3 || 1.6.6 || Take Corrective Action || Mitigating any risks that occur.
 |-
-| 2 || 1.7 || Close Project || Finalizing all activities for the project, phase, or contract.
+| 2 || 1.7 || Close Project || Last phase of the project where various documentation is finalized.
 |-
-| 3 || 1.7.1 || Finalize Project Deliverables || All files and records are updated to reflect the modernized student management system.
+| 3 || 1.7.1 || Finalize Project Deliverables || Deliverables created are updated to ensure their contents are accurate.
 |-
-| 3 || 1.7.2 || Confirm Project Completion || All project-related files and documents are finalized.
+| 3 || 1.7.2 || Confirm Project Completion || Client will approve the completion of the project.
 |-
-| 3 || 1.7.3 || Review all Contracts || Thorough examination of a legal agreement before it is signed to ensure that everything stated in the document is clear and accurate, and that the organization is comfortable moving forward according to the terms of the agreement.
+| 3 || 1.7.3 || Review all Contracts || Contracts between client, stakeholders, and the project team will be reviewed to ensure all agreements were met.
 |-
-| 3 || 1.7.4 || Review Documentation || Determine the flow of information throughout the business process and map the transformation of data from raw data sources into the final information product.
+| 3 || 1.7.4 || Review Documentation || Finalizing all documents created during the project's lifecycle.
 |}
 
 ==10.7 Glossary of Terms==
@@ -1737,24 +1733,9 @@ This is a hierarchical structure outlining the various stages involved in the Su
 ! Terms
 ! Definition
 |-
-| Project Charter
-| A formal and concise document that provides a comprehensive overview of the project including its objectives, execution methodology, and stakeholders.
-|-
-| Level of Effort
-| Level of Effort (LOE) is how much work is required to complete a task.
-|-
 | WBS Code
 | A unique identifier assigned to each element in a Work Breakdown Structure for the purpose of designating the element's hierarchical location within the WBS.
 |-
 | Work Package
-| A Work Package is a deliverable or work component at the lowest level of its WBS branch.
-|-
-| WBS Component
-| A component of a WBS which is located at any level. It can be a Work Package or a WBS Element as there's no restriction on what a WBS Component is.
-|-
-| WBS Element
-| A WBS Element is a single WBS component and its associated attributes located anywhere within a WBS. A WBS Element can contain work, or it can contain other WBS Elements or Work Packages.
-|-
-| WBS Estimated Duration
-| The Estimated Duration in WBS refers to the amount of time that is expected to be required for completing a particular task or activity.
+|This is the lowest level of a work component.
 |}
