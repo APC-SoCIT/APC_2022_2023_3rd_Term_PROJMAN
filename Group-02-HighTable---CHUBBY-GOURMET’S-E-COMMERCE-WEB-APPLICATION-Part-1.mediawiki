@@ -58,7 +58,12 @@
 
 =Company Profile=
 <h2>Brief Background</h2>
-<p>Chubby Gourmet is a local food business that was founded by Priscilla Mariano, in April 2020 in Laguna Bel-Air, Sta. Rosa Laguna. They are currently a small enterprise that does all its operations in the comfort of its own home. They do not have any other established branches whatsoever, because they are in a proximity delivery kind of business. Their products vary from plates of pasta to chicken to desserts such as cookies, and they plan to offer catering services soon to their customers. </p>
+<p>CChubby Gourmet is a micro-enterprise established in Laguna Bel Air, Sta. Rosa Laguna during 2020. They sell and deliver freshly cooked food ranging from pastas to pizzas, to wings, to baked sweets, and regularly post on their Facebook page to promote their business. They also use Facebook messenger to communicate with their customers in terms of ordering, total bill payment, and arranging delivery. 
+Chubby Gourmet is a one-woman business and relies on time consuming tasks such as manually noting down orders and payment records on a notepad and managing inventory items on a whiteboard.
+Project: Chubby Gourmet’s E-commerce Web Application
+Chubby Gourmet’s E-Commerce Web Application will increase rate in organizing orders as most processes will be automated. The project also aims to extend the business into the e-commerce forefront, to gain an upper edge towards similar local micro-enterprises. The project will utilize the business owner’s knowledge on technology by executing an easy-to-understand yet stylish web application that they can manage on their own. 
+The web application should be able to work for both consumers’ side that browse the menu and order, and the administrator’s side that can manage a digitized form of inventory, order requests, and payment records. All hardware and software that will be required to create the output has been consulted with the client and has been placed into consideration what can be used.
+</p>
 
 =Business Case=
 ==Executive Summary==
@@ -67,9 +72,9 @@
 <p>After the global pandemic struck COVID-19 and social distance was enforced strictly across the country, businesses were forced to come up with new ways of being able to serve their customers. Whether it be by implementing an online e-commerce system, implementing a non-contact delivery system, etc. Either way, these kinds of solutions will always be a struggle to gain an edge for local micro-to-small enterprises such as Chubby Gourmet. Chubby Gourmet (established in 2020) is a micro-enterprise that focuses on offering their food products via delivery and is stationed within the village of Laguna Bel Air 1, Sta. Rosa Laguna.  </p>
 
 <h3>Issue</h3>
-<p>HighTable was fortunate enough to meet with the business owner, Priscilla Mariano, to assess and discuss the problems surrounding her business. The main issue that was discovered was her current system, which is manually doing tasks such as order taking, which she needs to manually note down via pen and paper through getting her customer’s order via Facebook Messenger. Another problem found in their current system was the inventory management of her ingredients, food containers, etc. The last problem Miss Mariano stated was that she had to constantly keep answering individual frequently asked questions from her customers, since her Facebook page does not have a Frequently Asked Questions portion. </p>
-
-<p>Overall, all of these tasks take up most of her time before even cooking the orders from her customers which causes a concern for her in the long run of her business. She wishes to find a more efficient way of handling orders, transactions, inventory management, and answering queries all in one platform. </p>
+<p>HighTable was fortunate enough to meet with the business owner, Priscilla Mariano, to assess and discuss the problems surrounding her business. The main issue that was discovered was her current system, which is manually doing tasks such as order taking, which she needs to manually note down via pen and paper through getting her customer’s order via Facebook Messenger. Another problem found in their current system was the inventory management of her ingredients, food containers, etc. The last problem Miss Mariano stated was that she had to constantly keep answering individual frequently asked questions from her customers, since her Facebook page does not have a Frequently Asked Questions portion.
+Overall, all of these tasks take up most of her time before even cooking the orders from her customers which causes a concern for her in the long run of her business. She wishes to find a more efficient way of handling orders, transactions, inventory management, and answering queries all in one platform.
+</p>
 
 <h3>Anticipated Outcomes</h3>
 <p>With the issues stated above, HighTable wishes to establish the following anticipated outcomes of the solution: </p>
@@ -78,7 +83,7 @@
   <li>Continuously improving and adjusting the project to the client’s needs with little-to-no issue</li>
   <li>Gain client satisfaction with little-to-no corrections needed</li>
 </ul>  
-<p>These anticipated outcomes will be guided by the client’s constant feedback, the group’s advisor, and thorough communication within the group. </p>
+<p>These anticipated outcomes will be guided by the project sponsor’s constant feedback and thorough communication within all related parties.</p>
 
 <h3>Recommendation</h3>
 <p>With the issues stated above, HighTable recommends implementing an e-commerce web application to help Chubby Gourmet. Upon entering the web application, the user will be able to see and use the following features: </p>
@@ -142,8 +147,7 @@
 
 <h3>Project Description</h3>
 <p>HighTable intends to implement an e-commerce web application in Chubby Gourmet’s current system. The web application would have the usual e-commerce functionalities, all the while adding a mobile app version for the mobile users to gain access to. </p>
-<p>The project will be managed/executed using the agile methodology because the group sees this method as an effective method to accomplish tasks efficiently. HighTable has been using this method to accomplish previous tasks for the past three terms and will continue to use it throughout the duration of the production of the project. </p>
-<p>The general purpose as to why this project is being conducted is because not only is HighTable accomplishing this for their pre-requisite deliverable for BSIT, but they see it as a need to help micro-to-small enterprises like Chubby Gourmet to excel in the field they work in. </p>
+<p>The project will be managed/executed using the agile methodology because the group sees this method as an effective method to accomplish tasks efficiently. HighTable has been using this method to accomplish previous tasks for previous projects and will continue to use it throughout the duration of the development of the project. </p>
 
 <h3>Goals and Objectives</h3>
 <p>HighTable intends to accomplish this project as effectively as possible and to help improve the current system Chubby Gourmet is using. These are the following specific objectives that the group must accomplish: </p>
@@ -204,9 +208,9 @@
 <h3>Project Constraints</h3>
 <p>Listed below are the following constraints of the production of the project: </p>
 <ul>
-  <li>HighTable will only be working within the designated timespan of the subject course Project Management (PROJAMAN) and any additional subject courses that are required for the development of the project. </li>
-  <li>HighTable will not be involved in any monetary transactions whatsoever in the development of the project, excluding funds needed in hosting the web application when the project is ready for release.</li>
-
+  <li>HighTable will only be working within the designated timespan of January 3, 2023, to October 25, 2023.</li>
+  <li>HighTable will only work within the allocated budget and development resources planned for the project.</li>
+<li>Throughout the development of the project, the project sponsor and the development team will only interact through the agreed online meeting services and will only physically meet once all pre-requisites have been met and the project progression is at the closeout phase.</li>
 </ul>  
 
 <h3>Major Project Milestones</h3>
@@ -217,57 +221,75 @@
 		<td bgcolor="lightblue"><p style="text-align:center;">Details</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Milestone 1 | MNTSDEV Deliverables <br>(Date 2021)  </p></td>
+		<td><p style="text-align:center;">Milestone 1 | Initiation
+(February 2, 2023)
+ </p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>The group has identified a client, project advisor, and client problem </li>
-  <li>The group has accomplished the necessary research and problem statements to propose solution </li>
-  <li>The group has successfully passed the first half of documentation of the proposed system. </li>
+  <li>-	The team has identified a project sponsor, its members, and the problem to resolve.</li>
+  <li>-	The team has accomplished creating the Business Case and Project Charter document.</li>
+  <li>-	The team has obtained Project Approval</li>
 </ul>  
  </p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Milestone 2 | MYSADD1 <br>(Date 2022)  </p></td>
-		<td><p style="text-align:center;">
-<ul>
-  <li>The group has accomplished the necessary diagrams for the proposed solution’s processes</li>
-  <li>The group has accomplished the second half of documentation </li>
-  <li>The group finishes drafting the front-end layout of the web application. </li>
-</ul>  
+		<td><p style="text-align:center;">Milestone 2 | Planning
+(June 2023)
 </p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Milestone 3 | MCSPROJ <br>(Date 2023) </p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>The group developed the following features in the web application: 
-<ul>
-  <li>Login and Register </li>
-  <li>Admin Dashboard </li>
-  <li>Category and Product Dashboard (Admin side) </li>
-<li>Menu, cart, checkout page of the store </li>
-  <li>Orders page (Admin side) </li>
-  <li>Payment creation </li>
-<li>Inventory page </li>
-  <li>Home page </li>
-  <li>Report page </li>
-</ul>  
+  <li>-	The team has accomplished creating the following documents:
+o	Scope Management Plan
+o	Schedule Management Plan
+o	Cost Management Plan
+o	Risk Management Plan
+o	Quality Management Plan
+o	Procurement Management Plan
+o	Human Resource Plan
+o	Change Management Plan
+o	Communication Management Plan
+o	Implementation Plan
 </li>
-  <li>The group finishes developing the front-end and backend of the web application. </li>
+  <li>-	The team has finished planning and designing the system’s architecture. </li>
+  <li>-	The Product Designer has finished creating the wireframes and user interface design.</li>
 </ul>  
 </p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Milestone 4 | PROJMAN <br>(June 2023) </p></td>
+		<td><p style="text-align:center;">Milestone 3 | Execution
+(September 20, 2023)
+</p></td>
+		<td><p style="text-align:center;">
+<ul>
+  <li>-	The team was able to set up the development environment for working on the project.
+</li>
+  <li>-	The Front-end developer has accomplished all front-end components of the system.</li>
+ <li>-	The Back-end developer has accomplished back-end components of the system.</li>
+ <li>-	The developers have integrated both front and backend components to the system.</li>
+ <li>-	The developers and the Project Manager have finished conducting the first unit testing on the system with the QA tester.</li>
+</ul>  
+</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Milestone 4 | Monitoring
+(October 4, 2023)
+</p></td>
 		<td><p style="text-align:center;"><ul>
-  <li>Finish further documentation of the project </li>
+  <li>-	Project Manager and Document Specialist has finished monitoring project progress and milestones.</li>
+ <li>-	Project Manager and Document Specialist has finished tracking resource utilization.</li>
+ <li>-	The Project Manager and Document Specialist has finished monitoring risks and issue resolution.</li>
+ <li>-	The team has finished system testing and quality assurance for the project.</li>
 </ul>  </p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Milestone 5 | SOFTDEV <br>(July 2023) </p></td>
+		<td><p style="text-align:center;">Milestone 5 | Closeout
+(October 25, 2023
+</p></td>
 		<td><p style="text-align:center;"><ul>
-  <li>Complete the full testing from the stakeholders to receive feedback for further improvement </li>
- <li>Complete all necessary documentation for stakeholders </li>
+  <li>-	The team has accomplished finalizing and delivering all project documentation.</li>
+ <li>-	The team has obtained formal acceptance from the project sponsor.</li>
+<li>-	The team has accomplished archiving all necessary project files.</li>
+<li>-	All handover project deliverables have been received by the project sponsor.</li>
 </ul>  </p></td>
 	</tr>
 </table>
@@ -283,29 +305,85 @@
 ==Cost Benefit Analysis==
 <p>This section of the paper presents a cost-benefit analysis for the Chubby Gourmet e-commerce web application project. The purpose of this analysis is to evaluate the financial feasibility of the project, considering both the costs and the expected benefits of the proposed system. The results of the analysis will help to determine whether the project is a worthwhile investment for the client. </p>
 
-<p>Benefits:<br>The Chubby Gourmet e-commerce web application could offer several benefits to the client once fully implemented, including: </p>
-<ul>
-  <li>The client can potentially increase their sales revenue by reaching a wider audience, which is estimated to be x0.5 of the current sales allowing them to better showcase their products and services, and providing an easier purchasing experience for customers; </li>
-  <li>With an integrated e-commerce platform, the client can streamline their operations, reducing their overall operating costs by consolidating their marketing, sales, and payment processing functions onto a single platform; </li>
-  <li>With a more user-friendly and seamless e-commerce platform, customers are more likely to become repeat customers, leading to better overall customer experience; and </li>
-<li>By utilizing an e-commerce platform, the client can expand their reach beyond their physical store location, tapping into new geographic markets and demographic segments that were previously untapped. </li>
-</ul>  
+<p>Costs:
+•	Labor cost: PHP 1,388,000.00 
+•	Hardware cost: PHP 206,656.00 
+•	Software cost: PHP 18,400.00 
+•	Miscellaneous costs: PHP 112,000.00 
+•	Contingency cost: PHP 172,505.00
+</p>
 
-<p>Costs:<br>The Chubby Gourmet e-commerce web application project has the following costs associated with it: </p>
-<ul>
-  <li>Hosting for the Chubby Gourmet e-commerce web application project is estimated to cost ₱99.00. </li>
-  <li>The cost of the domain for the project is estimated at ₱908.00. </li>
-  <li>The internet fee, which includes the cost of high-speed internet access required for the project's development and implementation, is expected to amount to ₱20,388.00. </li>
-<li>The other expenses for the Chubby Gourmet e-commerce web application project amount to ₱92,085.00 per year, covering electricity, ingredients, water, gas, and other operational costs necessary for the successful and efficient running of the e-commerce platform. </li>
-</ul>  
+<p>Benefits:
+•	Increased Revenue: By launching the Chubby Gourmet E-Commerce Web Application, the business can potentially increase its revenue by reaching a wider customer base and enabling online sales.
+•	Market Expansion: The online platform allows the business to target customers beyond its current geographical limitations, potentially expanding its market reach.
+•	Cost Savings: The implementation of the e-commerce platform can lead to cost savings by reducing expenses typically associated with utilities and staffing costs.
+•	Improved Customer Experience: The web application will provide customers with a convenient and user-friendly way to browse and purchase products, enhancing their overall shopping experience.
+</p>
 
-<p>The total cost of the project is ₱113,453.00 per year. </p>
+<p>Cost Benefit Analysis</p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Particulars</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Total (PHP)</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Manpower Cost
+ </p></td>
+		<td><p style="text-align:center;">1,388,000.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Hardware Cost
+ </p></td>
+		<td><p style="text-align:center;">206,656.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Software Cost
+ </p></td>
+		<td><p style="text-align:center;">18,400.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Miscellaneous Cost
+ </p></td>
+		<td><p style="text-align:center;">112,000.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Contingency Cost
+ </p></td>
+		<td><p style="text-align:center;">172,505.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Total Cost
+ </p></td>
+		<td><p style="text-align:center;">1,897,561.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Increased Revenue
+ </p></td>
+		<td><p style="text-align:center;">972,000.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Market Expansion
+ </p></td>
+		<td><p style="text-align:center;">648,000.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Cost Savings
+ </p></td>
+		<td><p style="text-align:center;">600,000.00</td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Improved Customer Experience
+ </p></td>
+		<td><p style="text-align:center;">200,000.00</td>
+	</tr>
+</table>
 
-<p>It is important to note that the costs associated with development and maintenance are excluded from the analysis as the project is being undertaken for academic purposes and not for commercial gain. Additionally, contingency costs are also not included as they are part of the development process. </p>
+<p>Cost Benefit Ratio ≈ 1.28 </p>
 
-<p>The cost difference between the current system and the proposed project is not significant since the existing devices and operational expenses can be used for the new system. However, the potential benefits of the project, such as increased reach and sales revenue, are expected to be significant due to the expanded customer base and improved user experience offered by the project. </p>
-
-<p>The cost-benefit analysis indicates that pursuing the Chubby Gourmet e-commerce web application project is worth pursuing for the business. While there will be initial costs associated with hosting, domain, internet and electricity fees, as well as operational expenses, the potential benefits of the project such as increased sales revenue, and improved customer experience and retention, are expected to outweigh the initial investment in the long run. </p>
+<p>The cost-benefit ratio of approximately 1.28 indicates that the total benefits outweigh the total costs. This suggests that the Chubby Gourmet E-Commerce Web Application project has the potential to be profitable and beneficial for the business.
+Considering the ratio is greater than 1, it indicates a positive net benefit. In this case, for every unit of cost invested (1 PHP), there is an estimated return of approximately 1.28 PHP in profits. This implies that the project is expected to generate more benefits than the costs incurred.
+The analysis shows that the project has the potential to generate increased revenue, market expansion, cost savings, and improved customer experience. These benefits contribute to the positive cost-benefit ratio, indicating a favorable outcome for implementing the e-commerce web application.
+</p>
 
 ==Alternatives Analysis==
 <p>This alternatives analysis aims to evaluate and compare the advantages and disadvantages of three options for the Chubby Gourmet business: doing nothing, using website builders, and hiring workers. The following sections present a detailed analysis of each option's pros and cons, including the reasons why they were not chosen as the proposed solution for the business. </p>
@@ -360,18 +438,15 @@ Conclusion:
 ==Project Purpose/Justification==
 <p>This section will discuss the purpose and justification of Chubby Gourmet’s E-Commerce Web Application in the form of a business case and will also discuss the objectives to be achieved in the project. The business will also provide reasoning behind the need for this project as it relates to the function of the business.</p>
 
-<h3>Business Need/Case</h3>
-<p>Chubby Gourmet’s E-Commerce Web Application was developed to automate manual tasks (inventory management, order taking, payment recording) in order to accomplish the business’ processes more efficiently. Ever since the pandemic struck, the shift of businesses to online platforms became a demand within market as customers saw it to be more convenient. Thus, seeing the need for Chubby Gourmet to take upon that shift as well. </p>
-
 <h3>Business Objectives</h3>
-<p>This section lists out the Business Objectives for Chubby Gourmet’s E-Commerce Web Application which is aligned the organizational strategic plan of the project. 
+<p>This section lists out the Business Objectives for Chubby Gourmet’s E-Commerce Web Application which is aligned the organizational strategic plan of the project. Below the team used the S.M.A.R.T criteria to list out the objectives of the project: 
 <ul>
-<li>The business objectives for this project are in direct support of the business owner which is Ms. Priscilla Mariano  </li>
-<li>Design and test the E-Commerce Web Application within the second term of School Year of 2022 – 2023. </li>
-<li>Complete the implementation of the E-Commerce 	Web Application and documentation of the project within the second term of School Year of 2022 – 2023. </li>
-<li>Reduce the amount of time managing order and inventory by 50% in the first year. </li>
+<li>Chubby Gourmet should be able to see a 50% increase in revenue by the first year of implementation.</li>
+<li>The proposed system will be able to save up on labor costs by acting as two key roles to the business: digital marketing handler (for market expanding) and inventory manager (cost savings).</li>
+<li>Daily customer frequency will increase by at least ten (10) customers per day instead of the current system’s average of six (6) customers. </li>
 </ul>
 </p>
+<p>All of these objectives are based off from the group’s Cost Benefit Analysis, which can be further explained through the Business Case Document. All figures are rough estimates and have been broken down into consideration of the development of the project.</p>
 
 ==Project Description==
 
@@ -384,10 +459,10 @@ Conclusion:
 <p>The objectives which mutually support the milestones and deliverables for this project have been identified. To achieve success with Chubby Gourmet’s E-Commerce Web Application, the following objectives must be met within the designated time and budget allocations:</p>
 
 <ul>
-  <li>Finalize the required proposal documents of Chubby Gourmet’s E-Commerce Web Application to present to the panelists, advisors, and the client herself within the past 2 terms and current term.</li>
-  <li>Create a working prototype to be tested and presented to the panelists and client within the same academic term.</li>
-  <li>Develop a complete web application with no bugs, errors, and all business information present and complete testing within the same academic term.</li>
-  <li>Implement the e-commerce web application in the client’s business within the same term. days</li>
+  <li>•	Finalize the required proposal documents of Chubby Gourmet’s E-Commerce Web Application to present to the project sponsor within the schedule.</li>
+  <li>•	Create a working prototype to be tested and presented to the project sponsor.</li>
+  <li>•	Develop a complete web application with no bugs, errors, and all business information present and complete testing within the schedule.</li>
+  <li>•	Implement the e-commerce web application in the project sponsor's business within the designated time.</li>
 </ul>
 
 <h3>Requirements</h3>
@@ -395,8 +470,8 @@ Conclusion:
 <p>This project must meet the following requirements in order to achieve success:</p>
 
 <ul>
-  <li>The web application must be tested and approved by the clients and panelists prior to deployment</li>
-  <li>All documentation must be approved and reviewed by the project advisor and panelists</li>
+  <li>•	The web application must be tested and approved by the project sponsor prior to deployment.</li>
+  <li>•	All documentation must be approved and reviewed by the project sponsor</li>
 </ul>
 
 <p>Additional requirements may be added as necessary as the project moves forward.</p>
@@ -419,7 +494,7 @@ Conclusion:
     <li>Inventory Management</li>
     <li>Generation of Reports</li>
   </ul>
-  <li>Two IT specialists and one documentation specialist will be provided as resources for this project</li>
+  <li>Two developers and one documentation specialist will be provided as resources for this project</li>
 </ul>
 
 <h3>Assumptions</h3>
@@ -427,33 +502,22 @@ Conclusion:
 <p>The following is the list of assumptions. Upon agreement and signing of this document, all parties acknowledge that these assumptions are true and correct:</p>
 
 <ul>
-  <li>This project has the full support of the client, panelists, and project advisor</li>
-  <li>The developers and documentation specialists will be communicating their needs to one another throughout the development of the project</li>
-<li>The project advisor will provide additional resources and help if necessary </li>
+  <li>•	This project has the full support of the project sponsor.</li>
+  <li>•	The developers and documentation specialists will be communicating their needs to one another throughout the development of the project.</li>
 </ul>
 
 <h3>Preliminary Scope Statement</h3>
-<p>The development of Chubby Gourmet’s E-commerce Web Application will include the design, testing, and delivery of an improved online platform for the business. All personnel, hardware, and software resources will be managed by the product owner.  All project work will be independent of daily and ongoing schoolwork and business, and all required testing will be done in within the group up to their discretion.  All project funding will be managed by the product owner up to and including the allocated amounts in this document.  This project will conclude when they receive the feedback from the client, the output has achieved the success criteria, and the group has received a signed project acceptance/completion document from both the PBL head and the client. This feedback and signed acceptance/completion documents will be then sent to the panelists and advisor for review and confirmation of the success of the project.</p>
+<p>The development of Chubby Gourmet’s E-commerce Web Application will include the design, testing, and delivery of an improved online platform for the business. All personnel, hardware, and software resources will be managed by the product manager.  All project work will be independent of daily and ongoing schoolwork and business, and all required testing will be done within the group up to their discretion.  All project funding will be managed by the product owner up to and including the allocated amounts in this document.  This project will conclude when they receive feedback from the project sponsor, the output has achieved the success criteria, and the group has received a signed project acceptance/completion document from the project sponsor. This feedback and signed acceptance/completion documents will be archived for safekeeping and for future refence if needed.</p>
 ==Risks==
-  <p>The following risks for Chubby Gourmet’s E-commerce Web Application have been identified.  The product owner and developers will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:</p>
-  <ul>
-    <li><strong>Risk:</strong> The group may miss certain deadlines pertaining to the project due to other schedules they are taking in the 1st semester.</li>
-    <ul>
-      <li><strong>Mitigation:</strong> The group schedules needed meetings ahead, to keep track of the tasks that are needed to be accomplished within the week.</li>
-    </ul>
-    <li><strong>Risk:</strong> At first, customers might have a hard time to adjust since the business started on Facebook.</li>
-    <ul>
-      <li><strong>Mitigation:</strong> The web application was designed carefully to make each feature noticeable and easy to navigate.</li>
-    </ul>
-    <li><strong>Risk:</strong> Customers might input a wrong GCash transaction number</li>
-    <ul>
-      <li><strong>Mitigation:</strong> Customers can send the correct GCash transaction number through the “transaction number issue” feature. This will help the administrator to validate the payment correctly.</li>
-    </ul>
-    <li><strong>Risk:</strong> Customers from other areas aside from NCR and Laguna might stop their interest in the web application because they are not covered with the range of delivery.</li>
-    <ul>
-      <li><strong>Mitigation:</strong> A note will be displayed on the home page so that customers can see right away which areas are available for delivery.</li>
-    </ul>
-  </ul>
+  <p>The following risks for Chubby Gourmet’s E-commerce Web Application have been identified.  The product owner and developers will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:  </p>
+
+ <p>1.	Resource Risks: There is a risk that the project may not have sufficient resources, such as personnel, budget, or equipment, which could impede the successful completion of the project.
+<br>2.	Technical Risks: There is a risk of mistakes or errors made by project team members, which could impact the project's progress, quality, or functionality.
+<br>3.	Quality Assurance Risks: There is a risk that the quality assurance of the project may not be able to reach the quality the team had initially planned and may cause further delay before completion.
+<br>4.	Communication Risks: There is the risk of the group committing miscommunication amongst each other and towards the project sponsor.
+<br>5.	Vendor or Supplier Risks: There is a risk that the appointed vendor/supplier may be unavailable and can cause some deviation from the project’s initial milestone plan.
+<br>6.	External Factors Risks: There is the risk of external factors that neither the team nor the project sponsor can do. External factors may include hazardous weather conditions, health conditions, etc.
+</p>
 ==Project Deliverables==
   <p>The following deliverables must be produced upon the successful completion of the Chubby Gourmet’s E-commerce Web Application project.  Any changes to these deliverables must be approved by the PBL head, Mr. Sanchez.</p>
   <ul>
@@ -472,41 +536,37 @@ Conclusion:
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Project Start</p></td>
-		<td><p style="text-align:center;">03/30/2022</p></td>
+		<td><p style="text-align:center;">01/03/2023</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Complete MNTSDEV Documents </p></td>
-		<td><p style="text-align:center;">06/15/2022 </p></td>
+		<td><p style="text-align:center;">Initiation Phase</p></td>
+		<td><p style="text-align:center;">02/02/2023</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Complete MSYADD1 Documents </p></td>
-		<td><p style="text-align:center;">11/14/2022 </p></td>
+		<td><p style="text-align:center;">Planning Phase</p></td>
+		<td><p style="text-align:center;">06/02/2023</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Complete MCSPROJ1 Documents and Deliverables </p></td>
-		<td><p style="text-align:center;">03/01/2023</p></td>
+		<td><p style="text-align:center;">Execution Phase</p></td>
+		<td><p style="text-align:center;">09/20/2023</p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Complete PROJMAN Documents </p></td>
-		<td><p style="text-align:center;">To be Updated </p></td>
+		<td><p style="text-align:center;">Monitoring Phase</p></td>
+		<td><p style="text-align:center;">10/04/2023</p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Complete SOFTDEV Deliverables </p></td>
-		<td><p style="text-align:center;">To be Updated </p></td>
+		<td><p style="text-align:center;">Closeout Phase</p></td>
+		<td><p style="text-align:center;">10/20/2023</p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Deploy Solution</p></td>
-		<td><p style="text-align:center;">To be Updated </p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Project Complete </p></td>
-		<td><p style="text-align:center;">To be Updated </p></td>
+		<td><p style="text-align:center;">Clouse out Meeting</p></td>
+		<td><p style="text-align:center;">10/25/2023</p></td>
 	</tr>
 
 </table>
 
 ==Project Approval Requirements==
-<p>Success of the project will be achieved when a fully functioning e-commerce web application has been developed, all required documentation submitted and reviewed, and the project has been fully deployed for the client to use within the time and cost constraints indicated in the charter.  Additionally, this measure of success must be able to follow the success criteria and include a feedback review from the client. Lastly, success will be determined by the project advisor, Ms. Jo Anne De la Cuesta, who will also authorize the completion of the project. </p>
+<p>Success of the project will be achieved when a fully functioning e-commerce web application has been developed, all required documentation submitted and reviewed, and the project has been fully deployed for the project sponsor to use within the time and cost constraints indicated in the charter.  Additionally, this measure of success must be able to follow the success criteria and include a feedback review from the project sponsor.</p>
 
 ==Project Manager==
 <p>Gianna Artajos is the Product Owner for the duration of the development of PBL Project.  Ms. Artajos’ responsibility is to manage all project tasks, scheduling, and communication between the team and the client. The team, consists of two IT specialists (John Rysal Rosel and Lester Dave Salazar) and one documentation specialist (Marcus Philip Flores).  Ms. Artajos will coordinate all resource requirements amongst the IT specialists.  Their project advisor (Ms. Jo Anne De la Cuesta) is authorized to approve all budget expenditures up to, and including, the allocated budget amounts.  Any additional assigned tasks and requirements will be conducted by the PBL head Mr. Sebastian Sanchez and so all updates will be given to and received by Mr. Sanchez.  </p>
@@ -557,6 +617,13 @@ Conclusion:
     <td>Internal User of the system / Admin</td>
     <td>priscillamariano403@gmail.com</td>
   </tr>
+<tr>
+    <td>Customers</td>
+    <td>Consumers</td>
+    <td>External</td>
+    <td>Main consumers of deployed proejct</td>
+    <td>-</td>
+  </tr>
 </table>
 <br>
 
@@ -582,7 +649,7 @@ Conclusion:
 <td><p style="text-align:center;">Strong business understanding, leadership skills, and a clear understanding of the industry and market trends. </p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Product Owner</p></td>
+		<td><p style="text-align:center;">Project Manager</p></td>
 <td><p style="text-align:center;">Responsible for project planning, execution, and resource management. </p></td>
 		<td><p style="text-align:center;">Defining project scope, creating and managing the project schedule, coordinating team members, tracking progress, and ensuring timely delivery of project milestones. </p></td>
 <td><p style="text-align:center;">Project management skills, leadership, strong organizational skills, communication skills, and the ability to manage risks and resolve conflicts. </p></td>
@@ -608,7 +675,9 @@ Conclusion:
 </table>
 
 ==Project Organizational Chart==
-<p>The Project Organizational Chart for Chubby Gourmet provides a visual representation of the project team and their relationships. At the top of the chart is the Business Owner who is responsible for the overall success of the project, followed by the Product Owner who oversees the project's resources, scope, and schedule. The Scrum Master and Product Developer are also included in the chart to show their roles in facilitating the development process and ensuring product delivery. Finally, the Product Designer is responsible for creating and delivering the design elements for the project. The chart helps to clarify the roles and responsibilities of each team member, ensuring that everyone is aligned with the project's goals and objectives. </p>
+<p>The Project Organizational Chart for Chubby Gourmet portrays the project team and their interrelationships. Leading the chart is the Business Owner, who holds ultimate responsibility for the project's overall success. Next in line is the Project Manager, who not only supervises the project's resources, scope, and schedule but also assumes the role of the QA Tester, ensuring the quality of the product. Additionally, the Scrum Master, in addition to facilitating the development process, takes on the responsibility of being the Documentation Specialist, ensuring comprehensive and accurate project documentation. The Product Designer, on the other hand, not only creates and delivers the design elements but also fulfills the role of the Front-End Developer, implementing the visual aspects of the project. Lastly, the Back-End Developer is responsible for handling the technical aspects and functionality of the product. 
+As the team consists of four members, some individuals take on multiple roles, enabling a streamlined and efficient workflow. The organizational chart serves as a valuable tool in clarifying the roles and responsibilities of each team member, fostering alignment with the project's objectives, and promoting effective collaboration.
+</p>
 
 
 
@@ -763,28 +832,27 @@ Conclusion:
 
 <ul>1. Chubby Gourmet Web Application 
 <ul>
-<ul>1.1 Planning 
+<ul>1.1 Initiation 
 <ul>
-<ul>1.1.1 Project Preparation
-<ul>
-<ul>1.1.1.1 Creation of project group</ul>
-<ul>1.1.1.2 Choose project/client</ul>
-<ul>1.1.1.3 Choose adviser/consultant</ul>
-<ul>1.1.1.4 Design Thinking 1</ul>
+<ul>1.1.1 Develop Business Case
 </ul>
+<ul>1.1.2 Develop Project Charter
+</ul>
+<ul>1.1.3 Obtain Project Approval
 </ul>
 
-<ul>1.1.2 Team Meetings
+<ul>1.2 Planning
 <ul>
-<ul>1.1.2.1 Client meeting 1</ul>
-<ul>1.1.2.2 Adviser meeting 1</ul>
-<ul>1.1.2.3 Client meeting 2</ul>
-<ul>1.1.2.4 Adviser meeting 2</ul>
-<ul>1.1.2.5 Adviser meeting 3</ul>
-<ul>1.1.2.6 Client meeting 3</ul>
-<ul>1.1.2.7 Adviser meeting 4</ul>
-<ul>1.1.2.8 Adviser meeting 5</ul>
-<ul>1.1.2.9 Adviser meeting 6</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
+<ul>1.1.2 Client meeting 1</ul>
 </ul>
 </ul>
 
