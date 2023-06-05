@@ -174,74 +174,59 @@ External factors such as regulatory changes, market conditions, natural disaster
 <td><p style="text-align:center;">E</p></td>
 	</tr>
 </table>
-<p>Technical Risks: </p>
-<ul>
-<li>High Probability and High Impact  </li>
-<li>Lack of technical expertise to develop the system. E4   </li>
-<li>System performance and scalability may not meet the expected user demand. E4 </li>
-<li>Failure of the new system to integrate with the current systems. E4  </li>
-<li>Software bugs and errors impacting functionality and user experience. E5 </li>
-<li>Data corruption or loss due to inadequate backup and recovery processes. E5 </li>
-</ul>
-<p>Resource Risks: </p>
-<ul>
-<li>High Probability and Medium Impact </li>
-<li>Insufficient availability of skilled developers and designers. E5 </li>
-<li>Budget constraints affect the procurement of necessary tools and resources. E5 </li>
-<li>Inadequate hardware or infrastructure resources for hosting and deployment. E4 </li>
-<li>Lack of access to necessary software licenses or subscriptions. E5 </li>
-</ul>
-
-<p>Security Risks: </p>
-<ul>
-<li>Medium probability and Medium impact     </li>
-<li>Unauthorized access to the system – L3 </li>
-<li>Insufficient user authentication and authorization mechanisms – L3 </li>
-<li>Inadequate data encryption during transmission and storage – L3 </li>
-</ul>
-<p>Based on the aforementioned prioritization, our primary focus will be on formulating mitigation strategies for the extreme and high priority risks in the Chubby Gourmet's System project. We will maintain continuous monitoring of the medium and low priority risks and develop mitigation strategies if necessary. Negligible priority risks will be disregarded due to their minimal probability of occurrence and negligible impact on the project. </p>
-<p>To align this risk qualification and prioritization with the agile risk management plan, we will consistently review and update the risk register throughout the project. Furthermore, we will ensure that risks are incorporated into sprint planning, enabling the team to be aware of the risks and plan accordingly. Additionally, we will actively encourage the team to identify and report any new risks they encounter during the course of the project. </p>
+<p>By integrating the risk assessment matrix into the risk management plan of the Chubby Gourmet's System project, we will establish a systematic approach to identifying, prioritizing, and addressing risks. Regular reviews and updates to the risk register, along with the inclusion of risks in sprint planning, will foster a proactive risk management process within the agile framework. This will enable the project team to effectively mitigate potential threats and maintain project progress with a well-informed and prepared approach. </p>
 <p></p>
 
 
 ==Risk Monitoring==
 <p>The Agile Risk Management Plan for the Chubby Gourmet project establishes a systematic approach to monitor and manage risks throughout the project's lifecycle. The plan emphasizes the importance of continuous risk monitoring and documentation, including the identification of trigger conditions that may initiate risks. </p>
-<p>To implement the plan effectively, the project manager will integrate high-scoring risks into the project schedule and designate a risk manager responsible for overseeing their monitoring. The risk manager will work closely with the project manager to determine the appropriate level of attention needed for each risk and provide regular updates during bi-weekly project team meetings. The risk manager will also maintain a record of the identified trigger conditions for each risk. </p>
-<p>Ensuring awareness of the identified risks and their potential impact, the project manager will communicate this information to the entire project team. The team members will be encouraged to promptly notify the risk manager of any new risks or changes to existing risks they observe. The risk manager will then assess and prioritize these new risks accordingly. </p>
-<p>During the weekly team meetings, the risk manager will report on the status of identified risks, any newly identified risks, and the effectiveness of the implemented mitigation plans. Collaboratively, the project team and the risk manager will review and make necessary adjustments to the risk management plan based on the evolving project circumstances. </p>
+
+<p>To implement the plan effectively, the project manager will integrate high-scoring risks into the project schedule and designate a document specialist responsible for overseeing their monitoring. The Document Specialist will work closely with the project manager to determine the appropriate level of attention needed for each risk and provide regular updates during weekly project team meetings. The document specialist will also maintain a record of the identified trigger conditions for each risk. </p>
+
+<p>Ensuring awareness of the identified risks and their potential impact, the project manager will communicate this information to the entire project team. The team members will be encouraged to promptly notify the document specialist of any new risks or changes to existing risks they observe. The document specialist will then assess and prioritize these new risks accordingly. </p>
+
+<p>During the weekly team meetings, the document specialist will report on the status of identified risks, any newly identified risks, and the effectiveness of the implemented mitigation plans. Collaboratively, the project team and the document specialist will review and make necessary adjustments to the risk management plan based on the evolving project circumstances. </p>
+
 <p>In summary, the Chubby Gourmet project team will adopt an agile risk management methodology, focusing on continuous improvement and adaptability. The effectiveness of the risk management plan will be regularly evaluated and modified as required, ensuring the project's objectives are achieved while maintaining the desired quality standards. </p>
 
 
 ==Risk Monitoring and Avoidance==
 <p>To effectively mitigate and avoid potential risks in the Chubby Gourmet project, the project team will develop a risk management plan that prioritizes each identified risk. Strategies will be implemented to address probable delays, including creating backup plans, allocating additional resources, or modifying project timelines. Continuous assessment of the mitigation techniques will be conducted in collaboration with stakeholders to ensure their effectiveness. </p>
+
 <p>The following key considerations and options will be employed by the project manager for risk mitigation and avoidance: </p>
 <ul>
 <li>Resource Allocation: The project manager will ensure that the project team has the necessary resources, such as skills, expertise, knowledge, tools, and equipment, to successfully complete the project within the defined budget and timeline. </li>
+
 <li>Risk Assessment: The project team will conduct a comprehensive risk assessment early in the project to identify and analyze potential risks thoroughly. Prompt actions will be taken to address and mitigate these risks. </li>
+
 <li>Contingency Planning: Backup plans and contingencies will be developed to be prepared for potential risks. The project manager will oversee the development, testing, and confirmation of these contingency plans for each identified risk. </li>
-<li>Communication: Clear and open communication channels will be promoted by the project manager to minimize risks and prevent misunderstandings among the project team, clients, and stakeholders. </li>
+
+<li>Communication: Clear and open communication channels will be promoted by the project manager to minimize risks and prevent misunderstandings among the project team, project sponsor, and stakeholders. </li>
+
 <li>Agile Approach: The project team will adopt an Agile methodology, enabling ongoing risk management and providing flexibility and responsiveness to address changes. The project manager will ensure adherence to the Agile principles throughout the project. </li>
+
 <li>Change Management: A clear change management process will be established to handle unexpected changes. The project team will document, communicate, and obtain approval from relevant stakeholders for any changes, effectively managing and preventing potential risks. </li>
 </ul>
-<p>By implementing these risk mitigation and avoidance strategies, the Chubby Gourmet project team aims to proactively manage and address potential risks, ensuring the successful completion of the project within the defined objectives and quality standards. </p>
 
 
 ==Risk Register==
-<p>Risk Register, is an essential document that will be regularly updated throughout the Chubby Gourmet's System project, will encompass a comprehensive description of each risk, including its likelihood, potential impacts, and any mitigation measures undertaken. To ensure its alignment with the project's current status, the risk register will undergo periodic reviews and updates. All stakeholders will have access to the centralized risk register, which will be stored in a designated location. </p>
+<p>Risk Register, is an essential document that will be regularly updated throughout the Chubby Gourmet's System project, will encompass a comprehensive description of each risk, including its likelihood, potential impacts, and any mitigation measures undertaken. To ensure its alignment with the project's status, the risk register will undergo periodic reviews and updates. All stakeholders will have access to the centralized risk register, which will be stored in a designated location. </p>
+
 <p>This risk management approach, characterized by early and frequent risk identification, collaborative risk management, and continuous risk monitoring, aligns well with the principles of Agile methodology. By anticipating and addressing potential risks, the Chubby Gourmet's System project team can mitigate their impacts and enhance the project's likelihood of success. Moreover, to facilitate efficient risk management, the project team will employ a cloud-based project management tool such as Jira, Asana, or Trello to maintain the risk register as a shared document. This tool will enable tracking and prioritization of risks, assignment of responsibilities, and monitoring of progress in risk mitigation efforts. </p>
+
 <p>The following criteria will be used for the risk register: </p>
 <ul>
 <li>Risk ID - each risk will be assigned a unique identifier.     </li>
+
+<li>Risk Category - will classify risks into technical, Resource, Communication, Project, Quality, Vendor, External. </li>
+
 <li>Risk Description - there will be a clear and concise description of the risk event.     </li>
-<li>Risk Category - will classify risks into technical, organizational, or legal categories.     </li>
-<li>Risk Owner - will be responsible for monitoring and managing each risk.     </li>
-<li>Probability - likelihood of a risk occurring is assessed using a scale of 1 to 5, with 1 indicating the lowest likelihood and 5 indicating the highest.     </li>
-<li>Impact - the risk's potential impact on the project is rated on a scale of 1 to 5, with 1 indicating the least significant impact and 5 indicating the most significant impact.     </li>
-<li>Risk Score - the probability and impact scores are multiplied to determine the overall risk score.     </li>
-<li>Mitigation Strategy - outlines the specific measures to be taken to mitigate the risk.     </li>
-<li>Status - risk's current status, whether it is open, in progress, or closed, is also documented.    </li> 
-<li>Target Resolution Date - anticipated date for risk resolution to be resolved. </li>
-</ul>
+
+<li>Risk Destination/Owner - will be responsible for monitoring and managing each risk.</li>
+
+<li>Probability - likelihood of a risk occurring is assessed using a scale of High to Low, with Low indicating the lowest likelihood and High indicating the highest. </li>
+
+<li>Impact - the risk's potential impact on the project is rated on a scale of High to Low, with Low indicating the least significant impact and High indicating the most significant impact. </li>
 
 <p>Risk Register:</p>
 <table border="1" width="70%" align="center">
