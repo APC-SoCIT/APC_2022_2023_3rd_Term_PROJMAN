@@ -2288,7 +2288,7 @@ Overall, the human resources management plan acts as a roadmap for the project t
   </table>
 
 <h2>Project Organizational Charts</h2>
-<p>Project organizational chart of the Dispatch Directory System provides a visual representation of the project team and the relationships between the key stakeholders. The project sponsor is typically at the top of the chart, followed by the project manager who is responsible for managing the project's resources, scope, and schedule. An internal user of the system, such as the CREST Team, may also be included to provide input on the system requirements and participate in user testing. Two external users of the system (TELUS Technicians, and TELUS Managers) may also be included to provide feedback on the system's usability and functionality. The organizational chart helps to clarify the roles and responsibilities of each stakeholder, ensuring that everyone is aligned with the project's goals and objectives.</p>
+
 
 ![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002947/9793dc8b-c47f-4e77-b48e-f41979eabde2)
 
@@ -2724,14 +2724,14 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Manager of Operations</td>
       <td>Internal</td>
       <td>Project Sponsor</td>
-      <td>mir.tolentino@telusinternational.com</td>
+     
     </tr>
     <tr>
       <td>CREST Team</td>
       <td>-</td>
       <td>Internal</td>
       <td>Internal User of the system</td>
-      <td>CREST@telus.com</td>
+      
     </tr>
     <tr>
       <td>-</td>
@@ -2741,25 +2741,25 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>-</td>
     </tr>
     <tr>
-      <td>TELUS Technicians</td>
+ 
       <td>-</td>
       <td>External</td>
       <td>External user of the system</td>
-      <td>Cablerepair@telus.com</td>
+ 
     </tr>
     <tr>
-      <td>TELUS Managers</td>
+
       <td>-</td>
       <td>External</td>
       <td>External user of the system</td>
-      <td>cnoemanagers@telus.com</td>
+
     </tr>
     <tr>
       <td>Roselyn Angeles</td>
       <td>Consultant</td>
       <td>External</td>
       <td>Project Manager</td>
-      <td>roselyn.angeles@telusinternational.com</td>
+
     </tr>
     <tr>
       <td>-</td>
@@ -3702,7 +3702,6 @@ The following are the roles and duties for the quality management plan: </p>
       <tr>
         <td>Change Control Board Chair</td>
         <td>Ms. Mitzi Garcia</td>
-        <td>Mir.tolentino@telusinternati onal.com</td>
         <td>Approve or deny high impact changes.<br>Has the responsibility to review the low impact changes and can overturn decisions made by the Project Manager about change requests.</td>
       </tr>
       <tr>
