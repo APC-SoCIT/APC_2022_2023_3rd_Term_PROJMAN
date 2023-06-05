@@ -1,40 +1,6 @@
 =Project Title=
 <h1>Chubby Gourmet E-Commerce Web Application</h1>
 
-=Quality Management Plan=
-==Introduction==
-<p>The Quality Management Plan for the Chubby Gourmet project is a fundamental component of the overall project management plan. This plan outlines the strategies, processes, and procedures that will be employed to effectively manage and ensure quality throughout the entire project lifecycle. </p>
-<p>The primary objective of the Quality Management Plan is to provide a clear and comprehensive description of how quality will be planned, assured, and controlled. By establishing a systematic approach, the plan aims to prevent and mitigate potential risks associated with poor quality, while promoting the delivery of high-quality project outcomes. </p>
-<p>The plan encompasses various aspects of quality management, including quality requirements, assurance, and control. It defines the specific activities, tools, and techniques that will be employed to identify, assess, and address quality requirements and expectations. By adhering to these processes and procedures, the project team will be equipped to proactively manage and enhance the quality of project deliverables. </p>
-
-==Quality Management Approach==
-<p>The Quality Management Approach for the Chubby Gourmet project will employ an Agile and Scrum methodology to ensure that the project consistently delivers high-quality outcomes that meet or exceed stakeholders' expectations. This approach emphasizes iterative development, frequent customer collaboration, and continuous improvement to achieve optimal quality throughout the project's lifecycle.  </p>
-<p>The following roles and responsibilities are defined within the quality management approach: </p>
-
-<table border="1" width="70%" align="center">
-	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
-<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Product Owner</p></td>
-<td><p style="text-align:center;">The Product Owner will ensure that the final product satisfies the stakeholders' quality requirements. She will oversee the overall quality management process and work closely with the project team to address any quality-related issues. </p></td>
-</tr>
-<tr>
-		<td><p style="text-align:center;">Scrum Master</p></td>
-<td><p style="text-align:center;">The Scrum Master will be responsible for promoting and enforcing the adherence to the Scrum framework. He will facilitate team collaboration, remove any impediments, and ensure that quality is embedded within the Agile development process. </p></td>
-</tr>
-<tr>
-		<td><p style="text-align:center;">Product Developer</p></td>
-<td><p style="text-align:center;">The Product Developer will be responsible for producing high-quality code and ensuring that the developed features meet the specified requirements. </p></td>
-</tr>
-<tr>
-		<td><p style="text-align:center;">Product Designer</p></td>
-<td><p style="text-align:center;">The Product Designer will ensure that the user interface and user experience of the Chubby Gourmet web application meet the highest quality standards. He will incorporate user-centered design principles, conduct usability testing, and iterate based on stakeholders’ feedback to optimize the product's usability and visual appeal. </p></td>
-</tr>
-</table>
-
-<p>The Quality Management Approach will be integrated into every phase of the project, with the entire team actively involved in ensuring quality standards are met. It will embrace the principles of Agile and Scrum, emphasizing iterative development, customer feedback, and continuous improvement. By utilizing the Agile and Scrum methodology as the quality management approach, the Chubby Gourmet project aims to foster a culture of collaboration, flexibility, and continuous improvement, enabling the team to consistently deliver a high-quality web application that fulfills the needs and expectations of its users. </p>
 
 ==Quality Requirements/Standards==
 <p>The Quality Requirements/Standards for the Chubby Gourmet project encompass both the product and process aspects, aiming to ensure the delivery of a high-quality web application. The project team will actively identify and document these requirements and standards, demonstrating compliance throughout the project lifecycle. </p>
