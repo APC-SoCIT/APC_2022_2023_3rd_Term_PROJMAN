@@ -232,48 +232,68 @@ External factors such as regulatory changes, market conditions, natural disaster
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">RISK ID</p></td>
-<td bgcolor="lightblue"><p style="text-align:center;">RISK RANK</p></td>
 		<td bgcolor="lightblue"><p style="text-align:center;">RISK</p></td>
 <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
 <td bgcolor="lightblue"><p style="text-align:center;">CATEGORY</p></td>
-<td bgcolor="lightblue"><p style="text-align:center;">DESTINATION</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">DESTINATION/OWNER</p></td>
 <td bgcolor="lightblue"><p style="text-align:center;">PROBABILITY</p></td>
 <td bgcolor="lightblue"><p style="text-align:center;">IMPACT</p></td>
-<td bgcolor="lightblue"><p style="text-align:center;">STATUS</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">RID 001</p></td>
-<td><p style="text-align:center;">1</p></td>
-		<td><p style="text-align:center;">Technical Risk</p></td>
-<td><p style="text-align:center;">Compatibility issues with different web browsers and devices. </p></td>
-<td><p style="text-align:center;">Technical</p></td>
-<td><p style="text-align:center;"> Technical  Lead</p></td>
+<td><p style="text-align:center;">RID 001</p></td>
+<td><p style="text-align:center;">Scope Creep</p></td>
+<td><p style="text-align:center;">Scope creep refers to the uncontrolled expansion or addition of features, requirements, or objectives of a project.</p></td>
+<td><p style="text-align:center;">Project</p></td>
+<td><p style="text-align:center;"> Project Manager</p></td>
+<td><p style="text-align:center;">Medium</p></td>
 <td><p style="text-align:center;">High</p></td>
-<td><p style="text-align:center;">High</p></td>
-<td><p style="text-align:center;">In progress</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">RID 002</p></td>
-<td><p style="text-align:center;">2</p></td>
-		<td><p style="text-align:center;">Technical Risk</p></td>
-<td><p style="text-align:center;">System performance and scalability may not meet the expected user demand. </p></td>
-<td><p style="text-align:center;">Technical</p></td>
-<td><p style="text-align:center;"> Project  Manager</p></td>
+<td><p style="text-align:center;">RID 002</p></td>
+<td><p style="text-align:center;">Resource Constraint</p></td>
+<td><p style="text-align:center;">Insufficient or misallocation of resources impacting project development.</p></td>
+<td><p style="text-align:center;">Resource</p></td>
+<td><p style="text-align:center;"> Project Manager</p></td>
 <td><p style="text-align:center;">High</p></td>
 <td><p style="text-align:center;">High</p></td>
-<td><p style="text-align:center;">In progress</p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">RID 003</p></td>
-<td><p style="text-align:center;">3</p></td>
-		<td><p style="text-align:center;">Technical Risk</p></td>
-<td><p style="text-align:center;">Integration challenges with third-party APIs or services. </p></td>
+<td><p style="text-align:center;">RID 003</p></td>
+<td><p style="text-align:center;">Technical Challenges</p></td>
+<td><p style="text-align:center;">Complex technical components and dependencies pose challenges to project development.</p></td>
 <td><p style="text-align:center;">Technical</p></td>
-<td><p style="text-align:center;">Technical Lead</p></td>
+<td><p style="text-align:center;"> Development Team</p></td>
 <td><p style="text-align:center;">High</p></td>
 <td><p style="text-align:center;">High</p></td>
-<td><p style="text-align:center;">In progress</p></td>
 	</tr>
+<tr>
+<td><p style="text-align:center;">RID 004</p></td>
+<td><p style="text-align:center;">Lack of Stakeholder Involvement</p></td>
+<td><p style="text-align:center;">Inadequate involvement or engagement from project stakeholders leading to misalignment and misunderstandings.</p></td>
+<td><p style="text-align:center;">Communication</p></td>
+<td><p style="text-align:center;"> Project Manager</p></td>
+<td><p style="text-align:center;">Medium</p></td>
+<td><p style="text-align:center;">Medium</p></td>
+	</tr>
+<tr>
+<td><p style="text-align:center;">RID 005</p></td>
+<td><p style="text-align:center;">Unrealistic Timeframes and Deadlines</p></td>
+<td><p style="text-align:center;">Setting overly aggressive or unrealistic timeframes and deadlines causing compromised quality and increased errors.</p></td>
+<td><p style="text-align:center;">Project</p></td>
+<td><p style="text-align:center;"> Project Manager</p></td>
+<td><p style="text-align:center;">High</p></td>
+<td><p style="text-align:center;">High</p></td>
+	</tr>
+<tr>
+<td><p style="text-align:center;">RID 006</p></td>
+<td><p style="text-align:center;">Lack of Project Management and Planning</p></td>
+<td><p style="text-align:center;">Inadequate project management practices, such as poor planning and communication, resulting in project failure.</p></td>
+<td><p style="text-align:center;">Project</p></td>
+<td><p style="text-align:center;"> Project Manager</p></td>
+<td><p style="text-align:center;">Medium</p></td>
+<td><p style="text-align:center;">High</p></td>
+	</tr>
+
 </table>
 
 
