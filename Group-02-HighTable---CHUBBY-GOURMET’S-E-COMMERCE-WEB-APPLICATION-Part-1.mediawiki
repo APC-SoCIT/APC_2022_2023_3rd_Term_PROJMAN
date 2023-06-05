@@ -1394,4 +1394,580 @@ submitted information or not. </li>
 Scrum Master will update and re-baseline project documentation as necessary. </li>
 </ol>
 
+=Communications Management Plan=
+==Introduction==
+<p>The Communications Management Plan document tackles Chubby Gourmet’s E-Commerce Web Application’s communication strategy and protocols that both HighTable and the stakeholder can use. The plan will be answering the following: </p>
+
+<ul>
+<li>The plan outlines types of information that will be communicated, such as project updates, progress reports, risks, and issues. It will also include the amount of detail and format of the information (Whether it be communicated verbally or through written means) </li>
+<li>The plan outlines the methods of communication that will be utilized, such as meetings, or email, telephone.  </li>
+<li>The plan outlines the frequency of project communications, both formal and informal methods. </li>
+<li>The plan defines the roles and responsibilities of team members and stakeholders in terms of communication; this also includes who is responsible for distributing project information. </li>
+<li>The plan outlines the communication needs of all stakeholders and how they will be met.  </li>
+<li>The plan outlines the resources needed for communication (Such as budget and personnel) to have free flowing communication amongst all parties. </li>
+<li>The plan outlines the protocols for exchanging sensitive or confidential information and includes who must authorize the release of such information.  </li>
+<li>The plan defines a process for managing changes in the communication process. This will include how changes will be proposed, reviewed, and approved. This ensures that all stakeholders are aware of any changes and that the communication process remains consistent throughout the project. </li>
+<li>The plan outlines the flow of communication within the production of the project. This also includes how information is exchanged between team members, the stakeholder, and other individuals involved in the development of the project. This helps to ensure that everyone involved in the Chubby Gourmet’s E-Commerce Web Application project is informed and that the information is shared in a timely manner.  </li>
+<li>The plan discusses any constraints that may affect the project communications (E.g. legal or regulatory requirements) and outlines how these constraints will be addressed.  </li>
+<li>The plan outlines any standard templates, formats, or documents that will be used for communicating project information (E.g. progress report, minutes of the meeting). </li>
+<li>The plan includes an escalation process for resolving any communication-based conflicts or issues that may arise during the project.</li>  
+</ul>
+
+
+
+==Communications Management Approach==
+<p>In this portion of the paper, it will be tackling how HighTable intends to manage their communications on the project. The group will approach this with a proactive and practical way of communicating with one another. </p>
+<p>By being proactive, this allows the group to have a selfless attitude as the principle allows them to avoid small difficulties that may build up in the future. All members should have a proactive mindset as it allows everyone to have a deep understanding of what is needed and what actions can be taken to accomplish them.  </p>
+<p>By being practical, this allows the group to be concise and efficient with how they progress throughout the development of the project. Analyzing and narrowing down the needed details, information, and data can ensure that everyone involved is getting the important points. Taking into consideration of how the status of the project and how the status of each member is, can help determine when and how to communicate the needs for one another. </p>
+
+
+
+==Communications Management Constraints==
+<p>The Communications Management Constraints for Chubby Gourmet’s E-Commerce Web Application will be identifying the constraints, limitations, and boundaries that may leave an impact or hinder the project’s development. It is important to address these constraints as it will serve as an outline of what the team’s limits are in terms of information and it can help find a way to mitigate potential roadblocks along the way. </p>
+<p>This portion of the paper will discuss an overview of key constraints to take note of, and these may include communication processes such as internal and external factors, technological limitations, and regulatory requirements. </p>
+<p>The Communications Management Constraints of the project are as follows: </p>
+
+<ol>
+<li>Limited budget for communication tools and resources: The project has a limited budget for communication tools and resources, so the usage of provided communication applications (E.g. Microsoft Teams meeting) will be mainly used. </li>
+ 
+<li>Limited access to the stakeholder: The stakeholder may have limitations upon meeting physically as they are assigned to farther locations (specifically outside of NCR). </li>
+ 
+<li>Limited availability of team members: The team members may be preoccupied with other commitments or responsibilities in their own times, which may limit their availability for communication.  </li>
+ 
+ 
+<li>Confidentiality: Certain information related to the project may be confidential and require special handling and communication protocols (E.g. Addresses, Contact information, Account Information, and etc.).  </li>
+ 
+ 
+<li>Technical difficulties: Technical difficulties may hinder communications as times may be unavoidable depending on the situation.  </li>
+ 
+<li>Time constraints: The project can be restricting in time due to the needed deliverable dates assigned by either the team or the stakeholder. </li>
+</ol>
+
+
+==Stakeholder Communication Requirements==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Program Manager</p></td>
+<td><p style="text-align:center;">Oversees the overall progress of HighTable’s project development. They may also be responsible for overseeing other projects. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Key Stakeholder</p></td>
+<td><p style="text-align:center;">Same induvial as the project sponsor. Group/Individual that has taken interest in collaborating with HighTable in the development of the project. </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Individual responsible for planning, handling, and executing the project. They are considered to be the team leader that will do the best of their abilities to accomplish any and all tasks relating to the project.  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Change Control Board</p></td>
+<td><p style="text-align:center;">The designated group, which reviews technical specifications and authorizes changes within the organization’s infrastructure.  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Individuals responsible for the technical aspects of the Chubby Gourmet’s E-Commerce Web Application. They handle the front and back-end components of the project and accomplish all and needed tasks to meet the key stakeholder’s needs.  </p></td>
+	</tr>
+
+</table>
+
+==Roles==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Program Manager</p></td>
+<td><p style="text-align:center;">Oversees the overall progress of HighTable’s project development. They may also be responsible for overseeing other projects. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Key Stakeholder</p></td>
+<td><p style="text-align:center;">Same induvial as the project sponsor. Group/Individual that has taken interest in collaborating with HighTable in the development of the project. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Individual responsible for planning, handling, and executing the project. They are considered to be the team leader that will do the best of their abilities to accomplish any and all tasks relating to the project.  </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Change Control Board</p></td>
+<td><p style="text-align:center;">The designated group, which reviews technical specifications and authorizes changes within the organization’s infrastructure.  </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Individuals responsible for the technical aspects of the Chubby Gourmet’s E-Commerce Web Application. They handle the front and back-end components of the project and accomplish all and needed tasks to meet the key stakeholder’s needs. </p></td>
+</tr>
+</table>
+
+
+==Project Team Directory==
+<p>The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people. </p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">TITLE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">ORGANIZATION/DEPARTMENT</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">PHONE</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
+<td><p style="text-align:center;">Business Owner</p></td>
+<td><p style="text-align:center;">External</p></td>
+<td><p style="text-align:center;">priscillamariano403@gmail.com</p></td>
+<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Program Manager</p></td>
+<td><p style="text-align:center;">Mr. Jose Eugenio L. Quesada </p></td>
+<td><p style="text-align:center;">PMO Manager</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
+<td><p style="text-align:center;">(555) 555-1313 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Gianna Bernice R. Artajos</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">grartajos@student.apc.edu.ph</p></td>
+<td><p style="text-align:center;">(+63) 908 814 4825 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Stakeholder</p></td>
+<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
+<td><p style="text-align:center;">Business Owner</p></td>
+<td><p style="text-align:center;">External</p></td>
+<td><p style="text-align:center;">priscillamariano403@gmail.com </p></td>
+<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">John Rysal C. Rosel</p></td>
+<td><p style="text-align:center;">Product Developer</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">jcrosel@student.apc.edu.ph </p></td>
+<td><p style="text-align:center;">(+63) 977 216 8841 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Lester Dave M. Salazar</p></td>
+<td><p style="text-align:center;">Product Designer</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">lmsalazar2@student.apc.edu.ph </p></td>
+<td><p style="text-align:center;">(+63) 935 553 5180  </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Marcus Philip L. Flores</p></td>
+<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">mlflores@student.apc.edu.ph </p></td>
+<td><p style="text-align:center;">(+63) 939 439 3060  </p></td>
+	</tr>
+
+</table>
+
+
+
+==Communication Methods and Technologies==
+<p>The Chubby Gourmet’s E-Commerce Web Application project needs a thorough understanding of what communication models and technologies are available to them, in order to effectively choose which method benefits all. Taking into consideration the different capabilities and limitations of each communication method and technology, will ensure that all individuals receive the necessary information they need. This portion of the document will determine the most effective methods for delivering project updates, progress reports, risks, and issues, and any other relevant information. </p>
+<p>It is also important to consider the cost and feasibility of using different technologies, as well as any security or privacy related issues that may occur. By carefully considering all possibilities available to the team, this will ensure that all information will be received to everyone involved efficiently and safely. </p>
+<p>These are the following considerations that HighTable will factor in for the communication methods: </p>
+
+<ol>
+<li>Location of the Stakeholder 
+Since Ms. Mariano is stationed in Laguna and cannot hold a physical meeting and prefers a purely online way of communicating, the technology used to contact her must suit their current technology without sacrificing any security measures as much as possible. </li>
+ 
+<li>The Type of Information dealt with 
+Depending on how crucial or confidential the information is, the mode of communication must be considered depending on the type of information that is being handled. </li>
+ 
+<li>Size and Complexity of the Project  
+Considering how Chubby Gourmet is a micro-enterprise, the need for web portals and large-scale project management applications would not be a priority. </li>
+ 
+<li>Level of technical expertise 
+The client may not be too well versed in the field of technology. Keeping a simple and straight to the point communication will be most effective in this scenario. </li>
+</ol>
+
+<p>With all of these factors in mind, HighTable will take into consideration on how to approach the stakeholder with the combination of all of these factors in the most effective and efficient way as possible. </p>
+
+
+==Communications Matrix==
+<p>The following table identifies the communications requirements for this project. </p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">CHANNEL</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">FROM</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">TO</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">TYPE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">FREQUENCY</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">FORMAT USED</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">DELIVERY MEDIA</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Planning</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once before the start of the project </p></td>
+<td><p style="text-align:center;">Formal</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Release Planning</p></td>
+<td><p style="text-align:center;">Program Manager, Project Manager </p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once before the start of the project, Update if necessary </p></td>
+<td><p style="text-align:center;">Formal</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Sprint Planning</p></td>
+<td><p style="text-align:center;">Project Manager, Development Team </p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once every week </p></td>
+<td><p style="text-align:center;">Informal</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Management Processes</p></td>
+<td><p style="text-align:center;">Program Manager, Project Manager </p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once before the start of the project, Update if necessary </p></td>
+<td><p style="text-align:center;">Written Documents</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Product Backlog</p></td>
+<td><p style="text-align:center;">Project Manager, Development Team </p></td>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Artifact</p></td>
+<td><p style="text-align:center;">Once every week</p></td>
+<td><p style="text-align:center;">Written Documents</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Project Update</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Stakeholder, Program Manager</p></td>
+<td><p style="text-align:center;">Meeting</p></td>
+<td><p style="text-align:center;">Once every week</p></td>
+<td><p style="text-align:center;">Informal</p></td>
+<td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
+</tr>
+</table>
+
+
+==Guidelines for Meeting==
+<p>In order to ensure an effective flow of information that is met with everyone involved, HighTable will be holding meetings that are productive, efficient, and effective. To do so, it is important to establish clear guidelines for the said meetings. These guidelines will include information on the purpose of meetings, the roles and responsibilities of attendees, and the procedures that will done in the meetings. </p>
+<p>Having the meeting guidelines allows both the attendees and the project manager to have a sense of preparedness and can participate to the meeting accordingly. This will also allow the meeting flow to be more organized and efficient as it aims to avoid confusion and waste time. </p>
+<p>Here are the following meeting guidelines for HighTable: </p>
+
+<ol>
+<li>Purpose: Defining the purpose of the meeting allows the attendees to discuss the progress, resolve issues, and create decisions. </li>
+ 
+<li>Scheduling: Scheduling meeting in advance and placed in a time slot suited for everyone attending the meeting. </li>
+ 
+<li>Attendance: All team members are required to attend all meetings unless their excuse is valid, and they have requested their leave in advance.  </li>
+  
+<li>Minutes of the Meeting: All minutes of the meeting with be recorded by the Scrum Master, if they so happen to NOT be in the meeting, the project manager shall take over their role in their absence. </li>
+ 
+<li>Decisions: Based on the discussion of the meeting and how the flow of the meeting has gone, the decision must be made by consensus, if it does not reach a consensus the project manager will be the one to decide for the group. 
+Follow-up: Must be noted down in the minutes of the meeting and must be addressed in the next meeting. </li>
+ 
+<li>Time Management: Meetings should start and end on the specified time slot agreed upon, to avoid going off schedule from project development. </li>
+ 
+<li>Recording:  Agreed upon by everyone in the meeting (and a note to the privacy act enacted upon the online meeting), a recording of the session should be standard, in case of an attendee not being able to reach the meeting. </li>
+</ol>
+
+
+==Communication Standards==
+<p>The communication standards for the Chubby Gourmet’s E-Commerce Web Application project are the following: </p>
+<ol>
+<li>Standardized Document Templates:  Making use of the standardized templates (usually provided by the program manager) will give a sense of consistency throughout the documentation of the project. These templates include: minutes of the meeting, meeting agendas, status reports, documentation deliverables, and etc. </li>
+ 
+<li>Communication Protocols: Creating a standard way of communicating can allow a more fluid way of getting the information out more efficiently and effectively. This will also include the handling of sensitive or confidential information that may come across in the meetings. </li>
+ 
+<li>File Naming Convention: Having a standardized way of naming file, can ensure an easier way of locating and accessing files when needed. </li>
+ 
+<li>Online Conferencing: The use of online conference tools such as Microsoft Teams will be useful for the team, considering how the stakeholder is located in a different area form the team. </li>
+</ol>
+
+==Communication Escalation Process==
+<p>The ideal communication escalation process for HighTable would involve the following steps: </p>
+<ol>
+<li>Identify the Problem: The team should identify what problem they are to solve, so that they know if it needs to be escalated or not. </li>
+ 
+<li>Attempt to solve the problem within the team: The team should attempt to solve the issue by themselves in order to measure how big the problem is. </li>
+ 
+<li>Involve a communication manager: If the problem cannot be resolved, the group must look towards a communication manager, that will responsible for the communication between the team and the program manager. 
+Consult to higher positions: If the problem is still not resolved, the problem will notified by the higher positions to review and look for further solutions.  </li>
+ 
+ 
+<li>Document the problem and resolution: Once the problem is resolved, all details of the session must be recorded for documentation purposes. </li>
+ 
+<li>Review and prepare for follow-up: After resolving and documentation, those who were not at the session can review on what had transpired and can formulate follow-ups if needed.  </li>
+</ol>
+
+==Glossary of Communication Terminology==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">TERM</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">DEFINITION</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Communication Plan</p></td>
+<td><p style="text-align:center;">Document outlining the communication management strategy for the project team and the stakeholders. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Sole individual that has taken interest in the project’s output. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Frequency</p></td>
+<td><p style="text-align:center;">The frequency how much communications are distributed. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Flowchart</p></td>
+<td><p style="text-align:center;">Visual representation of how information is passed around. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Standards</p></td>
+<td><p style="text-align:center;">Standard templates, formats, or documents that are established in the project development. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Guidelines</p></td>
+<td><p style="text-align:center;">Protocols used for conducting any kind of communication done. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Communication Tools</p></td>
+<td><p style="text-align:center;">Technology and tools used for communication. Applications such as Microsoft Teams and Outlook. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Escalation Process</p></td>
+<td><p style="text-align:center;">Process used for resolving problems found within the project development. </p></td>
+</tr>
+
+</table>
+
+
+=Quality Management Plan=
+==Introduction==
+<p>The Quality Management Plan for the Chubby Gourmet project is a fundamental component of the overall project management plan. This plan outlines the strategies, processes, and procedures that will be employed to effectively manage and ensure quality throughout the entire project lifecycle. </p>
+<p>The primary objective of the Quality Management Plan is to provide a clear and comprehensive description of how quality will be planned, assured, and controlled. By establishing a systematic approach, the plan aims to prevent and mitigate potential risks associated with poor quality, while promoting the delivery of high-quality project outcomes. </p>
+<p>The plan encompasses various aspects of quality management, including quality requirements, assurance, and control. It defines the specific activities, tools, and techniques that will be employed to identify, assess, and address quality requirements and expectations. By adhering to these processes and procedures, the project team will be equipped to proactively manage and enhance the quality of project deliverables. </p>
+
+==Quality Management Approach==
+<p>The Quality Management Approach for the Chubby Gourmet project will employ an Agile and Scrum methodology to ensure that the project consistently delivers high-quality outcomes that meet or exceed stakeholders' expectations. This approach emphasizes iterative development, frequent customer collaboration, and continuous improvement to achieve optimal quality throughout the project's lifecycle.  </p>
+<p>The following roles and responsibilities are defined within the quality management approach: </p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Product Owner</p></td>
+<td><p style="text-align:center;">The Product Owner will ensure that the final product satisfies the stakeholders' quality requirements. She will oversee the overall quality management process and work closely with the project team to address any quality-related issues. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">The Scrum Master will be responsible for promoting and enforcing the adherence to the Scrum framework. He will facilitate team collaboration, remove any impediments, and ensure that quality is embedded within the Agile development process. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Product Developer</p></td>
+<td><p style="text-align:center;">The Product Developer will be responsible for producing high-quality code and ensuring that the developed features meet the specified requirements. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Product Designer</p></td>
+<td><p style="text-align:center;">The Product Designer will ensure that the user interface and user experience of the Chubby Gourmet web application meet the highest quality standards. He will incorporate user-centered design principles, conduct usability testing, and iterate based on stakeholders’ feedback to optimize the product's usability and visual appeal. </p></td>
+</tr>
+</table>
+
+<p>The Quality Management Approach will be integrated into every phase of the project, with the entire team actively involved in ensuring quality standards are met. It will embrace the principles of Agile and Scrum, emphasizing iterative development, customer feedback, and continuous improvement. By utilizing the Agile and Scrum methodology as the quality management approach, the Chubby Gourmet project aims to foster a culture of collaboration, flexibility, and continuous improvement, enabling the team to consistently deliver a high-quality web application that fulfills the needs and expectations of its users. </p>
+
+==Quality Requirements/Standards==
+<p>The Quality Requirements/Standards for the Chubby Gourmet project encompass both the product and process aspects, aiming to ensure the delivery of a high-quality web application. The project team will actively identify and document these requirements and standards, demonstrating compliance throughout the project lifecycle. </p>
+<p>Quality Requirements: </p>
+<ol>
+<li>Product Quality Requirements:
+<ul>
+<li>The project team will conduct an analysis of customer expectations, user needs, and industry best practices to define specific quality requirements for the web application. </li>
+<li>Functional requirements, performance expectations, usability standards, and security measures will be identified and documented. </li>
+<li>Quality requirements will be aligned with the project objectives and stakeholders' expectations to ensure the final product meets the desired quality level. </li>
+</ul>
+</li>
+
+<li>Process Quality Requirements:
+<ul>
+<li>The team will establish quality assurance processes and procedures to ensure adherence to industry standards and best practices throughout the project lifecycle. </li>
+<li>Documentation standards, code review processes, testing procedures, and change management plan will be defined to ensure consistent and high-quality development practices. </li>
+</ul>
+</li>
+
+</ol>
+
+<p>Quality Standards: </p>
+<ol>
+<li>Product Quality Standards: 
+<ul>
+<li>The Chubby Gourmet web application will adhere to industry standards and guidelines for user experience, accessibility, performance, security, and compatibility. </li>
+<li>Design and development will follow recognized coding standards and frameworks to ensure maintainability and scalability. </li>
+<li>Regular usability testing and user feedback will be incorporated to validate the product against user-centered design principles and enhance the overall user experience. </li>
+</ul>
+</li>
+<li>Process Quality Standards: 
+<ul>
+<li>The project team will follow the Agile and Scrum methodology, to foster effective collaboration, communication, and quality control. </li>
+<li>Continuous integration and deployment practices will be implemented to ensure the stability and reliability of the development process. </li>
+</ul>
+</li>
+</ol>
+
+
+<p>Demonstrating Compliance: </p>
+<ol>
+<li>Documentation and Traceability: 
+<ul>
+<li>The project team will maintain comprehensive documentation of quality requirements, standards, and associated processes. </li>
+<li>Traceability matrices will be used to link requirements to design, development, and testing activities, ensuring transparency and accountability. </li>
+</ul>
+</li>
+
+<li>Quality Assurance Activities: 
+<ul>
+<li>Regular inspections, reviews, and quality checks will be conducted throughout the project to monitor compliance with quality requirements and standards. </li>
+<li>Testing, including functional, performance, security, and usability testing, will be performed to validate the product against defined quality criteria. </li>
+</ul>
+</li>
+</ol>
+
+
+<p>By adhering to these quality requirements and standards, the Chubby Gourmet project aims to deliver a high-quality web application that meets user expectations, complies with industry standards, and provides an exceptional user experience. </p>
+
+==Quality Assurance==
+<p>The Quality Assurance for the Chubby Gourmet project outlines the approach for auditing quality requirements, measuring quality control results, and ensuring the consistent use of quality standards and operational definitions throughout the Chubby Gourmet web application project. </p>
+<ol>
+<li>Quality Assurance Process: 
+<ul>
+<li>A defined process for quality assurance will be established, detailing the activities, responsibilities, and timelines for conducting quality audits. </li>
+<li>Regular audits will be performed to assess adherence to quality standards, operational definitions, and established processes. </li>
+<li>The process will include reviewing documentation, conducting inspections, and verifying compliance with quality requirements. </li>
+</ul>
+</li>
+<li>Auditing Quality Requirements: 
+<ul>
+<li>The team will conduct audits to ensure that quality requirements are clearly defined, documented, and communicated to the stakeholder.</li> 
+<li>Audits will verify that quality requirements align with customer expectations, industry standards, and project objectives. </li>
+<li>The team will review project documentation and specifications to confirm that quality requirements are appropriately defined and traceable. </li>
+</ul>
+</li>
+<li>Auditing Quality Control Results: 
+<ul>
+<li>Quality control measurements and results will be audited to verify compliance with quality standards and identify areas for improvement. </li>
+<li>Audits will assess the effectiveness of quality control activities such as testing, inspections, and reviews. </li>
+<li>The team will review quality control records and test reports to ensure that appropriate measures are taken to address identified issues. </li>
+</ul>
+</li>
+<li>Assurance Metrics: 
+<ul>
+<li>Key quality assurance metrics will be defined to assess the effectiveness of quality management activities. </li>
+<li>Metrics may include customer satisfaction ratings and adherence to project schedules. </li>
+<li>These metrics will provide objective data to evaluate the project's overall quality performance and identify areas requiring corrective actions. </li>
+</ul>
+</li>
+<li>Reporting and Improvement: 
+<ul>
+<li>The results of quality assurance audits and metrics will be documented and communicated to the stakeholder. </li>
+<li>Reports will highlight areas of non-compliance, identify potential risks, and recommend improvement actions. </li>
+</ul>
+</li>
+</ol>
+
+<p>By implementing a robust quality assurance process, the Chubby Gourmet project aims to ensure that quality standards are consistently met, operational definitions are followed, and potential quality risks are identified and addressed in a timely manner. Through regular audits and the use of appropriate metrics, the team can proactively monitor and improve the quality of the web application throughout its development lifecycle. </p>
+
+==Quality Control==
+<p>The Quality Control for the Chubby Gourmet project outlines the process for monitoring, recording, and assessing the results of quality activities specific to the Chubby Gourmet web application project's product. It focuses on defining acceptable standards and performance criteria for the product and specifying how measurements will be conducted. </p>
+
+<ol>
+<li>Quality Control Process: 
+<ul>
+<li>A defined process for quality control will be established to monitor and assess the product's adherence to quality standards and requirements. </li>
+<li>The process will include activities such as inspections, testing, reviews, and validations to identify and address any deviations or non-conformities. </li>
+<li>Regular monitoring and measurement activities will be conducted to identify any deviations from the desired quality standards. </li>
+</ul
+</li>
+
+<li>Acceptable Standards and Performance Criteria: 
+<ul>
+<li>Clear and measurable standards and performance criteria will be defined for the Chubby Gourmet web application. </li>
+<li>These standards will cover aspects such as functionality, usability, performance, security, and compliance with industry best practices. </li>
+<li>The acceptable standards will be based on customer requirements, industry standards, and project objectives.</li> 
+</ul
+</li>
+
+<li>Measurement and Evaluation: 
+<ul>
+<li>Appropriate measurement techniques and tools will be employed to assess the product's quality. </li>
+<li>This may include conducting functional and non-functional testing, usability evaluations, performance testing, security assessments, code reviews, and other relevant quality assurance activities. </li>
+<li>The results of these measurements will be documented and recorded for analysis and decision-making.</li> 
+</ul
+</li>
+
+<li>Performance Assessment: 
+<ul>
+<li>The project team will regularly assess the product's performance against the defined acceptable standards. </li>
+<li>Performance assessment may involve comparing the actual product performance with the expected performance. </li>
+<li>Necessary actions will be recommended to address if there's any identified issues. </li>
+</ul
+</li>
+
+<li>Documentation and Reporting: 
+<ul>
+<li>The results of quality control activities, including measurements and performance assessments, will be documented and reported to the stakeholder. </li>
+<li>Reports will provide insights into the product's quality status, identify areas of improvement or non-compliance, and recommend appropriate corrective actions. </li>
+<li>Documentation will serve as a record of quality control activities and provide a basis for future reference and quality improvement initiatives. </li>
+</ul
+</li>
+</ol>
+
+<p>Through effective quality control measures, the Chubby Gourmet project aims to monitor the product's adherence to acceptable standards, identify any deviations, and ensure that the final web application meets the desired quality levels. By proactively monitoring and controlling quality, the team can make informed decisions, take corrective actions when necessary, and deliver a high-quality product that meets or exceeds stakeholders' expectations. </p>
+
+==Quality Control Measurements==
+<p>The Quality Control Measurements for the Chubby Gourmet project outlines the approach and documentation method for capturing and comparing quality measurements against the established standards and requirements. Agile and Scrum methods will be utilized to promote continuous inspection and modification throughout the project lifecycle. The section also emphasizes the importance of documenting findings and taking appropriate actions if the measurements deviate from the set standards.  </p>
+<p>The following details will be on the platform: </p>
+<ul>
+<li>Measurement date: The date on which the quality control measurement was conducted. </li>
+<li>Measurement type: The specific type of measurement performed (e.g., automated testing, code review, peer review, user story acceptance). </li>
+<li>Measurement findings: The results of the measurement, indicating whether it passed or failed, the number of flaws discovered, and the percentage of code coverage. </li>
+<li>Requirements and standards for comparison: The established quality requirements and standards against which the measurements are compared. </li>
+<li>Member of the team in charge of measuring: The team member responsible for conducting the quality control measurement. </li>
+<li>Team member responsible for assessing the measurement results: The team member assigned to evaluate the measurement results and determine any necessary actions. </li>
+<li>Corrective actions: Any required actions or steps to address deviations from the standards or requirements. </li>
+<li>Date of completion of remedial measures: The date on which the corrective actions were completed. </li>
+<li>Team member in charge of implementing corrective measures: The team member responsible for carrying out the corrective measures. </li>
+</ul>
+
+<p>The quality control measurements will be recorded and documented on a shared platform or project management tool to ensure accessibility and transparency. Dashboards like Trello's workspace will be utilized to provide real-time tracking and visualization of the quality control metrics, enabling the team to identify patterns, highlight problem areas, and take prompt action. Regular project reviews, such as sprint reviews will be conducted to review the quality control metrics and adjust the approach if needed. </p>
+<p>By documenting the quality control measurements and findings, the Chubby Gourmet project team can effectively monitor the product's compliance with the defined quality standards, identify areas for improvement, and implement necessary corrective actions to ensure the delivery of a high-quality web application. </p>
+
 
