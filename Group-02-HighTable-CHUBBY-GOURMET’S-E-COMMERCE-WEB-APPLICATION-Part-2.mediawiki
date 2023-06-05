@@ -34,55 +34,95 @@ Risk management is an ongoing process that requires continuous monitoring and re
 ==Top Three Risks==
 <p>The project’s top three risks are: </p>
 <ol>
-<li>Chubby Gourmet's web application may experience scalability and performance issues as it becomes more well-known and draws more users. It may lead to slow response times, frequent downtime, or even crashes if the application is not built to handle many concurrent users or if the underlying infrastructure is improperly configured. The development team should think about load testing, streamlining the application's code and database queries, putting in place caching systems, and using scalable infrastructure solutions to reduce this risk. </li>
-<li>Data Loss or Corruption: Data is an asset for Chubby Gourmet, including user profiles, recipes, and other application-related information. The risk of data loss or corruption can arise from hardware failures, software bugs, human errors, or natural disasters. To minimize this risk, regular data backups should be performed and stored securely. Additionally, implementing data redundancy measures, such as replication or distributed storage systems, can help ensure data availability and prevent loss or corruption in case of unforeseen events. </li>
-<li>Resource risk due to the possibility of insufficient resources being available to complete the project on time. This may cause delays and budget overruns. </li>
+<li>Scope Creep:  <br>
+Scope creep refers to the uncontrolled expansion or addition of features, requirements, or objectives of a project beyond its original scope. This can occur due to changing project sponsor expectations, unclear project requirements, or poor project management. Scope creep can lead to delays, increased costs, resource over utilization, and ultimately project failure if not properly managed.</li>
+
+<li>Resource Constraints:  <br>
+Insufficient or misallocation of resources can significantly impact project development. This includes limitations in terms of budget, personnel, equipment, or technology. Inadequate resources can lead to delays, decreased quality, or compromised project objectives. It is essential to identify and allocate the necessary resources appropriately to mitigate this risk. </li>
+
+<li>Technical Challenges   <br> 
+Projects often involve complex technical components and dependencies. Technical challenges can include compatibility issues, software or hardware failures, integration difficulties, or scalability problems. These challenges can cause delays, increased costs, and potential setbacks in project delivery. Adequate planning, testing, and contingency measures are crucial to address and mitigate.</li>
+
 </ol>
 
 
 ==Risk Management Approach==
 <p>To mitigate these risks, Chubby Gourmet's project team has developed strategies including thorough testing and validation of the data migration process, adopting an Agile development methodology to quickly identify and address technical issues, providing training and support to ensure successful system adoption, and maintaining regular communication with stakeholders to promptly address any potential delays or issues. </p>
+
 <p>The following steps will be taken to manage risks in Chubby Gourmet’s System project:   </p>
 <ul>
-<li>Risk Identification: The project team will identify potential risks by conducting brainstorming sessions, reviewing past project experiences, and examining project requirements and scope. These risks will be documented in a risk register along with details about their likelihood, potential impact, and description. </li>
+<li>Risk Identification: <br>
+The project team will identify potential risks by conducting brainstorming sessions, reviewing past project experiences, and examining project requirements and scope. These risks will be documented in a risk register along with details about their likelihood, potential impact, and description. </li>
  
-<li>Risk Assessment: The identified risks will be assessed based on their probability of occurrence and their impact on the project. A risk matrix will be used to prioritize risks according to their severity. Risks with high severity will be given priority for mitigation or contingency planning. </li>
+<li>Risk Assessment: <br>
+The identified risks will be assessed based on their probability of occurrence and their impact on the project. A risk matrix will be used to prioritize risks according to their severity. Risks with high severity will be given priority for mitigation or contingency planning. </li>
  
-<li>Risk Mitigation: Mitigation plans will be developed for risks that have both a high impact and likelihood of occurring. These plans will outline strategies and measures to reduce or prevent the risks. In cases where certain risks cannot be completely eliminated, backup strategies will be devised. 
-Risk Monitoring: Risks will be continuously monitored throughout the project. The project team will regularly review the risk register to ensure that risks are being effectively managed. As new risks are identified during the project, they will be added to the risk register and the risk assessment process will be repeated. </li>
+<li>Risk Mitigation: <br>
+Mitigation plans will be developed for risks that have both a high impact and the likelihood of occurring. These plans will outline strategies and measures to reduce or prevent the risks. In cases where certain risks cannot be completely eliminated, backup strategies will be devised. </li>
+
+<li>Risk Monitoring: <br>
+Risks will be continuously monitored throughout the project. The project team will regularly review the risk register to ensure that risks are being effectively managed. As new risks are identified during the project, they will be added to the risk register and the risk assessment process will be repeated. </li>
  
-<li>Risk Communication: Risk communication involves informing relevant parties, including the project sponsor, project team, and other stakeholders, about the identified risks and the strategies in place to manage them. The project team will maintain open and constant communication, ensuring that stakeholders are informed about any detected risks, their evaluation, and the actions being taken to address them. </li>
+<li>Risk Communication: <br>
+Risk communication involves informing relevant parties, including the project sponsor, project team, and other stakeholders, about the identified risks and the strategies in place to manage them. The project team will maintain open and constant communication, ensuring that stakeholders are informed about any detected risks, their evaluation, and the actions being taken to address them. </li>
 </ul>
 
 
 ==Risk Identification==
-<p>Through a comprehensive risk identification process for the Chubby Gourmet project, various methods were employed to identify and assess potential risks. These methods included expert interviews, analysis of historical data from previous projects, and a risk assessment conference involving the project team and key stakeholders. The aim was to create a risk register that documents the identified hazards, including a brief description, potential impact, and likelihood of occurrence. </p>
-<p>During the risk assessment meeting, the project team and key stakeholders were actively engaged in identifying and assessing risks specific to Chubby Gourmet's success. The outcomes of this meeting were diligently recorded in the risk register, ensuring that all identified risks were captured. </p>
-<p>To supplement the risk identification process, the project team conducted a thorough review of historical information from similar projects. This allowed them to identify potential risks that might arise during the development of Chubby Gourmet and develop corresponding mitigation strategies. Additionally, expert interviews were conducted with team members who possessed relevant experience in developing similar systems. These interviews provided valuable insights and helped identify additional risks, which were then addressed through appropriate mitigation strategies. </p>
-<p>The risks identified through the risk assessment meeting and expert interviews were documented in a format consistent with the Agile risk management plan. The risk register is regularly updated to ensure the inclusion of new risks and the effective management of existing ones. Throughout the project lifecycle, the project team remains vigilant in monitoring and managing risks to mitigate their potential impact on Chubby Gourmet's development and overall success. </p>
+<p>Through a comprehensive risk identification process for the Chubby Gourmet project, various methods will be employed to identify and assess potential risks. These methods include expert interviews, analysis of historical data from previous projects, and a risk assessment conference involving the project team and key stakeholders. The aim is to create a risk register that documents the identified hazards, including a brief description, potential impact, and likelihood of occurrence. </p>
+
+<p>During the risk assessment meeting, the project team and key stakeholders will actively engage in identifying and assessing risks specific to Chubby Gourmet's success. The outcomes of this meeting will be diligently recorded in the risk register, ensuring that all identified risks are captured. </p>
+
+<p>To supplement the risk identification process, the project team will conduct a thorough review of historical information from similar projects. This will allow them to identify potential risks that might arise during the development of Chubby Gourmet and develop corresponding mitigation strategies. Additionally, expert interviews will be conducted with team members who possess relevant experience in developing similar systems. These interviews will provide valuable insights and help identify additional risks, which were then addressed through appropriate mitigation strategies. </p>
+
+<p>The risks identified through the risk assessment meeting and expert interviews will be documented in a format consistent with the Agile risk management plan. The risk register is regularly updated to ensure the inclusion of new risks and the effective management of existing ones. Throughout the project lifecycle, the project team remains vigilant in monitoring and managing risks to mitigate their potential impact on Chubby Gourmet's development and overall success. </p>
+
 <p>Some potential risks identified for Chubby Gourmet’s System include: </p>
 <ul>
-<li>Lack of resources: There is a risk that the project may not have sufficient resources, such as personnel, budget, or equipment, which could impede the successful completion of the project. </li>
-<li>Scope creep: There is a risk that the project's scope may expand beyond its initial boundaries, resulting in delays and cost overruns. 
-Dependencies on external parties: The project may rely on the cooperation and performance of external parties, such as vendors or third-party services, which introduces a risk of delays or complications if those parties do not meet expectations. </li>
-<li>Changes in technology: There is a risk that evolving technology or industry standards may impact on the project, requiring additional work or resources to adapt and integrate new technologies. </li>
-<li>Security vulnerabilities: There is a risk that the project may be exposed to security breaches or data loss, potentially resulting in significant consequences for the application and its users. </li>
-<li>Human error: There is a risk of mistakes or errors made by project team members, which could impact the project's progress, quality, or functionality. </li>
-<li>Unforeseen circumstances: There is a risk of unexpected events or circumstances, such as natural disasters or market shifts, which may impact the project and require adjustments to plans and timelines. </li>
+
+<li>Lack of Stakeholder Involvement: <br>
+Inadequate involvement or engagement from project stakeholders can result in misalignment, misunderstandings, and unmet expectations. Regular communication and collaboration with stakeholders throughout the development process are essential to ensure their needs are addressed and potential issues are identified early.</li>
+
+<li>Unrealistic Timeframes and Deadlines: <br>
+Setting overly aggressive or unrealistic timeframes and deadlines can put excessive pressure on the development team, leading to compromised quality, increased errors, and burnout. It is important to establish realistic timelines based on the project's complexity and resource availability.</li>
+
+<li>Lack of Project Management and Planning: <br>
+Inadequate project management practices, such as poor planning, ineffective communication, or insufficient risk assessment, can lead to project failure. Robust project management methodologies and practices should be in place to ensure effective planning, execution, monitoring, and control of the project. </li>
+
+<li>Inadequate Quality Assurance and Testing: <br>
+Insufficient testing and quality assurance practices can result in undetected defects, functional issues, or poor user experience. Comprehensive testing strategies and quality control processes should be implemented to identify and resolve issues before deployment. </li>
+
+<li>Communication and Collaboration Challenges: <br>
+Ineffective communication and collaboration among team members, stakeholders, or third-party vendors can lead to misunderstandings, delays, and conflicts. Establishing clear channels of communication and fostering a collaborative environment are crucial for successful project development. </li>
+
+<li>Vendor or Supplier Risks: <br>
+Dependence on external vendors or suppliers for critical components or services can introduce risks such as delivery delays, quality issues, or contractual disputes. Conducting thorough due diligence and establishing contingency plans can help mitigate these risks. </li>
+
+<li>External Factors and Dependencies: <br>
+External factors such as regulatory changes, market conditions, natural disasters, or geopolitical events can impact project development. Identifying and monitoring these external dependencies and having contingency plans in place can help mitigate their potential impact. </li>
+
 </ul>
-<p>To mitigate these risks, the project team has implemented various strategies, including thorough testing and validation processes, adopting an Agile development methodology to address technical issues promptly, providing training and support to team members for successful system adoption, and maintaining regular communication with key stakeholders to identify and address potential delays or issues. </p>
+<p>To mitigate these risks, the project team has implemented various strategies, including thorough testing and validation processes, adopting an Agile development methodology to address technical issues promptly, providing training and support to team members for successful system adoption, and maintaining regular communication with key stakeholders to identify and address potential delays or issues.</p>
 
 ==Risk Qualification and Prioritization==
-<p>To effectively manage risks in the Chubby Gourmet's System project, a probability-impact matrix was employed to assess and prioritize the risks listed in the risk register. The project team placed emphasis on risks with a high likelihood of occurrence and significant impact on the project. Regular review and updates of the risk register will ensure appropriate prioritization of risks. </p>
-<p>Likewise, in the Dispatch Directory System business case, after identifying potential risks, it is crucial to evaluate their probability and impact to determine their priority for implementing risk mitigation strategies. </p>
+<p>To effectively manage risks in the Chubby Gourmet's System project, a probability-impact matrix will be employed to assess and prioritize the risks listed in the risk register. The project team will place emphasis on risks with a high likelihood of occurrence and significant impact on the project. Regular review and updates of the risk register will ensure appropriate prioritization of risks. </p>
+
+<p>Likewise, in the Chubby Gourmet’s System project, after identifying potential risks, it is crucial to evaluate their probability and impact to determine their priority for implementing risk mitigation strategies. </p>
+
 <p>Using a probability-impact matrix, the risks were categorized into five levels: Extreme, High, Medium, Low, and Negligible. The probability of risks occurring and their impact on the project are described as follows: </p>
+
 <ul>
 <li>Extreme: Risks with a very high probability of occurrence and severe impact on the project. </li>
+
 <li>High: Risks with a high probability of occurrence and significant impact on the project. These risks require immediate attention, and mitigation strategies should be developed. </li>
+
 <li>Medium: Risks with a moderate probability of occurrence and moderate impact on the project. These risks should be closely monitored, and mitigation strategies need to be prepared if they occur. </li>
+
 <li>Low: Risks with a low probability of occurrence and minor impact on the project. These risks can be periodically monitored, and mitigation strategies can be developed if needed. </li>
+
 <li>Negligible: Risks with a very low probability of occurrence and negligible impact on the project. These risks can be disregarded. </li>
 </ul>
+
 <p>The identified risks and their prioritization based on probability and impact are as follows: </p>
 <table border="1" width="70%" align="center">
 	<tr>
