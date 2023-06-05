@@ -1,1 +1,1323 @@
-dad
+=Project Title=
+<b><font size="12"><p style="text-align:center">Villamin Wood and Iron Works Ordering System</p></font></b>
+
+=Project Members=
+==Project Professor==
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Jose Eugenio Quesada</p></td>
+ <td><p style="text-align:center;">PROJMAN Professor</p></td>
+ <td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
+ </tr>
+ </table>
+
+==Project Adviser==
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Manuel Sebastian S. Sanchez</p></td>
+ <td><p style="text-align:center;">PROJMAN Adviser</p></td>
+ <td><p style="text-align:center;">manuels@apc.edu.ph</p></td>
+ </tr>
+</table>
+
+==Project Team==
+<table border="1" width="70%" align="center">
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Leigh Curtis Camara</p></td>
+  <td><p style="text-align:center;">lbcamara2@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Sofia Emmanuelle Villamin</p></td>
+  <td><p style="text-align:center;">srvillamin@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Mabelle Aspeli</p></td>
+  <td><p style="text-align:center;">mtaspeli@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Dale Joshua Domingo</p></td>
+  <td><p style="text-align:center;">dbdomingo@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Nathaniel Sison</p></td>
+  <td><p style="text-align:center;">nmsison@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Ludwig Marco Angeles</p></td>
+  <td><p style="text-align:center;">ltangeles@student.apc.edu.ph</p></td>
+ </tr>
+</table>
+<br/>
+
+=Company Profile=
+<p><strong>Brief Background</strong></p>
+<p> 
+Villamin Wood & Iron Works is a Company and a provider of high-quality customized solutions in the field of woodworking, ironworking, glass fabrication, and aluminum works. With a commitment to innovation, precision craftsmanship, and exceptional customer service, we have established ourselves as a trusted name in the industry. Our company specializes in the design, customizing products, manufacturing, and installation of a wide range of products, catering to both residential and commercial clients.</p>
+
+<p><strong>Mission:</strong></p>
+
+<p>
+Our mission is to deliver superior craftsmanship and innovative solutions in the fields of woodworks, ironworks, glass fabrication, and aluminum works. We aim to exceed customer expectations by providing customized, durable, and aesthetically pleasing products that enhance the functionality and visual appeal of any space. Through our commitment to excellence, we strive to become the preferred choice for clients seeking premium manufacturing services. </p>
+
+  
+<p><strong>Product Offerings</strong></p>
+
+<p> 
+Woodworks: We offer a comprehensive range of wood-based products, including custom furniture, cabinetry, kitchenware, and architectural woodwork. Our skilled craftsmen work with various wood species, traditional techniques to create products that are built to last. Traditional woodworking techniques offer unique qualities that appeal to those who value craftsmanship, sustainability, and the preservation of cultural heritage. </p>
+
+<p>
+Ironworks: Our ironwork division specializes in the design and fabrication of high-quality wrought iron gates, fences, railings, window frames, and staircases. We blend traditional blacksmithing methods with contemporary design principles to produce durable, visually appealing ironwork that adds elegance and security to residential and commercial properties. </p>
+
+<p>
+Glass Fabrication: With our state-of-the-art glass fabrication facilities, we offer a wide range of customized glass solutions. These include glass doors, windows, partitions, shower enclosures, and mirrors. Our skilled artisans work with precision, ensuring flawless cutting, edging, tempering, and laminating to deliver exceptional glass products that enhance both aesthetics and functionality. </p>
+
+<p>
+Aluminum Works: Our aluminum works division specializes in the design, fabrication, and installation of aluminum-based solutions, including windows, doors, curtain walls, and façade systems. We offer an extensive selection of finishes and profiles, ensuring durability, energy efficiency, and architectural appeal for both residential and commercial projects. </p>
+
+  
+
+<p><strong>Clientele:</strong></p>
+
+<p>
+We serve a diverse range of clients, including homeowners, architects, interior designers, contractors, developers, and businesses across various industries. Our commitment to understanding and meeting our clients' unique requirements has earned us a loyal customer base and numerous successful collaborations.  </p>
+
+=Business Case=
+==Executive Summary==
+
+==Issue==
+<p>The issue that arises as a business problem for our client is the decline in sales following the recent pandemic which caused our client to shut down their business for more than 5 months. Not only that but after the pandemic, other businesses started to adapt with innovative technologies and marketing opportunities as businesses were able to cope with changes that benefited the growth of their sales and market through integrating online tools which our client has not maximized and thus resulting to their decline in sales and lack of customer reach. </p>
+
+==Anticipated Outcomes==
+<p>Once the project has been implemented, this will by leading to more customer interaction with their business as the online store will add credibility and improve the customer’s online experience and it will also lead into more sales as more orders can be processed at a time with the help of the ordering system. </p> 
+<p>The project’s end state will be operated and monitored by the client and will run smoothly as they continue to incorporate their products online and cater to the customer needs faster and in a more convenient manner. </p>
+==Recommendation==
+<p>The team addresses the business’ problem by creating a system or an online store which will help the business improve. In a matter of time and client decision, the system may be upgraded, and more features could be added apart from the general features that are needed for the first deployment of the system. </p>
+
+==Justification==
+<p>Applying the system created for Villamin Wood and Iron Works will increase the possibility of expanding their customer reach and increase product sales in comparison to their initial use of Facebook Page. This ordering system will help customers order their desired products even when they are at home or at their workplace. It will provide easy communication between the customer and the client, and an easy transaction for the products or items, this will help Villamin Wood and Iron Works gain more customers and increase their sales continuously without errors or problems. However, this system will not replace their initial page in Facebook, but rather it will help the system to be more advertised and seen by other potential customers. </p>
+
+==Business Case Analysis Team==
+<table border="1" width="70%" align="center">
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Mabelle Aspeli</p></td>
+  <td><p style="text-align:center;">Project Manager</p></td>
+  <td><p style="text-align:center;">The person in charge makes sure the group works well together and finishes 
+  their work on schedule. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Leigh Curtis Camara</p></td>
+  <td><p style="text-align:center;">Team Leader</p></td>
+  <td><p style="text-align:center;">The person in charge of supporting the project manager and guiding the 
+  other team members to complete the project within the given constraints. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Sofia Emmanuelle Villamin</p></td>
+  <td><p style="text-align:center;">Project Stakeholder</p></td>
+  <td><p style="text-align:center;">The person in charge of communicating with the client for the needed 
+  information in the project. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Nathaniel Sison</p></td>
+  <td><p style="text-align:center;">Team Developer</p></td>
+  <td><p style="text-align:center;">Works closely with the stakeholder and team leader. In charge of developing 
+  and implementing the project. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Dale Joshua Domingo</p></td>
+  <td><p style="text-align:center;">Team Secretary/Developer Support</p></td>
+  <td><p style="text-align:center;">Works as the support and with assisting the team’s developer. Also, in 
+  charge of supporting and assisting the team leader.  </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Ludwig Marco Angeles</p></td>
+  <td><p style="text-align:center;">Team Secretary Support</p></td>
+  <td><p style="text-align:center;">Works closely with the team’s secretary, also works as a substitute 
+  whenever the secretary is busy helping the developer.  </p></td>
+ </tr>
+ </table><br/>
+
+==Problem Definition==
+===Problem Statement===
+<p>The project was created to address the problems in their current business process. Their business process consists of manual methods in terms of taking orders, monitoring inventory and recording of sales. This may be a common problem especially now after the pandemic as most businesses adapted to new methods incorporating the use of technology for their benefit. For this reason, the Villamin Wood and Iron works company is looking to address those problems in order to innovate and improve their business. </p>
+
+===Organizational Impact===
+<p>There are no new roles required for this project. But existing roles will have to tend for the project to work as intended. The following are the existing roles and their responsibilities: </p>
+
+<ul> 1.	Store Manager </ul>
+<ul><ul> a. Manage the product’s availability. </ul></ul>
+<ul><ul><ul> i. Managing the System’s Database. </ul></ul></ul>
+<ul><ul><ul> ii. Tend to the customers’ orders. </ul></ul></ul>
+<ul><ul> b. Monitor business performance through Dashboard. </ul></ul>
+<ul> 2.	Store Owner </ul>
+<ul><ul> a. Edit the website. </ul></ul>
+<ul><ul><ul> i. Managing the System’s Database. </ul></ul></ul>
+<ul><ul> b. Monitor business performance through Dashboard Reports. </ul></ul>
+
+===Technology Migration===
+<p>lorem chuchu</p>
+
+==Project Overview==
+<p> The project created for Villamin Wood and Iron works upon their request is an ordering system to help improve their current business process which is why an ordering system was developed by the team. Part of the goals and objectives of this project is to boost the number of customers and improve the time it takes for transactions to be completed.  </p>
+<p>As the project progresses there will be a list of project assumptions, constraints and milestones along the way. However, the preliminary list which the team will build upon is provided below. </p>
+===Project Description===
+<p>The project which is an Ordering System  will consist of features created to benefit both the client and their customers will be implemented to address the business problems of the client. Utilizing the features of the online store will help to solve the business problems. </p>
+
+<p>The key features are as follows: </p>
+<ul> 1.	Ordering System – To provide a convenient and faster way to process and create orders. </ul>
+<ul> 2. Customer Sign-up/Log-in – To have accounts that can interact with the online store. </ul>
+<ul> 3. Admin Dashboard – To be able to monitor the sales and inventory. </ul>
+
+===Goals and Objectives===
+<p>The business goals and objectives supported by the project created by MLNSD are prominently observed as requested by the client (Villamin Wood and Iron Works) which is to boost the number of customers and to increase sales with the help of an online store. The project addresses those objectives by developing the online store with an ordering system and having the ability to manage stocks and view reports on the dashboard. Listed below are the specific objectives of the project: </p>
+
+<p>To boost the number of customers by creating a convenient alternative for their Facebook page through our systems which minimizes the amount of clicks it takes to order by 2 clicks.  </p>
+
+<p>To create features for the system such as the add-to-cart and check-out feature which will improve the time it takes for transactions to complete from the previous 2-3 days and now can be accomplished within 1-2 days. </p>
+
+===Project Performance===
+<p>A quantitative criterion to gauge the project's performance will be used to assess its success. The following criteria will be used to gauge the project's success using KPI: </p>
+
+<ul>Budget Plan - The team will look for inefficiency and waste to guarantee quality control in project management procedures. They will also monitor the construction of the project to ensure that the budget will not exceed.</ul>
+<ul>Milestones – The team will track project progress to make sure the project is going according to plan and schedule for the project development.</ul>
+<ul>Productivity – The productivity of the team will be monitored while they carry out their tasks and responsibilities and monitor the progress of the assigned work.</ul>
+<ul>Team Satisfaction - The team will make sure that every team member increases productivity and does their work satisfactorily.</ul>
+<ul>Client satisfaction - The team will offer a Client Satisfaction Survey evaluation to gauge the project's effectiveness and efficiency.</ul>
+
+===Project Assumptions===
+<ul> 1.	There will be communication between the team and the company if there are complications occur upon deployment. </ul>
+<ul> 2.	The business and the team will discuss any additional resources. </ul>
+<ul> 3.	Additional features or changes will be added depending on the discussion and agreement between the team and the client. </ul>
+
+===Project Constraints===
+<p>These are the following constraints pertain to Villamin Wood and Iron works: </p>
+
+<ul> 1. It is necessary to purchase if there are any additional requirements within the allocated budget and time limit. The group will guarantee to effectively accomplish the targets to meet the undertaking goals, and the group will guarantee to effectively accomplish the requirements. </ul>
+<ul> 2.	The software that will be used is necessary to be compatible with our IT platforms.  </ul>
+<ul> 3.	To avoid conflict, any additional requirements should be discussed prior to the deadline. </ul>
+
+===Project Constraints===
+<p>According to the milestone schedule below, the project plan will be submitted and approved. After the project plan is approved, resources will be assigned to it. Any schedule adjustments that may affect milestones must be approved by the Project Sponsor. The project plan will include a thorough schedule. </p>
+
+<table border="1" width="70%" align="center">
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">DELIVERABLE</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">COMPLETION DATE</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">MVC Infographic</p></td>
+  <td><p style="text-align:center;">September 25, 2022</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Project Charter Plan</p></td>
+  <td><p style="text-align:center;">January 1, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Statement of Work</p></td>
+  <td><p style="text-align:center;">January 24, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Project Vision and Scope</p></td>
+  <td><p style="text-align:center;">January 19, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Activity List</p></td>
+  <td><p style="text-align:center;">February 23, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Work Breakdown Structure</p></td>
+  <td><p style="text-align:center;">May 3, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Quality Management Plan</p></td>
+  <td><p style="text-align:center;">February 15, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">User Project Review</p></td>
+  <td><p style="text-align:center;">February 13, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Test Case</p></td>
+  <td><p style="text-align:center;">February 13, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Quality Management Plan</p></td>
+  <td><p style="text-align:center;">February 15, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Software Requirement Specification</p></td>
+  <td><p style="text-align:center;">February 17, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Business Case</p></td>
+  <td><p style="text-align:center;">April 13, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Stakeholder Analysis</p></td>
+  <td><p style="text-align:center;">April 13, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Stakeholder Management Strategy</p></td>
+  <td><p style="text-align:center;">April 13, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Cost Management Plan</p></td>
+  <td><p style="text-align:center;">May 3, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Schedule Management Plan</p></td>
+  <td><p style="text-align:center;">May 3, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Scope Management Plan</p></td>
+  <td><p style="text-align:center;">May 3, 2023</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Work Package Solution</p></td>
+  <td><p style="text-align:center;">May 3, 2023</p></td>
+ </tr>
+</table>
+
+==Strategic Alignment==
+<p>By ensuring that the Ordering System is in line with Villamin Wood and Iron Work's strategic goals and objectives, the team MLNSD will optimize the project's value and guarantee its contribution to the company's long-term success. </p>
+
+<b><font size="12"><ul style="text-align:center">Villamin Wood and Iron Works aims to deliver superior craftsmanship and innovative solutions in the fields of woodworks, ironworks, glass fabrication, and aluminum works.</ul></font></b>
+<ul> A flexible, scalable ordering system that can support the development and growth of the company in the future. The ordering system allows customers to customize orders based on their specific requirements. This flexibility is crucial, as it aligns with the company's commitment to delivering unique, tailored craftsmanship. The system should enable customers to choose from a range of options, such as design elements, finishes, sizes, and materials for iron, glass, and aluminum works. </ul>
+
+<b><font size="12"><ul style="text-align:center">Villamin Wood and Iron Works aim to exceed customer expectations and enhance the functionality and visual appeal of their products. </ul></font></b>
+<ul>By aligning with this goal, an ordering system is a customer-centric approach that enhances the customer experience and provides convenience. The ordering system is designed to be user-friendly and intuitive and includes features that make it simple for clients to place orders and track progress. </ul>
+
+<b><font size="12"><ul style="text-align:center">Villamin Wood and Iron Works strive to become the preferred choice for clients seeking premium manufacturing services. </ul></font></b>
+<ul>By aligning the ordering system with the strategic goals of the company of becoming the preferred choice for premium manufacturing services, the ordering system will enhance the overall customer experience by allowing customers to easily navigate through the process. Incorporate features such as real-time order tracking and customization. Lastly, by improving operational efficiency to optimize the workflow and automate processes within the ordering system to minimize errors, reduce lead times, and improve overall operational efficiency. </ul>
+
+
+
+==Cost Benefit Analysis==
+<p>lorem ipsum</p>
+
+==Alternatives Analysis==
+<p>There are other alternatives that the team has put into consideration for the Business's concern. Listed are those alternative solutions alongside with why the team did not lean towards it: </p>
+
+<ul> 1. Focus on the current business process. </ul>
+<ul><ul> Though the company and its employees have grown accustomed to their current practice, this method could impose a threat compared to their competitors. As other competitors innovate their way through online platforms, they also increase their chances of attracting customers, and have a well-documented process. If the company were to disregard innovation in marketing, they might find it more difficult to market what they are selling and rely only on what was written. </ul></ul>
+
+<ul> 2. Enhance the company's Facebook page. </ul>
+<ul><ul> The client already has a Facebook page, but this limits them from customizing their page in a way that may help them introduce their company to the mass public. </ul></ul>
+
+<ul> 3. Sell products through available ecommerce websites. </ul>
+
+=Project Charter Plan=
+==Executive Summary==
+<p>Since 1983, our company, Villamin Wood & Iron Works, has proven the durability of the products. But they lack customer reach and sales. Due to that problem, Villamin Wood & Iron Works System has been created to help reach out to more customers, not only through on-shop, but also through online, which will also help increase the company’s sales. The project is being created as a solution and in line with the current ordering system to accomplish both the customer and company’s needs. </p>
+
+==Project Purpose/Justification==
+===Business Need/Case===
+<p>The Villamin Wood & Iron Works System has been created to help the company increase their sales and customer reach to take back the loss in income from the sudden temporary closing of shop due to the pandemic. Also, to enhance the conveniency of their customers. In this approach, it will eliminate unnecessary expenses of the company. The cost to make the system successful will be covered by the company owner, recovered by the system's anticipated results. </p>
+
+===Business Objectives===
+<ul> 1. Strengthen customer service. </ul>
+<ul><ul> Develop goals that motivate them and ensure that our customers and clients have a positive experience with our services. And emphasize the importance of providing an exceptional customer experience every time we connect with our customers and clients. </ul></ul>
+<ul> 2.	Sell a more reliable product. </ul>
+<ul><ul> Our company will set quality and troubleshooting goals to identify areas for improvement within our products. With this, we will be able to give constant enhancements and upgrades based on the demands of our clients.  </ul></ul>
+
+==Project Description==
+<p>The Villamin Wood & Iron Works System will support the increase in the company’s sales and customer reach. The system will provide easy navigation and transaction to avoid complications while the system is being used by customers. The system will be an additional tool from the company’s current platform to attain their objectives while allowing customers to browse and process orders easily. </p>
+
+===Project Objectives and Success Criteria===
+====Constraints====
+<p>These are the following constraints pertain to Villamin Wood and Iron works: </p>
+<ul> 1. It is necessary to purchase if there are any additional requirements within the allocated budget and time limit. </ul>
+<ul> 2. The stakeholder will provide the necessary information for the project. </ul>
+<ul> 3. The software to be used must be suitable for our IT (Information Technology) platforms. </ul>
+
+====Assumptions====
+<ul> 1. There will be communication between the team and the company if there are complications occur upon deployment. </ul>
+<ul> 2. If there are more resources, the company and the team will discuss. </ul>
+
+==Preliminary Scope Statement==
+<p>This project created by the MLNSD team will include designing, improving, testing and delivery of an improved online ordering system for the client, Villamin Wood & Iron Works. The improved system will require internet use to capture the orders and training of the client's staff to manage and administer the website. The project will conclude once the system is ready for deployment. </p>
+
+==Risks==
+<p>The following risks are what the team has foreseen that could affect the performance output of the project proposed: </p>
+
+<ul> 1. Denial of service </ul>
+<ul><ul> a. Web Services that are not accessible to the users, render potential loss of profit. </ul></ul>
+<ul><ul> b. A factor that causes Denial of Service is web traffic entering the system. When the system has received user requests beyond its capacity, it may lead to a system crash. </ul></ul>
+<ul><ul> c. Malicious attacks also play a role. In which hackers flood/overflow the request, impair the servers, and cause inoperability. </ul></ul>
+<ul><ul> d. Not only will customers suffer from the system's malfunction caused by external factors, but the company's workforce will not be able to complete the tasks required to fulfill the needed output. </ul></ul>
+
+<ul> 2. SQL injections </ul>
+<ul><ul> a. Hackers use this technique to alter the desired algorithm (within the source code) by the developers. This in return gives more control to them. It also increases the company's system vulnerabilities. </ul></ul>
+
+<ul> 3. SQL injections </ul>
+<ul><ul> a. Data breach is a process of hackers collecting data without any form of authorization from the product owners. The data can be used to damage the company and its stakeholder's reputation for the benefit of the infiltrator. </ul></ul>
+<ul><ul> b. Despite having numerous methods of attacks (such as, insider leak, loss or theft of information, and unintended disclosure), the prior risks may also be a factor that may contribute to this. </ul></ul>
+
+<ul> 4. Cybersquatting </ul>
+<ul><ul> a. Cybersquatting is a way for external affairs to take advantage of the websites' domain. </ul></ul>
+<ul><ul> b. Cybersquatters manipulate the reputation and domain of the company and use it to redirect users to a different service and/or platform. </ul></ul>
+
+<p>With the listed risks, the team will collaborate with the stakeholders and ensure that the foreseen risks will be tended to. In preparation to reinforce the project based on the risks listed, the team will create solutions that are aligned with the project budget and constraints. If the risks were to affect the system, the team will ensure this is handled with immediate response. </p>
+
+==Summary Milestone Schedule==
+<p>Below is a summary of the project's milestone schedule. This timeline may change as requirements become more specified. The project manager will convey any modifications through project status meetings. </p>
+
+<b><font size="12"><p style="text-align:center">Summary Milestone Schedule – List key project milestones relative to project start. </p></font></b>
+
+<table border="1" width="70%" align="center">
+ <tr>
+  <td><p style="text-align:center;">PROJECT MILESTONE</p></td>
+  <td><p style="text-align:center;">TARGET DATE <br> (MM/DD/YY) </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Project Start</p></td>
+  <td><p style="text-align:center;">3/30/22</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;"><i>Planning</i> <br> Midterm Presentation <br> Finals Presentation </p></td>
+  <td><p style="text-align:center;"><br> 5/2/2022 <br> 6/7/2022</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;"><i>Analysis and Design</i> <br> MVC Infographic <br> Flow of Activities 
+  (Diagrams) <br> Initial Working Prototype </p></td>
+  <td><p style="text-align:center;"><br> 9/29/22 <br> 10/28/22 <br> 11/15/22</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;"><i>Development, Testing, and Deployment</i> <br> GitHub Repository <br> 
+  Project Charter Plan <br> Project Scope and Vision <br> Quality Management Plan <br> Software System 
+  Requirements </p></td>
+  <td><p style="text-align:center;"><br> 12/15/22 <br> 1/12/23 <br> 1/15/23 <br> 2/15/23 <br> 2/20/23 </p> 
+  </td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Project Complete</p></td>
+  <td><p style="text-align:center;">2023</p></td>
+ </tr>
+</table>
+
+==Project Approval Requirements==
+<p>The project will be considered successful when everything is completely deployed during the project's life span within the time restrictions specified in this charter. Furthermore, as we fully anticipate the need for this solution to evolve to avert future threats, this measure of success must contain a list of recommendations for consideration. The Project Sponsor, Mr. Manuel Villamin Jr., who will also approve the project's conclusion, will determine its success. </p>
+
+==Project Manager==
+<p>For the Villamin Wood and Iron Works Project, Ms. Mabelle T. Aspeli, the Project Manager. All project tasks, scheduling, and communication regarding the system are her responsibility, and she can approve the allocated budget including additional resources. She will coordinate with the stakeholder, Ms. Sofia Villamin, for more understanding and easier gathering of information about the company.  </p>
+
+=Stakeholder Management Strategy=
+==Introduction==
+<p>The objectives and guiding principles for Villamin Wood and Iron Works' participants, staff, and employees are outlined in this paper. It provides a strategic plan to guarantee Villamin Wood and Iron Works' recognition as well as its continued growth and expansion. </p>
+<p>The organization must contribute to defining and enabling modern technology in a world marked by risk and uncertainty as well as an enormous opportunity. We think Villamin Wood and Iron Works is in an outstanding position to acquire the necessary abilities in all project participants and to have a business strategy that will assist the company's growth. </p>
+<p>Villamin Wood and Iron Works affiliates directly contributed to the creation of our Strategic Plan for 2022–2023. Thus, the plan invites all stakeholders to actively participate as we build on our strengths, fix our flaws, and strive to reach our potential. </p>
+
+==Identify Stakeholders==
+<table border="1" width="70%" align="center">
+ <tr>
+  <td><p style="text-align:center;">STAKEHOLDER</p></td>
+  <td><p style="text-align:center;">ROLE</p></td>
+  <td><p style="text-align:center;">INTEREST LEVEL <br> H/L</p></td>
+  <td><p style="text-align:center;">EXPECTATIONS</p></td>
+  <td><p style="text-align:center;">ACTIONS REQUIRED</p></td>
+  <td><p style="text-align:center;">CONTACT</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Manuel C. Villamin Jr.</p></td>
+  <td><p style="text-align:left;">Business Owner</p></td>
+  <td><p style="text-align:center;">H</p></td>
+  <td><p style="text-align:left;">Detailed efficient plans and strategies for business operations</p></td>
+  <td><p style="text-align:left;">Liaise with stakeholder and provide company’s information</p></td>
+  <td><p style="text-align:left;">villaminmcverv@gmail.com</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Mabelle Aspeli</p></td>
+  <td><p style="text-align:left;">Project Manager</p></td>
+  <td><p style="text-align:center;">H</p></td>
+  <td><p style="text-align:left;">Acquire and approve the required documents that should be approved by the 
+  stakeholder. Follow up questions to the client if there are clarifications. </p></td>
+  <td><p style="text-align:left;">Align stakeholders around the vision of the product</p></td>
+  <td><p style="text-align:left;">mtaspeli@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Leigh Curtis Camara</p></td>
+  <td><p style="text-align:left;">Team Leader</p></td>
+  <td><p style="text-align:center;">H</p></td>
+  <td><p style="text-align:left;">Timely updates on project progress</p></td>
+  <td><p style="text-align:left;">Delegate tasks and set deadlines</p></td>
+  <td><p style="text-align:left;">lbcamara2@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Sofia Emmanuelle Villamin</p></td>
+  <td><p style="text-align:left;">Project Stakeholder</p></td>
+  <td><p style="text-align:center;">H</p></td>
+  <td><p style="text-align:left;">Reports and details of client’s demand</p></td>
+  <td><p style="text-align:left;">Provides resources and support for the project</p></td>
+  <td><p style="text-align:left;">srvillamin@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Nathaniel Sison</p></td>
+  <td><p style="text-align:left;">Team Developer</p></td>
+  <td><p style="text-align:center;">H</p></td>
+  <td><p style="text-align:left;">Obtain project requirement and client’s demand</p></td>
+  <td><p style="text-align:left;">Liaise with team leader and stakeholder to execute suitable requisite. </p> 
+  </td>
+  <td><p style="text-align:left;">nmsison@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Dale Joshua Domingo</p></td>
+  <td><p style="text-align:left;">Team Secretary</p></td>
+  <td><p style="text-align:center;">L</p></td>
+  <td><p style="text-align:left;">Detailed records of problems that appear during testing</p></td>
+  <td><p style="text-align:left;">Facilitate and schedule team meetings</p></td>
+  <td><p style="text-align:left;">dbdomingo@student.apc.edu.ph</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Ludwig Marco Angeles</p></td>
+  <td><p style="text-align:left;">Team Secretary Support</p></td>
+  <td><p style="text-align:center;">L</p></td>
+  <td><p style="text-align:left;"> Observe or participate in product testing</p></td>
+  <td><p style="text-align:left;">Write and provide observation on product testing</p></td>
+  <td><p style="text-align:left;">ltangeles@student.apc.edu.ph</p></td>
+ </tr>
+</table>
+
+==Key Stakeholders==
+<table border="1" width="70%" align="center">
+ <tr>
+  <td><p style="text-align:center;">STAKEHOLDER</p></td>
+  <td><p style="text-align:center;">ROLE</p></td>
+  <td><p style="text-align:center;">RESPONSIBILITIES</p></td>
+  <td><p style="text-align:center;">COMMENTS</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Mabelle Aspeli</p></td>
+  <td><p style="text-align:left;">Project Manager</p></td>
+  <td><p style="text-align:center;">Principal responsible party for the project's accomplishment. Work plan, 
+  resource allocation, risk management, scope change management, milestones monitoring, and project status 
+  communication with all stakeholders. </p></td>
+  <td><p style="text-align:left;">Notifies the Team Leader of any escalating risks, problems, or personnel 
+  difficulties. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Leigh Curtis Camara</p></td>
+  <td><p style="text-align:left;">Team Leader</p></td>
+  <td><p style="text-align:center;">A person who leads, oversees, and manages a team of workers to accomplish 
+  objectives that advance the organization. </p></td>
+  <td><p style="text-align:left;">Authority to handle challenges, risk, and conflicts. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Sofia Emmanuelle Villamin</p></td>
+  <td><p style="text-align:left;">Project Stakeholder</p></td>
+  <td><p style="text-align:center;">A person who is responsible for facilitating the project's success and 
+  provides resources and support. </p></td>
+  <td><p style="text-align:left;">Aim to remove eliminate barriers and approves the final plan. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Nathaniel Sison</p></td>
+  <td><p style="text-align:left;">Team Developer</p></td>
+  <td><p style="text-align:center;">A person in charge of organizing a functional or technical area's work. 
+  </p></td>
+  <td><p style="text-align:left;">Emulate client's demand and develops the project. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Dale Joshua Domingo</p></td>
+  <td><p style="text-align:left;">Team Secretary</p></td>
+  <td><p style="text-align:center;">A person in the position of setting up meetings, managing paperwork, and 
+  replying to communications. </p></td>
+  <td><p style="text-align:left;">Maintains the team's efficiency and organization. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Ludwig Marco Angeles</p></td>
+  <td><p style="text-align:left;">Team Secretary Support</p></td>
+  <td><p style="text-align:center;">A person who is in control of carrying out project duties to 
+  meet its goals. </p></td>
+  <td><p style="text-align:left;">Updates the Team Leader and Project Manager on their work's progress as well 
+  as any relevant risks or difficulties. </p></td>
+ </tr>
+</table>
+
+==Stakeholder Analysis==
+<table border="1" width="70%" align="center">
+ <tr>
+  <td><p style="text-align:center;">STAKEHOLDER</p></td>
+  <td><p style="text-align:center;">ROLE</p></td>
+  <td><p style="text-align:center;"><i>IMPACT</i><br>How much does the project impact them? <br> (Low, Medium, 
+  High) </p></td>
+  <td><p style="text-align:center;"><i>INFLUENCE</i><br>How much influence do they have over the project? <br> 
+  (Low, Medium, High) </p></td>
+  <td><p style="text-align:center;">WHAT IS IMPORTANT TO THE STAKEHOLDER? </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Manuel C. Villamin Jr.</p></td>
+  <td><p style="text-align:left;">Business Owner</p></td>
+  <td><p style="text-align:center;">High</p></td>
+  <td><p style="text-align:left;">High</p></td>
+  <td><p style="text-align:left;">Providing detailed and efficient plan to support the development of the 
+  team</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Mabelle Aspeli</p></td>
+  <td><p style="text-align:left;">Project Manager</p></td>
+  <td><p style="text-align:center;">High</p></td>
+  <td><p style="text-align:left;">Medium</p></td>
+  <td><p style="text-align:left;">Keeping all stakeholders informed, involved, and on board throughout the 
+  project’s development</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Leigh Curtis Camara</p></td>
+  <td><p style="text-align:left;">Project Manager</p></td>
+  <td><p style="text-align:center;">High</p></td>
+  <td><p style="text-align:left;">Medium</p></td>
+  <td><p style="text-align:left;">Ensuring that all parties involved can cooperate to accomplish the 
+  organization's aims and objectives. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Sofia Emmanuelle Villamin</p></td>
+  <td><p style="text-align:left;">Project Stakeholder</p></td>
+  <td><p style="text-align:center;">High</p></td>
+  <td><p style="text-align:left;">High</p></td>
+  <td><p style="text-align:left;">Keeping them informed and updated per client request. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Nathaniel Sison</p></td>
+  <td><p style="text-align:left;">Team Developer</p></td>
+  <td><p style="text-align:center;">High</p></td>
+  <td><p style="text-align:left;">High</p></td>
+  <td><p style="text-align:left;">Keeping them informed and updated per client request. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Dale Joshua Domingo</p></td>
+  <td><p style="text-align:left;">Team Secretary</p></td>
+  <td><p style="text-align:center;">High</p></td>
+  <td><p style="text-align:left;">Medium</p></td>
+  <td><p style="text-align:left;">Keeping the deliverables organized and efficient. </p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:left;">Ludwig Marco Angeles</p></td>
+  <td><p style="text-align:left;">Team Secretary Support</p></td>
+  <td><p style="text-align:center;">High</p></td>
+  <td><p style="text-align:left;">Medium</p></td>
+  <td><p style="text-align:left;">Maintaining work and support to the team throughout the project’s 
+  development. </p></td>
+ </tr>
+</table>
+
+=Scope Management Plan=
+==Introduction==
+<p>The Villamin Wood and Iron Works System plan for scope management describes the technologies and resources that will be used to create, document, and handle the project's context. Agile methodologies and collaborative tools will be utilized by the team to build an ordering system that meets the project's demands. </p>
+
+<ul> 1.	Collect Requirements – In order to gather and record the system's requirements, the project team will employ a variety of methods, including client interviews and discussions. </ul>
+<ul> 2. Define Scope – To establish the scope, the user stories and scope statement will be integrated into a project management plan. The plan will be revised periodically to accommodate any modifications in the project's scope during its advancement. </ul>
+<ul> 3. Verify Scope – The project group will utilize an agile methodology to test and confirm that the expectations of the undertaking meet the necessities and line up with the scope statement. </ul>
+<ul> 4. Control Scope – A formal change control process will be used to manage any changes to the project's scope. This process will look at how these changes will affect the project's schedule, budget, and quality. Additionally, each change solicitation guarantees that the change is fundamental, practical, and lined up with the project objectives. </ul>
+<ul> 5.	Create WBS – this process breaks project deliverables down into progressively smaller and more manageable components which, at the lowest level, are called work packages.  This hierarchical structure allows for more simplicity in scheduling, costing, monitoring, and controlling the project. </ul>
+
+==Scope Management Approach==
+<p>The Project Manager, Mabelle Aspeli, will have the authority and responsibility to manage scope management. Mabelle Aspeli will collaborate with the project sponsor, Mr. Manuel Villamin Jr, to establish and regulate the project's scope. </p>
+<ul> 1. The extent of the project will be assessed and confirmed by reports, frequent assessments of the project's advancement in comparison to the initial scope, and evaluation of the project's performance. If there are any variations from the initial scope, they will be identified and resolved through the scope change procedure. </ul>
+<ul> 2. Throughout the Villamin Wood and Iron Works process, the scope of the project will change, the Project Manager will have to accommodate a change request, and the project sponsor will give the final approval. To ensure that they align with the project objective and do not adversely affect the schedule or budget, any changes to the project scope must be thoroughly evaluated. </ul>
+<ul> 3. It is the duty of the Project Manager to make sure that all project requirements have been met so that the final deliverables are accepted and approved by the stakeholder and the project sponsor. Once all the deliverables are accepted and any remaining issues are resolved, the successful completion of the project will be confirmed. </ul>
+
+==Roles and Responsibilities==
+<ul> <i>Project Manager</i> – It is the responsibility of the Project Manager to manage and authorize modifications to the project's scope, as well as to establish and record the project's scope. </ul>
+<ul> <i>Project Sponsor</i> – Project Sponsor will have the authority to approve all changes, particularly in project budget, schedule, and project scope. </ul>
+<ul> <i>Project Team</i> - The project team’s responsibility is to verify the scope of the project and to ask any relevant questions regarding modifications that have been submitted. </ul>
+<ul> <i>Stakeholder</i> - Stakeholders are responsible for providing their insights into the project's requirements and scope as well as authorizing any necessary changes to the scope. </ul>
+
+==Scope Definition==
+<p>The team developed the project Villamin Wood and Iron Works System to build a system that resolves all the issues presented by the client and to meet their demands which includes the following: </p>
+
+<ul> 1. Creating an Ordering System in the online store to address the conflicts with their manual ordering process.  </ul>
+<ul> 2. Increasing the customer reach. </ul>
+<ul> 3. Monitor the inventory of stocks and orders. </ul>
+
+<p>The process of developing the detailed description of this project and its deliverables occurred through interviewing with the client and learning about their business process and understanding their struggles and how we can contribute to their business by providing the project.  Team meetings discussing and developing a plan is an important process in the development of the project as we identified all requirements, scope of the project, and how we can incorporate our ideas into the system. </p>
+
+==Project Scope Statement==
+<ul> <i>Product Scope Description</i> – The project will accomplish all requests made by the client based on the business problems they have provided which should be solved by the project.  </ul>
+
+<ul> <i>Product Acceptance Criteria</i> – Part of the acceptance criteria will be based on the overall satisfaction of the client. This can be broken down into specific parts which includes the deployment of a fully functioning online store, solving all the presented business problems, and catering to the needs of the customers through the online store.  </ul>
+
+<ul> <i>Project Exclusions</i> - The following is out of the scope of the project and will not be included:  </ul>
+<ul><ul> a. Modification of the system beyond what was discussed in the project scope statement.  </ul></ul>
+<ul><ul> b. Collaborations with other system/company outside of the scope of the project.  </ul></ul>
+
+<ul> <i>Project Constraints</i> - The following limits the project:  </ul>
+<ul><ul> a. Limited budget </ul></ul>
+<ul><ul> b. Availability of tools to use </ul></ul>
+<ul><ul> c. Manpower </ul></ul>
+
+<ul> <i>Project Assumptions</i> - The following assumptions have been made about the project: </ul>
+<ul><ul> a. The project timeline will be followed. </ul></ul>
+<ul><ul> b. The project will stick to the discussed budget. </ul></ul>
+<ul><ul> c. The system will be fully functional and accessible to the client. </ul></ul>
+
+==Work Breakdown Structure==
+<p>lorem ipsum</p>
+
+==Scope Verification==
+<p>In ensuring that the deliverables are verified leading to the formal acceptance of the project, the team will use the following methods for scope verification: </p>
+
+<ul> <i>Quality checklists</i> – This list will check that the requirements are being fulfilled and verify that they pass the standards to advance to the next deliverable. </ul>
+
+<ul> <i>Work performance measurements</i> – The team will keep track of the progress of every deliverable, assuring that every member is contributing and fulfilling their roles in the development of the project. </ul>
+
+<ul> <i>Scope baseline</i> – This is used to ensure that the deliverables will meet the scope and make sure that it maintains the original project scope despite changes being implemented. </ul>
+
+<ul> <i>Formal Acceptance</i> – The acceptance of both the project sponsor, other stakeholders and the team is needed for the completion. This ensures that the team has met the demands and expectations of the client. That is why it is essential that there are consistent meetings and communications to ensure that the project and deliverables go as planned. </ul>
+
+==Scope Control==
+<p>As part of the scope control process, the project's progress and outcomes will be evaluated on a regular basis to make sure they still adhere to the project scope that is stated in the Project Scope Statement. Any deviations from the scope will be assessed, and if fundamental, the changes in the scope will be documented and still follow the procedure in the existing scope. Monitoring and managing will be the responsibility of 
+the project manager alongside the team and stakeholders. The project manager will be reviewed on a regular basis to make sure that the project progress is still being followed. </p>
+
+<p>The following steps will be taken to modify the scope baseline during the scope control process for the Villamin Wood and Iron Works System project: </p>
+
+<ul> 1.	The request for a change in scope will be evaluated by the Project Manager and the Project Sponsor to assess its potential impact on the project schedule, financial plan, and available resources. </ul>
+<ul> 2.	Any stakeholder or team member who identifies a requirement for a change to the scope will initiate a scope change request. </ul>
+<ul> 3.	If the request is approved, the Project Manager will create a plan of action to implement the change, revise the initial project scope, and communicate the change to all relevant stakeholders. </ul>
+<ul> 4.	The project team will continue with the original scope if the request is rejected. </ul>
+
+=Cost Management Plan=
+==Introduction==
+<p>The Cost Management Plan will include the required resources and process of estimating and tracking the cost to keep expenses within the planned budget. Mabelle Aspeli, our Project Manager, will be responsible for managing and reporting on the project expenses throughout the project duration. She will also have the authority to make and approve changes to the project to bring it back within the budget. The Project Cost Performance will be measured using a set of formulas that integrate schedule, scope, and costs to measure project success. The Project Manager will review cost deviations she will be presenting to the project sponsor, and she will also provide options for the project back on budget. </p>
+
+==Cost Management Approach==
+<p>lorem ipsum</p>
+
+==Measuring Project Costs==
+<p>lorem ipsum</p>
+
+==Reporting Format==
+<p>Reporting on cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p>
+
+==Cost Variance Response Process==
+<p>The Control Thresholds for this project are a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and how the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan, it will become a part of the project plan and the project will be updated to reflect the corrective actions. </p>
+
+==Measuring Project Costs==
+<p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
+
+==Project Budget==
+<p>lorem ipsum</p>
+
+=Schedule Management Plan=
+==Introduction==
+<p>The schedule management plan is a roadmap for the process of executing the project. This is important as they provide the status of the project to the project team, sponsor, and stakeholders. The purpose of the schedule management plan is to specify the methodology the project team will employ in putting together the project schedule. The schedule management plan must be identified, analyzed, documented, prioritized, approved, or rejected, and published. This plan will help the team to monitor the progress of the project and manage the changes to the project schedule after being approved. </p>
+
+==Schedule Management Approach==
+<p>The schedule management plan will be created with the help of the deliverables in the Work Breakdown Structure (WBS). The specific work packages that must be carried out to complete each deliverable will be identified by the activity definition. To determine the order of work packages, an activity sequencing will be used and assigned between project activities. The number of work periods necessary to finish work packages will be determined using activity duration estimation. To finish schedule development, resource estimating will be used to allocate resources to work packages. </p>
+
+<p>Once an initial schedule has been done, the project team and stakeholders will review the task and must agree on the proposed work package assignments, duration, and schedule. Afterwards, the project team will have it reviewed by the project sponsor for the approval and have the schedule baselined.  </p>
+
+<p>The milestones for the projects schedule are as follows: </p>
+
+<ul> 1. Completion of deliverables </ul>
+<ul> 2. Completion of scope management plan and Work Breakdown Structure (WBS) </ul>
+<ul> 3. Approval of initial schedule baseline </ul>
+<ul> 4. Project Sponsor budget approval </ul>
+<ul> 5. Roles and responsibilities approval </ul>
+<ul> 6. Acceptance of deliverables </ul>
+
+<p>Schedule development roles and responsibilities are the following: </p>
+
+<ul> <i>Project Manager</i> – responsible for facilitating and checking the progress of the deliverables. The project manager also supports the team, stakeholder, and project sponsor on validating the proposed schedule. </ul>
+<ul> <i>Project Team</i> – responsible for working and completing the deliverables. The project team is also responsible for reviewing the proposed schedule and assigning activities after the schedule’s approval. </ul>
+<ul> <i>Project Stakeholders</i> – responsible for reviewing of proposed schedule and assisting in approvals. 
+</ul>
+<ul> <i>Project Sponsor</i> - responsible for reviewing of proposed schedule and approval of the final schedule before baselined. </ul>
+
+==Schedule Control==
+<p>The project schedule will be reviewed and updated on a twice a week basis with actual start, actual initial completion, and the final completion percentage which will be given and reviewed by the Project Manager. Additionally, the project manager will be responsible for holding meetings for the updates and reviews, submission of schedule change requests, and reports of the schedule status according to the project’s communication plan. </p>
+
+<p>The project team will be responsible for participating in the meetings for updates and reviews, reporting any changes of actual start and actual initial completion to the project manager. </p>
+
+<p>The project sponsor will be responsible for maintaining the acknowledgement of the project schedule status, review and approve any schedule change requests that will be submitted by the project manager. </p>
+
+==Schedule Changes and Thresholds==
+<p>If there’s a need for a change in the schedule, the team must hold a meeting with the project manager and identify the proposed changes as they will affect the tasks in progress. While holding the meeting, the team must identify the cause of change and other changes and find a way of taking an alternative action to use for the success of the proposed scheduled plan. Afterwards, the project manager may review the proposed changes and submit the schedule change request form to the project stakeholders and project sponsor. </p>
+
+==Scope Change==
+<p>The project team will need to assess the impact of any changes to the project scope that have been approved by the project sponsor on the current schedule. The project manager may request that the schedule be re-baselined to consider any changes that must be made as part of the new project scope if it is determined that the scope change will significantly affect the current project schedule. This request must be reviewed and approved by the project sponsor before the schedule can be re-baselined. </p>
+
+=Quality Management Plan=
+==Introduction==
+<p>To ensure consistently high quality throughout the project, a quality management plan, and an agile methodology is needed to complete the requirements. The quality standards for evaluating the Villamin Wood and Iron Works project will be established by this plan. In addition, it offers a structure for resolving quality issues, illustrating the jobs and obligations of team members, and enumerating the standards and techniques connected with quality.
+
+<p>These are the goals of the quality of the management plan: </p>
+<ul> 1. Ensure that the project meets or surpasses the expectations of stakeholders. </ul>
+<ul> 2. Determine the quality standards that will be used to evaluate the project. </ul>
+<ul> 3. Set up a system for managing and consistently maintaining the project's quality throughout its duration. </ul>
+<ul> 4. Identify and resolve any potential quality issues. </ul>
+<ul> 5. Make sure to define the roles and responsibilities of team members to attain quality standards. </ul>
+
+<p>The system implemented by Villamin Wood and Iron Works will prioritize user-friendliness and accommodation for the two clients and the actual business. It will seamlessly integrate with the organization's current technology, ensuring adaptability. The Quality Management Plan will encompass both product and process quality standards. It will include a comprehensive strategy with specific procedures and reporting for the overall overview of quality. </p> 
+
+==Quality Management Approach==
+<p> To guarantee that the project meets all following requirements and expectations of all stakeholders, the Quality Management Plan will provide a comprehensive framework for effectively managing and maintaining the project's quality. To determine and address any quality issues which may arise, the plan will lay down a detailed set of procedures. </p>
+
+<p>The following are the roles and duties of the quality management plan: </p>
+<ul><b> 1. Project Manager </b> – accountable for ensuring that all deliverables are completed on time and that all stakeholders are pleased with the product. </ul>
+<ul><b> 2. Project Team Leader </b> - Responsible for ensuring that the team adheres to the Scrum principles and cooperates with Product Owner and Development Team to enhance the final product. </ul>
+<ul><b> 3. Project Development Team </b> – responsible for making contributions to accomplish the project objectives. ensuring that each deliverable is completed. Providing expertise and collaboration to define and satisfy business requirements to ensure the project's success. </ul>
+<ul><b> 4. Project Sponsor </b> – is responsible for supporting the project and allocating financial resources. </ul>
+
+==Quality Requirements / Standards==
+<p>These are the following steps that include: </p>
+
+<ul> 1. <b> Define Quality Standards:</b> The project team will prioritize delivering value to the customer by establishing quality standards that are in line with the principles of Agile Methodology. </ul>
+<ul> 2. <b> Quality Planning:</b> To determine the project's requirements and prioritize the best features, the team will maintain regular collaboration and schedule a meeting with stakeholders. This procedure includes creating the Product Backlog and establishing quality objectives to guarantee that the project transition produces value and abides by quality standards. </ul>
+<ul> 3. <b> Quality Control: </b> Quality control incorporates the most common way of looking into and testing to distinguish any potential issues that emerge at various stages. This system is done throughout the run to ensure that the established requirements and project goals are fulfilled. </ul>
+<ul> 4. <b> Quality Assurance: </b> The team will employ efficient methods and procedures to ensure that the project adheres to established standards and guidelines. To actively prevent issues and defects from occurring, they will implement quality assurance measures. </ul>
+<ul> 5. <b>Continuous Improvement: </b> The team consistently monitors its performance throughout the project's development to identify areas for improvement and make necessary adjustments. In this process, feedback plays a crucial role in involving stakeholders and fostering team collaboration. The team can identify areas that need improvement and improve the project's overall quality by actively seeking feedback. </ul>
+<ul> 6. <b> Communication: </b> Effective communication between the development team and stakeholders holds significant importance in this process. It serves multiple purposes, including updating stakeholders on the current quality status of the product, demonstrating alignment between the system's processes and the product's goals, and providing stakeholders with an opportunity to provide valuable feedback. </ul>
+
+<p> In conclusion, the Villamin Wood and Iron Works system project's quality management strategy will prioritize the delivery of a high-quality product that meets customer requirements by employing an Agile methodology. To go beyond meeting quality expectations, the approach will remain adaptable and continuously improved, and the team ensures that it is in line with the organization's quality standards and that it fulfills the requirements of the project stakeholders. </p>
+
+<p><b> Product Quality Requirements:</b> </p>
+<ul> 1. The system will have user-friendly instructions and an interface, making it easy to operate and meet all the requirements for the project. </ul>
+<ul> 2. The project will enhance business operations and align with the existing technology infrastructure. </ul>
+
+<p><b> Requirements for Ensuring Quality of Processes: </b></p>
+<ul> 1. The product owner and development team will carefully review and support any endeavor expectations before communicating to the customer. </ul>
+<ul> 2. The improvement gathering will lead to typical run reviews to promptly recognize and decide on any quality concerns. </ul>
+<ul> 3. To guarantee consistent system development, testing, and deployment, the development team will adhere to a specified configuration management procedure. </ul>
+<ul>4. The development team will set up continuous testing along with a quality assurance approach to make sure that the system complies with all technical requirements and requirements. </ul>
+
+<p><b> Compliance Demonstrations: </b> </p>
+<ul> 1. Before deploying to the client, the group will evaluate and test the Villamin Wood and Iron Works framework as per the characterized quality necessities and principles. </ul>
+<ul> 2. The improvement group will keep up with nitty gritty documentation of all testing and quality affirmation exercises, which can be gotten to by the client upon demand. </ul>
+<ul> 3. A conventional acknowledgment test will be led by the improvement group in a joint effort with the client to ensure that the framework meets their necessities and assumptions. </ul>
+<ul> 4. The development team will provide ongoing support to guarantee that the system consistently adheres to the established quality standards. </ul></ul>
+
+<p><b> Continual Improvement:</b> </p>
+<p> Continuous client feedback collection and analysis, system performance monitoring, and internal audits to find areas for improvement will all be part of the development team's continuous improvement process. This kind of setup will be incorporated into the venture to guarantee that the Villamin Wood and Iron Works System ensures quality standards are met as well as proactively adjusts to developing client needs. </p>
+
+==Quality Assurance==
+==Quality Control==
+<p> The process of quality control within the Villamin Wood and Iron Works System project will be established into the Agile approach with the goal of ensuring that quality meets expectations through teamwork and continuous development. These are the following steps that involve within the project: </p>
+
+<ul>1. <b> Continuous Testing and Feedback: </b> To identify any issues and assure that the product corresponds to the demands of the client, the project team is going to perform a continual evaluation. </ul>
+<ul>2. <b> User Acceptance Testing: </b> To ensure that it aligns with client requirements and demands, the system's functionality will be monitored by the project manager or developer. This phase will be finished at the end of each sprint, and user feedback will be used to make any necessary improvements. </ul>
+<ul>3. <b> Compatibility Testing: </b> The Villamin Wood and Iron Works System will undergo testing across several phases, including mobile devices and any browser, to confirm consistency and handle any potential problems within the system. </ul>
+<ul>4. <b> Continuous Monitoring: </b> The project team will carefully monitor the performance and effectiveness of the Villamin Wood and Iron Works system following its installation. This requires constant performance and functioning system monitoring. </ul>
+<ul>5. <b> Tracking and Documenting Quality Evaluations: </b> The project team will adhere to, and the outcomes of the Quality Control procedure will be preserved and used to monitor the activities or progress of the system. </ul>
+<ul>6. <b> Continuous Improvement: </b> The Quality Control procedure aims to identify opportunities for development and make any required adjustments. </ul>
+
+<p> In summary, the Villamin Wood and Iron Works System project's quality control system is going to be essential to the development process. It will emphasize monitoring the overall performance. As part of the quality control process, the project team will diligently monitor and assess the product's quality, ensuring the required quality standards and customer requirements. </p>
+
+==Quality Control Measurements==
+
+=Human Resource Management Plan=
+==Introduction==
+<p> Having a strong project team that will manage and help structure the project is what human resource management strategies are. It is one of the most crucial parts to the success of the project, as it helps to assist in establishing the appropriate and qualified people that will work on the project. This strategy includes the roles and responsibilities, communication protocols, and performance management issues. </p>
+<p> With the use of this plan, the team can successfully manage the project as it will make sure that all team members are working effectively and understands their role and responsibilities, that communications are open, that their performance while working and on what their working on is monitored as their contribution to the success of the project. </p>
+
+==Roles and Responsibilities==
+<p> For the project to be completed successfully, a strong human resources management strategy is essential for any project. It describes the duties and responsibilities of each member of the project team, stakeholders, making sure that everyone is aware of their contributions and how they fit into the overall picture. </p>
+<p> The strategy also specifies the degree of authority and decision-making held by each team member, making sure that resources are distributed and used efficiently. By distinctly defining the strategy will ensure that the appropriate individuals are in the right positions based on their competencies and skill requirements to the appropriate roles to ensure project success. </p>
+
+<p> This plan acts as the success of the project roadmap for the project team to execute and deliver. </p>
+
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">AUTHORITY</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">COMPETENCY</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Sponsor</p></td>
+ <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. Provides 
+     feedback and comments on what can be improved. Able to allot project resources and consent to project 
+     scope changes, schedule, and budgeting plan with significant effects. </p></td>
+ <td><p style="text-align:center;">Ensures that the project delivers the anticipated benefits and value and is 
+     in line with the organization's strategic goals and objectives. Provide guidance to the project and 
+     project manager. Communicate with the stakeholder and project manager for the progress of the project and 
+     team. </p></td>
+ <td><p style="text-align:center;">Communicating effectively with the team. Strong leadership and strategic 
+     thinking skills. Understands the team’s goal for the project. Ability to support the project. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Stakeholder</p></td>
+ <td><p style="text-align:center;">Checks the approved changes in the deliverables. Authority to revise an 
+     information that will mislead the goals of the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the deliverables are complete before sending and having it 
+     checked by the project sponsor. Organize meetings with the project manager and project team members for 
+     the feedback from the project sponsor. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Manager</p></td>
+ <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve changes to 
+     project scope, schedule, and budget that has low change effect. </p></td>
+ <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors 
+     the work of the team members. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Leader (Internal User) </p></td>
+ <td><p style="text-align:center;">Leads the team members. Authority to call a meeting with the project manager 
+     and team members about the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Members (Internal Users) </p></td>
+ <td><p style="text-align:center;">Authority to help the project leader and project manager in deciding the 
+     plans on the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
+     to the objectives of the project. Ensures that the deliverables are complete within the given period. 
+     </p></td>
+ <td><p style="text-align:center;">Effective communication skills, project management skills, and cooperation.
+     Knowledge of the company needs, and information to complete deliverables. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Customers (External Users) </p></td>
+ <td><p style="text-align:center;">Test the project’s system. </p></td>
+ <td><p style="text-align:center;">Provides feedback on the project’s system. Communicates with the team to 
+     help improve the system. </p></td>
+ <td><p style="text-align:center;">Communication skills. Knowledge in using an online system. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Client (External User) </p></td>
+ <td><p style="text-align:center;">Company Owner that introduced the project and will test the system. </p> 
+ </td>
+ <td><p style="text-align:center;">Provides feedback on the deliverables and system. Communicates with the 
+     project sponsor, project stakeholder, and project manager for updates and progress.  </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and negotiation skills. </p></td>
+ </tr>
+
+</table>
+
+==Project Organizational Charts==
+<p>Project organizational chart is a visual representation of the relationship between the team and the key stakeholders. At the top of the chart comes the project sponsor, followed by the project stakeholder as they are responsible for communicating between the project sponsor and the rest of the team, and then followed by the project manager which is responsible for managing the project team, send approval requests for the deliverables, and schedules. The project team members are responsible for completing the deliverables and make sure that there’s progress on the tasks at hand. </p>
+
+==Staffing Management==
+<p>Staffing Management is a crucial part of ensuring the success of the project. It shows the plans and process of the project, managing the acquired information, and it also shows the responsibilities and task of the human resources. </p>
+
+=Work Breakdown Structure=
+==Introduction==
+<p></p>
+==Outline View==
+<b><font size="12"><p style="text-align:center">Villamin Wood and Iron Works System</p></font></b>
+<ul> <i>I. Planning</i></ul>
+<ul><ul>Creation of Project </ul></ul>
+<ul><ul>Choose Project/Client </ul></ul>
+<ul><ul>Choose Adviser/Consultant </ul></ul>
+<ul><ul>Design Thinking 1 </ul></ul>
+<ul><ul>Chapter 1 </ul></ul>
+<ul><ul>Chapter 2 </ul></ul>
+<ul><ul>Chapter 3 </ul></ul>
+<ul><ul>Midterm (Sprint 1) </ul></ul>
+<ul><ul>Comments Matrix </ul></ul>
+<ul><ul>Chapter 4 </ul></ul>
+<ul><ul>Chapter 5 </ul></ul>
+<ul><ul>Progression of Chapter 1, 2, and 3 </ul></ul>
+<ul><ul>Finals (Sprint 2) </ul></ul>
+<ul><ul>Updated Comments Matrix and Paper </ul></ul>
+<ul><ul>Submission of Updated Comments Matrix and Final Paper </ul></ul>
+
+<ul><i>II. Analysis and Design</i></ul>
+<ul><ul>Choose Adviser/Consultant</ul></ul>
+<ul><ul>Compilation of MNTSDEV Requirements</ul></ul>
+<ul><ul>Software Design</ul></ul>
+<ul><ul>MVC Infographic</ul></ul>
+<ul><ul>GitHub Repository</ul></ul>
+<ul><ul>Case in Point: Big Ten University</ul></ul>
+<ul><ul>Event Table</ul></ul>
+<ul><ul>Use Case Diagram</ul></ul>
+<ul><ul>Use Case Full Description</ul></ul>
+<ul><ul>Data Flow Diagram</ul></ul>
+<ul><ul>Context Flow Diagram</ul></ul>
+<ul><ul>Entity-Relationship Diagram</ul></ul>
+<ul><ul>Adviser/Consultant Meeting 1</ul></ul>
+<ul><ul>Submission of Midterm Deliverables</ul></ul>
+<ul><ul>Midterm (Sprint 3)</ul></ul>
+<ul><ul>Comment Matrix</ul></ul>
+<ul><ul>Paper Revision 1</ul></ul>
+<ul><ul>Activity Diagram</ul></ul>
+<ul><ul>Object Diagram</ul></ul>
+<ul><ul>Class Diagram</ul></ul>
+<ul><ul>Sequence Diagram</ul></ul>
+<ul><ul>State Machine Diagram</ul></ul>
+<ul><ul>Package Diagram</ul></ul>
+<ul><ul>Component Diagram</ul></ul>
+<ul><ul>Deployment Diagram</ul></ul>
+<ul><ul>Adviser/Consultant Meeting 2</ul></ul>
+<ul><ul>Adviser/Consultant Meeting 3</ul></ul>
+<ul><ul>Paper Revision 2</ul></ul>
+<ul><ul>Mock Presentation</ul></ul>
+<ul><ul>Submission of Final Deliverables</ul></ul>
+<ul><ul>Finals (Sprint 4) </ul></ul>
+<ul><ul>Paper Revision 3</ul></ul>
+<ul><ul>Updated Comments Matrix and Paper</ul></ul>
+
+<ul><i>III. Development, Testing, and Deployment</i></ul>
+<ul><ul>Choose Adviser/Consultant</ul></ul>
+<ul><ul>Compilation of MSYADD1 Requirements</ul></ul>
+<ul><ul>Project Flow</ul></ul>
+<ul><ul>Assigning of Parts for Statement of Work and Project Charter Plan</ul></ul>
+<ul><ul>Project Charter Plan (Long Version) </ul></ul>
+<ul><ul><ul>Executive Summary</ul></ul></ul>
+<ul><ul><ul>Risks</ul></ul></ul>
+<ul><ul><ul>Project Purpose/Justification</ul></ul></ul>
+<ul><ul><ul>Project Description</ul></ul></ul>
+<ul><ul><ul>Preliminary Scope Statement</ul></ul></ul>
+<ul><ul><ul>Summary Milestone Schedule</ul></ul></ul>
+<ul><ul><ul>Project Deliverables</ul></ul></ul>
+<ul><ul><ul>Project Approval Requirements</ul></ul></ul>
+<ul><ul><ul>Project Manager</ul></ul></ul>
+<ul><ul><ul>Authorization</ul></ul></ul>
+<ul><ul>Statement of Work</ul></ul>
+<ul><ul><ul>Introduction/Background</ul></ul></ul>
+<ul><ul><ul>Scope of Work</ul></ul></ul>
+<ul><ul><ul>Period of Performance</ul></ul></ul>
+<ul><ul><ul>Place of Performance</ul></ul></ul>
+<ul><ul><ul>Work Requirements</ul></ul></ul>
+<ul><ul><ul>Schedule/Milestones</ul></ul></ul>
+<ul><ul><ul>Acceptance Criteria</ul></ul></ul>
+<ul><ul><ul>Other Requirements</ul></ul></ul>
+<ul><ul><ul>Acceptance</ul></ul></ul>
+<ul><ul>Project Vision and Scope</ul></ul>
+<ul><ul><ul>Revision History</ul></ul>
+<ul><ul><ul>Business Requirements</ul></ul></ul>
+<ul><ul><ul>Business Objectives and Success Criteria</ul></ul></ul>
+<ul><ul><ul>Vision of the Solution</ul></ul></ul>
+<ul><ul><ul>Scope and Limitations</ul></ul></ul>
+<ul><ul><ul>Business Context</ul></ul></ul>
+<ul><ul>Activity List</ul></ul>
+<ul><ul>MCSPROJ Course Paper</ul></ul>
+<ul><ul>Team Meeting 1</ul></ul>
+<ul><ul>Work Breakdown Structure (WBS)</ul></ul>
+<ul><ul>Team Meeting 2</ul></ul>
+<ul><ul>Improvement Matrix</ul></ul>
+<ul><ul>Midterm (Sprint 5) </ul></ul>
+<ul><ul>Midterm Comment Matrix</ul></ul>
+<ul><ul>User Project Review</ul></ul>
+<ul><ul>Team Meeting 3</ul></ul>
+<ul><ul>Test Case</ul></ul>
+<ul><ul>Quality Management Plan</ul></ul>
+<ul><ul>Software Requirement Specifications</ul></ul>
+<ul><ul>Adviser/Consultant Meeting 4</ul></ul>
+<ul><ul>Adviser/Consultant Meeting 5</ul></ul>
+<ul><ul>Finals (Sprint 6) </ul></ul>
+
+<ul><i>IV. Project Management</i></ul>
+<ul><ul>Team Meeting 3</ul></ul>
+<ul><ul>Business Case</ul></ul>
+<ul><ul>Project Charter Plan (Short Version) </ul></ul>
+<ul><ul>TOPCIT Project Management Quizlet</ul></ul>
+<ul><ul>Stakeholder Analysis</ul></ul>
+<ul><ul>Stakeholder Management Strategy</ul></ul>
+<ul><ul>Choose Project Adviser and Consultant</ul></ul>
+<ul><ul>Team Meeting 4</ul></ul>
+<ul><ul>Team Meeting 5</ul></ul>
+<ul><ul>Team Meeting 6</ul></ul>
+<ul><ul>Cost Management Plan</ul></ul>
+<ul><ul>Schedule Management Plan</ul></ul>
+<ul><ul>Scope Management Plan</ul></ul>
+<ul><ul>Work Package Solution</ul></ul>
+<ul><ul>Team Meeting 7</ul></ul>
+<ul><ul>Adviser/Consultant Meeting 6</ul></ul>
+
+==WBS Dictionary==
+==Glossary of Terms==
+
+=Procurement Management Plan=
+==Introduction==
+<p> A procurement plan is a vital component of any organization's strategic planning process, as it outlines the approach and strategy for acquiring goods, services, or works from external sources. It serves as a roadmap that guides the procurement activities, ensuring that the organization obtains the necessary resources efficiently, effectively, and in compliance with relevant regulations and policies. </p>
+<p> It considers the organization's overall objectives, budgetary constraints, and specific project requirements. The plan outlines the procurement methods, timelines, and responsibilities for each procurement activity. The primary purpose of a procurement plan is to ensure transparency, fairness, and value for money in the procurement process. By having a well-defined plan in place, organizations can mitigate risks, avoid unnecessary delays, and maximize the benefits of their procurement activities. </p>
+<p> The procurement plan shows the details of multiple suppliers that can be managed by the company, and the approval process in the contract. The plan also includes the decision criteria, establishment of contract deliverables and schedule of deadlines, which explains the contracts that are coordinated with the project scope, budget, and schedule. </p>
+<p> Overall, Organizations must have a well-developed procurement strategy in place if they want to accomplish their goals methodically and affordably. Transparency, fairness, and value for money are ensured by the structured framework it provides for the procurement of goods, services, or works. Organizations can streamline their procurement processes, lower risks, and guarantee that the acquisition of goods and services is carried out in a transparent and effective manner by creating a thorough procurement plan. </p>
+
+==Procurement Risks==
+
+<p> Procurement risk are potential problems that could issues that could potentially harm the project's success come up during the procurement process. To reduce these risks, it is crucial to recognize them and take proactive measures to address the influence over the project. </p>
+
+<p> The Villamin Wood and Iron Works Ordering System project may contain procurement activities that carry risks which are included but not limited to the following: </p>
+<ul> 1. Changes to the project's scope, schedule, or budget, which may have an impact on vendor commitments and procurement activities. </ul>
+<ul> 2.	Unclear and insufficient information in the documentation that may leads in misunderstanding between the team and the client. </ul>
+<ul> 3.	Incomplete contract terms or legal issues that will affect the project’s reputations and legal rights. </ul>
+<ul> 4.	Lack of communication and transparency between the team and the vendors, which may lead to misunderstanding. </ul>
+
+<p> To lessen the impact of the risks, this plan will include strategies for identifying, evaluating, and reducing risks. Throughout the course of the project, this plan will be continuously reviewed and updated to make sure that risks are recognized and promptly addressed. Furthermore, we'll put into practice strict processes and procedures for reducing the risks involved in procurement management. </p>
+
+==Procurement Risk Management==
+
+<p> 1. Identification of Procurement Risks </p>
+<p> The following are the potential risks of the project: </p>
+<ul> - Sudden change in cost of goods and services </ul>
+<ul> - Lacking information of contract’s terms and conditions </ul>
+<ul> - Misunderstanding due to misinformation from the team to the vendor about the project </ul>
+
+<p> 2. Risk Mitigation Strategies </p>
+<p> The following are the strategies that will be implemented: </p>
+<ul> - Thoroughly research about the identity of the company supplier and their goods and services. </ul>
+<ul> - Conduct meetings as much as possible for communicating reports to clear confusion about the project. </ul>
+<ul> - Establish a clear and fair contract terms and conditions that will protect the company and the project. </ul>
+<ul> - Regular monitoring throughout the procurement process to ensure that the team will be ready for any emerging risks. </ul>
+
+<p> 3. Assignment of Responsibilities </p>
+<p> Villamin Wood and Iron Works Online System needs a clear roles and responsibilities to help ensure accountability, clarity, and effective coordination. It is essential to clearly communicate the assigned responsibilities to all parties involved and ensure that everyone understands their roles and obligations. Regular communication, coordination, and collaboration among the responsible parties contribute to the smooth execution of the procurement plan and successful procurement outcomes. </p>
+
+<p> 4. Communication and Reporting </p>
+<p> Effective communication and reporting play a crucial role in ensuring transparency, coordination, and accountability throughout the procurement process. Regular and clear communication helps stakeholders stay informed, aligned, and engaged. It enables the exchange of critical information, progress updates, and timely resolution of issues. </p>
+<p> This ensure that relevant stakeholders are kept informed about procurement activities, supplier selection processes, contract status, and any potential risks or issues. It will promote collaboration, enable timely decision-making, and provide a platform for addressing concerns, feedback, and suggestions. </p>
+
+<p> 5. Continuous Improvement </p>
+<p> Continuous improvement is a fundamental aspect of the procurement process, driving efficiency, effectiveness, and innovation. Lessons learned from past procurement experiences will be documented and shared to avoid repeating mistakes and capitalize on best practices. </p>
+<p> The procurement plan will emphasize the commitment to continuous improvement as an integral part of the procurement lifecycle, ensuring that the organization remains adaptive, responsive, and proactive in meeting evolving needs and achieving excellence. </p>
+
+==Cost Determination==
+
+<p> Villamin Wood and Iron Works Online System’s cost determination is a critical aspect of the procurement process, ensuring that the organization obtains goods or services at the most favorable price while maintaining quality and meeting requirements. When calculating the project's overall cost, it is important to take project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenses into account. </p>
+<p> Project management-related expenses for personnel, hardware, and software are all included. While integration costs cover the price of integrating the system with other programs or third-party applications, development costs cover the cost of creating software, hardware, testing, and quality assurance. The price of purchasing the necessary tools, software, and services to design and put the system into use is included in the procurement costs. The costs associated with training personnel to use the system effectively are also covered. </p>
+<p> This includes conducting thorough cost analysis, considering the total cost of ownership, conducting market research and benchmarking, engaging in effective cost negotiation, and maintaining cost transparency and documentation. By employing these strategies, the procurement team can make informed decisions, optimize cost savings, and achieve value for money while procuring goods and services that meet the organization's needs and quality standards. </p>
+<p> Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the completion success of Villamin Wood and Iron Works Online System project within the given budget constraints. </p>
+
+==Procurement Constraints==
+
+<p> Procurement constraints are inherent limitations and factors that can influence the procurement process and pose challenges to achieving procurement objectives. The following constraints are considered in Villamin Wood and Iron Works Online System project’s procurement process: </p>
+<ul> 1.	Budget constraint: The project was given with a limited financial resource by the client. This requires careful budget planning and cost optimization strategies to ensure procurement objectives are met within the allocated budget. </ul>
+<ul> 2.	Schedule constraints: The project has a strict deadline, so procurement tasks must be finished promptly to keep the project on schedule. Any delays in the procurement process could affect the project's overall schedule and cause it to take longer to complete. </ul>
+<ul> 3.	Technology constraints: Villamin Wood and Iron Works Online System requires technical needs and features that will allow customers to view products and services, to be able to order and pay their products. Additionally, it must have a user-friendly interface that is simple to navigate and open to users with different levels of technical proficiency. </ul>
+<ul> 4.	Resource constraints: To ensure that procurement activities can be completed effectively and efficiently, the procurement process must consider the availability of internal resources, such as personnel. </ul>
+
+<p> By recognizing and proactively addressing these constraints, organizations can navigate the procurement landscape more efficiently and effectively, leading to better decision-making, cost optimization, and overall procurement success. </p>
+
+==Contract Approval Process==
+
+<p> The contract approval process is a critical step in the procurement lifecycle, ensuring that contracts are reviewed, authorized, and executed in accordance with established policies and procedures. These procedures include the following: </p>
+<ul> •	Contract Initiation: The procurement process will be initiated by the project manager by sending a Workday request for procurement to the procurement officer. </ul>
+<ul> •	Contract Planning: A procurement plan that specifies the kind of contract to be used, the evaluation standards, and the deadlines for procurement activities will be created by the procurement officer. </ul>
+<ul> •	Contract Development: The procurement officer will create the contract documents, such as the Terms and conditions, a pricing schedule, and a Statement of Work (SOW) after the procurement plan has been approved. </ul>
+<ul> •	Contract Review: The legal department will examine the contract documents to make sure they adhere to all relevant laws and rules. </ul>
+<ul> •	Contract Approval: The Contract Review Committee will be asked to approve the contract documents. The Committee will then assess the contract documentation and provide the Project Manager with a recommendation. </ul>
+<ul> •	Contract Execution: The Procurement Officer will execute the contract and issue a purchase order during the Workday after it has been approved. </ul>
+<ul> •	Contract Monitoring: To make sure the vendor is observing the terms of the contract, the project manager will monitor their performance. Additionally, the procurement officer will keep an eye on the agreement to make sure that all deliverables are fulfilled, and payments are made in accordance with the contract's terms. </ul>
+
+<p> Overall, by establishing a clear and structured contract approval process, organizations can enhance transparency, accountability, and efficiency in their procurement activities, minimizing potential legal and financial risks while fostering effective supplier relationships. </p>
+
+==Decision Criteria==
+
+<p> Decision criteria are a set of predefined factors and considerations used to evaluate and make informed decisions in the procurement process. The following are the decision criteria of Villamin Wood and Iron Works Online System project that will be used by the contract review board: </p>
+<ul> •	Schedule: The vendor must show they can complete the project on time and meet all deliverables, including important deadlines and milestones. </ul>
+<ul> •	Business Needs: The project must be aligned with the company’s business needs, such as increasing operational effectiveness, enhancing customer experience, or an increase in revenue. </ul>
+<ul> •	Pricing: During the decision-making process, the cost of the vendor's suggested solution will be considered. The vendor's pricing should be competitive and reasonable in light of the market analysis and additional proposals received. </ul>
+<ul> •	Risk Management: The vendor must show that they have a solid grasp of potential risks and mitigation techniques. This includes identifying potential risks associated with project and procurement. </ul>
+<ul> •	Technical Requirements: The system must adhere to the organization's technical specifications, which may include compatibility with current systems, security protocols, and industry-specific standards. </ul>
+<ul> •	Compliance: The vendor must comply with all applicable laws, rules, and agreements, including those relating to intellectual property rights, data privacy, and security. </ul>
+
+<p> The use of clear and well-defined decision criteria promotes consistency, transparency, and accountability in the procurement decision-making process, enabling organizations to make informed choices that yield favorable outcomes. </p>
+
+==Performance Metrics for Procurement Activities==
+
+<p> The following performance metrics will be used by Villamin Wood and Iron Works Online System project for procurement activities: </p>
+<ul> 1.	Vendor Performance Rating </ul>
+<p><ul> The rating is calculated by giving points to various factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with 5 being the best, can be created by averaging the total score. </ul></p>
+
+<ul> 2.	Customer Satisfaction </ul>
+<p><ul> Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery. </ul></p>
+
+<ul> 3.	Procurement Cycle Time </ul>
+<p><ul> The length of time needed to complete the procurement process from need identification to the issuance of a purchase order or contract. </ul></p>
+
+<ul> 4.	Cost Variance </ul>
+<p><ul> This metric contrasts actual and anticipated costs associated with procurement. To calculate, divide the result by the planned costs after deducting the actual costs. </ul></p>
+
+<ul> 5.	Contract Management </ul>
+<p><ul> The success of contract management procedures like contract extensions, modifications, and supplier performance evaluation. </ul></p>
+
+<p> By establishing and monitoring performance metrics, organizations can track their procurement performance, identify areas for improvement, and make data-driven decisions to optimize procurement activities. Performance metrics enable organizations to gauge the value and impact of their procurement efforts, drive continuous improvement, and ensure alignment with strategic objectives. </p>
+
+=Risk Management Plan=
+==Introduction==
+==Top Three Risks==
+==Risk Management Approach==
+==Risk Identification==
+==Risk Qualification and Prioritization==
+==Risk Monitoring==
+==Risk Mitigation and Avoidance==
+
+=Communication Management Plan=
+==Introductions==
+<p>This is an important component of the project as the communications management plan outlines how the team will operate to fulfill the system, it outlines the strategy of the communication for the team and stakeholders. </p>
+<p>The plan will discuss the type of information which will be communicated throughout the development which includes project updates, discussing progress report, risks, and issues with the project.  The plan also specifies the communication needs of all parties involved and what the approach will be in order for the communication process to go accordingly.</p>
+
+==Communication Management Approach==
+<p> The project manager is the one responsible for holding regular meetings with the project team and discuss the updates being made. These meetings will be held to ensure that everyone is aware of the progress of the project. The team should also establish a way to address any conflicts or issues that arise by communicating clearly. </p>
+
+==Communication Management Constraints==
+
+<p>The Communications Management Constraints for the project are crucial to the overall project management plan because these constraints help in defining the limitations which may impact the communication processes and strategies created for the project. The team will look to develop solutions with the help of identifying the constraints in order to mitigate potential challenges. This section will provide an overview of the constraints that may impact the project’s communication strategies and processes. These constraints are the following: </p>
+
+<p> 1.	Availability of team members: Some team members may have other work or responsibilities at the moment making them unavailable to communicate. </p>
+<p> 2.	Limited budget for resources and tools used for communication: The budget may not be sufficient to fund communication tools which can be used to improve the communication management plan. </p>
+<p> 3.	Time conflicts:  The provided deadlines may provided challenges in completing requirements and could result in conflicts with conducting regular meetings. </p>
+<p> 4.	Technical difficulties: This may include internet problems and other technicalities that may be a constraint to communication processes. </p>
+
+==Roles==
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">AUTHORITY</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">COMPETENCY</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Sponsor</p></td>
+ <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. Provides 
+     feedback and comments on what can be improved. Able to allot project resources and consent to project 
+     scope changes, schedule, and budgeting plan with significant effects. </p></td>
+ <td><p style="text-align:center;">Ensures that the project delivers the anticipated benefits and value and is 
+     in line with the organization's strategic goals and objectives. Provide guidance to the project and 
+     project manager. Communicate with the stakeholder and project manager for the progress of the project and 
+     team. </p></td>
+ <td><p style="text-align:center;">Communicating effectively with the team. Strong leadership and strategic 
+     thinking skills. Understands the team’s goal for the project. Ability to support the project. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Stakeholder</p></td>
+ <td><p style="text-align:center;">Checks the approved changes in the deliverables. Authority to revise an 
+     information that will mislead the goals of the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the deliverables are complete before sending and having it 
+     checked by the project sponsor. Organize meetings with the project manager and project team members for 
+     the feedback from the project sponsor. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Manager</p></td>
+ <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve changes to 
+     project scope, schedule, and budget that has low change effect. </p></td>
+ <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors 
+     the work of the team members. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Leader (Internal User) </p></td>
+ <td><p style="text-align:center;">Leads the team members. Authority to call a meeting with the project manager 
+     and team members about the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Members (Internal Users) </p></td>
+ <td><p style="text-align:center;">Authority to help the project leader and project manager in deciding the 
+     plans on the project. </p></td>
+ <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
+     to the objectives of the project. Ensures that the deliverables are complete within the given period. 
+     </p></td>
+ <td><p style="text-align:center;">Effective communication skills, project management skills, and cooperation.
+     Knowledge of the company needs, and information to complete deliverables. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Customers (External Users) </p></td>
+ <td><p style="text-align:center;">Test the project’s system. </p></td>
+ <td><p style="text-align:center;">Provides feedback on the project’s system. Communicates with the team to 
+     help improve the system. </p></td>
+ <td><p style="text-align:center;">Communication skills. Knowledge in using an online system. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Client (External User) </p></td>
+ <td><p style="text-align:center;">Company Owner that introduced the project and will test the system. </p> 
+ </td>
+ <td><p style="text-align:center;">Provides feedback on the deliverables and system. Communicates with the 
+     project sponsor, project stakeholder, and project manager for updates and progress.  </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and negotiation skills. </p></td>
+ </tr>
+</table>
+==Communication Methods and Technologies==
+
+<p>The Villamin Wood and Ironworks System requires understanding from the team of the communication methods and technologies in order to effectively communicate with the stakeholders. It is essential to consider different factors and limitations in ensuring that the stakeholders will receive the information they need at the right time and in an efficient manner. This includes delivering project updates, progress reports, and other relevant information. Some factors to consider are the location of the stakeholders, level of technical expertise of the stakeholders which should be considered to factor how the team should communicate. Also, the budget and resources available. </p>
+
+<p> Based on the stated factors, it is important for the team to utilize the use of technologies such as a project management software, email, telephone and video conferencing for meetings. </p>
+
+
+
+
+==Implementation Plan==
+==Executive Summary==
+==Transition Approach==
+<p><b>Overall Approach</b></p>
+<p>The Villamin Wood and Iron Works System addressed the Transition Plan, in which there will be a phase or transition that should be followed for continuity and to reduce any operational challenges or interruptions that they encounter. This precise and systematic approach enables the transfer of knowledge, resources, and responsibility to the business company, thereby reducing all possible technical interruptions. The transition approach will include the following steps:</p>
+<p><b> 1. Communication Plan - </b> – the stakeholders will be able to familiarize themselves with the transition plan as a result, resulting in a better comprehension of project timelines and transition expectations.</p>
+<p><b> 2. Staffing - </b> – As the transition takes place, the project team will minimize their staff to the necessary level needed for supporting knowledge transfer and transition activities.</p>
+<p><b> 3. Transition Planning - </b> – A transition plan can be completed by interacting with the company, the team followed the timeline in which all requirements and process is required to be completed for the time of transition.</p>
+<p><b> 4. Knowledge Transfer - </b> – A variety of approaches, including documentation and hands-on demonstrations, will be used to facilitate knowledge transfer. These initiatives seek to provide Villamin Wood and Iron Works with the skills and knowledge they need to provide effective system support.
+</p>
+<p><b>Assumptions</b></p>
+<p>The following assumptions will be made for the transition approach:</p>
+<p> 1. If any difficulties arise during the deployment process, the team will maintain communication with the company. </p>
+<p> 2. To make it easier for the client to learn, the project team will provide them with all the necessary documentation, training, and instruction manuals. </p>
+<p> 3. Once the transition is finalized, the team will engage in a discussion with the client and continue to assist the owner, aiming to gain a deeper comprehension of any concerns related to the system.
+<p><b>6.11.3 Transition Team Organization</b></p>
+<p><b>Roles and Responsibilities</b></p>
+<p><b> 1. Project Manager - </b> The responsibility of the project manager leads this project to its completion. The project manager guarantees to meet all the requirements, setting a plan for the deadline of deliverables, and speaking with the client is effective to ensure progress. </p>
+<p><b> 2. Project Stakeholder - </b> responsible for allocating the required resources to guarantee the success of the project. Assuming responsibility for the relevant tasks and objectives. Staying updated on the project's advancements and sharing relevant information with the necessary individuals. Taking proactive steps to identify and fulfill training and development needs. </p>
+<p><b> 3. Project Sponsor - </b> the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule. </p>
+<p><b> 4. Project Developers - </b> the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule. </p>
+<p><b> 5. Project Team - </b> the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule. </p>
+<p><b>6.11.4 Workforce Transition </b></p>
+<p> The workforce transition is part of the transition plan for the Villamin Wood and Iron Works Ordering System. In order to establish the transition, and run efficiently, the team planned to test to determine if there are issues that may arise. </p>
+<p> To determine whether the transition will be carried out appropriately for the workforce, the Transition Project Manager will work closely with the store manager and the business owner. </p>
+<p> Overall, communication plays an important role throughout the process of the project, collaboration within the team, and informing the client if there are changes. The team will provide a user manual and demonstration to ensure the system's functionality, operate smoothly and showcase how this system will benefit the company. The workforce transition will be reviewed regularly to guarantee that the project is working effectively within the given time and budget. </p>
+<p> In general, effective communication is generally essential for fostering teamwork and informing the client of any changes. The group will provide user-manual and conduct demonstrations to ensure smooth operation and showcase how this system will be beneficial to the company. The workforce transition will be evaluated on a regular basis to guarantee that the project is moving forward in a timely and cost-effective manner. </p>
+<p><b> 6.11.5 Workforce Execution During Transition </b></p>
+<p> While the change time of the Villamin Wood and Iron Works system is in progress, certain undertakings will, in any case, should be completed, including the following: </p>
+<p><b> • User Training - </b> The team will provide instructions or materials to follow to make sure the customer understands how the system works. The practice include online and face-to-face interactions to achieve a more comprehensive comprehension. </p>
+<p><b> • Minutes of the Meeting - </b> During this phase, online meetings will be held to discuss any remaining project concerns. All team recordings will be included in the transition, and prior to the actual meeting, meetings between the team and the company will be scheduled. </p>
+<p><b> • Update Files/Records - </b> The team will make any necessary adjustments to all relevant records and files to show that the project is finished. This could mean storing documents or updating agreements and contracts with new information. </p>
+<p><b> • Gain Formal Acceptance - </b> In this phase, the team is responsible for ensuring all requirements have been fulfilled with the newly implemented system. Also, the objective of this phase is to get the client to officially acknowledge that the transition went well.  </p>
+<p><b> • Archive Files/Documents - </b> The process includes storing all project-related documents and files during this stage. Contracts, agreements, project plans, and other relevant documents might all fall under this category. </p>
+<p><b> • Project Close-Out Meeting - </b> The last phase of the change will involve directing an undertaking conclusion meeting with all participants. This gathering will be an opportunity to talk about the project, look at its overall presentation, highlight its successes, point out areas that need improvement, and confirm the purpose of any work that hasn't been completed.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
