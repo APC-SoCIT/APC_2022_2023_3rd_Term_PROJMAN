@@ -1110,16 +1110,17 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 <p> Procurement constraints are inherent limitations and factors that can influence the procurement process and pose challenges to achieving procurement objectives. The following constraints are considered in Villamin Wood and Iron Works Online System project’s procurement process: </p>
 
-<ul><ul> 1. Budget constraint: The project was given with a limited financial resource by the client. This requires careful budget planning and cost optimization strategies to ensure procurement objectives are met within the allocated budget. </ul></ul>
-<ul><ul> 2.	Schedule constraints: The project has a strict deadline, so procurement tasks must be finished promptly to keep the project on schedule. Any delays in the procurement process could affect the project's overall schedule and cause it to take longer to complete. </ul></ul>
-<ul><ul> 3.	Technology constraints: Villamin Wood and Iron Works Online System requires technical needs and features that will allow customers to view products and services, to be able to order and pay for their products. Additionally, it must have a user-friendly interface that is simple to navigate and open to users with various levels of technical proficiency. </ul></ul>
-<ul><ul> 4.	Resource constraints: To ensure that procurement activities can be completed effectively and efficiently, the procurement process must consider the availability of internal resources, such as personnel. </ul></ul>
+<ul> 1. Budget constraint: The project was given with a limited financial resource by the client. This requires careful budget planning and cost optimization strategies to ensure procurement objectives are met within the allocated budget. </ul>
+<ul> 2. Schedule constraints: The project has a strict deadline, so procurement tasks must be finished promptly to keep the project on schedule. Any delays in the procurement process could affect the project's overall schedule and cause it to take longer to complete. </ul>
+<ul> 3. Technology constraints: Villamin Wood and Iron Works Online System requires technical needs and features that will allow customers to view products and services, to be able to order and pay for their products. Additionally, it must have a user-friendly interface that is simple to navigate and open to users with various levels of technical proficiency. </ul>
+<ul> 4. Resource constraints: To ensure that procurement activities can be completed effectively and efficiently, the procurement process must consider the availability of internal resources, such as personnel. </ul>
 
 <p> By recognizing and proactively addressing these constraints, organizations can navigate the procurement landscape more efficiently and effectively, leading to better decision-making, cost optimization, and overall procurement success. </p>
 
 ==Contract Approval Process==
 
 <p> The contract approval process is a critical step in the procurement lifecycle, ensuring that contracts are reviewed, authorized, and executed in accordance with established policies and procedures. These procedures include the following: </p>
+
 <ul>1. Contract Initiation: The procurement process will be initiated by the project manager by sending a Workday request for procurement to the procurement officer. </ul>
 <ul>2. Contract Planning: A procurement plan that specifies the kind of contract to be used, the evaluation standards, and the deadlines for procurement activities will be created by the procurement officer. </ul>
 <ul>3. Contract Development: The procurement officer will create the contract documents, such as the Terms and conditions, a pricing schedule, and a Statement of Work (SOW) after the procurement plan has been approved. </ul>
@@ -1144,7 +1145,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 ==Performance Metrics for Procurement Activities==
 <p> The following performance metrics will be used by Villamin Wood and Iron Works Online System project for procurement activities: </p>
 <ul> 1.	Vendor Performance Rating </ul>
-<ul><ul> The rating is calculated by giving points to numerous factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with 5 being the best, can be created by averaging the total score. </ul></ul>
+<ul><ul> The rating is calculated by giving points to numerous factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with five being the best, can be created by averaging the total score. </ul></ul>
 
 <ul> 2.	Customer Satisfaction </ul>
 <ul><ul> Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery. </ul></ul>
