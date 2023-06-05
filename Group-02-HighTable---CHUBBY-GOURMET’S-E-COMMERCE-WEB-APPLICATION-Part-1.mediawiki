@@ -843,336 +843,47 @@ As the team consists of four members, some individuals take on multiple roles, e
 
 <ul>1.2 Planning
 <ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
-<ul>1.1.2 Client meeting 1</ul>
+<ul>1.2.1 Develop Scope Management Plan</ul>
+<ul>1.2.2 Develop Schedule Management Plan</ul>
+<ul>1.2.3 Develop Cost Management Plan</ul>
+<ul>1.2.4 Develop Risk Management Plan</ul>
+<ul>1.2.5 Develop Quality Management Plan</ul>
+<ul>1.2.6 Develop Procurement Management Plan</ul>
+<ul>1.2.7 Develop Human Resource Management Plan</ul>
+<ul>1.2.8 Develop Change Management Plan</ul>
+<ul>1.2.9 Develop Communication Management Plan</ul>
+<ul>1.2.10 Develop Implementation Plan</ul>
+<ul>1.2.11 Design System Architecture</ul>
+<ul>1.2.12 Create Wireframes and UI design</ul>
 </ul>
 </ul>
 
-<ul>1.1.3 Midterm Deliverables
+<ul>1.3 Execution
 <ul>
-<ul>1.1.3.1 Project paper</ul>
-<ul>
-<ul>
-<ul>1.1.3.1.1 Chap 1 Introduction</ul>
-<ul>1.1.3.1.2 Chap 2 RRL/RRS</ul>
-<ul>1.1.3.1.3 Chap 3 Methodology</ul>
-<ul>1.1.3.1.4 Chap 4 Results and Discussions</ul>
-<ul>1.1.3.1.5 Chap 5 Conclusion</ul>
-</ul>
-</ul>
-<ul>1.1.3.2 Powerpoint Deck</ul>
-<ul>1.1.3.3 Midterm Presentation</ul>
-<ul>1.1.3.4 Comments matrix</ul>
-<ul>1.1.3.5 Revised Midterm paper</ul>
-</ul>
+<ul>1.3.1 Set up Development Environment</ul>
+<ul>1.3.2 Develop Frontend Components</ul>
+<ul>1.3.3 Develop Backend Components</ul>
+<ul>1.3.4 Integrate Frontend and Backend</ul>
+<ul>1.3.5 Perform Unit Testing</ul>
 </ul>
 
-<ul>1.1.4 Prototype
+<ul>1.4 Monitoring
 <ul>
-<ul>1.1.4.1 Initial Low-Fidelity Prototype</ul>
-</ul>
+<ul>1.4.1 Monitor Project Progress and Milestones</ul>
+<ul>1.4.2 Track Resource Utilization</ul>
+<ul>1.4.3 Monitor Risks and Issue Resolution</ul>
+<ul>1.4.4 Perform System Testing and Quality Assurance</ul>
+<ul>1.4.5 Gather and Analyze User Feedback</ul>
 </ul>
 
-<ul>1.1.5 Final Deliverables
+<ul>1.5 Closeout
 <ul>
-<ul>1.1.5.1 Project paper</ul>
-<ul>
-<ul>
-<ul>1.1.5.1.1 Chap 1 Introduction</ul>
-<ul>1.1.5.1.2 Chap 2 RRL/RRS</ul>
-<ul>1.1.5.1.3 Chap 3 Methodology</ul>
-<ul>1.1.5.1.4 Chap 4 Results and Discussions</ul>
-<ul>1.1.5.1.5 Chap 5 Conclusion</ul>
-</ul>
-</ul>
-<ul>1.1.5.2 Teaser Video</ul>
-<ul>1.1.5.3 Powerpoint Deck</ul>
-<ul>1.1.5.4 Final Presentation</ul>
-<ul>1.1.5.5 Comments matrix</ul>
-<ul>1.1.5.6 Revised Final paper</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-
-<ul>
-<ul>1.2 Analysis and Design
-<ul>
-
-<ul>1.2.1 Initial Deliverables 
-<ul>
-<ul>1.2.1.1 Submission of MNTSDEV Documents</ul>
-<ul>1.2.1.2 Creation of Github Repository</ul>
-<ul>1.2.1.3 Choose Adviser/Consultant</ul>
-</ul>
-</ul>
-
-<ul>1.2.2 Team Meetings
-<ul>
-<ul>1.2.2.1 Client meeting 1</ul>
-<ul>1.2.2.2 Adviser meeting 1</ul>
-<ul>1.2.2.3 Client meeting 2</ul>
-<ul>1.2.2.4 Adviser meeting 2</ul>
-<ul>1.2.2.5 Panelists meeting 1</ul>
-<ul>1.2.2.6 Adviser meeting 3</ul>
-<ul>1.2.2.7 Adviser meeting 4</ul>
-</ul>
-</ul>
-
-<ul>1.2.3 Midterm Deliverables
-<ul>
-<ul>1.2.3.1 Diagrams
-<ul>
-<ul>1.2.3.1.1 MVC</ul>
-<ul>1.2.3.1.2 Event Table</ul>
-<ul>1.2.3.1.3 Use Case Diagram</ul>
-<ul>1.2.3.1.4 Use Case Full Description</ul>
-<ul>1.2.3.1.5 DFD</ul>
-<ul>1.2.3.1.6 CFD</ul>
-<ul>1.2.3.1.7 ERD</ul>
-<ul>1.2.3.1.8 Activity Diagram</ul>
-<ul>1.2.3.1.9 Object Diagram</ul>
-<ul>1.2.3.1.10 Class Diagram</ul>
-</ul>
-</ul>
-
-<ul>1.2.3.2 Project paper</ul>
-<ul>
-<ul>
-<ul>1.2.3.2.1 Chap 1 Introduction</ul>
-<ul>1.2.3.2.2 Chap 2 RRL/RRS</ul>
-<ul>1.2.3.2.3 Chap 3 Technical Background</ul>
-<ul>1.2.3.2.4 Chap 4 Methodology</ul>
-<ul>1.2.3.2.5 Chap 5 Results and Discussions</ul>
-<ul>1.2.3.2.6 Chap 6 Conclusion</ul>
-</ul>
-</ul>
-
-<ul>1.2.3.3 Updated Teaser Video</ul>
-<ul>1.2.3.4 Powerpoint Deck</ul>
-<ul>1.2.3.5 Midterm Presentation</ul>
-<ul>1.2.3.6 Midterm Rubric</ul>
-<ul>1.2.3.7 Comments matrix</ul>
-<ul>1.2.3.8 Revised Midterm paper</ul>
-</ul>
-</ul>
-
-<ul>1.2.4 Final Deliverables
-<ul>
-<ul>1.2.4.1 Diagrams
-<ul>
-<ul>1.2.4.1.1 Sequence Diagram</ul>
-<ul>1.2.4.1.2 State Machine Diagram</ul>
-<ul>1.2.4.1.3 Package Diagram</ul>
-<ul>1.2.4.1.4 Component Diagram</ul>
-<ul>1.2.4.1.5 Deployment Diagram</ul>
-<ul>1.2.4.1.6 Data Dictionary</ul>
-</ul>
-</ul>
-
-<ul>1.2.4.2 Prototype
-<ul>
-<ul>1.2.4.2.1 Updated Low-Fidelity Prototype</ul>
-</ul>
-</ul>
-
-<ul>1.2.4.3 Project paper
-<ul>
-<ul>1.2.4.3.1 Chap 1 Introduction</ul>
-<ul>1.2.4.3.2 Chap 2 RRL/RRS</ul>
-<ul>1.2.4.3.3 Chap 3 Technical Background</ul>
-<ul>1.2.4.3.4 Chap 4 Methodology</ul>
-<ul>1.2.4.3.5 Chap 5 Results and Discussions</ul>
-<ul>1.2.4.3.6 Chap 6 Conclusion</ul>
-</ul>
-</ul>
-
-<ul>1.2.4.4 Updated Teaser Video</ul>
-<ul>1.2.4.5 Powerpoint Deck</ul>
-<ul>1.2.4.6 Final Presentation</ul>
-<ul>1.2.4.7 Final Rubric</ul>
-<ul>1.2.4.8 Comments matrix</ul>
-<ul>1.2.4.9 Revised Final paper</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-
-<ul>1.3 Development
-<ul>
-<ul>1.3.1 Initial Deliverables 
-<ul>
-<ul>1.3.1.1 Submission of MSSYADD1 Documents</ul>
-<ul>1.3.1.2 Choose Adviser/Consultant</ul>
-</ul>
-</ul>
-
-<ul>1.3.2 Team Meetings
-<ul>
-<ul>1.3.2.1 Client meeting 1</ul>
-<ul>1.3.2.2 Client meeting 2</ul>
-<ul>1.3.2.3 Adviser meeting 1</ul>
-</ul>
-</ul>
-
-<ul>1.3.3 Releases
-<ul>
-<ul>1.3.3.1 Release 1</ul>
-<ul>1.3.3.2 Release 2</ul>
-</ul>
-</ul>
-
-<ul>1.3.4 Midterm Deliverables
-<ul>
-<ul>1.3.4.1 Project paper</ul>
-<ul>
-<ul>
-<ul>1.3.4.1.1 Chap 1 Introduction</ul>
-<ul>1.3.4.1.2 Chap 2 RRL/RRS</ul>
-<ul>1.3.4.1.3 Chap 3 Technical Background</ul>
-<ul>1.3.4.1.4 Chap 4 Methodology</ul>
-<ul>1.3.4.1.5 Chap 5 Results and Discussions</ul>
-<ul>1.3.4.1.6 Chap 6 Conclusion</ul>
-</ul>
-</ul>
-</ul>
-
-<ul>
-<ul>1.3.4.2 Updated Teaser Video</ul>
-<ul>1.3.4.3 Powerpoint Deck</ul>
-<ul>1.3.4.4 Midterm Presentation</ul>
-<ul>1.3.4.5 Midterm Rubric</ul>
-<ul>1.3.4.6 Improvement matrix</ul>
-<ul>1.3.4.7 Revised Midterm paper</ul>
-<ul>1.3.4.8 MCSPROJ Deliverables</ul>
-<ul>
-<ul>
-<ul>1.3.4.8.1 Vision and Scope Documentations</ul>
-<ul>1.3.4.8.2 Gantt Chart</ul>
-<ul>1.3.4.8.3 WBS</ul>
-<ul>1.3.4.8.4 Activity List</ul>
-<ul>1.3.4.8.5 Project Charter</ul>
-<ul>1.3.4.8.6 Statement of Work</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-
-<ul>
-<ul>1.3.5 Final Deliverables
-<ul>
-<ul>1.3.5.1 Project paper</ul>
-<ul>
-<ul>
-<ul>1.3.5.1.1 Chap 1 Introduction</ul>
-<ul>1.3.5.1.2 Chap 2 RRL/RRS</ul>
-<ul>1.3.5.1.3 Chap 3 Technical Background</ul>
-<ul>1.3.5.1.4 Chap 4 Methodology</ul>
-<ul>1.3.5.1.5 Chap 5 Results and Discussions</ul>
-<ul>1.3.5.1.6 Chap 6 Conclusion</ul>
-</ul>
-</ul>
-</ul>
-
-<ul>
-<ul>1.3.5.2 Updated Teaser Video</ul>
-<ul>1.3.5.3 Powerpoint Deck</ul>
-<ul>1.3.5.4 Final Presentation</ul>
-<ul>1.3.5.5 Final Rubric</ul>
-<ul>1.3.5.6 Improvement matrix</ul>
-<ul>1.3.5.7 Revised Final paper</ul>
-<ul>1.3.5.8 MCSPROJ Deliverables</ul>
-<ul>
-<ul>
-<ul>1.3.5.8.1 Quality Management Plan</ul>
-<ul>1.3.5.8.2 Change Management Plan</ul>
-<ul>1.3.5.8.3 Contingency Plan</ul>
-<ul>1.3.5.8.4 User Project Review</ul>
-<ul>1.3.5.8.5 SRS</ul>
-<ul>1.3.5.8.6 Test Case</ul>
-<ul>1.3.5.8.7 Project Sway</ul>
-<ul>1.3.5.8.8 Proofread Request</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-
-<ul>1.4 Documentation
-<ul>
-<ul>1.4.1 Midterm Deliverables
-<ul>
-<ul>1.4.1.1 Business Case</ul>
-<ul>1.4.1.2 Project Charter</ul>
-<ul>1.4.1.3 Stakeholders Management Strategy Plan</ul>
-<ul>1.4.1.4 Scope Management Plan</ul>
-<ul>1.4.1.5 Cost Management Plan</ul>
-<ul>1.4.1.6 Schedule Management Plan</ul>
-<ul>1.4.1.7 WBS</ul>
-<ul>1.4.1.8 Work Packages</ul>
-</ul>
-</ul>
-
-<ul>1.4.2 Final Deliverables
-<ul>
-<ul>1.4.2.1 Human Resource Management Processes</ul>
-<ul>1.4.2.2 Quality Management Processes</ul>
-<ul>1.4.2.3 Risk Management Processes</ul>
-<ul>1.4.2.4 Communications Management Processes</ul>
-<ul>1.4.2.5 Procurement Management Processes</ul>
-<ul>1.4.2.6 Project Status Reports Distribution Plan</ul>
-<ul>1.4.2.7 Change Request Documentation</ul>
-<ul>1.4.2.8 Project Execution Monitoring Report</ul>
-<ul>1.4.2.9 Implementation Plan</ul>
-<ul>1.4.2.10 Change Management Plan</ul>
-<ul>1.4.2.11 Consolidated Project Plan</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-
-<ul>
-<ul>1.5 Development II
-<ul>
-<ul>1.5.1 Midterm Deliverables
-<ul>
-<ul>1.5.1.1 Week 1: Planning</ul>
-<ul>1.5.1.2 Week 2: Analysis and User Requirements</ul>
-<ul>1.5.1.3 Week 3: System Design - Back-end</ul>
-<ul>1.5.1.4 Week 4: System Design - Back-end</ul>
-<ul>1.5.1.5 Week 5: System Design - Back-end</ul>
-<ul>1.5.1.6 Week 6: System Design - Back-end</ul>
-<ul>1.5.1.7 Week 7: System Design - Back-end</ul>
-</ul>
-</ul>
-
-<ul>1.5.2 Final Deliverables
-<ul>
-<ul>1.5.2.1 Week 8: System Design - Back-end</ul>
-<ul>1.5.2.2 Week 9: System Design - Back-end</ul>
-<ul>1.5.2.3 Week 10: System Design - Back-end</ul>
-<ul>1.5.2.4 Week 11: System Design - Back-end</ul>
-<ul>1.5.2.5 Week 12: Testing</ul>
-<ul>1.5.2.6 Week 13: Testing</ul>
-<ul>1.5.2.7 Week 14: Go Live</ul>
-</ul>
-</ul>
-</ul>
-
-</ul>
-</ul>
+<ul>1.5.1 Finalize and Deliver Project Documentation</ul>
+<ul>1.5.2 Obtain Formal Acceptance</ul>
+<ul>1.5.3 Archive Project Files and Resources</ul>
+<ul>1.5.4 Handover Project Deliverables to Project Sponsor</ul>
+<ul>1.5.5 Perform Post-Implementation Review</ul>
+<ul>1.5.5 Close Out Meeting</ul>
 </ul>
 
 ==Scope Verification==
@@ -1317,11 +1028,42 @@ The project manager will report the Cost Change in the regular project status re
 
 ==Project Budget==
 <p>The budget for this project is detailed below.  Costs for this project are presented in various categories. </p>
-Approved Budget: ₱ 3,000,000.00 
-<br>Manpower Cost:	₱ 2,541,440.00 
-<br>Maintenance Cost:	₱ 35,537.00 
-<br>Contingency Cost:	₱ 20,000.00 
-<br>Total Project Cost:	₱ 2,596,977.00 
+Approved Budget: ₱ 2,000,000.00 
+<br>Manpower Cost:	₱ 1,388,000.00 
+<br>Hardware Cost:	₱ 206,656.00 
+<br>Software Cost:	₱ 18,400.00 
+<br>Miscellaneous Cost:	₱ 18,400.00
+<br>Contingency Cost:	₱ 172,505.00
+<br>Total Project Cost:	₱ 1,897,561.00 
+
+<p>For the breakdown of costs, see the consolidated project management plan linked at the end of this wiki.</p>
+
+<p>The Maintenance Cost Estimate is a crucial document that provides an annual projection of the expenses associated with maintaining a project after its implementation. This estimate serves as a valuable tool for organizations to effectively plan and budget for ongoing maintenance activities, ensuring the project's continued functionality and optimal performance. Below is the maintenance cost estimate for the Chubby Gourmet e-commerce web application.</p>
+<table>
+<tr>
+<td>Name</td>
+<td>Price (annually)</td>
+<td>Number of units</td>
+<td>Total Cost</td>
+</tr>
+<tr>
+<td>Hosting</td>
+<td>2,500.00</td>
+<td>1</td>
+<td>2,500.00</td>
+</tr>
+<tr>
+<td>Domain Name</td>
+<td>1,000.00</td>
+<td>1</td>
+<td>1,000.00</td>
+</tr>
+<tr>
+<td>Total Maintenance Cost</td>
+<td>3,500.00</td>
+
+</tr>
+</table>
 
 =Schedule Management Plan=
 ==Introduction==
@@ -1334,7 +1076,7 @@ Approved Budget: ₱ 3,000,000.00
 
 <p><strong>Scheduling Tool/Format </strong>
 <br>
-ProjectLibre will be used as the primary scheduling tool for the Chubby Gourmet e-commerce web application project. This tool enables the creation of project schedules, including activity names, durations, predecessors, and resource names. ProjectLibre is a robust scheduling tool that provides features such as Gantt charts, enabling the project team to create and manage the project schedule effectively. Moreover, it will also be used to track and schedule milestones. Milestones are essential components of the project schedule as they indicate significant project achievements and provide a basis for tracking progress. The Chubby Gourmet e-commerce web application project will have several milestones, including the completion of the project planning phase, completion of the design phase, completion of the development phase, and project delivery. </p>
+The schedule management approach for this project will utilize OpenProject as the scheduling tool. OpenProject offers a comprehensive set of features, including a Work Breakdown Structure (WBS) for task breakdown, a Gantt chart for visualizing the schedule, task dependencies and relationships for logical sequencing, resource allocation and tracking, milestone tracking, baseline creation and tracking for deviations, collaborative updates and communication, and reporting and analysis capabilities. By leveraging OpenProject, the project team can effectively plan, track, and manage the project schedule, ensuring timely delivery of tasks, identifying critical path activities, and facilitating collaboration among team members.</p>
 
 <p><strong>Schedule Development Roles and Responsibilities </strong>
 <br>
@@ -1357,7 +1099,7 @@ The project stakeholders provide input on the project schedule's development and
 <p>The schedule control section defines how the Chubby Gourmet e-commerce web application project's schedule will be managed throughout its duration. This includes the frequency of updates, schedule reviews, communicating the schedule and progress, and roles and responsibilities related to schedule control. </p>
 <p><strong>Frequency of Updates and Schedule Reviews </strong>
 <br>
-The project schedule will be updated regularly to reflect progress made, changes in project scope or requirements, and other factors that may impact the project schedule. The project team will meet weekly to review and update the project schedule, ensuring that it aligns with the project objectives and timelines. However, any changes to the project schedule will be communicated promptly to all stakeholders, including the project sponsor and project stakeholders. </p>
+The project schedule will be updated regularly to reflect progress made, changes in project scope or requirements, and other factors that may impact the project schedule. The project team will meet every Monday to review and update the project schedule, ensuring that it aligns with the project objectives and timelines. However, any changes to the project schedule will be communicated promptly to all stakeholders, including the project sponsor and project stakeholders.</p>
 <p><strong>Roles and Responsibilities </strong>
 <br>
 The success of schedule control depends on clearly defined roles and responsibilities.  </p>
@@ -1404,7 +1146,7 @@ The project sponsor will review and approve scope changes based on the establish
 system of her local food business. Everyone involved in the development of the project must request changes to the group HighTable in accordance with this Change Management Plan and all requests and submissions will follow the process detailed herein. </p>
 
 ==Change Control Board==
-<p>The Change Control Board (CCB) is the approval authority for all proposed change requests pertaining to the IS Project. The purpose of the CCB is to review all change requests, determine their impacts on the project risk, scope, cost, and schedule, and to approve or deny each change request. The following chart provides a list of the CCB members for the IS Project: 
+<p>The Change Control Board (CCB) is the approval authority for all proposed change requests pertaining to the project. The purpose of the CCB is to review all change requests, determine their impacts on the project risk, scope, cost, and schedule, and to approve or deny each change request. The following table provides a list of the CCB members for the project. 
 </p>
 <table border="1" width="70%" align="center">
 	<tr>
@@ -1424,7 +1166,7 @@ system of her local food business. Everyone involved in the development of the p
 <td><p style="text-align:center;">Scrum Master</p></td>
 	</tr>
 </table>
-<p>As change requests are submitted to the IS Project Manager by the project team/stakeholders, the Project Manager will log the requests in the change log and the CCB will convene every other Friday to review all change requests. For a change request to be approved, all CCB members must vote in favor. In the event more information is needed for a particular change request, the request will be deferred and sent back to the requestor for more information or clarification. If a change is deemed critical, an ad hoc CCB meeting can be called in order to review the change prior to the next scheduled bi-weekly CCB meeting. 
+<p>As change requests are submitted to the Project Manager by the project team/stakeholders, the Project Manager will log the requests in the change log and the CCB will convene every other Monday to review all change requests. For a change request to be approved, all CCB members must vote in favor. In the event more information is needed for a particular change request, the request will be deferred and sent back to the requestor for more information or clarification. If a change is deemed critical, an ad hoc CCB meeting can be called to review the change prior to the next scheduled weekly CCB meeting.
 </p>
 
 ==Roles and Responsibilities==
@@ -1523,10 +1265,6 @@ Scrum Master will update and re-baseline project documentation as necessary. </l
 <td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Program Manager</p></td>
-<td><p style="text-align:center;">Oversees the overall progress of HighTable’s project development. They may also be responsible for overseeing other projects. </p></td>
-	</tr>
-<tr>
 		<td><p style="text-align:center;">Key Stakeholder</p></td>
 <td><p style="text-align:center;">Same induvial as the project sponsor. Group/Individual that has taken interest in collaborating with HighTable in the development of the project. </p></td>
 	</tr>
@@ -1555,10 +1293,7 @@ Scrum Master will update and re-baseline project documentation as necessary. </l
 		<td><p style="text-align:center;">Project Sponsor</p></td>
 <td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
 </tr>
-<tr>
-		<td><p style="text-align:center;">Program Manager</p></td>
-<td><p style="text-align:center;">Oversees the overall progress of HighTable’s project development. They may also be responsible for overseeing other projects. </p></td>
-</tr>
+
 <tr>
 		<td><p style="text-align:center;">Key Stakeholder</p></td>
 <td><p style="text-align:center;">Same induvial as the project sponsor. Group/Individual that has taken interest in collaborating with HighTable in the development of the project. </p></td>
@@ -1743,6 +1478,8 @@ The client may not be too well versed in the field of technology. Keeping a simp
 <td><p style="text-align:center;">Outlook, Microsoft Teams</p></td>
 </tr>
 </table>
+
+==Communication Flowchart==
 
 
 ==Guidelines for Meeting==
@@ -1975,6 +1712,7 @@ Consult to higher positions: If the problem is still not resolved, the problem w
 
 ==Quality Control==
 <p>The Quality Control for the Chubby Gourmet project outlines the process for monitoring, recording, and assessing the results of quality activities specific to the Chubby Gourmet web application project's product. It focuses on defining acceptable standards and performance criteria for the product and specifying how measurements will be conducted. </p>
+
 
 <ol>
 <li>Quality Control Process: 
