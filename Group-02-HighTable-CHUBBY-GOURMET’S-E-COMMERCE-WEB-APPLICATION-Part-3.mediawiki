@@ -1,0 +1,203 @@
+=Project Title=
+<h1>Chubby Gourmet E-Commerce Web Application</h1>
+
+=Quality Management Plan=
+==Introduction==
+<p>The Quality Management Plan for the Chubby Gourmet project is a fundamental component of the overall project management plan. This plan outlines the strategies, processes, and procedures that will be employed to effectively manage and ensure quality throughout the entire project lifecycle. </p>
+<p>The primary objective of the Quality Management Plan is to provide a clear and comprehensive description of how quality will be planned, assured, and controlled. By establishing a systematic approach, the plan aims to prevent and mitigate potential risks associated with poor quality, while promoting the delivery of high-quality project outcomes. </p>
+<p>The plan encompasses various aspects of quality management, including quality requirements, assurance, and control. It defines the specific activities, tools, and techniques that will be employed to identify, assess, and address quality requirements and expectations. By adhering to these processes and procedures, the project team will be equipped to proactively manage and enhance the quality of project deliverables. </p>
+
+==Quality Management Approach==
+<p>The Quality Management Approach for the Chubby Gourmet project will employ an Agile and Scrum methodology to ensure that the project consistently delivers high-quality outcomes that meet or exceed stakeholders' expectations. This approach emphasizes iterative development, frequent customer collaboration, and continuous improvement to achieve optimal quality throughout the project's lifecycle.  </p>
+<p>The following roles and responsibilities are defined within the quality management approach: </p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Product Owner</p></td>
+<td><p style="text-align:center;">The Product Owner will ensure that the final product satisfies the stakeholders' quality requirements. She will oversee the overall quality management process and work closely with the project team to address any quality-related issues. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">The Scrum Master will be responsible for promoting and enforcing the adherence to the Scrum framework. He will facilitate team collaboration, remove any impediments, and ensure that quality is embedded within the Agile development process. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Product Developer</p></td>
+<td><p style="text-align:center;">The Product Developer will be responsible for producing high-quality code and ensuring that the developed features meet the specified requirements. </p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Product Designer</p></td>
+<td><p style="text-align:center;">The Product Designer will ensure that the user interface and user experience of the Chubby Gourmet web application meet the highest quality standards. He will incorporate user-centered design principles, conduct usability testing, and iterate based on stakeholders’ feedback to optimize the product's usability and visual appeal. </p></td>
+</tr>
+</table>
+
+<p>The Quality Management Approach will be integrated into every phase of the project, with the entire team actively involved in ensuring quality standards are met. It will embrace the principles of Agile and Scrum, emphasizing iterative development, customer feedback, and continuous improvement. By utilizing the Agile and Scrum methodology as the quality management approach, the Chubby Gourmet project aims to foster a culture of collaboration, flexibility, and continuous improvement, enabling the team to consistently deliver a high-quality web application that fulfills the needs and expectations of its users. </p>
+
+==Quality Requirements/Standards==
+<p>The Quality Requirements/Standards for the Chubby Gourmet project encompass both the product and process aspects, aiming to ensure the delivery of a high-quality web application. The project team will actively identify and document these requirements and standards, demonstrating compliance throughout the project lifecycle. </p>
+<p>Quality Requirements: </p>
+<ol>
+<li>Product Quality Requirements:
+<ul>
+<li>The project team will conduct an analysis of customer expectations, user needs, and industry best practices to define specific quality requirements for the web application. </li>
+<li>Functional requirements, performance expectations, usability standards, and security measures will be identified and documented. </li>
+<li>Quality requirements will be aligned with the project objectives and stakeholders' expectations to ensure the final product meets the desired quality level. </li>
+</ul>
+</li>
+
+<li>Process Quality Requirements:
+<ul>
+<li>The team will establish quality assurance processes and procedures to ensure adherence to industry standards and best practices throughout the project lifecycle. </li>
+<li>Documentation standards, code review processes, testing procedures, and change management plan will be defined to ensure consistent and high-quality development practices. </li>
+</ul>
+</li>
+
+</ol>
+
+<p>Quality Standards: </p>
+<ol>
+<li>Product Quality Standards: 
+<ul>
+<li>The Chubby Gourmet web application will adhere to industry standards and guidelines for user experience, accessibility, performance, security, and compatibility. </li>
+<li>Design and development will follow recognized coding standards and frameworks to ensure maintainability and scalability. </li>
+<li>Regular usability testing and user feedback will be incorporated to validate the product against user-centered design principles and enhance the overall user experience. </li>
+</ul>
+</li>
+<li>Process Quality Standards: 
+<ul>
+<li>The project team will follow the Agile and Scrum methodology, to foster effective collaboration, communication, and quality control. </li>
+<li>Continuous integration and deployment practices will be implemented to ensure the stability and reliability of the development process. </li>
+</ul>
+</li>
+</ol>
+
+
+<p>Demonstrating Compliance: </p>
+<ol>
+<li>Documentation and Traceability: 
+<ul>
+<li>The project team will maintain comprehensive documentation of quality requirements, standards, and associated processes. </li>
+<li>Traceability matrices will be used to link requirements to design, development, and testing activities, ensuring transparency and accountability. </li>
+</ul>
+</li>
+
+<li>Quality Assurance Activities: 
+<ul>
+<li>Regular inspections, reviews, and quality checks will be conducted throughout the project to monitor compliance with quality requirements and standards. </li>
+<li>Testing, including functional, performance, security, and usability testing, will be performed to validate the product against defined quality criteria. </li>
+</ul>
+</li>
+</ol>
+
+
+<p>By adhering to these quality requirements and standards, the Chubby Gourmet project aims to deliver a high-quality web application that meets user expectations, complies with industry standards, and provides an exceptional user experience. </p>
+
+==Quality Assurance==
+<p>The Quality Assurance for the Chubby Gourmet project outlines the approach for auditing quality requirements, measuring quality control results, and ensuring the consistent use of quality standards and operational definitions throughout the Chubby Gourmet web application project. </p>
+<ol>
+<li>Quality Assurance Process: 
+<ul>
+<li>A defined process for quality assurance will be established, detailing the activities, responsibilities, and timelines for conducting quality audits. </li>
+<li>Regular audits will be performed to assess adherence to quality standards, operational definitions, and established processes. </li>
+<li>The process will include reviewing documentation, conducting inspections, and verifying compliance with quality requirements. </li>
+</ul>
+</li>
+<li>Auditing Quality Requirements: 
+<ul>
+<li>The team will conduct audits to ensure that quality requirements are clearly defined, documented, and communicated to the stakeholder.</li> 
+<li>Audits will verify that quality requirements align with customer expectations, industry standards, and project objectives. </li>
+<li>The team will review project documentation and specifications to confirm that quality requirements are appropriately defined and traceable. </li>
+</ul>
+</li>
+<li>Auditing Quality Control Results: 
+<ul>
+<li>Quality control measurements and results will be audited to verify compliance with quality standards and identify areas for improvement. </li>
+<li>Audits will assess the effectiveness of quality control activities such as testing, inspections, and reviews. </li>
+<li>The team will review quality control records and test reports to ensure that appropriate measures are taken to address identified issues. </li>
+</ul>
+</li>
+<li>Assurance Metrics: 
+<ul>
+<li>Key quality assurance metrics will be defined to assess the effectiveness of quality management activities. </li>
+<li>Metrics may include customer satisfaction ratings and adherence to project schedules. </li>
+<li>These metrics will provide objective data to evaluate the project's overall quality performance and identify areas requiring corrective actions. </li>
+</ul>
+</li>
+<li>Reporting and Improvement: 
+<ul>
+<li>The results of quality assurance audits and metrics will be documented and communicated to the stakeholder. </li>
+<li>Reports will highlight areas of non-compliance, identify potential risks, and recommend improvement actions. </li>
+</ul>
+</li>
+</ol>
+
+<p>By implementing a robust quality assurance process, the Chubby Gourmet project aims to ensure that quality standards are consistently met, operational definitions are followed, and potential quality risks are identified and addressed in a timely manner. Through regular audits and the use of appropriate metrics, the team can proactively monitor and improve the quality of the web application throughout its development lifecycle. </p>
+
+==Quality Control==
+<p>The Quality Control for the Chubby Gourmet project outlines the process for monitoring, recording, and assessing the results of quality activities specific to the Chubby Gourmet web application project's product. It focuses on defining acceptable standards and performance criteria for the product and specifying how measurements will be conducted. </p>
+
+
+<ol>
+<li>Quality Control Process: 
+<ul>
+<li>A defined process for quality control will be established to monitor and assess the product's adherence to quality standards and requirements. </li>
+<li>The process will include activities such as inspections, testing, reviews, and validations to identify and address any deviations or non-conformities. </li>
+<li>Regular monitoring and measurement activities will be conducted to identify any deviations from the desired quality standards. </li>
+</ul
+</li>
+
+<li>Acceptable Standards and Performance Criteria: 
+<ul>
+<li>Clear and measurable standards and performance criteria will be defined for the Chubby Gourmet web application. </li>
+<li>These standards will cover aspects such as functionality, usability, performance, security, and compliance with industry best practices. </li>
+<li>The acceptable standards will be based on customer requirements, industry standards, and project objectives.</li> 
+</ul
+</li>
+
+<li>Measurement and Evaluation: 
+<ul>
+<li>Appropriate measurement techniques and tools will be employed to assess the product's quality. </li>
+<li>This may include conducting functional and non-functional testing, usability evaluations, performance testing, security assessments, code reviews, and other relevant quality assurance activities. </li>
+<li>The results of these measurements will be documented and recorded for analysis and decision-making.</li> 
+</ul
+</li>
+
+<li>Performance Assessment: 
+<ul>
+<li>The project team will regularly assess the product's performance against the defined acceptable standards. </li>
+<li>Performance assessment may involve comparing the actual product performance with the expected performance. </li>
+<li>Necessary actions will be recommended to address if there's any identified issues. </li>
+</ul
+</li>
+
+<li>Documentation and Reporting: 
+<ul>
+<li>The results of quality control activities, including measurements and performance assessments, will be documented and reported to the stakeholder. </li>
+<li>Reports will provide insights into the product's quality status, identify areas of improvement or non-compliance, and recommend appropriate corrective actions. </li>
+<li>Documentation will serve as a record of quality control activities and provide a basis for future reference and quality improvement initiatives. </li>
+</ul
+</li>
+</ol>
+
+<p>Through effective quality control measures, the Chubby Gourmet project aims to monitor the product's adherence to acceptable standards, identify any deviations, and ensure that the final web application meets the desired quality levels. By proactively monitoring and controlling quality, the team can make informed decisions, take corrective actions when necessary, and deliver a high-quality product that meets or exceeds stakeholders' expectations. </p>
+
+==Quality Control Measurements==
+<p>The Quality Control Measurements for the Chubby Gourmet project outlines the approach and documentation method for capturing and comparing quality measurements against the established standards and requirements. Agile and Scrum methods will be utilized to promote continuous inspection and modification throughout the project lifecycle. The section also emphasizes the importance of documenting findings and taking appropriate actions if the measurements deviate from the set standards.  </p>
+<p>The following details will be on the platform: </p>
+<ul>
+<li>Measurement date: The date on which the quality control measurement was conducted. </li>
+<li>Measurement type: The specific type of measurement performed (e.g., automated testing, code review, peer review, user story acceptance). </li>
+<li>Measurement findings: The results of the measurement, indicating whether it passed or failed, the number of flaws discovered, and the percentage of code coverage. </li>
+<li>Requirements and standards for comparison: The established quality requirements and standards against which the measurements are compared. </li>
+<li>Member of the team in charge of measuring: The team member responsible for conducting the quality control measurement. </li>
+<li>Team member responsible for assessing the measurement results: The team member assigned to evaluate the measurement results and determine any necessary actions. </li>
+<li>Corrective actions: Any required actions or steps to address deviations from the standards or requirements. </li>
+<li>Date of completion of remedial measures: The date on which the corrective actions were completed. </li>
+<li>Team member in charge of implementing corrective measures: The team member responsible for carrying out the corrective measures. </li>
+</ul>
+
+<p>The quality control measurements will be recorded and documented on a shared platform or project management tool to ensure accessibility and transparency. Dashboards like Trello's workspace will be utilized to provide real-time tracking and visualization of the quality control metrics, enabling the team to identify patterns, highlight problem areas, and take prompt action. Regular project reviews, such as sprint reviews will be conducted to review the quality control metrics and adjust the approach if needed. </p>
+<p>By documenting the quality control measurements and findings, the Chubby Gourmet project team can effectively monitor the product's compliance with the defined quality standards, identify areas for improvement, and implement necessary corrective actions to ensure the delivery of a high-quality web application. </p>
