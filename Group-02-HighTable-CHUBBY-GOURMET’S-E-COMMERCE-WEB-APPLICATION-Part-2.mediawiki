@@ -2,64 +2,6 @@
 <h1>Chubby Gourmet E-Commerce Web Application</h1>
 
 
-==Quality Requirements/Standards==
-<p>The Quality Requirements/Standards for the Chubby Gourmet project encompass both the product and process aspects, aiming to ensure the delivery of a high-quality web application. The project team will actively identify and document these requirements and standards, demonstrating compliance throughout the project lifecycle. </p>
-<p>Quality Requirements: </p>
-<ol>
-<li>Product Quality Requirements:
-<ul>
-<li>The project team will conduct an analysis of customer expectations, user needs, and industry best practices to define specific quality requirements for the web application. </li>
-<li>Functional requirements, performance expectations, usability standards, and security measures will be identified and documented. </li>
-<li>Quality requirements will be aligned with the project objectives and stakeholders' expectations to ensure the final product meets the desired quality level. </li>
-</ul>
-</li>
-
-<li>Process Quality Requirements:
-<ul>
-<li>The team will establish quality assurance processes and procedures to ensure adherence to industry standards and best practices throughout the project lifecycle. </li>
-<li>Documentation standards, code review processes, testing procedures, and change management plan will be defined to ensure consistent and high-quality development practices. </li>
-</ul>
-</li>
-
-</ol>
-
-<p>Quality Standards: </p>
-<ol>
-<li>Product Quality Standards: 
-<ul>
-<li>The Chubby Gourmet web application will adhere to industry standards and guidelines for user experience, accessibility, performance, security, and compatibility. </li>
-<li>Design and development will follow recognized coding standards and frameworks to ensure maintainability and scalability. </li>
-<li>Regular usability testing and user feedback will be incorporated to validate the product against user-centered design principles and enhance the overall user experience. </li>
-</ul>
-</li>
-<li>Process Quality Standards: 
-<ul>
-<li>The project team will follow the Agile and Scrum methodology, to foster effective collaboration, communication, and quality control. </li>
-<li>Continuous integration and deployment practices will be implemented to ensure the stability and reliability of the development process. </li>
-</ul>
-</li>
-</ol>
-
-
-<p>Demonstrating Compliance: </p>
-<ol>
-<li>Documentation and Traceability: 
-<ul>
-<li>The project team will maintain comprehensive documentation of quality requirements, standards, and associated processes. </li>
-<li>Traceability matrices will be used to link requirements to design, development, and testing activities, ensuring transparency and accountability. </li>
-</ul>
-</li>
-
-<li>Quality Assurance Activities: 
-<ul>
-<li>Regular inspections, reviews, and quality checks will be conducted throughout the project to monitor compliance with quality requirements and standards. </li>
-<li>Testing, including functional, performance, security, and usability testing, will be performed to validate the product against defined quality criteria. </li>
-</ul>
-</li>
-</ol>
-
-
-<p>By adhering to these quality requirements and standards, the Chubby Gourmet project aims to deliver a high-quality web application that meets user expectations, complies with industry standards, and provides an exceptional user experience. </p>
 
 ==Quality Assurance==
 <p>The Quality Assurance for the Chubby Gourmet project outlines the approach for auditing quality requirements, measuring quality control results, and ensuring the consistent use of quality standards and operational definitions throughout the Chubby Gourmet web application project. </p>
