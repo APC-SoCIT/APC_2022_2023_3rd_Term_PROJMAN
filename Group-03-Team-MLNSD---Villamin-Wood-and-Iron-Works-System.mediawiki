@@ -1069,10 +1069,10 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 <p> The Villamin Wood and Iron Works Ordering System project may contain procurement activities that carry risks which are included but not limited to the following: </p>
 
-<ul> 1. Changes to the project's scope, schedule, or budget, which may have an impact on vendor commitments and procurement activities. </ul>
-<ul> 2. Unclear and insufficient information in the documentation may lead to misunderstanding between the team and the client. </ul>
-<ul> 3. Incomplete contract terms or legal issues that will affect the project’s reputation and legal rights. </ul>
-<ul> 4. Lack of communication and transparency between the team and the vendors, which may lead to misunderstanding. </ul>
+<ul><ul> 1. Changes to the project's scope, schedule, or budget, which may have an impact on vendor commitments and procurement activities. </ul>
+<ul><ul> 2. Unclear and insufficient information in the documentation may lead to misunderstanding between the team and the client. </ul></ul>
+<ul><ul> 3. Incomplete contract terms or legal issues that will affect the project’s reputation and legal rights. </ul></ul>
+<ul><ul> 4. Lack of communication and transparency between the team and the vendors, which may lead to misunderstanding. </ul></ul>
 
 <p> To lessen the impact of the risks, this plan will include strategies for identifying, evaluating, and reducing risks. Throughout the course of the project, this plan will be continuously reviewed and updated to make sure that risks are recognized and promptly addressed. Furthermore, we'll put into practice strict processes and procedures for reducing the risks involved in procurement management. </p>
 
@@ -1176,7 +1176,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 ==Risk Mitigation and Avoidance==
 
 =Communication Management Plan=
-==Introductions==
+==Introduction==
 <p>This is a vital component of the project as the communications management plan outlines how the team will operate to fulfill the system, it outlines the strategy of the communication for the team and stakeholders. </p>
 <p>The plan will discuss the type of information which will be communicated throughout the development which includes project updates, discussing progress report, risks, and issues with the project.  The plan also specifies the communication needs of all parties involved and what the approach will be for the communication process to go accordingly. </p>
 
