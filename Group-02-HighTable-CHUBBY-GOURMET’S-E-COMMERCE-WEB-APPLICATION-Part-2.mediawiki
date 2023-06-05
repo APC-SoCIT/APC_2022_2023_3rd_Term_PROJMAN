@@ -289,8 +289,44 @@ External factors such as regulatory changes, market conditions, natural disaster
 <td><p style="text-align:center;">Lack of Project Management and Planning</p></td>
 <td><p style="text-align:center;">Inadequate project management practices, such as poor planning and communication, resulting in project failure.</p></td>
 <td><p style="text-align:center;">Project</p></td>
-<td><p style="text-align:center;"> Project Manager</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
 <td><p style="text-align:center;">Medium</p></td>
+<td><p style="text-align:center;">High</p></td>
+	</tr>
+<tr>
+<td><p style="text-align:center;">RID 007</p></td>
+<td><p style="text-align:center;">Inadequate Quality Assurance and Testing</p></td>
+<td><p style="text-align:center;">Insufficient testing and quality assurance practices leading to undetected defects and poor user experience.</p></td>
+<td><p style="text-align:center;">Quality</p></td>
+<td><p style="text-align:center;">QA Team</p></td>
+<td><p style="text-align:center;">Medium</p></td>
+<td><p style="text-align:center;">High</p></td>
+	</tr>
+<tr>
+<td><p style="text-align:center;">RID 008</p></td>
+<td><p style="text-align:center;">Communication and Collaboration Challenges</p></td>
+<td><p style="text-align:center;">Ineffective communication and collaboration among team members, stakeholders, or vendors causing delays and conflicts.</p></td>
+<td><p style="text-align:center;">Communication</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Medium</p></td>
+<td><p style="text-align:center;">Medium</p></td>
+	</tr>
+<tr>
+<td><p style="text-align:center;">RID 009</p></td>
+<td><p style="text-align:center;">Vendor or Supplier Risks</p></td>
+<td><p style="text-align:center;">Risks associated with external vendors or suppliers, such as delivery delays, quality issues, or contractual disputes.</p></td>
+<td><p style="text-align:center;">Vendor</p></td>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Medium</p></td>
+<td><p style="text-align:center;">High</p></td>
+	</tr>
+<tr>
+<td><p style="text-align:center;">RID 010</p></td>
+<td><p style="text-align:center;">External Factors and Dependencies</p></td>
+<td><p style="text-align:center;">Risks arising from external factors like regulatory changes, market conditions, natural disasters, or geopolitical events.</p></td>
+<td><p style="text-align:center;">External</p></td>
+<td><p style="text-align:center;">Development Team</p></td>
+<td><p style="text-align:center;">Low</p></td>
 <td><p style="text-align:center;">High</p></td>
 	</tr>
 
