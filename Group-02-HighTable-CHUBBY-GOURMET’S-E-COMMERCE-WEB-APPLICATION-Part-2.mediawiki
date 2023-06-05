@@ -3,46 +3,7 @@
 
 
 
-==Quality Assurance==
-<p>The Quality Assurance for the Chubby Gourmet project outlines the approach for auditing quality requirements, measuring quality control results, and ensuring the consistent use of quality standards and operational definitions throughout the Chubby Gourmet web application project. </p>
-<ol>
-<li>Quality Assurance Process: 
-<ul>
-<li>A defined process for quality assurance will be established, detailing the activities, responsibilities, and timelines for conducting quality audits. </li>
-<li>Regular audits will be performed to assess adherence to quality standards, operational definitions, and established processes. </li>
-<li>The process will include reviewing documentation, conducting inspections, and verifying compliance with quality requirements. </li>
-</ul>
-</li>
-<li>Auditing Quality Requirements: 
-<ul>
-<li>The team will conduct audits to ensure that quality requirements are clearly defined, documented, and communicated to the stakeholder.</li> 
-<li>Audits will verify that quality requirements align with customer expectations, industry standards, and project objectives. </li>
-<li>The team will review project documentation and specifications to confirm that quality requirements are appropriately defined and traceable. </li>
-</ul>
-</li>
-<li>Auditing Quality Control Results: 
-<ul>
-<li>Quality control measurements and results will be audited to verify compliance with quality standards and identify areas for improvement. </li>
-<li>Audits will assess the effectiveness of quality control activities such as testing, inspections, and reviews. </li>
-<li>The team will review quality control records and test reports to ensure that appropriate measures are taken to address identified issues. </li>
-</ul>
-</li>
-<li>Assurance Metrics: 
-<ul>
-<li>Key quality assurance metrics will be defined to assess the effectiveness of quality management activities. </li>
-<li>Metrics may include customer satisfaction ratings and adherence to project schedules. </li>
-<li>These metrics will provide objective data to evaluate the project's overall quality performance and identify areas requiring corrective actions. </li>
-</ul>
-</li>
-<li>Reporting and Improvement: 
-<ul>
-<li>The results of quality assurance audits and metrics will be documented and communicated to the stakeholder. </li>
-<li>Reports will highlight areas of non-compliance, identify potential risks, and recommend improvement actions. </li>
-</ul>
-</li>
-</ol>
 
-<p>By implementing a robust quality assurance process, the Chubby Gourmet project aims to ensure that quality standards are consistently met, operational definitions are followed, and potential quality risks are identified and addressed in a timely manner. Through regular audits and the use of appropriate metrics, the team can proactively monitor and improve the quality of the web application throughout its development lifecycle. </p>
 
 ==Quality Control==
 <p>The Quality Control for the Chubby Gourmet project outlines the process for monitoring, recording, and assessing the results of quality activities specific to the Chubby Gourmet web application project's product. It focuses on defining acceptable standards and performance criteria for the product and specifying how measurements will be conducted. </p>
