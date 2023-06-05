@@ -1116,45 +1116,43 @@ the project manager alongside the team and stakeholders. The project manager wil
 ==Contract Approval Process==
 
 <p> The contract approval process is a critical step in the procurement lifecycle, ensuring that contracts are reviewed, authorized, and executed in accordance with established policies and procedures. These procedures include the following: </p>
-<ul> •	Contract Initiation: The procurement process will be initiated by the project manager by sending a Workday request for procurement to the procurement officer. </ul>
-<ul> •	Contract Planning: A procurement plan that specifies the kind of contract to be used, the evaluation standards, and the deadlines for procurement activities will be created by the procurement officer. </ul>
-<ul> •	Contract Development: The procurement officer will create the contract documents, such as the Terms and conditions, a pricing schedule, and a Statement of Work (SOW) after the procurement plan has been approved. </ul>
-<ul> •	Contract Review: The legal department will examine the contract documents to make sure they adhere to all relevant laws and rules. </ul>
-<ul> •	Contract Approval: The Contract Review Committee will be asked to approve the contract documents. The Committee will then assess the contract documentation and provide the Project Manager with a recommendation. </ul>
-<ul> •	Contract Execution: The Procurement Officer will execute the contract and issue a purchase order during the Workday after it has been approved. </ul>
-<ul> •	Contract Monitoring: To make sure the vendor is observing the terms of the contract, the project manager will monitor their performance. Additionally, the procurement officer will keep an eye on the agreement to make sure that all deliverables are fulfilled, and payments are made in accordance with the contract's terms. </ul>
+<ul>1. Contract Initiation: The procurement process will be initiated by the project manager by sending a Workday request for procurement to the procurement officer. </ul>
+<ul>2. Contract Planning: A procurement plan that specifies the kind of contract to be used, the evaluation standards, and the deadlines for procurement activities will be created by the procurement officer. </ul>
+<ul>3. Contract Development: The procurement officer will create the contract documents, such as the Terms and conditions, a pricing schedule, and a Statement of Work (SOW) after the procurement plan has been approved. </ul>
+<ul>4. Contract Review: The legal department will examine the contract documents to make sure they adhere to all relevant laws and rules. </ul>
+<ul>5. Contract Approval: The Contract Review Committee will be asked to approve the contract documents. The Committee will then assess the contract documentation and provide the Project Manager with a recommendation. </ul>
+<ul>6. Contract Execution: The Procurement Officer will execute the contract and issue a purchase order during the Workday after it has been approved. </ul>
+<ul>7. Contract Monitoring: To make sure the vendor is observing the terms of the contract, the project manager will monitor their performance. Additionally, the procurement officer will keep an eye on the agreement to make sure that all deliverables are fulfilled, and payments are made in accordance with the contract's terms. </ul>
 
 <p> Overall, by establishing a clear and structured contract approval process, organizations can enhance transparency, accountability, and efficiency in their procurement activities, minimizing potential legal and financial risks while fostering effective supplier relationships. </p>
 
 ==Decision Criteria==
-
 <p> Decision criteria are a set of predefined factors and considerations used to evaluate and make informed decisions in the procurement process. The following are the decision criteria of Villamin Wood and Iron Works Online System project that will be used by the contract review board: </p>
-<ul> •	Schedule: The vendor must show they can complete the project on time and meet all deliverables, including important deadlines and milestones. </ul>
-<ul> •	Business Needs: The project must be aligned with the company’s business needs, such as increasing operational effectiveness, enhancing customer experience, or an increase in revenue. </ul>
-<ul> •	Pricing: During the decision-making process, the cost of the vendor's suggested solution will be considered. The vendor's pricing should be competitive and reasonable in light of the market analysis and additional proposals received. </ul>
-<ul> •	Risk Management: The vendor must show that they have a solid grasp of potential risks and mitigation techniques. This includes identifying potential risks associated with project and procurement. </ul>
-<ul> •	Technical Requirements: The system must adhere to the organization's technical specifications, which may include compatibility with current systems, security protocols, and industry-specific standards. </ul>
-<ul> •	Compliance: The vendor must comply with all applicable laws, rules, and agreements, including those relating to intellectual property rights, data privacy, and security. </ul>
+<ul>1. Schedule: The vendor must show they can complete the project on time and meet all deliverables, including important deadlines and milestones. </ul>
+<ul>2. Business Needs: The project must be aligned with the company’s business needs, such as increasing operational effectiveness, enhancing customer experience, or an increase in revenue. </ul>
+<ul>3. Pricing: During the decision-making process, the cost of the vendor's suggested solution will be considered. The vendor's pricing should be competitive and reasonable considering the market analysis and additional proposals received. </ul>
+<ul>4. Risk Management: The vendor must show that they have a solid grasp of potential risks and mitigation techniques. This includes identifying potential risks associated with projects and procurement. </ul>
+<ul>5. Technical Requirements: The system must adhere to the organization's technical specifications, which may include compatibility with current systems, security protocols, and industry-specific standards. </ul>
+<ul>6. Compliance: The vendor must comply with all applicable laws, rules, and agreements, including those relating to intellectual property rights, data privacy, and security. </ul>
 
 <p> The use of clear and well-defined decision criteria promotes consistency, transparency, and accountability in the procurement decision-making process, enabling organizations to make informed choices that yield favorable outcomes. </p>
 
 ==Performance Metrics for Procurement Activities==
-
 <p> The following performance metrics will be used by Villamin Wood and Iron Works Online System project for procurement activities: </p>
 <ul> 1.	Vendor Performance Rating </ul>
-<p><ul> The rating is calculated by giving points to various factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with 5 being the best, can be created by averaging the total score. </ul></p>
+<ul><ul> The rating is calculated by giving points to numerous factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with 5 being the best, can be created by averaging the total score. </ul></ul>
 
 <ul> 2.	Customer Satisfaction </ul>
-<p><ul> Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery. </ul></p>
+<ul><ul> Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery. </ul></ul>
 
 <ul> 3.	Procurement Cycle Time </ul>
-<p><ul> The length of time needed to complete the procurement process from need identification to the issuance of a purchase order or contract. </ul></p>
+<ul><ul> The length of time needed to complete the procurement process from need identification to the issuance of a purchase order or contract. </ul></ul>
 
 <ul> 4.	Cost Variance </ul>
-<p><ul> This metric contrasts actual and anticipated costs associated with procurement. To calculate, divide the result by the planned costs after deducting the actual costs. </ul></p>
+<ul><ul> This metric contrasts actual and anticipated costs associated with procurement. To calculate, divide the result by the planned costs after deducting the actual costs. </ul></ul>
 
 <ul> 5.	Contract Management </ul>
-<p><ul> The success of contract management procedures like contract extensions, modifications, and supplier performance evaluation. </ul></p>
+<ul></ul> The success of contract management procedures like contract extensions, modifications, and supplier performance evaluation. </ul></ul>
 
 <p> By establishing and monitoring performance metrics, organizations can track their procurement performance, identify areas for improvement, and make data-driven decisions to optimize procurement activities. Performance metrics enable organizations to gauge the value and impact of their procurement efforts, drive continuous improvement, and ensure alignment with strategic objectives. </p>
 
@@ -1169,20 +1167,19 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 =Communication Management Plan=
 ==Introductions==
-<p>This is an important component of the project as the communications management plan outlines how the team will operate to fulfill the system, it outlines the strategy of the communication for the team and stakeholders. </p>
-<p>The plan will discuss the type of information which will be communicated throughout the development which includes project updates, discussing progress report, risks, and issues with the project.  The plan also specifies the communication needs of all parties involved and what the approach will be in order for the communication process to go accordingly.</p>
+<p>This is a vital component of the project as the communications management plan outlines how the team will operate to fulfill the system, it outlines the strategy of the communication for the team and stakeholders. </p>
+<p>The plan will discuss the type of information which will be communicated throughout the development which includes project updates, discussing progress report, risks, and issues with the project.  The plan also specifies the communication needs of all parties involved and what the approach will be for the communication process to go accordingly. </p>
 
 ==Communication Management Approach==
-<p> The project manager is the one responsible for holding regular meetings with the project team and discuss the updates being made. These meetings will be held to ensure that everyone is aware of the progress of the project. The team should also establish a way to address any conflicts or issues that arise by communicating clearly. </p>
+<p> The project manager is the one responsible for holding regular meetings with the project team and discussing the updates being made. These meetings will be held to ensure that everyone is aware of the progress of the project. The team should also establish a way to address any conflicts or issues that arise by communicating clearly. </p>
 
 ==Communication Management Constraints==
+<p>The Communications Management Constraints for the project are crucial to the overall project management plan because these constraints help in defining the limitations which may impact the communication processes and strategies created for the project. The team will look to develop solutions with the help of identifying the constraints to mitigate potential challenges. This section will provide an overview of the constraints that may impact the project’s communication strategies and processes. These constraints are the following: </p>
 
-<p>The Communications Management Constraints for the project are crucial to the overall project management plan because these constraints help in defining the limitations which may impact the communication processes and strategies created for the project. The team will look to develop solutions with the help of identifying the constraints in order to mitigate potential challenges. This section will provide an overview of the constraints that may impact the project’s communication strategies and processes. These constraints are the following: </p>
-
-<p> 1.	Availability of team members: Some team members may have other work or responsibilities at the moment making them unavailable to communicate. </p>
-<p> 2.	Limited budget for resources and tools used for communication: The budget may not be sufficient to fund communication tools which can be used to improve the communication management plan. </p>
-<p> 3.	Time conflicts:  The provided deadlines may provided challenges in completing requirements and could result in conflicts with conducting regular meetings. </p>
-<p> 4.	Technical difficulties: This may include internet problems and other technicalities that may be a constraint to communication processes. </p>
+<ul> 1.	Availability of team members: Some team members may have other work or responsibilities now making them unavailable to communicate. </ul>
+<ul> 2. Limited budget for resources and tools used for communication: The budget may not be sufficient to fund communication tools which can be used to improve the communication management plan. </ul>
+<ul> 3.	Time conflicts: The deadlines provided may provide challenges in completing requirements and could result in conflicts with conducting regular meetings. </ul>
+<ul> 4.	Technical difficulties: This may include internet problems and other technicalities that may be a constraint to communication processes. </ul>
 
 ==Roles==
 <table border="1" width="70%" align="center">
