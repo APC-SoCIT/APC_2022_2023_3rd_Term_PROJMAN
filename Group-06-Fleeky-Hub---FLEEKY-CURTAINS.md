@@ -2720,7 +2720,6 @@ Implement lessons learned from previous projects to enhance communication practi
       <th>Contact Information</th>
     </tr>
     <tr>
-      <td>Mir Tolentino</td>
       <td>Manager of Operations</td>
       <td>Internal</td>
       <td>Project Sponsor</td>
