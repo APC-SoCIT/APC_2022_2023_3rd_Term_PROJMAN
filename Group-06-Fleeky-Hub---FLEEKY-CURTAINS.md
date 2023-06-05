@@ -103,12 +103,6 @@
 </td>
 
 	</tr>
-	<tr>
-	<td><p style="text-align:center;">Project Head Developer <em>(Bryan Gel Fabellore)</em></p></td>
-        <td width="516">
-<p>Leads the main development (coding and programming) of the project. Provides the main technical progress for the project. Basically responsible for coordinating the activities for the production of the project and shoulders technical responsibility.</p>
-</td>
-	</tr>
         <tr>
 		<td><p style="text-align:center;">Project Manager <em>(Neil Albert Garcia)</em></p></td>
 		<td width="517">
@@ -119,6 +113,12 @@
 		<td><p style="text-align:center;">Project Documentation <em>(Gabriel Perez)</em></p></td>
 		<td width="517">
 <p>Provides support in handling documentations of the project. Ensures all documentations needed to be delivered as the project progresses are given and properly made according to the overall group and project state and context.</p>
+</td>
+	</tr>
+	<tr>
+	<td><p style="text-align:center;">Project Head Developer <em>(Bryan Gel Fabellore)</em></p></td>
+        <td width="516">
+<p>Leads the main development (coding and programming) of the project. Provides the main technical progress for the project. Basically responsible for coordinating the activities for the production of the project and shoulders technical responsibility.</p>
 </td>
 	</tr>
         <tr>
