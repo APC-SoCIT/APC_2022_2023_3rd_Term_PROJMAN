@@ -509,9 +509,9 @@ Conclusion:
 <h3>Preliminary Scope Statement</h3>
 <p>The development of Chubby Gourmet’s E-commerce Web Application will include the design, testing, and delivery of an improved online platform for the business. All personnel, hardware, and software resources will be managed by the product manager.  All project work will be independent of daily and ongoing schoolwork and business, and all required testing will be done within the group up to their discretion.  All project funding will be managed by the product owner up to and including the allocated amounts in this document.  This project will conclude when they receive feedback from the project sponsor, the output has achieved the success criteria, and the group has received a signed project acceptance/completion document from the project sponsor. This feedback and signed acceptance/completion documents will be archived for safekeeping and for future refence if needed.</p>
 ==Risks==
-  <p>The following risks for Chubby Gourmet’s E-commerce Web Application have been identified.  The product owner and developers will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:  </p>
+<p>The following risks for Chubby Gourmet’s E-commerce Web Application have been identified.  The product owner and developers will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:  </p>
 
- <p>1.	Resource Risks: There is a risk that the project may not have sufficient resources, such as personnel, budget, or equipment, which could impede the successful completion of the project.
+<p>1.	Resource Risks: There is a risk that the project may not have sufficient resources, such as personnel, budget, or equipment, which could impede the successful completion of the project.
 <br>2.	Technical Risks: There is a risk of mistakes or errors made by project team members, which could impact the project's progress, quality, or functionality.
 <br>3.	Quality Assurance Risks: There is a risk that the quality assurance of the project may not be able to reach the quality the team had initially planned and may cause further delay before completion.
 <br>4.	Communication Risks: There is the risk of the group committing miscommunication amongst each other and towards the project sponsor.
@@ -519,7 +519,7 @@ Conclusion:
 <br>6.	External Factors Risks: There is the risk of external factors that neither the team nor the project sponsor can do. External factors may include hazardous weather conditions, health conditions, etc.
 </p>
 ==Project Deliverables==
-  <p>The following deliverables must be produced upon the successful completion of the Chubby Gourmet’s E-commerce Web Application project.  Any changes to these deliverables must be approved by the PBL head, Mr. Sanchez.</p>
+<p>The following deliverables must be produced upon the successful completion of the Chubby Gourmet’s E-commerce Web Application project.  Any changes to these deliverables must be approved by the PBL head, Mr. Sanchez.</p>
   <ul>
     <li>Fully Developed E-commerce Web Application</li>
     <li>Complete documentation for Chubby Gourmet’s E-commerce Web Application</li>
@@ -528,7 +528,8 @@ Conclusion:
   </ul>
 
 ==Summary Milestone Schedule==
-  <p>The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.</p>
+
+<p>The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.</p>
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">Project Milestone</p></td>
