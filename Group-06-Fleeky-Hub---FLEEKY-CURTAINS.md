@@ -979,6 +979,23 @@ The website will comply with relevant laws and regulations, including data priva
 <h2>Quality Checklists</h2>
 <p>In this table, each checklist item is listed in the first column. The second column has a checkbox for "Yes" to indicate that the item meets the quality standard, the third column has a checkbox for "No" to indicate that the item does not meet the quality standard, and the fourth column has a checkbox for "N/A" to indicate that the item is not applicable to the website being evaluated. The evaluator can mark the appropriate checkbox for each checklist item as they go through the evaluation process. </p>
 
+<h2>Work Performance Measurements</h2>
+<p>These performance metrics will be used to monitor the website development project for Fleeky Curtains and make sure it is finished on schedule, within budget, and to the satisfaction of the client. Following these metrics throughout the project will enable Fleeky Curtains to see areas where they are succeeding and those where they might need to make improvements, which will eventually result in a successful project and pleased clients.</p>
+
+| Work Performance Measurement  | Description | Calculation | Target | 
+| ------------- | ------------- | ------------- | ------------- |
+| Schedule Performance | Measures the actual progress of the project compared to plan | Actual completion date of task / Planned completion date of task x 100 | 100% |
+| Cost Performance | Measures the actual cost of the project compared to budget | Actual costs incurred to date / Budgeted costs for the same period x 100 | >100% |
+| Quality Performance | Measures the quality of the deliverables produced by the project | Quality metrics such as defect density, user satisfaction, or code review ratings | >100% |
+| Scope Performance | Measures the actual project deliverables produced compared to | Completed deliverables / Planned deliverables x 100 | 100% |
+| Customer Satisfaction | Measures the satisfaction of the customer with the project | Surveys, customer feedback, or other means | High |
+
+<h2>Scope Baseline</h2>
+| Scope Baseline Component | Description |
+| ------------- | ------------- | 
+| Project Scope Statement | The goal of the project is to build Fleeky Curtains a new website that will improve its online visibility, boost client involvement, and eventually boost sales. |
+
+
 <table border="1" align="center">
   <tr>
     <th>Checklist Item</th>
