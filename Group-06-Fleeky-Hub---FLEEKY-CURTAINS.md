@@ -991,9 +991,13 @@ The website will comply with relevant laws and regulations, including data priva
 | Customer Satisfaction | Measures the satisfaction of the customer with the project | Surveys, customer feedback, or other means | High |
 
 <h2>Scope Baseline</h2>
-| Scope Baseline Component | Description |
-| ------------- | ------------- | 
-| Project Scope Statement | The goal of the project is to build Fleeky Curtains a new website that will improve its online visibility, boost client involvement, and eventually boost sales. |
+
+
+| Scope Baseline Component  | Description |
+| ------------- | ------------- |
+| Project Scope Statement | The goal of the project is to build Fleeky Curtains a new website that will improve its online visibility, boost client involvement, and eventually boost sales. >Deliverables include a fully working website with an intuitive user interface, mobile responsiveness, and simple navigation. A product catalog, shopping cart, and checkout features will all be available on the website. |
+| Content Cell  | Content Cell  |
+
 
 
 <table border="1" align="center">
