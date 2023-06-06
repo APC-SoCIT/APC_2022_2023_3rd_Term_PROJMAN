@@ -96,6 +96,45 @@
 		<td bgcolor="lightblue"><p style="text-align:center;">Role</p></td>
 		<td bgcolor="lightblue"><p style="text-align:center;">Responsibility</p></td>
 	</tr>
+
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Role</th>
+            <th>Responsibility</th>
+        </tr>
+        <tr>
+            <td>Pallas Dale Fontiveos</td>
+            <td>Project Team Leader</td>
+            <td>Manages the overall progression of the Business Case and project team</td>
+        </tr>
+        <tr>
+            <td>Neil Albert Garcia</td>
+            <td>Project Manager</td>
+            <td>Provides support in overseeing the project’s completion</td>
+        </tr>
+        <tr>
+            <td>Bryan Gel Fabellore</td>
+            <td>Project Team Member</td>
+            <td>Provides support in the documentation of the project</td>
+        </tr>
+        <tr>
+            <td>Joshua Timothy Roxas</td>
+            <td>Project Team Member</td>
+            <td>Provides technical support in the project</td>
+        </tr>
+        <tr>
+            <td>Gabriel Luis Antonio Perez</td>
+            <td>Project Team Member</td>
+            <td>Provides support in handling documentation of the project</td>
+    </table>
+
+
+
+
+
+
 	<tr>
 		<td><p style="text-align:center;">Project Team Leader <em>(Pallas Fontiveros)</em></p></td>
 		<td width="517">
