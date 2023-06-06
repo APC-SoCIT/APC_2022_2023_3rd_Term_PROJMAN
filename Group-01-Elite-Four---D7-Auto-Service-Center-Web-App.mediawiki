@@ -1283,6 +1283,414 @@ The team can effectively manage and evaluate any proposed schedule changes, ensu
 ==9.5 Scope Change==
 If any changes are made to the project’s scope, rest assured it is approved by the project sponsor. The project manager must evaluate the scope change's impact on the current schedule. If the project manager determines that the change will significantly affect the current project schedule, they may request a re-baselining of the schedule to reflect any necessary adjustments due to the new project scope. This request must be reviewed and approved by the project sponsor before the schedule can be re-baselined.
 
+=10. Change Management Plan=
+==10.1 Introduction==
+The Change Management Plan was created for the D7 Auto Service Center Web-App project to set expectations on how the approach to changes will be managed, what defines a change, the purpose and role of the change control board, and the overall change management process. All stakeholders will be expected to submit or request changes to the D7 Auto Service Center Web-App Project in accordance with this Change Management Plan and all requests and submissions will follow the process detailed herein
+
+==10.2 Change Control Board==
+The Change Control Board (CCB) is the approval authority for all proposed change requests pertaining to the D7 Auto Service Center Web-App Project. The purpose of the CCB is to review all change requests, determine their impacts on the project risk, and schedule, and to approve or deny each change request. The following chart provides a list of the CCB members for the D7 Auto Service Center Web-App Project:
+
+<table>
+<thead>
+  <tr>
+    <th>Role</th>
+    <th>Project Responsibility</th>
+    <th>Skills Required</th>
+    <th>Number of Staff</th>
+    <th>Performance Reviews</th>
+    <th>Recognition and Rewards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Project Sponsor</td>
+    <td>Provides funding and resources for the project.</td>
+    <td>Strategic planning and leadership skills</td>
+    <td>1</td>
+    <td>Quarterly or as needed.</td>
+    <td>Bonus or promotion</td>
+  </tr>
+  <tr>
+    <td>Project Manager</td>
+    <td>Oversees the day-to-day operations of the project</td>
+    <td>Project management, communication, leadership skills</td>
+    <td>1</td>
+    <td>Monthly or as needed.</td>
+    <td>Bonus or promotion</td>
+  </tr>
+  <tr>
+    <td>Project Product Owner</td>
+    <td>Leads a team of project members.</td>
+    <td>Leadership, communication, delegation</td>
+    <td>1</td>
+    <td>Monthly review</td>
+    <td>Performance-based bonuses or salary increases.</td>
+  </tr>
+  <tr>
+    <td>Project Members</td>
+    <td>Contributes to the project's execution and completion.</td>
+    <td>Technical or functional skills as required by the project.</td>
+    <td>Varies depending on project requirements.</td>
+    <td>Weekly review or as needed.</td>
+    <td>Performance-based bonuses or salary increases.</td>
+  </tr>
+</tbody>
+</table>
+
+==10.3 Roles and Responsibilities==
+The following are the roles and responsibilities for all change management efforts related to the D7 Auto Service Center Web-App Project:
+<br><br>
+Project Sponsor:<br>
+•	Approve all changes to budget/funding allocations.
+<br>
+•	Approve all changes to schedule baseline.
+<br>
+•	Approve any changes in project scope.
+<br><br>
+Project Manager:<br>
+•	Receive and log all change requests from project stakeholders.
+<br>
+•	Conduct preliminary risk, cost, schedule, scope analysis of change prior to CCB.
+<br>
+•	Seek clarification from change requestors on any open issues or concerns.
+<br>
+•	Make documentation revisions/edits as necessary for all approved changes.
+<br>
+•	Participate on CCB
+<br><br>
+Product Owner:<br>
+•	Leading change efforts and ensuring all stakeholders are aware of the changes that will take place.
+<br>
+•	Creating and implementing a change management plan that addresses potential resistance to change.
+<br>
+•	Identifying and addressing potential risks and issues associated with the change.
+<br><br>
+Web Developer:<br>
+•	Developing the backend of the web application.
+<br>
+•	Creating the frontend user interface (UI) for the web application.
+<br>
+•	Testing and optimizing the implemented features.
+<br>
+•	Collaborating with team members for integration.
+<br>
+•	Using version control and ensuring collaboration.
+<br>
+•	Implementing security measures for the web application.
+<br><br>
+Project Secretary/Stakeholder:<br>
+•	Submit all change requests on standard organizational change request forms.
+<br>
+•	Provide all applicable information and details on change request forms.
+<br>
+•	Be prepared to address questions regarding any submitted change requests.
+<br>
+•	Provide feedback as necessary on the impact of proposed changes.
+<br><br>
+Team Developer Support:<br>
+•	Providing the necessary resources and tools for developers to carry out their work.
+<br>
+•	Offering training and development opportunities to enhance the skills and knowledge of team members.
+<br>
+•	Encouraging collaboration and knowledge sharing among team members.
+<br>
+•	Ensuring that team members are aware of the project goals and objectives and are aligned with them.
+
+Team Secretary Support:<br>
+•	Providing the necessary resources and tools for developers to carry out their work.
+<br>
+•	Offering training and development opportunities to enhance the skills and knowledge of team members.
+<br>
+•	Encouraging collaboration and knowledge sharing among team members.
+<br>
+•	Ensuring that team members are aware of the project goals and objectives and are aligned with them
+
+==10.4 Change Control Process==
+
+The Change Control Process for the D7 Auto Service Center Web-App Project will follow the organizational standard change process for all projects. The project manager has overall responsibility for executing the change management process for each change request.
+
+1)	Identify the need for a change (Stakeholders) – Change requestor will submit a completed change request form to the project manager.
+
+2)	Log change in the change request register (Project Manager) – The project manager will keep a log of all submitted change requests throughout the project’s lifecycle.
+
+
+3)	Evaluate the change (Project Manager, Team, Requestor) – The project manager will conduct a preliminary analysis on the impact of the change to risk, cost, schedule, and scope and seek clarification from team members and the change requestor.
+
+
+4)	Submit change request to CCB (Project Manager) – The project manager will submit the change request and the preliminary analysis to the CCB for review.
+
+
+5)	Obtain Decision on change request (CCB) – The CCB will discuss the proposed change and decide if it will be approved based on all submitted information.
+
+6)	Implement change (Project Manager) – If a change is approved by the CCB, the project manager will update and re-baseline project documentation, as necessary.
+
+<br><br>
+
+To effectively monitor the progress of change requests, a specific change request status is assigned to each step, as illustrated in the table below
+
+<table>
+<thead>
+  <tr>
+    <th>Status</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Submitted</td>
+    <td>A change request log submitted by any member of the Elite Four team has not yet undergone impact analysis by the Project Manager.</td>
+  </tr>
+  <tr>
+    <td>In Review</td>
+    <td>Conducting an impact analysis is in progress.</td>
+  </tr>
+  <tr>
+    <td>Approved</td>
+    <td>The change request has been approved and will now proceed to the implementation stage.</td>
+  </tr>
+  <tr>
+    <td>Denied</td>
+    <td>   The change request has been rejected.   </td>
+  </tr>
+  <tr>
+    <td>In Progress</td>
+    <td>The action plan for implementing the change request is currently in progress.</td>
+  </tr>
+  <tr>
+    <td>Verifying</td>
+    <td>A review is being conducted to ensure proper implementation of the change request.</td>
+  </tr>
+  <tr>
+    <td>Closed</td>
+    <td>The change request has been fully executed, with successful testing and the release of updates.</td>
+  </tr>
+</tbody>
+</table>
+
+=11. Quality Management Plan=
+==11.1 Introduction==
+The Quality Management Plan outlines the team's approach to ensuring that the D7 Auto Service Center Web-App project meets the necessary quality requirements and standards. This plan sets up the procedures, techniques, and tools that will be used to manage and control quality throughout the project lifecycle.
+
+==11.2 Quality Management Approach==
+The Quality Management Plan for the D7 Auto Service Center Web-App project will utilize an Agile and Scrum methodology, this way, the project during its phases can be subject to change which will allow both the development team and the client to make changes as needed whenever there are certain adjustments that are needed in order to make the project tailor-fit to the requirements of the business. This method and approach will also allow the development team to carefully run through the deliverables needed and ensure that the deliveries being made are of quality and through the right practices of the chosen methodologies.
+
+<table>
+<thead>
+  <tr>
+    <th>Role</th>
+    <th>Authority</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Project Manager</td>
+    <td>Establishes and supports the standards needed for the project deliverables so that it may supply satisfaction to stakeholders' needs.</td>
+  </tr>
+  <tr>
+    <td>Product Owner</td>
+    <td>Ensures that the project’s features, and other necessary components pass the success criteria of the project, while supporting communication to both the project teams and the project manager.</td>
+  </tr>
+  <tr>
+    <td>Development Team</td>
+    <td>Responsible for ensuring that deliverables are created and delivered on time, while these deliverables being made are of utmost quality and adhere to the success criteria and standards.</td>
+  </tr>
+  <tr>
+    <td>Documentation Team</td>
+    <td>In charge of keeping all paperwork and pertinent meetings well documented and recorded. This team will also handle weekly reports, status reports, and organize the minutes of the meetings.</td>
+  </tr>
+  <tr>
+    <td>Project Sponsor</td>
+    <td>The project sponsor will be part of the project’s decision making whether a feature implemented and to be deployed is thereby approved, declined, or needs changes. The project sponsor will also receive regular updates from the project manager as new features are being implemented to the project.</td>
+  </tr>
+</tbody>
+</table>
+
+==11.3 Quality Requirements/Standards==
+The D7 Auto Service Center Web-App project must adhere to the following quality requirements and standards: 
+<br><br>
+•	The web application should be designed to provide a user-friendly and intuitive experience, with consistent design and layout across all pages, to ensure ease of use and efficient navigation. 
+<br>
+•	The web application must adhere to industry standards and best practices for security, performance, and scalability to ensure a secure and reliable system. 
+<br>
+•	The web application must be designed to be responsive and accessible to all users, including those with disabilities, to ensure equal access to information and services. 
+<br>
+•	Thorough testing and validation should be conducted throughout the development lifecycle to ensure that the web application meets all client requirements and specifications and to find and address any defects or issues. 
+<br>
+•	The web application should be compatible with all major web browsers for desktop to ensure a consistent and seamless user experience. 
+<br>
+•	The design of the web application should incorporate a modular and flexible architecture that allows future updates, enhancements, and maintenance without disrupting the existing system functionality. 
+<br>
+•	The web application should follow relevant laws and regulations, such as data privacy laws, to ensure legal compliance and protect user data. 
+<br><br>
+By adhering to these quality requirements and standards, the team can ensure that the D7 Auto Service Center Web-App project delivers a high-quality product that meets all customer expectations and requirements.
+
+==11.4 Quality Assurance==
+The Quality Assurance process of the D7 Auto Service Center Web-App is also needed for the utmost quality of the deliverables, with the assurance that the standards from the selected methodologies are being met. This will be achieved by following through the success criteria, the satisfaction of the project's clients, and through the team's collaborative effort which will make the overall project complete and of quality. 
+<br><br>
+<b>Defining the Quality Standards:</b> The project team will collaborate with the client to ensure that both the project and the documents, about quality, are well defined and of utmost adherence to the client's satisfaction. 
+<br><br>
+<b>Reports:</b> Using the success criteria, the project team will be providing reports with regards to progress, and use of Open Project which will help display the project work packages’ statuses. 
+<br><br>
+<b>Continuity of Improvement until Deployment:</b> To adhere to the Agile Scrum method, the project will be subject to changes as needed until deployment. 
+<br><br>
+<b>Compliance to Industry Standards:</b> As part of the PBL or Project Based Learning, this project will undergo the process of industry standards wherein, it will go through the planning, system analysis and design, then development phase which ensures that all deliverables and documentations are well polished and organized. 
+<br><br>
+<b>Client Feedback:</b> The client’s satisfaction with the project will be considered as this is pivotal to the project’s completion. 
+<br><br>
+Quality Assurance of the project will be closely watched as it is a crucial part in making sure that the project was delivered in compliance to the standards and customer satisfaction while following through the methodologies used in completion of the project.
+
+==11.5 Quality Control==
+To make sure that the project meets the required quality standards, the following quality control measures will be taken: 
+<br><br>
+•	Regular inspections and reviews of project deliverables will be conducted to show and address any quality issues that arise. 
+<br>
+•	Project changes will be closely checked to ensure that they are properly documented, tracked, and approved. Unauthorized changes will be found and promptly addressed to support the quality and integrity of the project. 
+<br><br>
+Client feedback will be collected and analyzed to find any areas where client expectations are not being met. Necessary changes and improvements will be made to the project to address these issues.
+
+==11.6 Quality Control Measurements==
+To check and control project performance, a set of quality control measurements will be implemented throughout the project lifecycle. The following measurements will be used: 
+<br><br>
+•	Regularly, the team will review test results and validation reports to ensure that the D7 Auto Service Center Web-App meets all necessary requirements and specifications set by the client. 
+<br>
+•	Quality metrics will be proven to evaluate project performance, including measuring the number of bugs and the number of client issues reported. This data will be used to name areas for improvement and take necessary actions to ensure that project goals are met. 
+<br>
+•	Inspection and review results will be closely checked to find and address any quality issues that arise. The team will document any corrective actions taken to prevent the recurrence of the same issues in the future. 
+<br>
+•	The team will regularly review the changes to ensure that all project changes are appropriately documented, tracked, and approved. Unauthorized changes will be found and addressed promptly to support project quality and integrity. 
+<br>
+•	Client feedback will be regularly collected and analyzed to find any areas where client expectations are not being met. With the help of this feedback, the project will be changed and improved as needed to keep up with the needs and satisfaction of the client. 
+<br><br>
+By following this Quality Management Plan, we can ensure that the D7 Auto Service Center Web-App project meets the necessary quality requirements and standards, and that quality is managed and controlled throughout the project lifecycle.
+
+=12. Human Resources Management Plan=
+==12.1 Introduction==
+A human resource management constructed and composed under significant effort, is a key towards success of a project, ensuring that these projects are professionally managed and filled with positions necessary to complete the deliverables from the beginning to its turnover. Roles, and its duties must be clearly defined, as well as the performances being tracked for the management measures, are also essential for the project’s strategizing for efficiency and effectiveness.
+This plan is utilized to effectively manage the project’s team; by means of providing an in-depth definition of the roles and responsibilities of each team members, while keeping communication a top priority to ensure productivity runs through at its optimum level for the project. With a clear understanding of the roles, its assigned power for authorization, responsibility, and competency, this plan will be useful in understanding the key responsibilities of each project team member.
+
+==12.2 Roles and Responsibilities==
+One of the crucial parts of the Human Resources management plan is outlining the roles and responsibilities of all project team members and stakeholders for the matter. This ensures all team members are well informed of their individual parts to play in the project's succession. 
+
+This planning will also define the level of authority and what decisions can be decided upon by members, and what are the extent of their authority. This is to make sure that the resources are maximized to their potential. 
+
+The human resource management aims to be a roadmap for the project team members that will serve as guidance in understanding roles and responsibilities for the project’s success in execution and delivery of tasks assigned accordingly and effectively.
+
+<table>
+<thead>
+  <tr>
+    <th>Role</th>
+    <th>Authority</th>
+    <th>Responsibility</th>
+    <th>Competency</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Project Sponsor</td>
+    <td>Ultimate decision-making authority for the project</td>
+    <td>Provides project funding and resources. Defines project scope, goals, and objectives. Reviews and approves project deliverables and changes. Acts as a liaison between the project team and the organization's executive management.</td>
+    <td>Strong leadership, strategic thinking, and communication</td>
+  </tr>
+  <tr>
+    <td>Project Manager</td>
+    <td>Responsible for project execution and delivery</td>
+    <td>Develops and manages the project plan. Defines project roles, responsibilities, and timelines. Identifies and manages project risks and issues. Facilitates communication between project stakeholders. Ensures project meets quality, budget, and schedule requirements. Reports project status and progress to project sponsor and executive management.</td>
+    <td>Strong project management, leadership, and communication</td>
+  </tr>
+  <tr>
+    <td>IT Team (Internal Users)</td>
+    <td>Provides technical expertise and support for project</td>
+    <td>Provides technical input into project planning and execution. Develops, tests, and implements technical solutions. Identifies and resolves technical issues. Collaborates with other project teams to ensure technical requirements are met.</td>
+    <td>Strong technical knowledge, problem-solving, and collaboration</td>
+  </tr>
+  <tr>
+    <td>Documentation Team (Internal Users)</td>
+    <td>Responsible for documentation of project</td>
+    <td>Develops and maintains project documentation, including requirements, design, testing, and user manuals. Ensures that project documentation is complete, accurate, and up to date. Provides guidance and support to project team members on documentation standards and requirements.</td>
+    <td>Strong writing, editing, and organizational skills</td>
+  </tr>
+  <tr>
+    <td>Customers (External Users)</td>
+    <td>The users who will use the product or service of the project</td>
+    <td>Provides feedback on project deliverables. Collaborates with the project team to identify and refine requirements. Tests and evaluates the project deliverables to ensure that they meet their needs. Communicates their needs and expectations to the project team.</td>
+    <td>Strong domain knowledge and communication skills</td>
+  </tr>
+  <tr>
+    <td>Client (External Users)</td>
+    <td>The entity or organization that has initiated the project and will receive the project deliverables</td>
+    <td>Provides input and feedback on project deliverables and progress. Reviews and approves project deliverables and changes. Provides project funding and resources. Communicates their needs and expectations to the project team.</td>
+    <td>Strong leadership, communication, and negotiation skills</td>
+  </tr>
+</tbody>
+</table>
+
+==12.3 Project Organizational Chart==
+A project organizational chart visualizes the project's structure, roles, and responsibilities, clarifying reporting lines, decision-making authority, and communication channels within the team and with external stakeholders. The chart aligns each team's critical role with the project goals and objectives, minimizing confusion and ambiguity, facilitating effective communication, decision-making, and collaboration, all essential for project success.
+
+[[https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/132120262/b88a2dd4-fca8-4dbf-9c3a-2a817448d505]]
+
+==12.4 Staffing Management==
+Throughout the project’s duration, Staffing Management is of utmost importance because it defines the most essentials for the team and their roles to have a successful project execution. Being able to outline the strategies, and the processes of each project phase from planning to deployment, to effectively manage acquiring to turnover, makes human resources clearly informed of their tasks and responsibilities.
+<br><br>
+•	Acquisition is necessary to be done in the timeliest way to acquire the necessary skills and expertise needed in the project. This will be comprised of requiring new hires, contractors, and even the utilization of the internal staff as needed for the project’s completion. 
+<br>
+•	Training before anything else will also be observed to lessen the errors in the project working environment, as well as further honing of skills to have better utilization of it in the creation and execution of deliverables accordingly. 
+<br>
+•	Performance Quality Evaluations and Assessments are also to be done to determine which fields require much work, and improvement, to maximize efficiency within the premises of the working environment in a healthy, and effective way. 
+<br>
+•	A rewards and recognition system will also be implemented within the project’s duration because it will promote better work quality and appreciation of the members’ work contribution to and for the project. 
+<br><br>
+The project’s Human Resource and Staffing may be subjected to change as there are going to be contingencies and updates within the project as time moves forward, which is why it is expected to have updates in the staffing management to fulfill the roles and responsibilities needed to complete the project.
+
+<table>
+<thead>
+  <tr>
+    <th>Role</th>
+    <th>Project Responsibility</th>
+    <th>Skills Required</th>
+    <th>Number of Staff</th>
+    <th>Performance Reviews</th>
+    <th>Recognition and Rewards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Project Sponsor</td>
+    <td>Provides funding and resources for the project.</td>
+    <td>Strategic planning and leadership skills</td>
+    <td>1</td>
+    <td>Quarterly or as needed.</td>
+    <td>Bonus or promotion</td>
+  </tr>
+  <tr>
+    <td>Project Manager</td>
+    <td>Oversees the day-to-day operations of the project</td>
+    <td>Project management, communication, leadership skills</td>
+    <td>1</td>
+    <td>Monthly or as needed.</td>
+    <td>Bonus or promotion</td>
+  </tr>
+  <tr>
+    <td>Project Product Owner</td>
+    <td>Leads a team of project members.</td>
+    <td>Leadership, communication, delegation</td>
+    <td>1</td>
+    <td>Monthly review</td>
+    <td>Performance-based bonuses or salary increases.</td>
+  </tr>
+  <tr>
+    <td>Project Members</td>
+    <td>Contributes to the project's execution and completion.</td>
+    <td>Technical or functional skills as required by the project.</td>
+    <td>Varies depending on project requirements.</td>
+    <td>Weekly review or as needed.</td>
+    <td>Performance-based bonuses or salary increases.</td>
+  </tr>
+</tbody>
+</table>
+
+=13. Communications Management Plan=
+
 =10. WORK BREAKDOWN STRUCTURE=
 
 ==10.1 Introduction==
