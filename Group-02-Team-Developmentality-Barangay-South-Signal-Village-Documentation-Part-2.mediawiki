@@ -1048,68 +1048,47 @@ By leveraging these communication methods and technologies, the project team can
 ==14.8 Communication Matrix==
 <table width="100%" border="1" align="center">
     <tr>
-      <th>Channel</th>
-      <th>From</th>
-      <th>To</th>
-      <th>Type</th>
-      <th>Frequency</th>
-      <th>Format Used</th>
-      <th>Delivery Media</th>
-    </tr>
-    <tr>
-      <td>Project Planning</td>
-      <td>Project Manager</td>
-      <td>Stakeholders</td>
-      <td>Meeting</td>
-      <td>Once Before the start of the project</td>
-      <td>Formal</td>
-      <td>Email, Google Spaces/Google Meet</td>
-    </tr>
-    <tr>
-      <td>Release Planning</td>
-      <td>Project manager, Project team</td>
-      <td>Stakeholders</td>
-      <td>Meeting</td>
-      <td>Once before start of the project Updated when necessary</td>
-      <td>Formal</td>
-      <td>Email, Google Spaces/Google Meet</td>
-    </tr>
-    <tr>
-      <td>Sprint Planning</td>
-      <td>Project manager</td>
-      <td>Project team</td>
-      <td>Meeting</td>
-      <td>Once every week</td>
-      <td>Informal</td>
-      <td>Google Spaces/Google Meet</td>
-    </tr>
-    <tr>
-      <td>Management processes</td>
-      <td>Project manager, project team</td>
-      <td>Stakeholders</td>
-      <td>Artifact</td>
-      <td>Once Before start of the project Updated when necessary</td>
-      <td>Written Document</td>
-      <td>Email, Google Spaces, Google Docs</td>
-    </tr>
-    <tr>
-      <td>Product Backlog</td>
-      <td>Project manager</td>
-      <td>Project team</td>
-      <td>Artifact</td>
-      <td>Once every week</td>
-      <td>Written Document</td>
-      <td>Google Docs, Google Spaces</td>
-    </tr>
-    <tr>
-      <td>Project Update</td>
-      <td>Project Manager</td>
-      <td>Project team</td>
-      <td>Meeting</td>
-      <td>Once every week</td>
-      <td>Informal</td>
-      <td>Google Spaces/Google Meet</td>
-    </tr>
+    <th>COMMUNICATION</th>
+    <th>PURPOSE</th>
+    <th>MEDIUM</th>
+    <th>FREQUENCY</th>
+    <th>AUDIENCE</th>
+  </tr>
+  <tr>
+    <td>Kickoff Meeting</td>
+    <td>Introduce and set project objectives and project expectations.</td>
+    <td>In-person, Video Conference</td>
+    <td>Once – at the beginning of the project.</td>
+    <td>Project team, Project Sponsor, and Stakeholders</td>
+  </tr>
+  <tr>
+    <td>Project Team Meetings</td>
+    <td>Coordinate, collaborate, and review project tasks.</td>
+    <td>In-person, Video Conference</td>
+    <td>Regularly</td>
+    <td>Project team, Project Sponsor</td>
+  </tr>
+  <tr>
+    <td>Technical and Development Meetings</td>
+    <td>Discuss the technical and development aspects of the project.</td>
+    <td>In-person, Video Conference</td>
+    <td>As needed</td>
+    <td>Project team including the Scrum Master and Scrum members.</td>
+  </tr>
+  <tr>
+    <td>Sprint meetings</td>
+    <td>Plan and review sprint activities.</td>
+    <td>In-person, Video Conference</td>
+    <td>During each sprint</td>
+    <td>Project team</td>
+  </tr>
+  <tr>
+    <td>Project Status Report</td>
+    <td>Provide updates on project progress and milestones.</td>
+    <td>In-person, Video Conference, Email</td>
+    <td>Regularly</td>
+    <td>Project team, Project Sponsor</td>
+  </tr>
   </table>
 
 ==14.9 Communication Flowchart==
