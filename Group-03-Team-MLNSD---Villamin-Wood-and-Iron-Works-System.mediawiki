@@ -151,56 +151,58 @@
 
 # Store Manager
 #* Manage the product’s availability.
-#*. Managing the System’s Database.
+#* Managing the System’s Database.
 #* Tend to the customers’ orders.
 #* Monitor business performance through Dashboard.
 
-# Store Owner </ul>
-<ul><ul> a. Edit the website. </ul></ul>
-<ul><ul><ul> i. Managing the System’s Database. </ul></ul></ul>
-<ul><ul> b. Monitor business performance through Dashboard Reports. </ul></ul>
+# Store Owner
+#* Edit the website.
+#* Managing the System’s Database.
+#* Monitor business performance through Dashboard Reports.
 
 ===Technology Migration===
-<p>Villamin Wood and Iron Works operates in a Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally in PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a Form for the client to fill if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided the 16 of their products lists that has been then migrated to the system manually in preparation for the initial deployment. </p>
+<p>Villamin Wood and Iron Works operates in a Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally in PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a Form for the client to fill if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided sixteen of their products lists that have been then migrated to the system manually in preparation for the initial deployment. </p>
 
 ==Project Overview==
 <p> The project created for Villamin Wood and Iron works upon their request is an ordering system to help improve their current business process which is why an ordering system was developed by the team. Part of the goals and objectives of this project is to boost the number of customers and improve the time it takes for transactions to be completed.  </p>
+
 <p>As the project progresses there will be a list of project assumptions, constraints, and milestones along the way. However, the preliminary list which the team will build upon is provided below. </p>
+
 ===Project Description===
 <p>The project which is an Ordering System will consist of features created to benefit both the client and their customers will be implemented to address the business problems of the client. Utilizing the features of the online store will help to solve the business problems. </p>
 
 <p>The key features are as follows: </p>
-<ul> 1.	Ordering System – To provide a convenient and faster way to process and create orders. </ul>
-<ul> 2. Customer Sign-up/Log-in – To have accounts that can interact with the online store. </ul>
-<ul> 3. Admin Dashboard – To be able to monitor the sales and inventory. </ul>
+
+# <b>Ordering System </b>– To provide a convenient and faster way to process and create orders.
+# <b>Customer Sign-up/Log-in </b>– To have accounts that can interact with the online store.
+# <b>Admin Dashboard </b>– To be able to monitor the sales and inventory.
 
 ===Goals and Objectives===
 <p>The business goals and objectives supported by the project created by MLNSD are prominently observed as requested by the client (Villamin Wood and Iron Works) which is to boost the number of customers and to increase sales with the help of an online store. The project addresses those objectives by developing the online store with an ordering system and having the ability to manage stocks and view reports on the dashboard. Listed below are the specific objectives of the project: </p>
 
-<p>To boost the number of customers by creating a convenient alternative for their Facebook page through our systems which minimizes the amount of clicks it takes to order by 2 clicks.  </p>
-
-<p>To create features for the system such as the add-to-cart and check-out feature which will improve the time it takes for transactions to complete from the previous 2-3 days and now can be accomplished within 1-2 days. </p>
+# To boost the number of customers by creating a convenient alternative for their Facebook page through our systems which minimizes the amount of clicks it takes to order by two clicks.
+# To create features for the system such as the add-to-cart and check-out feature which will improve the time it takes for transactions to complete from the previous 2-3 days and now can be accomplished within 1-2 days.
 
 ===Project Performance===
 <p>A quantitative criterion to gauge the project's performance will be used to assess its success. The following criteria will be used to gauge the project's success using KPI: </p>
 
-<ul>Budget Plan - The team will look for inefficiency and waste to guarantee quality control in project management procedures. They will also monitor the construction of the project to ensure that the budget will not exceed. </ul>
-<ul>Milestones – The team will track project progress to make sure the project is going according to plan and schedule for the project development. </ul>
-<ul>Productivity – The productivity of the team will be monitored while they carry out their tasks and responsibilities and monitor the progress of the assigned work. </ul>
-<ul>Team Satisfaction - The team will make sure that every team member increases productivity and does their work satisfactorily. </ul>
-<ul>Client satisfaction - The team will offer a Client Satisfaction Survey evaluation to gauge the project's effectiveness and efficiency. </ul>
+# Budget Plan </b>–The team will look for inefficiency and waste to guarantee quality control in project management procedures. They will also monitor the construction of the project to ensure that the budget will not exceed.
+# Milestones </b>–The team will track project progress to make sure the project is going according to plan and schedule for the project development.
+# Productivity </b>–The productivity of the team will be monitored while they carry out their tasks and responsibilities and monitor the progress of the assigned work.
+# Team Satisfaction </b>– The team will make sure that every team member increases productivity and does their work satisfactorily.
+# Client satisfaction </b>– The team will offer a Client Satisfaction Survey evaluation to gauge the project's effectiveness and efficiency.
 
 ===Project Assumptions===
-<ul> 1.	There will be communication between the team and the company if there are complications occur upon deployment. </ul>
-<ul> 2.	The business and the team will discuss any additional resources. </ul>
-<ul> 3.	Additional features or changes will be added depending on the discussion and agreement between the team and the client. </ul>
+# There will be communication between the team and the company if there are complications occur upon deployment.
+# The business and the team will discuss any additional resources.
+# Additional features or changes will be added depending on the discussion and agreement between the team and the client.
 
 ===Project Constraints===
 <p>These are the following constraints pertain to Villamin Wood and Iron works: </p>
 
-<ul> 1. It is necessary to purchase if there are any additional requirements within the allocated budget and time limit. The group will guarantee to effectively accomplish the targets to meet the undertaking goals, and the group will guarantee to effectively accomplish the requirements. </ul>
-<ul> 2.	The software that will be used is necessary to be compatible with our IT platforms.  </ul>
-<ul> 3.	To avoid conflict, any additional requirements should be discussed prior to the deadline. </ul>
+# It is necessary to purchase if there are any additional requirements within the allocated budget and time limit. The group will guarantee to effectively accomplish the targets to meet the undertaking goals, and the group will guarantee to effectively accomplish the requirements.
+# The software that will be used is necessary to be compatible with our IT platforms.
+# To avoid conflict, any additional requirements should be discussed prior to the deadline.
 
 ===Project Constraints===
 <p>According to the milestone schedule below, the project plan will be submitted and approved. After the project plan is approved, resources will be assigned to it. Any schedule adjustments that may affect milestones must be approved by the Project Sponsor. The project plan will include a thorough schedule. </p>
@@ -287,17 +289,17 @@
 ==Strategic Alignment==
 <p>By ensuring that the Ordering System is in line with Villamin Wood and Iron Work's strategic goals and objectives, the team MLNSD will optimize the project's value and guarantee its contribution to the company's long-term success. </p>
 
-<b><ul>1. Villamin Wood and Iron Works aims to deliver superior craftsmanship and innovative solutions in the fields of woodworks, ironworks, glass fabrication, and aluminum works. </ul></b>
+# 1. Villamin Wood and Iron Works aims to deliver superior craftsmanship and innovative solutions in the fields of woodworks, ironworks, glass fabrication, and aluminum works.
 
-<ul><ul> A flexible, scalable ordering system that can support the development and growth of the company in the future. The ordering system allows customers to customize orders based on their specific requirements. This flexibility is crucial, as it aligns with the company's commitment to delivering unique, tailored craftsmanship. The system should enable customers to choose from a range of options, such as design elements, finishes, sizes, and materials for iron, glass, and aluminum works. </ul></ul>
+: A flexible, scalable ordering system that can support the development and growth of the company in the future. The ordering system allows customers to customize orders based on their specific requirements. This flexibility is crucial, as it aligns with the company's commitment to delivering unique, tailored craftsmanship. The system should enable customers to choose from a range of options, such as design elements, finishes, sizes, and materials for iron, glass, and aluminum works.
 
-<b><ul>2. Villamin Wood and Iron Works aim to exceed customer expectations and enhance the functionality and visual appeal of their products. </ul></b>
+# Villamin Wood and Iron Works aim to exceed customer expectations and enhance the functionality and visual appeal of their products.
 
-<ul><ul>By aligning with this goal, an ordering system is a customer-centric approach that enhances the customer experience and provides convenience. The ordering system is designed to be user-friendly and intuitive and includes features that make it simple for clients to place orders and track progress. </ul></ul>
+: By aligning with this goal, an ordering system is a customer-centric approach that enhances the customer experience and provides convenience. The ordering system is designed to be user-friendly and intuitive and includes features that make it simple for clients to place orders and track progress. 
 
-<b><ul>3. Villamin Wood and Iron Works strive to become the preferred choice for clients seeking premium manufacturing services. </ul></b>
+# Villamin Wood and Iron Works strive to become the preferred choice for clients seeking premium manufacturing services.
 
-<ul><ul>By aligning the ordering system with the strategic goals of the company of becoming the preferred choice for premium manufacturing services, the ordering system will enhance the overall customer experience by allowing customers to easily navigate through the process. Incorporate features such as real-time order tracking and customization. Lastly, by improving operational efficiency to optimize the workflow and automate processes within the ordering system to minimize errors, reduce lead times, and improve overall operational efficiency. </ul></ul>
+: By aligning the ordering system with the strategic goals of the company of becoming the preferred choice for premium manufacturing services, the ordering system will enhance the overall customer experience by allowing customers to easily navigate through the process. Incorporate features such as real-time order tracking and customization. Lastly, by improving operational efficiency to optimize the workflow and automate processes within the ordering system to minimize errors, reduce lead times, and improve overall operational efficiency.
 
 ==Cost Benefit Analysis==
 <p>lorem ipsum</p>
