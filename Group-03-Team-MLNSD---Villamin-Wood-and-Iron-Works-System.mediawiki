@@ -1018,16 +1018,16 @@ the project manager alongside the team and stakeholders. The project manager wil
 : Project Charter Plan (Long Version)
 :; Executive Summary
 : Risks
-<ul><ul><ul>Project Purpose/Justification</ul></ul></ul>
-<ul><ul><ul>Project Description</ul></ul></ul>
-<ul><ul><ul>Preliminary Scope Statement</ul></ul></ul>
-<ul><ul><ul>Summary Milestone Schedule</ul></ul></ul>
-<ul><ul><ul>Project Deliverables</ul></ul></ul>
-<ul><ul><ul>Project Approval Requirements</ul></ul></ul>
-<ul><ul><ul>Project Manager</ul></ul></ul>
-<ul><ul><ul>Authorization</ul></ul></ul>
-<ul><ul>Statement of Work</ul></ul>
-<ul><ul><ul>Introduction/Background</ul></ul></ul>
+: Project Purpose/Justification
+: Project Description
+: Preliminary Scope Statement
+: Summary Milestone Schedule
+: Project Deliverables
+: Project Approval Requirements
+: Project Manager
+: Authorization
+:; Statement of Work
+: Introduction/Background
 <ul><ul><ul>Scope of Work</ul></ul></ul>
 <ul><ul><ul>Period of Performance</ul></ul></ul>
 <ul><ul><ul>Place of Performance</ul></ul></ul>
