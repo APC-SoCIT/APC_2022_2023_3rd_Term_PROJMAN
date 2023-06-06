@@ -2215,17 +2215,17 @@ the project manager alongside the team and stakeholders. The project manager wil
 # Regular monitoring throughout the procurement process to ensure that the team will be ready for any emerging risks.
 
 ; Assignment of Responsibilities
-:: Villamin Wood and Iron Works Online System needs a clear roles and responsibilities to help ensure accountability, clarity, and effective coordination. It is essential to clearly communicate the assigned responsibilities to all parties involved and ensure that everyone understands their roles and obligations. Regular communication, coordination, and collaboration among the responsible parties contribute to the smooth execution of the procurement plan and successful procurement outcomes.
+: Villamin Wood and Iron Works Online System needs a clear roles and responsibilities to help ensure accountability, clarity, and effective coordination. It is essential to clearly communicate the assigned responsibilities to all parties involved and ensure that everyone understands their roles and obligations. Regular communication, coordination, and collaboration among the responsible parties contribute to the smooth execution of the procurement plan and successful procurement outcomes.
 
 ; Communication and Reporting
-:: Effective communication and reporting play a crucial role in ensuring transparency, coordination, and accountability throughout the procurement process. Regular and clear communication helps stakeholders stay informed, aligned, and engaged. It enables the exchange of critical information, progress updates, and timely resolution of issues.
+: Effective communication and reporting play a crucial role in ensuring transparency, coordination, and accountability throughout the procurement process. Regular and clear communication helps stakeholders stay informed, aligned, and engaged. It enables the exchange of critical information, progress updates, and timely resolution of issues.
 
-:: This ensures that relevant stakeholders are kept informed about procurement activities, supplier selection processes, contract status, and any potential risks or issues. It will promote collaboration, enable timely decision-making, and provide a platform for addressing concerns, feedback, and suggestions.
+: This ensures that relevant stakeholders are kept informed about procurement activities, supplier selection processes, contract status, and any potential risks or issues. It will promote collaboration, enable timely decision-making, and provide a platform for addressing concerns, feedback, and suggestions.
 
 ; Continuous Improvement
-::  Continuous improvement is a fundamental aspect of the procurement process, driving efficiency, effectiveness, and innovation. Lessons learned from past procurement experiences will be documented and shared to avoid repeating mistakes and capitalize on best practices.
+: Continuous improvement is a fundamental aspect of the procurement process, driving efficiency, effectiveness, and innovation. Lessons learned from past procurement experiences will be documented and shared to avoid repeating mistakes and capitalize on best practices.
 
-:: The procurement plan will emphasize the commitment to continuous improvement as an integral part of the procurement lifecycle, ensuring that the organization remains adaptive, responsive, and proactive in meeting evolving needs and achieving excellence.
+: The procurement plan will emphasize the commitment to continuous improvement as an integral part of the procurement lifecycle, ensuring that the organization remains adaptive, responsive, and proactive in meeting evolving needs and achieving excellence.
 
 ==Cost Determination==
 
@@ -2266,7 +2266,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 <p> Decision criteria are a set of predefined factors and considerations used to evaluate and make informed decisions in the procurement process. The following are the decision criteria of Villamin Wood and Iron Works Online System project that will be used by the contract review board: </p>
 
 # <b>Schedule </b>- The vendor must show they can complete the project on time and meet all deliverables, including important deadlines and milestones.
-# Business Needs </b>- The project must be aligned with the company’s business needs, such as increasing operational effectiveness, enhancing customer experience, or an increase in revenue.
+# <b>Business Needs </b>- The project must be aligned with the company’s business needs, such as increasing operational effectiveness, enhancing customer experience, or an increase in revenue.
 # <b>Pricing </b>- During the decision-making process, the cost of the vendor's suggested solution will be considered. The vendor's pricing should be competitive and reasonable considering the market analysis and additional proposals received.
 # <b>Risk Management </b>- The vendor must show that they have a solid grasp of potential risks and mitigation techniques. This includes identifying potential risks associated with projects and procurement.
 # <b>Technical Requirements </b>- The system must adhere to the organization's technical specifications, which may include compatibility with current systems, security protocols, and industry-specific standards.
@@ -2278,13 +2278,16 @@ the project manager alongside the team and stakeholders. The project manager wil
 <p> The following performance metrics will be used by Villamin Wood and Iron Works Online System project for procurement activities: </p>
 
 # Vendor Performance Rating
-<p>The rating is calculated by giving points to numerous factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with five being the best, can be created by averaging the total score. </p>
+: The rating is calculated by giving points to numerous factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with five being the best, can be created by averaging the total score.
+
 # Customer Satisfaction
-<p> Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery. </p>
+: Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery.
+
 # Procurement Cycle Time
-<p> The length of time needed to complete the procurement process from need identification to the issuance of a purchase order or contract. </p>
+: The length of time needed to complete the procurement process from need identification to the issuance of a purchase order or contract.
+
 # Cost Variance
-<p> This metric contrasts actual and anticipated costs associated with procurement. To calculate, divide the result by the planned costs after deducting the actual costs. </p>
+: This metric contrasts actual and anticipated costs associated with procurement. To calculate, divide the result by the planned costs after deducting the actual costs. </p>
 
 # Contract Management
 <p> The success of contract management procedures like contract extensions, modifications, and supplier performance evaluation. </p>
@@ -2297,7 +2300,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 ==Top Three Risks==
 <p>The project’s top three risks are:</p>
-# Technical risks which may occur due to delays in development of the project or technical issues. This may result in issues with the budget and delay in the project timeline as well.
+# Technical risks which may occur due to delays in development of the project or technical issues. This may result in issues with the budget and delays in the project timeline as well.
 # Resource risks which may occur when there are insufficient resources which may be needed for further development.
 # Security Risks which may occur when there is a data breach or any other form of hacking of the system.
 
