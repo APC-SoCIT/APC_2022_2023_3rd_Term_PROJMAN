@@ -1878,25 +1878,31 @@ Overall, the introduction section of the procurement management plan for an auto
 ==14.2 Procurement Risk==
 Assessing the risk is an important task in all projects, as it involves the whole project and whether the acquiring of goods, services, and the business model would work in the real-life scenario. These procurement risks are potential issues that can arise during the project's procurement process. Which can negatively impact the said project and potentially the clients and their customer. So, it is important to know and plan for the risks as early as possible to minimize if not eliminate the possible impact of them on the project. 
 
-===a.	Vendor/Developer selection risk:===
-Choosing the wrong vendor can result in a system that does not meet the company’s needs or requires significant customization, delays implementation, and potentially adds extra cost. Mitigation strategies can include conducting thorough research on potential vendors, conducting due diligence, reviewing vendor references, and requesting demos or prototypes to ensure the system meets your requirements. 
+a.	Vendor/Developer selection risk:
+<br>
+Choosing the wrong vendor can result in a system that does not meet the company’s needs or requires significant customization, delays implementation, and potentially adds extra cost. Mitigation strategies can include conducting thorough research on potential vendors, conducting due diligence, reviewing vendor references, and requesting demos or prototypes to ensure the system meets your requirements.
 
-===b.	Implementation risk: ===
+b.	Implementation risk:
+<br>
 Implementation of the system can be a complex process, and any delays or unexpected issues can impact on the company’s business operations. Mitigation strategies may include developing a comprehensive implementation plan with clear timelines, setting up a project management team, and establishing a communication plan with stakeholders to manage expectations. 
 
-===c.	Costing risk: ===
+c.	Costing risk:
+<br>
 The cost of implementing a new system can often exceed initial estimates, potentially leading to budget overruns or financial strain on the company. Mitigation strategies can include conducting a thorough cost analysis, establishing a detailed budget and contingency plan, negotiating fixed-price contracts, and tracking expenses throughout the project. 
 
-===d.	Data privacy and security risk: ===
+d.	Data privacy and security risk:
+<br>
 A booking and reservation system will involve the collection and storage of sensitive customer data. Any data breaches can result in monetary loss and reputational damage. Mitigation strategies can include establishing clear data protection and privacy policies, investing in secure hosting and storage solutions, regularly auditing and monitoring systems for potential vulnerabilities, and ensuring staff is trained in data protection policies and practices. 
 
-===e.	User adoption risk: ===
+e.	User adoption risk:
+<br>
 There is a risk that employees may not adopt the new system, leading to underutilization or lack of engagement. Mitigation strategies can include developing a comprehensive training program, involving employees in the implementation process, ensuring user-friendliness, and addressing any potential issues early in the process. 
 
 These are just a few examples of procurement risks that can arise during the implementation of the D7 auto service center booking and reservation system, and some strategies to mitigate them. It is important to conduct a comprehensive risk assessment and develop a plan to address any potential risks before implementation begins.
 
 ==14.3 Procurement Risk Management==
-===1.	Identification of Procurement Risks ===
+1.	Identification of Procurement Risks
+<br>
 The procurement risks for the D7 Auto service center booking, and reservation web-app project are the following: <br>
 *Vendor selection (Technical) risk 
 *Implementation (Business) risk 
@@ -1904,7 +1910,8 @@ The procurement risks for the D7 Auto service center booking, and reservation we
 *External environment (Security) risk 
 *User Adoption (Security) risk 
 
-===2.	Risk Mitigation Strategy  ===
+2.	Risk Mitigation Strategy
+<br>
 After that, the risks for the project have been identified during the project. The appropriate risk mitigation and management strategy should follow to minimize the negative impact to the project. <br>
 
 *To guarantee the system fits the company’s needs, creating a vendor evaluation and selection process that involves due diligence, reference checks, and asking for demos or prototypes about their past projects. 
@@ -1917,15 +1924,16 @@ After that, the risks for the project have been identified during the project. T
 
 *Set explicit data protection and privacy rules, invest in secure hosting and storage solutions, audit, and monitor systems for potential vulnerabilities on a regular basis, and ensure personnel is taught in data protection policies and procedures to manage technology infrastructure risks.<br>
 
-===3.	Assignment of Responsibilities ===
+3.	Assignment of Responsibilities
+<br>
 The implementation of the D7 auto service center booking, and reservation system requires a clear assignment of responsibilities to ensure the project is delivered on time, within budget, and to the desired quality standards. The project manager will be responsible for the project, including establishing a management plan, setting project timelines, and ensuring all stakeholders are informed and engaged throughout the project. While the rest of the project team will be responsible for ensuring the system meets the needs of the business and its customers, providing user training and support, and monitoring the system's performance to ensure it is functioning properly. <br>
 
-===4.	Communication and Reporting ===
+4.	Communication and Reporting<br>
 For the successful completion of the project and the risk management of it, proper communication and reporting and needed. As the status updates of the project’s states will provide insight to the whole project team and makes them able to produce risk mitigation and risk management strategies.<br>
 
 A communication plan must be developed to ensure that that the parties involved in the project are informed about the project of any development that is happening in the procurement risk management or risk mitigation section of the project. <br>
 
-===5.	Continuous Improvement ===
+5.	Continuous Improvement<br>
 The procurement risk management and risk mitigation process should be an ongoing process of the project always continuously ongoing and improving. New lessons from the previous procurement risk and risk management are learnt, documented, and shared with the project team to make sure that future procurement improves and benefits the project.<br>
 
 ==14.4 Cost Determination==
