@@ -734,22 +734,6 @@ The project manager will ensure that all project requirements are met and that t
 </ol>
 <h2>Roles and Responsibilities </h2>
 
-<ol>
-<li>
-<b>Project manager</b>: The project manages oversees outlining and documenting the project’s scope, as well as regulating and approving any alterations to the scope.
-</li>
-<li>
-<b>Project owner</b>: The product owner is responsible for representing the needs and priorities of the stakeholders, and for ensuring that the project delivers value to the business.
-</li>
-<li>
-<b>Project team</b>: The project team is responsible for verifying the scope of the project, and for raising change requests if necessary.
-</li>
-<li>
-<b>QA Checker</b>: Ensures the accuracy and quality of the software by meticulously analyzing every aspect of its functionality.
-</li>
-</ol>
-
-
 | Name | Role | Responsibility |
 | ------------- | ------------- | ------------- |
 | Pallas Dale Fontiveros  | Project Team Leader & QA Checker | Leads the team and manages the overall progress |
