@@ -61,7 +61,6 @@
   <td><p style="text-align:center;">ltangeles@student.apc.edu.ph</p></td>
  </tr>
 </table>
-<br/>
 
 =Company Profile=
 ==Brief Background==
@@ -71,13 +70,13 @@
 <p>Our mission is to deliver superior craftsmanship and innovative solutions in the fields of woodworks, ironworks, glass fabrication, and aluminum works. We aim to exceed customer expectations by providing customized, durable, and aesthetically pleasing products that enhance the functionality and visual appeal of any space. Through our commitment to excellence, we strive to become the preferred choice for clients seeking premium manufacturing services. </p>
 
 ==Product Offerings==
-<p><b>Woodworks</b>: We offer a comprehensive range of wood-based products, including custom furniture, cabinetry, kitchenware, and architectural woodwork. Our skilled craftsmen work with various wood species, traditional techniques to create products that are built to last. Traditional woodworking techniques offer unique qualities that appeal to those who value craftsmanship, sustainability, and the preservation of cultural heritage. </p>
+# <b>Woodworks </b>- We offer a comprehensive range of wood-based products, including custom furniture, cabinetry, kitchenware, and architectural woodwork. Our skilled craftsmen work with various wood species, traditional techniques to create products that are built to last. Traditional woodworking techniques offer unique qualities that appeal to those who value craftsmanship, sustainability, and the preservation of cultural heritage.
 
-<p><b>Ironworks</b>: Our ironwork division specializes in the design and fabrication of high-quality wrought iron gates, fences, railings, window frames, and staircases. We blend traditional blacksmithing methods with contemporary design principles to produce durable, visually appealing ironwork that adds elegance and security to residential and commercial properties. </p>
+# <b>Ironworks </b>- Our ironwork division specializes in the design and fabrication of high-quality wrought iron gates, fences, railings, window frames, and staircases. We blend traditional blacksmithing methods with contemporary design principles to produce durable, visually appealing ironwork that adds elegance and security to residential and commercial properties.
 
-<p><b>Glass Fabrication</b>: With our state-of-the-art glass fabrication facilities, we offer a wide range of customized glass solutions. These include glass doors, windows, partitions, shower enclosures, and mirrors. Our skilled artisans work with precision, ensuring flawless cutting, edging, tempering, and laminating to deliver exceptional glass products that enhance both aesthetics and functionality. </p>
+# <b>Glass Fabrication </b>- With our state-of-the-art glass fabrication facilities, we offer a wide range of customized glass solutions. These include glass doors, windows, partitions, shower enclosures, and mirrors. Our skilled artisans work with precision, ensuring flawless cutting, edging, tempering, and laminating to deliver exceptional glass products that enhance both aesthetics and functionality.
 
-<p><b>Aluminum Works</b>: Our aluminum works division specializes in the design, fabrication, and installation of aluminum-based solutions, including windows, doors, curtain walls, and façade systems. We offer an extensive selection of finishes and profiles, ensuring durability, energy efficiency, and architectural appeal for both residential and commercial projects. </p>
+# <b>Aluminum Works </b>- Our aluminum works division specializes in the design, fabrication, and installation of aluminum-based solutions, including windows, doors, curtain walls, and façade systems. We offer an extensive selection of finishes and profiles, ensuring durability, energy efficiency, and architectural appeal for both residential and commercial projects.
 
 ==Clientele==
 <p>We serve a diverse range of clients, including homeowners, architects, interior designers, contractors, developers, and businesses across various industries. Our commitment to understanding and meeting our clients' unique requirements has earned us a loyal customer base and numerous successful collaborations. </p>
@@ -150,18 +149,19 @@
 ===Organizational Impact===
 <p>There are no new roles required for this project. But existing roles will have to tend for the project to work as intended. The following are the existing roles and their responsibilities: </p>
 
-<ul> 1.	Store Manager </ul>
-<ul><ul> a. Manage the product’s availability. </ul></ul>
-<ul><ul><ul> i. Managing the System’s Database. </ul></ul></ul>
-<ul><ul><ul> ii. Tend to the customers’ orders. </ul></ul></ul>
-<ul><ul> b. Monitor business performance through Dashboard. </ul></ul>
-<ul> 2.	Store Owner </ul>
+# Store Manager
+#* Manage the product’s availability.
+#*. Managing the System’s Database.
+#* Tend to the customers’ orders.
+#* Monitor business performance through Dashboard.
+
+# Store Owner </ul>
 <ul><ul> a. Edit the website. </ul></ul>
 <ul><ul><ul> i. Managing the System’s Database. </ul></ul></ul>
 <ul><ul> b. Monitor business performance through Dashboard Reports. </ul></ul>
 
 ===Technology Migration===
-<p>Villamin Wood and Iron Works operates in a Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally in PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a Form for the client to fill if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided the 16 of their products lists that has been then migrated to the system manually in preparation for the initial deployment.</p>
+<p>Villamin Wood and Iron Works operates in a Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally in PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a Form for the client to fill if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided the 16 of their products lists that has been then migrated to the system manually in preparation for the initial deployment. </p>
 
 ==Project Overview==
 <p> The project created for Villamin Wood and Iron works upon their request is an ordering system to help improve their current business process which is why an ordering system was developed by the team. Part of the goals and objectives of this project is to boost the number of customers and improve the time it takes for transactions to be completed.  </p>
