@@ -2429,10 +2429,10 @@ the project manager alongside the team and stakeholders. The project manager wil
 ==Communication Management Constraints==
 <p>The Communications Management Constraints for the project are crucial to the overall project management plan because these constraints help in defining the limitations which may impact the communication processes and strategies created for the project. The team will look to develop solutions with the help of identifying the constraints to mitigate potential challenges. This section will provide an overview of the constraints that may impact the project’s communication strategies and processes. These constraints are the following: </p>
 
-<ul> 1.	Availability of team members: Some team members may have other work or responsibilities now making them unavailable to communicate. </ul>
-<ul> 2. Limited budget for resources and tools used for communication: The budget may not be sufficient to fund communication tools which can be used to improve the communication management plan. </ul>
-<ul> 3.	Time conflicts: The deadlines provided may provide challenges in completing requirements and could result in conflicts with conducting regular meetings. </ul>
-<ul> 4.	Technical difficulties: This may include internet problems and other technicalities that may be a constraint to communication processes. </ul>
+# Availability of team members: Some team members may have other work or responsibilities now making them unavailable to communicate.
+# Limited budget for resources and tools used for communication: The budget may not be sufficient to fund communication tools which can be used to improve the communication management plan.
+# Time conflicts: The deadlines provided may provide challenges in completing requirements and could result in conflicts with conducting regular meetings.
+# Technical difficulties: This may include internet problems and other technicalities that may be a constraint to communication processes.
 
 ==Roles==
 <table border="1" width="70%" align="center">
@@ -2525,18 +2525,22 @@ the project manager alongside the team and stakeholders. The project manager wil
 ==Transition Approach==
 ==Overall Approach==
 <p> The Villamin Wood and Iron Works System addressed the Transition Plan, in which there will be a phase or transition that should be followed for continuity and to reduce any operational challenges or interruptions that they encounter. This precise and systematic approach enables the transfer of knowledge, resources, and responsibility to the business company, thereby reducing all possible technical interruptions. The transition approach will include the following steps:</p>
-<p><b> 1. Communication Plan - </b> – the stakeholders will be able to familiarize themselves with the transition plan as a result, resulting in a better comprehension of project timelines and transition expectations.</p>
-<p><b> 2. Staffing - </b> – As the transition takes place, the project team will minimize their staff to the necessary level needed for supporting knowledge transfer and transition activities.</p>
-<p><b> 3. Transition Planning - </b> – A transition plan can be completed by interacting with the company, the team followed the timeline in which all requirements and process is required to be completed for the time of transition.</p>
-<p><b> 4. Knowledge Transfer - </b> – A variety of approaches, including documentation and hands-on demonstrations, will be used to facilitate knowledge transfer. These initiatives seek to provide Villamin Wood and Iron Works with the skills and knowledge they need to provide effective system support.
-</p>
+
+# <b>Communication Plan</b> – the stakeholders will be able to familiarize themselves with the transition plan as a result, resulting in a better comprehension of project timelines and transition expectations.
+# <b>Staffing</b> – As the transition takes place, the project team will minimize their staff to the necessary level needed for supporting knowledge transfer and transition activities.
+# <b>Transition Planning</b> – A transition plan can be completed by interacting with the company, the team followed the timeline in which all requirements and process is required to be completed for the time of transition.
+# <b>Knowledge Transfer</b> – A variety of approaches, including documentation and hands-on demonstrations, will be used to facilitate knowledge transfer. These initiatives seek to provide Villamin Wood and Iron Works with the skills and knowledge they need to provide effective system support.
+
+
 ==Assumptions==
 <p>The following assumptions will be made for the transition approach:</p>
-<p> 1. If any difficulties arise during the deployment process, the team will maintain communication with the company. </p>
-<p> 2. To make it easier for the client to learn, the project team will provide them with all the necessary documentation, training, and instruction manuals. </p>
-<p> 3. Once the transition is finalized, the team will engage in a discussion with the client and continue to assist the owner, aiming to gain a deeper comprehension of any concerns related to the system.
-<p><b>6.11.3 Transition Team Organization</b></p>
-<p><b>Roles and Responsibilities</b></p>
+
+# If any difficulties arise during the deployment process, the team will maintain communication with the company.
+# To make it easier for the client to learn, the project team will provide them with all the necessary documentation, training, and instruction manuals.
+# 3. Once the transition is finalized, the team will engage in a discussion with the client and continue to assist the owner, aiming to gain a deeper comprehension of any concerns related to the system.
+
+; Transition Team Organization
+;; Roles and Responsibilities
 <p><b> 1. Project Manager - </b> The responsibility of the project manager leads this project to its completion. The project manager guarantees to meet all the requirements, setting a plan for the deadline of deliverables, and speaking with the client is effective to ensure progress. </p>
 <p><b> 2. Project Stakeholder - </b> responsible for allocating the required resources to guarantee the success of the project. Assuming responsibility for the relevant tasks and objectives. Staying updated on the project's advancements and sharing relevant information with the necessary individuals. Taking proactive steps to identify and fulfill training and development needs. </p>
 <p><b> 3. Project Sponsor - </b> the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule. </p>
