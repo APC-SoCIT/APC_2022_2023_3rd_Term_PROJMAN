@@ -1202,6 +1202,79 @@ the project manager alongside the team and stakeholders. The project manager wil
 ==Risk Qualification and Prioritization==
 ==Risk Monitoring==
 ==Risk Mitigation and Avoidance==
+==Risk Register==
+<table border="1" with ="100%" allign="center">
+<thead>
+<tr>
+<th>Risk ID</th>
+<th>Risk Rank</th>
+<th>Risk</th>
+<th>Description</th>
+<th>Category</th>
+<th>Destination/Owner</th>
+<th>Probability</th>
+<th>Impact</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RID 001</td>
+<td>1</td>
+<td>Technical Risks</td>
+<td>There is a risk that delays in development which leads to the risk of not finishing the project on time and other errors caused by the conflict.</td>
+<td>Technology</td>
+<td>Project Manager</td>
+<td>High</td>
+<td>High</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td>RID 002</td>
+<td>2</td>
+<td>Resource Risks</td>
+<td>There is a risk of having insufficient resources which may be needed to accomplish the project on time. Thus, resulting to delays and a budget overrun.</td>
+<td>Organizational</td>
+<td>Project Manager</td>
+<td>High</td>
+<td>High</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td>RID 003</td>
+<td>3</td>
+<td>Security Risks</td>
+<td>There is a risk of being hacked and compromising the data of the client.</td>
+<td>Security</td>
+<td>System Developer</td>
+<td>Low</td>
+<td>High</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td>RID 004</td>
+<td>4</td>
+<td>Changes in Technology</td>
+<td>There is a risk that a change in the industry of technology occurs which may require additional work or resources to adapt.</td>
+<td>Technology</td>
+<td>Project Manager</td>
+<td>Medium</td>
+<td>Medium</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td>RID 005</td>
+<td>5</td>
+<td>Unforeseen Circumstances</td>
+<td>There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.</td>
+<td>Natural</td>
+<td>Project Manager</td>
+<td>Low</td>
+<td>High</td>
+<td>In Progress</td>
+</tr>
+</tbody>
+</table>
 
 =Communication Management Plan=
 ==Introduction==
