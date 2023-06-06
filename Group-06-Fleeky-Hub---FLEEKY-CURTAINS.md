@@ -995,7 +995,9 @@ The website will comply with relevant laws and regulations, including data priva
 
 | Scope Baseline Component  | Description |
 | ------------- | ------------- |
-| Project Scope Statement | The goal of the project is to build Fleeky Curtains a new website that will improve its online visibility, boost client involvement, and eventually boost sales. >Deliverables include a fully working website with an intuitive user interface, mobile responsiveness, and simple navigation. A product catalog, shopping cart, and checkout features will all be available on the website. |
+| Project Scope Statement | The goal of the project is to build Fleeky Curtains a new website that will improve its online visibility, boost client involvement, and eventually boost sales.
+Deliverables include a fully working website with an intuitive user interface, mobile responsiveness, and simple navigation. A product catalog, shopping cart, and checkout features will all be available on the website.
+Requirements: The Django framework will be used to build the website, and a secure server will host it. The website will adhere to web accessibility guidelines and be search engine optimized. |
 | Content Cell  | Content Cell  |
 
 
