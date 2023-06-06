@@ -2081,14 +2081,39 @@ The following assumptions will be made for the transition approach: <br>
 <b>Project Team Members:</b> Responsible for supplying system support through knowledge and ability. They will collaborate closely with the Project Manager, developers, and team members to ensure that knowledge and ability are transferred smoothly.
 <br>
 
+=16. System Requirements Specifications=
+==16.1 System Requirements for Development==
+The project shall consist of the necessary requirement that will enable development of its features, UI, its database, as well for the web-app to function accordingly. The following is the requirement to run through development: <br>
+<b>Software: </b><br>
+*1. Coding environment which is a software where the project maybe built accordingly.  
+*2. Open Source administrator tool to manage the database connected to the project 
+*3. Database to store data being collected in the project 
+<br>
+The development of the project will require varying versions of the aforementioned software depending on the time it is to be altered, and/or edited.  <br>
 
+==16.2 System Requirements for Deployment==
+The deployment shall require necessary system/software in order to be deployed and function as it is intended to do so: 
+*A domain provider to configure the domain name of the project  
+*A hosting service to host the web-app  
 
+==16.3 Tools Specification==
+===16.4 Development Tools Specification===
+To specify the requirements needed for development, the team has acquired the following: 
+*Visual Studio Code integrated with CSS, HTML, JavaScript and PHP to develop the backend and frontend services and features for the project. 
+*PHPMyAdmin in order to effectively and efficiently manage the web-app. 
+*MySQL which will serve as the database of the project that will store and collect the data received from the customers and the users of the web-app. 
 
-=16LAST. WORK BREAKDOWN STRUCTURE=
+===16.5 Deployment Tools Specification===
+To specify the requirements needed for deployment, the team has acquired the following: <br>
+*AWS to get a domain name 
+*AWS LightSail in order to host the web-app  
+<br>
+ 
+=17. WORK BREAKDOWN STRUCTURE=
 
-==16.1 Introduction==
+==17.1 Introduction==
 The Work Breakdown Structure presented here represents all the work required to complete this project. It will be the initial version of the web-app and it shall go under version 1. This version will undergo the PBL (Project Based Learning) phases from planning to deployment. It is hereby outlined with the help of this project management tool that will aim to provide better division of work during each respective phase. The project has divided the work accordingly per sprint to have them assigned and accomplished by the Elite Four team. 
-==16.2 Outline View==
+==17.2 Outline View==
 1.	D7 Auto Service Center Web-app <br> 
 1.1	Planning <br> 
 1.1.1	Planning Phase Preparations <br> 
@@ -2131,7 +2156,7 @@ The Work Breakdown Structure presented here represents all the work required to 
 1.5.2	Documentations <br>
 1.5.3	Project Demonstration <br>
 
-==16.3 Hierarchical Structure==
+==17.3 Hierarchical Structure==
 <table border="1" width="100%">
   <tr>
     <th>Level</th>
@@ -2305,7 +2330,7 @@ The Work Breakdown Structure presented here represents all the work required to 
   </tr>
 </table>
 
-==16.4 Tabular View ==
+==17.4 Tabular View ==
 <table>
   <tr>
     <th>Level 1</th>
@@ -2366,8 +2391,8 @@ The Work Breakdown Structure presented here represents all the work required to 
  </tr>
 </table>
 
-==16.5 Tree Structure View==
-==16.6 WBS Dictionary==
+==17.5 Tree Structure View==
+==17.6 WBS Dictionary==
 
 <table> 
   <tr>
