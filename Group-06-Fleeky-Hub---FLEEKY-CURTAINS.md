@@ -736,11 +736,11 @@ The project manager will ensure that all project requirements are met and that t
 
 | Name | Role | Responsibility |
 | ------------- | ------------- | ------------- |
-| Palas Dale Fontiveros  | Project Team Leader & QA Checker | Content Cell |
-| Neil Albert Garcia  | Project Manager | Reports to the Stakeholder |
-| Bryan Gel Fabellore | Website Developer | Handles Front End and Back EndDevelopment |
-| Joshua Timothy Roxas | Website Developer | Handles UI/UX and Front End Development |
-| Gabriel Luis Antonio Perez | Website Developer | Handles UI/UX and Front End Development |
+| Pallas Dale Fontiveros  | Project Team Leader & QA Checker | Leads the team and manages the overall progress |
+| Neil Albert Garcia  | Project Manager | Reports to the stakeholder and decides on what's best for the client and to the team |
+| Bryan Gel Fabellore | Website Developer & Technical Lead | Handles the front and back end development |
+| Joshua Timothy Roxas | Website Developer | Handles UI/UX and front end development |
+| Gabriel Luis Antonio Perez | Website Developer & Documentation | Handles front end development and consolidates the document |
 
 <h2> Scope Definition </h2>
 
