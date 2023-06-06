@@ -91,82 +91,17 @@
 
 <h2>Business Case Analysis Team</h2>
 
-<table border="1" width="70%" align="center">
-	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">Role</p></td>
-		<td bgcolor="lightblue"><p style="text-align:center;">Responsibility</p></td>
-	</tr>
 
-
-    <table>
-        <tr>
-            <th>Name</th>
-            <th>Role</th>
-            <th>Responsibility</th>
-        </tr>
-        <tr>
-            <td>Pallas Dale Fontiveos</td>
-            <td>Project Team Leader</td>
-            <td>Manages the overall progression of the Business Case and project team</td>
-        </tr>
-        <tr>
-            <td>Neil Albert Garcia</td>
-            <td>Project Manager</td>
-            <td>Provides support in overseeing the project’s completion</td>
-        </tr>
-        <tr>
-            <td>Bryan Gel Fabellore</td>
-            <td>Project Team Member</td>
-            <td>Provides support in the documentation of the project</td>
-        </tr>
-        <tr>
-            <td>Joshua Timothy Roxas</td>
-            <td>Project Team Member</td>
-            <td>Provides technical support in the project</td>
-        </tr>
-        <tr>
-            <td>Gabriel Luis Antonio Perez</td>
-            <td>Project Team Member</td>
-            <td>Provides support in handling documentation of the project</td>
-    </table>
+| Name  | Role | Responsibility |
+| ------------- | ------------- | ------------- |
+| Pallas Dale Fontiveros  | Project Team Leader  | Manages the overall progression of the Business Case and project team |
+| Neil Albert Garcia  | Project Manager  | Provides support in overseeing the project’s completion |
+| Bryan Gel Fabellore  | Project Team Member  | Provides support in overseeing the project’s completion |
+| Joshua Timothy Roxas  | Project Team Member  | Provides support in overseeing the project’s completion |
+| Gabriel Luis Antonio Perez  | Project Team Member  | Provides support in handling documentations of the project |
 
 
 
-
-
-
-	<tr>
-		<td><p style="text-align:center;">Project Team Leader <em>(Pallas Fontiveros)</em></p></td>
-		<td width="517">
-<p>The individual in charge of overseeing the entire process of business case analysis is responsible for ensuring that the project is completed within the designated time frame and budget. In addition, they may supervise the coordination of team meetings, delegation of tasks, and communication with stakeholders.</p>
-</td>
-
-	</tr>
-        <tr>
-		<td><p style="text-align:center;">Project Manager <em>(Neil Albert Garcia)</em></p></td>
-		<td width="517">
-<p>Provides support in overseeing the project’s completion. Also serves as the primary contact with the client for any revision or requests given by Fleeky Curtains. Assists in the entire process of the business case.</p>
-</td>
-	</tr>
-        <tr>
-		<td><p style="text-align:center;">Project Documentation <em>(Gabriel Perez)</em></p></td>
-		<td width="517">
-<p>Provides support in handling documentations of the project. Ensures all documentations needed to be delivered as the project progresses are given and properly made according to the overall group and project state and context.</p>
-</td>
-	</tr>
-	<tr>
-	<td><p style="text-align:center;">Project Head Developer <em>(Bryan Gel Fabellore)</em></p></td>
-        <td width="516">
-<p>Leads the main development (coding and programming) of the project. Provides the main technical progress for the project. Basically responsible for coordinating the activities for the production of the project and shoulders technical responsibility.</p>
-</td>
-	</tr>
-        <tr>
-		<td><p style="text-align:center;">Project Documentation <em>(Joshua Timothy Roxas)</em></p></td>
-		<td width="517">
-<p>Provides support in handling documentations of the project. Ensures all documentations needed to be delivered as the project progresses are given and properly made according to the overall group and project state and context.</p>
-</td>
-	</tr>
-</table>
 
 
 <h2>Problem Statement</h2>
