@@ -145,8 +145,8 @@
 ==Problem Definition==
 
 ===Problem Statement===
-<p>The project was created to address the problems in their current business process. Their business process consists of manual methods in terms of taking orders, monitoring inventory, and recording of sales. This may be a widespread problem especially now after the pandemic as most businesses adapted to new methods incorporating the use of technology for their benefit. For this reason, the Villamin Wood and Iron works company is looking to address those problems to innovate and improve their business. </p>
-
+<p>The project’s business client, Villamin Wood, and Iron Works, owned by Mr. Manuel Villamin Jr., is a manufacturing enterprise where products are made to order. The company has been operational since 1983, in its span, the company’s estimated profit is 600,000 per year. The problem started when the lockdown happened due to the pandemic, which the company did not anticipate that their profit would decrease by 30%. Since then, they started to use and create their own Facebook page to help increase their clientele. </p>
+<p> However, Villamin Wood and Iron Works’ Facebook page became outdated, and not knowing how to create an advertisement and on how to improve their page to help them market the company towards customers, other competitors covered their page.</p>
 ===Organizational Impact===
 <p>There are no new roles required for this project. But existing roles will have to tend for the project to work as intended. The following are the existing roles and their responsibilities: </p>
 
@@ -205,7 +205,7 @@
 # The software that will be used is necessary to be compatible with our IT platforms.
 # To avoid conflict, any additional requirements should be discussed prior to the deadline.
 
-===Project Constraints===
+==Major Project Milestones==
 <p>According to the milestone schedule below, the project plan will be submitted and approved. After the project plan is approved, resources will be assigned to it. Any schedule adjustments that may affect milestones must be approved by the Project Sponsor. The project plan will include a thorough schedule. </p>
 
 <table border="1" width="70%" align="center">
@@ -303,7 +303,30 @@
 : By aligning the ordering system with the strategic goals of the company of becoming the preferred choice for premium manufacturing services, the ordering system will enhance the overall customer experience by allowing customers to easily navigate through the process. Incorporate features such as real-time order tracking and customization. Lastly, by improving operational efficiency to optimize the workflow and automate processes within the ordering system to minimize errors, reduce lead times, and improve overall operational efficiency.
 
 ==Cost Benefit Analysis==
-<p>lorem ipsum</p>
+<p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those new customers purchased a product, we could put into. This table is not final, and this is introduced for the client’s approval: </p>
+<table border="1" width="100%" allign="center">
+<thead>
+<tr>
+<th>Benefit</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Functional System
+<td> $485.87
+</tr>
+<tr>
+<td> Website Platform 
+</tr>
+<tr>
+<td> Storage Accounts
+</tr>
+<tr>
+<td> SQL Database
+</tr>
+</tbody>
+</table>
 
 ==Alternatives Analysis==
 <p>There are other alternatives that the team has put into consideration for the Business's concern. Listed are those alternative solutions alongside with why the team did not lean towards it: </p>
