@@ -250,6 +250,19 @@ The website will be able to recruit and keep a strong team of web developers, de
 </ul>
 
 <h2>Major Project Milestones</h2>
+
+| Project Milestone   | Target Date |
+| ------------- | ------------- |
+| Project Start  | 04/06/2022 |
+| Complete Solution Design  | 06/21/2022 |
+| Complete Diagram Designing  | 11/11/2022 |
+| Solution Simulation  | 01/24/2023 |
+| Complete Solution Simulation and Testing  | 0/10/2023 |
+| Deploy Solution  | 02/24/2023 |
+| Project Complete  | 02/27/2023 |
+
+
+
 <h2>Strategic Alignment</h2>
 
 <p>Fleeky Curtains also consider show the developers will craft the project. The business owner acknowledges their role as developers and adjusts accordingly based on the skills  and capabilities. With their expectations set by the business, the developers are aware on what they are looking for and align the output based on the suggestion given by Fleeky Curtains as they know more better on how the market plays and the psychology of consumerism and its behavior. If any suggestions are raised by the developers, the business owner will respond and provide any further information that will suffice in aligning to the objective of the project</p>
