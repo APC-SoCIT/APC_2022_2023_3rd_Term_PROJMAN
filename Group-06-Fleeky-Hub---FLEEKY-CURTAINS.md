@@ -338,7 +338,7 @@ The website will be able to recruit and keep a strong team of web developers, de
 
 
 
-=Project Charter=
+==Project Charter
 <h2>Executive Summary</h2>
 <p>The pandemic has caused businesses to adapt quickly, using social media platforms such as Facebook and e-commerce platforms to sell their products. Fleeky Curtains is an independent family business that provides curtain products. They operate the business at the local household and book a courier to pick up the item and deliver the item to the customer. They aim to grow their market share in the home product industry by observing and adapting to the behavior of the consumers. The employees in the business consist of the members of the family where they take charge of the sewing, assemble the packaging, the messages at Facebook, Shopee inquiries, product inspection, and one that list and encode transactions and customer information. Despite having a limited number of employees, the business wishes to accomplish tasks at an efficient rate due to the lack of workforce/person. The most important details in this text are the production time, packaging time, encoding time, number of products and raw materials, inquiries, available products, expanding the potential clients, and the staff. Fleeky Curtains mentioned that when there is no assistant, the staff finishes the tasks behind time, and that handling and assembling the packaging of one customer order takes 25 minutes of their time. Additionally, the staff must cope with their sleep and roles at work or school, and they must adapt to the market. Fleeky Curtains is an e-commerce company that uses a variety of materials to produce their products. Raw materials such as fabrics, threads, grommet, and curtain rings are used to build a finish product, and packaging materials such as bubble wrap are used to cover the products. Spending activities are traced and recorded within an Excel sheet, and customer data is stored in an Excel sheet. Customer data helps them to identify customer behavior and consumerism, and user experience is most observed when presented with convenience. They have gained knowledgeable feedback and experience revolving to their current system and workflows. Spotlight interviewed one of the admins that handle Fleeky Curtains, Mr. Neil Albert Garcia, to discuss their pain points when it comes to handling their business. These include fees and expenses to the e-commerce platform, poor delivery system, manual encoding of customer details, raw materials and on-hand stocks not documented and audited, finding ways to expand their clients and markets, and manual reports and tracing the performance of the business. These inputs will help align the project with the client's needs and interests. </p>
 
@@ -662,17 +662,13 @@ Government: Fleeky Hub must adhere to local laws and regulations, and its operat
 
 
 
-
-
-
-
-=Scope Management Plan=
+<h1>Scope Management Plan</h1>
 
 <h2>Introduction</h2>
 
 <p>Fleeky Hub's scope management plan provides the best practices for using various functionalities of e-commerce websites, as well as the necessary tools to achieve clients' objectives. With the support of the team's mission and vision, the scope management plan is an asset for clients' businesses. Fleeky Hub's team will provide a comprehensive scope plan that can be achieved repeatedly by both the team and the client. </p>
 
-<p><em>Scope Definition: </em>The scope of the Fleeky Hub will be defined through the following activities:</p>
+<p><em><b>Scope Definition: </em></b>The scope of the Fleeky Hub will be defined through the following activities:</p>
 
 <ol>
 <li>
@@ -689,7 +685,7 @@ Scope base: The project scope baseline provides the team's scope statement and u
 </li>
 </ol>
 
-<p><em>Scope Documentation: </em>The scope of the Fleeky Hub e-commerce website will be documented in the following ways: </p>
+<p><em><b>Scope Documentation: </em></b>The scope of the Fleeky Hub e-commerce website will be documented in the following ways: </p>
 
 <ol>
 <li>
@@ -703,7 +699,7 @@ Change log: A change log will track the development and project plan, documentin
 </li>
 </ol>
 
-<p><em>Scope Control: </em>The scope of the Fleeky Hub e-commerce website will be controlled through the following activities: </p>
+<p><em><b>Scope Control: </em>The scope of the Fleeky Hub e-commerce website will be controlled through the following activities: </p>
 
 <ol>
 <li>
@@ -738,48 +734,14 @@ The project manager will ensure that all project requirements are met and that t
 </ol>
 <h2>Roles and Responsibilities </h2>
 
-<table border="1" width="70%" align="center">
-		<tr>
-			<td bgcolor="lightblue">
-				<p><strong> Role </strong></p>
-			</td>
-			<td bgcolor="lightblue">
-				<p><strong> Responsibility </strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Project Manager </em></p>
-			</td>
-			<td>
-				<p><em> The project manager oversees outlining and documenting the project’s scope, as well as regulating and approving any alterations to the scope. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Product owner </em></p>
-			</td>
-			<td>
-				<p><em> The product owner is responsible for representing the needs and priorities of the stakeholders, and for ensuring that the project delivers value to the business. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Project Team Members</em></p>
-			</td>
-			<td>
-				<p><em> The project team, consisting of developers, designers, testers, and other relevant personnel, is responsible for verifying the scope of the project, and for raising change requests if necessary. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Stakeholders </em></p>
-			</td>
-			<td>
-				<p><em> Stakeholders, including customers, end-users, and other interested parties, are responsible for providing input on the requirements and scope of the project, and for approving scope changes as needed.  </em></p>
-			</td>
-		</tr>
-</table>
+| Name | Role | Responsibility |
+| ------------- | ------------- | ------------- |
+| Palas Dale Fontiveros  | Project Team Leader & QA Checker | Content Cell |
+| Neil Albert Garcia  | Project Manager | Reports to the Stakeholder |
+| Bryan Gel Fabellore | Website Developer | Handles Front End and Back EndDevelopment |
+| Joshua Timothy Roxas | Website Developer | Handles UI/UX and Front End Development |
+| Gabriel Luis Antonio Perez | Website Developer | Handles UI/UX and Front End Development |
+
 <h2> Scope Definition </h2>
 
 <p>The scope of this project includes the development of an e-commerce website called Fleeky Hub for Fleeky Curtains. The website will feature an order system for the client's customers, which includes creating an account, paying online or via cash on delivery. The website will have two main features: one for the client's customers and the other for the admin/owner side. The admin/owner side of the website will include analytics and inventory management of the products and serve as a queue list to identify all the pending products that have been ordered by customers through the Fleeky Hub website. </p>
