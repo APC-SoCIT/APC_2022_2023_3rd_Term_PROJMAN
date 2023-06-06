@@ -768,9 +768,9 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 <p> Every aspect of the project will involve the integration of quality management, which will be the responsibility of the entire team. Feedback and interaction from the client will always be the priority of the team to improve the project. </p>
 <p> These are the following steps that include: </p>
-# Define Quality Standards:</b> The project team will prioritize delivering value to the customer by establishing quality standards that are in line with the principles of Agile Methodology.
-# Quality Planning</b> To determine the project's requirements and prioritize the best features, the team will maintain regular collaboration and schedule a meeting with stakeholders. This procedure includes creating the Product Backlog and establishing quality objectives to guarantee that the project transition produces value and abides by quality standards.
-# Quality Control </b>: Quality control incorporates the most common way of looking into and testing to distinguish any potential issues that emerge at various stages. This system is done throughout the run to ensure that the established requirements and project goals are fulfilled. 
+# <b>Define Quality Standards </b>- The project team will prioritize delivering value to the customer by establishing quality standards that are in line with the principles of Agile Methodology.
+# <b>Quality Planning </b>- To determine the project's requirements and prioritize the best features, the team will maintain regular collaboration and schedule a meeting with stakeholders. This procedure includes creating the Product Backlog and establishing quality objectives to guarantee that the project transition produces value and abides by quality standards.
+# <b>Quality Control </b>- Quality control incorporates the most common way of looking into and testing to distinguish any potential issues that emerge at various stages. This system is done throughout the run to ensure that the established requirements and project goals are fulfilled. 
 # <b>Quality Assurance </b>: The team will employ efficient methods and procedures to ensure that the project adheres to established standards and guidelines. To actively prevent issues and defects from occurring, they will implement quality assurance measures. 
 # <b>Continuous Improvement </b>: The team consistently monitors its performance throughout the project's development to identify areas for improvement and make necessary adjustments. In this process, feedback plays a crucial role in involving stakeholders and fostering team collaboration. The team can identify areas that need improvement and improve the project's overall quality by actively seeking feedback. 
 # <b> Communication </b>: Effective communication between the development team and stakeholders holds significant importance in this process. It serves multiple purposes, including updating stakeholders on the current quality status of the product, demonstrating alignment between the system's processes and the product's goals, and providing stakeholders with an opportunity to provide valuable feedback. 
@@ -780,11 +780,11 @@ the project manager alongside the team and stakeholders. The project manager wil
 ===Quality Requirements/Standards===
 <p> The team creates and archives quality rules and guidelines that focus on the quality of the Villamin Wood and Iron Works Framework. Testing and evaluation, in addition to input from the client and stakeholders' feedback, will be incorporated to achieve this goal and guarantee compliance with the following criteria. The Villamin Wood and Iron Works System will meet the following quality standards and requirements:
 
-===Product Quality Requirements===
+====Product Quality Requirements====
 # The system will have user-friendly instructions and an interface, making it easy to operate and meet all the requirements for the project. </p>
 # The project will enhance business operations and align with the existing technology infrastructure.
 
-===Requirements for Ensuring Quality of Processes===
+====Requirements for Ensuring Quality of Processes====
 # The product owner and development team will carefully review and support any endeavor expectations before communicating to the customer.
 # The improvement gathering will lead to typical run reviews to promptly recognize and decide on any quality concerns.
 # To guarantee consistent system development, testing, and deployment, the development team will adhere to a specified configuration management procedure.
@@ -793,29 +793,30 @@ the project manager alongside the team and stakeholders. The project manager wil
 ===Continual Improvement===
 <p> Continuous client feedback collection and analysis, system performance monitoring, and internal audits to find areas for improvement will all be part of the development team's continuous improvement process. This kind of setup will be incorporated into the venture to guarantee that the Villamin Wood and Iron Works System ensures quality standards are met as well as proactively adjusts to developing client needs. </p>
 
-==Quality Assurance </b></p>
+===Quality Assurance===
 <p> The Agile approach will be used to carry out the quality assurance approach for the Villamin Wood and Iron Works System project. This strategy aims to achieve appropriate implementation through consistent enhancement and teamwork. The following actions will be taken: </p>
 # Defining Quality Standards-</b> To make sure that the deliverables meet the project's quality standards, the project team and stakeholders collaborated effectively. </p>
 
 # <b>Quality Auditing</b>- The team, with the collaboration of the stakeholder, will monitor and evaluate the quality of the project deliverables, ensuring adherence to established standards and specifications. The team will report and document findings to maintain records and communication with the stakeholders, Scheduling that will outline the initial plan and meet the deadlines, and continuous improvement to emphasize importance and better output of the project.
 # <b>Quality Metrics </b>- The project team will monitor and report on how the project performed regarding the quality criteria, utilizing quality metrics.
-# <b>Continuous Improvement </b>- With collaboration with stakeholders, the team will be able to identify areas for improvement and make important changes. The project team will use the feedback from quality audits and quality metrics to continually enhance the product and the quality processes. 
+# <b>Continuous Improvement</b>- With collaboration with stakeholders, the team will be able to identify areas for improvement and make important changes. The project team will use the feedback from quality audits and quality metrics to continually enhance the product and the quality processes. 
 # <b>Reviewing Customer Feedback </b>- Customer feedback will be evaluated on a regular basis by the project team to find any issues or opportunities for improvement. To make sure that the product meets and exceeds customer expectations, this feedback will be used to guide ongoing improvement efforts. </p>
 
 ===Quality Control===
 <p> The process of quality control within the Villamin Wood and Iron Works System project will be established into the Agile approach with the goal of ensuring that quality meets expectations through teamwork and continuous development. These are the following steps that involve in the project: </p>
 
-<p><b> • Continuous Testing and Feedback: </b> To identify any issues and assure that the product corresponds to the demands of the client, the project team is going to perform a continual evaluation. </p>
-<p><b> • User Acceptance Testing: </b> To ensure that it aligns with client requirements and demands, the system's functionality will be monitored by the project manager or developer. This phase will be finished at the end of each sprint, and user feedback will be used to make any necessary improvements.</p>
-<p><b> • Capability Testing: </b> The Villamin Wood and Iron Works System will undergo testing across several phases, including mobile devices and any browser, to confirm consistency and handle any potential problems within the system. </p>
-<p><b> • Continuous Monitoring: </b> The project team will carefully monitor the performance and effectiveness of the Villamin Wood and Iron Works system following its installation. This requires constant performance and functioning system monitoring. </p>
-<p><b> • Tracking and Documenting Quality Evaluations:  </b> The project team will adhere to and the outcomes of the Quality Control procedure will be preserved and used to monitor the activities or progress of the system.  </p>
-<p><b> • Continuous Improvement:  </b> The project team will adhere to and the outcomes of the Quality Control procedure will be preserved and used to monitor the activities or progress of the system.  </p>
+#<b>Continuous Testing and Feedback </b>- To identify any issues and assure that the product corresponds to the demands of the client, the project team is going to perform a continual evaluation.
+# <b>User Acceptance Testing </b>- To ensure that it aligns with client requirements and demands, the system's functionality will be monitored by the project manager or developer. This phase will be finished at the end of each sprint, and user feedback will be used to make any necessary improvements.
+# <b>Capability Testing: </b> The Villamin Wood and Iron Works System will undergo testing across several phases, including mobile devices and any browser, to confirm consistency and handle any potential problems within the system.
+# <b>Continuous Monitoring </b>: The project team will carefully monitor the performance and effectiveness of the Villamin Wood and Iron Works system following its installation. This requires constant performance and functioning system monitoring.
+# <b>Tracking and Documenting Quality Evaluations </b>- The project team will adhere to, and the outcomes of the Quality Control procedure will be preserved and used to monitor the activities or progress of the system.  </p>
+# <b>Continuous Improvement </b>- The project team will adhere to, and the outcomes of the Quality Control procedure will be preserved and used to monitor the activities or progress of the system.
+
 <p> In summary, the Villamin Wood and Iron Works System project's quality control system is going to be essential to the development process. It will emphasize monitoring the overall performance. As part of the quality control process, the project team will diligently monitor and assess the product's quality, ensuring the required quality standards and customer requirements. </p>
 
-<p><b> Quality Control Measurements </b> </p>
+====Quality Control Measurements====
 <p> The Villamin Wood and Iron Works System project will employ the Agile Methodology throughout its life cycle to enable continuous review and improvement. To guarantee effective quality control, this plan will place a strong emphasis on transparency and cooperation. </p>
-<p> The Quality control procedures will be applied at every phase of the development process to ensure compliance with standards and requirements. These measures will be documented and available on a platform for collaboration and documentation, like an application for project management. </p>
+<p> Quality control procedures will be applied at every phase of the development process to ensure compliance with standards and requirements. These measures will be documented and available on a platform for collaboration and documentation, like an application for project management. </p>
 
 
 
