@@ -881,15 +881,15 @@ The change management plan must be consulted in the event of the desire to chang
 
 The purpose of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are managed efficiently throughout its entire duration. The plan outlines the techniques and guidelines that will be employed to gauge, communicate, and regulate project expenses. 
 
-# '''Cost management responsibilities''' <br> - The Project Manager will be responsible for managing the project's expenses and act as the contact for any cost-related concerns. The Project Leader, on the other hand, will be responsible for supervising project spendings and making sure that it stays within the authorized budget. 
+# '''Cost management responsibilities''' <br> - The Project Manager will be responsible for managing the project's expenses and act as the contact for any cost-related concerns. The Project Leader, on the other hand, will be responsible for supervising project spendings and making sure that it stays within the authorized budget.
 
-# '''Cost change approval''' <br> - Authorization from the Project Manager is required prior to implementing any changes in cost. In case the cost modification exceeds 10% of the total project budget, approval from the Project Sponsor must be obtained before executing it. 
+# '''Cost change approval''' <br> - Authorization from the Project Manager is required prior to implementing any changes in cost. In case the cost modification exceeds 10% of the total project budget, approval from the Project Sponsor must be obtained before executing it.
 
-# '''Cost measurement and reporting''' <br> - The project expenses will be evaluated and recorded on a monthly basis, using both the cost performance index (CPI) and the schedule performance index (SPI). Monthly expense reports will be submitted to the Project Sponsor. 
+# '''Cost measurement and reporting''' <br> - The project expenses will be evaluated and recorded on a monthly basis, using both the cost performance index (CPI) and the schedule performance index (SPI). Monthly expense reports will be submitted to the Project Sponsor.
 
-# '''Budget format and standards''' <br> - The budget will be presented in a simplified and concise format by utilizing a spreadsheet program like Microsoft Excel. The budget will be divided into distinct line items, with each item having a detailed cost estimate. It will be updated once there are any changes, and any changes made will be indicated.  
+# '''Budget format and standards''' <br> - The budget will be presented in a simplified and concise format by utilizing a spreadsheet program like Microsoft Excel. The budget will be divided into distinct line items, with each item having a detailed cost estimate. It will be updated once there are any changes, and any changes made will be indicated.   
 
-Overall, the objective of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are effectively monitored and controlled, allowing the project to be completed within the assigned budget. This approach will ensure the project's successful and timely completion. 
+Overall, the objective of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are effectively monitored and controlled, allowing the project to be completed within the assigned budget. This approach will ensure the project's successful and timely completion.
 
 
 ==8.2 Cost Management Approach==
@@ -971,212 +971,6 @@ On the other hand, CPI is the ratio of the EV to the AC. This will help in check
 
 The Schedule Performance Index, which is the ratio of the EV to the PV, is similar to the SV, only in terms of the overall timeline. The aim is to consistently have an SPI that is either very close to 1, or if possible, be a little under 1. 
 
-<table border="1" width="70%" align="center">
-<tr>
-<td width="400" bgcolor="lightblue">
-<p><strong>PHASE</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>OVERALL COST</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>PERCENTAGE OF COMPLETION</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>BCWS/PV</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>BCPW/EV</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>ACWP/AC</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>CV</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>SPI</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>CPI</strong></p>
-</td>
-</tr>
-<tr>
-<td width="400">
-<p>Initiation</p>
-</td>
-<td width="190">
-<p>₱311,353.00</p>
-</td>
-<td width="190">
-<p>100.00%</p>
-</td>
-<td width="190">
-<p>₱311,353.00</p>
-</td>
-<td width="190">
-<p>₱292,181.00</p>
-</td>
-<td width="190">
-<p>₱292,181.00</p>
-</td>
-<td width="190">
-<p>0</p>
-</td>
-<td width="190">
-<p>0.93842359</p>
-</td>
-<td width="190">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td width="400">
-<p>Develop a Project Plan</p>
-</td>
-<td width="190">
-<p>₱199,720.00</p>
-</td>
-<td width="190">
-<p>23.00%</p>
-</td>
-<td width="190">
-<p>₱45,935.60</p>
-</td>
-<td width="190">
-<p>₱45,160.00</p>
-</td>
-<td width="190">
-<p>₱45,160.00</p>
-</td>
-<td width="190">
-<p>0</p>
-</td>
-<td width="190">
-<p>0.983115492</p>
-</td>
-<td width="190">
-<p>1</p>
-</td>
-</tr>
-<tr>
-<td width="400">
-<p>Analysis</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td width="400">
-<p>Design</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td width="400">
-<p>Testing</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td width="400">
-<p>Implementation</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-<td width="190">
-<p>-</p>
-</td>
-</tr>
-</table>
-
 ==8.4 Reporting Format==
 
 Reporting on cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. 
@@ -1185,17 +979,14 @@ Reporting on cost management will be included in the monthly project status repo
 
 The Control Thresholds for this project is a CPI or SPI of 1, as stated above in the Measuring Project Cost. 
 
-If the Project Sponsor selects a corrective action option,   
-The corrective actions may include: 
+If the Project Sponsor selects a corrective action option, they may choose from the following:  
 
 * Reducing the scope of the project 
 * Reducing the quality of the project deliverables 
 * Increasing the budget for the project 
 * Increasing productivity or efficiency of project team members 
 
-The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget. 
-
-If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action. 
+The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget. If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action. 
 
 ==8.6 Cost Change Control Process==
 
@@ -1217,8 +1008,20 @@ The cost change control process is a crucial aspect of managing the SurveiRams t
 
 
 ==8.7 Project Budget==
+The budget for this project is detailed below. Costs for this project are presented in various categories:
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/00fd0979-306c-4d8e-95c2-f36c42326fde" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/1891f9d1-d06f-4c21-ad24-a36c1d0ebd32" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/1d22bd62-a851-41b6-9690-2ff752b9f13b" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/913c9099-9285-42a1-a6c8-5d0a24eff5be" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/67a344f8-17a9-4e48-b15c-dd525077bdb1" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/db319989-03b4-43dc-b063-52930e19d6b2" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/c2bdaae2-4a03-44d9-b5fe-be900f6437d9" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/ee732dc3-0bc8-4422-8e11-7f281844716a" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/8b083f46-66cc-424e-af75-761bb14b2598" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/3d5c095d-47d0-475a-a07f-a2b74e5c3f5e" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/93243373-03be-43b6-a15d-1e1431a250e6" altstyle="display:block; margin:0 auto;">
+<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/537cb7f8-c0d1-4233-b95d-1d29c3da78c2" altstyle="display:block; margin:0 auto;">
 
-<img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135850/7a8b975a-c9c8-4104-ab75-09895dd04b02" altstyle="display:block; margin:0 auto;">
 
 =9. SCHEDULE MANAGEMENT PLAN=
 
