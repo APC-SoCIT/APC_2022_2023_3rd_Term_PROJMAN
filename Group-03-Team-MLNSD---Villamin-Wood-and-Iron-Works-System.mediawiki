@@ -767,7 +767,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 # <b> Project Team Leader </b> - Responsible for ensuring that the team adheres to the Scrum principles and cooperates with Product Owner and Development Team to enhance the final product.
 # <b> Project Development Team </b> – responsible for making contributions to accomplish the project objectives. ensuring that each deliverable is completed. Providing expertise and collaboration to define and satisfy business requirements to ensure the project's success.
 # <b>Project Sponsor </b> – is responsible for supporting the project and allocating financial resources.
-<table border="1" with ="100%" allign="center">
+<table border="1" width ="100%" allign="center">
 <thead>
 <tr>
 <th>Role</th>
@@ -779,7 +779,6 @@ the project manager alongside the team and stakeholders. The project manager wil
 <td>Project Manager</td>
 <td>accountable for ensuring that all deliverables are completed on time and that all stakeholders are pleased with the product.</td>
 </tr>
-<tbody>
 <tr>
 <td>Project Team Leader</td>
 <td>responsible for ensuring that the team adheres to the Scrum principles and cooperates with Product Owner and Development Team to enhance the final product.</td>
