@@ -75,6 +75,12 @@
 		<td><p><b>Company Name:</b></p></td>
                 <td ><p>D7 Auto Service Center</p></td>
 	</tr>
+
+        <tr>        
+              <td><b>Company Logo</b></td>
+              <td>[[https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G01_Elite_Four/blob/52b9659dbbc853d362a96fafda797c4436d76b24/documentation/archive/D7%20Auto%20Service%20Center%20Logo.jpg]]</td>
+        </tr>
+
 	<tr>
 		<td><p><b>Address:</b></p></td>
 		<td><p>7WR6+HQJ, C.M. De Los Reyes Avenue, General Trias, 4107 Cavite</p></td>
@@ -107,8 +113,73 @@ D7 Auto Service Center is an Auto Service Center in General Trias, Cavite, that 
 D7 Auto Service Center adds more timely and innovative equipment to provide relevant services catering to their customers' needs. 
 
 =4. BUSINESS CASE=
-==4.1. Problem Definition==
-===4.1.1 Problem Statement===
+==4.1 Executive Summary==
+The D7 Auto Service Center, an established participant in the automotive business, is having difficulties using the existing advertising strategies to promote its services and build an online presence. Furthermore, the lack of a centralized system makes reservation management difficult and frustrating, leading to inconsistent booking practices. A web-app project is suggested as a solution to these problems in order to centralize reservations and bookings in a digital system. A reservation system, customer profiles, service galleries, reviews/feedback area, social media links, and other features will all be included in the online application. The project will adhere to the Agile development technique, considering suggestions from D7's management and clients at every stage. Results including better reservation management, higher visibility, and improved customer service are anticipated. The solution can be supported by the fact that it will allow D7 to serve consumers around the clock, organize bookings, and provide a comfortable communication platform. The project overview gives information on the project description, goals, objectives, and milestones, while the problem statement underlines the difficulties D7 is now facing. 
+
+In conclusion, the D7 Auto Service Center web-app project is suggested as a thorough solution to deal with the company's issues with advertising, online presence, and reservation management, with projected favorable consequences and alignment with SDG no. 9 on Innovation.
+
+===4.1.1 Issue===
+The D7 Auto Service Center is a well-established enterprise in the automobile industry, having served customers in Cavite, Philippines for over 16 years. Despite its long-standing presence in the market, D7 has encountered challenges in effectively promoting its services and establishing an online presence using its current advertising methods. Furthermore, the company faces difficulties in managing reservations due to the absence of a centralized system, resulting in inconsistencies and errors in recordkeeping. As a consequence, retrieving information when necessary has become inconvenient.
+
+===4.1.2 Anticipated Outcomes===
+After the deployment of the Web-app developed for D7 Auto Service Center as an additional platform, the D7 Auto Service Center will now have an additional platform to aid in advertising their services, which also gives them increased visibility, given as an advantage amongst their competitors and to have a centralized system. Furthermore, this platform will allow a more centralized and available 24/7 reservation system and management of the reservation system, while it also extends D7’s support to their customers and potential clients.
+
+===4.1.3 Recommendation===
+The proposed solution recommended by the project team is to develop a comprehensive Web-App that centralizes all reservations and bookings into a digital system. This platform will facilitate convenient communication between customers and technical specialists, extending support to both existing customers and potential clients. It is anticipated that the deployment of the D7 Web-App will result in a 50% increase in customer reach within the first three months, leveraging the platform's features and functionalities.
+
+===4.1.4 Justification===
+Integrating the new Web-App project with the existing system of D7 Auto Service Center will enable the business to expand its customer base and improve service delivery. This is in contrast to the current manual and labor-intensive system. The Web-App project will centralize and automate the booking and reservation process, allowing the business to serve customers round-the-clock while providing a unified platform for communication between customers and technical specialists. This will take progress of lessening to eliminating unnecessary complexities in communication, unlike the previous system with multiple contact channels. The addition of the Web-App platform will not replace the existing system, but rather enhance it by extending its capabilities and providing a more efficient and convenient customer experience.
+
+==4.2 Business Case Analysis Team==
+<table border="1" width="70%" align="center">
+<thead>
+  <tr>
+    <th>Roles</th>
+    <th>Descriptions</th>
+    <th>Name</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Project Manager</td>
+    <td>In charge of overseeing the team and ensuring the project is planned, <br>executed, and tasks are completed successfully &amp; on time.</td>
+    <td>Andre Viernes</td>
+  </tr>
+  <tr>
+    <td>Team Leader</td>
+    <td>Guides and supports team members to successfully complete <br>the project within the given constraints.</td>
+    <td>Dan Michael Alfaras</td>
+  </tr>
+  <tr>
+    <td>Team Developer</td>
+    <td>Works closely with the Product Owner. In charge of designing, coding, testing, <br>and implementing the project that the team is working on.</td>
+    <td>Alyssa Garcia</td>
+  </tr>
+  <tr>
+    <td>Team Developer Support</td>
+    <td>Works closely with the team’s developer. Assists in designing, coding, testing, <br>and implementing the project that the team is working on.</td>
+    <td>John Zenon Coquia</td>
+  </tr>
+  <tr>
+    <td>Team Secretary</td>
+    <td>In charge of coordinating communication and documentation, organizing meetings, managing schedules, <br>and ensuring that participants and roles are defined for the business case and throughout the project.</td>
+    <td>Francesca Erin Camino</td>
+  </tr>
+  <tr>
+    <td>Team Secretary Support</td>
+    <td>Works closely with the team’s secretary, providing administrative support to the team and assisting in the <br>coordination of team activities.</td>
+    <td>Darrell Royce Lazala</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+</table>
+
+
+==4.3. Problem Definition==
+===4.3.1 Problem Statement===
 The D7 Auto Service Center is facing multiple challenges in their business operations. Firstly, their current advertising and online presence on Facebook, their sole platform for promotions, is struggling due to limitations in customer reach caused by the platform's ever-changing algorithm. This hinders their ability to effectively promote their services and engage with potential customers, especially in a highly competitive online market.
 
 Secondly, D7 Auto Service Center is facing difficulties in managing and keeping track of customer reservations. Customers use various channels such as Gmail, mobile text, Facebook Messenger, and walk-ins to make reservations, resulting in a lack of centralized system for recording and managing bookings. This leads to inconsistencies, errors, and time-consuming manual collation of data from different channels, which affects their customer service and revenue potential.
@@ -117,17 +188,17 @@ Lastly, the COVID-19 pandemic has intensified the online competition for D7 Auto
 
 These challenges highlight the need for a comprehensive solution that can address D7 Auto Service Center's advertising and online presence issues, streamline their reservation management process, and provide additional features to enhance customer engagement
 
-===4.1.2 Issue===
+===4.3.2 Issue===
 The proposed project at D7 Auto Service Center will make significant improvements to organizational processes, tools, hardware, and software. A centralized reservation and management system will be implemented to eliminate difficulties and errors in recordkeeping caused by the current system. This will result in improved accuracy and efficiency in managing reservation logs and record keeping, reducing manual collation efforts, and enhancing overall customer service. Additionally, the project will provide an extended communication platform for customers and specialists through the web-app, allowing for seamless and efficient communication for inquiries, clarifications, and updates. This will lead to increased customer engagement and satisfaction and improved communication within the organization for more effective service delivery. The project may also create new roles or modify existing ones to align with the new system, such as assigning a designated team or individual to manage and oversee reservations. Overall, the proposed project will bring about positive changes in reservation management and customer interactions within the organization. 
 
-===4.1.3 Technology Mitigation===
+===4.3.3 Technology Mitigation===
 D7 Auto Service Center will have an implemented customized software solution designed for their business, involving configuration of the software to meet their unique needs and close collaboration with the project team for smooth deployment and integration. Future data collected upon usage of the web-app including customer profiles, service history, inventory records, and financial transactions, will be uploaded to the new system, validated for accuracy and integrity, and converted into compatible formats. Technical requirements and potential obstacles will be addressed by the project team, ensuring a smooth and seamless data processing, resulting in improved customer service, streamlined business processes, and enhanced decision-making capabilities through effective access and leverage of historical customer data.  
 
-==4.2. Project Overview==
-===4.2.1. Project Description===
+==4.4. Project Overview==
+===4.4.1. Project Description===
 The project will focus on developing a web-app platform using modern web development technologies for D7 Auto Service Center. This platform will serve as an additional online presence, alongside their existing Facebook page, and will include features such as a reservation system, customer profiles, service gallery, reviews/feedback section, social media links, 360° virtual tour, and service listing. The project team will follow an Agile development methodology to ensure continuous improvement and adaptability, incorporating feedback from D7's management and customers throughout the development process. Thorough testing will be conducted before deployment, and support will be provided during the initial phase. The purpose of the project is to expand D7's online presence, improve reservation management, and enhance customer engagement, aligning with SDG (Sustainable Development Goals) no. 9 on Innovation. The web-app platform will be a valuable marketing and management tool for D7, providing added convenience and value for their customers. 
 
-===4.2.2 Goals and Objectives===
+===4.4.2 Goals and Objectives===
 Below are the specific goals and objectives that the project aims to achieve:
 
 • To increase customer reach by up to 50% within the first three months of deployment of the web-app by leveraging an additional online platform. 
@@ -136,7 +207,7 @@ Below are the specific goals and objectives that the project aims to achieve:
 <br>
 • To extend the Auto Service Center’s support for their customers, as well as potential customers, through an environment where both customers and D7 specialists can converse. 
 
-===4.2.3 Project Performance===
+===4.4.3 Project Performance===
 The project's success will be measured using key performance indicators (KPIs) that will gauge its performance and outcomes in relation to key resources, processes, or services. The following KPIs will be used to assess the project's performance:
 <br><br>
 
@@ -156,7 +227,7 @@ The project's success will be measured using key performance indicators (KPIs) t
 <br><br>
 Regular monitoring, tracking, and reporting of these KPIs will provide insights into the project's performance and outcomes and enable the project team to take timely corrective actions, if needed, to ensure project success
 
-===4.2.4 Project Assumptions===
+===4.4.4 Project Assumptions===
 The following list includes the project’s preliminary assumptions:
 <br><br>
 •The development team has the technical knowledge and proficiency required to successfully complete the project in accordance with the specifications. 
@@ -179,7 +250,7 @@ The following list includes the project’s preliminary assumptions:
 <br><br>
 Throughout the project, these assumptions will be reviewed and updated often to maintain their accuracy and relevance and to proactively address any changes or inconsistencies that might influence the project's success
 
-===4.2.5 Project Constraints===
+===4.4.5 Project Constraints===
 The project constraints for the project are as follows: 
 <br><br>
 1. <b>Time Constraint:</b> The project must be completed within the duration of the PBL course, and any other extension must be approved by the subject adviser.
@@ -194,7 +265,7 @@ The project constraints for the project are as follows:
 <br>
 6. <b>Quality Constraint:</b> The project deliverables must meet the agreed-upon quality standards, and any deviations from these standards must be approved by the subject adviser, project panelist(s), and project sponsor. 
 
-===4.2.6 Major Project Milestones===
+===4.4.6 Major Project Milestones===
 Below are the major milestones of the project:
 <br><br>
 • <b>Project Planning:</b> In this milestone, the project team meets the client and defines project goals, scope, limitation, requirements, timeline, risks, and assumptions. This includes identifying the client's needs and expectations, determining the project's objectives and deliverables, and identifying potential challenges that may arise. 
@@ -207,7 +278,7 @@ Below are the major milestones of the project:
 <br><br>
 • <b>Deployment:</b> In this milestone, the project team makes the solution accessible to end users by deploying it to the production environment and configuring the necessary infrastructure, including servers, databases, and networking. 
 
-==4.3. Strategic Alignment==
+==4.5. Strategic Alignment==
 By aligning the D7 Auto Service Center project with the overall strategic goals and objectives of the company, we can ensure that the project contributes to the long-term success of the organization and helps achieve a competitive advantage in the automotive service industry. 
 
 <b>D7 Auto Service Center aims to become a trusted and leading provider of automotive repair and maintenance services in the local market.</b> 
@@ -224,7 +295,7 @@ By introducing effective workflow procedures, cutting down on service wait times
 
 Overall, the D7 Auto Service Center project's strategic alignment with the organization's objectives of becoming a reputable and innovative provider, ongoing innovation, and customer satisfaction shows how the project supports the company's long-term success and justifies the investment in the project.
   
-==4.4. Cost and Benefit Analysis==
+==4.6. Cost and Benefit Analysis==
 The Cost Benefit Analysis of the project was determined through four parts those being:
 
 <b>Costs Determined:</b>
@@ -263,12 +334,24 @@ The alternative idea for the CBA of this project, is to have it deployed in a we
 <br>   
 Once settled and approved of, regarding the costing that will be rendered for the webhosting services, the Elite Four uploads the project to AWS for it to be launched and announced for the business accordingly. Reports and receipts will also be delivered to D7 Auto Service Center so it may be liquidated correspondingly. 
 
+==4.7 Alternative Analysis==
+The alternatives analysis was focused on providing an alternative solution for the webhosting of the project, and it is determined to have Microsoft Azure as a host alternative in case of the following: 
+<br><br>
+• The web-application is not suitable to be implemented in the AWS platform. 
+<br>
+• The web-application has difficulties, and many concerns when to be or when hosted via AWS. 
+<br>
+• The client and/or the stakeholders of the project decide to proceed with the alternative as decided
+
 =5. PROJECT CHARTER=
-==5.1 Project Purpose==
-===5.1.1 Business Need===
+==5.1 Executive Summary==
+D7 has always done business in the automotive industry utilizing traditional logbooks and perform face-to-face transactions for over 16 years. Over these years, the business recently acquired an online platform, (Facebook) because of the pandemic, however, they struggled with its online presence, statistics, and the lack of functionality in their present system, including their reservation system. To solve these issues, the D7 Auto Service Center Web-App project was developed by the Elite Four of BSIT-MI 201. The project will offer improved technological solutions by introducing a new platform, giving the company greater flexibility to display their services and offers, comprehensive statistics, and a new reservation system
+
+==5.2 Project Purpose==
+===5.2.1 Business Need===
 The D7 Auto Service Center Web-App was developed to help D7 have an additional platform, which aims to have a more user-friendly interface, allowing clients to access the company's services and offers more easily.
 
-===5.1.2 Business Objectives===
+===5.2.2 Business Objectives===
 The business objective for the subject is listed below:
 <br><br>
 • Achieve a 50% increase in customer reach within the first three months of launching the web-app by utilizing an additional online platform. 
@@ -277,10 +360,10 @@ The business objective for the subject is listed below:
 <br><br>
 • Enhance the Auto Service Center's customer support by creating a platform where both   customers and D7 specialists can communicate and interact
 
-==5.2. Project Description==
+==5.3. Project Description==
 The D7 Auto Service Center Web-App will allow the company to have more control of marketing their business and laying out their new platform. This project will use today’s technology as a web application, integrated with features such as a reservation system, statistics, and security. All the company’s current system will not be terminated, but will be improved, and merged with the new platform.
 
-===5.2.1 Project Objectives===
+===5.3.1 Project Objectives===
 • To increase customer reach by up to 50% within the first three months of deployment of the web-app by leveraging an additional online platform.  
 <br><br>
 • To develop a centralized system for D7 to manage the bookings of their customers and allow their customers to request reservations 24/7.  
@@ -289,19 +372,10 @@ The D7 Auto Service Center Web-App will allow the company to have more control o
 <br><br>
 The success of this project and its criteria will be determined under the completion of features being implemented, to be complete, and fully working throughout the platform's usage. 
 
-===5.2.2 Success Criteria===
+===5.3.2 Success Criteria===
 The success of this project and its criteria will be determined under the completion of features being implemented, to be complete, and fully working throughout the platform's usage. 
 
-===5.2.3 Requirements===
-* To increase customer reach by up to 50% within the first three months of deployment of the web-app by leveraging an additional online platform.    
-
-* To develop a centralized system for D7 to manage the bookings of their customers and allow their customers to request reservations 24/7.   
-
-* To extend the Auto Service Center’s support for their customers, as well as potential customers, through an environment where both customers and D7 specialists can converse.   
-
-The success of this project, and its criteria will be determined under the completion of 	features being implemented, to be of completion, and fully working throughout the 	usage of the platform.
-
-===5.2.3 Requirements===
+===5.3.3 Requirements===
 For this project to succeed, it must adhere to the set of conditions below:   
 <br><br>
 • The D7 Auto Service Center Web-App should be tested by the assigned team prior to deployment. 
@@ -312,7 +386,7 @@ As the project advances, further specifications may be introduced as needed with
 <br><br>
 Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward. 
 
-===5.2.4 Constraints===
+===5.3.4 Constraints===
 The project constraints for the project are as follows: 
 <br><br>
 1. Time Constraint: The project must be completed within the duration of the PBL course, and any other extension must be approved by the subject adviser.
@@ -327,7 +401,7 @@ The project constraints for the project are as follows:
 <br><br>
 6. Quality Constraint: The project deliverables must meet the agreed-upon quality standards, and any deviations from these standards must be approved by the subject adviser, project panelist(s), and project sponsor.
 
-===5.2.5 Assumptions===
+===5.3.5 Assumptions===
 The following list includes the project’s preliminary assumptions:
 <br><br>
 • The development team has the technical knowledge and proficiency required to successfully complete the project in accordance with the specifications. 
@@ -350,13 +424,74 @@ The following list includes the project’s preliminary assumptions:
 <br><br>
 Throughout the project, these assumptions will be reviewed and updated often to maintain their accuracy and relevance and to proactively address any changes or inconsistencies that might influence the project's success.
 
-===5.2.6 Preliminary Scope Statement===
+===5.3.6 Preliminary Scope Statement===
 The D7 Auto Service Center Web-App will include the design, creation, testing, and delivery of the new platform for the business. The project team will manage all hardware, software, and clients. All the development process will be carried out in a manner that is separate from regular business activities, and all testing will be done in the work area only. The project manager will oversee all project funding up to and including the funds allotted in this agreement. The project sponsor must consent before receiving any further funding. 
 
-==5.3 Project Approval Requirements==
+==5.4 Risks==
+The risks that were identified for the D7 Auto Service Center were identified. Rest assured that the Elite Four team will determine workable solutions for the identified risks that the project poses:
+<br><br>
+• Data breach through the database of the D7 web-app. 
+<br>
+• Bugs within the web-app that may cause system down-time and delays in the online reservation
+
+==5.5 Project Deliverables==
+The following deliverables must be met upon the successful completion of the D7 Auto Service Center Web-app. Any changes to these deliverables must be approved by the project sponsor:
+<br><br>
+• Fully deployed web-app. 
+<br>
+• Technical documentation for the solution. 
+<br>
+• Recommendation list for future upgrades/enhancements for the solution.
+
+==5.6 Summary Milestones Schedule==
+The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
+
+<table>
+<thead>
+  <tr>
+    <th colspan="3">Summary Milestone Schedule - List Key Project Milestones Relative to Project Start</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2">Project Milestone<br></td>
+    <td>Target Date (mm/dd/yy) </td>
+  </tr>
+  <tr>
+    <td colspan="2">Project Start</td>
+    <td>03/30/2022</td>
+  </tr>
+  <tr>
+    <td colspan="2">Complete Solution Design</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td colspan="2">Planning</td>
+    <td>03/30/2022</td>
+  </tr>
+  <tr>
+    <td colspan="2">System Analysis and Design</td>
+    <td>08/15/2022</td>
+  </tr>
+  <tr>
+    <td colspan="2">Development</td>
+    <td>11/26/2022</td>
+  </tr>
+  <tr>
+    <td colspan="2">Deploy Solution &amp; Maintenance</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td colspan="2">Project Complete</td>
+    <td>2023</td>
+  </tr>
+</tbody>
+</table>
+
+==5.7 Project Approval Requirements==
 Success for the D7 Auto Service Center Web-app project will be achieved when a fully tested web-app, and all technical documentation, is fully deployed throughout the company within the time and cost constraints indicated in this charter. Additionally, this measure of success must include a recommendation list for future recommendations for upgrades/enhancements, as we approach this solution to also be secured to prevent/minimize future threats. Success will be determined by the Project Sponsor, Ms. Anne Sydney Simpelo, who will also authorize project completion.
 
-==5.4 Project Manager==
+==5.8 Project Manager==
 Andre O. Viernes is assigned Project Manager for the D7 Auto Service Center Project. Mr. Viernes’s responsibility is to manage all project tasks, scheduling, and communication regarding the D7 Auto Service Center project. His team consists of two developers, one product owner, and one product stakeholder from BSIT-MI 201. Mr. Viernes will coordinate all resource requirements through the subject course adviser, Prof. Manuel Sebastian Sanchez. 
 
 =6. STAKEHOLDER STRATEGY MANAGEMENT PLAN=
@@ -678,6 +813,7 @@ This project will be under control during the PBL or Project Based Learning of t
 Any changes that will be made after deployment, may it be through the services, and the other features of the web-app, and cancellation of the webhosting, is not under the control of the Elite Four, but under the control of D7 Auto Service Center and their personnel. 
 
 =8. COST MANAGEMENT PLAN=
+==8.1 Introduction==
 The Cost Management Plan for the D7 Auto Service Center Web-App project is designed to ensure that all costs that are to be covered, relevant, and associated with the project are efficiently liquidated, and managed throughout the project’s lifecycle. The plans of costing made through the document will be outlining the standards costing of the project as it is measured, recorded, and managed.  
 <br><br>
 <b>Cost Management Responsibilities:</b>
@@ -704,7 +840,7 @@ The Cost Management Plan for the D7 Auto Service Center Web-App project is desig
 <br><br>
 • Any changes rendered or applied for the project’s monthly reports are to be highlighted.
 
-==8.1 Cost Management Approach==
+==8.2 Cost Management Approach==
 The cost management approach for the D7 Auto Service Center shall be adherent to the principles: 
 <br><br>
 <b>a) Clear and concise cost definitions:</b> <br>
@@ -729,7 +865,7 @@ The cost management approach for the D7 Auto Service Center shall be adherent to
 - Cost Reports generated through Microsoft Excel will be shared and reported to the project stakeholders. 
 
 
-==8.2 Measuring Project Costs==
+==8.3 Measuring Project Costs==
 The Measuring of the Project Costs Plan for the D7 Auto Service Web-App will include and detailed and calculated approach for the measurement of the projected project costs using EVM (Earned Value Management). This will involve and need various Earned Value metrics like:  
 
 The BCWS (Budget Cost of Work Schedule) or PV (Planned Value)  
@@ -831,7 +967,7 @@ Reference: ​[3]​ 
 
 The Cost Management Plan makes sure the project costs are as effectively managed and controlled as possible throughout its project’s lifecycle. By utilizing EVM metrics and calculations. These metrics and calculations help in getting insight and identifying the areas where the project performance health is. And if the project is underperforming it will show it to the project team for them to take appropriate actions on fixing it and bring the project right on schedule and track.  
 
-==8.3 Reporting Format==
+==8.4 Reporting Format==
 The reporting format that would be best suited for the cost management plan of the D7 Auto Service Web-App should be a detailed and comprehensive spreadsheet or table, preferably in Microsoft Excel or something similar. Detailing the relevant cost information like project budget, actual cost, projected costs, and any variances or discrepancies and any relevant information should be included in this format. 
 
 The format should be easy to understand and be accessible to all stakeholders, the project team, and the project management. 
@@ -870,10 +1006,10 @@ This section is for the supporting and additional documentation and materials, r
 
 It is important that this is a general outline, and the reporting format may change and vary depending on the specific needs of the project and organization. The additional changes should provide a comprehensive overview of the project’s cost management in order for the people involved in the project to make a informed decision and take appropriate actions. 	
 
-==8.4 Cost Variance Response Process==
+==8.5 Cost Variance Response Process==
 The Control Threshold for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds, a Cost Variance Corrective Action Plan is required. The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported. Within three business days of the Project Sponsor selecting a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan. The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and how the effectiveness of the actions in the plan will be measured. Upon acceptance of the Cost Variance Corrective Action Plan, it will become part of the project plan and be updated to reflect the corrective actions.
 
-==8.5 Cost Change Control Process ==
+==8.6 Cost Change Control Process ==
 The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor and stakeholders.
 
 1.	Identification of cost change:
@@ -903,7 +1039,7 @@ The cost change or any updates regarding it will be reported at each meeting of 
 
 This process or steps will be implemented to the cost change to make sure that the proposed changes in the budget or costs are properly rationalized and identified and approved by each stakeholder of the project.
 
-==8.6 Project Budget==
+==8.7 Project Budget==
 The budget for the D7 Auto Service Center Web-App project is detailed below:
 
 The approved budget: ₱2,820,000
