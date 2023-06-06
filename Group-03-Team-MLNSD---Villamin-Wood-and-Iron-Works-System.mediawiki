@@ -161,7 +161,7 @@
 <ul><ul> b. Monitor business performance through Dashboard Reports. </ul></ul>
 
 ===Technology Migration===
-<p>lorem chuchu</p>
+<p>Villamin Wood and Iron Works operates in a Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally in PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a Form for the client to fill if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided the 16 of their products lists that has been then migrated to the system manually in preparation for the initial deployment.</p>
 
 ==Project Overview==
 <p> The project created for Villamin Wood and Iron works upon their request is an ordering system to help improve their current business process which is why an ordering system was developed by the team. Part of the goals and objectives of this project is to boost the number of customers and improve the time it takes for transactions to be completed.  </p>
