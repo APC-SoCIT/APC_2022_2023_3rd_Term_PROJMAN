@@ -1015,8 +1015,8 @@ the project manager alongside the team and stakeholders. The project manager wil
 : Compilation of MSYADD1 Requirements
 : Project Flow
 : Assigning of Parts for Statement of Work and Project Charter Plan
-: Project Charter Plan (Long Version)
-:; Executive Summary
+:; Initial Project Charter Plan (Long Version)
+: Executive Summary
 : Risks
 : Project Purpose/Justification
 : Project Description
@@ -1028,37 +1028,37 @@ the project manager alongside the team and stakeholders. The project manager wil
 : Authorization
 :; Statement of Work
 :: Introduction/Background
-<ul><ul><ul>Scope of Work</ul></ul></ul>
-<ul><ul><ul>Period of Performance</ul></ul></ul>
-<ul><ul><ul>Place of Performance</ul></ul></ul>
-<ul><ul><ul>Work Requirements</ul></ul></ul>
-<ul><ul><ul>Schedule/Milestones</ul></ul></ul>
-<ul><ul><ul>Acceptance Criteria</ul></ul></ul>
-<ul><ul><ul>Other Requirements</ul></ul></ul>
-<ul><ul><ul>Acceptance</ul></ul></ul>
-<ul><ul>Project Vision and Scope</ul></ul>
-<ul><ul><ul>Revision History</ul></ul>
-<ul><ul><ul>Business Requirements</ul></ul></ul>
-<ul><ul><ul>Business Objectives and Success Criteria</ul></ul></ul>
-<ul><ul><ul>Vision of the Solution</ul></ul></ul>
-<ul><ul><ul>Scope and Limitations</ul></ul></ul>
-<ul><ul><ul>Business Context</ul></ul></ul>
-<ul><ul>Activity List</ul></ul>
-<ul><ul>MCSPROJ Course Paper</ul></ul>
-<ul><ul>Team Meeting 1</ul></ul>
-<ul><ul>Work Breakdown Structure (WBS)</ul></ul>
-<ul><ul>Team Meeting 2</ul></ul>
-<ul><ul>Improvement Matrix</ul></ul>
-<ul><ul>Midterm (Sprint 5) </ul></ul>
-<ul><ul>Midterm Comment Matrix</ul></ul>
-<ul><ul>User Project Review</ul></ul>
-<ul><ul>Team Meeting 3</ul></ul>
-<ul><ul>Test Case</ul></ul>
-<ul><ul>Quality Management Plan</ul></ul>
-<ul><ul>Software Requirement Specifications</ul></ul>
-<ul><ul>Adviser/Consultant Meeting 4</ul></ul>
-<ul><ul>Adviser/Consultant Meeting 5</ul></ul>
-<ul><ul>Finals (Sprint 6) </ul></ul>
+:: Scope of Work
+:: Period of Performance
+:: Place of Performance
+:: Work Requirements
+:: Schedule/Milestones
+:: Acceptance Criteria
+:: Other Requirements
+:: Acceptance
+:; Project Vision and Scope
+:: Revision History
+:: Business Requirements
+:: Business Objectives and Success Criteria
+:: Vision of the Solution
+:: Scope and Limitations
+:: Business Context
+: Activity List
+: MCSPROJ Course Paper
+: Team Meeting 1
+: Initial Work Breakdown Structure (WBS)
+: Team Meeting 2
+: Improvement Matrix
+: Midterm (Sprint 5)
+: Midterm Comment Matrix
+: User Project Review
+: Team Meeting 3
+: Test Case
+: Initial Quality Management Plan
+: Software Requirement Specifications
+: Adviser/Consultant Meeting 4
+: Adviser/Consultant Meeting 5
+: Finals (Sprint 6)
 
 <ul><i>IV. Project Management</i></ul>
 <ul><ul>Team Meeting 3</ul></ul>
