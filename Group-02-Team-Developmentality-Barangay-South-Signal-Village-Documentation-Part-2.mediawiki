@@ -864,49 +864,60 @@ The following criteria will be used for the risk register:
 
 <table border="1" width="100%" align="center">
     <tr>
-      <th>Risk ID</th>
-      <th>Risk Rank</th>
-      <th>Risk</th>
-      <th>Risk Description</th>
-      <th>Category</th>
-      <th>Destination/Owner</th>
-      <th>Probability</th>
-      <th>Impact</th>
-      <th>Status</th>
-    </tr>
-    <tr>
-      <td>RID 001</td>
-      <td>1</td>
-      <td>Technical Risks</td>
-      <td>The Barangay South Signal Village Web App may not work effectively with existing software and hardware systems, resulting in system faults and delays.</td>
-      <td>Technology</td>
-      <td>Project Leader</td>
-      <td>High</td>
-      <td>High</td>
-      <td>In Progress</td>
-    </tr>
-    <tr>
-      <td>RID 002</td>
-      <td>2</td>
-      <td>Resource Risks</td>
-      <td>There is a risk of not having enough resources to execute the project on time, which could lead to delays and budget overruns.</td>
-      <td>Organizational</td>
-      <td>Project Manager</td>
-      <td>Medium</td>
-      <td>Medium</td>
-      <td>In Progress</td>
-    </tr>
-    <tr>
-      <td>RID 003</td>
-      <td>2</td>
-      <td>Security Risks</td>
-      <td>Data breaches and cyberattacks pose a threat to sensitive information.</td>
-      <td>Technical</td>
-      <td>System Developer</td>
-      <td>Medium</td>
-      <td>Medium</td>
-      <td>In Progress</td>
-    </tr>
+    <th>Risk ID</th>
+    <th>Risk</th>
+    <th>Description</th>
+    <th>Category</th>
+    <th>Destination/Owner</th>
+    <th>Probability</th>
+    <th>Impact</th>
+    <th>Priority</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>RID 001</td>
+    <td>Scope Creep</td>
+    <td>Risk of expanding the project scope beyond the original requirements.</td>
+    <td>Project</td>
+    <td>Project Manager</td>
+    <td>Likely</td>
+    <td>Significant</td>
+    <td>HIGH</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>RID 002</td>
+    <td>Security Vulnerability</td>
+    <td>Risk of potential security threats or vulnerabilities within the system including data breaches and cyberattacks posing a threat to sensitive information.</td>
+    <td>Security</td>
+    <td>Project Manager</td>
+    <td>Likely</td>
+    <td>Catastrophic</td>
+    <td>EXTREME</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>RID 003</td>
+    <td>Lack of Resources</td>
+    <td>Risk of insufficient resources to accomplish the project requirements on time, which could lead to delays and budget overruns.</td>
+    <td>Resources</td>
+    <td>Project Manager</td>
+    <td>Possible</td>
+    <td>Significant</td>
+    <td>HIGH</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>RID 004</td>
+    <td>Unpredictable Risks</td>
+    <td>Risk of unanticipated circumstances or occurrences, such as power outages or natural catastrophes, having an influence on the project.</td>
+    <td>Project</td>
+    <td>Project Manager</td>
+    <td>Possible</td>
+    <td>Significant</td>
+    <td>HIGH</td>
+    <td>In Progress</td>
+  </tr>
   </table>
 
    
