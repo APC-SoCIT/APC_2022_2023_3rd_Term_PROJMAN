@@ -975,42 +975,42 @@ the project manager alongside the team and stakeholders. The project manager wil
 : Updated Comments Matrix and Paper
 : Submission of Updated Comments Matrix and Final Paper
 
-<ul><i>II. Analysis and Design</i></ul>
-<ul><ul>Choose Adviser/Consultant</ul></ul>
-<ul><ul>Compilation of MNTSDEV Requirements</ul></ul>
-<ul><ul>Software Design</ul></ul>
-<ul><ul>MVC Infographic</ul></ul>
-<ul><ul>GitHub Repository</ul></ul>
-<ul><ul>Case in Point: Big Ten University</ul></ul>
-<ul><ul>Event Table</ul></ul>
-<ul><ul>Use Case Diagram</ul></ul>
-<ul><ul>Use Case Full Description</ul></ul>
-<ul><ul>Data Flow Diagram</ul></ul>
-<ul><ul>Context Flow Diagram</ul></ul>
-<ul><ul>Entity-Relationship Diagram</ul></ul>
-<ul><ul>Adviser/Consultant Meeting 1</ul></ul>
-<ul><ul>Submission of Midterm Deliverables</ul></ul>
-<ul><ul>Midterm (Sprint 3) </ul></ul>
-<ul><ul>Comment Matrix</ul></ul>
-<ul><ul>Paper Revision 1</ul></ul>
-<ul><ul>Activity Diagram</ul></ul>
-<ul><ul>Object Diagram</ul></ul>
-<ul><ul>Class Diagram</ul></ul>
-<ul><ul>Sequence Diagram</ul></ul>
-<ul><ul>State Machine Diagram</ul></ul>
-<ul><ul>Package Diagram</ul></ul>
-<ul><ul>Component Diagram</ul></ul>
-<ul><ul>Deployment Diagram</ul></ul>
-<ul><ul>Adviser/Consultant Meeting 2</ul></ul>
-<ul><ul>Adviser/Consultant Meeting 3</ul></ul>
-<ul><ul>Paper Revision 2</ul></ul>
-<ul><ul>Mock Presentation</ul></ul>
-<ul><ul>Submission of Final Deliverables</ul></ul>
-<ul><ul>Finals (Sprint 4) </ul></ul>
-<ul><ul>Paper Revision 3</ul></ul>
-<ul><ul>Updated Comments Matrix and Paper</ul></ul>
+; <i>Analysis and Design</i>
+: Choose Adviser/Consultant
+: Compilation of MNTSDEV Requirements
+: Software Design
+: MVC Infographic
+: GitHub Repository
+: Case in Point: Big Ten University
+: Event Table
+: Use Case Diagram
+: Use Case Full Description
+: Data Flow Diagram
+: Context Flow Diagram
+: Entity-Relationship Diagram
+: Adviser/Consultant Meeting 1
+: Submission of Midterm Deliverables
+: Midterm (Sprint 3)
+: Comment Matrix
+: Paper Revision 1
+: Activity Diagram
+: Object Diagram
+: Class Diagram
+: Sequence Diagram
+: State Machine Diagram
+: Package Diagram
+: Component Diagram
+: Deployment Diagram
+: Adviser/Consultant Meeting 2
+: Adviser/Consultant Meeting 3
+: Paper Revision 2
+: Mock Presentation
+: Submission of Final Deliverables
+: Finals (Sprint 4)
+: Paper Revision 3
+: Updated Comments Matrix and Paper
 
-<ul><i>III. Development, Testing, and Deployment</i></ul>
+; <i>III. Development, Testing, and Deployment</i>
 <ul><ul>Choose Adviser/Consultant</ul></ul>
 <ul><ul>Compilation of MSYADD1 Requirements</ul></ul>
 <ul><ul>Project Flow</ul></ul>
