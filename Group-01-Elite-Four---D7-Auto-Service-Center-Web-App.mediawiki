@@ -1682,163 +1682,165 @@ To identify the most suitable communication methods and technologies for the D7 
 =14. PROCUREMENT PLAN=
 
 ==14.1 Introduction==
-Procurement can be complex without proper planning; hence every organization requires a comprehensive document called a procurement management plan that is tailored towards its requirements to guide all procurement activities. Regarding implementing the D7 auto service center project, it will facilitate acquiring relevant goods/services on time within budgetary restrictions while ensuring quality standards are met throughout the process. 
+The purpose of the procurement management plan is to have access to the required tools, skills, and services while within the budgetary constraints for the D7 Auto Service Center Web-App. By outlining the project's objectives, requirements, stakeholders, and scope, this plan establishes the project's overall context.
 
-At the beginning of any procurement management plan for the D7 auto service center project system lies an introductory aspect outlining its purpose and extent. This preliminary piece sets out to introduce the project's objectives while emphasizing why having such a tool would facilitate seamless handling of customer appointments, thereby improving efficiency throughout various auto-service related sectors. 
+To ensure the successful implementation of the D7 Auto Service Center Web-App, the system must meet the following requirements:
 
-Within the introductory segment of the procurement plan lies a clear overview of essential stakeholders involved in this process. This includes personnel like the project sponsor, project manager, procurement manager, among others. 
+•	Account Management
+<br>
+•	Reservation System
+<br>
+•	Rating and Review System
+<br>
+•	Community Forum
+<br>
+•	User-Friendly Interface
+<br>
+•	Service Details, Contact Information, and About the Company
+<br>
+•	Gallery & 360 Virtual Tour
+<br>
+•	Promos Tab, & Supports Tab 
+<br>
+•	Social Media Links
+<br>
+•	Admin Panel
 
-Their contributions to creating an efficient auto booking system are defined and their roles throughout its execution. 
-
-The procurement management plan's introduction section may entail a brief of the primary procurement limitations and needs for the auto service reservation platform. This would provide a high-level overview of the functional, technical, and performance requirements that the system must meet to be considered successful. 
-
-Overall, the introduction section of the procurement management plan for an auto service booking system would set the context for the plan, outlining the objectives, scope, stakeholders, and requirements for the project. It would serve as a foundation for the plan's future sections, which would go into greater detail on the procurement process, system selection criteria, contract terms and conditions, and project timetable and budget. 
+These requirements encompass all the essential features and functionalities that should be part of the D7 Auto Service Center Web-App to ensure a comprehensive and satisfactory user experience. By following this plan, it can effectively manage the procurement process, ensuring access to the required tools, skills, and experience, as well as services within the allocated budget. It emphasizes the importance of maintaining high quality standards throughout the implementation process.
 
 ==14.2 Procurement Risk==
-Assessing the risk is an important task in all projects, as it involves the whole project and whether the acquiring of goods, services, and the business model would work in the real-life scenario. These procurement risks are potential issues that can arise during the project's procurement process. Which can negatively impact the said project and potentially the clients and their customer. So, it is important to know and plan for the risks as early as possible to minimize if not eliminate the possible impact of them on the project. 
-
-a.	Vendor/Developer selection risk:
+Assessing the risk is an important task in all projects, as it involves the whole project and whether the acquiring of goods, services, and the business model would work in the real-life scenario. These procurement risks are potential issues that can arise during the project's procurement process. Which can negatively impact the said project and potentially the clients and their customer. Hence, it is important to know and plan for the risks as early as possible to minimize if not eliminate the possible impact of them on the project. 
+<br><br>
+1.	Security Risk: This refers to the potential for unauthorized access to sensitive data, which can compromise the confidentiality and integrity of the information. It is important to implement strict security measures, such as encryption and access controls, to prevent unauthorized access and protect sensitive data.
 <br>
-Choosing the wrong vendor can result in a system that does not meet the company’s needs or requires significant customization, delays implementation, and potentially adds extra cost. Mitigation strategies can include conducting thorough research on potential vendors, conducting due diligence, reviewing vendor references, and requesting demos or prototypes to ensure the system meets your requirements.
-
-b.	Implementation risk:
+2.	Technical Risk: This risk involves challenges related to the technical aspects of the project. It could include issues such as the team's inability to meet project deadlines or inadequate user testing, leading to a buggy application. Mitigation strategies should focus on monitoring project progress, conducting thorough testing, and providing additional resources if needed.
 <br>
-Implementation of the system can be a complex process, and any delays or unexpected issues can impact on the company’s business operations. Mitigation strategies may include developing a comprehensive implementation plan with clear timelines, setting up a project management team, and establishing a communication plan with stakeholders to manage expectations. 
+3.	Business Risk: Business risks are associated with factors that can impact the success of the project from a business perspective. This can include changes in the market that affect the relevance of the product or budget constraints that limit financial resources. It is crucial to conduct market research, adapt the product strategy as needed, and develop a well-defined budget to address these risks effectively.
+<br><br>
+These are the identified procurement risks that can happen during the implementation of the D7 Auto Service Center Web-App. It is important to conduct a comprehensive risk assessment and develop a plan to address any potential risks before implementation begins.
 
-c.	Costing risk:
-<br>
-The cost of implementing a new system can often exceed initial estimates, potentially leading to budget overruns or financial strain on the company. Mitigation strategies can include conducting a thorough cost analysis, establishing a detailed budget and contingency plan, negotiating fixed-price contracts, and tracking expenses throughout the project. 
-
-d.	Data privacy and security risk:
-<br>
-A booking and reservation system will involve the collection and storage of sensitive customer data. Any data breaches can result in monetary loss and reputational damage. Mitigation strategies can include establishing clear data protection and privacy policies, investing in secure hosting and storage solutions, regularly auditing and monitoring systems for potential vulnerabilities, and ensuring staff is trained in data protection policies and practices. 
-
-e.	User adoption risk:
-<br>
-There is a risk that employees may not adopt the new system, leading to underutilization or lack of engagement. Mitigation strategies can include developing a comprehensive training program, involving employees in the implementation process, ensuring user-friendliness, and addressing any potential issues early in the process. 
-
-These are just a few examples of procurement risks that can arise during the implementation of the D7 auto service center booking and reservation system, and some strategies to mitigate them. It is important to conduct a comprehensive risk assessment and develop a plan to address any potential risks before implementation begins.
 
 ==14.3 Procurement Risk Management==
-1.	Identification of Procurement Risks
+1.	Identification of Procurement Risks 
+
+The identified procurement risks for the D7 Auto Service Center Web-App are the following:
+<br><br>
+Technical
+Team unable to meet project deadlines.
+Inadequate user testing leads to buggy application.
+Third-party software used becomes unavailable.
+Miscommunication between team members
+<br><br>
+Business
+Key team members are unavailable during a critical phase.
+Changes in the market that affect the relevance of the product.
+Budget constraints
+<br><br>
+Security
+Unauthorized access to sensitive data
+<br><br>
+
+2.	Risk Mitigation Strategy  
+
+After that, the risks for the project have been identified during the project. The appropriate risk mitigation and management strategy should follow to minimize the negative impact to the project. 
+<br><br>
+•	Regular project progress meetings and resource adjustments
 <br>
-The procurement risks for the D7 Auto service center booking, and reservation web-app project are the following: <br>
-*Vendor selection (Technical) risk 
-*Implementation (Business) risk 
-*Costing (Business) risk 
-*External environment (Security) risk 
-*User Adoption (Security) risk 
-
-2.	Risk Mitigation Strategy
+•	Cross-training team members and developing contingency plans.
 <br>
-After that, the risks for the project have been identified during the project. The appropriate risk mitigation and management strategy should follow to minimize the negative impact to the project. <br>
-
-*To guarantee the system fits the company’s needs, creating a vendor evaluation and selection process that involves due diligence, reference checks, and asking for demos or prototypes about their past projects. 
-
-*Creating and implementing a detailed project management strategy that includes clear periods, milestones, and risk mitigation methods to keep the project on track and within budget. 
-
-*To manage cost risks, conduct a thorough cost analysis, create a precise budget and contingency plan, secure fixed-price contracts, and track spending throughout the project. 
-
-*Monitor the project environment continuously, including external factors such as legislative changes or market conditions, and alter the project plan as appropriate. 
-
-*Set explicit data protection and privacy rules, invest in secure hosting and storage solutions, audit, and monitor systems for potential vulnerabilities on a regular basis, and ensure personnel is taught in data protection policies and procedures to manage technology infrastructure risks.<br>
-
-3.	Assignment of Responsibilities
+•	Implementing comprehensive user testing with QA and development teams
 <br>
-The implementation of the D7 auto service center booking, and reservation system requires a clear assignment of responsibilities to ensure the project is delivered on time, within budget, and to the desired quality standards. The project manager will be responsible for the project, including establishing a management plan, setting project timelines, and ensuring all stakeholders are informed and engaged throughout the project. While the rest of the project team will be responsible for ensuring the system meets the needs of the business and its customers, providing user training and support, and monitoring the system's performance to ensure it is functioning properly. <br>
+•	Implementing strict security measures and regular monitoring
+<br>
+•	Identifying alternative options for critical third-party software and maintaining communication with vendors
+<br>
+•	Conducting market research and adapting to the new market trends.
+<br>
+•	Developing a realistic budget and monitoring expenses
+<br>
+•	Promoting effective communication and addressing misunderstandings promptly
+<br><br>
+3.	Assignment of Responsibilities 
 
-4.	Communication and Reporting<br>
-For the successful completion of the project and the risk management of it, proper communication and reporting and needed. As the status updates of the project’s states will provide insight to the whole project team and makes them able to produce risk mitigation and risk management strategies.<br>
+The implementation of the D7 Auto Service Center Web-App requires a clear assignment of responsibilities to ensure the project is delivered on time, within budget, and to the desired quality standards.
+<br><br>
+ The project manager will be responsible for the project, including establishing a management plan, setting project timelines, and ensuring all stakeholders are informed and engaged throughout the project. While the rest of the project team will be responsible for ensuring the system meets the needs of the business and its customers, providing user training and support, and monitoring the system's performance to ensure it is functioning properly. 
+<br><br>
+4.	Communication
 
-A communication plan must be developed to ensure that that the parties involved in the project are informed about the project of any development that is happening in the procurement risk management or risk mitigation section of the project. <br>
+For the successful completion of the project and the risk management of it, proper communication and reporting is needed. As the status updates of the project’s states will provide insight to the whole project team and makes them able to produce risk mitigation and risk management strategies 
+<br><br>
+A communication plan must be developed to ensure that that the parties involved in the project are informed about the project of any development that is happening in the procurement risk management or risk mitigation section of the project. 
 
-5.	Continuous Improvement<br>
-The procurement risk management and risk mitigation process should be an ongoing process of the project always continuously ongoing and improving. New lessons from the previous procurement risk and risk management are learnt, documented, and shared with the project team to make sure that future procurement improves and benefits the project.<br>
+5.	Continuous Improvement 
+
+The procurement risk management plan emphasizes continuous improvement through regular review and assessment of risk mitigation strategies, learning from past experiences, monitoring the external environment for new risks, and adjusting the procurement management plan accordingly. A proactive risk management culture is cultivated to minimize potential risks and drive ongoing improvement. 
+<br><br>
+The adoption of an Agile Scrum methodology further enhances the procurement risk management process by enabling iterative and flexible development. Through collaborative Scrum meetings, the project team identifies and addresses risks, adjusts priorities, and implements timely mitigation strategies. This iterative approach ensures continuous evaluation and management of risks, enabling effective response to changing circumstances and successful procurement outcomes
+
 
 ==14.4 Cost Determination==
-Determining the cost of the D7 auto service center booking, and reservation system project necessitates considering several elements that influence the project's scope, complexity, and timing. Project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenditures are some of the cost aspects that must be considered when estimating the entire cost of the project. 
+Determining the cost of the D7 Auto Service Center Web-App necessitates considering several elements that influence the project's scope, complexity, and timing. Project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenditures are some of the cost aspects that must be considered when estimating the entire cost of the project. 
 
 Personnel costs, equipment expenditures, and software costs associated with project management are all included. Development expenses include software development, hardware, testing, and quality assurance, whereas integration costs include the cost of integrating the system with existing software or third-party applications. The cost of procuring hardware, software, and services required to design and implement the system is included in the procurement expenses. The cost of teaching personnel to operate the system efficiently is included in the training costs. 
 
 The cost of maintaining the system, including software updates, hardware maintenance, and user support, is included in maintenance and support costs. Contingency costs are funds set aside to cover unexpected events such as delays, scope changes, or new requirements. Finally, operating costs include the costs of running the system after it is operational, such as labor costs, licensing fees, and maintenance expenses. 
 
-The total cost for the D7 auto service booking, and reservation system project can be established by estimating the cost of each of these cost elements. The total cost establishes a baseline for budgeting, forecasting, and monitoring project spending throughout the project's lifecycle.<br>
+The total cost for the D7 Auto Service Center Web-App can be established by estimating the cost of each of these cost elements. The total cost establishes a baseline for budgeting, forecasting, and monitoring project spending throughout the project's lifecycle.
 
 ==14.5 Procurement Constraint==
-In the procurement of goods or services, various limitations and requirements must be satisfied – collectively referred to as procurement constraints. The D7 Auto Service Center Web-App is no exception and demands careful consideration of multiple such constraints. The following are the constraints that must be considered as part of the D7 Auto Service Center Web-App: <br>
+The D7 Auto Service Center Web-App is no exception and demands careful consideration of multiple such constraints. The following are the constraints that must be considered as part of the D7 Auto Service Center Web-App: 
+<br><br>
+•	Security – The web-app must adhere to strict security measures to safeguard sensitive customer data, prevent unauthorized access, and protect against cyber threats/attacks.
+<br>
+•	Business – The business objectives of the project must be considered when developing the system. This includes financial restraints, schedule restrictions, and market trends.
+<br>
+•	Technical - The D7 Auto Service Center Web-App must have the necessary features to allow the customers to book appointments, view available services, and receive confirmation of bookings. It also must have a user-friendly interface that can easily be navigated and must be accessible to customers that have various levels of technical proficiency
 
-<b>Schedule constraints:</b> Meeting the deadline for this project hinges on completing procurement activities within their allotted period. Procrastination or any untimely disruptions could significantly impact progress and potentially delay its overall finish.  <br>
+==14.6 Contract Approval Process==
+To ensure that all contracts are approved within the period of their urgency, the contract approval process for the D7 Auto Service Center project will be formal and informed immediately to the project sponsor. The procedure will follow the organization's policies and regulations as follows: 
+<br><br>
+Contract Planning: The project team will develop and construct the document that is necessary for the said project. 
+<br><br>
+Contract Development: Once approved by the team, the contract thereby proceeds to be delivered to the project sponsor for approval/revisions. 
+<br><br>
+Contract Approval: The contract would then be presented for approval to the project sponsor and project manager. 
+<br><br>
+Contract Management: Once the contract is signed, the project manager will align the project to the contract's constraints and agreements
 
-<b>Budget constraints:</b> To ensure that the project stays within its financial limitations, it is essential to strictly adhere to the set budget during procurement activities. This necessitates meticulous planning and implementation of cost-effective methods.  <br>
-
-<b>Technology constraints:</b> The D7 Auto Service Center Web-App must have the necessary features to allow the customers to book appointments, view available services, and receive confirmation of bookings. It also must have a user-friendly interface that can easily be navigated and must be accessible to customers that have various levels of technical proficiency.  <br>
-
-<b>Resource constraints</b> To ensure maximum efficacy and efficiency throughout the procurement process, it is crucial to consider available internal resources such as personnel, and expendable items that are crucial to provide the services needed. This is an integral part of any comprehensive approach to procurement management. <br>
-
-These constraints must be considered throughout the procurement process to ensure that the requirements of the D7 Auto Service Center Web-App are met within the project's timeline and budget constraints. <br>
-
-
-==14.6 Contract Appproval Process==
-To ensure that all contracts are approved in a timely and efficient manner, the contract approval process for the D7 Auto Service Center project will be formal and structured. The procedure will follow the organization's policies and procedures and will include the following steps:<br>
-
-<b>Contract Initiation:</b> The Project Manager will initiate the contract procurement process by submitting a request to the Procurement Officer throughout the Workday. <br>
-
-<b>Contract Planning: </b> The procurement officer will create a procurement plan that details the type of contract to be used, evaluation criteria, and procurement activity timelines. <br>
-
-<b>Contract Development:</b> Once the procurement plan has been approved, the procurement officer will create the contract documents, which will include the statement of work, pricing schedule, and terms and conditions. <br>
-
-<b>Contract Review:</b> The organization's legal department will review the contract to ensure that it is legally binding, fair, and meets all regulatory requirements. They would also make certain that the contract safeguards the organization's interests and mitigates any risks. <br>
-
-<b>Contract Approval:</b> The contract would be presented for approval to the project sponsor, project manager, and executive team, among others. Stakeholders would review the contract to determine its alignment with the organization's objectives, financial implications, and potential risks and benefits. Depending on the organization's approval process, stakeholders may be required to provide formal approval or sign off on the contract. <br>
-
-<b>Contract Execution:</b> The organization and the vendor would execute the contract once it had been approved. Signing the contract and exchanging any necessary documentation or information, such as payment details or implementation timelines, would be required. <br>
-
-<b>Contract Management:</b> Once the contract is signed, the project manager or procurement team will oversee the vendor's delivery of the D7 Auto Service Center Web-App in accordance with the agreed-upon terms and conditions. This may entail monitoring the vendor's performance and resolving any issues or disputes that may arise during the implementation process. <br>
-
- 
 ==14.7 Decision Criteria==
-For the D7 Auto Service Center Web-App, the following decision criteria will be used by the contract review board:<br>
+For the D7 Auto Service Center Web-App, the following decision criteria will be used by the contract review board: 
+<br><br>
+•	Business Needs - The system should be aligned with the organization's business needs, such as improving the customer experience, increasing operational efficiency, or increasing revenue. 
+<br>
+•	Pricing - The cost of the project’s implementation will be considered during the deployment process. 
+<br>
+•	Schedule - The team will be adhering to the scheduled delivery of end results of the project timeline and deliverables, which include the deliverables and documentation. 
+<br>
+•	Compliance - All legal, regulatory, and intellectual property rights, data privacy, and security, must be clearly stated, reviewed, and approved and undergo proper legal processes before implementation in the project.  
+<br>
+•	Technical Requirements - The system must meet the organization's technical requirements, such as compatibility with existing systems, security protocols, and compliance with relevant industry standards. 
+<br>
+•	Resource Availability - The project should have the necessary resources, such as staff, budget, or technology, to ensure its success
 
-*<b>Business Needs:</b> The system should be aligned with the organization's business needs, such as improving the customer experience, increasing operational efficiency, or increasing revenue. 
+==14.8 Performance Metrics for Procurement Activities==
+For the D7 Auto Service Center Web-App, the following performance metrics will be used for procurement activities: 
+<br><br>
 
-*<b>Pricing:</b> The cost of the vendor's proposed solution will be considered during the decision-making process. Based on market research and other proposals received, the vendor's pricing should be competitive and reasonable. 
-
-*<b>Schedule:</b> The vendor must demonstrate their ability to meet the project timeline and deliverables, which include key milestones and completion dates. 
-
-*<b>Risk Management:</b> The vendor must demonstrate a thorough understanding of potential risks and mitigation strategies. This includes identifying potential procurement and project risks. 
-
-*<b>Compliance:</b> All legal, regulatory, and contractual requirements, including intellectual property rights, data privacy, and security, must be met by the vendor. 
-
-*<b>Technical Requirements:</b> The system must meet the organization's technical requirements, such as compatibility with existing systems, security protocols, and compliance with relevant industry standards. 
-
-*<b>Resource Availability:</b> The project should have the necessary resources, such as staff, budget, or technology, to ensure its success. <br>
-
-
-==14.8 Desicion Metrics for Procurement Activities==
-For the D7 Auto Service Center Web-App, the following performance metrics will be used for procurement activities: <br>
-
-<b> 1.	Vendor Performance Rating:</b>
-
-The rating is determined by assigning scores to various criteria such as product or service quality, responsiveness, and communication. The total score can be averaged and converted to a rating scale of 1 to 5, with 5 being the best. 
-
-<b>2.	Procurement Cycle Time:</b>
+1.	Procurement Life Cycle Period: 
 
 The time it takes to complete the procurement process, beginning with identifying the need and ending with the issuance of a purchase order or contract. 
-
-<b>3.	Cost Variance:</b>
-
-This metric compares actual procurement costs to planned procurement costs. To compute, subtract the planned costs from the actual costs and divide the result by the planned costs. 
-
-<b>4.	Customer Satisfaction:</b>
-
-Customer satisfaction with the procurement process, including responsiveness, communication, and delivery of goods and services. 
-
-<b>5.	Contract Management:</b>
-The effectiveness of contract management activities such as contract renewals, amendments, and supplier performance monitoring. 
-
 <br>
-An organization can monitor the effectiveness of procurement activities for the auto service booking system project and identify areas for improvement to optimize the procurement process by tracking these performance metrics.
+
+2.	Cost Liquidation: 
+
+This metric will enable the breakdown of costs to see whether the project exceeded its approved budget. The liquidation will help in informing the actual costs over the planned costs. 
 <br>
+
+3.	Customer Satisfaction:  
+
+Customer satisfaction will also be a metric that will be of great reliability to see the project’s efficacy to its intended purpose
+
 
 =15. IMPLEMENTATION PLAN=
 ==15.1 Executive Summary==
@@ -1854,57 +1856,56 @@ The current state of the system is stable and is ready to be deployed and hosted
 
 To ensure a thorough understanding of the system, the new owners will receive all project deliverables, including technical documentation, user manuals, and source code. We will also provide new owners with knowledge transfer sessions covering system operations, maintenance, and troubleshooting. 
 
-To summarize, putting in place the D7 Auto Service Center Web-App causes careful planning, a skilled project team, and a rigorous development and testing process. D7 Auto Service Center can ensure that the system meets the needs of their customers, improves service efficiency and delivery, and supplies a positive return on investment by following a well-defined implementation plan.<br>
+To summarize, putting in place the D7 Auto Service Center Web-App causes careful planning, a skilled project team, and a rigorous development and testing process. D7 Auto Service Center can ensure that the system meets the needs of their customers, improves service efficiency and delivery, and supplies a positive return on investment by following a well-defined implementation plan.
 
 ==15.2 Transition Summary==
 <b>Overall Approach: </b>
 
 Because there is a need for continuity and minimal disruption to ongoing operations, the transition-out plan for the D7 Auto Service Center Web-App will be a phased transition approach. This method enables the gradual and systematic transfer of knowledge, resources, and accountability to be transferred to the new team, reducing the risk of downtime and service interruption. 
 
-<b>The transition approach will include the following steps: </b>
-
-<b>Assessment and Communication: </b> The assessment will ensure that all gaps and inefficiencies in the system have been found. This also means that all stakeholders are aware of the transition plan, timelines, and expectations for the transition. 
-
-<b>Planning: </b> The planning stage is to develop a detailed transition plan. This includes deciding the implementation's overall progress, milestones, and timelines. It is also critical to find potential risks and mitigation strategies to avoid problems during the transition. 
-
-<b>Knowledge Transfer: </b> Knowledge transfer will take place through various channels, including documentation and instruction manuals, to ensure the client has the skills and knowledge needed to support the system. 
-
-<b>Staffing: </b> During the transition, the project team's staff will be reduced to the bare minimum needed to support knowledge transfer and transition activities. 
-
-<b>Evaluation: </b> The evaluation stage is to evaluate the success of the transition. This includes deciding how well the system is performing, finding any issues or challenges that must be addressed, and ensuring that the system is supplying the expected benefits. 
-
-<b>Timeline: </b> This project's transition-out plan includes a schedule of activities needed to successfully transition from the project team to the client. The transition plan is divided into two parts: execution and closeout. 
-
+The transition approach for the D7 Auto Service Center Web-App project will include the following steps: 
+<br><br>
+Assessment and Communication: The assessment will ensure that all gaps and inefficiencies in the system have been found. This also means that all stakeholders are informed of the transition plan that will occur, as well as the schedules for the transition.
+<br><br>
+Planning: The planning stage is to develop a detailed transition plan. This includes deciding the implementation's overall progress, milestones, and timelines. It is also critical to find potential risks and mitigation strategies to avoid problems in the future.
+<br><br>
+Knowledge Transfer: Knowledge transfer will take place through various channels, including documentation and the planned demonstration of the project use, to ensure that the client will acquire the proper skills and knowledge needed to operate the project. 
+<br><br>
+Staffing: The project team's staff will be identified to determine the need regarding the staff for the project. 
+<br><br>
+Evaluation: The evaluation part of the transition will be deemed necessary to evaluate the project’s transition success and the insights upon transition. 
+<br><br>
 The execution phase includes the distribution of required documentation, user manuals, and orientation. Document updates, update files and records, gain formal acceptance, archive files and documents, and hold a project closeout meeting during the closeout phase. 
-
+<br><br>
 The timeline includes a schedule for each activity to ensure that all transition activities are completed on time. The transition plan's success will be decided by the careful planning and execution of each activity as outlined in the timeline.<br>
 
 <b>Assumptions: </b><br>
 
-The following assumptions will be made for the transition approach: <br>
+The following assumptions are assumed for the transition: 
+<br><br>
+a.	The client will provide availability online or onsite for meetings, consultations, and signing documents, and the project's transition.
+ <br>
+b.	Documentation, demonstration, and proper turnover will be supplied by the development team to its client and sponsor accordingly. 
+<br>
+c.	The project team will be provided with a budget from the project’s creation until its turnover as needed, and within the approved budget constraints. 
+<br>
+d.	The client will be knowledgeable of operating and managing the project as demonstration and manual instructions will be provided during the project turnover.
 
-*a.	The client will be available onsite or via online meeting to take part in the transition and receive knowledge transfer.
-*b.	The project team will supply all necessary documentation, training, and instruction manuals to the client to ease knowledge transfer. 
-*c.	The project team will have the necessary resources and equipment to supply support to the client in keeping and managing the system.
-*d.	The client will have the necessary skills and knowledge to support the system after the transition.===
 <br>
 
 ==15.3 Transition Team Organization==
 
-<b>Roles and Responsibilities: </b>
-
-<b>Project Manager:</b> Overall accountable for the transition's success. The project manager will manage the transition team, ensure that transition activities are completed on time, coordinate with the customer, and ensure that the transition plan is followed. 
-
-<b>Product Owner:</b> Ensures that the project’s features and other necessary components pass the success criteria of the project while supporting communication to both the project teams and the project manager. 
-
-<b>Development Team:</b> In charge of supplying technical ability for the project. The Developers will collaborate closely with the project team to understand the system and develop a transition plan. The developers will also oversee coordination with the client to ensure that technical knowledge and ability are transferred smoothly. 
-
-<b>Documentation Team:</b> In charge of keeping all paperwork and pertinent meetings well documented and recorded. This team will also handle weekly reports, and status reports and organize the minutes of the meetings. 
-
-<b>Project Sponsor:</b> The project sponsor handles approving all changes to the budget/funding allocations, approving all changes to the schedule baseline, and approving any changes in project scope, as well as signing the project charter for the D7 Auto Service Center web-app project. 
-
-<b>Project Team Members:</b> Responsible for supplying system support through knowledge and ability. They will collaborate closely with the Project Manager, developers, and team members to ensure that knowledge and ability are transferred smoothly.
+Roles and Responsibilities: 
+<br><br>
+Project Manager: Overall accountable for the transition's success. The project manager will oversee the transition, ensure that transition activities are completed on time, and stay connected with the project sponsor for updates. 
 <br>
+Product Owner: Ensures that the project’s features and other necessary components pass the success criteria of the project while supporting communication to both the project teams and the project manager. 
+<br>
+Development Team: In charge of supplying technical ability for the project. The Developers will collaborate closely with the project team to understand the system and develop a transition plan. The developers will also oversee coordination with the client to ensure that technical knowledge and ability are transferred smoothly. 
+<br>
+Documentation Team: In charge of keeping all paperwork and pertinent meetings well documented and recorded. This team will also handle weekly reports, and status reports and organize the minutes of the meetings. 
+<br>
+Project Sponsor: The project sponsor handles approving all changes to the budget/funding allocations, approving all changes to the schedule baseline, and approving any changes in project scope, as well as signing the project charter for the D7 Auto Service Center web-app project.
 
 =16. SYSTEM REQUIREMENTS SPECIFICATION=
 ==16.1 System Requirements for Development==
