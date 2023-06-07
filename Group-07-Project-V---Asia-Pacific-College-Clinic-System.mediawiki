@@ -223,19 +223,19 @@ The system project aligns with this goal by digitizing processes that the clinic
 The project aligns with this goal by improving the experience of patients in terms of quality and time spent queueing to the clinic which will help minimize queues and maximize the quality of services. With this, the project will continue to satisfy the patients of APC’s clinic.
 </p>
 
-==COST BENEFIT ANALYSIS==
+==Cost Benefit Analysis==
 
 ==Alternatives Analysis==
 <p>An alternative analysis for E-Cliniq system for Asia Pacific College’s clinic include the following options:</p>
-<p><b>Option 1: Do nothing (status quo)</b>
-<bt>
+<p><b>Option 1: Do nothing (status quo)</b></p>
 <p>In this option, the school would continue to use the traditional system of keeping physical copies of medical records in filing cabinets, have patients walk in regularly, and do inventory manually.
 <br><br>
-Pros: No upfront costs or disruption to existing processes and systems.
+<b>Pros:</b> No upfront costs or disruption to existing processes and systems.
 <br><br>
-Cons: Potential for ongoing challenges related to the current manual process, including difficulties, and long searching times for specific health records, long queues in the clinic and long times in processing the inventory of the clinic which causes delays and inaccuracy. These issues could result in inefficiency.
+<b>Cons:</b> Potential for ongoing challenges related to the current manual process, including difficulties, and long searching times for specific health records, long queues in the clinic and long times in processing the inventory of the clinic which causes delays and inaccuracy. These issues could result in inefficiency.
 </p>
-
+==Approvals==
+<p>The project approval should come from the project sponsor and key stakeholder – Mr. Jojo F. Castillo, the Clinic head of Asia Pacific College.</p>
 
 =Project Charter Plan=
 ==Executive Summary==
@@ -348,7 +348,7 @@ Overall, the business case for the upgrade to the health record system is strong
       </tr>
       </tbody>
 </table>
-<h2>Summary Budget</h2>
+==Summary Budget==
 
 ==Project Approval Requirements==
 <p>The requirements for the project entail that the objectives and client pain points be solved during the implementation of the project, these would be:</p>
@@ -362,9 +362,11 @@ Overall, the business case for the upgrade to the health record system is strong
 <p>Our Project Manager is Kurt Jordan Cadenas who oversees the administrative functions of the group. </p>
 
 
-=Stakeholder Strategy Management Plan=
-<h2>Introduction</h2>
+=Stakeholder Management Strategy=
+
+==Introduction==
 <p>This Stakeholder Management Plan aims to provide a comprehensive and practical framework for effectively managing the E-Cliniq project's stakeholders. The implementation of E-Cliniq is dependent on the cooperation and support of all stakeholders involved. Stakeholder management is an integral part of the project management process, and identifying, analyzing, and prioritizing stakeholders is essential for project success.</p>
+
 <p>The objective of the E-Cliniq Stakeholder Management Plan is to ensure that all stakeholders are identified, engaged, and effectively managed throughout the project lifecycle. These are the objectives of this plan:</p>
 <ul>
 	<li>Identify all stakeholders involved in or affected by the E-Cliniq project and assess their level of interest, influence, and impact.</li>
@@ -372,47 +374,41 @@ Overall, the business case for the upgrade to the health record system is strong
 	<li>To develop and implement a plan for stakeholder engagement that will guarantee the support and buy-in of all stakeholders.</li>
 	<li>Anticipate and effectively manage any stakeholder resistance, conflict, or competing objectives.</li>
 	<li>To monitor and evaluate stakeholder engagement throughout the project lifecycle and make any necessary adjustments to guarantee project success.</li>
-<ul>
-<p>Effective stakeholder management can yield numerous benefits for the E-Cliniq project, including improved project outcomes, decreased risks, increased stakeholder satisfaction, and an enhanced reputation.</p>
-
-<h2>Identify Stakeholders</h2>
-<p>Identification of every stakeholder who will be reached by the project is essential. Stakeholder identification, according to the IEEE Standards Association (2019), is the process of identifying all people or organizations who will be impacted by the project or have the potential to influence its result. The ability to manage stakeholder expectations, reduce negative effects, and secure stakeholder buy-in is why effective stakeholder identification is essential to project success. To identify stakeholders, apply the technique below:</p>
-<ul>
-	<li>
-		Stakeholder Mapping: This method entails identifying stakeholders, comprehending their requirements, interests, and concerns, and mapping them according to their level of involvement and impact with the project. You can carry out this process by:
-		<ol>
-			<li>
-				Creating a stakeholder list: This entails compiling a list of all prospective stakeholders, both internal and external, who may be influenced by the project.
-			</li>
-
-			<li>
-				Stakeholder analysis: This entails determining the stakeholders' level of interest, influence, and impact on the project's success. An interest-power grid or stakeholder matrix can be used to conduct the study.
-			</li>
-				
-			<li>
-				Prioritizing stakeholders: In this step, stakeholders are ranked according to their level of involvement, interest in the project, and possible effect on its outcome.
-			</li>
-		</ol>
-	</li>
-	<li>
-	Engagement of Stakeholders
-		<ol>
-			<li>
-				Creating a stakeholder engagement strategy that describes how the project team will interact with each stakeholder, what information they will share, and how they will manage stakeholder expectations.
-			</li>
-
-			<li>
-				Creating communication channels that includes developing ways for the project team to efficiently communicate with stakeholders.
-			</li>
-				
-			<li>
-				Maintaining stakeholder involvement entails being in touch with stakeholders throughout the course of the project, giving them regular updates, and attending to any issues they might have.
-			</li>
-		</ol>
-	</li>
 </ul>
 
-<h2>Key Stakeholders</h2>
+<p>Effective stakeholder management can yield numerous benefits for the E-Cliniq project, including improved project outcomes, decreased risks, increased stakeholder satisfaction, and an enhanced reputation.</p>
+
+==Identify Stakeholders==
+<p>Identification of every stakeholder who will be reached by the project is essential. Stakeholder identification, according to the IEEE Standards Association (2019), is the process of identifying all people or organizations who will be impacted by the project or have the potential to influence its result. The ability to manage stakeholder expectations, reduce negative effects, and secure stakeholder buy-in is why effective stakeholder identification is essential to project success. To identify stakeholders, apply the technique below:</p>
+<ol>
+	<li>Stakeholder Mapping: This method entails identifying stakeholders, comprehending their requirements, interests, and concerns, and mapping them according to their level of involvement and impact with the project. You can carry out this process by:
+		<ul>
+			<li>Creating a stakeholder list: This entails compiling a list of all prospective stakeholders, both internal and external, who may be influenced by the project.
+			</li>
+
+			<li>Stakeholder analysis: This entails determining the stakeholders' level of interest, influence, and impact on the project's success. An interest-power grid or stakeholder matrix can be used to conduct the study.
+			</li>
+				
+			<li>Prioritizing stakeholders: In this step, stakeholders are ranked according to their level of involvement, interest in the project, and possible effect on its outcome.
+			</li>
+		</ul>
+	</li>
+	<li>
+	Engagement of StakeholdersAfter the stakeholders have been identified, the following step is to involve them in all phases of the project. This entails:
+		<ul>
+			<li>Creating a stakeholder engagement strategy that describes how the project team will interact with each stakeholder, what information they will share, and how they will manage stakeholder expectations.
+			</li>
+
+			<li>Creating communication channels that includes developing ways for the project team to efficiently communicate with stakeholders.
+			</li>
+				
+			<li>Maintaining stakeholder involvement entails being in touch with stakeholders throughout the course of the project, giving them regular updates, and attending to any issues they might have.
+			</li>
+		</ul>
+	</li>
+</ol>
+
+==Key Stakeholders==
 <table>
 <tbody>
 <tr>
@@ -467,7 +463,7 @@ Overall, the business case for the upgrade to the health record system is strong
 </tbody>
 </table>
 
-<h2>Stakeholder Analysis</h2>
+==Stakeholder Analysis==
 <table>
 <tbody>
 <tr>
@@ -514,11 +510,8 @@ Overall, the business case for the upgrade to the health record system is strong
 </tr>
 </tbody>
 </table>
-<h2><em></em>Stakeholder Interviews</h2>
 
-<h2>Plan Stakeholder Management</h2>
-
-<h2>Stakeholder Engagement</h2>
+==Stakeholder Engagement==
 
 <table border="1" width="70%" align="center">
 		<tr>
@@ -625,978 +618,594 @@ Overall, the business case for the upgrade to the health record system is strong
 <p><strong>Stakeholder Engagement Assessment Matrix.  </strong>List stakeholders and place a “C” for their current level of engagement and “D” in the column of their desired level of engagement.</p>
 
 
-<h2>Manage Stakeholder Engagement</h2>
-
-<h2>Monitor Stakeholder Engagement</h2>
-
-
-<h2>Stakeholder Plan Updates</h2>
-
-
 
 =Scope Management Plan=
 
 
-<h2>Introduction</h2>
+==Introduction==
+<p>The Scope Management Plan for E-Cliniq is an essential component of the project that defines the project's objectives, deliverables, and constraints; it will be updated throughout the project to ensure clear communication and scope management. The project team will collaborate closely with project stakeholders to assure delivery success that is in line with the project's scope and limitations.</p>
 
+<p><b>Scope Definition:</b>The scope of the E-Cliniq will be defined through the following activities:</p>
+<ol>
+  <li><b>Requirements gathering: </b>The project team will collect and record system requirements using a number of methodologies, including user interviews and group discussions.</li>
+  <li><b>User Stories:</b> The project team will construct user stories that outline the system's functionality from the end user's perspective. These user stories will be prioritized according to their business importance and used to direct the development process.</li>
+  <li><b>Scope statement:</b>Inputs such as user stories and requirements will be used to draft the scope statement. The deliverables, exclusions, and limits of the project will all be outlined in this document.</li>
+  <li><b>Scope baseline:</b>Incorporating the scope statement and the user stories into a project management plan will provide the scope baseline. It will be continually revised as the project develops to account for new requirements.</li>
+</ol>
 
-<h2>Scope Management Approach</h2>
+<p><b>Scope Documentation:</b> The scope of the E-Cliniq will be documented in the following ways:<p>
+<ol>
+  <li><b>Requirements documentation:</b>A requirements specification document will be created to record the system's needs.</li>
+  <li><b>Project management plan:</b> Everything that needs to be known about the project's scope will be included in the project management plan, from the scope statement to the scope baseline and beyond.</li>
+</ol> 
 
-<h2>Roles and Responsibilities </h2>
+<p><b>Scope Control:</b> A requirements specification document will be created to record the system's needs.</p>
+<ol>
+  <li><b>Scope verification:</b> The project team will employ agile testing methods to ensure the project's final products are up to par with the project's stated goals and objectives.</li>
+  <li><b>Scope change control:</b> A thorough change control process will be implemented to oversee any alterations to the project's scope, and its effects on time, money, and quality will be evaluated.</li>
+  <li><b>Scope change review:</b> Every requested shift from the project's original scope will be subject to a review to determine whether or not it is essential, achievable, and in line with the project's goals.</li>
+</ol>
 
-<table border="1" width="70%" align="center">
-		<tr>
-			<td bgcolor="lightblue">
-				<p><strong> Role </strong></p>
-			</td>
-			<td bgcolor="lightblue">
-				<p><strong> Responsibility </strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Project Client </em></p>
-			</td>
-			<td>
-				<p><em> Approves Scope Management Plan. </em></p>
-				<p><em> Provides high-level scope definition (Project Charter). </em></p>
-				<p><em> Reviews escalated scope issues and provide direction for resolution. </em></p>
-				<p><em> Approves major scope change requests. </em></p>
-				<p><em> Overall decision-making responsibility for Scope Management activities. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Project Manager </em></p>
-			</td>
-			<td>
-				<p><em> Overall responsibility for scope management. </em></p>
-				<p><em> Oversees the development of the Scope Management Plan. </em></p>
-				<p><em> Oversees the scope change management process. </em></p>
-				<p><em> Approves scope change requests within his/her authority. </em></p>
-				<p><em> Escalates scope and change issues. </em></p>
-				<p><em> Ensures that scope changes are incorporated into appropriate project documents </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Project Team Members and Subject Matter Experts (SMEs) </em></p>
-			</td>
-			<td>
-				<p><em> Help develop the project scope statement. </em></p>
-				<p><em> Submit scope change requests. </em></p>
-				<p><em> Review Scope Change requests when assigned. </em></p>
-				<p><em> Provide feedback as and when required. </em></p>
-				<p><em> Participate in team-level scope change reviews. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Independent Verification and Validation (IV and V) </em></p>
-				<p><em> Project Adviser </em></p>
-			</td>
-			<td>
-				<p><em> Provides an ongoing independent review and analysis of project scope management practices. </em></p>
-				<p><em> Monitors scope changes and provide feedback. </em></p>
-				<p><em> Approves major scope change requests. </em></p>
-				<p><em> Approval of all documentation throughout the project. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Stakeholders </em></p>
-			</td>
-			<td>
-				<p><em> Key providers of requirements, scope, and the recipients of project deliverables associated with the project benefits. Most of the project deliverables will based on their operations in the business and enhancing their business operations and environment. </em></p>
-			</td>
-		</tr>
-</table>
-<h2> Scope Definition </h2>
+==Scope Management Approach==
+<ol>
+  <li>John Angel Manahan, the project manager, will be given the authority and responsibility for scope management. He will collaborate closely with Jojo Castillo, the project sponsor, and other important stakeholders to define and manage the project's scope.</li>
+  <li>A detailed Statement of Work (SOW), Work Breakdown Structure (WBS), and Scope Statement will be created to describe the project's scope. Before work starts, the project sponsor and other stakeholders will review and approve these documents, which will clearly explain the project deliverables, tasks, and requirements.</li>
+  <li>The project's scope will be assessed and confirmed using quality checklists, measures of worker performance, and routine comparisons of project development with the baseline scope. The scope change process will be used to identify and remedy any deviations from the scope baseline.</li>
+  <li>For the E-Cliniq project, the scope change procedure entails the Project Manager submitting a scope change request, with the project sponsor giving final approval. Any alterations to the project's scope must be thoroughly assessed to make sure they are in line with its objectives and aims and won't have a detrimental effect on the project's budget or timeline.</li>
+  <li>The project sponsor and other important stakeholders will accept and approve the final deliverables, and the project manager oversees making sure that all project requirements have been satisfied. Once all deliverables have been accepted and any outstanding problems have been fixed, the project will be declared to have been successfully completed.</li>
+</ol>
 
+==Roles and Responsibilities==
+<p>The following roles and responsibilities have been assigned in relation to scope management:</p>
+<ol>
+  <li><b>Project Manager:</b> The scope of the project must be established and documented, and any changes to the scope must be controlled and approved by the project manager.</li>
+  <li><b>Product owner:</b> The product owner oversees illustrating the stakeholders' demands and objectives and making sure the project adds value to the company.</li>
+<li><b>Project Team:</b> The project team oversees confirming the project's scope and, if necessary, submitting change requests.</li>
+  <li><b>Stakeholders:</b> Stakeholders are in charge of offering feedback on the project's requirements and scope and of authorizing changes to that scope as necessary.</li>
+</ol>
 
-<h2> Project Scope Statement </h2>
-<ul>
-	<li>The Just-In-Time Website overall includes the design, functionality, and testing of the project for an E-Commerce Website. Additionality, will automate the transaction between the Customer to Distributor, and Distributor to Logistics. the payment gateway will be required to be implemented for the transaction to materialized into data entry while all the operations is processing in the background the effects of the automation of the transaction leads to reducing of inventory cost of the company.</li>
-	<li>The Just-In-Time Website will also include Analytics for the Marketing and Sales of the company to provide better business decisions in the company. Due to the time constraint of three months of planning, analysis, and development the project is forced to reduce the amount of work per sprint.</li>
-	<li>The project team and client agreed upon on the requirements of the website to be at the prototype stage with the agreed modules implement to the website which are the automation and the sales report analytics as well as the common functionality of an E-Commerce Website which are Shopping Cart, User Authentication, and Order Item. Better Designs can be implemented in other iteration of the project.</li>
-	<li>This project does not include ongoing operations and maintenance cost of the website since the development team can benefit from the student development tools sponsored by their respective colleges.</li>
-	<li>Bank-to-Bank method of payment gateway the project team and client agreed to avoid the work since the module requires the project team to apply credit cards transaction.</li>
-	<li>The project is not to exceed 180 days in duration, on the days of development will only use development tools, Environment, and equipment available to us. Assumptions for this project are that support will be provided by the project client, adviser, and all department managers and that information, data, as well as adequate resources are available for the successful completion of this project.</li>
-</ul>
-<h2> Work Breakdown Structure </h2>
+==Scope Definition==
+<p>The scope of this project includes the development of a single system that combines the functionality of patient record management, appointment scheduling, and inventory management to be used by the APC Clinic. This system will include features such operating hour that can prevent any appointments from being set during non-operating hours, notification system for appointment cancellations, and reporting feature for appointment and inventory.
+<br><br>
+The system will also include an improved record management process to enhance the efficiency and effectiveness of the Clinic.
+</p>
 
-<h2> Scope Verification </h2>
+==Project Scope Statement==
+<p>The E-Cliniq project's deliverables and the labor required to produce them are described in the project scope statement.</p>
 
-<table border="1" width="70%" align="center">
-		<tr>
-			<td bgcolor="lightblue">
-				<p>Inputs</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>In Scope</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Out</p>
-				<p>Scope</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Date</p>
-			</td>
-			<td bgcolor="lightblue">
-				<p>Outputs</p>
-			</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-</table>
-<h2> Scope Control </h2>
+<p><b>Product Scope Description:</b></p>
+<p>The E-Cliniq system will be a web-based tool that allows clinic nurse to manage patient records, appointments, and inventory. It also allows users to see their personal records in the clinic, schedule their own appointments, and receive notifications regarding their appointment. This system will include features such as digitized patient records, setting operating hours, and report generation.</p>
 
+<p><b>Product Acceptance Criteria:</b></p>
+<p>The E-Cliniq will be considered complete and accepted by the customer when it meets the following criteria:</p>
+<ol>
+  <li>All features and functionalities specified in the project scope statement have been developed and tested using the test cases created by the Quality Assurance Team.</li>
+  <li>The system has been successfully deployed within the Asia Pacific College environment.</li>
+  <li>The system has received positive feedback from users during UTA phase.</li>
+  <li>The system has been thoroughly documented and user manuals have been created.</li>
+</ol>
 
-<h2> Scope Change </h2>
+<p><b>Project Deliverables</b></p>
+<p>The following deliverables are as follows:</p>
+<ol>
+  <li>A fully functional scheduling system which can accommodate the number of patients mentioned in the project objectives.</li>
+  <li>Electronically accessible health records that can be retrieved by authorized staff.</li>
+  <li>Report generation based on the criteria requested based on appointments and inventory</li>
+  <li>Complete documentation created during the process.</li>
+</ol>
 
+<p><b>Project Constraints-</b>The application shall provide analytics with basic insights on the clinic services. The developers will not complete data input for all existing health records during the implementation of the project, this task would befall on the clinic staff as they have administrative privileges when it comes to managing sensitive health records of the students. Medical staff, such as dentists and doctors, outside the school would require approval from one of the personnel in the clinic to access the students’ health records for privacy reasons.</p>
 
+<p><b>Project Assumptions-</b> A list of assumptions for the project:</p>
+<ol>
+   <li>The project team will have access to the necessary hardware and software to implement the new health record system.</li>
+   <li>The project will be completed within the allotted time frame, with no major delays or unforeseen issues.</li>
+   <li>The new system will be compliant with relevant standards for health record keeping and privacy.</li>
+   <li>The end-users will be receptive to the new system and will receive sufficient help to be able to use it effectively.</li>
+   <li>The project will not require major changes to existing business processes or workflows.</li>
+   <li>The project team will be able to effectively communicate with the clinic staff throughout the project lifecycle to ensure project success.</li>
+</ol>
+
+==Work Breakdown Structure==
+
+==Scope Verification==
+<p>The project team will use various techniques for scope verification to guarantee that the E-Cliniq project deliverables satisfy the original scope. These methods include:</p>
+<ol>
+  <li><b>Quality Checklist:</b> 
+    <ul><li>Quality checklists are tools used to ensure that the project deliverables meet the predefined quality standards. It can be used to verify that the software features are functioning as expected and that they meet the stakeholders' requirements.</li></ul>
+</li>
+  <li><b>Work Performance Measurements:</b>
+    <ul><li>Work performance measurements are used to track the progress of the project against the project plan and performance metrics. It can be used to verify that the project is progressing as planned, and that the project deliverables are being completed according to schedule.</li></ul>
+</li>
+  <li><b>Scope Baseline:</b>
+    <ul><li>The scope baseline is a document that contains the approved project scope statement, the WBS, and the WBS dictionary. The project team can use it as a reference point to verify that the project deliverables are in line with the project scope statement.</li></ul>
+</li>
+  <li><b>Formal Acceptance:</b> 
+    <ul><li>Formal acceptance is the final stage of project scope verification, where the stakeholders formally accept the project deliverables as meeting the project requirements and objectives. This can be achieved through a series of tests and demonstrations that verify that the software features meet the stakeholders' requirements and expectations.</li></ul>
+</li>
+</ol>
+
+==Scope Control==
+<p>Scope control is an essential part of project management that involves monitoring and controlling the project's scope to ensure that it remains within the defined parameters. To effectively control the project's scope, it is crucial to have a change control process that outlines the procedures for making changes to the scope baseline. The following is a comprehensive scope control plan that details the change process for making changes to the scope baseline for the E-Cliniq project:</p>
+<ol>
+    <li><b>Scope Change Request:</b>
+      <ul>
+        <li>The first step in the change process is to identify the need for a scope change and document it in a scope change request.</li>
+        <li>The scope change request should include a detailed description of the change, its impact on the project, and the reason for the change.</li>
+      </ul>
+    </li>
+
+    <li><b>Scope Change Evaluation:</b>
+      <ul>
+        <li>Once a scope change request has been submitted, the project team should evaluate the change request to determine its impact on the project.</li>
+        <li>The evaluation should consider the impact on the project's objectives, schedule, budget, resources, and quality.</li>
+      </ul>
+    </li>
+
+    <li><b>Scope Change Approval:</b>
+      <ul>
+        <li>If the scope change is deemed necessary and feasible, the project team should seek approval from the project sponsor or steering committee.</li>
+        <li>The approval should be documented in writing, including the approved change and any associated modifications to the project plan or baseline.</li>
+      </ul>
+    </li>
+
+    <li><b>Scope Change Implementation:</b>
+      <ul>
+        <li>Once the scope change has been approved, the project team should implement the change and update the project plan and baseline accordingly.</li>
+        <li>The implementation should be done in a controlled and coordinated manner to ensure that the project objectives and constraints are not compromised.</li>
+      </ul>
+    </li>
+
+    <li><b>Scope Change Communication:</b>
+      <ul>
+        <li>Throughout the change process, it is crucial to communicate any scope changes and their impacts to all stakeholders.</li>
+        <li>The communication should include the reasons for the change, the approved change, and any modifications to the project plan or baseline.</li>
+      </ul>
+    </li>
+
+    <li><b>Scope Change Documentation:</b>
+      <ul>
+        <li>Finally, all scope changes should be documented in a change log, including the scope change request, evaluation, approval, implementation, and communication.</li>
+        <li>The change log should be updated regularly and be available for review by stakeholders to ensure transparency and accountability.</li>
+      </ul>
+    </li>
+  </ol>
 
 =Cost Management Plan=
 
-<h2>Introduction</h2>
+==Introduction==
+<p>As healthcare continues to evolve, the implementation of the E-Cliniq system has become essential for Asia Pacific College’s clinic. E-Cliniq is a system where a digital version of a patient's medical record can be accessed and updated in real-time by authorized personnel of the clinic. The use of the E-Cliniq system in a school clinic can significantly improve the quality of health care provided to students and school staff, medicine inventory management, setting and managing appointments. <br><br>
+This cost management plan will outline the various costs associated with implementing the E-Cliniq system to the school clinic, including hardware and software expenses, training and support costs, and ongoing maintenance and upgrades. By following this cost management plan, the school clinic can successfully implement the E-Cliniq system and provide high-quality healthcare services to their students.</p>
 
-<h2>Cost Management Approach</h2>
-
-
-<h2>Measuring Project Costs</h2>
-<p>            The Earned Value Management will be used in evaluating the performance of the Project. The following Earned Value metrics that will be used to evaluate the project’s cost performance are as follows:</p>
+<p>
+<b>Cost management responsibilities:</b>
 <ul>
-	<li>Schedule Variance (SV)</li>
-	<li>Cost Variance (CV)</li>
-	<li>Schedule Performance Index (SPI)</li>
-	<li>Cost Performance Index (CPI)</li>
+  <li>The Project Sponsor will be responsible for cost management of the project and will be the primary point of contact for all cost-related issues.</li>
+  <li>The Project Manager will be responsible for monitoring project costs and ensuring that they are within the approved budget.</li>
 </ul>
 
-<table width="804" border="1" align="center">
-		<tr>
-			<td width="258" bgcolor="lightblue">
-				<p>Performance Measure</p>
-			</td>
-			<td width="312" bgcolor="lightblue">
-				<p>Acceptance Level</p>
-			</td>
-			<td width="234" bgcolor="lightblue">
-				<p>Critical Level</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="258">
-				<p>Schedule Performance Index (SPI)</p>
-			</td>
-			<td width="312">
-				<p>Between 0.9 and 0.8 or Between 1.1 and 1.2</p>
-			</td>
-			<td width="234">
-				<p>Less Than 0.8 or Greater than 1.2</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="258">
-				<p>Cost Performance Index (CPI)</p>
-			</td>
-			<td width="312">
-				<p>Between 0.9 and 0.8 or Between 1.1 and 1.2</p>
-			</td>
-			<td width="234">
-				<p>Less Than 0.8 or Greater than 1.2</p>
-			</td>
-		</tr>
-</table>
-<h2>Reporting Format</h2>
+<b>Cost change Approval:</b>
+<ul><li>All cost changes must be approved by the Project Sponsor before they are implemented.</li></ul>
 
-<h2>Cost Variance Response Process</h2>
+<b>Budget format and standards:</b>
+<ul>
+<li>The budget will be presented in a clear concise format using an Excel spreadsheet.</li>
+<li>The budget will be broken down into individual line items with detailed cost estimates for each item.</li>
+</ul>
 
-<h2>Cost Change Control Process</h2>
+</p>
 
-<p><strong>Project Budget</strong></p>
-<p>            The budget for this project is detailed below.  Costs for this project are presented in various categories...</p>
-<p> </p>
+==Cost Management Approach==
+<p>The cost management approach for the E-Cliniq will be based on the following principles:
+</p>
+<br>
+<p>
+a.	Clear definition of costs:
+-	The project team will work closely with the stakeholders to carefully take notes of the project's costs, including hardware, labor, and hosting expenses..
+<br>
+<br>
+b.	Cost estimates:
+-	The project developers will use cost estimation techniques to ensure the project budget is accurate and realistic using bottom-up estimation.
+<br>
+<br>
+c.	Cost management roles and responsibilities:
+-	Clear roles and responsibilities for cost management will be defined and communicated to all project team members.
+<br>
+<br>
+d.	Approval process for changes:
+-	A formal process for approving changes in the project or the budget for the project will be established and implemented. Details are discussed in the Cost Change Control Process section.
+<br>
+<br>
+e.	Reporting and communication:
+-	Regular cost reports will be prepared and shared with stakeholders including the project sponsor, team, and management. Details are discussed in the Reporting Format section.
+</p>
+
+<p>By practicing these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
+
+==Measuring Project Costs==
+<p>The Cost Management Plan for the E-Cliniq System project will include a detailed approach for measuring project costs using Earned Value Management (EVM) (citation needed). This will involve capturing and reporting on various Earned Value metrics, such as:
+</p>
+<p>
+1. Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) – This will measure the budgeted costs of the work that was planned to be completed at a specific point in time.
+</p>
+
+<p>
+Example:<br>
+
+To calculate the BCWS or Planned Value, we need to multiply the total labor cost of the TESTING WBS by its percentage of completion:
+
+BCWS = Total labor cost of TESTING WBS x Percentage of completion
+
+= (PHP 300,000) x 33.71%
+
+= PHP 101,130
+
+Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 101,130.
+</p>
+
+<p>
+2. Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) - This will measure the budgeted costs of the work that has been completed at a specific point in time.
+</p>
+
+<p>
+Example:<br>
+To calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV), we need to know the percentage of work completed for each task or WBS element.  
+<br><br>
+Assuming that the percentage of completion for each of the Testing Phase tasks are as follows:
+<br>
+
+<ul>
+<li>Week 26: Testing Phase 1 - 100%</li>
+<li>Week 27: Testing Phase 2 - 75%</li>
+<li>Week 28: Testing Phase 3 - 50%</li>
+<li>Week 29: Testing Phase 4 - 25%</li>
+</ul>
+<p>
+Then, we can calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) as follows:<br><br>
+EV = BCWS x % of work completed<br>
+EV = (₱300,000 x 33.71%) + (₱75,000 x 8.43% x 0.75) + (₱75,000 x 8.43% x 0.50) + (₱75,000 x 8.43% x 0.25)<br>
+EV = ₱101,130 + ₱4,732.50 + ₱3,155 + ₱1,577.50<br>
+EV = ₱110,595<br><br>
+</p>
+<p>
+Therefore, the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) is ₱110,595.
+</p>
+
+<p>
+3. Actual Cost of Work Performed (ACWP) or Actual Cost (AC) - This will measure the actual costs incurred for the work that has been completed at a specific point in time.
+<br>
+Example:<br>
+Assuming that the Actual Cost for the TESTING WBS is PHP 120,000, then:<br>
+
+AC = PHP 120,000<br><br>
+
+Therefore, the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) is PHP 120,000.<br><br>
+
+These metrics will be used to perform cost variance analysis (CV), schedule performance index (SPI), and cost performance index (CPI) to measure the project's cost performance over time.
+To assist in capturing these metrics, the project team will use project management software that is capable of tracking and reporting on EVM metrics. This software will also be used to 
+forecast future project costs, and to review cost performance over time, across work packages or schedule activities.
+</p>
+
+<ol>
+<li>Cost Variance (CV) measures the difference between the actual cost and the planned cost of the project. It is calculated by subtracting the actual cost from the planned cost. A negative CV indicates that the project is over budget, while a positive CV indicates that the project is under budget.<br>
+
+Example:<br><br>
+
+To compute the Cost Variance (CV), we need to subtract the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) from the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV). From the previous example, the BCWP or EV is ₱110,595, and the ACWP or AC is ₱120,000.<br><br>
+
+CV = EV - AC<br>
+CV = ₱110,595 - ₱120,000<br>
+CV = -₱9,405<br><br>
+
+Therefore, the Cost Variance (CV) for the Testing WBS is -₱9,405. A negative CV means that the project is over budget.<br>
+</li>
+<li>
+Schedule Performance Index (SPI) measures the project's schedule performance by comparing the planned schedule to the actual schedule. This index is calculated as the ratio of the BCWP to the BCWS. It is calculated by dividing the earned value by the planned value. A value of 1 indicates that the project is on schedule, while a value less than 1 indicates that the project is behind schedule, and a value greater than 1 indicates that the project is ahead of schedule.<br><br>
+
+Example:<br>
+
+From the previous computations, we have:<br>
+
+Earned Value (EV) = ₱110,595<br>
+Planned Value (PV) = ₱101,130<br>
+Plugging these values into the formula, we get:<br><br>
+
+SPI = EV / PV<br>
+SPI = ₱110,595 / ₱101,130<br>
+SPI = 1.093<br><br>
+
+Therefore, the Schedule Performance Index (SPI) is 1.093. This indicates that the project is ahead of schedule, as the SPI is greater than 1.<br>
+</li>
+<li>
+Cost Performance Index (CPI) measures the project's cost performance by comparing the actual cost to the planned cost. This index is calculated as the ratio of the BCWP to the ACWP. It is calculated by dividing the earned value by the actual cost. A value of 1 indicates that the project is on budget, while a value less than 1 indicates that the project is over budget, and a value greater than 1 indicates that the project is under budget.<br><br>
+
+Example:<br>
+To calculate the Cost Performance Index (CPI), we need to use the following formula:<br>
+
+CPI = EV / AC<br>
+where:<br>
+EV = Earned Value (BCWP) <br>
+AC = Actual Cost (ACWP)<br>
+
+From the previous computations, we have:<br>
+EV = ₱110,595<br>
+AC = ₱120,000<br><br>
+
+CPI = EV / AC<br>
+CPI = ₱110,595 / ₱120,000<br>
+CPI = 0.9216<br><br>
+
+Therefore, the Cost Performance Index (CPI) is 0.9216. This means that for every one peso spent, the project has earned only 0.92 pesos of value. This indicates that the project is behind budget and may need to take corrective actions to bring the costs in line with the planned budget.<br><br>
+
+In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.<br>
+</li>
+</ol>
+</p>
+==Reporting Format==
+<p>
+The ideal reporting format for the cost management plan of the Dispatch Directory system project would likely be a detailed spreadsheet or table. This format should include all relevant cost information such as project budget, actual costs incurred, projected costs, and any variances or discrepancies.<br><br>
+In addition, the format should be easily understandable and accessible to all stakeholders, including the project team, stakeholders, and management. A bar chart can also be included to provide visual representation of costs.<br><br>
+The reporting format for the cost management plan of the Dispatch Directory system project would include the following elements:<br>
+</p>
+
+<p>
+1.Executive Summary:<br>
+A brief overview of the cost management plan including the project’s overall budget and major cost variances or issues.br>
+
+2.Budget Overview:<br>
+A detailed breakdown of the budget for the project that includes the total project cost and cost of other resources (e.g., Labor, Hosting, Equipment, etc.).<br>
+
+3.Cost Variance Analysis:<br>
+A detailed analysis of any variances between the project’s actual costs and the budgeted costs. This should include a detailed explanation of the causes of the variances, the impact on the project and any action taken to address them.
+
+4.Budget Forecast:<br>
+A projection of the project’s future costs, including any potential cost variances and their potential impact on the project. <br>
+
+5.Approval and Sign-off:<br>
+A section for the project manager and other key stakeholders to review, approve and sign off on the cost management plan.<br>
+
+6.Appendices:<br>
+Any additional documentation or supporting materials such as detailed cost and breakdowns, invoices or change requests.<br><br>
+
+</p>
+
+==Cost Variance Response Process==
+<p>
+The Cost Variance Response process for the E-Cliniq system will be as follows:<br>
+
+1.Control Thresholds:<br>
+-	The project will have control thresholds set for cost variance.<br>
+-	These thresholds will be set at 10% and 20% of the total project budget.<br>
+-	If the project triggers any of these thresholds, it will be considered a cost variance.<br><br>
+
+2.	Identification of Variance:<br>
+-	The project Manager will be responsible for identifying any cost variances and reporting them to the Project Sponsor.<br><br>
+
+3.	Analysis of Variance:<br>
+-	The Project Manager will analyze the variance to determine the root cause of the problem and develop options for corrective action.<br>
+-	The Project Manager will also consider the impact of the variance on the project schedule and scope.<br><br>
+
+4.	Presentation of Options:<br>
+-	The Project Manager will present the options for corrective action to the Project Sponsor.<br>
+--	The options will be based on the root cause of the variance and impact on the project schedule and scope.<br><br>
+
+5.	Approval of Corrective Action:<br>
+-	The Project Sponsor will review the options and approve an appropriate action to bring the project back on budget.<br>
+-	This may include increasing the budget, reducing the scope or quality or implementing other corrective actions.<br><br>
+
+6.	Implementation of Corrective Action:<br>
+-	The Project Manager will implement the approved corrective action and monitor the results.<br>
+-	The Project Manager will also update the project schedule and budget accordingly.<br><br>
+
+7.	Reporting:<br>
+-	The Project Manager will report on the cost variance, corrective action taken and the results of the corrective action in the Monthly Project Status Report.<br>
+-	The Project Manager will also provide updates on the project budget and schedule.<br><br>
+
+The Cost Variance Response process will be an ongoing process throughout the project lifecycle. The project Manager will be responsible for monitoring and controlling the project costs, and the Project Sponsor will be responsible for approving any corrective actions needed.<br>
+</p>
+
+==Cost Change Control Process==
+<p>
+The cost change control process will include the following steps:<br><br>
+
+1.	Identification of the cost change:<br>
+-	Any proposed changes to the project budget or costs must be identified and documented on a cost change request form.<br><br>
+2.	Analysis of the cost change:<br>
+-	The proposed change will be analyzed by the project team to determine the potential impact on the project schedule, resources, and overall budget.<br><br>
+3.	Approval of the cost change:<br>
+-	The cost change request will be reviewed and approved by the project sponsor and other relevant stakeholders.<br><br>
+4.	Implementation of the cost change:<br>
+-	Once approved, the cost change will be implemented in accordance. The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor.<br><br>
+5.	Tracking and monitoring of the cost change:<br>
+-	The project team will track and monitor the cost change's impact on the project schedule and budget, and any necessary adjustments to ensure it is still on track.<br><br>
+6.	Reporting on the cost change:<br>
+-	The cost change will be reported in the monthly status report along with any relevant financial information and any corrective actions.<br><br>
+
+The cost change control process will be implemented to ensure that any changes to the project budget are identified, analyzed, and lastly, approved promptly. This will help minimize the impact of cost changes and maximize productivity and will make sure that the project is still on track.<br>
+</p>
+
+==Project Budget==
+<p>
+The approved budget given by our Project Sponsor for the E-Cliniq system is something that the Project Team can work around with for the next 10 years. The budget includes direct costs such as salary for the development team based from Indeed, specified in the area of Makati, indirect costs, and it is designed to provide the project team and stakeholders with a comprehensive understanding of financial resources.<br><br>
+Approved Budget: 
+<br><br>
+Direct Costs:
+<br><br>
+Labor and Maintenance
+</p>
 <table width="744" border="1" align="center">
+  <tr style="height: 37px;">
+    <td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+      <p><strong>Labor and Maintenance</strong></p>
+    </td>
+  </tr>
+  <tr style="height: 52px;">
+    <td style="height: 52px;" width="180" bgcolor="lightblue">
+      <p><strong>ITEM</strong></p>
+    </td>
+    <td style="height: 52px;" width="96" bgcolor="lightblue">
+      <p><strong>Quantity</strong></p>
+    </td>
+    <td style="height: 52px;" width="198" bgcolor="lightblue">
+      <p><strong>Period (in months)</strong></p>
+    </td>
+    <td style="height: 52px;" width="108" bgcolor="lightblue">
+      <p><strong>Unit Cost</strong></p>
+    </td>
+    <td style="height: 52px;" width="162" bgcolor="lightblue">
+      <p><strong>Total Cost</strong></p>
+    </td>
+  </tr>
+  <tr style="height: 37px;">
+    <td style="height: 37px;" width="180">
+      <p>Maintenance Cost(After implementation)</p>
+    </td>
+    <td style="height: 37px;" width="96">
+      <p>1</p>
+    </td>
+    <td style="height: 37px;" width="198">
+      <p>120</p>
+    </td>
+    <td style="height: 37px;" width="108">
+      <p>1</p>
+    </td>
+    <td style="height: 37px;" width="162">
+      <p>PHP 1,000.00</p>
+    </td>
+</tr>
 		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>INITIATION</strong></p>
+			<td style="height: 37px;" width="180">
+				<p>Manpower Cost (Junior Developer)</p>
 			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
-				<p><strong>ROLE</strong></p>
+			<td style="height: 37px;" width="96">
+				<p>3</p>
 			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
+			<td style="height: 37px;" width="198">
+				<p>9</p>
 			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
-				<p><strong>Salary * No. of Days in January 2018</strong></p>
+			<td style="height: 37px;" width="108">
+				<p>PHP 25,000.00</p>
 			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
-				<p><strong>COST</strong></p>
+			<td style="height: 37px;" width="162">
+				<p>PHP 675,000.00</p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
 			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
+				<p>Manpower Cost (Project Manager)</p>
 			</td>
 			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 23</p>
-			</td>
-			<td style="height: 37px;" width="108">
 				<p>1</p>
 			</td>
+			<td style="height: 37px;" width="198">
+				<p>9</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>PHP 39,000.00</p>
+			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 37,000.00</p>
+				<p>PHP 351,000.00</p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
 			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
+				<p>Manpower Cost (Quality Assurance Analyst)</p>
 			</td>
 			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
 				<p>1</p>
 			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 18,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Business Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 160.5</p>
-			</td>
 			<td style="height: 37px;" width="198">
-				<p>₱ 1, 284.00 * 14</p>
+				<p>9</p>
 			</td>
 			<td style="height: 37px;" width="108">
-				<p>1</p>
+				<p>PHP 25,000.00</p>
 			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 17, 976.00</p>
+				<p>PHP 225,000.00</p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
 			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total </strong></p>
+				<p>Total Project Cost</p>
 			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 72, 976.00</p>
+				<p>PHP 1,371,000.00</p>
 			</td>
+
 		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744">
-				<p><strong>PLANNING</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198">
-				<p><strong>Salary * No. of Days in February 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
+</Table>
+<table width="744" border="1" align="center">
+  <tr style="height: 37px;">
+    <td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
+      <p><strong>Equipment/Hardware</strong></p>
+    </td>
+  </tr>
+  <tr style="height: 52px;">
+    <td style="height: 52px;" width="180" bgcolor="lightblue">
+      <p><strong>ITEM</strong></p>
+    </td>
+    <td style="height: 52px;" width="96" bgcolor="lightblue">
+      <p><strong>Quantity</strong></p>
+    </td>
+    <td style="height: 52px;" width="198" bgcolor="lightblue">
+      <p><strong>Period (in months)</strong></p>
+    </td>
+    <td style="height: 52px;" width="108" bgcolor="lightblue">
+      <p><strong>Unit Cost</strong></p>
+    </td>
+    <td style="height: 52px;" width="162" bgcolor="lightblue">
+      <p><strong>Total Cost</strong></p>
+    </td>
+  </tr>
+  <tr style="height: 37px;">
+    <td style="height: 37px;" width="180">
+      <p>Hardware Cost (Developer PC)</p>
+    </td>
+    <td style="height: 37px;" width="96">
+      <p>3</p>
+    </td>
+    <td style="height: 37px;" width="198">
+      <p></p>
+    </td>
+    <td style="height: 37px;" width="108">
+      <p>PHP 40,000.00</p>
+    </td>
+    <td style="height: 37px;" width="162">
+      <p>PHP 120,000.00</p>
+    </td>
+</tr>
 		<tr style="height: 37px;">
 			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
+				<p>Hardware Cost (Project Manager and QA Laptops)</p>
 			</td>
 			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 32, 174.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 17</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 15,300.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Financial Consultant</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 125.00</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 000.00 * 12</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 12, 000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Business Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 160.5</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 284.00 * 12</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 15, 408.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 74, 882.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>EXECUTION</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
-				<p><strong>Salary * No. of Days in March to August 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 132</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 212, 348.40</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 57</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 51, 300.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Digital Designer</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 104.73</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 837.86 * 80</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 67, 028.80</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>System Developer</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 178.84</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 430.72 * 132</p>
-			</td>
-			<td style="height: 37px;" width="108">
 				<p>2</p>
 			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 377, 710.08</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Quality Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 154.64</p>
-			</td>
 			<td style="height: 37px;" width="198">
-				<p>₱ 1, 237.12 * 60</p>
+				<p>9</p>
 			</td>
 			<td style="height: 37px;" width="108">
-				<p>1</p>
+				<p>PHP 30,000.00</p>
 			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 74, 227.20</p>
+				<p>PHP 60,000.00</p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
 			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total</strong></p>
+				<p>Total Project Cost</p>
 			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 782, 614.48</p>
+				<p>PHP 180,000.00</p>
 			</td>
+
 		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>CONTROL </strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
-				<p><strong>Salary * No. of Days in Septemer 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 32, 174.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 17</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 15,300.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Quality Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 154.64</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 237.12 * 12</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 14, 845.44</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>System Developer (Head)</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 178.84</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 430.72 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 28, 614.40</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 90, 934.64</p>
-			</td>
-		</tr>
-		<tr style="height: 15px;">
-			<td style="height: 15px;" width="180"> </td>
-			<td style="height: 15px;" width="96"> </td>
-			<td style="height: 15px;" width="198"> </td>
-			<td style="height: 15px;" width="108"> </td>
-			<td style="height: 15px;" width="162"> </td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>CLOSEOUT</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 52px;">
-			<td style="height: 52px;" width="180" bgcolor="lightblue">
-				<p><strong>ROLE</strong></p>
-			</td>
-			<td style="height: 52px;" width="96" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td style="height: 52px;" width="198" bgcolor="lightblue">
-				<p><strong>Salary * No. of Days in October 2018</strong></p>
-			</td>
-			<td style="height: 52px;" width="108" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td style="height: 52px;" width="162" bgcolor="lightblue">
-				<p><strong>COST</strong></p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Project Manager</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 23</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 37,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 20</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 18,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Sub-Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱ 55, 000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p><strong>Total </strong></p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>₱1,076,409.28</p>
-			</td>
-		</tr>
-</table>
-<p> </p>
-<p><strong>PERSONNEL</strong></p>
-<table width="630" border="1" align="center">
-		<tr>
-			<td width="125" bgcolor="lightblue">
-				<p><strong>Staff</strong></p>
-			</td>
-			<td width="125" bgcolor="lightblue">
-				<p><strong>Hourly Rate</strong></p>
-			</td>
-			<td width="125" bgcolor="lightblue">
-				<p><strong>8hours * Working Days</strong></p>
-			</td>
-			<td width="125" bgcolor="lightblue">
-				<p><strong>No. of People</strong></p>
-			</td>
-			<td width="131" bgcolor="lightblue">
-				<p><strong>Cost</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Project Manager</p>
-			</td>
-			<td width="125">
-				<p>₱ 201.09</p>
-			</td>
-			<td width="125">
-				<p>218</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱350,700.96</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Document Analyst</p>
-			</td>
-			<td width="125">
-				<p>₱ 112.50</p>
-			</td>
-			<td width="125">
-				<p>131</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱117,900.00</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>System Developer</p>
-			</td>
-			<td width="125">
-				<p>₱ 178.84</p>
-				<p> </p>
-			</td>
-			<td width="125">
-				<p>132</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱188,855.04</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>System Developer</p>
-				<p><strong>(HEAD)</strong></p>
-			</td>
-			<td width="125">
-				<p>₱ 178.84</p>
-				<p> </p>
-			</td>
-			<td width="125">
-				<p>152</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱217,469.44</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Digital Designer</p>
-			</td>
-			<td width="125">
-				<p>₱ 104.73</p>
-			</td>
-			<td width="125">
-				<p>80</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱67,027.20</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Business Analyst</p>
-			</td>
-			<td width="125">
-				<p>₱160.50</p>
-				<p> </p>
-			</td>
-			<td width="125">
-				<p>26</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱33,384.00</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Financial Analyst</p>
-			</td>
-			<td width="125">
-				<p>₱ 125.00</p>
-			</td>
-			<td width="125">
-				<p>12</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱12,000.00</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p>Quality Analyst</p>
-			</td>
-			<td width="125">
-				<p>₱ 154.64</p>
-			</td>
-			<td width="125">
-				<p>72</p>
-			</td>
-			<td width="125">
-				<p>1</p>
-			</td>
-			<td width="131">
-				<p>₱89,072.64</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="125">
-				<p><strong>Sub-total</strong></p>
-			</td>
-			<td width="125">
-				<p>₱<strong> 1037.30</strong></p>
-			</td>
-			<td width="125">
-				<p><strong>691</strong></p>
-			</td>
-			<td width="125">
-				<p><strong>8</strong></p>
-			</td>
-			<td width="131">
-				<p><strong>₱</strong><strong>1,076,409.28</strong></p>
-			</td>
-		</tr>
-</table>
-<p> </p>
-<p><strong>Software Cost Management</strong></p>
-<table width="629" border="1" align="center">
-		<tr>
-			<td width="314" bgcolor="lightblue">
-				<p><strong>Item</strong></p>
-			</td>
-			<td width="314" bgcolor="lightblue">
-				<p><strong>Cost</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Data Center</p>
-			</td>
-			<td width="314">
-				<p>₱2,879.07/yr.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Direct Software</p>
-			</td>
-			<td width="314">
-				<p>₱ 2,662.00/yr.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Web Service</p>
-			</td>
-			<td width="314">
-				<p>₱ 768.60/mo..</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Subscription of Host Server w/ Domain name</p>
-			</td>
-			<td width="314">
-				<p>₱ 1,699.00/yr.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Payment Gateway</p>
-			</td>
-			<td width="314">
-				<p>₱0.00</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p>Office 365 Business</p>
-			</td>
-			<td width="314">
-				<p>₱ 468.75/mo.</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="314">
-				<p><strong>Sub-Total</strong></p>
-			</td>
-			<td width="314">
-				<p><strong>₱8477.42</strong></p>
-			</td>
-		</tr>
-</table>
-<p><strong>OVERALL TOTAL</strong></p>
-<table width="624" border="1" align="center">
-		<tr>
-			<td width="312" bgcolor="lightblue">
-				<p><strong>Category</strong></p>
-			</td>
-			<td width="312" bgcolor="lightblue">
-				<p><strong>Total</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="312">
-				<p>Personnel</p>
-			</td>
-			<td width="312">
-				<p>₱1,076,409.28</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="312">
-				<p>Software</p>
-			</td>
-			<td width="312">
-				<p>₱8477.42</p>
-				<p><strong> </strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="312">
-				<p><strong>Total</strong></p>
-			</td>
-			<td width="312">
-				<p><strong>₱</strong><strong>1,084,886.70</strong></p>
-			</td>
-		</tr>
-</table>
+</Table>
+<p>
+Indirect Costs:<br>
+1.	Web hosting<br>
+2.	Administrative Roles
+</p>
 
 =Schedule Management Plan=
 
