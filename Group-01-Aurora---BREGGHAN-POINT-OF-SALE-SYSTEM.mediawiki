@@ -77,17 +77,17 @@ The current sales tracking process relies on hand-written receipts, which can le
 Without a digital system, the staff at Bregghan mini grocery store are unable to monitor stocks and sales in real-time. This can result in missed opportunities to replenish stock levels and can make it difficult for the store to keep up with customer demand. </p></li>
 
 <h3>1.2 Anticipated Outcomes</h3>
-<p>Improved inventory management: </p>
-<p>The implementation of a digitized sales and stock tracking system will allow Bregghan mini grocery store to have accurate and real-time data on their inventory. This will enable them to make informed decisions on when to replenish stock, which products to order, and how much stock to order, leading to a reduction in stock outs and overstocking. </p>
+<li>Improved inventory management:
+<p>The implementation of a digitized sales and stock tracking system will allow Bregghan mini grocery store to have accurate and real-time data on their inventory. This will enable them to make informed decisions on when to replenish stock, which products to order, and how much stock to order, leading to a reduction in stock outs and overstocking. </p></li>
 
-<p>Increased sales: </p>
-<p>With the implementation of a Point-of-Sale (POS) system, the checkout process will be faster and more efficient. Customers will have a better experience and may be more likely to return. The system will also be able to generate reports on the top-selling products, which can help the store to make informed decisions on product placement and marketing strategies. </p>
+<li>Increased sales:
+<p>With the implementation of a Point-of-Sale (POS) system, the checkout process will be faster and more efficient. Customers will have a better experience and may be more likely to return. The system will also be able to generate reports on the top-selling products, which can help the store to make informed decisions on product placement and marketing strategies. </p><li>
 
-<p>Reduced errors: </p>
-<p>The automated computation of items sold will significantly reduce the occurrence of human errors, which can lead to miscounting of inventory and discrepancies in sales records. This will result in more accurate sales and inventory data. </p>
+<li>Reduced errors:
+<p>The automated computation of items sold will significantly reduce the occurrence of human errors, which can lead to miscounting of inventory and discrepancies in sales records. This will result in more accurate sales and inventory data. </p></li>
 
-<p>Increased productivity: </p>
-<p>The implementation of a digitized sales and stock tracking system will reduce the workload of the staff, as they will no longer have to manually record sales and inventory. This will free up their time, allowing them to focus on other tasks that can improve the store's operations. </p>
+<li>Increased productivity:
+<p>The implementation of a digitized sales and stock tracking system will reduce the workload of the staff, as they will no longer have to manually record sales and inventory. This will free up their time, allowing them to focus on other tasks that can improve the store's operations. </p></li>
 
 <h3>1.3 Recommendation</h3>
 <p>To address the identified business problem of inefficient stock and sales monitoring at Bregghan mini grocery store, we recommend developing a responsive web application that digitizes the recording of stocks and sales, automates computation of sold items, and produces reports for daily, weekly, monthly, and yearly records. By implementing this solution, the staff and manager of Bregghan mini grocery store will be able to monitor stocks and sales in real-time, reducing workload and minimizing human error. This will lead to more efficient inventory management and faster checkouts, resulting in improved customer satisfaction and retention. The system will also provide alerts when stock levels reach a critical point, allowing the store to replenish inventory on time and avoid potential revenue loss due to out-of-stock items. Furthermore, the application's capability to produce detailed sales reports will provide useful insights to the business, allowing for data-driven decision-making to further optimize operations and profitability. Overall, we believe that the proposed solution will address the identified business problem and provide significant benefits to Bregghan mini grocery store, its staff, and its customers. </p>
