@@ -1324,7 +1324,7 @@ The Quality Management Plan for the D7 Auto Service Center Web-App project will 
 <thead>
   <tr>
     <th>Role</th>
-    <th>Authority</th>
+    <th>Description</th>
   </tr>
 </thead>
 <tbody>
@@ -1354,21 +1354,22 @@ The Quality Management Plan for the D7 Auto Service Center Web-App project will 
 ==11.3 Quality Requirements/Standards==
 The D7 Auto Service Center Web-App project must adhere to the following quality requirements and standards: 
 <br><br>
-•	The web application should be designed to provide a user-friendly and intuitive experience, with consistent design and layout across all pages, to ensure ease of use and efficient navigation. 
+
+*The web application should be designed to provide a user-friendly and intuitive experience, with consistent design and layout across all pages, to ensure ease of use and efficient navigation.  
+
+*The web application must adhere to industry standards and best practices for security, performance, and scalability to ensure a secure and reliable system.  
+
+*Thorough testing and validation should be conducted throughout the development lifecycle to ensure that the web application meets all client requirements and specifications and to find and address any defects or issues.  
+
+*The web application should be compatible with all major web browsers for desktop to ensure a consistent and seamless user experience.  
+
+*The design of the web application should incorporate a modular and flexible architecture that allows future updates, enhancements, and maintenance without disrupting the existing system functionality.  
+
+*The web application should follow relevant laws and regulations, such as data privacy laws, to ensure legal compliance and protect user data.  
 <br>
-•	The web application must adhere to industry standards and best practices for security, performance, and scalability to ensure a secure and reliable system. 
+ 
+By adhering to these quality requirements and standards, the team can ensure that the D7 Auto Service Center Web-App project delivers a high-quality product that meets all customer expectations and requirements. 
 <br>
-•	The web application must be designed to be responsive and accessible to all users, including those with disabilities, to ensure equal access to information and services. 
-<br>
-•	Thorough testing and validation should be conducted throughout the development lifecycle to ensure that the web application meets all client requirements and specifications and to find and address any defects or issues. 
-<br>
-•	The web application should be compatible with all major web browsers for desktop to ensure a consistent and seamless user experience. 
-<br>
-•	The design of the web application should incorporate a modular and flexible architecture that allows future updates, enhancements, and maintenance without disrupting the existing system functionality. 
-<br>
-•	The web application should follow relevant laws and regulations, such as data privacy laws, to ensure legal compliance and protect user data. 
-<br><br>
-By adhering to these quality requirements and standards, the team can ensure that the D7 Auto Service Center Web-App project delivers a high-quality product that meets all customer expectations and requirements.
 
 ==11.4 Quality Assurance==
 The Quality Assurance process of the D7 Auto Service Center Web-App is also needed for the utmost quality of the deliverables, with the assurance that the standards from the selected methodologies are being met. This will be achieved by following through the success criteria, the satisfaction of the project's clients, and through the team's collaborative effort which will make the overall project complete and of quality. 
@@ -1376,8 +1377,6 @@ The Quality Assurance process of the D7 Auto Service Center Web-App is also need
 <b>Defining the Quality Standards:</b> The project team will collaborate with the client to ensure that both the project and the documents, about quality, are well defined and of utmost adherence to the client's satisfaction. 
 <br><br>
 <b>Reports:</b> Using the success criteria, the project team will be providing reports with regards to progress, and use of Open Project which will help display the project work packages’ statuses. 
-<br><br>
-<b>Continuity of Improvement until Deployment:</b> To adhere to the Agile Scrum method, the project will be subject to changes as needed until deployment. 
 <br><br>
 <b>Compliance to Industry Standards:</b> As part of the PBL or Project Based Learning, this project will undergo the process of industry standards wherein, it will go through the planning, system analysis and design, then development phase which ensures that all deliverables and documentations are well polished and organized. 
 <br><br>
@@ -1387,32 +1386,32 @@ Quality Assurance of the project will be closely watched as it is a crucial part
 
 ==11.5 Quality Control==
 To make sure that the project meets the required quality standards, the following quality control measures will be taken: 
-<br><br>
-•	Regular inspections and reviews of project deliverables will be conducted to show and address any quality issues that arise. 
 <br>
-•	Project changes will be closely checked to ensure that they are properly documented, tracked, and approved. Unauthorized changes will be found and promptly addressed to support the quality and integrity of the project. 
-<br><br>
-Client feedback will be collected and analyzed to find any areas where client expectations are not being met. Necessary changes and improvements will be made to the project to address these issues.
+*Regular inspections and reviews of project deliverables will be conducted to show and address any quality issues that arise.  
+<br>
+*Project changes will be closely checked to ensure that they are properly documented, tracked, and approved. Unauthorized changes will be found and promptly addressed to support the quality and integrity of the project.  
+<br>
+*Client feedback will be collected and analyzed to find any areas where client expectations are not being met. Necessary changes and improvements will be made to the project to address these issues. 
 
 ==11.6 Quality Control Measurements==
 To check and control project performance, a set of quality control measurements will be implemented throughout the project lifecycle. The following measurements will be used: 
 <br><br>
-•	Regularly, the team will review test results and validation reports to ensure that the D7 Auto Service Center Web-App meets all necessary requirements and specifications set by the client. 
+*Regularly, the team will review test results and validation reports to ensure that the D7 Auto Service Center Web-App meets all necessary requirements and specifications set by the client. 
 <br>
-•	Quality metrics will be proven to evaluate project performance, including measuring the number of bugs and the number of client issues reported. This data will be used to name areas for improvement and take necessary actions to ensure that project goals are met. 
+*Quality metrics will be proven to evaluate project performance, including measuring the number of bugs and the number of client issues reported. This data will be used to name areas for improvement and take necessary actions to ensure that project goals are met. 
 <br>
-•	Inspection and review results will be closely checked to find and address any quality issues that arise. The team will document any corrective actions taken to prevent the recurrence of the same issues in the future. 
+*Inspection and review results will be closely checked to find and address any quality issues that arise. The team will document any corrective actions taken to prevent the recurrence of the same issues in the future. 
 <br>
-•	The team will regularly review the changes to ensure that all project changes are appropriately documented, tracked, and approved. Unauthorized changes will be found and addressed promptly to support project quality and integrity. 
+*The team will regularly review the changes to ensure that all project changes are appropriately documented, tracked, and approved. Unauthorized changes will be found and addressed promptly to support project quality and integrity. 
 <br>
-•	Client feedback will be regularly collected and analyzed to find any areas where client expectations are not being met. With the help of this feedback, the project will be changed and improved as needed to keep up with the needs and satisfaction of the client. 
+*Client feedback will be regularly collected and analyzed to find any areas where client expectations are not being met. With the help of this feedback, the project will be changed and improved as needed to keep up with the needs and satisfaction of the client. 
 <br><br>
 By following this Quality Management Plan, we can ensure that the D7 Auto Service Center Web-App project meets the necessary quality requirements and standards, and that quality is managed and controlled throughout the project lifecycle.
 
 =12. Human Resources Management Plan=
 ==12.1 Introduction==
-A human resource management constructed and composed under significant effort, is a key towards success of a project, ensuring that these projects are professionally managed and filled with positions necessary to complete the deliverables from the beginning to its turnover. Roles, and its duties must be clearly defined, as well as the performances being tracked for the management measures, are also essential for the project’s strategizing for efficiency and effectiveness.
-This plan is utilized to effectively manage the project’s team; by means of providing an in-depth definition of the roles and responsibilities of each team members, while keeping communication a top priority to ensure productivity runs through at its optimum level for the project. With a clear understanding of the roles, its assigned power for authorization, responsibility, and competency, this plan will be useful in understanding the key responsibilities of each project team member.
+A human resource management constructed and composed under significant effort, is a key towards success of a project, ensuring that these projects are professionally managed and filled with positions necessary to complete the deliverables from the beginning to its turnover. Roles, and its duties must be clearly defined, as well as the performances being tracked for the management measures, are also essential for the project’s strategizing for efficiency and efficacy.
+This plan is utilized to effectively manage the project’s team; by means of providing an in-depth definition of the roles and responsibilities of each team members, while keeping communication a top priority to ensure productivity runs through at its optimum level for the project. With a clear understanding of the roles, its assigned power for authorization, responsibility, and competency, this plan will be useful in understanding the key responsibilities of each project team member. <br>
 
 ==12.2 Roles and Responsibilities==
 One of the crucial parts of the Human Resources management plan is outlining the roles and responsibilities of all project team members and stakeholders for the matter. This ensures all team members are well informed of their individual parts to play in the project's succession. 
@@ -1440,7 +1439,7 @@ The human resource management aims to be a roadmap for the project team members 
   <tr>
     <td>Project Manager</td>
     <td>Responsible for project execution and delivery</td>
-    <td>Develops and manages the project plan. Defines project roles, responsibilities, and timelines. Identifies and manages project risks and issues. Facilitates communication between project stakeholders. Ensures project meets quality, budget, and schedule requirements. Reports project status and progress to project sponsor and executive management.</td>
+    <td>Develops and manages the project plan. Defines project roles, responsibilities, and timelines. Identifies and manages project risks and issues. Facilitates communication between project stakeholders. Ensures project meets quality, budget, and schedule requirements. Reports project status and progress to project sponsor and executive management</td>
     <td>Strong project management, leadership, and communication</td>
   </tr>
   <tr>
@@ -1476,16 +1475,14 @@ A project organizational chart visualizes the project's structure, roles, and re
 [[https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G01_Elite_Four/blob/main/documentation/archive/Elite%20Four%20Project%20Organizational%20Chart.png]]
 
 ==12.4 Staffing Management==
-Throughout the project’s duration, Staffing Management is of utmost importance because it defines the most essentials for the team and their roles to have a successful project execution. Being able to outline the strategies, and the processes of each project phase from planning to deployment, to effectively manage acquiring to turnover, makes human resources clearly informed of their tasks and responsibilities.
+Throughout the project’s duration, Staffing Management is of utmost importance because it defines the most essentials for the team and their roles to have a successful project execution. Being able to outline the strategies, and the processes of each project phase from planning to closeout, to effectively manage acquiring to turnover, makes human resources clearly informed of their tasks and responsibilities. 
 <br><br>
-•	Acquisition is necessary to be done in the timeliest way to acquire the necessary skills and expertise needed in the project. This will be comprised of requiring new hires, contractors, and even the utilization of the internal staff as needed for the project’s completion. 
+*Acquisition is necessary to be done in the timeliest way to acquire the necessary skills and expertise needed in the project.
+
+*Training is an important step before starting the project to reduce errors and improve skills for better performance in delivering project outcomes.
+
+*Regular evaluations and assessments will be conducted to identify areas that need improvement and maximize efficiency.
 <br>
-•	Training before anything else will also be observed to lessen the errors in the project working environment, as well as further honing of skills to have better utilization of it in the creation and execution of deliverables accordingly. 
-<br>
-•	Performance Quality Evaluations and Assessments are also to be done to determine which fields require much work, and improvement, to maximize efficiency within the premises of the working environment in a healthy, and effective way. 
-<br>
-•	A rewards and recognition system will also be implemented within the project’s duration because it will promote better work quality and appreciation of the members’ work contribution to and for the project. 
-<br><br>
 The project’s Human Resource and Staffing may be subjected to change as there are going to be contingencies and updates within the project as time moves forward, which is why it is expected to have updates in the staffing management to fulfill the roles and responsibilities needed to complete the project.
 
 <table>
@@ -1537,42 +1534,32 @@ The project’s Human Resource and Staffing may be subjected to change as there 
 
 =13. Communications Management Plan=
 ==13.1 Introduction==
-The D7 Auto Service Center Web-app project considers the Communications Management Plan as a crucial element since it specifies the communication strategy and protocols for the stakeholders and project team. The plan outlines the following:
+The D7 Auto Service Center Web-app project considers the Communications Management Plan as a crucial element since it specifies the communication strategy and processes that must be of adherence in order to enable concise and clear communication within the project team and project sponsor. 
 <br><br>
-•	The project information details that will be communicated are outlined in the plan; these may include project updates, progress reports, risks, and challenges. In addition, it outlines the format and particular informative components, such as whether the information will be communicated verbally or in written form.
+*The project information details that will be communicated are outlined in the plan; these may include project updates, progress reports, risks, and challenges. 
 <br>
-•	To ensure that all stakeholders are informed promptly, the plan delineates the communication methods that will be utilized, including meetings, emails, and other means of communication.
+*To ensure that all stakeholders are informed promptly, the plan delineates the communication methods that will be utilized.
 <br>
-•	The plan sets up a schedule for project communications, encompassing both formal and informal means, to ensure that stakeholders are constantly updated.
+*The plan sets up a schedule for project communications, encompassing both formal and informal means, to ensure that stakeholders are constantly updated.
 <br>
-•	The plan specifies the communication-related duties and obligations of team members and stakeholders, clarifying who is responsible for sharing project information.
+*The plan describes the distinct communication needs of each stakeholder and the approach to meet those needs, including accessibility and language requirements.
 <br>
-•	The plan describes the distinct communication needs of each stakeholder and the approach to meet those needs, including accessibility and language requirements.
+*The plan lays out a process for managing alterations in communication or the communication process, encompassing the proposal, review, and approval of changes. This guarantees that all stakeholders are informed of any changes and that the communication process is consistent throughout the project.
 <br>
-•	The plan defines the procedures for sharing sensitive or confidential information and designates who has the authority to release such information.
+*The plan specifies the process of communication within the project, including how information is disseminated among team members, stakeholders, and other project partners. This ensures that all stakeholders are informed, and that information is exchanged promptly and efficiently.
 <br>
-•	To ensure consistency in the communication process throughout the project, the plan defines a process for managing any changes to communication or the communication process itself. This includes procedures for proposing, reviewing, and approving changes to keep all stakeholders informed.
+*The plan incorporates a protocol for escalating and resolving any communication-related conflicts or challenges that may arise during the project. This protocol helps to ensure that any communication-based issues are dealt with and resolved promptly, thus ensuring the smooth flow of the project.
 <br>
-•	The plan lays out a process for managing alterations in communication or the communication process, encompassing the proposal, review, and approval of changes. This guarantees that all stakeholders are informed of any changes and that the communication process is consistent throughout the project.
-<br>
-•	The plan specifies the process of communication within the project, including how information is disseminated among team members, stakeholders, and other project partners. This ensures that all stakeholders are informed, and that information is exchanged promptly and efficiently.
-<br>
-•	The plan recognizes any internal or external factors that may impact project communications, such as legal or regulatory obligations, and specifies how these constraints will be managed. It outlines the procedures and measures to address any limitations that may hinder effective communication during the project. This ensures that communication is maintained within the legal and regulatory frameworks, and that project objectives are met.
-<br>
-•	The plan specifies the mandatory templates, formats, or documents for transmitting project information, like meeting minutes or progress reports. This guarantees that all stakeholders receive consistent and precise information.
-<br>
-•	The plan incorporates a protocol for escalating and resolving any communication-related conflicts or challenges that may arise during the project. This protocol helps to ensure that any communication-based issues are dealt with and resolved promptly, thus ensuring the smooth flow of the project.
-<br><br>
-Overall, the communication management plan is a crucial tool to ensure that all stakeholders are informed, and that communication of the team is effective and efficient throughout the D7 Auto Service Center Web-app Project.
 
 ==13.2 Communications Management Approach==
 Communication will be very pivotal in the project’s phases, which is why the approach that will be utilized for this project is thought of by the team to be a combination of proactive and reactive strategies, while it also takes communication through online and onsite mediums. 
 
-Proactive by means of having regular project status meetings that will be set to have the members and the project stakeholder be informed of the deliverables that are being made, while it also informs the team of what needs to be accomplished. Through this approach, the team communication will flow through the project’s phases which will be comprised of the updates with regards to the deliverables, the progress reports, the issues that rose which could cause a bottleneck in the process and may require contingency. 
+Proactive by means of conducting meetings that will be set to have the members and the project stakeholder be informed of the deliverables that are being made, while it also informs the team of what needs to be accomplished. Through this approach, the team communication will flow through the project’s phases which will be comprised of the updates with regards to the deliverables, the progress reports, the issues that rose which could cause a bottleneck in the process and may require contingency. 
 
 Reactive strategy will also be implemented in the process of the project as it is also required to have feedbacks as a means of understanding and resolving the communication-based conflicts, misunderstandings, and/or conflicts that could hinder the project between the sides of either the client or the development team. 
 
-The team will also be conducting meetings with the project manager through onsite and online premises, depending on which medium is best used in situations. This approach will also seek to choose which mode will be most convenient.
+The team will also be conducting meetings with the project manager through onsite and online premises, depending on which medium is best used in situations. This approach will also seek to choose which mode will be most convenient. 
+
 
 ==13.3 Communications Management Constraints==
 The constraints that the communications management will have will be dependent on following limitations of, but not, limited to the following: 
@@ -1588,21 +1575,16 @@ The D7 Auto Service Center Web-app project relies heavily on Stakeholder Communi
 
 The Communication Management Plan for the D7 Auto Service Center Web-app project contains information regarding the stakeholders' communication needs and how they will be met during the project's lifecycle. This includes the Stakeholder Communication Requirements, which outline the following:
 
-1. <b>Regular project updates:</b> It is essential to keep all stakeholders informed of the project's progress, including any issues or risks that may arise.
+1. <b>Project updates:</b> It is essential to keep all stakeholders informed of the project's progress, including any issues or risks that may arise.
 <br>
-2. <b>Clear and concise communication:</b> To ensure stakeholders understand the message, all project-related information should be communicated in a clear and concise manner.
+2. <b>Thorough communication:</b> To ensure stakeholders understand the message, all project-related information should be communicated in a clear and concise manner.
 <br>
 3.<b> Accessibility:</b> Communication should be accessible to all stakeholders, considering any language or accessibility needs.
 <br>
-4. <b>Timely communication:</b> Information should be communicated in a timely manner, ensuring that stakeholders are informed as soon as possible.
+4.<b> Confidentiality:<b> Any sensitive or confidential information should be communicated only to the necessary stakeholders and handled securely.
 <br>
-5.<b> Confidentiality:<b> Any sensitive or confidential information should be communicated only to the necessary stakeholders and handled securely.
+5.<b> Two-way communication:</b> Communication should be a two-way process, allowing stakeholders to provide feedback and ask questions.
 <br>
-6. <b>Customized communication:</b> Communication should be tailored to each stakeholder's specific needs, considering their level of involvement in the project and their role.
-<br>
-7.<b> Two-way communication:</b> Communication should be a two-way process, allowing stakeholders to provide feedback and ask questions.
-<br>
-8. <b>Feedback mechanisms:</b> A mechanism for stakeholders to provide feedback on the communication process should be in place to ensure that communication is effective and meets their needs
 
 ==13.5 Roles==
 <table>
@@ -1659,7 +1641,7 @@ The following table presents contact information for all persons identified in t
   <tr>
     <td>Anne Sydney R. Simpelo</td>
     <td>Project Sponsor</td>
-    <td>   d7autoservicecenter@gmail.com   </td>
+    <td>asimpelo@gmail.com</td>
   </tr>
   <tr>
     <td>Andre O. Viernes</td>
@@ -1678,17 +1660,17 @@ The following table presents contact information for all persons identified in t
   </tr>
   <tr>
     <td>Francesca Erin R. Camino</td>
-    <td>Project Secretary</td>
+    <td>Project Coordinator</td>
     <td>frcamino@student.apc.edu.ph</td>
   </tr>
   <tr>
     <td>John Zenon P. Coquia</td>
-    <td>Team Developer Support</td>
+    <td>Database Administrator</td>
     <td>jpcoquia@student.apc.edu.ph</td>
   </tr>
   <tr>
     <td>Darrell Royce A. Lazala</td>
-    <td>Team Secretary Support</td>
+    <td>Asistant Coordinator</td>
     <td>dalazala@student.apc.edu.ph</td>
   </tr>
 </tbody>
@@ -1699,11 +1681,11 @@ To successfully communicate with all stakeholders involved in the D7 Auto Servic
 
 To identify the most suitable communication methods and technologies for the D7 Auto Service Center web-app project, it is important to consider numerous factors, such as:
 <br><br>
-•	The technical proficiency level of stakeholders: Simple communication methods like email and telephone may be preferable for stakeholders not particularly familiar with technology.
-<br>
-•	The nature of the information being communicated: When sensitive or confidential information is involved, secure methods such as encryption and password-protected portals may be required.
-<br>
-•	The project's budget and available resources: The chosen communication methods and technologies must be financially feasible and sustainable within the project's allocated budget and available resources.
+
+*The technical proficiency level of stakeholders: Simple communication methods like email and telephone may be preferable for stakeholders not particularly familiar with technology.
+*The nature of the information being communicated: When sensitive or confidential information is involved, secure methods such as encryption and password-protected portals may be required.
+*The project's budget and available resources: The chosen communication methods and technologies must be financially feasible and sustainable within the project's allocated budget and available resources.
+
 
 
 =14. Procurement Plan=
