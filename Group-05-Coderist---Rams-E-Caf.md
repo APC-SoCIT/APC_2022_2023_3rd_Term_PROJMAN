@@ -4261,7 +4261,7 @@ Furthermore, before implementing any scope changes, the project team must ensure
 
   <h2>Schedule</h2>
   <a href="https://ibb.co/dBSfPf9"><img src="https://i.ibb.co/0qknCnN/Gantt-Chart-part-1.png" alt="Gantt-Chart-part-1" border="0"></a>
-<a href="https://ibb.co/k0q1Mn2"><img src="https://i.ibb.co/CvV2WdK/Gantt-chart-part-2.png" alt="Gantt-chart-part-2" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/characters-turkish'> </a><br />
+<a href="https://ibb.co/k0q1Mn2"><img src="https://i.ibb.co/CvV2WdK/Gantt-chart-part-2.png" alt="Gantt-chart-part-2" border="0"></a>
 
 <h1>Handover and Acceptance</h1>
   <p>The handover and acceptance process for the Rams E-Caf project will be conducted in a systematic and structured manner to ensure a smooth transition and satisfaction of all stakeholders involved. It will follow a clear roadmap that includes the completion of a comprehensive transition plan, scheduling a formal handover meeting, and addressing any outstanding issues or concerns.</p>
