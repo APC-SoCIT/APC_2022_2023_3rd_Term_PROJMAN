@@ -107,7 +107,6 @@
 	</tr>
 </table>
 
-
 D7 Auto Service Center is an Auto Service Center in General Trias, Cavite, that has been in the industry for more than 17 years. Rendering excellent service, while keeping it to an affordable range for customers. D7 started small in the year 2006 but flourished over the years because of their consistency to thrive for excellence in service and creating connections with customers via engagements. 
 
 D7 Auto Service Center adds more timely and innovative equipment to provide relevant services catering to their customers' needs. 
@@ -173,14 +172,8 @@ Integrating the new Web-App project with the existing system of D7 Auto Service 
 </tbody>
 </table>
 
-
-
-</table>
-
-
 ==4.3. Problem Definition==
 ===4.3.1 Problem Statement===
-
 The D7 Auto Service Center is facing multiple challenges in their business operations. Firstly, their current advertising and online presence on Facebook, their sole platform for promotions, is struggling due to limitations in customer reach caused by the platform's ever-changing algorithm. This hinders their ability to effectively promote their services and engage with potential customers, especially in a highly competitive online market. 
 
 Secondly, D7 Auto Service Center is facing difficulties in managing and keeping track of customer reservations. Customers use various channels such as Gmail, mobile text, Facebook Messenger, and walk-ins to make reservations, resulting in a lack of centralized system for recording and managing bookings. This leads to inconsistencies, errors, and time-consuming manual collation of data from different channels, which affects their customer service and revenue potential. 
@@ -189,10 +182,8 @@ Lastly, the COVID-19 pandemic has intensified the online competition for D7 Auto
 
 These challenges highlight the need for a comprehensive solution that can address D7 Auto Service Center's advertising and online presence issues, streamline their reservation management process, and provide additional features to enhance customer engagement.
 
-
 ===4.3.2 Issue===
 The proposed project for D7 Auto Service Center will make significant improvements to organizational processes, tools, hardware, and software. A centralized reservation and management system will be implemented to eliminate difficulties and errors in recordkeeping caused by the current system. This will result in improved accuracy and efficiency in managing reservation logs and record keeping, reducing manual collation efforts, and enhancing overall customer service. Additionally, the project will provide an extended communication platform for customers and specialists through the web-app, allowing for seamless and efficient communication for inquiries, clarifications, and updates. This will lead to increased customer engagement and satisfaction and improved communication within the organization for more effective service delivery. The project may also create new roles or modify existing ones to align with the new system, such as assigning a designated team or individual to manage and oversee reservations. Overall, the proposed project will bring about positive changes in reservation management and customer interactions within the organization.
-
 
 ===4.3.3 Technology Mitigation===
 D7 Auto Service Center will have an implemented customized software solution designed for their business, involving configuration of the software to meet their unique needs and close collaboration with the project team for smooth deployment and integration. Future data collected upon usage of the web-app including customer profiles, service history, inventory records, and financial transactions, will be uploaded to the new system, validated for accuracy and integrity, and converted into compatible formats. Technical requirements and potential obstacles will be addressed by the project team, ensuring a smooth and seamless data processing, resulting in improved customer service, streamlined business processes, and enhanced decision-making capabilities through effective access and leverage of historical customer data.
@@ -208,7 +199,6 @@ Below are the specific goals and objectives that the project aims to achieve:
 •	To develop a centralized system for D7 to manage the bookings of their customers and allow their customers to request reservations 24/7. 
 <br><br>
 •	To extend the Auto Service Center’s support for their customers, as well as potential customers, through an environment where both customers and D7 specialists can converse.
-
 
 ===4.4.3 Project Performance===
 The project's success will be measured using key performance indicators (KPIs) that will gauge its performance and outcomes in relation to key resources, processes, or services. The following KPIs will be used to assess the project's performance:
@@ -256,7 +246,6 @@ The project constraints for the project are as follows:
 <b>5.	Communication Constraint: </b>The project team must communicate effectively and with the project sponsor for any changes to the project scope, schedule, budget, etc.<br><br>
 <b>6.	Quality Constraint: </b>The project deliverables must meet the agreed-upon quality standards, and any deviations from these standards must be approved by the subject adviser, project panelist(s), and project sponsor.
 
-
 ===4.4.6 Major Project Milestones===
 Below are the major milestones of the project:
 
@@ -265,7 +254,6 @@ Below are the major milestones of the project:
 <b>•	Development: </b>In this milestone, the project team started developing the web-app with the chosen programming languages and tools identified during the previous Analysis and Design milestone. <br><br>
 <b>•	Testing: </b>In this milestone, the project team conducts diverse types of testing to ensure the web-app works as expected. This includes system testing to test the system, acceptance testing to ensure the system meets the client's requirements, etc. The team also identifies and fixes any issues discovered during testing. <br><br>
 <b>•	Deployment: </b>In this milestone, the project team makes the solution accessible to end users by deploying it to the production environment and configuring the necessary infrastructure, including servers, databases, and networking. <br><br>
-
 
 ==4.5. Strategic Alignment==
 The D7 Auto Service Center project’s strategic alignment will adhere to the objectives set for the company. We can ensure that the project contributes to the long-term success of the organization. 
@@ -283,7 +271,6 @@ In addition, D7 Auto Service Center is committed to achieving high customer sati
 By introducing effective workflow procedures, cutting down on service wait times, and enhancing customer communication regarding service status and price estimates, the project is in line with this objective. The project will boost customer satisfaction and loyalty by providing exceptional customer service and fostering long-lasting connections with customers. This will lead to repeat business and helpful recommendations from others. 
 
 Overall, the D7 Auto Service Center project's strategic alignment with the organization's objectives of becoming a reputable and innovative provider, ongoing innovation, and customer satisfaction shows how the project supports the company's long-term success and justifies the investment in the project.
-
 
 ==4.6. Cost and Benefit Analysis==
 The Cost Benefit Analysis of the project was determined through four parts those being:
@@ -309,7 +296,6 @@ The costs determined for the project is divided into:
 •	Software Used  <br>
 •	Devices Used  <br>
 •	Peripherals  <br>
-
 
 <b>Calculated/Estimated Benefits:</b>
 <br>
@@ -518,7 +504,6 @@ To create the scope management plan for the D7 Auto Service Center, the team wil
 <b>4)	Verify Scope - </b>In this step, the project deliverables are examined and validated to make sure they adhere to the specifications outlined in the project scope statement. This step helps ensure that the project progresses according to schedule and that the project deliverables satisfy stakeholders' demands. <br>
 
 <b>5)	Control Scope - </b>Throughout the project's lifecycle, this phase requires monitoring and regulating changes to the project's scope. This includes the team handling scope adjustments and any scope creep that might happen while the project is being carried out. <br>
-
 
 ==7.2 Scope Management Approach ==
 
@@ -1072,11 +1057,12 @@ The Elite Four's Schedule Management Plan was created during the project's plann
 The Elite Four’s Project Schedule – Gantt Chart was created using Open Project beginning with the deliverables as identified in its Work Breakdown Structure (WBS). The project will use an instructional approach where the team will learn by actively engaging in real-world and personally meaningful projects. The team will collaborate with their peers, apply critical thinking skills, and solve complex problems while developing knowledge and skills. The team will be utilizing Agile Scrum methodology, and any necessary changes will be made as required. The project is composed of five phases, starting from planning until the maintenance phase. 
 <br><br>
 The project schedule milestones are identified as follows:
-<br><br>
-Planning
 <br>
+
+Planning
+
 - The Planning Phase is the initial phase of the project where the team prepares for identifying the requirements, estimating resources and timeline of the project, and defining the scope, objectives, and deliverables.
-<br><br>
+
 • Planning Phase Preparation
 <br>
 • Problem Identification
@@ -1086,11 +1072,11 @@ Planning
 • Solution Refinement
 <br>
 • Planning Phase Presentation
-<br><br>
+
 Analysis & Design
-<br>
+
 - Analysis & Design phase, where the team creates a detailed plan for the project. The phase focuses on developing the project's technical requirements and detailed specifications.
-<br><br>
+
 • System Analysis & Design Phase Preparations
 <br>
 • System Analysis UML Documentation
@@ -1100,11 +1086,11 @@ Analysis & Design
 • System Analysis & Design Refinement
 <br>
 • System Analysis & Design Presentation
-<br><br>
+
 Development
-<br>
+
 - In this phase where the project's development progressed, the team has gone through these accordingly.
-<br><br>
+
 • Development Phase Preparation
 <br>
 • Initial Web-App Development
@@ -1120,11 +1106,11 @@ Development
 • Documentation Review and Enhancement
 <br>
 • System Demonstration and Improvement Implementation
-<br><br>
+
 Deployment
-<br>
+
 - The deployment phase is the final phase of the project, where the team ensures that the deliverables continuously meet the required quality standard. This also involves monitoring and maintaining the project's deliverables: documentation, web hosting, and cost breakdown. The team has gone through these accordingly.
-<br><br>
+
 • Deployment Phase Preparation
 <br>
 • Business Case and Stakeholder Management Planning
@@ -1136,18 +1122,18 @@ Deployment
 • Integrated Project Governance and Planning
 <br>
 • Deployment Presentation and Feedback Collection
-<br><br>
+
 Close Out
-<br>
+
 -  The closeout phase is the final stage of a project where all project activities are concluded, and the project is formally completed. It involves wrapping up remaining tasks, documenting project outcomes, and transitioning the project to its final state.
-<br><br>
+
 • Project Turn Over
 <br>
 • Documentations
 <br>
 • System Demonstration
 
-<br><br>
+<br>
 The roles and responsibilities of Elite Four’s schedule development are as follows:
 <br><br>
 • The Project manager and Product Owner are responsible for facilitating the definition of work packages, sequencing tasks, and estimating the required duration and resources with project members. They will also create the project schedule using Project Libre and validate it with the Elite Four team, stakeholders, and the project sponsor. Subsequently, the project manager will obtain schedule approval from the project sponsor and baseline the schedule.
