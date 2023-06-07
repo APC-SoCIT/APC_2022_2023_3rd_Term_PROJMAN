@@ -2646,8 +2646,30 @@
  </tr>
 
 </table>
+
 ==Glossary of Terms==
-<p>lorem ipsum</p>
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">TERMINOLOGIES</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">DEFINITION</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Work Breakdown Structure (WBS)</p></td>
+ <td><p style="text-align:center;">Technique used in one of the most essential project management manuals. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Work Package</p></td>
+ <td><p style="text-align:center;">A precise list of tasks that must be completed to meet a given deliverable or project milestone. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">WBS Code</p></td>
+ <td><p style="text-align:center;">Listed values that you can put to projects and modify to meet your company's specific needs. </p></td>
+ </tr>
+
+</table>
 
 =Procurement Management Plan=
 ==Introduction==
