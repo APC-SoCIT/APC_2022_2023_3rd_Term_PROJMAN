@@ -272,15 +272,40 @@ The website will be able to recruit and keep a strong team of web developers, de
 
 <h2>Major Project Milestones</h2>
 
-| Project Milestone   | Target Date |
-| ------------- | ------------- |
-| Project Start  | 04/06/2022 |
-| Complete Solution Design  | 06/21/2022 |
-| Complete Diagram Designing  | 11/11/2022 |
-| Solution Simulation  | 01/24/2023 |
-| Complete Solution Simulation and Testing  | 0/10/2023 |
-| Deploy Solution  | 02/24/2023 |
-| Project Complete  | 02/27/2023 |
+<table>
+    <tr>
+      <th>Project Milestone</th>
+      <th>Target Date</th>
+    </tr>
+    <tr>
+      <td>Project Start</td>
+      <td>04/06/2022</td>
+    </tr>
+    <tr>
+      <td>Complete Solution Design</td>
+      <td>06/21/2022</td>
+    </tr>
+    <tr>
+      <td>Complete Diagram Designing</td>
+      <td>11/11/2022</td>
+    </tr>
+    <tr>
+      <td>Solution Simulation</td>
+      <td>01/24/2023</td>
+    </tr>
+    <tr>
+      <td>Complete Solution Simulation and Testing</td>
+      <td>02/10/2023</td>
+    </tr>
+    <tr>
+      <td>Deploy Solution</td>
+      <td>02/24/2023</td>
+    </tr>
+    <tr>
+      <td>Project Complete</td>
+      <td>02/27/2023</td>
+    </tr>
+</table>
 
 
 
