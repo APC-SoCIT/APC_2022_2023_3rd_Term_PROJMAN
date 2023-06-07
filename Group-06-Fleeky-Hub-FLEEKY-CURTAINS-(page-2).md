@@ -1,3 +1,989 @@
+=Stakeholder Strategy Management Plan=
+
+<h2>Purpose</h2>
+
+<p>Fleeky Hub is a small curtain company that provides clients with high-quality curtains. Fleeky Hub's success is reliant not only on its capacity to produce high-quality draperies, but also on its capacity to manage its stakeholders. Stakeholder management is a vital componentof any business, as it includes identifying, analyzing, and establishing relationships with stakeholders.</p><p> Stakeholders are people, organizations, and groups invested in a business' success. Customers, suppliers, employees, shareholders, and the local community may be included among Fleeky Hub's stakeholders. Effective stakeholder management requires a comprehension of the needs and expectations of each stakeholder group and the development of strategies to meet those needs and expectations.</p><p> This stakeholder management strategy is intended to provide Fleeky Hub with a framework for effectively managing its stakeholders. This strategy will define the organization's main constituents, their interests, expectations, and how the organization will engage and communicate with them. By implementing this strategy, Fleeky Hub can foster positive relationships with its stakeholders, which will contribute to the company's long-term success.</p>
+
+<h2>Stakeholders Identification</h2>
+
+<p>The project team may use the Brainstorming methodology to uncover potential stakeholders that may not be identified right away. This could be done through creating a list of potential stakeholders and conducting group discussion and brainstorming within the project team. In the stakeholder identification process, the project team may ask the possible participants there may be when it comes to their relevance and significance to the business and project so the team will be able to have their approval and support that may help the project development succeed and be able to avoid hindrance or blockage to its progress.</p><p> When identifying the stakeholders, depending on their amount of influence, interest, and involvement in the project or organization, the stakeholders can be divided into several categories. For reference, key stakeholders for the project may be those directly impacted by the project or organization, such as clients or staff, whereas secondary stakeholders are those impacted indirectly, such as vendors or regulatory bodies. Other stakeholder groups can include internal stakeholders, external stakeholders, and key stakeholders, who tend to have a substantial influence on the organization's or project's success.</p><p> With identifying the stakeholders, for the project team to ensure that their interests and concerns are taken into consideration during the decision-making process and to increase support for the project or organization, stakeholders must be identified and engaged with. The chances of success can be increased, and trust can be gained while lowering resistance to change.</p>
+
+<h2>Key Stakeholders</h2>
+
+<p>The key stakeholders identified by the project team are those who have a significant impact on the success or failure of the project or initiative. The following are the sub-sets of stakeholders who may be identified as key stakeholders:</p>
+<ol>
+<li>
+Customers - Since their satisfaction and loyalty are crucial to the success of the project or company, customers are frequently regarded as significant stakeholders. Organizations can improve their competitiveness and profitability by comprehending and satisfying the demands and expectations of their clients.
+</li>
+<li>
+Employees – As employees oversee carrying out the strategies and plans that advance the business, they are essential to its success. Employee motivation and engagement can boost output, lower attrition, and enhance an organization's overall success.
+</li>
+<li>
+Suppliers/partners - Suppliers and partners are frequently regarded as important stakeholders since they supply the products and services required for the business to run smoothly. Reliable supply chains and cost savings can be achieved by establishing strong ties with these stakeholders.
+</li>
+</ol>
+
+<p>The basis behind determining which stakeholders are key stakeholders is based on the level of influence and impact they have on the project or organization. Organizations can build support for their initiatives and increase the likelihood of success by understanding and engaging with these stakeholders.</p>
+
+<h2>Stakeholder Analysis</h2>
+<ul>
+<li>
+Customers: Fleeky Hub's clients are its main stakeholders since they buy its drapes. Understanding their requirements and preferences is crucial to the success of a business. To retain and acquire new consumers, Fleeky Hub must prioritize delivering high-quality products and superior customer service.
+</li>
+<li>
+Workers: Key stakeholders in Fleeky Hub who make contributions to the company's success are the company's workers. They play a crucial role in both the production process and consumer interaction. Providing a safe and healthy workplace, equitable remuneration, and opportunities for professional growth and development will help retain employees and improve their performance.
+</li>
+<li>
+Suppliers: Fleeky Hub depends on its suppliers for the rawmaterials required to make its curtains. Maintaining positive relationships with suppliers, assuring on-time delivery of materials, and negotiating reasonable prices are essential to the business's success.
+</li>
+<li>
+Investors: Fleeky Hub's investors have a financial interest in the company's success. Providing regular updates on the company's financial performance, communicating the company's growth plans and strategies, and ensuring transparency in financial reporting are essential for retaining investor confidence.
+</li>
+<li>
+Local community: Fleeky Hub operates within a local community and is responsible for being a responsible corporate citizen. Supporting local initiatives, providing employment opportunities, and contributing to the community's well-being can help the company develop positive relationships and enhance its reputation.
+</li>
+<li>
+Government: Fleeky Hub must adhere to local laws and regulations, and its operations must not harm the environment or society. Establishing positive relationships with government officials and engaging in ethical business practices can assist in avoiding legal and reputational risks.
+</li>
+</ul>
+
+
+
+
+<h1>Scope Management Plan</h1>
+
+<h2>Introduction</h2>
+
+<p>Fleeky Hub's scope management plan provides the best practices for using various functionalities of e-commerce websites, as well as the necessary tools to achieve clients' objectives. With the support of the team's mission and vision, the scope management plan is an asset for clients' businesses. Fleeky Hub's team will provide a comprehensive scope plan that can be achieved repeatedly by both the team and the client. </p>
+
+<p><em><b>Scope Definition: </em></b>The scope of the Fleeky Hub will be defined through the following activities:</p>
+
+<ol>
+<li>
+Requirements gathering:  The team will meet with the client to identify the business needs and problems. A project timeline will be established to create a survey for the client, which will focus on the client's business process, specifically related to e-commerce websites. Additionally, the survey will include questions about the status of the client’s employees’ tasks and process. 
+</li>
+<li>
+User stories: After gathering the set of requirements, the team will provide a set of user stories for the end-users, defining the functionality of the client's e-commerce website (Fleeky Hub). The team will organize the user stories hierarchically based on their priority and execute them accordingly. The user stories will guide the development process for the developers. 
+</li>
+<li>
+Scope statement: The project scope statement will be based on the user stories created by the team, which will serve as the requirements for the project. The project manager will provide the team with deadlines for each iteration to ensure that the requirements are achieved within the given timeframe. 
+</li>
+<li>
+Scope base: The project scope baseline provides the team's scope statement and user stories as a feasible management plan. The team will provide daily and weekly updates on the project's progress, allowing for ongoing review of the scope statement to identify any necessary changes. 
+</li>
+</ol>
+
+<p><em><b>Scope Documentation: </em></b>The scope of the Fleeky Hub e-commerce website will be documented in the following ways: </p>
+
+<ol>
+<li>
+Requirements Documentation: The requirements for the e-commerce website will be documentation in a requirements specification document. 
+</li>
+<li>
+Project management plan: The project management plan will include the scope statement, the scope baseline, and any other relevant information about the scope of the project. 
+</li>
+<li>
+Change log: A change log will track the development and project plan, documenting any changes made to the project scope, including the description of the change, its impact on the project, and any required approvals. 
+</li>
+</ol>
+
+<p><em><b>Scope Control: </em>The scope of the Fleeky Hub e-commerce website will be controlled through the following activities: </p>
+
+<ol>
+<li>
+Scope verification: The project team will use agile testing and waterfall techniques to verify that the deliverable of the project meets the requirements and align with the scope statement that can fully utilize the project implementation every iteration. 
+</li>
+<li>
+Scope change control:  Any changes to the scope of the project will be managed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality. 
+</li>
+<li>
+Scope change view: A scope change review will be held for each iteration request  to ensure that the changes is necessary, feasible and aligned with the project’s mission, vision and the objectives of the Fleeky Hub/ Fleeky Curtains. 
+</li>
+</ol>
+
+
+<h2>Scope Management Approach</h2>
+<ol>
+<li>
+Authority and responsibility for scope management will be held by the Project Manager, Pallas Fontiveros, who will work closely with the Project Sponsor, Ms. Mitzi Garcia, and other key stakeholders to define and manage the scope of the project. 
+</li>
+<li>
+To determine the scope of the project, a Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and a comprehensive Statement of Work (SOW) will be developed. These documents will precisely specify the project's objectives, activities, and prerequisites, and will undergo evaluation and endorsement by the project sponsor and other involved parties prior to commencing the work. 
+</li>
+<li>
+The project's extent will be evaluated and confirmed using quality checklists, measurements of work performance, and regular monitoring of the project's advancement in relation to the original scope. If there are any discrepancies from the initial scope, they will be identified and dealt with using the scope change process. 
+</li>
+<li>
+The Fleeky Hub project's procedure for modifying its scope will entail the Project Manager submitting a request for scope change, which will then be approved by the project sponsor. It is crucial to thoroughly assess any alterations to the project's scope to ensure that they are consistent with the project's objectives and do not have a detrimental impact on the project schedule or budget. 
+</li>
+<li>
+The project manager will ensure that all project requirements are met and that the project sponsor and other important stakeholders approve and accept the final project deliverables. The project will be considered successfully completed only after all deliverables have been accepted and any remaining issues have been addressed. 
+</li>
+</ol>
+<h2>Roles and Responsibilities </h2>
+
+| Name | Role | Responsibility |
+| ------------- | ------------- | ------------- |
+| Pallas Dale Fontiveros  | Project Team Leader & QA Checker | Leads the team and manages the overall progress |
+| Neil Albert Garcia  | Project Manager | Reports to the stakeholder and decides on what's best for the client and to the team |
+| Bryan Gel Fabellore | Website Developer & Technical Lead | Handles the front and back end development |
+| Joshua Timothy Roxas | Website Developer | Handles UI/UX and front end development |
+| Gabriel Luis Antonio Perez | Website Developer & Documentation | Handles front end development and consolidates the document |
+
+<h2> Scope Definition </h2>
+
+<p>The scope of this project includes the development of an e-commerce website called Fleeky Hub for Fleeky Curtains. The website will feature an order system for the client's customers, which includes creating an account, paying online or via cash on delivery. The website will have two main features: one for the client's customers and the other for the admin/owner side. The admin/owner side of the website will include analytics and inventory management of the products and serve as a queue list to identify all the pending products that have been ordered by customers through the Fleeky Hub website. </p>
+
+<h2> Project Scope Statement </h2>
+
+<p>The project scope statement for the Fleeky Hub e-commerce website project will detail the project’s deliverable and the work necessary to create these deliverables. The criterion for the product is that the website is functional and can be used by the client’s customers, as it is a working website to navigate and take orders. </p>
+
+<h2> Project Scope Description </h2>
+
+<p>The Fleeky Hub e-commerce website is an online platform designed for Fleeky Curtains' customers to easily browse and purchase products through a user-friendly order system. Customers can pay online or through cash on delivery and view their order history and delivery status. The website also provides inventory management and sales reports for the admin/owner. Overall, the website streamlines Fleeky Curtains' business operations and provides a secure and convenient shopping experience for customers.</p>
+
+<h2>Product Acceptance Criteria</h2>
+
+<p>Product acceptance criteria are a set of requirements that a product must meet to be accepted. They ensure the product meets the needs of users. For the Fleeky Hub e-commerce website, acceptance criteria will guide development to meet requirements and be delivered on time and within budget. </p>
+
+<ol>
+<li>
+The website must be accessible from multiple devices and browsers and be responsive to different screen sizes. 
+</li>
+<li>
+The website must have a secure payment gateway and be able to process payments accurately. 
+</li>
+<li>
+The order system must be user-friendly and allow customers to easily browse products, add items to their cart, and complete their purchase. 
+</li>
+<li>
+Customers must be able to view their order history, delivery status, and leave feedback for their purchases. 
+</li>
+<li>
+The website must provide inventory management and sales reports for the admin/owner to manage the business operations effectively. 
+</li>
+<li>
+The website must be tested and verified to ensure it is free of bugs and errors that may negatively impact the customer experience. 
+</li>
+<li>
+The website must meet all applicable laws and regulations regarding online sales and data privacy. 
+</li>
+<li>
+The website must be delivered within the agreed-upon timeline and budget, with all features and functionalities fully implemented and tested. 
+</li>
+</ol>
+
+<h2>Project Deliverables</h2>
+
+<p>The following list of deliverables will be provided upon successful completion of the project: E-commerce website design and development </p>
+<ol>
+<li>
+User stories and acceptance criteria 
+</li>
+<li>
+Survey results and analysis 
+</li>
+<li>
+Scope statement and baseline 
+</li>
+<li>
+Change log and change management plan. 
+</li>
+<li>
+Weekly and daily progress reports 
+</li>
+<li>
+Inventory management system for products 
+</li>
+<li>
+Analytics system for tracking website traffic and customer behavior 
+</li>
+<li>
+Queue list for tracking pending orders. 
+</li>
+<li>
+Payment system for online transactions and cash on delivery 
+</li>
+</ol>
+<p>These deliverables are essential for the successful completion and acceptance of the project.</p>
+
+<h2>Project Exclusions</h2>
+<p>The following work is outside the scope of this project and will not be included: </p>
+<ol>
+<li>
+The project does not include any development or integration with third-party applications or services not specifically mentioned in the project scope statement. 
+</li>
+<li>
+The project does not cover any physical inventory management or tracking outside of the website's system. 
+</li>
+<li>
+The project does not involve any design or development of mobile applications or other non-web-based solutions. 
+</li>
+<li>
+The project does not include any significant updates or changes to the client's existing branding or marketing materials outside of the website design. 
+</li>
+<li>
+The project does not cover any legal or regulatory compliance issues specific to the client's industry or geographic location. 
+</li>
+<li>
+The project does not include any extensive user testing or focus group research beyond what is necessary to define and develop the initial user stories and acceptance criteria. 
+</li>
+<li>
+The project does not involve any major changes or updates to the client's existing website hosting or infrastructure. 
+</li>
+</ol>
+
+<h2>Project Constraints</h2>
+
+<ol>
+<li>
+Budget constraints: The project must be completed within the allocated budget, which includes costs for development, testing, and any necessary software or tools. 
+</li>
+<li>
+Time constraints: The project must be completed within the agreed-upon timeframe, considering any milestones or deadlines set by the client. 
+</li>
+<li>
+Resource constraints: The project team must work within the limitations of the available resources, including personnel, hardware, software, and any other necessary tools. 
+</li>
+<li>
+Technology constraints: The website must be developed using the agreed-upon technology stack, which includes specific programming languages, frameworks, and platforms. 
+</li>
+<li>
+Security constraints: The website must comply with all necessary security requirements, including SSL encryption, secure login and payment processing, and protection against hacking and other cyber threats. 
+</li>
+<li>
+Compatibility constraints: The website must be compatible with a variety of web browsers and devices, including desktop computers, laptops, tablets, and smartphones. 
+</li>
+<li>
+Usability constraints: The website must be user-friendly and intuitive, with a clean and consistent design that is easy to navigate for both customers and administrators. 
+</li>
+</ol>
+
+
+<h2>Project Assumptions</h2>
+<ol>
+<li>
+The client will provide all necessary content and product information in a timely manner. 
+</li>
+<li>
+The client has a clear understanding of their business requirements and goals. 
+</li>
+<li>
+The client has secured necessary payment and shipping integrations for the website. 
+</li>
+<li>
+The development team has the necessary skills and resources to complete the project within the given timeframe. 
+</li>
+<li>
+The website will be built on a reliable and scalable platform. 
+</li>
+<li>
+The website will be designed and developed with responsive design in mind, to ensure optimal display across various devices. 
+</li>
+<li>
+The website will comply with relevant laws and regulations, including data privacy laws and accessibility guidelines. 
+</li>
+</ol>
+
+<h2> Work Breakdown Structure </h2>
+
+<p>The project team will utilize the Work Breakdown Structure (WBS) to create a detailed view of the project scope by breaking it down into smaller components. Each level of the WBS will represent a progressively more detailed view of the project, which will assist in assigning responsibilities to team members and tracking progress. The WBS Dictionary will provide detailed information about each component in the WBS, including the scope of work, deliverables, responsibilities, and any other relevant information. The WBS and WBS Dictionary will be crucial in managing the project scope, ensuring that all aspects of the project are accounted for, and that the project stays on track and within scope. </p>
+
+<ol>
+      <li>
+        Fleeky Hub
+        <ol>
+          <li>
+            Pre-development
+            <ol>
+              <li>Planning and Analysis</li>
+              <li>Determine user requirements</li>
+              <li>Develop project timelines</li>
+              <li>Feasibility Assessment</li>
+              <li>Create Preliminary Scope Statement</li>
+              <li>Submit Project Plan</li>
+              <li>Project Proposal Presentation</li>
+              <li>Project Approval</li>
+            </ol>
+          </li>
+          <li>
+            Initiation
+            <ol>
+              <li>Create user personas</li>
+              <li>UI/UX Design</li>
+              <li>Diagram Flow Diagram</li>
+              <li>Develop Project Charter</li>
+              <li>Deliverable: Submit Project Charter</li>
+              <li>Project Sponsor Reviews Project Charter</li>
+              <li>Project Charter Signed/Approved</li>
+              <li>Advising</li>
+            </ol>
+          </li>
+          <li>
+            Development
+            <ol>
+              <li>Framework assessment</li>
+              <li>Back-end development</li>
+              <li>Front-end publishing</li>
+              <li>Payment gateway API</li>
+              <li>Integrate functionalities</li>
+            </ol>
+          </li>
+          <li>
+            Testing and Quality Assurance
+            <ol>
+              <li>Test website functionality and usability</li>
+              <li>Stakeholder testing</li>
+              <li>Database checking</li>
+              <li>Gateway testing</li>
+            </ol>
+          </li>
+          <li>
+            Deployment and Maintenance
+            <ol>
+              <li>Launch website</li>
+              <li>Create leads that will land to the website</li>
+              <li>Post-launch monitoring</li>
+              <li>Address issues and bugs</li>
+            </ol>
+          </li>
+          <li>
+            Closeout
+            <ol>
+              <li>Audit Procurement</li>
+              <li>Document Lessons Learned</li>
+              <li>Update Files/Records</li>
+              <li>Gain Formal Acceptance</li>
+              <li>Archive Files/Documents</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+    </ol>
+
+![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002947/e5d16acd-beb1-4072-8d0d-ba7cb23d7ac7)
+
+<h2>Quality Checklists</h2>
+<p>In this table, each checklist item is listed in the first column. The second column has a checkbox for "Yes" to indicate that the item meets the quality standard, the third column has a checkbox for "No" to indicate that the item does not meet the quality standard, and the fourth column has a checkbox for "N/A" to indicate that the item is not applicable to the website being evaluated. The evaluator can mark the appropriate checkbox for each checklist item as they go through the evaluation process. </p>
+
+<h2>Work Performance Measurements</h2>
+<p>These performance metrics will be used to monitor the website development project for Fleeky Curtains and make sure it is finished on schedule, within budget, and to the satisfaction of the client. Following these metrics throughout the project will enable Fleeky Curtains to see areas where they are succeeding and those where they might need to make improvements, which will eventually result in a successful project and pleased clients.</p>
+
+| Work Performance Measurement  | Description | Calculation | Target | 
+| ------------- | ------------- | ------------- | ------------- |
+| Schedule Performance | Measures the actual progress of the project compared to plan | Actual completion date of task / Planned completion date of task x 100 | 100% |
+| Cost Performance | Measures the actual cost of the project compared to budget | Actual costs incurred to date / Budgeted costs for the same period x 100 | >100% |
+| Quality Performance | Measures the quality of the deliverables produced by the project | Quality metrics such as defect density, user satisfaction, or code review ratings | >100% |
+| Scope Performance | Measures the actual project deliverables produced compared to | Completed deliverables / Planned deliverables x 100 | 100% |
+| Customer Satisfaction | Measures the satisfaction of the customer with the project | Surveys, customer feedback, or other means | High |
+
+<h2>Scope Baseline</h2>
+
+
+| Scope Baseline Component  | Description |
+| ------------- | ------------- |
+| Project Scope Statement | The goal of the project is to build Fleeky Curtains a new website that will improve its online visibility, boost client involvement, and eventually boost sales.
+Deliverables include a fully working website with an intuitive user interface, mobile responsiveness, and simple navigation. A product catalog, shopping cart, and checkout features will all be available on the website.
+Requirements: The Django framework will be used to build the website, and a secure server will host it. The website will adhere to web accessibility guidelines and be search engine optimized. |
+| Content Cell  | Content Cell  |
+
+
+
+<table border="1" align="center">
+  <tr>
+    <th>Checklist Item</th>
+    <th>Yes</th>
+    <th>No</th>
+    <th>N/A</th>
+  </tr>
+  <tr>
+    <td>Navigation is easy to use and logical</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Content is of high quality and relevant</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Visual design is professional and visually appealing</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Website loads quickly and is responsive</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Website is optimized for mobile devices</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Website is secure and protected against hacks or breaches</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+  <tr>
+    <td>Website is optimized for search engines</td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+    <td><input type="checkbox"></td>
+  </tr>
+</table>
+
+<h2> Scope Verification </h2>
+
+<p>Scope verification is the process of reviewing the project deliverables to ensure that they meet the requirements specified in the project scope statement. To verify the scope of the Fleeky Hub e-commerce website project, the project team will conduct the following activities: </p>
+<ol>
+<li>
+Review the project scope statement and the WBS to ensure that all project deliverables are accounted for. 
+</li>
+<li>
+Conduct regular meetings with the client to ensure that their expectations are being met and to address any concerns or changes to the scope. 
+</li>
+<li>
+Use the WBS Dictionary to ensure that each component of the project has been completed according to the specifications outlined in the scope. 
+</li>
+<li>
+Use testing and quality assurance measures to ensure that the website functions as intended and meets the requirements outlined in the scope. 
+</li>
+<li>
+Obtain formal acceptance from the client that the project deliverables meet their expectations and are in line with the project scope statement. 
+</li>
+</ol>
+
+<h2> Scope Control </h2>
+
+<p>Project Name: Fleeky Hub: Website Development Project <br>
+Project Manager: Pallas Dale Fontiveros <br>
+<p>Scope Control Document</p>
+
+<p>1.0 Purpose</p>
+<p>This document's goal is to outline the scope control procedure for the project to develop the Fleeky Curtains website. </p>
+
+<p>2.0 Scope Baseline</p>
+<p>The project charter, project management plan, and other project paperwork all provide information on the project's scope baseline. The change control procedure must be followed to authorize any modifications to the project's scope. </p>
+
+<p>3.0 Scope Control Process</p>
+<p>The following phases make up the scope control procedure for the Fleeky Curtains website development project: </p>
+
+<p>3.1 Monitor the Project Scope</p> 
+<p>The project team will keep an eye on the project scope throughout the whole project lifespan to make sure it stays in line with the project goals and organizational requirements. The project manager is in charge of keeping an eye on the project's scope and making any required updates to the project documents. </p>
+
+<p>3.2 Verify Scope </p>
+<p>After each project phase or milestone is finished, the project team will confirm the project's scope. To make sure the finished work satisfies the project's criteria, deliverables, and objectives, the project manager will examine it. </p>
+
+<p>3.3 Control Scope </p>
+<p>The change control procedure must be followed in order to authorize any modifications to the project's scope. Any suggested modifications to the project scope will be identified and assessed by the project team, and the project manager will examine and either accept or reject the change request. All project stakeholders will be informed of approved changes, which will then be recorded in the project documentation. </p>
+
+<p>4.0 Scope Control Roles and Responsibilities </p>
+<p>The scope control process involves the roles and tasks listed below: </p>
+<ul>
+<li>
+Project manager: accountable for overseeing, validating, and managing the project's scope. 
+</li>
+<li>
+The project team: is in charge of locating and assessing any suggested modifications to the project's scope. 
+</li>
+<li>
+The project sponsor is in charge of authorizing any scope adjustments. 
+</li>
+</ul>
+ 
+<p>5.0 Scope Control Change Request Form </p>
+<p>The change control procedure must be followed in order to authorize any modifications to the project's scope. The scope control change request form has to contain the following details: </p>
+<ul>
+<li>
+Modify the description 
+</li>
+<li>
+The change's motivation 
+</li>
+<li>
+Effect on project deliverables, needs, and objectives 
+</li>
+<li>
+A suggested solution 
+</li>
+<li>
+Estimated impact on costs and timeline 
+</li>
+<li>
+Signed authorizations 
+</li>
+</ul>
+
+
+
+
+
+
+
+=Work Breakdown Structure=
+
+<h2>Introduction</h2>
+<p>The Work Breakdown Structure is breakdown of all the work packages necessary to complete, presented here represents all the work required to complete this project. A WBS is constructed Outline View Structure to develop to easily navigate and understand the structure how to accomplish this project, it also represents the work identified in the approved Project Scope Statement and serves as an Initial Schedule Development and Cost Estimating. We do the WBS is help more accurately and specifically define and organize the scope of the whole project. Also, to help with assigning responsibilities, resource allocation, monitoring and controlling the project.</p>
+<h2><strong>Outline View</strong></h2>
+<li>Just-In-Time E-Commerce Website
+<ul>
+<ul>Initiation
+<ul>
+<ul>Determine Project Team</ul>
+<ul>Develop Project Charter</ul>
+<ul><em>Deliverable:</em> Submit Project Charter</ul>
+<ul>Project Sponsor Reviews Project Charter</ul>
+<ul>Project Charter Signed/Approved</ul>
+<ul><em>Deliverable:</em> Work Breakdown Structure</ul>
+</ul>
+</ul>
+<ul>Planning
+<ul>
+<ul>Create Preliminary Scope Statement</ul>
+<ul>Project Team Initial Meeting</ul>
+<ul><em>Deliverable:</em> Stakeholder Management Plan</ul>
+<ul><em>Deliverable:</em> Schedule Management Plan</ul>
+<ul><em>Deliverable:</em> Cost Management Plan</ul>
+<ul>Submit Deliverables</ul>
+<ul>Project Team Meeting</ul>
+<ul><em>Milestone:</em> Project Plan Approval</ul>
+</ul>
+</ul>
+<ul>Execution
+<ul>
+<ul>Project Team Meeting</ul>
+<ul>Verify &amp; Validate Stakeholder Requirements</ul>
+<ul>Design System</ul>
+<ul>Procure Hardware/Software</ul>
+<ul>Install Development System</ul>
+<ul>Sprint Planning Meeting</ul>
+<ul>Create Sprint Backlog</ul>
+<ul>Develop Sprint Backlog Items (Daily Scrum)</ul>
+<ul>Sprint Review Meeting</ul>
+<ul>Sprint Retrospective Meeting</ul>
+<ul>Integration to Cloud Server</ul>
+</ul>
+</ul>
+<ul>Control
+<ul>
+<ul>Quality Assurance Control</ul>
+<ul>Project Management</ul>
+<ul>Project Status Meetings</ul>
+<ul>Risk Management</ul>
+<ul>Update Project Management Plan</ul>
+</ul>
+</ul>
+<ul>Closeout
+<ul>
+<ul>Audit Procurement</ul>
+<ul>Document Lessons Learned</ul>
+<ul>Update Files/Records</ul>
+<ul>Gain Formal Acceptance</ul>
+<ul>Archive Files/Documents</ul>
+</ul>
+</ul>
+</ul>
+
+
+
+<h2>WBS Dictionary</h2>
+<table width="780" border="1" align="center">
+		<tr>
+			<td width="141" bgcolor="lightblue">
+				<p>Level</p>
+			</td>
+			<td width="64" bgcolor="lightblue">
+				<p>WBS Code</p>
+			</td>
+			<td width="228" bgcolor="lightblue">
+				<p>Element Name</p>
+			</td>
+			<td width="348" bgcolor="lightblue">
+				<p>Definition</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>1</p>
+			</td>
+			<td width="64">
+				<p>1</p>
+			</td>
+			<td width="228">
+				<p>Just-In-Time E-Commerce Website</p>
+				<p> </p>
+			</td>
+			<td width="348">
+				<p>All are will work to implement a Just-In-Time E-Commerce Website.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>2</p>
+			</td>
+			<td width="64">
+				<p>1.1</p>
+			</td>
+			<td width="228">
+				<p>Initiation</p>
+			</td>
+			<td width="348">
+				<p>The Team will work to initiate the project.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.1.1</p>
+			</td>
+			<td width="228">
+				<p>Determine Project Team</p>
+			</td>
+			<td width="348">
+				<p>The Project Manager determines the project team and requests the resources.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.1.2</p>
+			</td>
+			<td width="228">
+				<p>Develop Project Charter</p>
+				<p> </p>
+			</td>
+			<td width="348">
+				<p>The Project Team will come-up a project charter.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.1.3</p>
+			</td>
+			<td width="228">
+				<p><em>Deliverable:</em> Submit Project Charter</p>
+			</td>
+			<td width="348">
+				<p>The Project Manager will deliver the project charter to the Project Sponsor.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.1.4</p>
+			</td>
+			<td width="228">
+				<p>Project Sponsor Reviews Project Charter</p>
+			</td>
+			<td width="348">
+				<p>The Project sponsor will review the Project Charter.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.1.5</p>
+			</td>
+			<td width="228">
+				<p>Project Charter Signed/Approved</p>
+			</td>
+			<td width="348">
+				<p>The Project Manager will need to approve/sign the Project Charter to the Project Sponsor.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.1.6</p>
+			</td>
+			<td width="228">
+				<p><em>Deliverable:</em> Work Breakdown Structure</p>
+			</td>
+			<td width="348">
+				<p>The Project Manager will deliver the Work Breakdown Structure to the Project Sponsor.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2</p>
+			</td>
+			<td width="228">
+				<p>Planning</p>
+			</td>
+			<td width="348">
+				<p>The Project Team will work for the planning process for the project.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2.1</p>
+			</td>
+			<td width="228">
+				<p>Create Preliminary Scope Statement</p>
+			</td>
+			<td width="348">
+				<p>The Project Manager will create a Preliminary Scope Statement.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2.2</p>
+			</td>
+			<td width="228">
+				<p>Project Team Initial Meeting</p>
+			</td>
+			<td width="348">
+				<p>The Project Team will start an initial meeting together with Project Manager and Project Sponsor (optional).</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2.3</p>
+			</td>
+			<td width="228">
+				<p><em>Deliverable:</em> Stakeholder Management Plan</p>
+			</td>
+			<td width="348">
+				<p>The Project manager will analyze all stakeholders and their anticipated expectations of the project outcome and deliverables.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2.4</p>
+			</td>
+			<td width="230">
+				<p><em>Deliverable:</em> Schedule Management Plan</p>
+			</td>
+			<td width="354">
+				<p>The Project Manager will develop a schedule management plan and the communicating schedules for time and resource.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2.5</p>
+			</td>
+			<td width="230">
+				<p><em>Deliverable:</em> Cost Management Plan</p>
+			</td>
+			<td width="354">
+				<p>The Project Manager will plan and controll the budget of a business also a form of management accounting that allows a business to predict impending expenditures to help reduce the chance of going over budget.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2.6</p>
+			</td>
+			<td width="230">
+				<p>Submit Deliverables</p>
+			</td>
+			<td width="354">
+				<p>The Project Manager will submit the project deliverables to the project sponsor.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2.7</p>
+			</td>
+			<td width="230">
+				<p>Project Team Meeting</p>
+			</td>
+			<td width="354">
+				<p>The Project Team will continue the initial meeting together with Project Manager and Project Sponsor</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>3</p>
+			</td>
+			<td width="64">
+				<p>1.2.8</p>
+			</td>
+			<td width="230">
+				<p><em>Milestone:</em> Project Plan Approval</p>
+			</td>
+			<td width="354">
+				<p>When the project plan is already approved, the Project Manager has permission to proceed to execute the project according to the project plan.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3</p>
+			</td>
+			<td width="230">
+				<p>Execution</p>
+			</td>
+			<td width="354">
+				<p>Execute the project plan.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p> </p>
+				<p> </p>
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.1</p>
+			</td>
+			<td width="230">
+				<p>Project Team Meeting</p>
+			</td>
+			<td width="354">
+				<p>The Project Manager will conduct a formal meeting with the project team, project stakeholders and project sponsor.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.2</p>
+			</td>
+			<td width="230">
+				<p>Verify &amp; Validate User Requirements</p>
+			</td>
+			<td width="354">
+				<p>The original user requirements are reviewed by the project manager and team, then validated with the users/stakeholders. This is where additional clarification may be needed.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.3</p>
+			</td>
+			<td width="230">
+				<p>Design System</p>
+			</td>
+			<td width="354">
+				<p>The Project Team design the new management system.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.4</p>
+			</td>
+			<td width="230">
+				<p>Procure Hardware/Software</p>
+			</td>
+			<td width="354">
+				<p>The Project Team will procure of all hardware, software and facility needs for the project.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.5</p>
+			</td>
+			<td width="230">
+				<p>Install Development System</p>
+			</td>
+			<td width="354">
+				<p>The Project Team will install a development system for testing and customizations of user interfaces.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.6</p>
+			</td>
+			<td width="230">
+				<p>Sprint Planning Meeting</p>
+			</td>
+			<td width="354">
+				<p>Planning Meeting for maximum of eight hours for a one-month Sprint. </p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.7</p>
+			</td>
+			<td width="230">
+				<p>Create Sprint Backlog</p>
+			</td>
+			<td width="354">
+				<p>During the sprint planning meeting, the Project team selects some number of product backlog items, usually in the form of user stories, and identifies the tasks necessary to complete each user story.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.8</p>
+			</td>
+			<td width="230">
+				<p>Develop Sprint Backlog Items (Daily Scrum)</p>
+			</td>
+			<td width="354">
+				<p>The Project Team develop a Daily Scrum meeting ideally during start of the working day.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="141">
+				<p>4</p>
+			</td>
+			<td width="64">
+				<p>1.3.9</p>
 
 			</td>
 			<td width="230">
