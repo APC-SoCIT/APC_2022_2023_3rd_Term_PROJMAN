@@ -334,11 +334,7 @@ The website will be able to recruit and keep a strong team of web developers, de
 
 
 
-
-
-
-
-==Project Charter
+<h2>Project Charter</h2>
 <h2>Executive Summary</h2>
 <p>The pandemic has caused businesses to adapt quickly, using social media platforms such as Facebook and e-commerce platforms to sell their products. Fleeky Curtains is an independent family business that provides curtain products. They operate the business at the local household and book a courier to pick up the item and deliver the item to the customer. They aim to grow their market share in the home product industry by observing and adapting to the behavior of the consumers. The employees in the business consist of the members of the family where they take charge of the sewing, assemble the packaging, the messages at Facebook, Shopee inquiries, product inspection, and one that list and encode transactions and customer information. Despite having a limited number of employees, the business wishes to accomplish tasks at an efficient rate due to the lack of workforce/person. The most important details in this text are the production time, packaging time, encoding time, number of products and raw materials, inquiries, available products, expanding the potential clients, and the staff. Fleeky Curtains mentioned that when there is no assistant, the staff finishes the tasks behind time, and that handling and assembling the packaging of one customer order takes 25 minutes of their time. Additionally, the staff must cope with their sleep and roles at work or school, and they must adapt to the market. Fleeky Curtains is an e-commerce company that uses a variety of materials to produce their products. Raw materials such as fabrics, threads, grommet, and curtain rings are used to build a finish product, and packaging materials such as bubble wrap are used to cover the products. Spending activities are traced and recorded within an Excel sheet, and customer data is stored in an Excel sheet. Customer data helps them to identify customer behavior and consumerism, and user experience is most observed when presented with convenience. They have gained knowledgeable feedback and experience revolving to their current system and workflows. Spotlight interviewed one of the admins that handle Fleeky Curtains, Mr. Neil Albert Garcia, to discuss their pain points when it comes to handling their business. These include fees and expenses to the e-commerce platform, poor delivery system, manual encoding of customer details, raw materials and on-hand stocks not documented and audited, finding ways to expand their clients and markets, and manual reports and tracing the performance of the business. These inputs will help align the project with the client's needs and interests. </p>
 
@@ -896,7 +892,6 @@ The website will be designed and developed with responsive design in mind, to en
 The website will comply with relevant laws and regulations, including data privacy laws and accessibility guidelines. 
 </li>
 </ol>
-
 
 <h2> Work Breakdown Structure </h2>
 
@@ -2683,74 +2678,55 @@ Implement lessons learned from previous projects to enhance communication practi
 
 <p>The following table presents contact information for all persons identified in this communications management plan. The email addresses and phone numbers in this table will be used to communicate with these people.</p>
 
-  <table>
+ <table>
     <tr>
       <th>Name</th>
       <th>Position</th>
-      <th>Internal, External</th>
+      <th>Internal/External</th>
       <th>Project Role</th>
       <th>Contact Information</th>
     </tr>
     <tr>
-      <td>Manager of Operations</td>
+      <td>Mitzi Hannah Garcia</td>
+      <td>Sponsor</td>
       <td>Internal</td>
       <td>Project Sponsor</td>
-     
+      <td>mhagarcia927@gmail.com</td>
     </tr>
     <tr>
-      <td>-</td>
+      <td>Neil Albert Garcia</td>
+      <td>Manager</td>
       <td>Internal</td>
-      <td>Internal User of the system</td>
-      
+      <td>Project Coordinator/Manager</td>
+      <td>nagarcia@student.apc.edu.ph</td>
     </tr>
     <tr>
-      <td>-</td>
-      <td>Members of Operations</td>
-      <td>Internal</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
- 
-      <td>-</td>
-      <td>External</td>
-      <td>External user of the system</td>
- 
-    </tr>
-    <tr>
-
-      <td>-</td>
-      <td>External</td>
-      <td>External user of the system</td>
-
-    </tr>
-    <tr>
-      <td>Roselyn Angeles</td>
-      <td>Consultant</td>
-      <td>External</td>
+      <td>Pallas Dale Fontiveros</td>
       <td>Project Manager</td>
-
+      <td>Internal</td>
+      <td>Leader</td>
+      <td>prfontiveros@student.apc.edu.ph</td>
     </tr>
     <tr>
-      <td>-</td>
-      <td>Junior Developer</td>
+      <td>Bryan Gel Fabellore</td>
+      <td>Technical Lead</td>
       <td>Internal</td>
       <td>Development Team</td>
-      <td>-</td>
+      <td>bcfabellore@student.apc.edu.ph</td>
     </tr>
     <tr>
-      <td>-</td>
-      <td>Senior Developer</td>
+      <td>Gabriel Luis Antonio Perez</td>
+      <td>Developer</td>
       <td>Internal</td>
       <td>Development Team</td>
-      <td>-</td>
+      <td>gmperez@student.apc.edu.ph</td>
     </tr>
     <tr>
-      <td>-</td>
-      <td>Quality Assurance Analyst</td>
+      <td>Joshua Timothy Roxas</td>
+      <td>Developer</td>
       <td>Internal</td>
       <td>Development Team</td>
-      <td>-</td>
+      <td>jbroxas@student.apc.edu.ph</td>
     </tr>
   </table>
 
