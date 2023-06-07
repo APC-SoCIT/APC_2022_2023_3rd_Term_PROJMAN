@@ -617,11 +617,6 @@ To recognize and motivate exceptional performance, Fleeky Hub will institute a r
 
 
 
-
-
-
-
-
 <h2>Change Management Plan</h2>
 <h2>Introduction</h2>
 <p>The Fleeky Curtains project Communication Management Plan includes the methods and procedures to support successful communication among all project stakeholders. Clear and timely communication is critical for effective project implementation because it keeps everyone informed, engaged, and aligned throughout the project's lifespan.<br>
@@ -2231,3 +2226,7 @@ Review the change request log and reports to ensure alignment with changes. </p>
       <td>Change request work is complete, has passed all tests, and updates have been released.</td>
     </tr>
   </table>
+
+
+
+
