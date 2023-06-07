@@ -17,31 +17,35 @@
 
 <p>The following are the roles and duties of the quality management plan: </p>
 
-<table border="1" width ="100%" allign="center">
-<thead>
-<tr>
-<th>Role</th>
-<th>Description</ th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Project Manager</td>
-<td>accountable for ensuring that all deliverables are completed on time and that all stakeholders are pleased with the product. </td>
-</tr>
-<tr>
-<td>Project Team Leader</td>
-<td>responsible for ensuring that the team adheres to the Scrum principles and cooperates with Product Owner and Development Team to enhance the final product. </td>
-</tr>
-<tr>
-<td>Project Team Development</td>
-<td>responsible for making contributions to accomplish the project objectives. ensuring that each deliverable is completed. Providing expertise and collaboration to define and satisfy business requirements to ensure the project's success. </td>
-</tr>
-<tr>
-<td>Project Sponsor</td>
-<td>is responsible for supporting the project and allocating financial resources. </td>
-</tr>
-</tbody>
+<table border="1" width="70%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Manager</p></td>
+ <td><p style="text-align:center;">Accountable for ensuring that all deliverables are completed on time and that all stakeholders are pleased with the 
+ product. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Leader</p></td>
+ <td><p style="text-align:center;">Responsible for ensuring that the team adheres to the Scrum principles and cooperates with Product Owner and 
+ Development Team to enhance the final product. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Development</p></td>
+ <td><p style="text-align:center;">Responsible for making contributions to accomplish the project objectives. ensuring that each deliverable is 
+ completed. Providing expertise and collaboration to define and satisfy business requirements to ensure the project's success. </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Sponsor</p></td>
+ <td><p style="text-align:center;">Responsible for supporting the project and allocating financial resources. </p></td>
+ </tr>
+
 </table>
 
 <p> Every aspect of the project will involve the integration of quality management, which will be the responsibility of the entire team. Feedback and interaction from the client will always be the priority of the team to improve the project. </p>
