@@ -309,6 +309,14 @@ The alternative idea for the Cost Benefit Analysis (CBA) of this project, is to 
 <br>   
 Once settled and approved of, regarding the costing that will be rendered for the webhosting services, the Elite Four uploads the project to AWS for it to be launched and announced for the business accordingly. Reports and receipts will also be delivered to D7 Auto Service Center so it may be liquidated correspondingly.
 
+==4.7. Alternative Analysis==
+The alternatives analysis was focused on providing an alternative solution for the webhosting of the project, and it is determined to have AWS as a host alternative in case of the following:  <br>
+*The web-application is not suitable to be implemented in the Microsoft Azure platform.  
+*The web-application has difficulties, and many concerns when to be or when hosted via Microsoft Azure.  
+*The client and/or the stakeholders of the project decide to proceed with the alternative as decided.  
+<br>
+
+
 =5. PROJECT CHARTER=
 ==5.1 Executive Summary==
 D7 has always done business in the automotive industry utilizing traditional logbooks and perform face-to-face transactions for over 16 years. Over these years, the business recently acquired an online platform, (Facebook) because of the pandemic, however, they struggled with its online presence, statistics, and the lack of functionality in their present system, including their reservation system. To solve these issues, the D7 Auto Service Center Web-App project was developed by the Elite Four of BSIT-MI 201. The project will offer improved technological solutions by introducing a new platform, giving the company greater flexibility to display their services and offers, comprehensive statistics, and a new reservation system
