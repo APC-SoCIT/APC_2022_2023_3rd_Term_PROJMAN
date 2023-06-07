@@ -1361,7 +1361,7 @@ The Quality Assurance process of the D7 Auto Service Center Web-App is also need
 <b>Compliance to Industry Standards:</b> As part of the PBL or Project Based Learning, this project will undergo the process of industry standards wherein, it will go through the planning, system analysis and design, then development phase which ensures that all deliverables and documentations are well polished and organized. 
 <br><br>
 <b>Client Feedback:</b> The client’s satisfaction with the project will be considered as this is pivotal to the project’s completion. 
-<br><br>
+<br><
 Quality Assurance of the project will be closely watched as it is a crucial part in making sure that the project was delivered in compliance to the standards and customer satisfaction while following through the methodologies used in completion of the project.
 
 ==11.5 Quality Control==
@@ -1375,7 +1375,7 @@ To make sure that the project meets the required quality standards, the followin
 
 ==11.6 Quality Control Measurements==
 To check and control project performance, a set of quality control measurements will be implemented throughout the project lifecycle. The following measurements will be used: 
-<br><br>
+<br>
 *Regularly, the team will review test results and validation reports to ensure that the D7 Auto Service Center Web-App meets all necessary requirements and specifications set by the client. 
 <br>
 *Quality metrics will be proven to evaluate project performance, including measuring the number of bugs and the number of client issues reported. This data will be used to name areas for improvement and take necessary actions to ensure that project goals are met. 
@@ -1385,7 +1385,7 @@ To check and control project performance, a set of quality control measurements 
 *The team will regularly review the changes to ensure that all project changes are appropriately documented, tracked, and approved. Unauthorized changes will be found and addressed promptly to support project quality and integrity. 
 <br>
 *Client feedback will be regularly collected and analyzed to find any areas where client expectations are not being met. With the help of this feedback, the project will be changed and improved as needed to keep up with the needs and satisfaction of the client. 
-<br><br>
+<br>
 By following this Quality Management Plan, we can ensure that the D7 Auto Service Center Web-App project meets the necessary quality requirements and standards, and that quality is managed and controlled throughout the project lifecycle.
 
 =12. HUMAN RESOURCES MANAGEMENT PLAN=
@@ -1456,7 +1456,7 @@ A project organizational chart visualizes the project's structure, roles, and re
 
 ==12.4 Staffing Management==
 Throughout the project’s duration, Staffing Management is of utmost importance because it defines the most essentials for the team and their roles to have a successful project execution. Being able to outline the strategies, and the processes of each project phase from planning to closeout, to effectively manage acquiring to turnover, makes human resources clearly informed of their tasks and responsibilities. 
-<br><br>
+<br>
 *Acquisition is necessary to be done in the timeliest way to acquire the necessary skills and expertise needed in the project.
 
 *Training is an important step before starting the project to reduce errors and improve skills for better performance in delivering project outcomes.
@@ -1515,7 +1515,7 @@ The project’s Human Resource and Staffing may be subjected to change as there 
 =13. COMMUNICATIONS MANAGEMENT PLAN=
 ==13.1 Introduction==
 The D7 Auto Service Center Web-app project considers the Communications Management Plan as a crucial element since it specifies the communication strategy and processes that must be of adherence in order to enable concise and clear communication within the project team and project sponsor. 
-<br><br>
+<br>
 *The project information details that will be communicated are outlined in the plan; these may include project updates, progress reports, risks, and challenges. 
 <br>
 *To ensure that all stakeholders are informed promptly, the plan delineates the communication methods that will be utilized.
@@ -1529,7 +1529,6 @@ The D7 Auto Service Center Web-app project considers the Communications Manageme
 *The plan specifies the process of communication within the project, including how information is disseminated among team members, stakeholders, and other project partners. This ensures that all stakeholders are informed, and that information is exchanged promptly and efficiently.
 <br>
 *The plan incorporates a protocol for escalating and resolving any communication-related conflicts or challenges that may arise during the project. This protocol helps to ensure that any communication-based issues are dealt with and resolved promptly, thus ensuring the smooth flow of the project.
-<br>
 
 ==13.2 Communications Management Approach==
 Communication will be very pivotal in the project’s phases, which is why the approach that will be utilized for this project is thought of by the team to be a combination of proactive and reactive strategies, while it also takes communication through online and onsite mediums. 
@@ -1543,7 +1542,7 @@ The team will also be conducting meetings with the project manager through onsit
 
 ==13.3 Communications Management Constraints==
 The constraints that the communications management will have will be dependent on following limitations of, but not, limited to the following: 
-<br><br>
+<br>
 1. <b>Limited budget to travel onsite:</b> The project will have limitations in travelling onsite to the client to report pertinent information for the project. 
 
 2. <b>Limited access stakeholders:</b> Due to the stakeholder’s limitations due to the work schedule, this will also be a constraint if the stakeholder is unable to meet with the development team, is in a remote location, or is unavailable for certain reasons. 
@@ -1561,7 +1560,7 @@ The Communication Management Plan for the D7 Auto Service Center Web-app project
 <br>
 3.<b> Accessibility:</b> Communication should be accessible to all stakeholders, considering any language or accessibility needs.
 <br>
-4.<b> Confidentiality:<b> Any sensitive or confidential information should be communicated only to the necessary stakeholders and handled securely.
+4.<b> Confidentiality:</b> Any sensitive or confidential information should be communicated only to the necessary stakeholders and handled securely.
 <br>
 5.<b> Two-way communication:</b> Communication should be a two-way process, allowing stakeholders to provide feedback and ask questions.
 <br>
@@ -1806,23 +1805,23 @@ For the D7 Auto Service Center Web-App, the following decision criteria will be 
 ==14.8 Desicion Metrics for Procurement Activities==
 For the D7 Auto Service Center Web-App, the following performance metrics will be used for procurement activities: <br>
 
-<h6>1.	Vendor Performance Rating:</h6>
+<b> 1.	Vendor Performance Rating:</b>
 
 The rating is determined by assigning scores to various criteria such as product or service quality, responsiveness, and communication. The total score can be averaged and converted to a rating scale of 1 to 5, with 5 being the best. 
 
-<h6>2.	Procurement Cycle Time:</h6>
+<b>2.	Procurement Cycle Time:</b>
 
 The time it takes to complete the procurement process, beginning with identifying the need and ending with the issuance of a purchase order or contract. 
 
-<h6>3.	Cost Variance:</h6>
+<b>3.	Cost Variance:</b>
 
 This metric compares actual procurement costs to planned procurement costs. To compute, subtract the planned costs from the actual costs and divide the result by the planned costs. 
 
-<h6>4.	Customer Satisfaction:</h6>
+<b>4.	Customer Satisfaction:</b>
 
 Customer satisfaction with the procurement process, including responsiveness, communication, and delivery of goods and services. 
 
-<h6>5.	Contract Management:</h6>
+<b>5.	Contract Management:</b>
 The effectiveness of contract management activities such as contract renewals, amendments, and supplier performance monitoring. 
 
 <br>
@@ -1878,8 +1877,6 @@ The following assumptions will be made for the transition approach: <br>
 *d.	The client will have the necessary skills and knowledge to support the system after the transition.===
 <br>
 
-
-
 ==15.3 Transition Team Organization==
 
 <b>Roles and Responsibilities: </b>
@@ -1924,7 +1921,7 @@ To specify the requirements needed for deployment, the team has acquired the fol
 *AWS to get a domain name 
 *AWS LightSail in order to host the web-app  
 <br>
- 
+
 =17. WORK BREAKDOWN STRUCTURE=
 
 ==17.1 Introduction==
