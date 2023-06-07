@@ -303,7 +303,7 @@
 : By aligning the ordering system with the strategic goals of the company of becoming the preferred choice for premium manufacturing services, the ordering system will enhance the overall customer experience by allowing customers to easily navigate through the process. Incorporate features such as real-time order tracking and customization. Lastly, by improving operational efficiency to optimize the workflow and automate processes within the ordering system to minimize errors, reduce lead times, and improve overall operational efficiency.
 
 ==Cost Benefit Analysis==
-<p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those new customers purchased a product, we could put into. This table is not final, and this is introduced for the client’s approval: </p>
+<p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those new customers purchased a product, we could put in. This table is not final, and this is introduced for the client’s approval: </p>
 <table border="1" width="100%" allign="center">
 <thead>
 <tr>
@@ -633,9 +633,9 @@
 
 =Scope Management Plan=
 ==Introduction==
-<p>The Villamin Wood and Iron Works System plan for scope management describes the technologies and resources that will be used to create, document, and handle the project's context. Agile methodologies and collaborative tools will be utilized by the team to build an ordering system that meets the project's demands. </p>
+<p>The Villamin Wood and Iron Works System plan for scope management describes the technologies and resources that will be used to create, document, and handle the project's context. The team will utilize agile methodologies and collaborative tools to build an ordering system that meets the project's demands. </p>
 
-<ul> <b> 1. Collect Requirements – </b> In order to gather and record the system's requirements, the project team will employ a variety of methods, including client interviews and discussions. </ul>
+<ul> <b> 1. Collect Requirements – </b> To gather and record the system's requirements, the project team will employ a variety of methods, including client interviews and discussions. </ul>
 <ul> <b> 2. Define Scope – </b> To establish the scope, the user stories and scope statement will be integrated into a project management plan. The plan will be revised periodically to accommodate any modifications in the project's scope during its advancement. </ul>
 <ul><b> 3. Verify Scope – </b> The project group will utilize an agile methodology to test and confirm that the expectations of the undertaking meet the necessities and line up with the scope statement. </ul>
 <ul><b> 4. Control Scope – </b> A formal change control process will be used to manage any changes to the project's scope. This process will look at how these changes will affect the project's schedule, budget, and quality. Additionally, each change solicitation guarantees that the change is fundamental, practical, and lined up with the project objectives. </ul>
@@ -682,7 +682,9 @@
 <ul><ul> c. The system will be fully functional and accessible to the client. </ul></ul>
 
 ==Work Breakdown Structure==
-<p>lorem ipsum</p>
+<p>The Work Breakdown Structure (WBS) is a hierarchical representation of the project scope that breaks it down into smaller, more manageable pieces. Starting with the highest level and working down, each level in the WBS represents a progressively more thorough view of the project. The WBS Dictionary is a companion document to the WBS that contains specific information about each component in the WBS, such as the scope of work, deliverables, responsibilities, and any other pertinent information. </p>
+
+<p>The project team will split the project scope using the WBS and WBS Dictionary. Smaller, more manageable components, as well as assigning responsibilities to each component. This will help to guarantee that all areas of the project are considered and addressed and that everyone in the team understands their role in the project's completion. The schedule and The WBS Dictionary will also be used to track progress, detect, and address issues, and ensure quality that the project remains on track and within its budget. Overall, the WBS and WBS Dictionary are effective. Tools for managing project scope and guaranteeing project success are required. </p>
 
 ==Scope Verification==
 <p>In ensuring that the deliverables are verified leading to the formal acceptance of the project, the team will use the following methods for scope verification: </p>
