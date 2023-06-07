@@ -101,7 +101,7 @@
 
 <p>Failure to implement the proposed project would have negative consequences for the store. The current manual system would continue to hinder efficiency and accuracy, resulting in wasted time and potential revenue loss. Inaccurate inventory tracking could lead to stockouts, lost sales, and dissatisfied customers. Furthermore, without keeping pace with competitors who have already embraced digital systems, Bregghan mini grocery store risks losing customers to these technologically advanced stores. Therefore, it is imperative for the store to proceed with the implementation of the proposed project to drive efficiency, sales growth, customer satisfaction, and maintain a competitive edge in the market. </p>
 
-==Business Case Analysis Team==
+==2. Business Case Analysis Team==
 <p>The roles and responsibilities of the team members involved in the plan development 	are illustrated in Table 1. </p>
 <table border="1" width="70%" align="center">
 	<tr>
@@ -134,7 +134,7 @@
 	</tr>	
 </table>
 
-==3. roblem Definition==
+==3. Problem Definition==
 <h3>3.1 Problem Statement</h3>
 <p>Bregghan mini grocery store is currently facing several issues in their daily operations, which are mainly caused by their manual recording and tracking system. Specifically, the store has trouble in monitoring their inventory, which can result in insufficient stocks or overstocking. Additionally, the manual computation of sold items often leads to errors, which affects the accuracy of their sales records. As a result, the store loses potential customers due to a lack of available items, leading to decreased profits. Furthermore, the current process of tracking sales and stocks is time-consuming, which can lead to slower checkouts and longer queues. Overall, the business problem is the need for a more efficient and accurate system to monitor inventory and sales to improve the overall customer experience and increase revenue. </p>
 
@@ -204,7 +204,7 @@
   <li>The project will result in the anticipated benefits and outcomes as described in the business case.</li>
 </ul>
 
-<h3>Project Constraints</h3>
+<h3>4.5 Project Constraints</h3>
 <p>Listed below are the following constraints of the production of the project: </p>
 <ul>
   <li>Budget constraints: The project cannot exceed a certain budget, which may limit the scope or timeline of the project.</li>
@@ -212,72 +212,56 @@
   <li>Resource constraints: The project team may have limited staff, expertise, or technology available to complete the project.</li>
 </ul>
 
-<h3>Major Project Milestones</h3>
+<h3>4.6 Major Project Milestones</h3>
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">Milestones</p></td>
 		<td bgcolor="lightblue"><p style="text-align:center;">Duration</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Initiation<br>03/28/2023  - 04/28/2023  </p></td>
-		<td><p style="text-align:center;">
-<ul>
-  <li>The group has identified a client, project advisor, and client problem </li>
-  <li>The group has accomplished the necessary research and problem statements to propose solution </li>
-  <li>The group has successfully passed the first half of documentation of the proposed system. </li>
-</ul>  
- </p></td>
+		<td><p style="text-align:center;">Project Initiation<br></p></td>
+		<td><p style="text-align:center;">03/28/2023 - 04/28/2023</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Milestone 2 | MYSADD1 <br>(Date 2022)  </p></td>
-		<td><p style="text-align:center;">
-<ul>
-  <li>The team successfully created the Unified Modeling Language for specifying, constructing, and documenting the artifacts of systems.</li>
-</ul>  
-</p></td>
+		<td><p style="text-align:center;">Project Planning and Preparation</p></td>
+		<td><p style="text-align:center;">05/01/2023 - 05/18/2023 </p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Milestone 3 | MCSPROJ <br>(Date 2023) </p></td>
-		<td><p style="text-align:center;">
-<ul>
-  <li>	The team successfully created the Website Application for the Bregghan Point of Sale System 
-</ul>  
-</li>
-  <li>The group finishes developing the front-end and backend of the web application. </li>
-</ul>  
-</p></td>
+		<td><p style="text-align:center;">Phase I: Analysis</p></td>
+		<td><p style="text-align:center;">05/19-2023 - 05/26/2023</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Milestone 4 | PROJMAN <br>(June 2023) </p></td>
-		<td><p style="text-align:center;"><ul>
-  <li>Finish further documentation of the project </li>
-</ul>  </p></td>
+		<td><p style="text-align:center;">Phase II: Design and Development </p></td>
+		<td><p style="text-align:center;">05/29/2023  -  07/08/2023 </p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Milestone 5 | SOFTDEV <br>(July 2023) </p></td>
-		<td><p style="text-align:center;"><ul>
-  <li>Complete the full testing from the stakeholders to receive feedback for further improvement </li>
- <li>Complete all necessary documentation for stakeholders </li>
-</ul>  </p></td>
+		<td><p style="text-align:center;">Phase III: Testing </p></td>
+		<td><p style="text-align:center;">07/11/2023 - 08/15/2023 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Phase IV: Implementation </p></td>
+		<td><p style="text-align:center;">08/16/2023 - 10/19/2023 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Closeout/Completion </p></td>
+		<td><p style="text-align:center;">10/20/2023 - 11/20/2023</p></td>
 	</tr>
 </table>
 
 ==Strategic Alignment==
-<ul>
-  <li>Strategic Plan: Increase Efficiency and Effectiveness
-The strategic plan calls for improving efficiency and effectiveness of organizational processes and systems to better serve customers and stakeholders. The proposed project will introduce a new software system that will streamline and automate key business processes, resulting in increased efficiency and effectiveness. </li>
+<p>The strategic alignment of the Bregghan Point of Sale (POS) system refers to how well the project aligns with the organization's overarching strategic objectives and goals. The POS system should be designed and implemented in a manner that supports the organization's long-term vision and strategic initiatives. </p>
 
-  <li>Strategic Plan: Enhance Customer Experience
-The strategic plan calls for enhancing the customer experience through improved products and services. The proposed project will enable the organization to better track and respond to customer needs, resulting in improved customer satisfaction. </li>
+<p>To achieve strategic alignment, it is crucial for the project team to have a deep understanding of the organization's strategic direction and determine how the POS system can contribute to its success. This entails conducting a comprehensive analysis of the organization's business processes to identify areas where the POS system can enhance efficiency, improve the customer experience, or drive revenue growth. </p>
 
-  <li>Strategic Plan: Achieve Financial Sustainability
-The strategic plan calls for achieving financial sustainability through improved financial management and revenue generation. The proposed project will enable the organization to more accurately track and analyze financial data, resulting in improved financial management and potential revenue generation opportunities. </li>
+<p>Moreover, the project team must align the scope, features, and functionalities of the POS system with the organization's strategic priorities. This involves prioritizing the development and implementation of system components that are most critical to achieving the organization's strategic objectives.</p>
 
-</ul>
+<p>Regular and effective communication and collaboration between the project team and key stakeholders, including senior management, play a vital role in ensuring strategic alignment. It is essential to actively involve stakeholders throughout the project lifecycle and seek their feedback to validate that the POS system is meeting strategic goals and delivering the desired impact on the organization's overall performance. </p>
 
-==Cost Benefit Analysis==
+==6. Cost Benefit Analysis==
 <p>Benefits:</p>
-<p>A well-designed and properly implemented POS system can provide benefits such as improved inventory management, faster transaction processing, better customer tracking, and more accurate sales reporting. These benefits can lead to more efficient operations, better customer service, and potentially increased sales. The actual impact on sales will depend on various factors, including the specific features and capabilities of the POS system, the business processes and strategies, and the overall market conditions.</p>
+<p>The following section in the document provides a detailed examination of the costs and benefits of the Bregghan POS System project. The aim of this analysis is to assess the financial viability of the project, considering the expenses as well as the projected advantages of the suggested system. The findings of the analysis will assist in determining if the project is a valuable investment for the client. </p>
+
+<p>The costs considered in the cost benefit analysis include both upfront expenses, such as software development, hardware procurement, and implementation costs, as well as ongoing operational costs like maintenance, upgrades, and support. These costs are carefully estimated and aggregated to provide a comprehensive understanding of the financial investment required for the POS system. </p>
 
 <p>Costs:</p>
 <p>The costs related to the Bregghan POS System project are outlined as follows:</p>
