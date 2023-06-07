@@ -67,14 +67,15 @@
 <p>To address these pain points, our team aims to develop a responsive webapp that digitizes the recording of stocks and sales, notifies the user when stocks are at a critical level, and automates the computation of sold items. In addition, the webapp will also produce a basic report that shows the items sold. </p>
 
 <h3>1.1 Issue</h3>
-<p>Manual inventory tracking: </p>
-<p>The current system at Bregghan mini grocery store involves manual recording of stocks and sales on paper, which can be time-consuming and prone to errors. The lack of a proper inventory management system can result in out-of-stock items and missed sales opportunities.  </p>
+<lu>
+<li>Manual inventory tracking:
+<p>The current system at Bregghan mini grocery store involves manual recording of stocks and sales on paper, which can be time-consuming and prone to errors. The lack of a proper inventory management system can result in out-of-stock items and missed sales opportunities.  </p></li>
 
-<p>Inefficient sales tracking</p>
-<p>The current sales tracking process relies on hand-written receipts, which can lead to errors in the computation of items sold and total sales. This can result in inaccurate sales data and hinder the store's ability to make informed business decisions. </p>
+<li>Inefficient sales tracking:
+<p>The current sales tracking process relies on hand-written receipts, which can lead to errors in the computation of items sold and total sales. This can result in inaccurate sales data and hinder the store's ability to make informed business decisions. </p></li>
 
-<p>Lack of real-time monitoring</p>
-<p>Without a digital system, the staff at Bregghan mini grocery store are unable to monitor stocks and sales in real-time. This can result in missed opportunities to replenish stock levels and can make it difficult for the store to keep up with customer demand. </p>
+<li>Lack of real-time monitoring:
+<p>Without a digital system, the staff at Bregghan mini grocery store are unable to monitor stocks and sales in real-time. This can result in missed opportunities to replenish stock levels and can make it difficult for the store to keep up with customer demand. </p></li>
 
 <h3>1.2 Anticipated Outcomes</h3>
 <p>Improved inventory management: </p>
