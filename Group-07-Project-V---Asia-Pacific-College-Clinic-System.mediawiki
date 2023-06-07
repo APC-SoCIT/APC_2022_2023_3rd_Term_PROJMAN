@@ -185,14 +185,14 @@ One thing the clinic staff is concerned about is the number of people who will u
 
 <p><b>Project Constraints</b></p>
 <p>Here are the preliminary constraints to the proposed system:</p>
-<ul>
+<ol>
   <li>The system is not 100% working at the moment, which may cause some delay in the deployment of the system.</li>
   <li>E-Cliniq must be able to integrate with the existing system of the school, which is the RAMS portal, the project team needs to communicate with the developers working on the RAMS portal to be able to integrate the database to the system.</li>
   <li>Data privacy and security must comply with the privacy and security regulations the school implements with all the data that circulates within their system.</li>
   <li>The system must be user-friendly and accessible to the clinic staff, patients, and other relevant stakeholders by providing features that will allow the users to access the system anytime, and anywhere.</li>
   <li>The system must be user-friendly and accessible to the clinic staff, patients, and other relevant stakeholders by providing features that will allow the users to access the system anytime, and anywhere.</li>
   <li>Development, implementation, and maintenance of E-Cliniq requires investment such as being able to send over notifications and alerts through SMS that will consume cellular load. The project should be carefully budgeted to ensure that it can be used by the clinic with small cost but high efficiency.</li>
-</ul>
+</ol>
 
 <p><b>Major Project Milestones</b></p>
 <p>Here are the major project milestones to the proposed system:</p>
@@ -210,15 +210,16 @@ One thing the clinic staff is concerned about is the number of people who will u
 <p>By aligning the E-Cliniq system with the overall goals and objectives of Asia Pacific College’s clinic, the clinic will be able to maximize efficiency and increase productivity of the stakeholders involved and it will ensure that it will contribute to the long-term plans of the clinic.</p>
 
 <p><b>APC’s clinic aims to digitize all existing and future medical records of students and employees.</b>
-<br>
+<br><br>
 The system project aligns with this goal by having an online repository of all existing medical records by having them scanned to the system and all future medical records which will help the clinic save space and search for records in a timely manner. The project will contribute to the overall success of the clinic and help them become efficient.</p>
 
 <p><b>APC’s clinic aims to continuously innovate and improve the services they provide to meet the changing needs of the patients.</b>
-<br>
+<br><br>
 The system project aligns with this goal by digitizing processes that the clinic used to do manually which will allow the clinic staff to effectively minimize search times of records and manage appointments to avoid long queues of walk-in patients. With this, the project will help the clinic be competitive and efficient. 
 </p>
 
 <p><b>APC’s clinic aims to enhance the satisfaction of the patients</b>
+<br><br>
 The project aligns with this goal by improving the experience of patients in terms of quality and time spent queueing to the clinic which will help minimize queues and maximize the quality of services. With this, the project will continue to satisfy the patients of APC’s clinic.
 </p>
 
