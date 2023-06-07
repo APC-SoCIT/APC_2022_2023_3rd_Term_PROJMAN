@@ -1128,6 +1128,7 @@ Implement lessons learned from previous projects to enhance communication practi
 <h3>Communication Flowchart</h3>
 ![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002947/ff7e97be-940c-4aa1-87d5-2e4ce135794f)
 
+
 <h3>Guidelines for Meetings</h3>
 <p>Meetings that are effective are critical to the success of any project or company. They provide as a platform for team members and stakeholders to collaborate, make decisions, and share information. Meetings, on the other hand, may quickly become unproductive and time-consuming if they lack adequate structure and procedures. The following principles have been set to guarantee that meetings at Fleeky Curtains are efficient, focused, and result in great outcomes. These rules seek to foster a climate that encourages open communication, active involvement, and sound decision-making. By following these standards, we may optimize the value of our meetings and promote project success.<br>
 
