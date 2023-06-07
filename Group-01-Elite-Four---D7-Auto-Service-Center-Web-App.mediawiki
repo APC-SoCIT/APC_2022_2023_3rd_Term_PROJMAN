@@ -1167,7 +1167,7 @@ The team can effectively manage and evaluate any proposed schedule changes, ensu
 ==9.5 Scope Change==
 If any changes are made to the project’s scope, rest assured it is approved by the project sponsor. The project manager must evaluate the scope change's impact on the current schedule. If the project manager determines that the change will significantly affect the current project schedule, they may request a re-baselining of the schedule to reflect any necessary adjustments due to the new project scope. This request must be reviewed and approved by the project sponsor before the schedule can be re-baselined.
 
-=10. Change Management Plan=
+=10. CHANGE MANAGEMENT PLAN=
 ==10.1 Introduction==
 The Change Management Plan was created for the D7 Auto Service Center Web-App project to set expectations on how the approach to changes will be managed, what defines a change, the purpose and role of the change control board, and the overall change management process. All stakeholders will be expected to submit or request changes to the D7 Auto Service Center Web-App Project in accordance with this Change Management Plan and all requests and submissions will follow the process detailed herein.
 
@@ -1294,7 +1294,7 @@ To effectively monitor the progress of change requests, a specific change reques
 </tbody>
 </table>
 
-=11. Quality Management Plan=
+=11. QUALITY MANAGEMENT PLAN=
 ==11.1 Introduction==
 The Quality Management Plan outlines the team's approach to ensuring that the D7 Auto Service Center Web-App project meets the necessary quality requirements and standards. This plan sets up the procedures, techniques, and tools that will be used to manage and control quality throughout the project lifecycle.
 
@@ -1388,7 +1388,7 @@ To check and control project performance, a set of quality control measurements 
 <br><br>
 By following this Quality Management Plan, we can ensure that the D7 Auto Service Center Web-App project meets the necessary quality requirements and standards, and that quality is managed and controlled throughout the project lifecycle.
 
-=12. Human Resources Management Plan=
+=12. HUMAN RESOURCES MANAGEMENT PLAN=
 ==12.1 Introduction==
 A human resource management constructed and composed under significant effort, is a key towards success of a project, ensuring that these projects are professionally managed and filled with positions necessary to complete the deliverables from the beginning to its turnover. Roles, and its duties must be clearly defined, as well as the performances being tracked for the management measures, are also essential for the project’s strategizing for efficiency and efficacy.
 This plan is utilized to effectively manage the project’s team; by means of providing an in-depth definition of the roles and responsibilities of each team members, while keeping communication a top priority to ensure productivity runs through at its optimum level for the project. With a clear understanding of the roles, its assigned power for authorization, responsibility, and competency, this plan will be useful in understanding the key responsibilities of each project team member. <br>
@@ -1512,7 +1512,7 @@ The project’s Human Resource and Staffing may be subjected to change as there 
 </tbody>
 </table>
 
-=13. Communications Management Plan=
+=13. COMMUNICATIONS MANAGEMENT PLAN=
 ==13.1 Introduction==
 The D7 Auto Service Center Web-app project considers the Communications Management Plan as a crucial element since it specifies the communication strategy and processes that must be of adherence in order to enable concise and clear communication within the project team and project sponsor. 
 <br><br>
@@ -1668,7 +1668,7 @@ To identify the most suitable communication methods and technologies for the D7 
 
 
 
-=14. Procurement Plan=
+=14. PROCUREMENT PLAN=
 
 ==14.1 Introduction==
 Procurement can be complex without proper planning; hence every organization requires a comprehensive document called a procurement management plan that is tailored towards its requirements to guide all procurement activities. Regarding implementing the D7 auto service center project, it will facilitate acquiring relevant goods/services on time within budgetary restrictions while ensuring quality standards are met throughout the process. 
@@ -1829,7 +1829,7 @@ The effectiveness of contract management activities such as contract renewals, a
 An organization can monitor the effectiveness of procurement activities for the auto service booking system project and identify areas for improvement to optimize the procurement process by tracking these performance metrics.
 <br>
 
-=15. Implementation Plan=
+=15. IMPLEMENTATION PLAN=
 ==15.1 Executive Summary==
 The Elite Four team collaborated with the client to develop the D7 Auto Service Center Web-App, aiming to enhance their auto services by improving organization, providing a convenient booking, and scheduling system. This includes highlighting the key features and functionalities of the system, such as online booking, appointment scheduling, and customer communication.
 
@@ -1897,7 +1897,7 @@ The following assumptions will be made for the transition approach: <br>
 <b>Project Team Members:</b> Responsible for supplying system support through knowledge and ability. They will collaborate closely with the Project Manager, developers, and team members to ensure that knowledge and ability are transferred smoothly.
 <br>
 
-=16. System Requirements Specifications=
+=16. SYSTEM REQUIREMENTS SPECIFICATION=
 ==16.1 System Requirements for Development==
 The project shall consist of the necessary requirement that will enable development of its features, UI, its database, as well for the web-app to function accordingly. The following is the requirement to run through development: <br>
 <b>Software: </b><br>
