@@ -173,15 +173,15 @@ One thing the clinic staff is concerned about is the number of people who will u
 <p><b>Project Assumptions</b></p>
 <p>Here are the preliminary assumptions to the proposed system:</p>
 <ol type="a">
-  <li>The project team will have access to all data and materials from the clinic required for the system's development, design, and implementation.</li>
-  <li>Asia Pacific College will be the one to implement the system, which has reliable internet connectivity and appropriate hardware and software to support the digital platform.</li>
-  <li>The clinic staff and patients are willing to adopt and learn the new system, with minimal resistance to change.</li>
-  <li>The project team possesses the technical and management skills required to build and implement the system on schedule, within budget, and with the least possible interference with the school clinics' regular operations.</li>
-  <li>The system will abide by all applicable data privacy and security laws, protecting the privacy and accuracy of patient records.</li>
-  <li>The system will be scalable to accommodate future growth and changes in the needs of dental clinics.</li>
-  <li>The system will integrate with the school’s database to synchronize student data to the application.</li>
-  <li>Both clinic personnel and patients will benefit from the system's user-friendly interface, which will require little training to operate properly.</li>
-</ol>
+    <li>The project team will have access to all data and materials from the clinic required for the system's development, design, and implementation.</li>
+    <li>Asia Pacific College will be the one to implement the system, which has reliable internet connectivity and appropriate hardware and software to support the digital platform.</li>
+    <li>The clinic staff and patients are willing to adopt and learn the new system, with minimal resistance to change.</li>
+    <li>The project team possesses the technical and management skills required to build and implement the system on schedule, within budget, and with the least possible interference with the school clinics' regular operations.</li>
+    <li>The system will abide by all applicable data privacy and security laws, protecting the privacy and accuracy of patient records.</li>
+    <li>The system will be scalable to accommodate future growth and changes in the needs of dental clinics.</li>
+    <li>The system will integrate with the school’s database to synchronize student data to the application.</li>
+    <li>Both clinic personnel and patients will benefit from the system's user-friendly interface, which will require little training to operate properly.</li>
+  </ol>
 
 <p><b>Project Constraints</b></p>
 <p>Here are the preliminary constraints to the proposed system:</p>
