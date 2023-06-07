@@ -134,81 +134,6 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 <table border="1" width="70%" align="center">
  <tr>
- <td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">PROJECT RESPONSIBILITY</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">SKILLS REQUIRED</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">NUMBER OF STAFF</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">PERFORMANCE REVIEW</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">RECOGNITION AND REWARDS</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Sponsor</p></td>
- <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. </p></td>
- <td><p style="text-align:center;">Strong leadership and strategic thinking skills. </p></td>
- <td><p style="text-align:center;"> 1 </p></td>
- <td><p style="text-align:center;"> Quarterly or as needed </p></td>
- <td><p style="text-align:center;"> Promotion or Bonus </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Stakeholder</p></td>
- <td><p style="text-align:center;">Organize meetings with the project manager and project team leader 
-   for the feedbacks of the project sponsor. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. </p></td>
- <td><p style="text-align:center;"> 1 </p></td>
- <td><p style="text-align:center;"> Monthly or as needed </p></td>
- <td><p style="text-align:center;"> Promotion or Bonus </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Manager</p></td>
- <td><p style="text-align:center;">Control and help execute a solution to a problem in the project 
-        and monitors the work of the team members. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
-     Knowledge of the company for precise information. </p></td>
- <td><p style="text-align:center;"> 1 </p></td>
- <td><p style="text-align:center;"> Weekly or as needed </p></td>
- <td><p style="text-align:center;"> Salary Increase </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Team Leader (Internal User) </p></td>
- <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.  </p></td>
- <td><p style="text-align:center;"> 1 </p></td>
- <td><p style="text-align:center;"> Weekly or as needed </p></td>
- <td><p style="text-align:center;"> Salary Increase </p></td>
-</tr>
-
- <tr>
- <td><p style="text-align:center;">Project Team Members (Internal Users) </p></td>
- <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
-     to the objectives of the project. </p></td>
- <td><p style="text-align:center;">Strong communication skills, technical skills, and cooperation. </p></td>
- <td><p style="text-align:center;"> Depends on the project requirement </p></td>
- <td><p style="text-align:center;"> Weekly or as needed </p></td>
- <td><p style="text-align:center;"> Salary Increase </p></td>
- </tr>
-
-</table>
-
-==Project Organizational Charts==
-<p>Project organizational chart is a visual representation of the relationship between the team and the key stakeholders. At the top of the chart comes the project sponsor, followed by the project stakeholder as they are responsible for communicating between the project sponsor and the rest of the team, and then followed by the project manager which is responsible for managing the project team, send approval requests for the deliverables, and schedules. The project team members are responsible for completing the deliverables and make sure that there’s progress on the tasks at hand. </p>
-
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Project%20Organizational%20Chart.png?raw=true" alt="Image description" style="display: block; margin:0 auto;" class="center">
-
-==Staffing Management==
-<p>Staffing Management is a crucial part of ensuring the success of the project. It shows the plans and process of the project, managing the acquired information, and it also shows the responsibilities and task of the human resources.
-# Acquisition must be completed as soon as possible to obtain the skills and knowledge required for the project. This will involve using new employees, outside contractors, and even internal staff as needed to complete the project.
-# Prior to anything else, training will be used to reduce errors in the project working environment and to further hone skills for better application in the creation and execution of deliverables appropriately.
-# Regular performance evaluations will be done to evaluate the performance of team members and pinpoint potential improvement areas. These evaluations also comment on the team members' performance in achieving the project's goals, objectives, and expectations.
-# A recognition and incentive program will be put in place to reward and encourage exceptional performance. This could apply to rewards, promotions, and other advantages.
-
-<p> Regular reviews and updates to the Staffing Management Plan will be made as necessary to Ensure that it continues to be in line with the project's requirements and objectives. It is crucial that the project manager performs a thorough analysis of the project's particular requirements and laws to ascertain whether any extra items need to be added to the management of staffing.  </p>
-
-<table border="1" width="70%" align="center">
- <tr>
  <td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">AUTHORITY</p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
@@ -284,6 +209,81 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  <td><p style="text-align:center;">Provides feedback on the deliverables and system. Communicates with the 
      project sponsor, project stakeholder, and project manager for updates and progress.  </p></td>
  <td><p style="text-align:center;">Strong leadership, communication skills, and negotiation skills. </p></td>
+ </tr>
+
+</table>
+
+==Project Organizational Charts==
+<p>Project organizational chart is a visual representation of the relationship between the team and the key stakeholders. At the top of the chart comes the project sponsor, followed by the project stakeholder as they are responsible for communicating between the project sponsor and the rest of the team, and then followed by the project manager which is responsible for managing the project team, send approval requests for the deliverables, and schedules. The project team members are responsible for completing the deliverables and make sure that there’s progress on the tasks at hand. </p>
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Project%20Organizational%20Chart.png?raw=true" alt="Image description" style="display: block; margin:0 auto;" class="center">
+
+==Staffing Management==
+<p>Staffing Management is a crucial part of ensuring the success of the project. It shows the plans and process of the project, managing the acquired information, and it also shows the responsibilities and task of the human resources.
+# Acquisition must be completed as soon as possible to obtain the skills and knowledge required for the project. This will involve using new employees, outside contractors, and even internal staff as needed to complete the project.
+# Prior to anything else, training will be used to reduce errors in the project working environment and to further hone skills for better application in the creation and execution of deliverables appropriately.
+# Regular performance evaluations will be done to evaluate the performance of team members and pinpoint potential improvement areas. These evaluations also comment on the team members' performance in achieving the project's goals, objectives, and expectations.
+# A recognition and incentive program will be put in place to reward and encourage exceptional performance. This could apply to rewards, promotions, and other advantages.
+
+<p> Regular reviews and updates to the Staffing Management Plan will be made as necessary to Ensure that it continues to be in line with the project's requirements and objectives. It is crucial that the project manager performs a thorough analysis of the project's particular requirements and laws to ascertain whether any extra items need to be added to the management of staffing.  </p>
+
+<table border="1" width="80%" align="center">
+ <tr>
+ <td bgcolor="lightblue"><p style="text-align:center;">ROLE</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">PROJECT RESPONSIBILITY</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">SKILLS REQUIRED</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">NUMBER OF STAFF</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">PERFORMANCE REVIEW</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">RECOGNITION AND REWARDS</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Sponsor</p></td>
+ <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. </p></td>
+ <td><p style="text-align:center;">Strong leadership and strategic thinking skills. </p></td>
+ <td><p style="text-align:center;"> 1 </p></td>
+ <td><p style="text-align:center;"> Quarterly or as needed </p></td>
+ <td><p style="text-align:center;"> Promotion or Bonus </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Stakeholder</p></td>
+ <td><p style="text-align:center;">Organize meetings with the project manager and project team leader 
+   for the feedbacks of the project sponsor. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. </p></td>
+ <td><p style="text-align:center;"> 1 </p></td>
+ <td><p style="text-align:center;"> Monthly or as needed </p></td>
+ <td><p style="text-align:center;"> Promotion or Bonus </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Manager</p></td>
+ <td><p style="text-align:center;">Control and help execute a solution to a problem in the project 
+        and monitors the work of the team members. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+     Knowledge of the company for precise information. </p></td>
+ <td><p style="text-align:center;"> 1 </p></td>
+ <td><p style="text-align:center;"> Weekly or as needed </p></td>
+ <td><p style="text-align:center;"> Salary Increase </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Leader (Internal User) </p></td>
+ <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
+ <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.  </p></td>
+ <td><p style="text-align:center;"> 1 </p></td>
+ <td><p style="text-align:center;"> Weekly or as needed </p></td>
+ <td><p style="text-align:center;"> Salary Increase </p></td>
+</tr>
+
+ <tr>
+ <td><p style="text-align:center;">Project Team Members (Internal Users) </p></td>
+ <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
+     to the objectives of the project. </p></td>
+ <td><p style="text-align:center;">Strong communication skills, technical skills, and cooperation. </p></td>
+ <td><p style="text-align:center;"> Depends on the project requirement </p></td>
+ <td><p style="text-align:center;"> Weekly or as needed </p></td>
+ <td><p style="text-align:center;"> Salary Increase </p></td>
  </tr>
 
 </table>
