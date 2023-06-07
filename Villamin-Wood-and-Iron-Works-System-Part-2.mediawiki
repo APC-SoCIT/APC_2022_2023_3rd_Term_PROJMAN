@@ -101,20 +101,20 @@
 <p> Quality control procedures will be applied at every phase of the development process to ensure compliance with standards and requirements. These measures will be documented and available on a platform for collaboration and documentation, like an application for project management. </p>
 
 ===Product Quality Requirements===
-<ul> 1. The system will have user-friendly instructions and an interface, making it easy to operate and meet all the requirements for the project. </ul>
-<ul> 2. The project will enhance business operations and align with the existing technology infrastructure. </ul>
+# The system will have user-friendly instructions and an interface, making it easy to operate and meet all the requirements for the project.
+# The project will enhance business operations and align with the existing technology infrastructure.
 
 ===Requirements for Ensuring Quality of Processes===
-<ul> 1. The product owner and development team will carefully review and support any endeavor expectations before communicating to the customer. </ul>
-<ul> 2. The improvement gathering will lead to typical run reviews to promptly recognize and decide on any quality concerns. </ul>
-<ul> 3. To guarantee consistent system development, testing, and deployment, the development team will adhere to a specified configuration management procedure. </ul>
-<ul>4. The development team will set up continuous testing along with a quality assurance approach to make sure that the system complies with all technical requirements and requirements. </ul>
+# The product owner and development team will carefully review and support any endeavor expectations before communicating to the customer.
+# The improvement gathering will lead to typical run reviews to promptly recognize and decide on any quality concerns.
+# To guarantee consistent system development, testing, and deployment, the development team will adhere to a specified configuration management procedure.
+# The development team will set up continuous testing along with a quality assurance approach to make sure that the system complies with all technical requirements and requirements.
 
 ===Compliance Demonstrations===
-<ul> 1. Before deploying to the client, the group will evaluate and test the Villamin Wood and Iron Works framework as per the characterized quality necessities and principles. </ul>
-<ul> 2. The improvement group will keep up with nitty gritty documentation of all testing and quality affirmation exercises, which can be gotten to by the client upon demand. </ul>
-<ul> 3. A conventional acknowledgment test will be led by the improvement group in a joint effort with the client to ensure that the framework meets their necessities and assumptions. </ul>
-<ul> 4. The development team will provide ongoing support to guarantee that the system consistently adheres to the established quality standards. </ul></ul>
+# Before deploying to the client, the group will evaluate and test the Villamin Wood and Iron Works framework as per the characterized quality necessities and principles.
+# The improvement group will keep up with nitty gritty documentation of all testing and quality affirmation exercises, which can be gotten to by the client upon demand.
+# A conventional acknowledgment test will be led by the improvement group in a joint effort with the client to ensure that the framework meets their necessities and assumptions.
+# The development team will provide ongoing support to guarantee that the system consistently adheres to the established quality standards.
 
 ===Continual Improvement===
 <p> Continuous client feedback collection and analysis, system performance monitoring, and internal audits to find areas for improvement will all be part of the development team's continuous improvement process. This kind of setup will be incorporated into the venture to guarantee that the Villamin Wood and Iron Works System ensures quality standards are met as well as proactively adjusts to developing client needs. </p>
@@ -213,6 +213,7 @@
 
 ==Project Organizational Charts==
 <p>Project organizational chart is a visual representation of the relationship between the team and the key stakeholders. At the top of the chart comes the project sponsor, followed by the project stakeholder as they are responsible for communicating between the project sponsor and the rest of the team, and then followed by the project manager which is responsible for managing the project team, send approval requests for the deliverables, and schedules. The project team members are responsible for completing the deliverables and make sure that there’s progress on the tasks at hand. </p>
+
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Project%20Organizational%20Chart.png?raw=true" alt="Image description" style="display: block; margin:0 auto;" class="center">
 
 ==Staffing Management==
@@ -226,7 +227,7 @@
 
 =Work Breakdown Structure=
 ==Introduction==
-<p></p>
+<p>The Work Breakdown Structure illustrated below represents all the tasks necessary to complete the venture. </p>
 ==Outline View==
 <p><b>Villamin Wood and Iron Works System</b></p>
 ; <i>1.1 Planning</i>
