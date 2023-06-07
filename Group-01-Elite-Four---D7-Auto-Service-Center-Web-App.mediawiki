@@ -458,132 +458,49 @@ The Stakeholder Management Strategy for D7 Auto Service Center Web-App aims to i
 ==6.2 Identify Stakeholders==
 In identifying the stakeholders, the team will conduct a brainstorming session for the team to do this matter. The team’s brainstorming session will revolve around the idea of the question “Will the person or their organization be directly or indirectly affected by this project?” This will help the team identify and determine the stakeholders for the D7 Auto Service Center Web-App Project.
 ==6.3 Key Stakeholders==
-Since the D7 Auto Service Web-app Project stakeholders have been identified, the team will also categorize and analyze each stakeholder. The main purpose of this analysis is to establish the level of influence and power of each stakeholder has over the project, strategy the management approach for each stakeholder, and determine the appropriate levels of communication and participation for each stakeholder.
+The key stakeholders in this D7 Auto Service Center Web-app project are the D7 Marketing Team, D7 Customers, and the project sponsor, Ms. Anne Sydney Simpelo, as they are required to have constant communication about the project for it to reach the desired state, functionalities, and completion. Consistent communication with the marketing team, customer and the project sponsor will be the key stakeholders so that the desired features of the project that is to be implemented, and so shall it be discussed in detail and to its feasibility, and contingencies to any issues that may arise.
+
 ==6.4 Stakeholder Analysis==
+The D7 Auto Service Center Web-App Project stakeholders were identified through
+understanding, analyzing, and categorizing the internal and external users.  The main purpose of this analysis is to establish the level of influence and power of each stakeholder has over the project, strategy the management approach for each stakeholder, and determine the appropriate levels of communication and participation for each stakeholder.
+
 The table below summarizes the project's stakeholders, showing those with a high or low level of interest and power in the development process.
 ===Stakeholder Register===
 <table>
 <thead>
   <tr>
     <th>Name</th>
-    <th>Department/Company</th>
     <th>Position</th>
-    <th>Advisers</th>
+    <th>Internal/External</th>
+    <th>Project Role</th>
+    <th>Contact Information</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Andre O. Viernes</td>
-    <td>Asia Pacific College/ Elite Four</td>
-    <td>Project Manager</td>
-    <td>CEO, D7 Marketing Team, Team Leader</td>
-  </tr>
-  <tr>
-    <td>Dan Michael C. Alfaras</td>
-    <td>Asia Pacific College/ Elite Four</td>
-    <td>Team Leader</td>
-    <td>CEO, D7 Marketing Team, Project Manager</td>
-  </tr>
-  <tr>
-    <td>Francesca Erin Camino</td>
-    <td>Asia Pacific College/ Elite Four</td>
-    <td>Team Secretary</td>
-    <td>CEO, D7 Marketing Team, Project Manager, Team Leader</td>
-  </tr>
-  <tr>
-    <td>Alyssa Garcia</td>
-    <td>Asia Pacific College/ Elite Four</td>
-    <td>Team Developer</td>
-    <td>CEO, D7 Marketing Team, Project Manager, Team Leader</td>
-  </tr>
-  <tr>
-    <td>John Zenon P. Coquia</td>
-    <td>Asia Pacific College/ Elite Four</td>
-    <td>Team Developer Support</td>
-    <td>CEO, D7 Marketing Team, Project Manager, Team Leader</td>
-  </tr>
-  <tr>
-    <td>Darrell Royce Lazala</td>
-    <td>Asia Pacific College/ Elite Four</td>
-    <td>Team Secretary Support</td>
-    <td>CEO, D7 Marketing Team, Project Manager, Team Leader</td>
-  </tr>
-  <tr>
     <td>Anne Sydney R. Simpelo</td>
-    <td>Management</td>
     <td>CEO</td>
-    <td>CEO</td>
+    <td>Internal</td>
+    <td>Project Sponsor</td>
+    <td>asimplelo@gmail.com</td>
   </tr>
   <tr>
     <td>D7 Marketing Team</td>
-    <td>Management</td>
-    <td>Management</td>
-    <td>Management</td>
+    <td>Team for Marketing Operations</td>
+    <td>External</td>
+    <td>External Users of the system</td>
+    <td>d7autoservicecenter@gmail.com</td>
+  </tr>
+  <tr>
+    <td>D7 Customer</td>
+    <td>Customer</td>
+    <td>External</td>
+    <td>External Users of the system</td>
+    <td></td>
   </tr>
 </tbody>
 </table>
 
-===Stakeholder Register===
-<table>
-<thead>
-  <tr>
-    <th>Objective, Requirements, Interests</th>
-    <th>Influence</th>
-    <th>Project Contribution</th>
-    <th>Resistance</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Ensure project completeness, assigning, and efficient<br>project management,</td>
-    <td>High</td>
-    <td>Responsible for providing leadership and<br>guidance, set clear expectations, ensure<br>project success<br></td>
-    <td>Concern about scheduling, management, and project<br>completeness and functionalities<br></td>
-  </tr>
-  <tr>
-    <td>Increase productivity  by leading the team and <br>properly dividing work</td>
-    <td>High</td>
-    <td></td>
-    <td>Concern about team progress and work division</td>
-  </tr>
-  <tr>
-    <td>Proper documentation keeping, direct communication<br>with Management CEO, record minutes of the meeting<br></td>
-    <td>High</td>
-    <td>Responsible for having communication between the client<br>and the team and document keeping as well as updating<br></td>
-    <td>Concern about the schedule of the meeting between client<br>and the team<br></td>
-  </tr>
-  <tr>
-    <td>Project Development Lead</td>
-    <td>High</td>
-    <td>Responsible for developing project features, &amp; <br>improvement</td>
-    <td>Concerns about project completeness, and functionalities</td>
-  </tr>
-  <tr>
-    <td>Increase productivity, support, develop and suggest<br>features for the project<br></td>
-    <td>Medium</td>
-    <td>Responsible for providing support for the deployment<br>phase of the project, provide support for the project and its<br>components</td>
-    <td>Concerned about project completeness, and functionalities</td>
-  </tr>
-  <tr>
-    <td>Increase productivity, aid in document keeping, record<br>minutes of the meeting</td>
-    <td>Medium</td>
-    <td>Responsible for assisting the team secretary and the team<br>of its task in regards to documentation requirements<br>of the project</td>
-    <td>Concerned about schedule, and document keeping/updating</td>
-  </tr>
-  <tr>
-    <td>Increase productivity and quality of services and<br>accommodation being given to customers</td>
-    <td>High</td>
-    <td>Responsible for approval of project expenditures<br>and feature(s) implmentations<br></td>
-    <td>Concerned about project features, completeness, and<br>budget<br></td>
-  </tr>
-  <tr>
-    <td>Increase Productivity, market services<br></td>
-    <td>High</td>
-    <td>Responsible for approval of project features</td>
-    <td>Concerned about project features, completeness, and<br>budget<br></td>
-  </tr>
-</tbody>
-</table>
 =7. SCOPE MANAGEMENT PLAN=
 
 ==7.1 Introduction==
