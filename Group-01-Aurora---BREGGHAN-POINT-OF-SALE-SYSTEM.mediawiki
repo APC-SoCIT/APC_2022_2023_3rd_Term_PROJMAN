@@ -1283,3 +1283,68 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 <br>
 <img src="https://drive.google.com/file/d/1vjb83GbSOAsE8teRlnRWFmewopgkkM-n/view?usp=share_link">
 <br>
+
+=Human Resource Management Plan=
+==Introduction==
+<p>This section outlines the strategies and practices necessary to effectively manage the human resources involved in the project. By aligning the project's goals with the skills and expertise of the team members, the Human Resource Management Plan ensures the project is staffed with the right individuals, promotes a collaborative work environment, and supports the achievement of project objectives. </p>
+
+<p>By utilizing this strategy, the project manager and team can efficiently oversee the project by guaranteeing that each team member comprehends their tasks and obligations, promoting transparent and efficient communication, and monitoring and handling performance in a manner that contributes to the overall achievement of the project. </p>
+
+==Roles and Responsibilities==
+<p>An effective human resource plan is necessary for the execution of the Bregghan Point-of-Sale project. This will ensure the project team has the appropriate skills and expertise to effectively execute the project. By clearly defining roles and responsibilities, the human resource plan helps minimize confusion, improve coordination and collaboration among team members, and increase overall project efficiency. It also facilitates effective communication and accountability within the project team, leading to better project outcomes. </p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Authority</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Responsibility</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Competency</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Sponsor</p></td>
+                <td><p style="text-align:center;">The project sponsor plays a role in endorsing the project's business case and budget, offering strategic guidance, allocating resources, facilitating stakeholder support, and resolving significant challenges and disputes. </p></td>
+		<td><p style="text-align:center;">Make critical decisions related to the project, including approving the project's initiation, scope, and major changes. Provide guidance and direction to the project manager, endorse the allocation of resources, and facilitate stakeholder engagement.  </p></td>
+		<td><p style="text-align:center;">Have a diverse set of skills and abilities that allow them to effectively carry out their responsibilities. These encompass exceptional leadership and persuasive skills, strategic thinking, the capability to align projects with organizational objectives, expertise in stakeholder management and communication, financial proficiency, and a comprehensive understanding of the organization's operations and industry. </p></td>
+	</tr>
+
+	<tr>
+		<td><p style="text-align:center;">Project Manager </p></td>
+                <td><p style="text-align:center;">Overseeing and managing the entire project from initiation to completion. </p></td>
+		<td><p style="text-align:center;">Make decisions and take necessary actions within the project's scope. Have the power to allocate resources, set timelines, and enforce project policies and procedures.</p></td>
+		<td><p style="text-align:center;">Accountable for the project's outcomes and ensuring that it meets its objectives. Responsible for creating a project plan, defining deliverables, managing risks, and ensuring that the project is executed within budget and on schedule. </p></td>
+	</tr>
+
+	<tr>
+		<td><p style="text-align:center;">Frond-end Developer</p></td>
+                <td><p style="text-align:center;">Responsible for creating the user interface and user experience of a website or application.</p></td>
+		<td><p style="text-align:center;">They have the authority to design and implement the visual elements, layout, and interactivity, ensuring a seamless and visually appealing user interface. </p></td>
+		<td><p style="text-align:center;">It is crucial for a front-end developer to possess strong coding skills, proficiency in front-end technologies such as HTML, CSS, and JavaScript, and a deep understanding of user-centered design principles to effectively fulfill their role. </p></td>
+	</tr>
+
+	<tr>
+		<td><p style="text-align:center;">Back-end Developer </p></td>
+                <td><p style="text-align:center;">Accountable for creating and executing the server-side logic and database features of a website or application. </p></td>
+		<td><p style="text-align:center;">Develop the back-end architecture and ensure the proper functioning of the server, database, and APIs (Applications Programming Interface). </p></td>
+		<td><p style="text-align:center;">Proficiency in programming languages such as Java, Python, or PHP, database management, server administration, and problem-solving skills to handle complex back-end operations and ensure smooth data processing and retrieval.  </p></td>
+	</tr>
+
+	<tr>
+		<td><p style="text-align:center;">Quality Assurance Tester </p></td>
+                <td><p style="text-align:center;">Evaluate and test software applications or systems to ensure they meet quality standards and requirements. </p></td>
+		<td><p style="text-align:center;">Identifying and reporting bugs, conducting various testing methodologies, and collaborating with the development team to resolve any issues. </p></td>
+		<td><p style="text-align:center;">Strong analytical skills, attention to detail, proficiency in testing tools and techniques, and the ability to effectively communicate and document test results. </p></td>
+	</tr>
+
+		<td><p style="text-align:center;">Manager (User of Admin System)</p></td>
+                <td><p style="text-align:center;">Holds the responsibility of overseeing the entire store's operations, which encompass sales and inventory tracking, facilitated by the digitized system. The manager plays a vital role in fostering efficiency, enhancing inventory management, boosting sales, improving the customer experience, and upholding a competitive edge</p></td>
+		<td><p style="text-align:center;">The manager possesses significant decision-making power concerning the admin system, exerting high authority in this regard. They are accountable for making strategic choices concerning the system's implementation, customization, and utilization. Additionally, the manager has the authority to allocate resources efficiently, encompassing budgetary decisions for the system's implementation and ongoing maintenance. </p></td>
+		<td><p style="text-align:center;">Responsible for providing guidance and support to the staff in utilizing the admin system, ensuring that it is used to its full potential. They are also responsible for tracking key performance indicators, analyzing data generated by the system, and making informed decisions based on the insights obtained. </p></td>
+	</tr>
+
+	<tr>
+		<td><p style="text-align:center;">Staff (User of POS (Point of Sale) System) </p></td>
+                <td><p style="text-align:center;">Responsible for utilizing the system to process customer transactions, manage inventory, and provide accurate sales information. </p></td>
+		<td><p style="text-align:center;">The staff members have the authority to access and operate the POS system within their designated roles. They can perform tasks such as scanning products, processing payments, updating inventory levels, and generating sales reports. </p></td>
+		<td><p style="text-align:center;">The staff members are responsible for using the POS system accurately and efficiently. This includes ensuring that all customer transactions are processed correctly, maintaining accurate inventory records, and promptly reporting any system issues or discrepancies to the manager. </p></td>
+	</tr>
+</table>
