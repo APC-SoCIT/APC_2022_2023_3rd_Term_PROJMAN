@@ -312,6 +312,30 @@ The Procurement Management Plan establishes the framework for acquiring goods an
 ==Performance Metrics for Procurement Activities==
 <p>While the purchasing and contracts department has their own internal metrics for procurement, the following metrics are established for vendor performance for this project’s procurement activities.  Each metric is rated on a 1-3 scale as indicated below: </p> <br>
 
+<table>
+<tr>
+<td>Vendor </td>
+<td>Product Quality </td>
+<td>On Time Delivery </td>
+<td>Documentation Quality </td>
+<td>Development Costs </td>
+<td>Development Time </td>
+<td>Cost per Unit </td>
+<td>Transactional Efficiency </td>
+</tr>
+
+<tr>
+<td>Vendor #1</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+</tr>
+</table>
+
 <p> 1 - Unsatisfactory </p>
 <p> 2 - Acceptable </p>
 <p> 3 - Exceptional</p>
