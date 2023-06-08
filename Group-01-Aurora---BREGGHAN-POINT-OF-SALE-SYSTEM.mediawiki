@@ -1580,3 +1580,46 @@ The development team are the ones responsible for implementing the technical asp
                 <td><p style="text-align:center;">This term refers to the respective actions of each team member on the scheduled meeting.</p></td>
         </tr>
 </table>
+
+=Quality Management Plan=
+==Introduction==
+<p>The Quality Management Plan for the Bregghan Point of Sale (POS) system project outlines the strategies and processes to ensure that the project deliverables meet the required quality standards. This plan establishes a framework for identifying, assessing, and controlling quality throughout the project lifecycle. By prioritizing quality management, the project team aims to deliver a reliable, efficient, and user-friendly POS system that meets the expectations and satisfaction of stakeholders and end-users. </p>
+
+<p>The primary objective of the Quality Management Plan for the Bregghan Point of Sale (POS) system is to ensure that the POS system is developed, implemented, and maintained to meet the defined quality standards and requirements. This includes ensuring the system's functionality, reliability, usability, and performance align with the expectations and needs of the stakeholders and end-users. </p>
+
+==Quality Management Approach==
+<p>The Quality Management Approach for the Bregghan Point-of-Sale System project will employ an Agile and Scrum methodology to ensure that the project consistently delivers high-quality outcomes that meet or exceed stakeholders' expectations. This approach helps to ensure that the Bregghan POS system meets the expected quality criteria, providing a reliable and efficient solution for the stakeholders and end-users. </p>
+
+<p>The following roles and responsibilities are defined within the quality management approach: </p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Responsibility</p></td>
+	</tr>
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Project Sponsor </p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Provides executive support for the project. </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Project Manager </p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">The project manager has the responsibility of creating and executing quality control procedures, guaranteeing compliance with quality criteria, performing audits and inspections, and resolving any identified quality concerns through corrective measures, all with the goal of delivering a Bregghan POS system of exceptional quality that fulfills stakeholder expectations. </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Project Team Leader </p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Responsible for overseeing the implementation of quality management processes, ensuring team members are trained in quality standards and procedures, and facilitating continuous improvement initiatives to enhance the quality of the Bregghan POS system.</p></td>
+	</tr>
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Quality Assurance Tester</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Responsible for implementing and monitoring quality control activities, conducting thorough inspections and tests to ensure compliance with quality standards, and identifying areas for improvement in the Bregghan POS system.</p></td>
+	</tr>
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Front-End Developer </p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Responsible for implementing quality standards and best practices in the user interface design and development of the Bregghan POS system. </p></td>
+	</tr>
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Back-End Developer </p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Responsible for executing thorough testing, optimizing performance, and resolving any quality issues related to the back-end aspects of the system, all aimed at delivering a system that performs exceptionally well and operates reliably.</p></td>
+	</tr>
+</table>
+
+<p>The approach to Quality Management for the Bregghan Point of Sale (POS) system project comprises the following essential elements: </p>
