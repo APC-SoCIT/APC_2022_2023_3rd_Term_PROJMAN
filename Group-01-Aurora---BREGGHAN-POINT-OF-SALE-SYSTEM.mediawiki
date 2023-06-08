@@ -1597,28 +1597,28 @@ The development team are the ones responsible for implementing the technical asp
                 <td bgcolor="lightblue"><p style="text-align:center;">Responsibility</p></td>
 	</tr>
 	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">Project Sponsor </p></td>
-                <td bgcolor="lightblue"><p style="text-align:center;">Provides executive support for the project. </p></td>
+		<td><p style="text-align:center;">Project Sponsor </p></td>
+                <td><p style="text-align:center;">Provides executive support for the project. </p></td>
 	</tr>
 	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">Project Manager </p></td>
-                <td bgcolor="lightblue"><p style="text-align:center;">The project manager has the responsibility of creating and executing quality control procedures, guaranteeing compliance with quality criteria, performing audits and inspections, and resolving any identified quality concerns through corrective measures, all with the goal of delivering a Bregghan POS system of exceptional quality that fulfills stakeholder expectations. </p></td>
+		<td><p style="text-align:center;">Project Manager </p></td>
+                <td><p style="text-align:center;">The project manager has the responsibility of creating and executing quality control procedures, guaranteeing compliance with quality criteria, performing audits and inspections, and resolving any identified quality concerns through corrective measures, all with the goal of delivering a Bregghan POS system of exceptional quality that fulfills stakeholder expectations. </p></td>
 	</tr>
 	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">Project Team Leader </p></td>
-                <td bgcolor="lightblue"><p style="text-align:center;">Responsible for overseeing the implementation of quality management processes, ensuring team members are trained in quality standards and procedures, and facilitating continuous improvement initiatives to enhance the quality of the Bregghan POS system.</p></td>
+		<td><p style="text-align:center;">Project Team Leader </p></td>
+                <td><p style="text-align:center;">Responsible for overseeing the implementation of quality management processes, ensuring team members are trained in quality standards and procedures, and facilitating continuous improvement initiatives to enhance the quality of the Bregghan POS system.</p></td>
 	</tr>
 	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">Quality Assurance Tester</p></td>
-                <td bgcolor="lightblue"><p style="text-align:center;">Responsible for implementing and monitoring quality control activities, conducting thorough inspections and tests to ensure compliance with quality standards, and identifying areas for improvement in the Bregghan POS system.</p></td>
+		<td><p style="text-align:center;">Quality Assurance Tester</p></td>
+                <td><p style="text-align:center;">Responsible for implementing and monitoring quality control activities, conducting thorough inspections and tests to ensure compliance with quality standards, and identifying areas for improvement in the Bregghan POS system.</p></td>
 	</tr>
 	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">Front-End Developer </p></td>
-                <td bgcolor="lightblue"><p style="text-align:center;">Responsible for implementing quality standards and best practices in the user interface design and development of the Bregghan POS system. </p></td>
+		<td><p style="text-align:center;">Front-End Developer </p></td>
+                <td><p style="text-align:center;">Responsible for implementing quality standards and best practices in the user interface design and development of the Bregghan POS system. </p></td>
 	</tr>
 	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">Back-End Developer </p></td>
-                <td bgcolor="lightblue"><p style="text-align:center;">Responsible for executing thorough testing, optimizing performance, and resolving any quality issues related to the back-end aspects of the system, all aimed at delivering a system that performs exceptionally well and operates reliably.</p></td>
+		<td><p style="text-align:center;">Back-End Developer </p></td>
+                <td><p style="text-align:center;">Responsible for executing thorough testing, optimizing performance, and resolving any quality issues related to the back-end aspects of the system, all aimed at delivering a system that performs exceptionally well and operates reliably.</p></td>
 	</tr>
 </table>
 
