@@ -1048,12 +1048,13 @@ It will be possible to establish the scope baseline by incorporating the scope d
 ==Cost Change Control Process==
 <p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
 ==Project Budget==
-<p>The budget for this project is detailed below.  Costs for this project are presented in various categories... </p>
+<p>The budget for this project is detailed below. The base monthly salaries are referenced from Glassdoor’s monthly salary rates (Glassdoor, n.d.). Costs for this project are presented in various categories...</p>
 
 <table width="744" border="1" align="center">
+            
 		<tr style="height: 37px;">
 			<td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-				<p><strong>INITIATION</strong></p>
+				<p><strong>Manpower Cost Estimate</strong></p>
 			</td>
 		</tr>
 		<tr style="height: 52px;">
@@ -1061,10 +1062,13 @@ It will be possible to establish the scope baseline by incorporating the scope d
 				<p><strong>ROLE</strong></p>
 			</td>
 			<td style="height: 52px;" width="96" bgcolor="#04549B">
-				<p><strong>Hourly Rate</strong></p>
+				<p><strong>Base Monthly Salary (Based on Glassdoor)</strong></p>
+			</td>
+			<td style="height: 52px;" width="96" bgcolor="#04549B">
+				<p><strong>Total Working Hours </strong></p>
 			</td>
 			<td style="height: 52px;" width="198" bgcolor="#04549B">
-				<p><strong>Work Hours</strong></p>
+				<p><strong>Hourly Rate</strong></p>
 			</td>
 			<td style="height: 52px;" width="108" bgcolor="#04549B">
 				<p><strong>No. of People</strong></p>
@@ -1078,16 +1082,19 @@ It will be possible to establish the scope baseline by incorporating the scope d
 				<p><strong>Project Manager</strong></p>
 			</td>
 			<td style="height: 37px;" width="96">
-				<p>₱ 201.09</p>
+				<p>₱ 40,000</p>
 			</td>
 			<td style="height: 37px;" width="198">
-				<p>₱ 1, 608.70 * 23</p>
+				<p>608</p>
 			</td>
 			<td style="height: 37px;" width="108">
+				<p>₱ 230.77</p>
+			</td>
+			<td style="height: 37px;" width="162">
 				<p>1</p>
 			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 37,000.00</p>
+				<p>₱ 570,463.44</p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
