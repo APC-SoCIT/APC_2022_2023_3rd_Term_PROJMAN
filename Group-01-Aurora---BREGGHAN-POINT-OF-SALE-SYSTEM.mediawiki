@@ -1641,3 +1641,89 @@ The development team are the ones responsible for implementing the technical asp
                 <td><p style="text-align:center;">By collecting feedback, analyzing data, and implementing lessons learned, ongoing enhancements are made to the POS system, fostering a culture of continuous improvement throughout the project.</p></td>
 	</tr>
 </table>
+
+==Quality Requirements/Standards==
+<p>The Quality Requirements/Standards for the Bregghan Point-of-Sale system will provide a clear direction for the development and implementation of the project. The following requirements serve as a benchmark, ensuring that the system meets the desired level of quality and functionality. In addition, this will help in mitigating risks, addressing potential issues, and enhancing stakeholder satisfaction. Adhering to quality requirements and standards promotes consistency and reliability in the POS system, instills confidence among stakeholders, and increases the chances of delivering a high-quality solution that meets their needs and expectations. </p>
+
+<ul>
+<li> Functionality 
+The POS system should have a comprehensive set of features and capabilities to support various sales transactions, including inventory management, product catalog management, and reporting. It should accurately calculate prices, handle discounts and promotions, manage stock levels, and generate receipts. </li>
+
+<li> Reliability 
+The POS system should consistently perform its intended functions without errors or disruptions. It should be available for use during store operating hours and should not encounter frequent system crashes or downtime that would impact business operations. The system should be designed to handle high transaction volumes without compromising its performance.</li>
+
+<li>Usability 
+The design of the POS system should prioritize a user-friendly interface and easy-to-use navigation. It should enable store employees to quickly grasp its operation and carry out their responsibilities with efficiency. The system should provide clear guidance, logical workflows, and visual cues that facilitate smooth navigation through its diverse functions. </li>
+
+<li>Performance 
+The POS system should ensure optimal performance, with quick response times for processing transactions, executing search queries, and generating reports. The system should be capable of handling high transaction volumes during peak periods without compromising its efficiency. </li>
+</ul>
+
+==Quality Assurance==
+<p>The Quality Assurance plan for the Bregghan Point-of-Sale system project defines a structured approach to conducting quality activities, including audits, reviews, and process enhancements, to detect and rectify any deviations from the set quality standards. The primary objective of quality assurance is to guarantee that the project's outcomes and processes meet exceptional quality criteria, satisfying customer expectations and attaining project success. </p>
+<ul>
+<li>Quality Planning 
+Establish a comprehensive quality management plan that defines quality objectives, standards, and metrics for the POS system. This involves identifying quality requirements, setting quality targets, and outlining the processes and tools to be used for quality assurance. </li>
+
+<li>Process Documentation 
+Document all processes related to the development, implementation, and maintenance of the POS system. This includes creating standard operating procedures (SOPs), process flowcharts, and checklists to ensure consistency and adherence to quality standards. </li>
+
+<li>Quality Audits 
+Regular audits should be done to evaluate adherence to established quality processes and standards. These audits identify any deviations or non-compliance and present opportunities for implementing corrective actions and enhancing processes. </li>
+
+<li>Performance Monitoring 
+Consistently observe the performance of the POS system to guarantee that it aligns with quality requirements. This encompasses monitoring metrics such as response times, transaction accuracy, system availability, and other significant performance indicators. </li>
+
+<li>Testing and Validation 
+The team must implement comprehensive testing protocols to validate the functionality, dependability, and performance of the POS system. This comprises conducting unit tests, integration tests, system tests, and user acceptance tests to detect and resolve any flaws or concerns. </li>
+
+<li>Continuous Improvement 
+The development team will establish a continuous improvement strategy by regularly gathering and evaluating client feedback, monitoring system performance, and conducting internal assessments to identify potential areas for enhancement. </li>
+</ul>
+
+<p>Through the implementation of a comprehensive quality assurance process, the project team aims to guarantee the system's adherence to superior quality standards, fulfill customer demands, and provide a dependable and effective solution for the Bregghan store. </p>
+
+==Quality Control==
+<p>The Quality Control process for the Bregghan Point of Sale (POS) system project encompasses the systematic monitoring, assessment, and evaluation of the project's deliverables and processes to ensure they align with established quality standards and requirements. It involves the following key components: </p>
+<ul>
+<li>Continuous Testing and Feedback 
+The project team will continuously perform testing activities to identify and address any defects or issues in the system. By regularly conducting tests and validations, potential problems can be discovered and addressed before they escalate and impact the overall quality of the system.</li>
+
+<li>User Acceptance Testing (UAT) 
+User Acceptance Testing (UAT) plays a crucial role in quality control for the Bregghan POS system by providing an opportunity for end-users to validate the system's functionality, usability, and performance according to their unique requirements. UAT ensures that the POS system effectively fulfills the needs of store staff, enabling them to perform their tasks efficiently and ensuring a favorable user experience. By actively incorporating user feedback and resolving any identified issues during UAT, the Bregghan POS system can successfully deliver a top-notch solution that meets user expectations and enhances overall satisfaction. </li>
+
+<li>Compatibility Testing 
+The team must ensure that the system functions seamlessly across various platforms, such as mobile devices and browsers, guaranteeing a consistent and satisfactory user experience for customers regardless of the device or platform they choose to use. </li>
+
+<li>Continuous Monitoring 
+The project team must actively track essential performance indicators like user satisfaction, response time, and system uptime. This proactive approach helps identify and address any issues or bottlenecks promptly, ensuring that the system consistently meets quality standards and delivers a satisfactory user experience. </li>
+
+<li>Monitoring and Documenting Quality Assessments 
+This will allow the project team to have a systematic record of quality-related activities and their outcomes, providing valuable insights for tracking the project's progress, identifying areas for improvement, and ensuring the overall quality of the POS system. </li>
+
+<li>Continuous Improvement 
+Continuous improvement is a vital aspect for the success of the Bregghan POS system, as it encourages the project team to proactively pursue opportunities for enhancement, gain insights from previous experiences, and implement necessary adjustments. By embracing continuous improvement, the team ensures that the POS system remains adaptable to changing customer requirements, industry standards, and consistently maintains an elevated level of quality. </li> 
+</ul>
+
+<p>By implementing these measures, the project team can guarantee that the POS system adheres to stringent quality standards, fulfills customer expectations, and provides a dependable and effective solution. </p>
+
+==Quality Control Measurements==
+<p>The Quality Control Measurements for the Bregghan POS system project describe the strategy and documentation process for capturing and evaluating quality metrics in accordance with the defined standards and requirements. Agile and Scrum methodologies will be implemented to facilitate continuous inspection and adaptation during the project lifecycle. The section also highlights the significance of documenting observations and implementing necessary actions in case the measurements deviate from the established standards. </p>
+
+<p>The following details will be on the platform: </p>
+
+<ul> 
+<li>Date of measurement: The date when the quality control measurement was performed for the Bregghan POS system. </li>
+<li>Type of measurement: The specific method used to conduct the measurement, such as automated testing, code review, peer review, or user story acceptance. </li>
+<li>Measurement results: The outcome of the measurement, indicating whether it passed or failed, the number of identified flaws, and the percentage of code coverage achieved. </li>
+<li>Comparison against requirements and standards: The established quality requirements and standards used as benchmarks for comparing the measurements. </li>
+<li>Responsible team member for measurement: The team member responsible for conducting the quality control measurement. </li>
+<li>Assessment of measurement results: The team member was tasked with evaluating the measurement results and determining any necessary actions. </li>
+<li>Corrective actions: Actions or steps required to address any deviations from the standards or requirements identified during the measurement. </li>
+<li>Date of completion for corrective actions: The date when the corrective actions were completed. </li>
+<li>Responsible team member for implementing corrective measures: The team member responsible for executing the corrective measures. </li>
+</ul>
+
+<p>The quality control measurements will be logged and documented on a collaborative platform or project management tool to ensure easy access and transparency. The project team utilizes OpenProject and other tools to monitor the project's timeline and identify patterns and areas requiring attention, enabling timely actions and adjustments as needed. </p>
+
+=Risk Management Plan=
