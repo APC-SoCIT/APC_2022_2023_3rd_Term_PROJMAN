@@ -1791,4 +1791,109 @@ Continuous improvement is a vital aspect for the success of the Bregghan POS sys
 <li>Medium: Risks with a medium probability of occurring and a moderate impact on the project. These risks should be closely monitored, and mitigation strategies should be developed in case they occur. </li>
 
 <li>Low: Risks with a low probability of occurring and a minor impact on the project. These risks can be monitored periodically, and mitigation strategies can be developed in case they occur. </li>
-</ul<
+</ul>
+
+==Risk Monitoring==
+<p>The Risk Management Plan of the Bregghan Point of Sale System, provides framework for monitoring risks throughout the project. It is a requirement to continuously monitor risks during the project’s lifespan.</p>
+
+<p>For a project to be executed successfully and to reduce any risks that could surface during its lifespan, the project manager's involvement in managing risk monitoring is essential. Working closely with the project team and stakeholders to retain visibility and control over hazards, the project manager adopts a proactive strategy to discover, analyze, and monitor risks. </p>
+
+==Risk Mitigation and Avoidance==
+<p>The method of managing risks for the Point of Sale (POS) system focuses on risk reduction and avoidance. These tactics are designed to lessen the possibility and effects of recognized risks on the system's operations, compliance, and security. Organizations may proactively safeguard the integrity and dependability of the POS system by putting into place efficient risk reduction and avoidance strategies. </p>
+
+<p>The project team should identify the risks with the highest possibility and develop plans to avoid them. The following are the key points or options available to the project manager: </p>
+
+<ul>
+<li>Risk Mitigation: carry out a thorough analysis to comprehend the nature, consequences, and likelihood of detected hazards. This assessment serves as a basis for creating specialized mitigating measures. </li>
+
+<li>Risk Assessment: after identifying risks, risk assessment is a process that involves evaluating the potential risk of the Point of Sale (POS) system. This is where ranking comes in each risk is grouped by rank.  </li>
+
+<li>Contingency Planning: A crucial step in the risk management procedure for the Point of Sale (POS) system is contingency planning. To manage and lessen the effects of prospective risks and disruptive occurrences, it entails developing and documenting a set of specified actions, processes, and strategies. By limiting downtime and any negative effects in the case of unforeseen occurrences, contingency planning aims to maintain the POS system's resilience and continuity. </li>
+
+<li>Communication: A key component in the Point of Sale (POS) system's risk reduction process is effective communication. It is essential for ensuring that pertinent stakeholders are aware of, involved with, and supportive of the plans and actions taken to reduce risk. To improve information sharing, encourage cooperation, and advance a common knowledge of the risks and mitigation actions inside the company, communication related to risk mitigation serves these purposes. </li>
+
+<li>Agile Approach: Risk management may be done in a flexible and quick manner by using the Agile methodology. The team's use of the Agile approach, which permits continual risk management and the capacity for change, must be ensured by the project manager. </li>
+
+<li>Change Management: Risk management may be done in a flexible and quick manner by using the Agile methodology. The team's use of the Agile approach, which permits continual risk management and the capacity for change, must be ensured by the project manager. </li>
+
+==Risk Register==
+<p>A risk register is a thorough record that systematically captures and documents all identified risks in a project or organization. It acts as a central storage of vital details for each risk, such as its description, potential consequences, likelihood, status, and assigned responsibilities. The risk register aids in streamlining risk management by offering a consolidated overview of the risks, facilitating prioritization, monitoring, and the implementation of suitable measures to address and mitigate potential hazards. </p>
+
+<p>The following criteria will be used for the risk register:</p>
+<ul>
+<li>Risk ID: Every risk will receive an individual identification number.</li>
+<li>Risk Description: Thorough clarification of the possible adverse outcomes or effects linked to the risk.  </li>
+<li>Risk Category: Identification of broad themes or key areas of concern associated with the risks. </li>
+<li>Risk Owner: The task of monitoring and managing each risk will be assigned to a responsible individual or team. </li>
+<li>Probability: Evaluation of the likelihood or frequency at which the risk is expected to occur. </li>
+<li>Impact: Assessment of the potential outcomes or ramifications that could arise from a risky event. </li>
+<li>Status: Current state or condition of the risk.</li>
+</ul>
+
+=Procurement Management Plan=
+==Introduction==
+<p>This project's Procurement plan plays a vital role in succeeding the following deliverables as this shows the plans that will be taken as part of the planning process for the program or service. The main idea behind procurement is that proactive scheduling, planning, and bulk buying lead to financial savings, effective corporate operations, and improved value for money.</p>
+
+<p>Bregghan Mini Grocery Stores procurement come from a specific supplier for the items called “Suy Sing” where it serves as the primary base of the mini grocery stores needs during operation hours. This procurement plan will define the projects’ needs and cost and the contracts used, and this will show the flow that the mini grocery store works with Suy Sing to resupply the needs. Of course, risks are without a doubt a part of the procurement plan especially during the pandemic where it limits the incoming items for the mini grocery store it will also be shown in this procurement plan how the project team will mitigate the risks that is being given to avoid loss of sales and utilize the bregghan distribution between customers and suppliers. Therefore, with the monitoring of contracts used and deadlines covered with the suppliers, this procurement management plan will also show the constraints the project team might face during the creation of the project.  </p>
+
+==Procurement Risks==
+<p>Procurement plays a big part in determining the different situations the project team might face as we know the risks connected to and the likelihood that procurement processes will fail. Therefore, the team must evaluate procurement risks to optimize their supply chain and reduce the risk of fraud, subpar products, delayed delivery, and cost overruns. In current times Bregghan might be able to face different risks for procurement of the process during work times these includes of course the following:  </p>
+<ul>
+<li>Poor vendor selection may affect the operations to be needed. Without proper vendor management the team will offer more time fixing problems and creating solutions rather than improving the project.  </li>
+<li>An external hazard like the pandemic may affect the store sales and resupplying of goods from the supplier due to heightened restrictions in the store area.</li>
+<li>Rehabilitation of streets is frequent in the area which may result in a narrower street which is hard for the suppliers of the store to reach it.  </li>
+<ul>
+
+==Procurement Risk Management==
+<p>Procurement risk management of the project will provide the necessary means because this field determines internal and external project risks. Eliminating circumstances that place your firm at unwarranted, heightened risk is a requirement for effective risk management and to mitigate risks that will affect the project deployment in the long term.  </p>
+
+<p>The risks that the project team may face during the sprint may occur at any given events however the project team have prepared different risk management strategies in order to avoid events that may affect the procurement for the client and the team and ensure contact with the supplier to maintain 100% functions of all procurement services that is important to the project: </p>
+<ul>
+<p>1. Standard Procurement Processes so that everyone on the project team is aware of the procedures they must adhere to guarantee that all data is accurate, whole, and up to date.</p>
+
+<p>2. Ensure communications between the project team, suppliers, and the client always will avoid unnecessary decisions being made. Progress reports are mandatory to ensure the project teams track the deliverables that need to be met by said dates. </p>
+
+<p>3. Specific Roles are assigned to every one of the project team to avoid confusions on task and improve the development and productivity of the product. This will also help since each team member may be able to recognize and resolve issues like delays or a lack of resources with the assistance of this accountability.  </p>
+
+<p>4. Document changes made during each time will make tracking of changes easier and produce better solutions each time deliverables at specific time are satisfactory. Reviews of procurement risks will contain areas that may offer improvement within the service or the final product.  </p>
+
+<p>5. Automated procurement processes indicate a faster procurement process and an absence of the requirement for approvals. The team members can focus on their main duties rather than spending time on rewriting errors and pursuing signatures.  </p>
+
+==Cost Determination==
+<p>Project Team will determine its cost of services from outside vendors with full information to contract and regular monitoring of costs that affects the budget to maintain the project budget the costs for the said services will undergo as planned to response to the request for proposals. The stakeholder as well as the project manager will collaborate with one another together with the project team to carefully proceed with the costs with regular record or monitoring and follows the budget estimates created for each event that may take place during the sprint. Therefore, this cost estimation plan will be the project team’s means of budget progress being used in the service associated with outside vendors and used within the project’s creation.  </p>
+
+==Procurement Constraints==
+<p>This part is given to ensure the project's key to success, these constraints and hazards must be handled. The project team should keep an eye out for the constraints indicated below to ensure that the process is as error-free and error-free as feasible.  </p>
+<ul>
+<li>Cost Constraint – The project should follow a series of budgets set for the project teams sprint during the creation process. This will illustrate the team’s choices that are available and can be used for the final deliverable within said budget.</li>
+
+<li>Resource Constraint – For the Bregghan Point of Sales system it has a specific technical requirements or specification needed to be met to utilize functionality of the product for example the Barcode Scanner and the receipt printer in which are necessaries for the execution of the project without having said resources the team might find it difficult to deliver product to client.  </li>
+
+<li>Time Constraints – As with delivering the precise updates during the project sprints, time is also a big constraint for the team as each member with given roles follows a specific timestamp to finish a certain task given. If the given task is not finished on time the team may find it to struggle as the things needed to do may stack and lead to confusion room for errors.</li>
+
+<li>Quality Constraints – The Project Team ensures that every feature within the project's scope is to be executed within the given time and delivers full quality to the user. These focus on the specific characteristics of the product and make sure that the outcome of the project matches that of the expectations from the developers and the user.  </li>
+</ul>
+
+==Contact Approval Process==
+<ul>
+<li> Initiation – Request for procurement should be made by the project manager to initiate the approval process of the project's procurement.  </li>
+
+<li> Approval – The request for the procurement plan will be handled accordingly to the stakeholders. All documents are neither approved nor disallowed.  </li>
+
+<li> Management and Development – Following contract to external vendors will be processed. Purchases made will go through the project team, stakeholders, and the client and be made as legal documentation. This is the creation of the contract with legal effect, laying forth the terms and conditions of business, as well as the specifications or criteria. </li>
+
+<li>Management and Development – Following contract to external vendors will be processed. Purchases made will go through the project team, stakeholders, and the client and be made as legal documentation. This is the creation of the contract with legal effect, laying forth the terms and conditions of business, as well as the specifications or criteria. </li>
+</ul>
+
+==Decision Criteria==
+<ul>
+<p>1. Flexibility – Supplier must adhere to the flexibility of the items for the project team during procurement should there be any slight changes regarding the needs of the group for the final product. The output must fit on the project structure and abide within the project specifications.  </p>
+
+<p>2. Cost Saving – Project Team aurora prioritize or the reduction of costs or rather saving especially on procurement while maximizing quality that is received therefore supplier pricing should be reasonable enough for the decision of the project team and should also base on alternative pricelists from other sources. </p>
+
+<p>3. Ease of Modification and Scalability – Decision making within the project team should also consider ease of modification of the service bought by the implemented supplier or vendor this is to fully utilize the use of the service and assure that modification of it should there be any will not be an error to be fixed by the project team it should also be scalable to fit any changes. </p>
+
+<p>4. Time to Implement – The supplier should be able to comply within the given time of the stakeholders to avoid any pressure on the project team during project creation. This would also improve the team’s productiveness as well as proficiency.  </p>
+
+<p>5. Risk Levels – Upon deciding on the project, risk management will also play an important part in implementing effectiveness in the service. The team members should set a risk percentage to monitor the progress of contracts with the supplier to be reviewed by the stakeholder and client.  </p>
+</ul>
