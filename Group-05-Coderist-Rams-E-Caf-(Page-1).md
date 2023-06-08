@@ -651,8 +651,12 @@ Any more records or materials, including invoices, change request forms, and 	co
     <td>PHP 11.3168 kwh / 3395.04 per month</td>
   </tr>
   <tr>
+<td>Labor Cost (Hourly Rate)</td>
+<td>PHP 984.00 (228 + 168 + 240 + 180 + 168)
+</tr>
+  <tr>
     <td>Total Project Cost</td>
-    <td>PHP 36,598.94</td>
+    <td>PHP 34,244.22</td>
   </tr>
 </table>
 
