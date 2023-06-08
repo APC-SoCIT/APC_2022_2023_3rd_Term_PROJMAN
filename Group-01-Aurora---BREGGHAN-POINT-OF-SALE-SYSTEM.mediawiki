@@ -435,50 +435,36 @@ vendor. However, this option was rejected due to the lack of control over the pr
 		<td bgcolor="lightblue"><p style="text-align:center;">Position</p></td>
 		<td bgcolor="lightblue"><p style="text-align:center;">Internal/External</p></td>
 		<td bgcolor="lightblue"><p style="text-align:center;">Contact Information</p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Devilyn Ligligen<br></p></td>
-		<td><p style="text-align:center;">Business Owner/Manager</p></td>
-		<td><p style="text-align:center;">Internal</p></td>
-		<td><p style="text-align:center;">bligligen@gmail.com </p></td>
 
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Cashier</p></td>
-		<td><p style="text-align:center;">Cashier Employee</p></td>
-		<td><p style="text-align:center;">Internal</p></td>
-		<td><p style="text-align:center;">bregghan@gmail.ccom </p></td>
+		<td><p style="text-align:center;">Project Initiation<br></p></td>
+		<td><p style="text-align:center;">March 28, 2023 </p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Ramon Benedict Elloso</p></td>
-		<td><p style="text-align:center;">Project Manager</p></td>
-		<td><p style="text-align:center;">Internal<br></p></td>
-		<td><p style="text-align:center;">bedictmann@gmail.com</p></td>
+		<td><p style="text-align:center;">Project Planning and Preparation</p></td>
+		<td><p style="text-align:center;">May 01, 2023 </p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Carlos Ligligen</p></td>
-		<td><p style="text-align:center;">Team Member</p></td>
-		<td><p style="text-align:center;">Internal</p></td>
-		<td><p style="text-align:center;">ccligligen@gmail.com</p></td>
+		<td><p style="text-align:center;">Phase I: Analysis</p></td>
+		<td><p style="text-align:center;">May 01, 2023 </p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Andrei Gabriel Palma</p></td>
-		<td><p style="text-align:center;">Team Member</p></td>
-		<td><p style="text-align:center;">Internal<br></p></td>
-		<td><p style="text-align:center;">gabriel.palmaandrei@gmail.com </p></td>
-        <tr>
-		<td><p style="text-align:center;">Donne Paolo Tarinay</p></td>
-		<td><p style="text-align:center;">Team Member</p></td>
-		<td><p style="text-align:center;">Internal</p></td>
-		<td><p style="text-align:center;">donnetarinay@gmail.com </p></td>
+		<td><p style="text-align:center;">Phase II: Design and Development </p></td>
+		<td><p style="text-align:center;">May 29, 2023 </p></td>
 	</tr>
-        <tr>
-		<td><p style="text-align:center;">Customer</p></td>
-		<td><p style="text-align:center;">Customer</p></td>
-		<td><p style="text-align:center;">External</p></td>
-		<td><p style="text-align:center;">----@gmail.com</p></td>
+<tr>
+		<td><p style="text-align:center;">Phase III: Testing </p></td>
+		<td><p style="text-align:center;">July 11, 2023 </p></td>
 	</tr>
-
+<tr>
+		<td><p style="text-align:center;">Phase IV: Implementation </p></td>
+		<td><p style="text-align:center;">August 16, 2023 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Closeout/Completion </p></td>
+		<td><p style="text-align:center;">October 20, 2023 </p></td>
+	</tr>
 </table>
 
 ==Stakeholder Analysis==
