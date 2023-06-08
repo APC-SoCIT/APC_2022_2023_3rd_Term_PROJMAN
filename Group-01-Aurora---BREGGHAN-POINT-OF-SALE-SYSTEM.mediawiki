@@ -1348,3 +1348,37 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 		<td><p style="text-align:center;">The staff members are responsible for using the POS system accurately and efficiently. This includes ensuring that all customer transactions are processed correctly, maintaining accurate inventory records, and promptly reporting any system issues or discrepancies to the manager. </p></td>
 	</tr>
 </table>
+
+==Project Organizational Charts==
+<p>This portion offers a visual representation of the Bregghan Point-of-Sale System project's tasks and team members. The objective is to demonstrate the responsibilities of each team member in relation to the project tasks. The Business owner oversees managing the admin system and the project’s overall success. Next in line is the Project Manager who oversees the entire project from initiation up to the completion phase of the project. Additionally, the front end and back-end developers of the project team are responsible for creating the Bregghan Point-of-Sale System that will be used by the store manager and the cashier of the Bregghan store. The organizational chart functions as a valuable resource for defining the duties and obligations of each team member, encouraging synchronization with the project's goals, and facilitating efficient teamwork.  </p>
+
+==Staffing Management==
+<p>The Staffing Management Plan is a vital element of the Bregghan Point-of-Sale system project, playing a crucial role in its effective implementation. It details the approaches and procedures for acquiring, overseeing, and releasing human resources during the various stages of the project</p>
+
+<li>The staffing management plan will outline the process for acquiring the necessary human resources for the POS project. This includes determining the required skill sets, job roles, and responsibilities, and identifying the recruitment methods to attract qualified candidates.</li>
+<li>The staffing management plan will address any skill gaps identified among the project team members. It will define the training and development programs to enhance their skills and ensure they have the necessary competencies to perform their roles effectively.</li>
+<li>The plan will establish a framework for conducting performance reviews to assess the individual and team performance on the project. It will outline the criteria for evaluation, the frequency of reviews, and the process for providing feedback to team members</li>
+<li>The staffing management plan will include a rewards and recognition system to motivate and acknowledge the achievements of team members. It will define the criteria for rewards, such as bonuses or promotions, and outline the process for recognizing exceptional performance. </li>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Project Responsibility</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Skills Required</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Performance Reviews</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Recognition and Rewards</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Team Leader </p></td>
+                <td><p style="text-align:center;">Responsible for overseeing and coordinating all aspects of the project, ensuring its successful planning, execution, and completion. </p></td>
+		<td><p style="text-align:center;">Being a project team leader requires strong leadership, communication, and problem-solving skills, and the ability to effectively manage resources, mitigate risks, and drive project progress. </p></td>
+		<td><p style="text-align:center;">Assess the ability to effectively lead the team, meet project objectives, foster collaboration, and demonstrate strong decision-making and problem-solving skills. </p></td>
+		<td><p style="text-align:center;">Acknowledging their exceptional leadership, successful project delivery, and the ability to inspire and motivate team members, resulting in project success and positive outcomes. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Team Member </p></td>
+                <td><p style="text-align:center;">Actively participating in project activities, collaborating with team members, and delivering assigned tasks and deliverables within the given times.</p></td>
+		<td><p style="text-align:center;">Effective collaboration and communication skills, the ability to work well in a team environment, and a strong commitment to meeting project objectives and deadlines. This will also include skills like web development, database management, etc. </p></td>
+		<td><p style="text-align:center;">Assess each contribution to the project, adherence to deadlines, quality of work, teamwork, and their ability to meet project objectives.  </p></td>
+		<td><p style="text-align:center;">Provide exceptional performance, dedication, teamwork, and valuable contributions to the project's success. </p></td>
+	</tr>
