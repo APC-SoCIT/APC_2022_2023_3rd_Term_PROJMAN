@@ -61,12 +61,12 @@
 <p>Ms. Devilyn C. Ligligen is the owner of a small-scale retail outlet situated on Mt. Makiling St., Post Proper Southside, Makati City. She caters to sari-sari stores and a diverse range of customers in the surrounding vicinity, providing goods for both wholesale and retail transactions.</p>
 
 =Business Case=
-==1. Executive Summary==
+==Executive Summary==
 <p>Bregghan Mini Grocery Store is a family-owned business that supplies retail, wholesale, and bulk products to residents and sari-sari stores in the area. The store's current system for tracking sales and stocks is manual, using pen and paper, which has led to difficulty in monitoring inventory and potential loss of sales due to items being out of stock.</p>
 
 <p>To address these pain points, our team aims to develop a responsive webapp that digitizes the recording of stocks and sales, notifies the user when stocks are at a critical level, and automates the computation of sold items. In addition, the webapp will also produce a basic report that shows the items sold. </p>
 
-<h3>1.1 Issue</h3>
+<h3>Issue</h3>
 
 <li>Manual inventory tracking:<p>The current system at Bregghan mini grocery store involves manual recording of stocks and sales on paper, which can be time-consuming and prone to errors. The lack of a proper inventory management system can result in out-of-stock items and missed sales opportunities.  </p></li>
 
@@ -89,10 +89,10 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 <li>Increased productivity:
 <p>The implementation of a digitized sales and stock tracking system will reduce the workload of the staff, as they will no longer have to manually record sales and inventory. This will free up their time, allowing them to focus on other tasks that can improve the store's operations. </p></li>
 
-<h3>1.3 Recommendation</h3>
+<h3>Recommendation</h3>
 <p>To address the identified business problem of inefficient stock and sales monitoring at Bregghan mini grocery store, we recommend developing a responsive web application that digitizes the recording of stocks and sales, automates computation of sold items, and produces reports for daily, weekly, monthly, and yearly records. By implementing this solution, the staff and manager of Bregghan mini grocery store will be able to monitor stocks and sales in real-time, reducing workload and minimizing human error. This will lead to more efficient inventory management and faster checkouts, resulting in improved customer satisfaction and retention. The system will also provide alerts when stock levels reach a critical point, allowing the store to replenish inventory on time and avoid potential revenue loss due to out-of-stock items. Furthermore, the application's capability to produce detailed sales reports will provide useful insights to the business, allowing for data-driven decision-making to further optimize operations and profitability. Overall, we believe that the proposed solution will address the identified business problem and provide significant benefits to Bregghan mini grocery store, its staff, and its customers. </p>
 
-<h3>1.4 Justification </h3>
+<h3>Justification </h3>
 <p>Bregghan mini grocery store recognizes the need for improvement in its operational processes, particularly in sales and inventory tracking. The current manual system in place is time-consuming and prone to errors, hindering overall efficiency. To address these challenges, the store proposes implementing a digitized system that offers numerous benefits. </p>
 
 <p>By adopting a digital system, the staff, and managers at Bregghan can track sales and inventory in real-time, reducing the workload and improving efficiency. The proposed project will enable more accurate inventory tracking, ensuring timely restocking to avoid stockouts and potential sales losses. With better inventory management and automated sales tracking, the store can meet customer demands more effectively, leading to increased sales and greater customer satisfaction. </p>
@@ -101,7 +101,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 
 <p>Failure to implement the proposed project would have negative consequences for the store. The current manual system would continue to hinder efficiency and accuracy, resulting in wasted time and potential revenue loss. Inaccurate inventory tracking could lead to stockouts, lost sales, and dissatisfied customers. Furthermore, without keeping pace with competitors who have already embraced digital systems, Bregghan mini grocery store risks losing customers to these technologically advanced stores. Therefore, it is imperative for the store to proceed with the implementation of the proposed project to drive efficiency, sales growth, customer satisfaction, and maintain a competitive edge in the market. </p>
 
-==2. Business Case Analysis Team==
+==Business Case Analysis Team==
 <p>The roles and responsibilities of the team members involved in the plan development 	are illustrated in Table 1. </p>
 <table border="1" width="70%" align="center">
 	<tr>
@@ -134,27 +134,27 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 	</tr>	
 </table>
 
-==3. Problem Definition==
+==Problem Definition==
 <h3>3.1 Problem Statement</h3>
 <p>Bregghan mini grocery store is currently facing several issues in their daily operations, which are mainly caused by their manual recording and tracking system. Specifically, the store has trouble in monitoring their inventory, which can result in insufficient stocks or overstocking. Additionally, the manual computation of sold items often leads to errors, which affects the accuracy of their sales records. As a result, the store loses potential customers due to a lack of available items, leading to decreased profits. Furthermore, the current process of tracking sales and stocks is time-consuming, which can lead to slower checkouts and longer queues. Overall, the business problem is the need for a more efficient and accurate system to monitor inventory and sales to improve the overall customer experience and increase revenue. </p>
 
-<h3>3.2 Organizational Impact </h3>
+<h3>Organizational Impact </h3>
 <p>The implementation of the proposed project will have a significant impact on the organizational processes, tools, hardware, and software of Bregghan mini grocery store. It will require the adoption of new technology and the implementation of new processes to manage sales and inventory in a digitized and automated way. The system will replace the traditional pen-and-paper method of tracking sales and inventory, which will require staff to be trained in the use of the new technology. </p>
 
 <p>New roles will be created to manage the system and ensure its proper functioning. The manager will have access to the system's reporting tools to generate daily, weekly, monthly, and yearly reports on sales and inventory. The system will also require the creation of a database of products that the store offers, and this will need to be updated and maintained regularly. </p>
 
 <p>The proposed project will bring a positive impact to the organizational processes, increasing the efficiency and accuracy of sales and inventory tracking. The store staff will be able to manage the stock level in real-time, making restocking more efficient and reducing the risk of stockouts. The system will also provide better insight into product performance and inventory management, allowing for better decision-making and more informed business strategies. </p>
 
-<h3>3.3 Technology Migration </h3>
+<h3>Technology Migration </h3>
 <p>The plan for the Bregghan POS System involves the creation of a website and mobile application that will be powered by Amazon Web Services (AWS) for the database. AWS is a type of cloud service that allows businesses to rent computing resources like servers, storage, and databases. The developers chose AWS for the mini grocery store due to its scalability, allowing the store to scale up or down easily to meet changing demands in the future without worrying about managing their infrastructure. AWS is also highly reliable and can handle large volumes of traffic and data without slowing down. The data migration process will ensure that all necessary data is transferred to the new system, and the new system will undergo thorough testing to ensure 	reliability, efficiency, and security.</p>
 
-==4. Project Overview==
+==Project Overview==
 <p>This section provides a broad overview of the Bregghan POS System, which encompasses a description, its goals and objectives, performance criteria, assumptions, constraints, and major milestones. </p>
 
-<h3>4.1 Project Description</h3>
+<h3>Project Description</h3>
 <p>The project will develop a sales and stock tracing system to address the business problem of Bregghan mini grocery store which is the lack of efficient monitoring of their stocks and sales. The purpose of the project is to develop a digital application that will provide the staff and manager of the store with an efficient way of monitoring their stocks and sales in real time, reducing the workload and potential for human errors. The project will consist of developing a POS-like system where users can monitor the items that go in and out of the store and can compute the total prices, and a system for generating and storing digital copies of receipts. The system will be developed using modern software development practices and technologies. The project will be executed in three terms, with clear milestones and deliverables to ensure that it stays on track and within scope. </p>
 
-<h3>4.2 Goals and Objectives</h3>
+<h3>Goals and Objectives</h3>
 <p>The project team intends to accomplish the project as effectively as possible to help and improve the current system of Bregghan Store. The following listed objectives are the team needed to accomplish: </p>
 
 <ul>
@@ -165,7 +165,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
   <li>To automate the computation of sold items, ensuring accurate and efficient tracking of sales data. </li>
 </ul> 
 
-<h3>4.3 Project Performance</h3>
+<h3>Project Performance</h3>
 <p>Assessing the project performance of a Point of Sale (POS) system project involves evaluating various aspects of the project to determine its progress, adherence to objectives, and overall success. Listed below are the project assessment of the Bregghan Point of Sale System: </p>
 
 <ul>
@@ -189,7 +189,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 </li>
 </ul>
 
-<h3>4.4 Project Assumptions</h3>
+<h3>Project Assumptions</h3>
 <p>Listed below are the main assumptions for the project: </p>
 <ul>
   <li>All necessary funding and resources will be secured and available for the duration of the project.</li>
@@ -204,7 +204,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
   <li>The project will result in the anticipated benefits and outcomes as described in the business case.</li>
 </ul>
 
-<h3>4.5 Project Constraints</h3>
+<h3>Project Constraints</h3>
 <p>Listed below are the following constraints of the production of the project: </p>
 <ul>
   <li>Budget constraints: The project cannot exceed a certain budget, which may limit the scope or timeline of the project.</li>
@@ -212,7 +212,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
   <li>Resource constraints: The project team may have limited staff, expertise, or technology available to complete the project.</li>
 </ul>
 
-<h3>4.6 Major Project Milestones</h3>
+<h3>Major Project Milestones</h3>
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">Milestones</p></td>
@@ -288,82 +288,136 @@ vendor. However, this option was rejected due to the lack of control over the pr
 
 =Project Charter=
 ==Executive Summary==
-<p>Ever since the establishment of the Bregghan mini grocery store, it has been using a pen and paper to track the stocks and sales that are going in and out of the store. In addition, the store’s current Point of Sales System is a manual computation and the receipts are hand written. With the integration of the project, it will provide technology solutions which produces efficiency among workload in the said company.</p>
+<p>Ever since the establishment of the Bregghan mini grocery store, it has been using a pen and paper to track the stocks and sales that are going in and out of the store. In addition, the store’s current Point of Sales System is a manual computation, and the receipts are handwritten. With the integration of the project, it will provide technology solutions which produces efficiency among workload in the said company.</p>
 
 ==Project Purpose/Justification==
-<p>This section of the paper will explain the purpose of the project that will be implemented which is the Bregghan Sales and Stocks Tracer Response Web Application. Furthermore, the business case will also discuss on why the project is needed since it is with relation to how the small business operations.</p>
+<p>This section of the paper will explain the purpose of the project that will be implemented which is the Bregghan Point of Sale System. Furthermore, the business case will also discuss why the project is needed since it is related to how the small business operates.  </p>
 
 ==Business Need/Case==
-<p>The Bregghan Sales and Stocks Tracer Responsive Web Application is created to change the manual recording of pen and paper which is used by the company to track sales and stocks, into a digitized version that will be used by the owner and their employee. This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency. The company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales.</p>
+<p>The Bregghan Point Sales System Application was created to change the manual recording of pen and paper which is used by the company to track sales and stocks, into a digitized version that will be used by the owner and their employees. This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout the day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency. The company also noticed that the integration of this technological solution will allow them to ease the workload when checking the stocks and manual recording of sales. </p>
 
 ==Business Objectives==
 <p>The business objectives for the project are listed below:</p>
 <ul>
-  <li>Rid of the manual computation of sales and inventory management of the Bregghan mini grocery store and automate it by 100%.</li>
-  <li>Create a web and mobile application within the given timeframe which is the second term of the School Year 2022 – 2023.</li>
-  <li>Accomplish all documentations and the implementation of the project within the second term of the School Year 2022 – 2023.</li>
+  <li>Supply grocery needs to sundry stores in the area.</li>
+  <li>Provide groceries to people in the area. </li>
+  <li>Provide transparent pricing for items. </li>
+  <li>Provide faster checkouts for customers. </li>
 </ul>
 
 ==Project Description==
-<p>This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout a day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency and the company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales. This will be accomplished by the implementing systems for the admin and its employee which is connected with each other, the admin monitoring the sales and stocks while the employee’s system or Point-of-Sale will handle outgoing stocks from the grocery.</p>
+<p>This integration of technology solution will aid the client in utilizing stocks, analytical reports, and faster recording of sales throughout the day. The Bregghan mini grocery store perceived that the use of pen and paper to records stocks and sales takes up the time and efficiency and the company also noticed that an integration of this technology solution will allow them to ease the workload when checking the stocks and manual recording of sales. This will be done by implementing systems for the admin and its employee connected with each other, the admin monitoring the sales and stocks while the employee’s system or Point-of-Sale will handle outgoing stocks from the grocery. </p>
 
 ==Project Objectives and Success Criteria==
-<p>To observe the success of the Bregghan Sales and Stocks Tracer Web Application, these are the objectives that should be met with within the designated time of the PBL project development:</p>
+<p>The project team intends to accomplish the project as effectively as possible to help and improve the current system of Bregghan Store. The following listed objectives are the team needed to accomplish: </p>
 <ul>
-  <li>Develop a solution that can digitize the computation of sales within the PBL project.</li>
+  <li>To develop a responsive web application that accurately tracks sales and inventory for Bregghan mini grocery store, enabling real-time monitoring and reporting.</li>
   <li>Develop an admin system that can monitor the stocks and sales real time.</li>
-  <li>Fully develop an Admin System.</li>
-  <li>Fully develop a POS System.</li>
+  <li>To fully digitize the recording of stocks and sales for Bregghan mini grocery store, ensuring that all inventory and sales transactions are accurately captured and stored electronically. </li>
+  <li>To implement a notification system that alerts the user when stock levels reach a critical threshold, ensuring timely replenishment and avoiding stockouts. </li>
+  <li>To automate the computation of sold items, ensuring accurate and efficient tracking of sales data.</li>
 </ul>
 
 ==Requirements==
-<p>This project must meet the following list of requirements in order to achieve success:</p>
+<p>To achieve success, the project must meet the following requirements: </p>
 <ul>
-  <li>The client’s needs are met.</li>
-  <li>The processes and features of the project is adequate.</li>
+  <li>Sales and Inventory Management: The system should enable us to track sales and manage inventory. Stock quantities should automatically update when purchases are made. It should provide real-time monitoring. </li>
+  <li>Reports and Analytics: The system should generate transaction reports and analytics, including the top-selling products, sales and which category of products are sold often. </li>
+  <li>Flexibility: Different businesses have unique needs; the system should offer customized options to adapt to the business rules. </li>
 </ul>
 
 ==Constraints==
-<p>The following constraints pertain to the Bregghan Sales and Stocks Tracer Web Application:</p>
+<p>The following constraints pertain to the Bregghan Point of Sale System: </p>
 <ul>
-  <li>All security hardware and software must be compatible with our current IT platforms.</li>
-  <li>All hardware and software must be purchased in accordance with the allocated budget and timeline.</li>
-  <li>Two IT specialists and one security specialist will be provided as resources for this project.</li>
+  <li>Budget constraints: The project cannot exceed a certain budget, which may limit the scope or timeline of the project. </li>
+  <li>Time constraints: The project must be completed within the designated timestamp.</li>
+  <li>Resource constraints: The project may have limited staff, expertise, or technology available to complete the project.</li>
 </ul>
 
 ==Assumptions==
-<p>The following is the list of the assumptions. Upon agreement and accepting this document at the end, all parties acknowledge that these assumptions are true and correct:</p>
+<p>The following is the list of the assumptions. Upon agreement and accepting this document at the end, all parties acknowledge that these assumptions are true and correct: </p>
 <ul>
-  <li>This project has the full support of the client.</li>
-  <li>The client will be informed of the project before deployment.</li>
+  <li>The completed system will only be accessible for the client (Bregghan Mini Grocery Store) </li>
+  <li>The developers that will work on this project will utilize open-source development tools and all the necessary tools for the testing environment will be provided by the client. </li>
+  <li>The Bregghan Mini Grocery Store has the environment to reinforce the development, implementation, and the maintenance of the project. </li>
+  <li>The budget and the project timeline will remain unchanged throughout the project's development. </li>
+  <li>The project will be managed and foreseen by the project sponsor and stakeholder. All the approvals or permission necessary will be gained promptly. </li>
+  <liThe staff and the manager of the of the Bregghan Mini Grocery Store will gain all the necessary knowledge and skills to adapt to their new system as the developers will provide adequate time to teach them. ></li>
 </ul>
 
 ==Preliminary Scope Statement==
-<p>A digitized system will be developed as part of the proposed solution for the Bregghan mini grocery store. All hardware and software resources will be managed by the team. The project will be independent as it goes in progress daily and all the testing will be done by the team as well as the client as she can recommend some changes the way the clients want the project. The project manager will oversee all the deliverables if it reaches accordingly as planned. The project will be finished when the final report is sent 30 days after the project is tested and deployed. </p>
+<p>The scope of the project contains the development of two systems one for the manager and one for the cashier. The system will include features that can help the manager track the remaining stocks left and identify which items are sold. Furthermore, it can be used to transact items with customers and it holds all of the sales transacted within the day. The system will also include analytical reports in order for the manager to successfully restock on time. The project’s completion will be determined by the success of its deployment to the client and its staff. Another part that will determine the completion of the project is with the implementation of the new system to the client and completely digitizing the current use manual pen and paper. Moreover, the project will include the support needed and training for the manager and the cashier of the mini grocery store. </p>
 
 ==Risks==
-<p>The following risks for the PBL project is identified. The developers should implement avoidance strategies appropriate to minimize the likelihood of these risks:</p>
+<p>The following risks for the Bregghan Point-of-Sale system project is identified. The project manager should implement avoidance strategies appropriate to minimize the likelihood of these risks:   </p>
 <ul>
-  <li>Backlogs from the team due to workload from other academic subjects.</li>
-  <li>Backlogs due to equipment break down.</li>
+  <li>Equipment failure: Backlogs due to equipment breakdown. </li>
+  <li>Limited resources: the risk of insufficient resources which are budget, personnel, and equipment to attain the completion of the project. </li>
+  <li>Human error: There might be a risk of mistakes made by the project developers which can affect the project's completion. </li>
+  <li>Unforeseen instances: There is a risk that could impact the project in unforeseen scenarios like natural disasters. </li>
+  <li>Scope creep: There is a risk that the scope may gain growth (additional requirements or features) that may lead to delays and budget overrun. </li>
+  <li>Dependencies on other parties: There is a risk that the project may depend on the performance and capabilities of external parties that can lead to other issues such as backlogs. </li>
+  <li>Technological Changes: There is a risk that there might be some changes in technology or the industry standards that may result in additional work or resources for the project. </li>
 </ul>
 
 ==Project Deliverables==
-<p>The following deliverables must be met upon the successful completion of the ISA project. Any changes to these deliverables must be approved by the project sponsor:</p>
+<p>The deliverables listed must be met to acknowledge the completion of the project. All changes that might arise within these deliverables must be approved by the project sponsor. </p>
 <ul>
-  <li>Fully deployed intranet security solution.</li>
-  <li>Technical documentation for intranet security solution.</li>
-  <li>Recommendation list for future security considerations.</li>
+  <li>An Admin system that can monitor the sales of the mini grocery store. </li>
+  <li>An Admin system that can give analytical reports for the manager showing the top selling items. </li>
+  <li>A system that keeps tracks of the items left on the grocery store. </li>
+  <li>An Admin system that generates a sales report showing the trend for the total amount.</li>
+  <li>A cashier POS (Point of Sale) that can compute for the items bought by the customer. </li>
+  <li>A cashier POS that can print a receipt for a customer.</li>
 </ul>
 
 
 ==Summary Milestone Schedule==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Summary Milestone Schedule</p></td>
+	</tr>
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Project Milestone</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Target Date</p></td>
+
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Initiation<br></p></td>
+		<td><p style="text-align:center;">March 28, 2023 </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Planning and Preparation</p></td>
+		<td><p style="text-align:center;">May 01, 2023 </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Phase I: Analysis</p></td>
+		<td><p style="text-align:center;">May 01, 2023 </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Phase II: Design and Development </p></td>
+		<td><p style="text-align:center;">May 29, 2023 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Phase III: Testing </p></td>
+		<td><p style="text-align:center;">July 11, 2023 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Phase IV: Implementation </p></td>
+		<td><p style="text-align:center;">August 16, 2023 </p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Project Closeout/Completion </p></td>
+		<td><p style="text-align:center;">October 20, 2023 </p></td>
+	</tr>
+</table>
+
 
 ==Project Approval Requirements==
-<p>Success of the Bregghan Sales and Stock Tracer Responsive Web Application will be achieved when the admin system and POS system is fully tested with the time and cost as being mentioned in this charter. We fully anticipate the need of this proposed solution in order to ease the workload of the client and as well as the employees of the client. The project sponsor, Ms. Devilyn Ligligen, will also approve the project by the project’s success.</p>
+<p>Success of the Bregghan Point of Sale System will be achieved when the admin system and POS system is fully tested with the time and cost as being mentioned in this charter. We fully anticipate the need for this proposed solution to ease the workload of the client and their employees. The project sponsor, Ms. Devilyn Ligligen, will also approve the project by the project’s success. </p>
 
 ==Project Manager==
-<p>Benedict Elloso is named as the Project Manager for the duration of the project. Mr. Elloso’s responsibility is to manage all project tasks including the scheduling and communication through the client regarding this project. His team, consists of two programmers and two documenters will work on the project. Mr. Elloso is the one who will be coordinating with the client. </p>
+<p>Benedict Elloso is named as the Project Manager for the duration of the project. Mr. Elloso’s responsibility is to manage all project tasks including the scheduling and communication through the client regarding this project. </p>
 
 =Stakeholder Management Strategy=
 ==Introduction==
