@@ -599,78 +599,80 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 
 =Scope Management Plan=
 ==Introduction==
-<p>The bregghan minigrocery store now keeps track of the inventories and sales that come in and leave out of the store each day with a pen and paper. Additionally, the store's current point-of-sale system relies on manual computation and handwritten receipts. Additionally, the fast-and slow-moving items in the mini-grocery store are not being properly tracked, and the stocks are only replenished when they notice that an item is already out of stock. </p>
+<p>The Bregghan Mini Grocery business has adopted a traditional method of keeping records for their daily sales, using a pen and paper. Additionally, the store's current point-of-sale system depends on handwritten receipts and manual calculations to track transactions coming in and going out. The mini-grocery store only replenishes its stocks when they realize that a particular item is running critically low, and they are not efficiently keeping track of both the fast-selling and slow-selling items.</p>
 
-<p>Before implementing the project objectives the team gathered as much requirements from the client to know more about the situation of bregghan mini grocery store and to establish a solid foundation for the project objective as well as the deliverables that will be met within every sprint. Moreover the store only uses receipt records to keep track of its sales and inventory, which is tedious for the staff because they must maintain the receipts in order to know what stock is still available and because they only rely on the data contained in those receipts. The group wants to enhance their present system by integrating a stock and sales responsive webapp, which can enhance the store's inventory management and point of sale.Therefore by the end of the project or the deployment the bregghan point of sales system should demonstrate the digitizing of the mini grocery stores sales operations easing the use and calculation of all products that are bought by the customer. The deliverables for the project consists of progress reports mainly documentations that updates real time and the final product itself. </p>
+<p>To establish a solid groundwork for achieving the project objectives and the desired outcomes in each sprint, the team made a concerted effort to gather as many client requirements as possible before initiating the project. This was done to gain a deeper understanding of the circumstances surrounding the Bregghan Mini-Market. Additionally, the store currently relies solely on receipt records to track sales and inventory, which places a heavy burden on the employees as they must maintain and refer to these receipts to determine the availability of stock. By integrating a responsive web application for inventory management and point of sale, the team aims to enhance the existing system and improve the store's inventory management and point of sale operations. Consequently, by the end of the project or deployment, the transition to digital sales activities in the mini grocery store should be apparent, facilitating easier use and accurate calculation of purchased items for customers. The project deliverables primarily consist of regularly updated documentation and progress reports, in addition to the final product itself.</p>
 
 ==Scope Management Approach==
-<p>The scope approach of the project team ensures that every deliverable will be given in allotted time to the Product Owner or Client. The client's criteria, which include a system that allows users to efficiently obtain copies of the goods that are sold, a sales and stock tracer, and other requirements, are the only ones that can be included in the project's management scope. </p>
+<p>The scope approach of the project team ensures that every deliverable will be given in allotted time to the business owner. The client's criteria, which include a system that allows users to efficiently obtain copies of the goods that are sold, a sales and stock tracer, and other requirements, are the only ones that can be included in the project's management scope.</p>
 
-<p>As for who has the authority and responsibility the product owner is held accountable for the outcomes as for the scope measure to when we can call it verified for deployment the project will reach completion stage once all inquiry of the client is met and all commands that are developed by the project team are implemented from back to front end. The project deliverables are verified or approved by the client and the scrum master as well as the project adviser before final changes. </p>
+<p>As for who has the authority and responsibility, the product manager is held accountable for the outcomes as for the scope measure to when we can call it verified for deployment. The project will reach the completion stage once all inquiries of the client are met and all commands that are developed by the project team are implemented from back to front end. The project deliverables are verified or approved by the client and the project manager before final changes.</p>
 
 ==Roles and Responsibilities==
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">Project Team</p></td>
-<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
 		<td bgcolor="lightblue"><p style="text-align:center;">Responsibilities</p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Ms. Devilyn C. Ligligen</p></td>
-<td><p style="text-align:center;">Client</p></td>
-		<td><p style="text-align:center;">Review deliverables that are provided by the team within specified dates. </p></td>
+                <td><p style="text-align:center;">Project Stakeholder  </p></td>
+		<td><p style="text-align:center;">Review deliverables provided by the team within specified dates.</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Ramon Benedict Elloso</p></td>
-<td><p style="text-align:center;">Project Manager</p></td>
-		<td><p style="text-align:center;">Leads the team in Developing and improving the procedures used to meet milestones objectives and deliver outputs to the client.. </p></td>
+                <td><p style="text-align:center;">Project Manager</p></td>
+		<td><p style="text-align:center;">Responsible for overseeing and coordinating all aspects of the project, ensuring its successful planning, execution, and completion.</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Carlos Ligligen</p></td>
-<td><p style="text-align:center;">Scrum Master</p></td>
-		<td><p style="text-align:center;">Create and clearly communicate the product goal with the client to optimize project progress.. </p></td>
+                <td><p style="text-align:center;">Back-end Developer</p></td>
+		<td><p style="text-align:center;">Develop the back-end architecture and ensure the proper functioning of the server, database, and APIs (Applications Programming Interface).</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Andrei Gabriel Palma</p></td>
-<td><p style="text-align:center;">Product Developer</p></td>
-		<td><p style="text-align:center;">Is responsible for planning and developing various deliverables for the whole sprint or progress of the project. </p></td>
+                <td><p style="text-align:center;">Quality Assurance Tester </p></td>
+		<td><p style="text-align:center;">Identifying and reporting bugs, conducting various testing methodologies, and collaborating with the development team to resolve any issues.</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Done Paolo Tarinay</p></td>
-<td><p style="text-align:center;">Product Designer</p></td>
-		<td><p style="text-align:center;">Is responsible for planning and developing various deliverables for the whole sprint or progress of the project. </p></td>
+                <td><p style="text-align:center;">Front-end Developer </p></td>
+		<td><p style="text-align:center;">Responsible for creating the user interface and user experience of a website or application.</p></td>
 	</tr>
 </table>
 
 ==Scope Definition==
-<p> The project’s scope is limited to the requirements which are provided by the client which is the sales and stock tracer and a system wherein the user can have a copy of the items that are sold in an efficient way, and both need to be in an application. The project focuses on addressing the pain points of the Bregghan mini grocery store which is the lack of monitoring in sales, stocks, and they are limited to pen and paper only. In addition, the store only uses the receipts as a basis to track the stocks and the items that are sold.</p>
+<p>The scope of the Bregghan Point-of-Sale System involves creating and deploying a robust software solution that optimizes point of sale operations for Bregghan stores. This includes functionality for managing product inventory, processing sales transactions, handling payment, generating receipts, reports, and analytics. Additionally, the scope encompasses the hardware and infrastructure components necessary for the system's successful deployment and operation.</p>
 
-<p>The project Group followed project management steps from planning to executing in order for project deliverables to meet the date need the team also made use of meetings may it be held online  or  physical  to  conduct  instructions  and  more  clear  points  to  be  taken  from  the  project adviser to consider during the sprint of the project and finalize the scope that the project should aim. As for the documentation of the project the team updates the changes that was made during the meetings with the adviser or the client to ensure that progress is tracked within each period before the said product is completed. As for the analysis of the product the use of the POS system was widely used as center for the project as the main goal being to digitize and benefit the client with an application that would help keep track of operations inside the Bregghan mini grocery store. </p>
+<p>To finalize the scope of the Bregghan POS (Point of Sale) System, the project team utilized meetings, whether in-person or virtual, to ensure clear communication and alignment on the project objectives. These meetings provided an opportunity to discuss and refine instructions, address any questions or concerns, and establish a shared understanding of the desired scope. The project team, comprised of a project manager, front-end and back-end developers, and a quality assurance tester, worked collaboratively to define the specific features, functionalities, and goals that the project system should aim to achieve. Through expertise and contributions, the team ensured that the scope was comprehensive and aligned with the needs and requirements of Bregghan stores.  </p>
 
 ==Project Scope Statement==
 <table border="1" width="70%" align="center">
 	
 	<tr>
 		<td><p style="text-align:center;">Project Scope Description </p></td>
-		<td><p style="text-align:center;">Bregghan Point of Sale System should accomplish a functional webapp that can track the Bregghan mini grocery store sales, transactions, Inventory and notifies the client or users whenever a product reaches a critical point in stocks. </p></td>
+		<td><p style="text-align:center;">To develop a responsive web application that digitizes the recording of stocks and sales, automates computation of sold items, and produces reports. By implementing this solution, the staff and manager of Bregghan mini grocery store will be able to monitor stocks and sales in real-time, reducing workload and minimizing human error. This will lead to more efficient inventory management and faster checkouts, resulting in improved customer satisfaction. The system will also provide alerts when stock levels reach a critical point, allowing the store to replenish inventory on time and avoid potential revenue loss due to out-of-stock items. Furthermore, the application's capability to produce detailed sales reports will provide useful insights to the business, allowing for data-driven decision-making to further optimize operations and profitability. </p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Project Acceptance Criteria </p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>Webapp should display sales reports (Daily, Weekly, Monthly, Yearly)</li>
-  <li>Scans products and computes total amount.</li>
-  <li>Notify User for specific products that are low on stocks.</li>
+  <li>Functionality: The POS system should have a comprehensive set of features and capabilities to support various sales transactions, including inventory management, product catalog management, and reporting. It should accurately calculate prices, handle discounts and promotions, manage stock levels, and generate receipts. </li>
+  <li>Reliability: The POS system should consistently perform its intended functions without errors or disruptions. It should be available for use during store operating hours and should not encounter frequent system crashes or downtime that would impact business operations. The system should be designed to handle high transaction volumes without compromising its performance. </li>
+  <li>Usability: The design of the POS system should prioritize a user-friendly interface and easy-to-use navigation. It should enable store employees to quickly grasp its operation and carry out their responsibilities with efficiency. The system should provide clear guidance, logical workflows, and visual cues that facilitate smooth navigation through its diverse functions. </li>
+<li>Performance: The POS system should ensure optimal performance, with quick response times for processing transactions, executing search queries, and generating reports. The system should be capable of handling high transaction volumes during peak periods without compromising its efficiency. </li>
 </ul> </p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Project Deliverables </p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>Final Product</li>
-  <li>Work Breakdown Structure.</li>
-  <li>Project Documentation.</li>
-  <li>Progress Report.</li>
+  <li>To develop a responsive web application that accurately tracks sales and inventory for Bregghan mini grocery store, enabling real-time monitoring and reporting. </li>
+  <li>Decreases the number of steps that the user can do in the whole transaction for faster checkouts. </li>
+  <li>To fully digitize the recording of stocks and sales for Bregghan mini grocery store, ensuring that all inventory and sales transactions are accurately captured and stored electronically. </li>
+  <li>To implement a notification system that alerts the user when stock levels reach a critical threshold, ensuring timely replenishment and avoiding stockouts. </li>
+  <li>To automate the computation of sold items, ensuring accurate and efficient tracking of sales data. </li>
 </ul>
 </p></td>
 	</tr>
@@ -678,8 +680,8 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 		<td><p style="text-align:center;">Project Exclusions</p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>Accessible to Mobile devices.</li>
-  <li>Can be used outside of the mini grocery store premises.</li>
+  <li>The Bregghan POS system are only limited to Bregghan Store.</li>
+
 </ul>
 </p></td>
 	</tr>
@@ -687,8 +689,8 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 		<td><p style="text-align:center;">Project Constraints</p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>Manual computation of sales.</li>
-  <li>No registration in B.I.R to use VAT sales..</li>
+  <li>Budget constraints: The project cannot exceed a certain budget, which may limit the scope or timeline of the project. </li>
+  <li>Time constraints: The project must be completed within the designated timestamp. </li>
 </ul>
 </p></td>
 	</tr>
@@ -696,9 +698,10 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 		<td><p style="text-align:center;">Project Assumptions</p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>Front and Back End of the program are managed by the developers.</li>
-  <li>Funding available when required.</li>
-  <li>Project Documentations Update in real time.</li>
+  <li>All necessary funding and resources will be secured and available for the project's duration.  </li>
+  <li>All stakeholders will be available and able to provide input as needed throughout the project lifecycle. </li>
+  <li>There will be no major technological or market disruptions that would impact on the project's success. </li>
+  <li>The project team will have the necessary expertise and skill sets to complete the project successfully. </li>
 </ul>
 </p></td>
 	</tr>
