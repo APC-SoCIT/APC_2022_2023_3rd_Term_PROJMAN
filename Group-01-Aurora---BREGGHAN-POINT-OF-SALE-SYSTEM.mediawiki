@@ -64,7 +64,7 @@
 ==Executive Summary==
 <p>Bregghan Mini Grocery Store is a family-owned business that supplies retail, wholesale, and bulk products to residents and sari-sari stores in the area. The store's current system for tracking sales and stocks is manual, using pen and paper, which has led to difficulty in monitoring inventory and potential loss of sales due to items being out of stock.</p>
 
-<p>To address these pain points, our team aims to develop a responsive webapp that digitizes the recording of stocks and sales, notifies the user when stocks are at a critical level, and automates the computation of sold items. In addition, the webapp will also produce a basic report that shows the items sold. </p>
+<p>To address these pain points, our team aims to develop a responsive webapp that digitizes the recording of stocks and sales, notifies the user when stocks are at a critical level, and automates the computation of sold items. In addition, the webapp will also produce a basic report that shows the items sold.</p>
 
 <h3>Issue</h3>
 
@@ -258,29 +258,76 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 <p>Regular and effective communication and collaboration between the project team and key stakeholders, including senior management, play a vital role in ensuring strategic alignment. It is essential to actively involve stakeholders throughout the project lifecycle and seek their feedback to validate that the POS system is meeting strategic goals and delivering the desired impact on the organization's overall performance. </p>
 
 ==Cost Benefit Analysis==
-<p>Benefits:</p>
-<p>The following section in the document provides a detailed examination of the costs and benefits of the Bregghan POS System project. The aim of this analysis is to assess the financial viability of the project, considering the expenses as well as the projected advantages of the suggested system. The findings of the analysis will assist in determining if the project is a valuable investment for the client. </p>
+<p>The following section in the document provides a detailed examination of the costs and benefits of the Bregghan POS System project. The aim of this analysis is to assess the financial viability of the project, considering the expenses as well as the projected advantages of the suggested system. The findings of the analysis will assist in determining if the project is a valuable investment for the client.</p>
 
-<p>The costs considered in the cost benefit analysis include both upfront expenses, such as software development, hardware procurement, and implementation costs, as well as ongoing operational costs like maintenance, upgrades, and support. These costs are carefully estimated and aggregated to provide a comprehensive understanding of the financial investment required for the POS system. </p>
+<p>The costs considered in the cost benefit analysis include both upfront expenses, such as software development, hardware, and implementation costs, as well as ongoing operational costs like maintenance, upgrades, and support. These costs are carefully estimated and aggregated to provide a comprehensive understanding of the financial investment required for the POS system.</p>
 
 <p>Costs:</p>
 <p>The costs related to the Bregghan POS System project are outlined as follows:</p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td><p style="text-align:center;">Approved Budget</p></td>
+		<td><p style="text-align:center;">₱ 1,000,000.00</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Manpower Cost</p></td>
+		<td><p style="text-align:center;">₱ 546,240.00</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Hardware Cost</p></td>
+		<td><p style="text-align:center;">₱ 178,418.00</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Software Cost</p></td>
+		<td><p style="text-align:center;">₱ 3,654.00</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Miscellaneous Cost </p></td>
+		<td><p style="text-align:center;">₱ 88,200.00</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Contingency Cost: </p></td>
+		<td><p style="text-align:center;">₱ 81,651.20</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Total Project Cost: </p></td>
+		<td><p style="text-align:center;">₱ 898,163.20</p></td>
+	</tr>
+</table>
+
+<p>Benefits</p>
+<p>Implementing a Point of Sale (POS) system in the Bregghan store can bring about a multitude of valuable advantages. Listed below are the several potential benefits:</p>
+
 <ul>
-  <li>The cost estimate for using a tablet for the cashier in the Bregghan POS System project is ₱ 15,000.00.</li>
-  <li>The cost estimate for using a barcode scanner is ₱ 2,000.00.</li>
-  <li>The cost estimate for using a printer is ₱ 1,000.00.</li>
-  <li>The estimated cost for hosting the system at AWS is up to ₱ 1,595.00.</li>
-  <li>The estimated cost for the client's internet service provider through Converge ICT Solutions is up to ₱ 2,500.00.</li>
-  <li>All other costs associated with running Bregghan Store, including expenses for the project system, electricity, water, and other operational expenses, will add up to ₱ 22,095.00.</li>
+  <li>•	Improved Efficiency<p>A POS system automates various processes, such as inventory management, sales tracking, and transaction processing. This will reduce the number of steps in the current manual system of the Bregghan store.</p></li>
+  <li>Enhanced Accuracy<p>With a POS system, the chances of human errors in recording sales, calculating prices, or managing inventory are minimized. This leads to more accurate data and reduces discrepancies in stock levels and financial records.</p></li>
+  <li>Real-time Inventory Management<p>A POS system allows for real-time tracking of inventory levels, enabling the store to maintain optimal stock levels, avoid stockouts or overstocks, and improve inventory turnover. This ensures that popular products are readily available for customers while minimizing holding costs.</p></li>
+  <li>Improved Customer Service<p>With a POS system, store staff can quickly access product information, inventory availability, and customer purchase history, enabling them to provide personalized and efficient customer service. This enhances the overall shopping experience and fosters customer loyalty.</p></li>
 </ul>
 
-
 ==Alternatives Analysis==
+<p>Alternative systems offer different approaches to address the limitations of the current manual system and provide various benefits to the Bregghan store.</p>
 <ul>
-  <li>Status Quo: The first alternative considered was to maintain the current process and not implement any changes.</li>
-  <li>Manual Process Improvement: The second alternative considered was to improve the existing manual process by introducing new tools and technologies, such as automation software.</li>
-  <li>Outsourcing: The third alternative considered was to outsource the process to a third-party
-vendor. However, this option was rejected due to the lack of control over the process and potential security risks associated with sharing confidential company information with external parties.</li>
+  <li>Status Quo: The first alternative considered was to maintain the current process and not implement any changes. 
+
+<p>Pros: No upfront costs or disruption to existing processes and systems.</p>
+
+<p>Cons: Manual data entry and calculations are susceptible to human errors, such as miscounts, data inaccuracies, or calculation mistakes, which can impact inventory management, sales tracking, and financial records. Manual systems may struggle to handle increased volumes of data or business growth, as they often lack the scalability and efficiency of automated systems. Manual systems typically do not provide real-time data updates, making it challenging to have immediate insights into inventory levels, sales performance, and other critical business metrics.</p>
+</li>
+
+  <li>Manual Process Improvement: The second alternative considered was to improve the existing manual process by introducing new tools and technologies, such as automation software.
+<p>Pros: By introducing new tools and technologies, the manual process can be enhanced incrementally, allowing for a smoother transition, and minimizing disruption to ongoing operations. </p>
+
+<p>Cons: While introducing new tools and technologies can enhance the manual process, it may not fully automate all tasks, leading to ongoing manual effort and potential inefficiencies. The effectiveness of the improved manual process is still dependent on human input and diligence, making it susceptible to human errors, inconsistencies, and potential variations in execution.</p>
+</li>
+
+  <li>Outsourcing: The third alternative considered was to outsource the process to a third-party vendor. However, this option was rejected due to the lack of control over the process and potential security risks associated with sharing confidential company information with external parties.
+
+<p>Pros: Outsourcing provides access to specialized skills and expertise that may not be available within the organization. This allows for the optimization of the process through industry knowledge and experience. By outsourcing, Bregghan can save costs by avoiding the need to hire and train additional staff, invest in infrastructure, and maintain software or hardware systems.</p>
+
+<p>Cons: Outsourcing relinquishes control over certain aspects of the process, such as decision-making, quality control, and data security, potentially affecting effective management and oversight. Working with external vendors may introduce challenges related to communication and coordination, including time zone differences, language barriers, or cultural variations. These can lead to misunderstandings and project delays.</p>
+</li>
 </ul>
 
 ==Approvals==
