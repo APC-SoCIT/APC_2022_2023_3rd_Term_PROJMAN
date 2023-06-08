@@ -2148,7 +2148,39 @@ Some of the potential risks identified for the ITRO Ticketing System project inc
 
 To effectively address these risks, the project team has implemented multiple strategies. These include rigorous testing and validation processes, leveraging an Agile development methodology for swift identification and resolution of technical issues, offering comprehensive training and support to team members for seamless system adoption, and maintaining consistent communication with key stakeholders to promptly identify and mitigate potential delays or challenges.
 
+== Risk Qualification and Prioritization ==
+The risks identified for the ITRO Ticketing Systems customer support will be thoroughly assessed and categorized based on their potential impact and probability of occurrence. This will enable the project team to prioritize and allocate resources effectively, focusing on high-impact risks with a higher likelihood of occurrence.
 
+A probability-impact matrix was used to qualify and rank the dangers listed in the risk registry. High priority was given to risks that had a high likelihood of happening and a major impact on the project. To ensure that risks are given the proper priority, the project team will review and update the risk register on a regular basis. This will ensure that proactive mitigation measures are implemented to minimize the impact of identified risks on the project's success.
+
+We have used a probability-impact matrix to qualify and prioritize the risks for this project. We have categorized the risks into four categories: Extreme, High, Medium, Low, and Negligible.
+
+The probability of risks happening and their impact on the project is described below:
+
+    '''Extreme''': Risks with a very high probability of occurring and a severe impact on the project.
+    '''High''': Risks with a high probability of occurring and a significant impact on the project. These risks require immediate attention, and we need to develop mitigation strategies for them.
+    '''Medium''': Risks with a medium probability of occurring and a moderate impact on the project. These risks should be closely monitored, and mitigation strategies should be developed in case they occur.
+    '''Low''': Risks with a low probability of occurring and a minor impact on the project. These risks can be monitored periodically, and mitigation strategies can be developed in case they occur.
+    '''Negligible''': Risks with a very low probability of occurring and negligible impact on the project. These risks can be ignored.
+
+![untitled](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/98085450/a52edce8-d28c-4fbe-b5d8-73e02eac8832)
+
+    '''Technical Risk''' - Medium Probability and Medium Impact
+    '''Security Risk''' - Low Probability and Medium Impact
+    '''Scope Creep''' - Medium Probability and Medium Impact
+    '''Lack of Project Management & Planning''' - Medium Probability and High Impact
+
+To maintain alignment with the agile risk management plan, the project team will consistently review and update the risk register throughout the project. This will involve qualifying and prioritizing risks, ensuring their inclusion in sprint planning sessions. By doing so, the team will be well-informed about the potential risks and able to plan accordingly. Furthermore, we will foster an environment that encourages the team to actively identify and promptly report any new risks that may arise during the project's course of action.
+
+== Risk Monitoring ==
+
+The project team will conduct regular risk reviews during sprint retrospectives to assess the status of identified risks. This includes evaluating the impact and likelihood of each risk, as well as identifying any new risks that may have emerged. The reviews will help in identifying trends, evaluating risk mitigation strategies, and determining the effectiveness of risk responses.
+
+The project team will utilize a centralized risk register or tracking tool to document and track risks throughout the project lifecycle. This will enable real-time monitoring of risks, including their status, assigned owners, and mitigation actions. The risk register will be updated regularly to reflect the latest information and progress on risk management activities.
+
+Effective risk monitoring requires transparent communication among team members and stakeholders. Regular project status meetings and other communication channels will be used to discuss and share risk-related information. This will facilitate timely identification and resolution of risks, as well as ensure that all stakeholders are informed about the project's risk profile.
+
+By implementing these risk monitoring practices, the project team will be able to proactively identify, assess, and address risks throughout the agile project lifecycle, thereby minimizing the potential impact on the ITRO Ticketing System.
 
 =Work Breakdown Structure (WBS)=
 
