@@ -802,35 +802,82 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 
 <li>Reporting and communication<p>This allows for timely decision-making, as stakeholders can assess the financial health of the project and take necessary actions if deviations from the plan occur. Additionally, clear communication channels enable effective coordination and collaboration among team members, ensuring that everyone is aligned with the project's financial goals and responsibilities.</p></li>
 
-<p>ROLES AND RESPONSIBILITIES:</p>
-
-<p>The following individuals will be responsible for managing costs on the Bregghan Mini Grocery Store project:</p>
-<ul>
-  <li>Project Manager - Responsible for overseeing the project budget and ensuring that costs are managed in accordance with the approved budget.</li>
-  <li>Accounting Department - Responsible for recording all project costs and ensuring that they are allocated correctly.</li>
-  <li>Project Team - Responsible for providing accurate and timely cost data</li>
-</ul>
-
 ==Measuring Project Costs==
-<p>In this section, the method for measuring the project's costs is outlined. The PMBOK places emphasis on the use of Earned Value Management as a tool for measuring and managing project costs. Given the comprehensive nature of Earned Value Management, it is suggested that project managers undergo formal training in this area.</p>
+<p>The Cost Management Plan for the Bregghan POS System project will include a detailed approach for measuring project costs using Earned Value Management (EVM). This will include analyzing and reporting on various Earned Value metrics, such as: </p>
 
-<p>The project team intends to assess the project's schedule performance by computing the Schedule Variance (SV) through subtracting the Planned Value (PV) from the Earned Value (EV). The Earned Value refers to the actual value obtained in the project, while the PV pertains to the value anticipated in the project plan for the current point. By taking into account the deviation between the planned and actual value, the project team can determine if the project is on schedule, ahead of schedule, or behind schedule, according to the baseline schedule in the project plan.</p>
+<p>The project team intends to assess the project's schedule performance by computing the Schedule Variance (SV) through subtracting the Planned Value (PV) from the Earned Value (EV). The Earned Value refers to the actual value obtained in the project, while the PV pertains to the value anticipated in the project plan for the current point. By considering the deviation between the planned and actual value, the project team can determine if the project is on schedule, ahead of schedule, or behind schedule, according to the baseline schedule in the project plan.  </p>
 
-<p>The team will determine the budget performance of the project by calculating the Cost Variance (CV), which is obtained by subtracting Actual Costs (AC) from Earned Value (EV). EV represents the actual value earned in the project, while AC reflects the actual costs incurred to date. Therefore, by subtracting the actual costs from the EV, the team can determine whether the budget are above or below budget. If the CV is zero, it means the project is on budget. A CV greater than zero indicates that you are earning more value than planned, and the project is under budget.</p>
+<p>The team will determine the project's budget performance by calculating the Cost Variance (CV), obtained by subtracting Actual Costs (AC) from Earned Value (EV). EV represents the actual value earned in the project, while AC reflects the actual costs incurred to date. Therefore, by subtracting the actual costs from the EV, the team can determine whether the budget is above or below budget. If the CV is zero, it means the project is on budget. A CV greater than zero indicates that you are earning more value than planned, and the project is under budget.</p>
 
-<p>Thea team will use Schedule Performance Index (SPI) to evaluate the actual progress made against the planned progress. It is calculated by dividing EV by PV. If the value of EV is equal to PV, then the SPI is 1. If EV is lower than PV, then the SPI is less than 1, which indicates that the project is running behind schedule. If EV is greater than PV, then the SPI is greater than 1, which indicates that the project is ahead of schedule. An efficient project should have an SPI that is as close to 1 as possible, or perhaps even slightly below 1.</p>
+<p>Thea team will use Schedule Performance Index (SPI) to evaluate the actual progress made against the planned progress. It is calculated by dividing EV by PV. If the value of EV is equal to PV, then the SPI is 1. If EV is lower than PV, the SPI is less than 1, indicating the project is behind schedule. If EV is greater than PV, the SPI is greater than 1, indicating the project is ahead of schedule. An efficient project should have an SPI that is as close to 1 as possible, or even slightly below 1.</p>
 
-<p>The team will use Cost Performance Index (CPI) to compare the value of the work completed to the actual cost of that work. The formula for CPI is EV/AC, where EV represents the actual value earned in the project and AC represents the actual costs incurred to date. If the CPI equals 1, the project is on budget. If the CPI is greater than 1, the project is under budget, and if the CPI is less than 1, the project is over budget.</p>
+<p>The team will utilize the Cost Performance Index (CPI) to contrast the value of completed work with the corresponding actual cost. The CPI is calculated using the formula EV/AC, with EV denoting the actual value achieved in the project and AC representing the total actual costs incurred thus far. If the CPI equals 1, the project is within the budgetary confines. If the CPI surpasses 1, the project is operating under the budget, while a CPI below 1 indicates that the project is exceeding the budget.</p>
 
 ==Reporting Format==
 
-<p>Reporting for cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p>
+<p>The team will provide provides a structured and standardized way to communicate cost-related information within the project.</p>
+<p>The report will include the following:</p>
+<p>1. Earned Value Metrics</p>
+<li>Cost Performance Index (CPI): [CPI Value] </li>
+<li>Schedule Performance Index (SPI): [SPI Value] </li>
+<li>Cost Variance (CV): [CV Value] </li>
+<li>Schedule Variance (SV): [SV Value] </li>
+
+<p>The monthly project status report will feature a specific segment dedicated to cost management. Within this section, the report will display the earned value metrics, including the cost performance index (CPI), schedule performance index (SPI), cost variance (CV), and schedule variance (SV). </p>
+
+<p>2. Cost Variances</p>
+<p>Any cost variances outside the thresholds specified in the Cost Management Plan will be reported, including the following details:</p>
+<li>Description of the variance </li>
+<li>Magnitude of the variance </li>
+<li>Impact on project budget </li>
+<li>Planned corrective actions to address the variance. </li>
+
+<p>Any cost discrepancies that surpass the predetermined thresholds outlined in the Cost Management Plan will be documented and reported. This includes providing a detailed explanation of the variance, quantifying its magnitude, assessing its impact on the project budget, and outlining the corrective actions that are planned to address the deviation. </p>
+
+<p>3. Change Requests</p>
+<p>Change Requests triggered by project cost overruns will be identified and tracked in this report, including the following details: </p>
+<li>Description of the change request </li>
+<li>Reason for the change </li>
+<li>Estimated impact on project cost. </li>
+<li>Status and progress of the change request </li>
+<p>Any change requests triggered by cost overruns will be identified and tracked, including their description, reason, estimated impact on project cost, and status. The report will also summarize the overall project cost, including the total budgeted cost, actual cost incurred to date, remaining budget, and estimated cost at completion. </p>
+
+<p>4. Summary
+<li>Provide a summary of the cost management status and any significant findings or observations related to project costs. </li></p>
+
+<p>5. Attachments
+<li>Include any relevant supporting documents or reports related to cost management. </li></p>
 
 ==Cost Variance Response Process==
-<p>The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions.</p>
+<p>The Cost Variance Response Process for the Point-of-Sale System project is outlined below: </p>
+<li>Identify and Assess Cost Variances <p>The project team reviews the financial information and evaluates it in relation to the predefined thresholds or benchmarks outlined in the Cost Management Plan. When there is a substantial difference between the actual costs and the planned budget, it signifies the presence of a cost variance. </p></li>
+
+<li>Analyze the Causes <p>The project team will examine the underlying causes and investigate various elements such as changes in scope, unexpected expenses, resource allocation issues, inaccurate cost estimations, or external factors impacting the project budget. </p></li>
+
+<li>Assess the Impact <p>Assess the consequences of the cost variances on the project's schedule, resources, and overall goals while considering the potential impact on other project constraints, including quality, scope, and stakeholder contentment. </p></li>
+
+<li>Develop Corrective Actions <p>After analyzing the root causes and evaluating the consequences, the project team will identify and outline precise corrective measures to tackle the cost variances. These measures might involve modifying the budget, reallocating resources, reevaluating the project scope, or implementing cost-reduction strategies. </p></li>
+
+<li>Implement Corrective Actions<p>The project team must implement the defined corrective actions and closely monitor their efficacy in mitigating or resolving the cost variances. This could entail adjusting the project plan, reallocating resources, renegotiating contracts, or pursuing additional funding if required </p></li>
+
+<li>Monitor and Control<p>The project will have to monitor and regularly observe its financial progress and assess the impact of the applied corrective measures through ongoing monitoring. </p></li>
 
 ==Cost Change Control Process==
-<p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor.</p>
+<p>The cost change control process will adhere to the existing procedure for project change requests. The team will ensure that any proposed changes related to project budget or costs are carefully evaluated, documented, and reviewed by relevant stakeholders.</p>
+
+<li>Identification of Change <p>All suggested alterations that could affect the project's expenses are recognized and recorded. This encompasses modifications to the project's scope, requirements, resources, or any other aspect that could potentially result in financial consequences. Any proposed changes to the project budget or costs must be submitted to the project manager in writing using the Cost Change Request Form. </p></li>
+
+<li>Change Assessment<p>The proposed change is assessed to determine its impact on the project budget. A comprehensive analysis is performed to gauge the financial implications, considering the potential increase or decrease in costs. </p></li>
+
+<li>Cost Estimation <p>The project team evaluates the monetary consequences of the suggested alteration. This entails estimating the direct and indirect expenses linked to implementing the change, considering factors such as labor, materials, equipment, and overhead costs. </p></li>
+
+<li>Cost Analysis <p>The analyzed cost estimates are examined to comprehend the broader effect on the project's budget. This examination aids in evaluating the practicality of the change and its alignment with the project's financial goals. </p></li>
+
+<li>Approval Process <p>The proposed change is presented for approval using the established change management process. Relevant stakeholders such as project sponsor and key decision-makers evaluate the change request and decide considering its impact, feasibility, and alignment with the project's financial limitations. </p></li>
+
+<li>Implementation <p>Once the change receives approval, it is executed following the agreed-upon protocols. This could entail modifying the project plan, adjusting the budget, reallocating resources, or undertaking any required measures to accommodate the approved change. </p></li>
+
+<li>Documentation <p>All changes, including the associated costs, approvals, and implementation details, are documented for future reference. This documentation helps in maintaining an accurate record of cost changes and provides a historical reference for similar situations in the future. </p></li>
 
 ==Project Budget==
 <p>The budget for this project is detailed below.  Costs for this project are presented in various categories:</p>
