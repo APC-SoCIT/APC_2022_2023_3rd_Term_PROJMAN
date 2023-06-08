@@ -882,194 +882,143 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 ==Project Budget==
 <p>The budget for this project is detailed below.  Costs for this project are presented in various categories:</p>
 
-=Time Management Plan=
+<table border="1" width="70%" align="center">
+	<tr>
+		<td><p style="text-align:center;">Approved Budget</p></td>
+		<td><p style="text-align:center;">₱ 1,000,000.00</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Manpower Cost</p></td>
+		<td><p style="text-align:center;">₱ 546,240.00</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Hardware Cost</p></td>
+		<td><p style="text-align:center;">₱ 178,418.00</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Software Cost</p></td>
+		<td><p style="text-align:center;">₱ 3,654.00</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Miscellaneous Cost </p></td>
+		<td><p style="text-align:center;">₱ 88,200.00</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Contingency Cost: </p></td>
+		<td><p style="text-align:center;">₱ 81,651.20</p></td>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Total Project Cost: </p></td>
+		<td><p style="text-align:center;">₱ 898,163.20</p></td>
+	</tr>
+</table>
+
+=Schedule Management Plan=
 ==Introduction==
-<p>The  Schedule  Management  Plan  offers  instructions  for  creating,  tracking,  and  managing  the project schedule.  It  contains details on the  creation of the schedule, the identification of project milestones, the tracking and reporting of progress, and the management of schedule adjustments. The  schedule  management  plan  will also include  on how  the  team  will  monitor  the  project’s schedule and manage the changes with accordance to the approved baseline schedule. </p>
+<p>The Schedule Management Plan offers instructions for creating, tracking, and managing the project schedule. It contains details on the schedule creation, identifying project milestones, tracking, and reporting progress, and managing schedule adjustments. The schedule management plan will also include how the team will monitor the project’s schedule and manage the changes in accordance with the approved baseline schedule. </p>
 
 ==Schedule Management Approach==
-<p>The purpose of this schedule management approach is to create an outline for the processes that will be used for the project. This section of the paper will also make sure that the project will be completed on time, within the given budget, and the features and requirements of the  client are met. The roles and  responsibilities of each member are  also stated in this  section as well as the milestones for the completion of the project. </p>
+<p>This schedule management approach creates an outline for the processes used for the project. This section of the paper will also ensure that the project will be completed on time, within the given budget, and the client's features and requirements are met. All changes to the project schedule will be communicated to the stakeholders promptly. To ensure that the project is on time and in adherence to the schedule, monitoring of the project should be implemented. </p>
 
-<p>Roles and Responsibilities:</p>
-<ul>
-<li>Project Manager: responsible for the project management and schedule management. </li>
-<li>Project Team: responsible for the completion of the tasks that are assigned within the given timeframe. </li>
-<li>Team Scheduler: responsible for maintaining the schedule and its development. </li>
-<li>Project Sponsor: reviews the proposed schedule and will approve the final schedule of the project. </li>
-<li>Project Stakeholder: reviews the proposed schedule and will aid in the project’s validation. </li>
-</ul>
-
-<p>Project Milestone: </p>
-<ul>
-<li>Scope statement and WBS/WBS Dictionary </li>
-<li>Project schedule </li>
-<li>Project kickoff meeting </li>
-<li>Roles and Responsibilities of each member </li>
-<li>Project implementation </li>
-<li>Completion of final deliverables </li>
-</ul>
+<li>Regular meetings are required for the team to discuss all the progress and address any issue that may arise. </li>
+<li>The assigned project manager will be responsible for the regular status reports to all stakeholders and the project sponsor for them to be informed about the project's progress. </li>
+<li>The assigned project manager will be responsible for monitoring the project’s progress regarding the schedule, budget, issues, potential delays, and risk mitigation. </li>
+<li>The project team will utilize software on project management to attain a strong adherence to the deadlines.  </li>
 
 ==Schedule Control==
-<p>The schedule control will assure that the schedule is being followed and maintained by the team with  accordance  to  the  project’s  progress.  The procedure  that  the  team  will  incorporate  to manage the schedule control for the project is the schedule reporting.  </p>
+<p>The schedule control will ensure that the schedule is being followed and maintained by the team in accordance with the project’s progress. The procedure the team will incorporate to manage the project's schedule control is schedule reporting.</p>
 
-<p>The  team’s project  schedule  will be constantly monitored  by  the  project  manager  and  the stakeholder. With this, any changes will be constantly reviewed. In addition, the project manager is also responsible for the updates with regards to the meetings, reports, and schedule.  </p>
+<p>The team’s project schedule will be constantly monitored by the project manager and the stakeholder. With this, any changes will be constantly reviewed. In addition, the project manager is also responsible for the updates with regards to the meetings, reports, and schedule.</p>
 
-<p>The project team is also responsible for the weekly updates with coordination to the project manager. Furthermore, they are the ones that will communicate any changes of dates to the project manager. </p>
+<p>The project team is also responsible for the weekly updates in coordination with the project manager. Furthermore, they are the ones that will communicate any changes of dates to the project manager.</p>
 
-<p>The project stakeholder is responsible for maintaining awareness of the project schedule and will review or approve any changes that might occur in the future with collaboration to the project manager. </p>
+<p>The project stakeholder is responsible for maintaining awareness of the project schedule and will review or approve any changes that might occur in the future in collaboration with the project manager.   </p>
 
-<p>The process of the team in order to control the schedule of the project is by using a schedule reporting. This will be done in a weekly basis and should follow the following: </p>
+<p>The team process to control the project schedule is by using schedule reporting. This will be done in a weekly basis and should adhere to the following: </p>
 <ul>
-<li>Report of the members stating the percentage of their task completion </li>
-<li>Project completion date </li>
+<li>Report of the members stating the percentage of their task completion within a given time. </li>
+<li>Weekly team meetings </li>
+<li>Risk and mitigation strategies raised by the project team members </li>
+<li>Communication with stakeholders every week </li>
 </ul>
 
 ==Schedule Changes and Threshold==
-<p>All the changes that will occur or raised will bereviewed by the project manager and will request for a meet with the team and the stakeholder for the evaluation ofthe change. With these,before achange is implemented, its effects on the project schedule and other project parameters must be assessed.After the assessment of the change, the project manager will determine if the changes should be addressedand will proceed to the submission of the schedule change request.
+<p>All the changes that will occur or be raised will be reviewed by the project manager, and he will request a meeting with the team and the stakeholders for the change's evaluation. With these, before a change is implemented, its effects on the project schedule and other project parameters must be assessed. After the assessment of the change, the project manager will determine if the changes should be addressed and will proceed to the submission of the schedule change request which can be found at the end of this document. Only the project manager can submit the schedule change request form to the stakeholder/project sponsor. Once done, the project manager must inform the project team members about the changes and must update the project schedule. 
 </p>
 
-<p>Submittal of a schedule request change request to the project stakeholder for approval is required if either ofthe followingconditions is true: </p>
+<p>Submittal of a schedule request change request to the project stakeholder for approval is required if either of the following conditions is true: </p>
 <ul>
-<li>The proposed modification will either result in an individual work package's duration increasing or decreasingby 10% or more. </li>
-<li>If theapproach will reduce or increase the project’s duration with regards to the schedule by 10%. </li>
+<li>The proposed modification will either result in an individual work package's duration increasing or decreasing by 10% or more. </li>
+<li>If the approach will reduce or increase the project’s duration with regards to the schedule by 10%. </li>
 </ul>
 
-<p>With the establishment of processes and thresholdsfor the schedulechanges, the team will have control over  the  project’s  progress.  Furthermore,  having  these  will  ensure  that  all  the  changes will be monitored, reviewed, and will be addressed ina timely manner.  </p>
+<p>With the establishment of processes and thresholds for the schedule changes, the team will have control over the project’s progress. Furthermore, having these will ensure that all the changes will be monitored, reviewed, and will be addressed in a timely manner.</p>
 
 ==Scope Change==
-<p>All of the changes in project scope that are approved by the project sponsor, will require the team to assess the effect of the scope change in the current schedule. The proposal of a change would be possible is when a problem develops in the project that necessitates a significant modification of the project scope. Furthermore, any change should be approached by the team with caution as any  outcome  would positively  or  negatively  affect  the  project’s  progress. The  changes  can  be raised by any team member and the project stakeholder must receive all the change request in a form of a project change request document. </p>
+<p>All changes in project scope approved by the project sponsor will require the team to assess the scope change's effect in the current schedule. The proposal of a change would be possible is when a problem develops in the project that necessitates a significant modification of the project scope. Furthermore, any change should be approached by the team with caution as any outcome would positively or negatively affect the project’s progress. The changes can be raised by any team member and the project stakeholder must receive all the change requests in the form of a project change request document.</p>
 
 =Work Breakdown Schedule=
 ==Introduction==
-<p>The WBS is a view into the project which shows what work the project encompasses. It is a tool which helps to easily communicate the work and processes involved to execute the project. The Project Manager and project team use the WBS to develop the project schedule, resource requirements and costs. There are many ways you can present the WBS for your project; this template provides many of the most popular layouts from which you can choose. Depending on where in the Project Plan you're putting the WBS a different layout may be more suitable for you. </p>
-
-<p>The Work Breakdown Structure presented here represents all the work required to complete this project. </p>
+<p>The Work Breakdown Structure (WBS) is a vital project management tool that offers a structured method for organizing and overseeing project deliverables, tasks, and subtasks. This introductory section seeks to provide a thorough understanding of the WBS, its objectives, and the advantages it offers in project planning and execution. The main goal of introducing the WBS is to establish a shared understanding among stakeholders, project managers, and team members regarding the importance of the WBS. It highlights the significance of developing a well-organized WBS, which acts as a guide for achieving project success. </p>
 
 ==Outline View==
-<p>The outline view presents an easy to view and understand layout for the WBS. It is also a good layout to use when developing the WBS because you can easily make changes, especially since the Microsoft Word auto numbering feature updates the WBS Code automatically. </p>
+<p>The Outline view in a Work Breakdown Structure (WBS) presents a hierarchical depiction of the project's deliverables, tasks, and subtasks. It provides a structured and systematic approach to dividing the project scope into manageable parts, enhancing the ability to plan, track, and manage the project effectively. </p>
 
-<ul>1. Bregghan point of Sale System
-<ul>
-<ul>1.1 Planning
-<ul>1.1.1 Creation of Project Groups</ul>
-<ul>1.1.2 Choosing of Client</ul>
-<ul>1.1.3 Choosing Adviser/Consultant</ul>
-<ul>1.1.4 Design Thinking 1</ul></ul></ul></ul><ul><ul>
-<ul>1.2 Chapter 1,2,3,4,5
-<ul>1.2.1 Introduction</ul>
-<ul>1.2.2 Review of Related Literatures</ul>
-<ul>1.2.3 Technical Background</ul>
-<ul>1.2.4 Methodologies</ul>
-<ul>1.2.5 Result and Discussions</ul>
-<ul>1.2.6 Meeting the Adviser I</ul>
-<ul>1.2.7 Meeting with Adviser II</ul>
-<ul>1.2.8 Paper Consultation</ul>
+<p>Bregghan Point of Sale System</p>
+<ul>1.1 Project Initation
+<ul>1.1.1 Business Case</ul>
+<ul>1.1.2 Feasibility Study</ul>
+<ul>1.1.3 Project Charter</ul>
+<ul>1.1.4 Identify Stakeholders</ul>
+<ul>1.1.5 Final Review</ul></ul>
+
+<ul>1.2 Project Planning
+<ul>1.2.1 Project Description </ul>
+<ul>1.2.2 Cost Management Plan </ul>
+<ul>1.2.3 Schedule Management Plan</ul>
+<ul>1.2.4 Scope Management Plan </ul></ul>
+
+<ul>1.3 Phase I: Analysis
+<ul>1.3.1 Project Risk Analysis  </ul>
+<ul>1.3.2 Cost Benefit Analysis </ul></ul>
+
+<ul>1.4 Phase II: Design and Development
+<ul>1.4.1 Admin System</ul>
+<ul><ul>1.4.1.1 Admin Log-in</ul></ul>
+<ul><ul>1.4.1.2 Admin Home Page</ul></ul>
+<ul><ul>1.4.1.3 Inventory</ul></ul>
+<ul><ul>1.4.1.4 Transactions</ul></ul>
+<ul><ul>1.4.1.5 Analytics Report</ul></ul>
+<ul>1.4.2 Point of Sale System</ul>
+<ul><ul>1.4.2.1 Cashier Log-in</ul></ul>
+<ul><ul>1.4.2.2 Home Screen</ul></ul>
+<ul><ul>1.4.2.3 Checkout Screen</ul></ul>
+<ul><ul>1.4.2.4 Generate Receipt </ul></ul></ul>
+
+<ul>1.5 Phase III: Testing
+<ul>1.5.1 Requirements Analysis</ul>
+<ul>1.5.2 Test Planning </ul>
+<ul>1.5.3 Test Design</ul>
+<ul>1.5.4 Test Execution /ul>
+<ul>1.5.5 Test Evaluation </ul>
+<ul>1.5.6 System Integration Testing </ul>
+<ul>1.5.7 User Acceptance Testing </ul>
+<ul>1.5.8 System Testing</ul></ul>
+
+<ul>1.6 Phase IV: Implementation
+<ul>1.6.1 Deployment Planning </ul>
+<ul>1.6.2 Installation </ul>
+<ul>1.6.3 Data Migration </ul>
+<ul>1.6.4 User Training </ul>
+<ul>1.6.5 Monitor Progress </ul>
+<ul>1.6.6 Post Implementation Review </ul>
 </ul>
-</ul>
-</ul>
-<ul>
-<ul>
-<ul>1.3 Midterm Sprint 1
-<ul>1.3.1 Comments Matrix</ul>
-<ul>1.3.2 Finalized Comments Matrix</ul>
-<ul>1.3.3 Progression of Chapter 1,2,3</ul>
-<ul>1.3.4 Meeting with Adviser SOP Progression</ul>
-<ul>1.3.5 Project Consultation</ul>
-</ul>
-</ul>
-</ul>
-<ul>
-<ul>
-<ul>1.4 Finals Sprint 2
-<ul>1.4.1 Updated Comments Matrix</ul>
-<ul>1.4.2Comments Matrix and Final Presentation</ul>
-</ul>
-</ul>
-</ul>
-<ul>
-<ul>
-<ul>1.5 Project Analysis and Designs (MYSADD)
-<ul>1.5.1 Software Design</ul>
-<ul>1.5.2 Diagram Creation 1</ul>
-<ul>
-<ul>1.5.2.1 Creation of class and object diagram</ul>
-<ul>1.5.2.2 Creation of Event Table</ul>
-<ul>1.5.2.3 Creation of Use Case Diagrams</ul>
-<ul>1.5.2.4 Creation of Use Case Description</ul>
-<ul>1.5.2.5 Meeting with Adviser</ul>
-<ul>1.5.2.6 Midterm Presentation Sprint 3</ul>
-<ul>1.5.2.7 Comments Matrix</ul>
-<ul>1.5.2.8 Creation of Low and High Fidelity Prototype</ul>
-<ul>1.5.2.9 Creation of Prototype</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-<ul>
-<ul>
-<ul>
-<ul>1.5.3 Diagram Creation 2</ul>
-<ul>
-<ul>1.5.3.1 DFD/ERD</ul>
-<ul>1.5.3.2 Creation of State Machine Diagram</ul>
-<ul>1.5.3.3 Creation of Sequence Diagram</ul>
-<ul>1.5.3.4 Creation of Class Diagrams</ul>
-<ul>1.5.3.5 Creation of Deployment Diagram</ul>
-<ul>1.5.3.6 Creation of Component and Deployment Diagram</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-<ul>
-<ul>
-<ul>
-<ul>1.5.4 Finals Presentation Sprint 4</ul>
-<ul>
-<ul>1.5.4.1 Group Meeting Paper Update</ul>
-<ul>1.5.4.2 Re Defense Presentation</ul>
-<ul>1.5.4.3 Finals Comments Matrix</ul>
-</ul>
-</ul>
-</ul>
-</ul>
-<ul>
-<ul>
-<ul>1.6 Project Development and Modelling (MCSPROJ)
-<ul>1.6.1 Creation of Statement of Work</ul>
-<ul>1.6.2 Creation of POS System (Dashboard)</ul>
-<ul>1.6.3 Creation of Sales Report</ul>
-<ul>1.6.4 Creation of Login Page</ul>
-<ul>1.6.5 Creation of Admin System</ul>
-<ul>1.6.6 Creation of Project Charter</ul>
-<ul>1.6.7 Vision and Mission</ul>
-<ul>1.6.8 Creation of Improvement Matrix</ul>
-<ul>1.6.9 Creation of Gantt Chart POD</ul>
-<ul>1.6.10 Meeting with Adviser</ul>
-</ul>
-</ul>
-</ul>
-<ul>
-<ul>
-<ul>1.7 Midterm Presentation Sprint 5
-<ul>1.7.1 Revision of Paper</ul>
-<ul>1.7.2 Creation of Test Case</ul>
-<ul>1.7.3 Creation of User Reviews</ul>
-<ul>1.7.4 Meeting with Adviser </ul>
-<ul>1.7.5 Creation of Change Management Plan</ul>
-<ul>1.7.6 Completion of Prototype</ul>
-</ul>
-</ul>
-</ul>
-<ul>
-<ul>
-<ul>1.8 Finals Presentation Sprint 6
-<ul>1.8.1 Improvement Matrix</ul>
-<ul>1.8.2 Debugging of Prototype</ul>
-<ul>1.8.3 Revision of Improvement Matrix</ul>
-<ul>1.8.4 Revision of ERD</ul>
-<ul>1.8.5 Revision of Class, Object, Diagrams</ul>
-<ul>1.8.6 Finals ReShow Presentation</ul>
-</ul>
-</ul>
+
+<ul>1.7 Project Closeout/Completion
+<ul>1.7.1 Finalize Project Deliverables </ul>
+<ul>1.7.2 Confirm Project Completion</ul>
+<ul>1.7.3 Review All Contracts </ul>
+<ul>1.7.4 Review Documentation</ul>
 </ul>
 
 ==Hierarchical Structure==
@@ -1085,84 +1034,79 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 </thead>
 <tbody>
         <tr>
-		<td width="141"><p>1</p></td>
-		<td width="64"><p>1</p></td>
-		<td width="228"><p>Bregghan Point of Sale System </p></td>
-	</tr>
-        <tr>
 		<td width="141"><p>2</p></td>
 		<td width="64"><p>1.1</p></td>
-		<td width="228"><p>Planning </p></td>
+		<td width="228"><p>Project Initiation</p></td>
 	</tr>
         <tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.1.1</p></td>
-		<td width="228"><p>Creation of Project Groups </p></td>
+		<td width="228"><p>Business Case</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.1.2</p></td>
-		<td width="228"><p>Choosing of Client</p></td>
+		<td width="228"><p>Feasibility Study </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.1.3</p></td>
-		<td width="228"><p>Choosing of Adviser/Consultant</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>2</p></td>
-		<td width="64"><p>1.1.4</p></td>
-		<td width="228"><p>Design Thinking 1</p></td>
+		<td width="228"><p>Project Charter </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.4</p></td>
+		<td width="228"><p>Identify Stakeholders </p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.5</p></td>
+		<td width="228"><p>Final Review </p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
 		<td width="64"><p>1.2</p></td>
-		<td width="228"><p>Chapter 1,2,3,4,5</p></td>
+		<td width="228"><p>Project Planning and Preparation </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.2.1</p></td>
-		<td width="228"><p>Introduction</p></td>
+		<td width="228"><p>Project Description </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.2.2</p></td>
-		<td width="228"><p>Review of Related Literature</p></td>
+		<td width="228"><p>Cost Management Plan</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.2.3</p></td>
-		<td width="228"><p>Technical Background</p></td>
+		<td width="228"><p>Schedule Management Plan</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.2.4</p></td>
-		<td width="228"><p>Methodologies</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.2.5</p></td>
-		<td width="228"><p>Results and Discussion</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.2.6</p></td>
-		<td width="228"><p>Meeting with Adviser I</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.2.7</p></td>
-		<td width="228"><p>Meeting with Adviser II</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.2.8</p></td>
-		<td width="228"><p>Paper Consultation</p></td>
+		<td width="228"><p>Scope Management Plan</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>2</p></td>
 		<td width="64"><p>1.3</p></td>
-		<td width="228"><p>Midterm Sprint 1</p></td>
+		<td width="228"><p>Phase I: Analysis</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3.1</p></td>
+		<td width="228"><p>Project Risk Analysis</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.3.2</p></td>
+		<td width="228"><p>Cost Benefit Analysis</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.4</p></td>
+		<td width="228"><p>Phase II: Design and Development</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
@@ -1171,278 +1115,163 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.3.2</p></td>
-		<td width="228"><p>Finalized Comments Matrix</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.3.3</p></td>
-		<td width="228"><p>Progression of Chapter 1,2,3</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.3.4</p></td>
-		<td width="228"><p>Meeting with Adviser SOP Progression</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.3.5</p></td>
-		<td width="228"><p>Project Consultation</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>2</p></td>
-		<td width="64"><p>1.4</p></td>
-		<td width="228"><p>Finals Sprint 2</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.4.1</p></td>
-		<td width="228"><p>Updated Comments Matrix</p></td>
+		<td width="228"><p>Admin System</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.4.1.1</p></td>
+		<td width="228"><p>Admin Log-in</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.4.1.2</p></td>
+		<td width="228"><p>Admin Home Page</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.4.1.3</p></td>
+		<td width="228"><p>Inventory</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.4.1.4</p></td>
+		<td width="228"><p>Transactions</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.4.1.5</p></td>
+		<td width="228"><p>Analytics Report</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.4.2</p></td>
-		<td width="228"><p>Comments Matrix and Finals Presentation</p></td>
+		<td width="228"><p>Point of Sale</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.4.2.2</p></td>
+		<td width="228"><p>Home Screen</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.4.2.3</p></td>
+		<td width="228"><p>Checkout Screen</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>4</p></td>
+		<td width="64"><p>1.4.2.4</p></td>
+		<td width="228"><p>Generate Receipt</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>2</p></td>
 		<td width="64"><p>1.5</p></td>
-		<td width="228"><p>Project Analysis and Designs (MYSADD)</p></td>
+		<td width="228"><p>Phase III: Testing</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.5.1</p></td>
-		<td width="228"><p>Software Design</p></td>
+		<td width="228"><p>Requirement Analysis</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.5.2</p></td>
-		<td width="228"><p>Diagram Creation 1</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.1</p></td>
-		<td width="228"><p>Creation of Class and Object Diagram</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.2</p></td>
-		<td width="228"><p>Creation of Event Table</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.3</p></td>
-		<td width="228"><p>Creation of Use Case Diagrams</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.4</p></td>
-		<td width="228"><p>Creation of Use Case Description</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.5</p></td>
-		<td width="228"><p>Meeting with Adviser</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.6</p></td>
-		<td width="228"><p>Midterm Presentation Sprint 3</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.7</p></td>
-		<td width="228"><p>Comments Matrix</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.8</p></td>
-		<td width="228"><p>Creation of Low and High Fidelity Prototype</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.2.9</p></td>
-		<td width="228"><p>Creation of Prototype</p></td>
+		<td width="228"><p>Test Planning</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.5.3</p></td>
-		<td width="228"><p>Diagram Creation 2</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.5.3.1</p></td>
-		<td width="228"><p>DFD/ERD</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.3.2</p></td>
-		<td width="228"><p>Creation of State Machine Diagram</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.3.3</p></td>
-		<td width="228"><p>Creation of Sequence Diagram</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.3.4</p></td>
-		<td width="228"><p>Creation of Class Diagrams</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.3.5</p></td>
-		<td width="228"><p>Creation of Deployment Diagram</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.3.6</p></td>
-		<td width="228"><p>Creation of Component and Deployment Diagram</p></td>
+		<td width="228"><p>Test Design</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.5.4</p></td>
-		<td width="228"><p>Finals Presentation Sprint 4</p></td>
+		<td width="228"><p>Test Execution</p></td>
 	</tr>
 	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.4.1</p></td>
-		<td width="228"><p>Group Meeting Paper Update</p></td>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.5</p></td>
+		<td width="228"><p>Test Evaluation</p></td>
 	</tr>
 	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.4.2</p></td>
-		<td width="228"><p>Re Defense Presentation</p></td>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.6</p></td>
+		<td width="228"><p>System Integration Testing</p></td>
 	</tr>
 	<tr>
-		<td width="141"><p>4</p></td>
-		<td width="64"><p>1.5.4.3</p></td>
-		<td width="228"><p>Finals Comments Matrix</p></td>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.7</p></td>
+		<td width="228"><p>User Acceptance Testing</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.5.8</p></td>
+		<td width="228"><p>System Testing</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>2</p></td>
 		<td width="64"><p>1.6</p></td>
-		<td width="228"><p>Project Development and Modelling (MCSPORJ)</p></td>
+		<td width="228"><p>Phase IV: Implementation</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.6.1</p></td>
-		<td width="228"><p>Creation of Statement of Work</p></td>
+		<td width="228"><p>Deployment Planning</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.6.2</p></td>
-		<td width="228"><p>Creation of POS System (Dashboard)</p></td>
+		<td width="228"><p>Installation</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.6.3</p></td>
-		<td width="228"><p>Creation of Sales Report</p></td>
+		<td width="228"><p>Data Migration</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.6.4</p></td>
-		<td width="228"><p>Creation of Login Page</p></td>
+		<td width="228"><p>User Training</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.6.4/p></td>
+		<td width="228"><p>Creation of Component and Deployment Diagram</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.6.5</p></td>
-		<td width="228"><p>Creation of Admin System</p></td>
+		<td width="228"><p>Monitor Progress</p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.6.6</p></td>
-		<td width="228"><p>Creation of Project Charter</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.6.7</p></td>
-		<td width="228"><p>Vision and Mission</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.6.8</p></td>
-		<td width="228"><p>Creation of Improvement Matrix</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.6.9</p></td>
-		<td width="228"><p>Creation of Gantt Chart POD</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.6.10</p></td>
-		<td width="228"><p>Meeting with Adviser</p></td>
+		<td width="228"><p>Post Implementation Review </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>2</p></td>
 		<td width="64"><p>1.7</p></td>
-		<td width="228"><p>Midterm Presentation Sprint 5</p></td>
+		<td width="228"><p>Project Closeout/Completion </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.7.1</p></td>
-		<td width="228"><p>Revision of Paper</p></td>
+		<td width="228"><p>Finalize Project Deliverables </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.7.2</p></td>
-		<td width="228"><p>Creation of Test Case</p></td>
+		<td width="228"><p>Confirm Project Completion </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.7.3</p></td>
-		<td width="228"><p>Creation of User Reviews</p></td>
+		<td width="228"><p>Review All Contracts </p></td>
 	</tr>
 	<tr>
 		<td width="141"><p>3</p></td>
 		<td width="64"><p>1.7.4</p></td>
-		<td width="228"><p>Meeting with Adviser</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.7.5</p></td>
-		<td width="228"><p>Creation of Change Management Plan</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.7.6</p></td>
-		<td width="228"><p>Completion of Prototype</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>2</p></td>
-		<td width="64"><p>1.8</p></td>
-		<td width="228"><p>Finals Presentation Sprint 6</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.8.1</p></td>
-		<td width="228"><p>Improvements Matrix</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.8.2</p></td>
-		<td width="228"><p>Debugging of Prototype</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.8.3</p></td>
-		<td width="228"><p>Revision of Improvement Matrix</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.8.4</p></td>
-		<td width="228"><p>Revision of ERD</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.8.5</p></td>
-		<td width="228"><p>Revision of Class, Object, Diagrams</p></td>
-	</tr>
-	<tr>
-		<td width="141"><p>3</p></td>
-		<td width="64"><p>1.8.6</p></td>
-		<td width="228"><p>Finals Reshow Presentation</p></td>
+		<td width="228"><p>Review Documentation </p></td>
 	</tr>
 </tbody>
 </table>
