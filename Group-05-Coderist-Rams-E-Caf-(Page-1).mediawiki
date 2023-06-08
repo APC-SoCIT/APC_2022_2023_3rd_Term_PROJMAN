@@ -901,14 +901,13 @@ Furthermore, before implementing any scope changes, the project team must ensure
 </p>
 
 <table width="780" border="1" align="center">
-<thead>
+
 	<tr>
 		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
 		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
 		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
 	</tr>
-</thead>
-<tbody>
+
         <tr>
 		<td width="141"><p>1</p></td>
 		<td width="64"><p>1</p></td>
@@ -1154,7 +1153,6 @@ Furthermore, before implementing any scope changes, the project team must ensure
     <td width="64"><p>1.4.6</p></td>
     <td width="228"><p>Milestone: Documents Signes/Approved</p></td>
   </tr>
-</tbody>
 </table>
 <br>
 
@@ -1391,7 +1389,6 @@ Furthermore, before implementing any scope changes, the project team must ensure
     <td>1.4.6 Milestone: Documents Signed/Approved</td>
   </tr>
 </table>
-</body>
 <br>
 
 ==Tree Structure View==
@@ -1408,15 +1405,13 @@ Furthermore, before implementing any scope changes, the project team must ensure
 </p>
 <table align="center">
  <table>
-    <thead>
+
       <tr>
         <th>Level</th>
         <th>WBS Code</th>
         <th>Element Name</th>
         <th>Definition</th>
       </tr>
-    </thead>
-    <tbody>
       <tr>
         <td>1</td>
         <td>1</td>
@@ -1687,7 +1682,6 @@ Furthermore, before implementing any scope changes, the project team must ensure
         <td>Deliverable: Project Documentation</td>
         <td>Complete set of project documentation is a deliverable for the PROJMAN course</td>
       </tr>
-    </tbody>
   </table>
 <br>
 
