@@ -1903,6 +1903,172 @@ changes and deadlines for the modifications will contribute to the project's suc
 
 </table>
 
+=Quality Management Plan=
+== Introduction ==
+Welcome to the Quality Management Plan for the ITRO Ticketing System. This plan outlines our commitment to ensuring high-quality standards in the development, implementation, and ongoing maintenance of the ticketing system. By adhering to robust quality management practices, we aim to deliver a seamless and reliable solution that meets the needs of our users. This document will explain our quality objectives, quality requirements and standards, highlighting the strategies and processes we will employ to ensure the system's performance, usability, and overall satisfaction. Through effective quality assurance, control measures, and continuous improvement, we are dedicated to delivering a working ticketing system that optimizes user experience and enhances operational efficiency. Let's dive into the details of our comprehensive quality management approach.
+
+== Quality Management Approach ==
+Our approach to quality management for customer support in the ITRO Ticketing system revolves around ensuring exceptional service and customer satisfaction. We believe in prioritizing our customers' needs and expectations, offering timely assistance, and maintaining a high standard of quality throughout the support process.
+
+To achieve these objectives, we have established the following key elements:
+
+* '''Customer-Centric Focus''': We place our customers at the forefront by actively listening to their concerns and requirements. Our support team demonstrates empathy, professionalism, and responsiveness, ensuring a positive customer experience. We will actively seek feedback from our customers to gauge their satisfaction with our support services.
+
+* '''Streamlined Support Processes''': We have implemented clear and standardized procedures for handling customer support requests. These processes encompass efficient ticket management, accurate issue categorization, and prompt escalation and resolution procedures.
+
+* '''Performance and Continuous Improvement''': We measure our support team's efficiency and effectiveness using the system feature of tracking frequency of tickets and inquiry data. This will help the team to analyze and identify areas that should be prioritized in order improve and implement proactive measures to enhance the quality of our support services.
+
+Ram-IT ITRO aims to deliver exceptional customer support through our ticketing system. Our primary focus is on promptly addressing customer needs, ensuring their satisfaction, and fostering long-term trust and relationships with our valued customers.
+
+== Quality Requirements / Standards ==
+* '''Responsiveness''': Customer support will aim to provide timely responses to customer inquiries, issues, and requests. The standard response time should be defined and adhered to for different types of support requests.
+
+* '''Accuracy and Clarity''': Customer support agents should strive for accurate and clear communication in their interactions with customers. The information provided should be precise, easily understandable, and free from ambiguity.
+
+* '''Professionalism and Courtesy''': Customer support representatives should exhibit professionalism and courtesy when dealing with customers. This includes demonstrating empathy, actively listening to customer concerns, and maintaining a respectful tone throughout the interaction.
+
+* '''Problem Resolution''': The quality standard for problem resolution is to provide effective and efficient solutions to customer issues. Support agents should possess the necessary knowledge and skills to diagnose and resolve problems promptly, minimizing customer downtime.
+
+* '''Escalation Process''': The escalation process should be clearly defined and followed when customer issues cannot be resolved at the initial support level. Timely and appropriate escalation ensures that complex or critical issues receive the necessary attention and resolution.
+
+* '''Customer Satisfaction''': Regular assessments of customer satisfaction should be conducted to measure the level of customer happiness and gauge the effectiveness of support services. Feedback should be actively sought and utilized to improve support processes and overall customer experience.
+
+* '''Continuous Improvement''': The quality management plan should include provisions for continuous improvement. This involves regularly reviewing support processes, identifying areas for enhancement, and implementing corrective and preventive actions to raise the overall quality of customer support.
+
+* '''Knowledge Base Accuracy''': The knowledge base, which serves as a self-help resource, should be regularly updated and accurate. It should contain comprehensive and up-to-date information, troubleshooting guides, and FAQs to assist customers in finding solutions to frequent and repeat tickets and inquiries.
+
+== Quality Assurance ==
+The following steps will be followed as part of the QA process for OPTIMUM FIVE, which will be incorporated into the Agile and Scrum methodology. This will guarantee that the quality is attained by group effort and continual improvement:
+
+* '''Defining quality standards''': The developers will collaborate with stakeholders, clients, and users to define and document the quality standards for the project in the quality management plan, ensuring that they are regularly communicated to all parties.
+
+* '''Quality metrics''': The project team will monitor and report on the project's performance in relation to the quality criteria using quality metrics.
+** The percentage of the system that has been tested is shown by test coverage.
+** The test cases that have passed are shown in the case pass rate.
+
+* '''Continuous improvement''': To create a high-quality output, the developers would utilize the feedback to make improvements that the client and stakeholder had asked.
+
+* '''Compliance with industry standards''': The creators would make sure that OPTIMUM FIVE complied with pertinent industry standards, such as those governing data privacy and security. There will be ongoing audits to make sure that these requirements are being followed.
+
+* '''Reviewing feedback''': The system would benefit because of the developers' ongoing evaluation of user input and modification of modifications.
+
+To guarantee that the project delivers a high-quality result, the quality assurance metrics will be actively watched, tracked, and reported on a regular basis. Any infractions of these standards will be evaluated right away and fixed. The software program that will be used to gather data on these criteria will provide frequent reports to the project team. Additionally, a regular assessment of the quality assurance process will be conducted to look for install upgrades. The Ticketing System must satisfy the highest standards possible, and all quality assurance indicators must be continuously monitored to guarantee the project's success.
+
+== Quality Control ==
+Continuous testing and quality input are prioritized, and quality control is integrated into the development process in Agile and Scrum methodologies. The following phases will be part of the ticketing system project's quality control process:
+
+* '''Continuous testing and feedback''': To find errors and make sure the product satisfies client requirements, the project team will conduct continuous testing. Where feasible, the testing will be automated.
+
+* '''User Acceptance Testing (UAT)''': The system will be put through its paces by a representative sample of users to make sure it meets their requirements and expectations. Each sprint will finish with a UAT, and any required adjustments will be made in response to user feedback.
+
+* '''Compatibility Testing''': The Ticketing System will be tested across a range of software and hardware, including browsers and mobile devices, to guarantee compatibility and fix any issues that could develop when the system is used in diverse contexts.
+
+* '''Continuous Monitoring''': The project team will evaluate the Ticketing system's performance upon deployment. This will need monitoring crucial performance indicators including customer satisfaction, response speed, and system uptime. This will offer crucial data to support any system improvements and help find any issues or bottlenecks.
+
+The following quality metrics will be used to monitor and assess the system’s performance:
+
+* Test Coverage: The percentage of the system that has been tested.
+* Test Case Pass Rate: The percentage of test cases that have been passed.
+* User Happiness: Measured through surveys and feedback from users.
+* Response Time: The time taken for the system to respond to user requests.
+* System Uptime: The percentage of time the system is available and functioning as expected.
+* Tracking and Documenting Quality Evaluations: The project team will monitor and record the results of the quality control process, which will be used to assess the success of any corrective measures that are implemented as well as the project's progress.
+
+In summary, OPTIMUM FIVE's quality control approach will be an essential component of the development process, with an emphasis on continuous testing, user input, and performance monitoring. As part of the Quality Control process, the project team will regularly review and evaluate the product's quality to make sure it satisfies both client and regulatory criteria.
+
+== Quality Control Measurements ==
+
+The objective of quality control measurement is to track and compare the performance of customer support activities against defined standards and requirements. This allows for proactive identification of areas needing improvement and facilitates prompt corrective actions.
+
+=== Ticket Response Time ===
+
+* '''Standard/Requirement''': Maximum response time for support channel tickets.
+* '''Measurement Method''': Calculate the time elapsed between ticket submission and initial response by support agents.
+* '''Log Template Example''':
+
+{| class="wikitable"
+|-
+! Ticket ID
+! Date/Time Submitted
+! Date/Time Initial Response
+! Response Time (in minutes)
+|-
+| 001
+| 2023-06-01 09:30 AM
+| 2023-06-01 09:35 AM
+| 5
+|-
+| 002
+| 2023-06-01 02:45 PM
+| 2023-06-01 02:50 PM
+| 5
+|-
+| 003
+| 2023-06-01 11:10 AM
+| 2023-06-01 11:18 AM
+| 8
+|}
+
+=== Ticket Resolution Time ===
+
+* '''Standard/Requirement''': Maximum time allowed to resolve support channel tickets.
+* '''Measurement Method''': Calculate the time elapsed between ticket submission and final resolution.
+* '''Log Template Example''':
+
+{| class="wikitable"
+|-
+! Ticket ID
+! Date/Time Submitted
+! Date/Time Resolved
+! Resolution Time (in hours)
+|-
+| 001
+| 2023-06-01 09:30 AM
+| 2023-06-01 10:45 AM
+| 1.25
+|-
+| 002
+| 2023-06-01 02:45 PM
+| 2023-06-01 03:30 PM
+| 0.75
+|-
+| 003
+| 2023-06-01 11:10 AM
+| 2023-06-01 12:05 PM
+| 0.92
+|}
+
+=== Customer Satisfaction ===
+
+* '''Standard/Requirement''': Average customer satisfaction rating based on post-interaction surveys.
+* '''Measurement Method''': Collect customer feedback through surveys and calculate the average satisfaction rating.
+* '''Log Template Example''':
+
+{| class="wikitable"
+|-
+! Date
+! Total Surveys
+! Average Satisfaction Rating (out of 5)
+|-
+| 2023-06-01
+| 15
+| 4.2
+|-
+| 2023-06-02
+| 20
+| 4.6
+|-
+| 2023-06-03
+| 18
+| 4.3
+|}
+
+=== Regular Review and Actions ===
+
+The quality control logs will be reviewed in regularly scheduled project status meetings or as necessary throughout the project lifecycle. If any actual measurements do not meet the defined standards or requirements, appropriate actions will be taken, such as identifying root causes, implementing corrective actions, and monitoring the effectiveness of those actions.
+
+The Ticketing System project will use a transparent and collaborative approach to quality control, and the Agile and Scrum methodologies will be used to promote continuous inspection and change throughout the project lifetime.
+
 
 =Work Breakdown Structure (WBS)=
 
