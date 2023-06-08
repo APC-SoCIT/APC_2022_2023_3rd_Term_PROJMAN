@@ -2157,18 +2157,18 @@ We have used a probability-impact matrix to qualify and prioritize the risks for
 
 The probability of risks happening and their impact on the project is described below:
 
-    '''Extreme''': Risks with a very high probability of occurring and a severe impact on the project.
-    '''High''': Risks with a high probability of occurring and a significant impact on the project. These risks require immediate attention, and we need to develop mitigation strategies for them.
-    '''Medium''': Risks with a medium probability of occurring and a moderate impact on the project. These risks should be closely monitored, and mitigation strategies should be developed in case they occur.
-    '''Low''': Risks with a low probability of occurring and a minor impact on the project. These risks can be monitored periodically, and mitigation strategies can be developed in case they occur.
-    '''Negligible''': Risks with a very low probability of occurring and negligible impact on the project. These risks can be ignored.
+* '''Extreme''': Risks with a very high probability of occurring and a severe impact on the project.
+* '''High''': Risks with a high probability of occurring and a significant impact on the project. These risks require immediate attention, and we need to develop mitigation strategies for them.
+* '''Medium''': Risks with a medium probability of occurring and a moderate impact on the project. These risks should be closely monitored, and mitigation strategies should be developed in case they occur.
+* '''Low''': Risks with a low probability of occurring and a minor impact on the project. These risks can be monitored periodically, and mitigation strategies can be developed in case they occur.
+* '''Negligible''': Risks with a very low probability of occurring and negligible impact on the project. These risks can be ignored.
 
-![untitled](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/98085450/a52edce8-d28c-4fbe-b5d8-73e02eac8832)
+(https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/98085450/a52edce8-d28c-4fbe-b5d8-73e02eac8832)
 
-    '''Technical Risk''' - Medium Probability and Medium Impact
-    '''Security Risk''' - Low Probability and Medium Impact
-    '''Scope Creep''' - Medium Probability and Medium Impact
-    '''Lack of Project Management & Planning''' - Medium Probability and High Impact
+* '''Technical Risk''' - Medium Probability and Medium Impact
+* '''Security Risk''' - Low Probability and Medium Impact
+* '''Scope Creep''' - Medium Probability and Medium Impact
+* '''Lack of Project Management & Planning''' - Medium Probability and High Impact
 
 To maintain alignment with the agile risk management plan, the project team will consistently review and update the risk register throughout the project. This will involve qualifying and prioritizing risks, ensuring their inclusion in sprint planning sessions. By doing so, the team will be well-informed about the potential risks and able to plan accordingly. Furthermore, we will foster an environment that encourages the team to actively identify and promptly report any new risks that may arise during the project's course of action.
 
@@ -2181,6 +2181,40 @@ The project team will utilize a centralized risk register or tracking tool to do
 Effective risk monitoring requires transparent communication among team members and stakeholders. Regular project status meetings and other communication channels will be used to discuss and share risk-related information. This will facilitate timely identification and resolution of risks, as well as ensure that all stakeholders are informed about the project's risk profile.
 
 By implementing these risk monitoring practices, the project team will be able to proactively identify, assess, and address risks throughout the agile project lifecycle, thereby minimizing the potential impact on the ITRO Ticketing System.
+
+== Risk Mitigation and Avoidance ==
+
+The project team will collaboratively develop the risk management plan, assigning appropriate importance to each identified risk. Engaging stakeholders, the team will implement mitigation measures and consistently evaluate their effectiveness.
+
+To commence risk mitigation and avoidance, the team will first identify and prioritize potential risks. Emphasis will be placed on risks with significant likelihood and impact, devising strategies to minimize or eliminate them. The project manager will consider the following crucial factors and available options:
+
+    '''Risk Assessment''': It is imperative for the team to conduct a comprehensive analysis of potential risks to proactively anticipate and address them. The project manager should prioritize completing the risk assessment early in the project and take swift actions to identify and mitigate any potential risks that are identified. By conducting a thorough risk assessment, the project team can effectively minimize the impact of risks and ensure smoother project execution.
+
+    '''Contingency Planning''': plays a crucial role in ensuring preparedness for potential risks. The project team, under the supervision of the project manager, should develop and test backup plans to address contingencies associated with identified risks. These plans should be carefully designed, thoroughly tested, and confirmed to ensure their effectiveness. By proactively establishing contingency measures, the project team can mitigate the impact of risks and maintain project resilience in the face of uncertainties.
+
+    '''Effective Communication''': A crucial aspect of risk management is fostering transparent and effective communication among the project team, clients, and stakeholders. The project manager plays a vital role in promoting clear channels of communication to minimize risks and prevent any potential misunderstandings. Open lines of communication facilitate the timely exchange of information, feedback, and concerns, enabling proactive risk identification and mitigation throughout the project lifecycle.
+
+These are general strategies to mitigate and avoid potential risks throughout the project lifecycle. These steps ensure the management of risks that the project team will discover pre and post-development. Using the agile methodology, the group will be able to manage risks and adapt to changes more dynamically. This approach to mitigation and avoidance will be beneficial to all key stakeholders and to the project team.
+
+== Risk Register ==
+
+The risk register, serving as a comprehensive repository of potential risks, will be diligently maintained and continuously updated throughout the project's duration. It will encompass in-depth descriptions of each risk, encompassing its likelihood and potential impact, accompanied by documented mitigation measures. To ensure its relevance and accuracy, the risk register will undergo regular review and timely updates, aligning with the project's evolving landscape. Embracing a collaborative approach, this risk management strategy fosters early and frequent risk identification, fostering an environment of proactive risk mitigation. In adherence to the Agile methodology, all stakeholders will have convenient access to the centralized risk register, enabling collective awareness and engagement in the risk management process. This will help the project team to track and prioritize risk, assign responsibilities, and track progress in risk mitigation.
+
+The following criteria will be used for the risk register:
+
+*'''Risk ID''': Each risk will be assigned a unique identifier.
+*'''Risk Description''': There will be a clear and concise description of the risk event.
+*'''Risk Category''': Risks will be classified into technical, organizational, or legal categories.
+*'''Risk Owner''': A designated individual or team will be responsible for monitoring and managing each risk.
+*'''Probability''': Likelihood of a risk occurring is assessed using a scale of 1 to 5, with 1 indicating the lowest likelihood and 5 indicating the highest.
+*'''Impact''': The risk's potential impact on the project is rated on a scale of 1 to 5, with 1 indicating the least significant impact and 5 indicating the most significant impact.
+*'''Risk Score''': The probability and impact scores are multiplied to determine the overall risk.
+*'''Status''': The risk's status, whether it is open, in progress, or closed, is also documented.
+
+![risk register](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/98085450/d2109b51-6aee-469b-a248-e5fe5796d6c3)
+
+
+
 
 =Work Breakdown Structure (WBS)=
 
