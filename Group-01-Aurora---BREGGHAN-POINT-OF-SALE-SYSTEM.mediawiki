@@ -135,7 +135,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 </table>
 
 ==Problem Definition==
-<h3>3.1 Problem Statement</h3>
+<h3>Problem Statement</h3>
 <p>Bregghan mini grocery store is currently facing several issues in their daily operations, which are mainly caused by their manual recording and tracking system. Specifically, the store has trouble in monitoring their inventory, which can result in insufficient stocks or overstocking. Additionally, the manual computation of sold items often leads to errors, which affects the accuracy of their sales records. As a result, the store loses potential customers due to a lack of available items, leading to decreased profits. Furthermore, the current process of tracking sales and stocks is time-consuming, which can lead to slower checkouts and longer queues. Overall, the business problem is the need for a more efficient and accurate system to monitor inventory and sales to improve the overall customer experience and increase revenue. </p>
 
 <h3>Organizational Impact </h3>
@@ -421,15 +421,65 @@ vendor. However, this option was rejected due to the lack of control over the pr
 
 =Stakeholder Management Strategy=
 ==Introduction==
-<p>Bregghan mini grocery store is a family-owned business which is being managed by Ms. Devilyn Ligligen. It is located at Mt. Makiling Street. Makati City. On a regular basis, the grocery store is managed by 2 staff personnel, and both are selling the products to customers. The grocery store supplies retail/wholesale/bulk to residents and “sari-sari” stores in the area. The store only accommodates 1-5 persons walk-in. In addition, the store offers different varieties of products ranging from Dairy, Beverages, Liquor, Frozen foods, Canned goods, etc.</p>
-
-<p>The objectives of the project is to develop a responsive web application that tracks sales and stocks for the client and decreases the number of steps that the user can do in the whole transaction for faster checkouts.</p>
+<p>This document's purpose is to identify and analyze all stakeholders of this project as they will have an impact and interest on the project. Moreover, this document will serve as a strategic roadmap to gain a better relationship with stakeholders and attain an efficient utilization of stakeholder support. In addition, the information about the stakeholders adjacent to the deliverables is found within this document. </p>
 
 ==Identify Stakeholders==
-<p>The methodology that the team developers will use is the  agile methodology, because the stakeholders are important to this project and they are the one’s who will  benefit in  this project.  The  said  methodology is  used  so  the  stakeholders will  have  a  remark along  the progress of the project. </p>
+<p>Identifying stakeholders is important to attain continuous updates and refinement as the project progresses as they will be the ones that will give support and communication to ensure success on the project development. The stakeholder identification will include the internal and external stakeholders which contains the project team members, sponsors, owner, and customers. To identify the prioritization of stakeholders, the project team utilizes a stakeholder analysis which identifies the power and interest of each stakeholder. Furthermore, having methodologies such as consultation meetings and document reviews can help the team in further identifying those people that have a personal interest in the project. </p>
 
 ==Key Stakeholder==
-<p>The key stakeholder of the project would be Ms. Devilyn Ligligen. She is the owner of the Bregghan mini grocery store and she will be the one using the project along with her personnel(cashier). All the necessary features that are requested by the client should be included hence, she will have a weekly check-up on the team to monitor the progress and to ensure that her requirements are met.</p>
+<p>The key stakeholders of the Bregghan Point of Sale System are the business owner/manager and their cashier. These individuals will directly impact the project as they are the people that will use the system and cater to their mini grocery store’s customers. Moreover, the needs and the concerns of these key stakeholders must be met during project development. With the usage of the Bregghan Point of Sale System, it would enable the stakeholders to integrate a faster approach with regards to transactions and stocks management. </p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Name</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Position</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Internal/External</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Contact Information</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Devilyn Ligligen<br></p></td>
+		<td><p style="text-align:center;">Business Owner/Manager</p></td>
+		<td><p style="text-align:center;">Internal<br></p></td>
+		<td><p style="text-align:center;">bligligen@gmail.com </p></td>
+
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Cashier<br></p></td>
+		<td><p style="text-align:center;">Cashier Employee</p></td>
+		<td><p style="text-align:center;">Internal<br></p></td>
+		<td><p style="text-align:center;">bregghan@gmail.ccom </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Ramon Benedict Elloso<br></p></td>
+		<td><p style="text-align:center;">Project Manager</p></td>
+		<td><p style="text-align:center;">Internal<br></p></td>
+		<td><p style="text-align:center;">bedictmann@gmail.com</p></td></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Carlos Ligligen<br></p></td>
+		<td><p style="text-align:center;">Team Member</p></td>
+		<td><p style="text-align:center;">Internal<br></p></td>
+		<td><p style="text-align:center;">ccligligen@gmail.com</p></td></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Andrei Gabriel Palma<br></p></td>
+		<td><p style="text-align:center;">Team Member</p></td>
+		<td><p style="text-align:center;">Internal<br></p></td>
+		<td><p style="text-align:center;">gabriel.palmaandrei@gmail.com </p></td></td></td>
+<tr>
+		<td><p style="text-align:center;">Donne Paolo Tarinay<br></p></td>
+		<td><p style="text-align:center;">Team Member</p></td>
+		<td><p style="text-align:center;">Internal<br></p></td>
+		<td><p style="text-align:center;">donnetarinay@gmail.com </p>
+	</tr>
+<tr>
+		<td><p style="text-align:center;">Customer<br></p></td>
+		<td><p style="text-align:center;">Customer</p></td>
+		<td><p style="text-align:center;">External<br></p></td>
+		<td><p style="text-align:center;">----@gmail.com</p>
+	</tr>
+
+</table>
 
 ==Stakeholder Analysis==
 <p>The stakeholder that the project has is Ms. Devilyn Ligligen. She is the client of the team and is categorized as the priority during the development of the project. Her needs/requirements should be adhered by the team and all of her requests must be taken into consideration. Furthermore, the client should always be present during meetings for her to monitor the progress of the team and to make sure that all her requirements are met. The technique that the team would incorporate is the SWOT analysis. This will help the team identify the things that the client lacks and it helps them understand the potential impact that the stakeholder could have on the project.</p>
