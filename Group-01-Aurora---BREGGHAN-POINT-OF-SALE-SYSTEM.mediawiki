@@ -1623,3 +1623,20 @@ The development team are the ones responsible for implementing the technical asp
 </table>
 
 <p>The approach to Quality Management for the Bregghan Point of Sale (POS) system project comprises the following essential elements: </p>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td><p style="text-align:center;">Quality Planning  </p></td>
+                <td><p style="text-align:center;">The team must create a clear plan for achieving quality objectives and standards, ensuring that the POS system meets stakeholder requirements and industry best practices. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Quality Assurance </p></td>
+                <td><p style="text-align:center;">The project team must undergo regular audits and reviews to ensure that the development and implementation of the POS system align with the established quality standards, promptly addressing any deviations. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Quality Control </p></td>
+                <td><p style="text-align:center;">Rigorous testing and verification activities are carried out to identify and resolve any defects or non-conformities, ensuring that the POS system operates flawlessly. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Continuous Improvement </p></td>
+                <td><p style="text-align:center;">By collecting feedback, analyzing data, and implementing lessons learned, ongoing enhancements are made to the POS system, fostering a culture of continuous improvement throughout the project.</p></td>
+	</tr>
