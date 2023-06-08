@@ -1897,3 +1897,140 @@ Continuous improvement is a vital aspect for the success of the Bregghan POS sys
 
 <p>5. Risk Levels – Upon deciding on the project, risk management will also play an important part in implementing effectiveness in the service. The team members should set a risk percentage to monitor the progress of contracts with the supplier to be reviewed by the stakeholder and client.  </p>
 </ul>
+
+=Implementation Management Plan=
+==Executive Summary==
+<p>The purpose of this section of the project implementation is to provide a summary of the benefits and features of the Bregghan Point of Sales (POS) system. The system is a software and hardware solution that enables businesses to streamline their sales process, manage inventory, and enhance customer experience. This section also highlights the key advantages and functionalities of a modern POS system and outlines its potential impact on business operations and profitability. With this, the project team which includes a project manager, quality assurance tester, and the developers will ensure that the project will have a successful transition with the collaboration of the project sponsor. </p>
+
+<p>With the development between collaborations of the business owner and the project team the Bregghan Point of Sales system was able to gain its scope and objectives that would be beneficial to Ms. Devilyn Ligligen’s running family business which includes: </p>
+
+<ul>
+<li>Decreases the number of steps that the user can do in the whole transaction for faster checkouts. </li>
+<li>Fully digitize the records of stocks and the sales of the bregghan mini grocery store. </li>
+<li>Will produce a weekly, monthly, and yearly annual report to the user showing the number of items sold in a specific date. </li>
+<li>Decreases human data entry, lowers errors, and saves time, allowing businesses to focus on core tasks and increase production. </li>
+<li>Notifies the User on the dashboard for specific products that are low or critical on stocks. </li>
+
+<p>When all objectives are met by the project developers and the stakeholders, Bregghan Point of Sales System will be deployed for use of the Admin and the Cashier inside the mini grocery store system devices. When Bregghan takes effect, the following purpose and benefits will provide a significant amount of impact to the store’s sales and tracking which will ease the operation and boost bregghan mini grocery stores sales. Therefore, by the end of this executive summary the project team will ensure that the client will have full control of the Point of Sales system and will have technical support from the project developers whenever a problem arises in the long term.</p>
+
+==Transition Approach==
+<p>Having a transition approach will give the project team an outline on the overall strategy with regards to the transition process of implementing the Bregghan Point of Sale System. Furthermore, it will describe how the project team will handle changes and manage new systems or processes. Moreover, it ensures that each project-related individual can adapt to the said changes. Lastly, with this transition approach, the project stakeholders would be informed about the necessary actions needed to take to have a smooth and manageable transition to the new system.</p>
+
+<ul>
+<li>Assess the current system: analyze or evaluate the current system by identifying its strengths and weaknesses or given limitations. Furthermore, understanding the current system can help in which areas need improvement. </li>
+
+<li> Requirements Elicitation: this pertains to gathering the necessary deliverables or requirements for the new system's development. Engagement with the stakeholders, including the project team, is also required to ensure that all requirements such as the functional and non-functional and the system's performance are met. </li>
+
+<li>Selection of Technology: the selection of technology would be beneficial for a new system as the project team can identify which suits best for the project, which is based on the requirements elicitation or requirements gathering.  </li>
+
+<li> Design Planning: with the consideration of the functionalities, technologies, and requirements needed, the project team needs to develop a design necessary for the overall structure and components. </li>
+
+<li>Execute the Development the development of the project is based on the design planning. Furthermore, the development should follow the best practices when it comes to coding standards to ensure quality. </li>
+
+<li>Testing and Validation: testing the point-of-sale system would be vital for the project team to identify all the bugs and issues that might arise. Unit and system testing are beneficial and have user acceptance testing to ensure the functionalities are working. </li>
+
+<li>Documentation and Training: develop technical guides, user manuals, and other necessary documentation to ensure that the team is familiarized with the new system. </li>
+
+<li>Deployment: deploy the new system with the consideration of ensuring its security, performance optimizations, and production environment.  </li>
+
+<li>Monitor and Evaluate: continuous monitoring of the new system can help the team in evaluating its effectiveness to the transition from manual computation of items and stocks tracking. It will also help the project team in identifying the areas for improvement so that they can make necessary adjustments. </li>
+</ul>
+
+<p>With the following transition approach, the project team can successfully implement the Bregghan Point of Sale system while also ensuring an efficient migration from the old system and the new system. </p>
+
+==Transition Team Organization==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Responsibilities</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Manager </p></td>
+                <td><p style="text-align:center;">In charge of using project roles and implementing any delegation within predetermined reporting structures. Project, stage, and exception plans should be created and maintained as needed. managing project risks, which includes creating backup plans. Develops and enhances the methods utilized by the team to meet milestones. achieve goals and provide results to the client. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Front-end Developer </p></td>
+                <td><p style="text-align:center;">In charge of creating new user-facing features, determining on the project's structure and design before it is implemented, creating reusable code, reducing the amount of time it takes for pages to load, and using a variety of languages to create the different screens for both admin and the cashier system. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Back-end Developer </p></td>
+                <td><p style="text-align:center;">Responsible for creating and maintaining the server-side of the Point of Sales System and software. primarily focus on the structure and works in conjunction with the front-end developer, enabling the output to interact with databases, handle requests from users, process data, and perform other essential tasks. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Team Meetings</p></td>
+                <td><p style="text-align:center;">Team Meetings refer to the scheduled meetings scheduled by the project manager to get updates and reports from one another.</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Project Stakeholders </p></td>
+                <td><p style="text-align:center;">Assists the project team achieve its strategic goals by bringing their expertise and viewpoint to a project. Additionally, they can offer the resources and supplies needed. The success of the project's implementation depends on the input from the stakeholders. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Quality Assurance Tester </p></td>
+                <td><p style="text-align:center;">In charge of the project progress and ensures that before implementation the final output result will be satisfactory before being deployed. </p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Business Owner/Client </p></td>
+                <td><p style="text-align:center;">Examine the deliverables that the team provides by the deadlines. </p </td>
+</table>
+
+==Workforce Transition==
+<p>The workforce transition refers to managing the changes when it comes to the roles and responsibilities of the workforce during the project's lifecycle. With this, it ensures that the project has the right people and has the necessary skills to meet the project’s objectives.</p>
+
+<p>By doing this, the organization can have a successful transition while maximizing the workforce's effectiveness in the project's implementation. Furthermore, this section of the paper states the key activities involved in employee engagement, identifying the skill requirements needed, and integrating new team members. </p>
+
+<ul>
+<li>Workforce Assessment: identify the skills and expertise of the current workforce and determine the areas needed for additional resources or skills. </li>
+
+<li>Expertise Identification: determine the expertise required for the development of the Bregghan Point of Sale System. The responsibilities needed are the front-end, and back-end developers, Quality Assurance Tester, etc. These are important roles that need to be identified to ensure a smooth project development.</li>
+
+<li>Workforce Training: identify if the members of the current workforce can be trained to meet the requirements and objectives of the new system. This will include workshops to enhance the skills and knowledge of a current member. </li>
+
+<li>Recruitment and Hiring: this refer to the identification of skill gaps that cannot be fulfilled which requires an initiation to hire new employees or contractors with the necessary skills. With this, it is required to develop a job description and conduct interviews to select a candidate fit for the job. </li>
+
+<li>Knowledge Transfer: promote knowledge transfer from existing workforce to the new team members which includes mentoring and collaboration to ensure an efficient and effective transfer of project-specific information. </li>
+
+<li>Team Collaboration: promoting team collaboration offers a healthy work environment and it encourages open communication and constructive feedback which leverages the strengths of the individuals. </li>
+
+<li>Performance Evaluation: assess and evaluate the progress of the individuals or the team to identify the areas of improvement and to determine the effectiveness of the transition process. </li>
+
+<li>Ongoing Support: providing ongoing support can help the workforce during the transition process as it addresses any challenges or issues that may arise. Furthermore, it will be of help to the individuals to perform their roles efficiently and effectively. </li>
+
+<li>Continuity of Training: with this, workshops and other skill improvement-related activities will be necessary to ensure that all the individual’s skills working on the project will be up to date. </li>
+
+<p>Following the workforce transition plan can help the project manage its transition of workforce effectively. Furthermore, it will ensure that all the necessary development skills are met for a successful implementation. </p>
+</ul>
+
+==Workforce Execution During Transition==
+<p>This section of the paper will focus on the workforce execution during the transition period for the project. To have a seamless transition and empowerment of employees with their skills, there are some key factors needed which includes the user training, system testing, formal acceptance, documentations of lessons learned, update other project requirements, archiving files/documents, and project closeout meeting. </p>
+
+<ul>
+<li>User Training: the user training will involve handing training materials or training sessions with the users to ensure that they have the knowledge and skills to operate the new system. </li>
+
+<li>System Testing: the project team must ensure that all the functionalities and components of the system are working and ready for usage. To ensure this, final testing and accuracy of data migration must be implemented. </li>
+
+<li>Documentation of Lessons Learned: it will document all project insights, the team's success, and their weaknesses. Furthermore, this will also be useful for future projects and the application of best practices. </li>
+
+<li>Update other Project Requirements: the team needs to update any relevant documents related to the project’s completion. This may involve archiving documents or modifying contracts and agreements with updated information. </li>
+
+<li>Formal Acceptance: attaining the project's formal acceptance indicates the transfer was completed. The project team must ensure that all the necessary documents and deliverables are accomplished along with client satisfaction. </li>
+
+<li>Archiving Files/Documents: this means that during this phase, all the project related files like the contracts, project plan, and agreements must be archived. </li>
+
+<li>Project Closeout Meeting: meet with the project stakeholders to discuss the project’s overall performance, identify those areas of success, and address concerns or issues.  </li>
+
+==Subcontracts==
+<p>Since the Bregghan Mini Grocery Store has no existing contracts or subcontract agreements connected to this project, there is no requirement for any transition or transfer of contracts.</p>
+
+==Property Transition==
+==Incumbent Owned Equipment==
+<p>The property transition plan for the incumbent owned equipment of the Bregghan Point of Sale System must be evaluated to ensure a smooth transition and avoid any misunderstandings.  </p>
+
+<p>The following listed are the considerations for the aspect of transition:</p>
+
+<p>Property Assessment</p>
+<ul>
+<li>Evaluate the condition and compatibility of the incumbent owned equipment. </li>
+<li>Identify areas wherein additional equipment may be needed to ensure a high-quality performance. </li>
+<li>Conduct a thorough assessment wherein the Bregghan POS system will be deployed. </li>
+</ul>
+
