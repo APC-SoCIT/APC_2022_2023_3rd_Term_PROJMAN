@@ -1618,25 +1618,33 @@ changes and deadlines for the modifications will contribute to the project's suc
                 <td><p style="text-align:center;">Mr. Jojo F. Castillo</p></td>
                 <td><p style="text-align:center;">jojoc@apc.edu.ph</p></td>
                 <td><p style="text-align:center;">
-                # Accept or reject low/high modifications.
-                # Oversees the examining low effect adjustments and has the authority to override project manager decisions about change requests. 
+                Accept or reject low/high modifications.</p>
+                <p>Oversees the examining low effect adjustments and has the authority to override project manager decisions about change requests. 
                 </p></td>
        </tr>
 
        <tr>
-		<td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
+		<td><p style="text-align:center;">Change Control Board Member</p></td>
+                <td><p style="text-align:center;">Project Adviser</p></td>
+                <td><p style="text-align:center;">Ms. Jo Anne M.de la Cuesta</p></td>
+                <td><p style="text-align:center;"></p>joannec@apc.edu.ph</td>
+                <td><p style="text-align:center;">
+                Can establish if the change request will have a high or low impact.</p>
+                <p>Ability to accept or reject low-impact adjustments.</p>
+                <p>May in charge of creating an implementation strategy for the modification request, should it be granted. conveys the steps necessary to put the changes into effect.</p>
+                <p>May update the project timeline, budget, and plan.
+                </p></td>
        </tr>
 
        <tr>
-		<td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
+		<td><p style="text-align:center;">Change Control Board Member</p></td>
+                <td><p style="text-align:center;">Project Manager</p></td>
+                <td><p style="text-align:center;">Jayson Aloyota</p></td>
+                <td><p style="text-align:center;">jqaloya@student.apc.edu.ph</p></td>
+                <td><p style="text-align:center;">
+                In charge of accurately updating the change logs.</p>
+                 <p>Assures correct application of the Change Management methodology.  
+                </p></td>
        </tr>
 </table>
 
@@ -1652,6 +1660,50 @@ changes and deadlines for the modifications will contribute to the project's suc
 	</tr>
 
 	<tr>
+		<td><p style="text-align:center;">Mr. Jojo F. Castillo</p></td>
+                <td><p style="text-align:center;">Project Sponsor</p></td>
+                <td><p style="text-align:center;">Keep track of all the change requests submitted during the project and make sure that any with a significant effect are handled quickly.</p>
+<p>Keep an eye on the Project Manager's choice about minimal impact requests.</p>
+<p>If a modification request is considered essential, submit it.</p>
+<p>If a modification request is considered essential, submit it</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">ITRO</p></td>
+                <td><p style="text-align:center;">Internal User of the system</p></td>
+                <td><p style="text-align:center;">Submit a change request if deemed necessary.</p>
+<p>Review the change request log and reports to ensure alignment with changes.</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">ITRO</p></td>
+                <td><p style="text-align:center;">External User of the system</p></td>
+                <td><p style="text-align:center;">Submit a change request if deemed necessary.</p>
+<p>Review the change request log and reports to ensure alignment with changes.</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;">Ms. Jo Anne M. de la Cuesta</p></td>
+                <td><p style="text-align:center;">Project Adviser</p></td>
+                <td><p style="text-align:center;">Confirmation and checking of the changes.</p>
+<p>Oversees the effects and capability of the changes may applied.</p>
+<p>Reads and looks into the development or documentation that may changes apply.</p>
+<p>Provides insights either of the current progress or changes that may apply within the progress.</p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+       </tr>
+
+       <tr>
+		<td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+       </tr>
+
+       <tr>
 		<td><p style="text-align:center;"></p></td>
                 <td><p style="text-align:center;"></p></td>
                 <td><p style="text-align:center;"></p></td>
