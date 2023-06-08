@@ -3,7 +3,7 @@
   Our project employs a tree structure view to visually represent the hierarchical relationships and dependencies among project tasks and subtasks, providing a clear and intuitive overview of the project's organizational structure.
 </p>
 <br>
-<a href="https://ibb.co/bgm4Kzm"><img src="https://i.ibb.co/QFQWKrQ/WBS.png" alt="WBS" border="0"></a>
+<a href="https://ibb.co/vsMpCJf"><img src="https://i.ibb.co/GsryfVG/WBS-Dictionary.png" alt="WBS-Dictionary" border="0"></a>
 <br>
 
 ==WBS Dictionary==
