@@ -1601,11 +1601,43 @@ changes and deadlines for the modifications will contribute to the project's suc
 
 ==Change Control Board==
 
-<h3>Information is in under canvas..</h3>
+<p>The specified group of stakeholders in charge of approving or disapproving modifications to the Ramit: Ticketing system is displayed in the Change Control Board. The following table provides a summary of each member of the Change Control Board:</p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Change Control Board Role</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Role</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Name</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Contact</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Responsibilities</p></td>
+	</tr>
+
+	<tr>
+		<td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+       </tr>
+</table>
 
 ==Roles and Responsibilities==
 
-<h3>Information is in under canvas..</h3>
+<p>The following table lists each project participant's specific duties during the change management process:</p>
+
+<table border="1" width="70%" align="center">
+	<tr>
+                <td bgcolor="lightblue"><p style="text-align:center;">Name</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Project Role</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Responsibilities</p></td>
+	</tr>
+
+	<tr>
+		<td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+                <td><p style="text-align:center;"></p></td>
+       </tr>
+</table>
 
 ==Change Control Process==
 
