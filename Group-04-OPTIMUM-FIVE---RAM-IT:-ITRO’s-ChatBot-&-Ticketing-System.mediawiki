@@ -1534,9 +1534,13 @@ It will be possible to establish the scope baseline by incorporating the scope d
 
 ==Schedule Management Approach==
 
-<p>There is a software called OpenProject, it was introduced and taught to the developers of the project. In OpenProject, the developers list, plans out, and monitor the parts of the project that moves the progress of building the program. </p>
+<p>There is a software called OpenProject, it was introduced and taught to the developers of the project. In OpenProject, there is a Gantt chart where the project team can monitor and assign deliverables, here lies the developers list, plan, and oversees the parts of the project that moves the progress of building the program.</p>
 
 <p>The said software helps the team to approach the schedule management plan. The developers include a specific format to be easily understood which reviews the progress now and then. This software also indicates the milestones of the project, which under these milestones are deliverables of each member that records the progress, roles, and responsibilities.</p>
+
+[[https://github-production-user-asset-6210df.s3.amazonaws.com/60862961/244270051-09d46957-65b7-4768-b580-32c38b154950.png|GanttChart1]]
+
+[[https://github-production-user-asset-6210df.s3.amazonaws.com/60862961/244270147-54d9e6a2-b9d6-49b8-83f5-0faeb5d99bc1.png|GanttChart2]]
 
 ==Schedule Control==
 
@@ -1552,7 +1556,7 @@ It will be possible to establish the scope baseline by incorporating the scope d
 
 <p>For the team to comply with these kinds of situations, we do not set or stack up the contents and the lists of deliverables from the schedule management plan for that it would be possible and still on track and thus maintain the consistency of the progress of the project if there will be changes from the schedules of each member, deliverables and the deadlines that can also affect the threshold which if managed well, the team will not have a hard time to re-adjust.</p>
 
-<p>The team allotted more or less 42% per week to comply with these circumstances, which will create a more or less 33% change in the threshold for the monthly deliverable or milestone of the project.</p>
+<p>The team allotted minimum of 2 days per week to comply with these circumstances, which will create an additional days with a minimum of 1 week of change in the threshold for the monthly deliverable or milestone of the project.</p>
 
 ==Scope Change==
 
