@@ -740,15 +740,67 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 <ul><ul>1.4.2.1 Cashier Log-in</ul></ul>
 <ul><ul>1.4.2.2 Home Screen</ul></ul>
 <ul><ul>1.4.2.3 Checkout Screen</ul></ul>
-<ul><ul>1.4.2.4 Generate Receipt </ul></ul>
+<ul><ul>1.4.2.4 Generate Receipt </ul></ul></ul>
+
+<ul>1.5 Phase III: Testing
+<ul>1.5.1 Requirements Analysis</ul>
+<ul>1.5.2 Test Planning </ul>
+<ul>1.5.3 Test Design</ul>
+<ul>1.5.4 Test Execution /ul>
+<ul>1.5.5 Test Evaluation </ul>
+<ul>1.5.6 System Integration Testing </ul>
+<ul>1.5.7 User Acceptance Testing </ul>
+<ul>1.5.8 System Testing</ul></ul>
+
+<ul>1.6 Phase IV: Implementation
+<ul>1.6.1 Deployment Planning </ul>
+<ul>1.6.2 Installation </ul>
+<ul>1.6.3 Data Migration </ul>
+<ul>1.6.4 User Training </ul>
+<ul>1.6.5 Monitor Progress </ul>
+<ul>1.6.6 Post Implementation Review </ul>
 </ul>
+
+<ul>1.7 Project Closeout/Completion
+<ul>1.7.1 Finalize Project Deliverables </ul>
+<ul>1.7.2 Confirm Project Completion</ul>
+<ul>1.7.3 Review All Contracts </ul>
+<ul>1.7.4 Review Documentation</ul>
+</ul>
+
+==Scope Verification==
+<p>This section is verifying Bregghan Point of Sales System to match with the features allocated by the project team. It ensures that every detail that is within the scope and objectives as well as specifications of the project will be met by the end of the project sprint and will be able to provide satisfactory results to the client the verification process is to be discussed by the project team as well as the project stakeholders.  </p>
+
+<p>Furthermore, Inspection of the final output will be done regularly by the developers to ensure that all features and programs will work accordingly to the original blueprint to compare, a thorough understanding of the scope and the actual deliverable is necessary. Following the inspection process to be done by the project team a set of factors like quality and performance measurements should be considered to provide consistency with the product structure and will reach an acceptance rate by the project stakeholders. </p>
+
+==Scope Control==
+<p>The Scope Control of the project as stated from the verification shows how the product will undergo different series of inspection by the project team, developers, stakeholders, and project manager. This part covers every aspect of the final product, including its features, functionalities, service, and quality. The project team also ensures that the product is regularly inspected to ensure that all developer-specified goals are achieved by the conclusion of the sprint.  </p>
+
+<p>During the inspection that will be done by the project team whenever there would be changes that needs to be conducted within the product the project manager will be the one tasked to ensure the monitoring of the progress should there be one and with the collaboration from the stakeholders as well as the developers and that any changes to the system should be documented to keep track of the output milestones however not any changes will be based on the project manager. The stakeholders, developers, and the project team can also inquire about changes they think that can improve the user experience of the client by the time the project is released and to also brainstorm every aspect that needs to be improved during this stage. </p>
 
 =Cost Management Plan=
 ==Introduction==
-<p>The Cost Management Plan is developed to ensure effective management of project costs throughout the project's lifecycle. It outlines the procedures and guidelines for measuring, reporting, and controlling costs associated with the Bregghan Mini Grocery Store project. The purpose of this plan is to identify the cost management approach, roles and responsibilities, and procedures for managing costs in a consistent and effective manner.</p>
+<p>The Cost Management Plan is developed to ensure effective management of project costs throughout the project's lifecycle. It outlines the procedures and guidelines for measuring, reporting, and controlling costs associated with the Bregghan Store Point of Sale System. This plan's purpose is to identify the cost management approach, roles and responsibilities, and procedures for managing costs consistently and effectively.  </p>
+
+<p>This plan is to establish a systematic method for efficiently overseeing and regulating the financial components of the POS (Point of Sale) system project. It empowers Bregghan to make well-informed choices, optimize the allocation of resources, and guarantee that the project is accomplished within the set budgetary limitations. </p>
 
 ==Cost Management Approach==
-<p>The cost management approach for the Bregghan Mini Grocery Store project will be to ensure that all costs are identified and monitored throughout the project lifecycle. This will be done by tracking all costs associated with the project and comparing them against the project budget. Any deviations from the budget will be analyzed, and corrective action will be taken to keep costs within the approved budget.</p>
+<p>The cost management approach for the Bregghan Store POS project will be to ensure that all costs are identified and monitored throughout the project lifecycle. This will be done by tracking all costs associated with the project and comparing them against the project budget. Any deviations from the budget will be analyzed, and corrective action will be taken to keep costs within the approved budget. </p>
+
+<p>The cost management approach for Bregghan Store POS System will be based on the following principles: </p>
+<li>Clear definition of costs<p>This will create and establish an estimate financial resource required for the POS system implementation. It ensures that all relevant expenses are identified and accounted for, enabling us to develop a realistic budget.</p></li>
+
+<li>Budget development and tracking<p>This involves creating a comprehensive budget plan that will help set clear financial parameters and constraints for the POS system project. It involves estimating the costs associated with hardware, software, licensing, implementation, training, maintenance, and any other relevant expenses. By defining the budget, this will determine the financial boundaries within which the project should be executed.</p></li>
+
+<li>Cost estimates<p>By having a clear understanding of the anticipated costs, this will evaluate different options, assess their financial feasibility, and select the most suitable solutions for the POS system</p></li>
+
+<li>Cost variance analysis<p>Through the comparison of actual incurred costs and budgeted costs, this will evaluate the project's alignment with the intended financial plan. This assessment allows for a comprehensive understanding of the project's effective management of financial resources.</p></li>
+
+<li>Cost management roles and responsibilities<p>This guarantees that every team member understands their individual responsibilities in overseeing costs. With clearly defined roles, team members can actively participate in activities such as estimating costs, creating budgets, tracking expenses, and implementing cost control measures.</p></li>
+
+<li>Approval process for changes<p>By establishing an approval process, this can thoroughly assess and evaluate any suggested modifications to the project's scope, requirements, or budget to determine their potential cost implications. This structured approach enables a thorough examination of the financial consequences before proceeding with any changes.</p></li>
+
+<li>Reporting and communication<p>This allows for timely decision-making, as stakeholders can assess the financial health of the project and take necessary actions if deviations from the plan occur. Additionally, clear communication channels enable effective coordination and collaboration among team members, ensuring that everyone is aligned with the project's financial goals and responsibilities.</p></li>
 
 <p>ROLES AND RESPONSIBILITIES:</p>
 
