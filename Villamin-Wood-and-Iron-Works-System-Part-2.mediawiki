@@ -2993,6 +2993,17 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 # Time conflicts: The deadlines provided may provide challenges in completing requirements and could result in conflicts with conducting regular meetings.
 # Technical difficulties: This may include internet problems and other technicalities that may be a constraint to communication processes.
 
+==Stakeholder Communication Requirements==
+<p> The Stakeholder Communication Requirements is vital for the project as it defines the communication needs of both the stakeholders and the project team. This also ensures that the information regarding the project will be delivered properly and efficiently. </p>
+<p>The Stakeholder Communication Requirements includes the following: </p>
+<p> 1.	Consistent updates
+-	It is important that all stakeholders are informed of the updates regarding the project regularly to keep them in the loop of what is happening during the development. </p>
+<p> 2.	Effective Communication
+-	This is crucial for conveying project-related information to stakeholders in a matter that is clear and shows that they can comprehend the messages and vice versa. </p>
+<p> 3.	Transparency
+-	It is important to establish transparency to gain the trust of the stakeholders. This involves openly discussing everything with the stakeholders including issues and risks. </p>
+
+
 ==Roles==
 <table border="1" width="70%" align="center">
  <tr>
@@ -3078,6 +3089,122 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <p>The Villamin Wood and Ironworks System requires understanding from the team of the communication methods and technologies to effectively communicate with the stakeholders. It is essential to consider varied factors and limitations in ensuring that the stakeholders will receive the information they need at the right time and in an efficient manner. This includes delivering project updates, progress reports, and other relevant information. Some factors to consider are the location of the stakeholders, the level of technical expertise of the stakeholders which should be considered to factor in how the team should communicate. Also, the budget and resources available. </p>
 
 <p> Based on the stated factors, it is important for the team to utilize the use of technologies such as project management software, email, telephone, and video conferencing for meetings. </p>
+
+==Communication Matrix==
+<table border="1" with ="100%" allign="center">
+<thead>
+<tr>
+<th>Risk ID</th>
+<th>Risk Rank</th>
+<th>Risk</th>
+<th>Description</th>
+<th>Category</th>
+<th>Destination/Owner</th>
+<th>Probability</th>
+<th>Impact</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RID 001</td>
+<td>1</td>
+<td>Technical Risks</td>
+<td>There is a risk that delays in development which leads to the risk of not finishing the project on time and other errors caused by the conflict.</td>
+<td>Technology</td>
+<td>Project Manager</td>
+<td>High</td>
+<td>High</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td>RID 002</td>
+<td>2</td>
+<td>Resource Risks</td>
+<td>There is a risk of having insufficient resources which may be needed to accomplish the project on time. Thus, resulting to delays and a budget overrun.</td>
+<td>Organizational</td>
+<td>Project Manager</td>
+<td>High</td>
+<td>High</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td>RID 003</td>
+<td>3</td>
+<td>Security Risks</td>
+<td>There is a risk of being hacked and compromising the data of the client.</td>
+<td>Security</td>
+<td>System Developer</td>
+<td>Low</td>
+<td>High</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td>RID 004</td>
+<td>4</td>
+<td>Changes in Technology</td>
+<td>There is a risk that a change in the industry of technology occurs which may require additional work or resources to adapt.</td>
+<td>Technology</td>
+<td>Project Manager</td>
+<td>Medium</td>
+<td>Medium</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td>RID 005</td>
+<td>5</td>
+<td>Unforeseen Circumstances</td>
+<td>There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.</td>
+<td>Natural</td>
+<td>Project Manager</td>
+<td>Low</td>
+<td>High</td>
+<td>In Progress</td>
+</tr>
+</tbody>
+</table>
+
+==Communication Flowchart==
+
+==Guidelines for Meetings==
+<p> Meetings play an important role in facilitating effective communication. To guarantee productive, efficient and successful meetings, it is essential to set up meeting guidelines. These guidelines should elaborate on the details about the meeting’s purpose and the procedures to be followed in the meetings. </p>
+<p>Below are the meeting guidelines to help in conducting effective meetings: </p>
+<p> 1.	Purpose of the Meeting
+-	All meetings should define its purpose so that everyone understands what it is for and how important it is. </p>
+<p> 2.	Goal of the Meeting 
+-	The goal should be defined in a way that it is clear for everyone to know what should be accomplished during the meeting. </p>
+<p> 3. Minutes
+-	Minutes of the meeting is essential and should be taken during the meeting and provided to all involved parties as it entails the summary of everything that occurred in the meeting. </p>
+<p> 3.	Attendance
+-	The people to attend the meeting should only include those who should be there, meaning only the people who can contribute in the discussions and the stakeholders who need to be informed. </p>
+
+==Communication Standards==
+<p>Communication standards for the Villamin Wood and Ironworks System are the following: </p>
+<p> 1.	Timely Response
+-	Respond to messages and emails efficiently to ensure that delays can be avoided. </p>
+<p> 2.	Clear and Concise Messages
+-	Communicate information in this manner to ensure that the recipient of the message understands clearly without any confusion to avoid issues. </p>
+<p> 3.	Use of Appropriate Communication Channels
+-	Select the appropriate communication channel or platform for each situation may it be an email, online meeting, or face to face meeting. </p>
+<p> 4.	Regular Updates
+-	Keep the stakeholders informed about the project progress and other information which may require their attention. </p>
+
+==Communication Escalation Process==
+	
+<p> The ideal Communication Escalation Process includes the following: </p>
+<p> 1.	Identify the Problem
+-	This is the first step as the problem should be broken down an identified before we proceed to any escalation or resolution. </p>
+<p> 2.	Look for a Resolution
+-	This can be done with the team to understand what caused the issues and look for the right ways to resolve it. </p>
+<p> 3.	Escalate to Higher Management
+-	This only occurs when the issue cannot be resolved and requires further review from higher management. </p>
+<p> 4.	Documentation
+-	It is important to document the entire escalation process from identifying the problem to its resolution. </p>
+<p> 5.	Review Escalation Process
+-	This can be reviewed in order to learn from the previous issues and find ways to further improve and avoid those circumstances. </p>
+
+
+
 
 =Implementation Plan=
 ==Executive Summary==
