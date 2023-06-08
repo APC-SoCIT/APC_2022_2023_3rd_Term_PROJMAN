@@ -528,39 +528,74 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 </table>
 
 ==Stakeholder Analysis==
-<p>The stakeholder that the project has is Ms. Devilyn Ligligen. She is the client of the team and is categorized as the priority during the development of the project. Her needs/requirements should be adhered by the team and all of her requests must be taken into consideration. Furthermore, the client should always be present during meetings for her to monitor the progress of the team and to make sure that all her requirements are met. The technique that the team would incorporate is the SWOT analysis. This will help the team identify the things that the client lacks and it helps them understand the potential impact that the stakeholder could have on the project.</p>
+<p>The stakeholder analysis is an important part of this documentation as it helps the project manager identify which stakeholders have the biggest influence on the project. In addition, having a stakeholder analysis can determine which stakeholders should be considered throughout the project development. With this part of the document, the project team could identify stakeholders that need prioritization so that they would know how to communicate with them throughout the project's development. The table listed identifies the project stakeholders which shows their corresponding impact on the project. </p>
 
-==Strengths==
-<ul>
-  <li>Customers around the area are purchasing to Bregghan to resupply their sari sari stores.</li>
-  <li>Bregghan offers three kinds of sales for their customers. Wholesale, Bulk, and Retail.</li>
-  <li>Items are being priced competitively.</li>
-</ul>
-
-==Weakness==
-<ul>
-  <li>Bregghan only use pen and paper as a system to manage their stocks/supplies.</li>
-  <li>Customers' purchases are manually calculated using a calculator, which might lead to human error.</li>
-  <li>Receipts are handwritten.</li>
-  <li>Stocks are only replenished when the staff notices that there are no items stored.</li>
-  <li>The store’s basis to record the items that was sold is only in the form of a receipt.</li>
-  <li>Human errors might occur with their current POS system since all items that are bought from the store are written in a booklet of receipt.</li>
-  <li>Miscalculation of the stocks when checking every night.</li>
-</ul>
-
-==Opportunities==
-<ul>
-  <li>Client buys supplies from corporations/ big companies.</li>
-  <li>Bregghan store is a growing grocery around the vicinity with no competitors.</li>
-  <li>The store is located on a high populated residential area which is accessible within a few individuals.</li>
-</ul>
-
-==Threats==
-<ul>
-  <li>Sundry types of stores are growing and visible in the area.</li>
-  <li>An external hazard like the pandemic may affect the store sales due to the closing of sari sari stores in the area.</li>
-  <li>Rehabilitation of streets are frequent in the area which may result to a narrower street which is hard for the suppliers of the store to reach it.</li>
-</ul>
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Name</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Power</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Interest</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Roles</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Stakeholder Contribution</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Strategic Engagement on Stakeholder</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Ms. Devilyn Ligligen</p></td>
+		<td><p style="text-align:center;">High/High</p></td>
+		<td><p style="text-align:center;">High</p></td>
+		<td><p style="text-align:center;">Project Sponsor/Internal User of the system </p></td>
+		<td><p style="text-align:center;">Approval of the Project and usage of the system </p></td>
+		<td><p style="text-align:center;">Schedule meetings </p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Cashier</p></td>
+		<td><p style="text-align:center;">Low/High</p></td>
+		<td><p style="text-align:center;">High</p></td>
+		<td><p style="text-align:center;">Internal user of the system </p></td>
+		<td><p style="text-align:center;">Usage of the system </p></td>
+		<td><p style="text-align:center;">Schedule meetings </p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Ramon Benedict Elloso</p></td>
+		<td><p style="text-align:center;">High/High</p></td>
+		<td><p style="text-align:center;">High</p></td>
+		<td><p style="text-align:center;">Project Manager </p></td>
+		<td><p style="text-align:center;">Manage the team and project development </p></td>
+		<td><p style="text-align:center;">Schedule meetings </p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Carlos Ligligen</p></td>
+		<td><p style="text-align:center;">Low/High</p></td>
+		<td><p style="text-align:center;">High</p></td>
+		<td><p style="text-align:center;">Back-End Developer </p></td>
+		<td><p style="text-align:center;">Create the back-end system </p></td>
+		<td><p style="text-align:center;">Schedule meetings </p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Andrei Gabriel Palma</p></td>
+		<td><p style="text-align:center;">Low/High </p></td>
+		<td><p style="text-align:center;">High</p></td>
+		<td><p style="text-align:center;">QA (Quality Assurance) Tester </p></td>
+		<td><p style="text-align:center;">Test functionality and usability of the system </p></td>
+		<td><p style="text-align:center;">Schedule meetings </p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Donne Paolo Tarinay</p></td>
+		<td><p style="text-align:center;">Low/High </p></td>
+		<td><p style="text-align:center;">High</p></td>
+		<td><p style="text-align:center;">Front-End Developer </p></td>
+		<td><p style="text-align:center;">Create the front-end of the system </p></td>
+		<td><p style="text-align:center;">Schedule meetings </p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Customer</p></td>
+		<td><p style="text-align:center;">Low/High</p></td>
+		<td><p style="text-align:center;">Low</p></td>
+		<td><p style="text-align:center;">---</p></td>
+		<td><p style="text-align:center;">---</p></td>
+		<td><p style="text-align:center;">---</p></td>
+	</tr>
+</table>
 
 =Scope Management Plan=
 ==Introduction==
