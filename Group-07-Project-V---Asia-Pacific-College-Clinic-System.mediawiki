@@ -262,6 +262,23 @@ The project aligns with this goal by improving the experience of patients in ter
 </p>
 
 ==Cost Benefit Analysis==
+<p>To assess the feasibility of the proposed project to digitize the health record system and add a scheduling system to Asia Pacific College's clinic, a cost benefit analysis has been conducted. This analysis aims to compare the costs associated with implementing the project against the anticipated benefits it is expected to bring.</p>
+
+<p><b>Benefits</b></p>
+<ul>
+<li><b>Save Time Finding Records:</b>The digitized health record system and scheduling system are expected to significantly reduce the time and effort required for managing records, generating reports, and scheduling appointments. This will result in improved efficiency and productivity for the clinic nurse.</li>
+<li><b>Improved record-keeping:</b>The system will improve the accuracy and security of patient records, reducing the risk of errors and loss of records.</li>
+<li><b>Enhanced patient experience:</b>The new system will enable easier appointment scheduling, and provide timely notifications to patients, resulting in a better overall experience for students and faculty using the clinic's services.</li>
+<li><b>Saves Room Space:</b>By eliminating most of the physical records and implementing a digital system, valuable clinic space will be freed up for other storage of clinic equipment.</li>
+</ul>
+
+<p><b>Cost</b></p>
+<ul>
+<li><b>Ongoing maintenance costs:</b>Once the system is implemented, there will be ongoing costs associated with maintaining and supporting the system, including bug fixes, updates, and technical support.</li>
+<li><b>Operational costs: </b>The cost of operating the system, including internet connectivity and there may be licensing or subscription costs for software and cloud storage services.</li>
+<li><b>Development and implementation costs:</b>This includes the cost of developing the digital health record and scheduling system, which involves software development, database integration, and user interface design. Additionally, there may be costs associated with training the clinic staff to use the new system effectively.</li>
+</ul>
+
 
 ==Alternatives Analysis==
 <p>An alternative analysis for E-Cliniq system for Asia Pacific College’s clinic include the following options:</p>
@@ -387,6 +404,63 @@ Overall, the business case for the upgrade to the health record system is strong
       </tbody>
 </table>
 ==Summary Budget==
+<p><b>List component project costs:</b></p>
+<table border="1" width="70%" align="center">
+   <tr>
+      <th></th>
+      <th>Duration/Frequency and Trigger</th>
+      <th>Total Cost in Php (₱)</th>
+      </tr>
+      <tbody>
+         <tr>
+            <td>Direct Costs</td>
+         </tr>
+      <tr>
+      <td>Manpower Cost</td>
+      <td>9 months</td>
+      <td>₱513,000.00</td>
+      </tr>
+      <tr>
+      <td>Maintenance Cost</td>
+      <td>1, <i>on-call</i></td>
+      <td>₱15,500.00</td>
+      </tr>
+      <tr>
+      <td>Contingency Cost</td>
+      <td>9 months</td>
+      <td>₱117,000.00</td>
+      </tr>
+      <tr>
+      <td>Total Direct Project Cost</td>
+      <td></td>
+      <td>₱645,000.00</td>
+      </tr>
+</tbody>
+
+</table>
+<table border="1" width="70%" align="center">
+<tr>
+      <th>Miscellaneous Costs</th>
+      </tr>
+     <tbody>
+      <tr>
+         <td>Equipment</td>
+         <td>Bought once</td>
+         <td>₱203,000.00</td>
+      </tr>
+      <tr>
+         <td>Subscription</td>
+         <td>Once Yearly</td>
+         <td>₱6,000.00</td>
+      </tr>
+      <tr>
+         <td>Total Miscellaneous Cost</td>
+         <td><i>for the first year</i></td>
+         <td>₱209,000.00</td>
+      </tr>
+      </tbody>
+</table>
+
 
 ==Project Approval Requirements==
 <p>The requirements for the project entail that the objectives and client pain points be solved during the implementation of the project, these would be:</p>
