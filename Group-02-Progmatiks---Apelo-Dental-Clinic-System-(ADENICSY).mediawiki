@@ -366,7 +366,8 @@ Based on this analysis, it appears that Alternative 3, developing and implementi
 ==Summary Budget==
 <p>The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project. </p>
 <br>
-<p><b>Summary Budget - List component project costs</b></p>
+
+<p><b>Summary Budget - List component project costs:</b></p>
 <table border="1" width="70%" align="center">
    <tr>
       <th></th>
@@ -375,7 +376,7 @@ Based on this analysis, it appears that Alternative 3, developing and implementi
       </tr>
       <tbody>
          <tr>
-            <td>Direct Costs</td>
+            <td><b>Direct Costs</b></td>
          </tr>
       <tr>
       <td>Manpower Cost</td>
@@ -1369,11 +1370,10 @@ The budget includes direct and indirect costs, and it is designed to provide the
 ==Quality Objectives==
 <br>
 <ul>
-<li>Make sure the system has complete functions that also show easier navigation and great responsiveness. </li>
-<li>The criteria’s requested by the client to be met. </li>
-<li>To achieve a quality standard not only for the client but also to the patients they serve. </li>
-<li>Clarify the roles and responsibilities of each member. </li>
-<li>Establish objectives that would manage and uphold the project quality across the course of the subject. </li>
+<li>Quality assurance: Implement quality assurance processes and procedures to validate the functions, performance, and usability of the system.</li>
+<li>Testing: Validating and verification of all the functions must be done to ensure that the system adheres to the expectations of the relevant stakeholders.</li>
+<li>Risk Management: Identify potential risks and vulnerabilities of the E-Cliniq system both internal and external.</li>
+<li>Training and competence: Ensure that the roles and responsibilities of relevant stakeholders are established and have proper training on how to use the E-Cliniq system.</li>
 </ul>
 <br>
 ==Quality Management Plan==
