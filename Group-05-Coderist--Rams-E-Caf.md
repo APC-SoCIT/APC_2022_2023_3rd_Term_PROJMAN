@@ -62,7 +62,7 @@
 <br/>
 
 =Company Profile=
-<p>The cafeteria is a facility of Asia Pacific College (APC) that is used by the students, staff, administrators, and faculty members of the school.
+<p>The cafeteria is a facility of Asia Pacific College (APC) which is used by the students, staff, administrators, and faculty members of the school.
 </p>
 =Business Case=
 ==Executive Summary==
@@ -1163,8 +1163,7 @@ Furthermore, before implementing any scope changes, the project team must ensure
   The team made a tabular view to present key project components, milestones, and timelines in a structured format, facilitating easy reference, tracking, and analysis.
 </p>
 
-</head>
-<body>
+
 <table align="center" border-collapse="collapse" width="50%">
   <tr>
     <th>Level 1</th>
@@ -3920,9 +3919,7 @@ Furthermore, before implementing any scope changes, the project team must ensure
     </ol>
     <p>By following these guidelines, Rams E-Caf can conduct productive and efficient meetings that facilitate effective communication, collaboration, and decision-making among project stakeholders.</p>
   
-    <title>Communication Standards and Escalation Process</title>
-  </head>
-  <body>
+  ==Communication Standards and Escalation Process==
     ==Communication Standards==
     <ul>
       <li>Standardized Templates: Developing and using standard templates for project communications, such as status reports, meeting agendas, and minutes, can ensure consistency and clarity in the information being shared.</li>
