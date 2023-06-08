@@ -191,7 +191,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 
 <h3>Project Assumptions</h3>
 <p>Listed below are the main assumptions for the project: </p>
-<ul>
+
   <li>All necessary funding and resources will be secured and available for the duration of the project.</li>
   <li>All stakeholders will be available and able to provide input as needed throughout the project lifecycle.</li>
   <li>There will be no major technological or market disruptions that would impact the project's success.</li>
@@ -202,7 +202,6 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
   <li>The project team will be able to effectively communicate and collaborate throughout the project lifecycle.</li>
   <li>The project will not have a significant negative impact on the environment, community, or stakeholders.</li>
   <li>The project will result in the anticipated benefits and outcomes as described in the business case.</li>
-</ul>
 
 <h3>Project Constraints</h3>
 <p>Listed below are the following constraints of the production of the project: </p>
@@ -257,7 +256,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 
 <p>Regular and effective communication and collaboration between the project team and key stakeholders, including senior management, play a vital role in ensuring strategic alignment. It is essential to actively involve stakeholders throughout the project lifecycle and seek their feedback to validate that the POS system is meeting strategic goals and delivering the desired impact on the organization's overall performance. </p>
 
-==6. Cost Benefit Analysis==
+==Cost Benefit Analysis==
 <p>Benefits:</p>
 <p>The following section in the document provides a detailed examination of the costs and benefits of the Bregghan POS System project. The aim of this analysis is to assess the financial viability of the project, considering the expenses as well as the projected advantages of the suggested system. The findings of the analysis will assist in determining if the project is a valuable investment for the client. </p>
 
@@ -342,7 +341,7 @@ vendor. However, this option was rejected due to the lack of control over the pr
   <li>The Bregghan Mini Grocery Store has the environment to reinforce the development, implementation, and the maintenance of the project. </li>
   <li>The budget and the project timeline will remain unchanged throughout the project's development. </li>
   <li>The project will be managed and foreseen by the project sponsor and stakeholder. All the approvals or permission necessary will be gained promptly. </li>
-  <liThe staff and the manager of the of the Bregghan Mini Grocery Store will gain all the necessary knowledge and skills to adapt to their new system as the developers will provide adequate time to teach them. ></li>
+  <liThe staff and the manager of the of the Bregghan Mini Grocery Store will gain all the necessary knowledge and skills to adapt to their new system as the developers will provide adequate time to teach them.</li>
 </ul>
 
 ==Preliminary Scope Statement==
@@ -439,44 +438,44 @@ vendor. However, this option was rejected due to the lack of control over the pr
 	<tr>
 		<td><p style="text-align:center;">Devilyn Ligligen<br></p></td>
 		<td><p style="text-align:center;">Business Owner/Manager</p></td>
-		<td><p style="text-align:center;">Internal<br></p></td>
+		<td><p style="text-align:center;">Internal</p></td>
 		<td><p style="text-align:center;">bligligen@gmail.com </p></td>
 
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Cashier<br></p></td>
+		<td><p style="text-align:center;">Cashier</p></td>
 		<td><p style="text-align:center;">Cashier Employee</p></td>
-		<td><p style="text-align:center;">Internal<br></p></td>
+		<td><p style="text-align:center;">Internal</p></td>
 		<td><p style="text-align:center;">bregghan@gmail.ccom </p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Ramon Benedict Elloso<br></p></td>
+		<td><p style="text-align:center;">Ramon Benedict Elloso</p></td>
 		<td><p style="text-align:center;">Project Manager</p></td>
 		<td><p style="text-align:center;">Internal<br></p></td>
-		<td><p style="text-align:center;">bedictmann@gmail.com</p></td></td>
+		<td><p style="text-align:center;">bedictmann@gmail.com</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Carlos Ligligen<br></p></td>
+		<td><p style="text-align:center;">Carlos Ligligen</p></td>
 		<td><p style="text-align:center;">Team Member</p></td>
-		<td><p style="text-align:center;">Internal<br></p></td>
-		<td><p style="text-align:center;">ccligligen@gmail.com</p></td></td>
+		<td><p style="text-align:center;">Internal</p></td>
+		<td><p style="text-align:center;">ccligligen@gmail.com</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Andrei Gabriel Palma<br></p></td>
+		<td><p style="text-align:center;">Andrei Gabriel Palma</p></td>
 		<td><p style="text-align:center;">Team Member</p></td>
 		<td><p style="text-align:center;">Internal<br></p></td>
-		<td><p style="text-align:center;">gabriel.palmaandrei@gmail.com </p></td></td></td>
-<tr>
-		<td><p style="text-align:center;">Donne Paolo Tarinay<br></p></td>
+		<td><p style="text-align:center;">gabriel.palmaandrei@gmail.com </p></td>
+        <tr>
+		<td><p style="text-align:center;">Donne Paolo Tarinay</p></td>
 		<td><p style="text-align:center;">Team Member</p></td>
-		<td><p style="text-align:center;">Internal<br></p></td>
-		<td><p style="text-align:center;">donnetarinay@gmail.com </p>
+		<td><p style="text-align:center;">Internal</p></td>
+		<td><p style="text-align:center;">donnetarinay@gmail.com </p></td>
 	</tr>
-<tr>
-		<td><p style="text-align:center;">Customer<br></p></td>
+        <tr>
 		<td><p style="text-align:center;">Customer</p></td>
-		<td><p style="text-align:center;">External<br></p></td>
-		<td><p style="text-align:center;">----@gmail.com</p>
+		<td><p style="text-align:center;">Customer</p></td>
+		<td><p style="text-align:center;">External</p></td>
+		<td><p style="text-align:center;">----@gmail.com</p></td>
 	</tr>
 
 </table>
