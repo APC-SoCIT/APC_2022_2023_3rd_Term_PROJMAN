@@ -1692,21 +1692,28 @@ changes and deadlines for the modifications will contribute to the project's suc
        </tr>
 
        <tr>
-		<td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
+		<td><p style="text-align:center;">Jayson Aloya</p></td>
+                <td><p style="text-align:center;">Project Manager</p></td>
+                <td><p style="text-align:center;">Submit a change request if deemed necessary.</p>
+<p>Review the change request log and reports to ensure alignment with changes.</p>
+<p>Conduct an impact analysis on every modification request to identify those with low and high impacts. This will help the Project Sponsor in making judgments on requests with significant consequences.</p>
+<p>Review the change request log and reports to ensure alignment with changes.</p>
+<p>Assist in managing the entire change request procedure.</p>
+</td>
        </tr>
 
        <tr>
-		<td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
+		<td><p style="text-align:center;">Development Team</p></td>
+                <td><p style="text-align:center;">Developers</p></td>
+                <td><p style="text-align:center;">Carry out the technical part of the action plan for change requests.</p>
+<p>Review the change request log and reports to ensure alignment with changes.</p></td>
        </tr>
 
        <tr>
-		<td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
-                <td><p style="text-align:center;"></p></td>
+		<td><p style="text-align:center;">Documentation Team</p></td>
+                <td><p style="text-align:center;">Documentation</p></td>
+                <td><p style="text-align:center;">Carry out the documentation part of the action plan for change requests.</p>
+<p>Review the change request log and reports to ensure alignment with changes.</p></td>
        </tr>
 </table>
 
