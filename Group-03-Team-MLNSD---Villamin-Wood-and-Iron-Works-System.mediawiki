@@ -85,16 +85,17 @@
 ==Executive Summary==
 
 ==Issue==
-<p>The issue that arises as a business problem for our client is the decline in sales following the recent pandemic which caused our client to shut down their business for more than 5 months. Not only that but after the pandemic, other businesses started to adapt with innovative technologies and marketing opportunities as businesses were able to cope with changes that benefited the growth of their sales and market through integrating online tools which our client has not maximized and thus resulting to their decline in sales and lack of customer reach. </p>
-<p> The project was created to address the issue in their current business process. Their business process consists of manual methods in terms of taking orders, monitoring inventory, and recording of sales. This may be a widespread problem especially now after the pandemic as most businesses adapted to new methods incorporating the use of technology for their benefit. For this reason, the Villamin Wood and Ironworks company is looking to address those problems to innovate and improve their business. </p>
+<p>The decline in sales following the recent pandemic, which forced our client to shut down their business for more than five months, is the issue that presents itself as a problem for their business. In addition, other businesses began to respond to the pandemic with innovative technologies and marketing opportunities. These businesses were able to adapt to changes that helped them grow their sales and market by integrating online tools, which our client did not use to their full potential, resulting in a decline in sales and a lack of customer reach. </p>
+<p> The project was created to address the issue in their current business process. Their business process consists of manual methods in terms of taking orders, monitoring inventory and recording sales. This may be a common problem, especially now after the pandemic as most businesses adapted to new methods incorporating the use of technology for their benefit. For this reason, the Villamin Wood and Ironworks company is looking to address those problems in order to innovate and improve their business. </p>
 
 ==Anticipated Outcomes==
 <p>Once the project has been implemented, this will by leading to more customer interaction with their business as the online store will add credibility and improve the customer’s online experience and it will also lead into more sales as more orders can be processed at a time with the help of the ordering system. </p> 
-<p>The project’s end state will be operated and monitored by the client and will run smoothly as they continue to incorporate their products online and cater to the customer needs faster and in a more convenient manner. </p>
-==Recommendation==
-<p>The team addresses the business’ problem by creating a system or an ordering system which will help the business improve. In a matter of time and client decision, the system may be upgraded, and more features could be added apart from the general features that are needed for the first deployment of the system. This system will be beneficial to the Villamin Wood and Iron Works business with the use of mobile devices or web browsers, customers will be able to quickly access well-organized item listings, increasing convenience for both companies and consumers. Also, this system contains example designs of the items and customers will be able customize their design that was given by the business. This eliminates the need for customers to physically visit the store, and transactions can be done online to save time and effort instead of having to go into the business physically. </p>
+<p>The client will manage and monitor the project's final state, which will run smoothly as they continue to incorporate their products online and meet customer needs faster and more conveniently. </p>
 
-==Justification==
+==1.1 Recommendation==
+<p>The team addresses the business’ problem by creating a system or an ordering system which will help the business improve. In a matter of time and client decision, the system may be upgraded, and more features could be added apart from the general features that are needed for the first deployment of the system. This system will be beneficial to the Villamin Wood and Iron Works business with the use of mobile devices or web browsers, customers will be able to quickly access well-organized item listings, increasing convenience for both companies and customers. Also, this system contains example designs of the items and customers will be able customize their design that was given by the business. This eliminates the need for customers to physically visit the store, and transactions can be done online to save time and effort instead of having to go into the business physically. </p>
+
+==1.2 Justification==
 <p>Applying the system created for Villamin Wood and Iron Works will increase the possibility of expanding their customer reach and increase product sales in comparison to their initial use of Facebook Page. This ordering system will help customers order their desired products even when they are at home or at their workplace. It will provide easy communication between the customer and the client, and an easy transaction for the products or items, this will help Villamin Wood and Iron Works gain more customers and increase their sales continuously without errors or problems. However, this system will not replace their initial page in Facebook, but rather it will help the system to be more advertised and seen by other potential customers. </p>
 
 ==Business Case Analysis Team==
@@ -142,12 +143,12 @@
  </tr>
  </table><br/>
 
-==Problem Definition==
-
-===Problem Statement===
+==3 Problem Definition==
+===3.1 Problem Statement===
 <p>The project’s business client, Villamin Wood, and Iron Works, owned by Mr. Manuel Villamin Jr. is a manufacturing enterprise where products are made to order. The company has been operational since 1983, in its span, the company’s estimated profit is 600,000 per year. The problem started when the lockdown happened due to the pandemic, which the company did not anticipate that their profit would decrease by 30%. Since then, they started to use and create their own Facebook page to help increase their clientele. </p>
 <p> However, Villamin Wood and Iron Works’ Facebook page became outdated, and not knowing how to create an advertisement and on how to improve their page to help them market the company towards customers, other competitors covered their page. </p>
-===Organizational Impact===
+
+===3.2 Organizational Impact===
 <p>There are no new roles required for this project. But existing roles will have to tend for the project to work as intended. The following are the existing roles and their responsibilities: </p>
 
 # Store Manager
@@ -161,15 +162,15 @@
 #* Managing the System’s Database.
 #* Monitor business performance through Dashboard Reports.
 
-===Technology Migration===
-<p>Villamin Wood and Iron Works operates in a Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally in PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a Form for the client to fill if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided sixteen of their products lists that have been then migrated to the system manually in preparation for the initial deployment. </p>
+===3.3 Technology Migration===
+<p>Villamin Wood and Iron Works operates in a Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally in PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a form for the client to fill if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided sixteen of their products lists that have been then migrated to the system manually in preparation for the initial deployment. </p>
 
-==Project Overview==
-<p> The project created for Villamin Wood and Iron Works upon their request is an ordering system to help improve their current business process which is why the team developed an ordering system. Part of the goals and objectives of this project is to boost the number of customers and improve the time it takes for transactions to be completed.  </p>
+==4 Project Overview==
+<p> The project created for Villamin Wood and Iron Works upon their request is an ordering system to help improve their current business process which is why the team developed an ordering system. The goals and objectives of this project is to boost the number of customers and improve the time it takes for transactions to be completed.  </p>
 
 <p>As the project progresses there will be a list of project assumptions, constraints, and milestones along the way. However, the preliminary list which the team will build upon is provided below. </p>
 
-===Project Description===
+===4.1 Project Description===
 <p>The project which is an Ordering System will consist of features created to benefit both the client and their customers will be implemented to address the business problems of the client. Utilizing the features of the online store will help to solve the business problems. </p>
 
 <p>The key features are as follows: </p>
@@ -178,13 +179,13 @@
 # <b>Customer Sign-up/Log-in </b>– To have accounts that can interact with the online store.
 # <b>Admin Dashboard </b>– To be able to monitor the sales and inventory.
 
-===Goals and Objectives===
+===4.2 Goals and Objectives===
 <p>The business goals and objectives supported by the project created by MLNSD are prominently observed as requested by the client (Villamin Wood and Iron Works) which is to boost the number of customers and to increase sales with the help of an online store. The project addresses those objectives by developing the online store with an ordering system and having the ability to manage stocks and view reports on the dashboard. Listed below are the specific objectives of the project: </p>
 
 # To boost the number of customers by creating a convenient alternative for their Facebook page through our systems which minimizes the amount of clicks it takes to order by two clicks.
 # To create features for the system such as the add-to-cart and check-out feature which will improve the time it takes for transactions to complete from the previous 2-3 days and now can be accomplished within 1-2 days.
 
-===Project Performance===
+===4.3 Project Performance===
 <p>A quantitative criterion to gauge the project's performance will be used to assess its success. The following criteria will be used to gauge the project's success using KPI: </p>
 
 # Budget Plan </b>– The team will look for inefficiency and waste to guarantee quality control in project management procedures. They will also monitor the construction of the project to ensure that the budget will not exceed.
@@ -193,19 +194,19 @@
 # Team Satisfaction </b>– The team will make sure that every team member increases productivity and does their work satisfactorily.
 # Client satisfaction </b>– The team will offer a Client Satisfaction Survey evaluation to gauge the project's effectiveness and efficiency.
 
-===Project Assumptions===
+===4.4 Project Assumptions===
 # There will be communication between the team and the company if there are complications occur upon deployment.
 # The business and the team will discuss any additional resources.
 # Additional features or changes will be added depending on the discussion and agreement between the team and the client.
 
-===Project Constraints===
+===4.5 Project Constraints===
 <p>These are the following constraints pertain to Villamin Wood and Iron works: </p>
 
 # It is necessary to purchase if there are any additional requirements within the allocated budget and time limit. The group will guarantee to effectively accomplish the targets to meet the undertaking goals, and the group will guarantee to effectively accomplish the requirements.
 # The software that will be used is necessary to be compatible with our IT platforms.
 # To avoid conflict, any additional requirements should be discussed prior to the deadline.
 
-==Major Project Milestones==
+===4.6 Major Project Milestones===
 <p>According to the milestone schedule below, the project plan will be submitted and approved. After the project plan is approved, resources will be assigned to it. Any schedule adjustments that may affect milestones must be approved by the Project Sponsor. The project plan will include a thorough schedule. </p>
 
 <table border="1" width="70%" align="center">
@@ -287,22 +288,22 @@
  </tr>
 </table>
 
-==Strategic Alignment==
+==5.Strategic Alignment==
 <p>By ensuring that the Ordering System is in line with Villamin Wood and Iron Work's strategic goals and objectives, the team MLNSD will optimize the project's value and guarantee its contribution to the company's long-term success. </p>
 
-; Villamin Wood and Iron Works aims to deliver superior craftsmanship and innovative solutions in the fields of woodworks, ironworks, glass fabrication, and aluminum works.
+<p><b>Villamin Wood and Iron Works aims to deliver superior craftsmanship and innovative solutions in the fields of woodworks, ironworks, glass fabrication, and aluminum works.</b></p>
 
-: A flexible, scalable ordering system that can support the development and growth of the company in the future. The ordering system allows customers to customize orders based on their specific requirements. This flexibility is crucial, as it aligns with the company's commitment to delivering unique, tailored quality. The system should enable customers to choose from a range of options, such as design elements, finishes, sizes, and materials for iron, glass, and aluminum works.
+<p>A flexible, scalable ordering system that can support the development and growth of the company in the future. The ordering system allows customers to customize orders based on their specific requirements. This flexibility is crucial, as it aligns with the company's commitment to delivering unique, tailored quality. The system should enable customers to choose from a range of options, such as design elements, finishes, sizes, and materials for iron, glass, and aluminum works. </p>
 
-; Villamin Wood and Iron Works aim to exceed customer expectations and enhance the functionality and visual appeal of their products.
+<p><b>Villamin Wood and Iron Works aim to exceed customer expectations and enhance the functionality and visual appeal of their products. </b></p>
 
-: By aligning with this goal, an ordering system is a customer-centric approach that enhances the customer experience and provides convenience. The ordering system is designed to be user-friendly and intuitive and includes features that make it simple for clients to place orders and track progress. 
+<p>By aligning with this goal, an ordering system is a customer-centric approach that enhances the customer experience and provides convenience. The ordering system is designed to be user-friendly and intuitive and includes features that make it simple for clients to place orders and track progress. </p>
 
-; Villamin Wood and Iron Works strive to become the preferred choice for clients seeking premium manufacturing services.
+<p><b>Villamin Wood and Iron Works strive to become the preferred choice for clients seeking premium manufacturing services.</p></b>
 
 : By aligning the ordering system with the strategic goals of the company of becoming the preferred choice for premium manufacturing services, the ordering system will enhance the overall customer experience by allowing customers to easily navigate through the process. Incorporate features such as real-time order tracking and customization. Lastly, by improving operational efficiency to optimize the workflow and automate processes within the ordering system to minimize errors, reduce lead times, and improve overall operational efficiency.
 
-==Cost Benefit Analysis==
+==6.Cost Benefit Analysis==
 <p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those customers purchased a product, we could safely say that there will be a 50% increase in sales. This table is not final, and this is introduced for the client’s approval: </p>
 
 <table border="1" width="100%" allign="center">
@@ -329,7 +330,7 @@
 </tbody>
 </table>
 
-==Alternatives Analysis==
+==7. Alternatives Analysis==
 <p>There are other alternatives that the team has put into consideration for the Business's concern. Listed are those alternative solutions alongside with why the team did not lean towards it: </p>
 
 # Focus on the current business process.
@@ -338,6 +339,8 @@
 # Enhance the company's Facebook page.
 #* The client already has a Facebook page, but this limits them from customizing their page in a way that may help them introduce their company to the mass public. 
 # 3. Sell products through available ecommerce websites.
+
+==8.Approvals==
 
 =Project Charter Plan=
 ==Executive Summary==
