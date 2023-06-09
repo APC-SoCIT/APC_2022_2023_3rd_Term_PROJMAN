@@ -122,11 +122,11 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <p> Continuous client feedback collection and analysis, system performance monitoring, and internal audits to find areas for improvement will all be part of the development team's continuous improvement process. This kind of setup will be incorporated into the venture to guarantee that the Villamin Wood and Iron Works System ensures quality standards are met as well as proactively adjusts to developing client needs. </p>
 
 ==Human Resource Management Plan==
-==Introduction==
+===Introduction===
 <p> Having a strong project team that will manage and help structure the project is what human resource management strategies are. It is one of the most crucial parts to the success of the project, as it helps to assist in establishing the appropriate and qualified people that will work on the project. This strategy includes the roles and responsibilities, communication protocols, and performance management issues. </p>
 <p> With the use of this plan, the team can successfully manage the project as it will make sure that all team members are working effectively and understands their role and responsibilities, that communications are open, that their performance while working and on what their working on is monitored as their contribution to the success of the project. </p>
 
-==Roles and Responsibilities==
+===Roles and Responsibilities===
 <p> For the project to be completed successfully, a strong human resources management strategy is essential for any project. It describes the duties and responsibilities of each member of the project team, stakeholders, making sure that everyone is aware of their contributions and how they fit into the overall picture. </p>
 <p> The strategy also specifies the degree of authority and decision-making held by each team member, making sure that resources are distributed and used efficiently. By distinctly defining the strategy will ensure that the appropriate individuals are in the right positions based on their competencies and skill requirements to the appropriate roles to ensure project success. </p>
 
@@ -154,14 +154,10 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Project Stakeholder</p></td>
- <td><p style="text-align:center;">Checks the approved changes in the deliverables. Authority to revise an 
-     information that will mislead the goals of the project. </p></td>
- <td><p style="text-align:center;">Ensures that the deliverables are complete before sending and having it 
-     checked by the project sponsor. Organize meetings with the project manager and project team members for 
-     the feedback from the project sponsor. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.
-     Knowledge of the company for precise information. </p></td>
+ <td><p style="text-align:center;">Project Owner</p></td>
+ <td><p style="text-align:center;">Make choices about the growth and direction of a product. They have the power to establish requirements, set priorities for the product backlog, and make critical decisions on the features, functionalities, and release timelines. </p></td>
+ <td><p style="text-align:center;">Responsible of representing the interests of the stakeholders, working with the development team, and making sure the product satisfies consumer needs and accomplishes business objectives. Throughout the course of the product's lifecycle, they are responsible for maximizing its value and making strategic decisions. </p></td>
+ <td><p style="text-align:center;">Stakeholder Management, Leadership and Collaboration Skills, Communication Skills, and Continuous Learning and Adaptability.</p></td>
  </tr>
 
  <tr>
@@ -175,31 +171,33 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Project Team Leader (Internal User) </p></td>
- <td><p style="text-align:center;">Leads the team members. Authority to call a meeting with the project manager 
-     and team members about the project. </p></td>
- <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
-     Knowledge of the company for precise information. </p></td>
- </tr>
-
+ <td><p style="text-align:center;">Developer</p></td>
+ <td><p style="text-align:center;">Designing, creating, and implementing software solutions in accordance with project needs and technical specifications are the domain of a developer. To guarantee the successful delivery of the software product, they have the authority to develop and edit code, create, and maintain software components, and work with team members. </p></td>
+ <td><p style="text-align:center;">Responsible to convert conceptual designs and specifications into useful software programs. They must write clear, effective, and well-documented code, perform unit tests to ensure functionality, and debug and fix software bugs. Work closely with product owner and project manager. </p></td>
+ <td><p style="text-align:center;">Programming Languages, Problem-Solving Skills, Technical Knowledge, Coding and Debugging, Collaboration and Teamwork, Time Management, and Continuous Learning. </p></td>
+</tr>
  <tr>
- <td><p style="text-align:center;">Project Team Members (Internal Users) </p></td>
- <td><p style="text-align:center;">Authority to help the project leader and project manager in deciding the 
-     plans on the project. </p></td>
- <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
-     to the objectives of the project. Ensure that the deliverables are complete within the given period. 
-     </p></td>
- <td><p style="text-align:center;">Effective communication skills, project management skills, and cooperation.
-     Knowledge of the company needs, and information to complete deliverables. </p></td>
+ <td><p style="text-align:center;">Quality Assurance (Internal User) </p></td>
+ <td><p style="text-align:center;">Ensures that products and deliverables fulfill its quality standards. Develop and implement quality processes, conduct testing, and checks the quality of the system and deliverables.</p></td>
+ <td><p style="text-align:center;">Ensures that the entire project deliverables and product are consistently meeting its quality standards. Ensure that the overall quality of the product and deliverables are met by establishing quality criteria, development processes, and implements corrective actions. </p></td>
+ <td><p style="text-align:center;">Technical Skills, Communication skills, Problem-solving skills, Collaboration, and Time Management. </p></td>
  </tr>
-
  <tr>
- <td><p style="text-align:center;">Customers (External Users) </p></td>
- <td><p style="text-align:center;">Evaluate the project’s system. </p></td>
- <td><p style="text-align:center;">Provides feedback on the project’s system. Communicates with the team to 
-     help improve the system. </p></td>
- <td><p style="text-align:center;">Communication skills. Knowledge in using an online system. </p></td>
+ <td><p style="text-align:center;">System Tester (Internal User) </p></td>
+ <td><p style="text-align:center;">Evaluate and validates the performance and functioning of a system or software program. Authority to find and report errors or problems, work with stakeholders and developers to fix them, and make improved suggestions.</p></td>
+ <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for designing and executing test cases, identifying, and reporting defects, and verifying that the system meets the specified requirements. </p></td>
+ <td><p style="text-align:center;">Technical Skills, Communication Skills, Time Management, Analytic and Problem-Solving Abilities. </p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Customer(External Users) </p></td>
+ <td><p style="text-align:center;">Test the project’s system. </p> 
+ </td>
+ <td><p style="text-align:center;">Provides feedback on the project’s system.
+Communicates with the team to help improve the system.
+ </p></td>
+ <td><p style="text-align:center;">Communication skills.
+Knowledge in using an online system.
+ </p></td>
  </tr>
 
  <tr>
@@ -247,10 +245,9 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Project Stakeholder</p></td>
- <td><p style="text-align:center;">Organize meetings with the project manager and project team leader 
-   for the feedbacks of the project sponsor. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. </p></td>
+ <td><p style="text-align:center;">Product Owner</p></td>
+ <td><p style="text-align:center;">Responsible for maximizing its value and making strategic decisions. </p></td>
+ <td><p style="text-align:center;">Stakeholder Management, Leadership and Collaboration Skills, Communication Skills, and Continuous Learning and Adaptability. </p></td>
  <td><p style="text-align:center;"> 1 </p></td>
  <td><p style="text-align:center;"> Monthly or as needed </p></td>
  <td><p style="text-align:center;"> Promotion or Bonus </p></td>
@@ -268,20 +265,27 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Project Team Leader </p></td>
- <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.  </p></td>
- <td><p style="text-align:center;"> 1 </p></td>
+ <td><p style="text-align:center;"> Developer </p></td>
+ <td><p style="text-align:center;">Responsible to convert conceptual designs and specifications into useful software programs.  Work closely with product owner and project manager </p></td>
+ <td><p style="text-align:center;">Programming Languages, Problem-Solving Skills, Technical Knowledge, Coding and Debugging, Collaboration and Teamwork, Time Management, and Continuous Learning.  </p></td>
+ <td><p style="text-align:center;"> 2 </p></td>
  <td><p style="text-align:center;"> Weekly or as needed </p></td>
  <td><p style="text-align:center;"> Salary Increase </p></td>
 </tr>
 
  <tr>
- <td><p style="text-align:center;">Project Team Members </p></td>
- <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
-     to the objectives of the project. </p></td>
- <td><p style="text-align:center;">Strong communication skills, technical skills, and cooperation. </p></td>
- <td><p style="text-align:center;"> Depends on the project requirement </p></td>
+ <td><p style="text-align:center;"> Quality Assurance </p></td>
+ <td><p style="text-align:center;">Ensures that the entire project deliverables and product are consistently meeting its quality standards. </p></td>
+ <td><p style="text-align:center;">Technical Skills, Communication skills, Problem-solving skills, Collaboration, and Time Management. </p></td>
+ <td><p style="text-align:center;"> 1 </p></td>
+ <td><p style="text-align:center;"> Weekly or as needed </p></td>
+ <td><p style="text-align:center;"> Salary Increase </p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;"> System Tester </p></td>
+ <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for program. </p></td>
+ <td><p style="text-align:center;">Technical Skills, Communication Skills, Time Management, Analytic and Problem-Solving Abilities. </p></td>
+ <td><p style="text-align:center;"> 1 </p></td>
  <td><p style="text-align:center;"> Weekly or as needed </p></td>
  <td><p style="text-align:center;"> Salary Increase </p></td>
  </tr>
