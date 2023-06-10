@@ -1671,15 +1671,7 @@ changes and deadlines for the modifications will contribute to the project's suc
 
        <tr>
 		<td><p style="text-align:center;">ITRO</p></td>
-                <td><p style="text-align:center;">Internal User of the system</p></td>
-                <td><p style="text-align:center;">
-* Submit a change request if deemed necessary.
-* Review the change request log and reports to ensure alignment with changes.</p></td>
-       </tr>
-
-       <tr>
-		<td><p style="text-align:center;">ITRO</p></td>
-                <td><p style="text-align:center;">External User of the system</p></td>
+                <td><p style="text-align:center;">Internal and External User of the system</p></td>
                 <td><p style="text-align:center;">
 * Submit a change request if deemed necessary.
 * Review the change request log and reports to ensure alignment with changes.</p></td>
