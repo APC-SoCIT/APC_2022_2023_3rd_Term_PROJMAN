@@ -1099,36 +1099,82 @@ It will be possible to establish the scope baseline by incorporating the scope d
 		</tr>
 		<tr style="height: 37px;">
 			<td style="height: 37px;" width="180">
-				<p><strong>Document Analyst</strong></p>
+				<p><strong>Documentation Specialist</strong></p>
 			</td>
 			<td style="height: 37px;" width="96">
-				<p>₱ 112.50</p>
+				<p>₱ 16,000</p>
 			</td>
 			<td style="height: 37px;" width="198">
-				<p>₱ 900.00 * 20</p>
+				<p>552</p>
 			</td>
 			<td style="height: 37px;" width="108">
+				<p>₱ 92.31</p>
+			</td>
+			<td style="height: 37px;" width="162">
 				<p>1</p>
 			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 18,000.00</p>
+				<p>₱51,468.48</p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
 			<td style="height: 37px;" width="180">
-				<p><strong>Business Analyst</strong></p>
+				<p><strong>Documentation Specialist</strong></p>
 			</td>
 			<td style="height: 37px;" width="96">
-				<p>₱ 160.5</p>
+				<p>₱ 16,000</p>
 			</td>
 			<td style="height: 37px;" width="198">
-				<p>₱ 1, 284.00 * 14</p>
+				<p>608</p>
 			</td>
 			<td style="height: 37px;" width="108">
+				<p>₱ 92.31</p>
+			</td>
+			<td style="height: 37px;" width="162">
 				<p>1</p>
 			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 17, 976.00</p>
+				<p>₱56,689.92</p>
+			</td>
+		</tr>
+                <tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Front-End Developer</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 33,500</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>1224</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>₱193.27</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 236,562.48</p>
+			</td>
+		</tr>
+                <tr style="height: 37px;">
+			<td style="height: 37px;" width="180">
+				<p><strong>Back-End Developer</strong></p>
+			</td>
+			<td style="height: 37px;" width="96">
+				<p>₱ 25,000</p>
+			</td>
+			<td style="height: 37px;" width="198">
+				<p>1016</p>
+			</td>
+			<td style="height: 37px;" width="108">
+				<p>₱144.23</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>1</p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 146,537.68</p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
@@ -1136,7 +1182,7 @@ It will be possible to establish the scope baseline by incorporating the scope d
 				<p><strong>Sub-Total </strong></p>
 			</td>
 			<td style="height: 37px;" width="162">
-				<p>₱ 72, 976.00</p>
+				<p>₱ 1,061,722</p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
