@@ -1,8 +1,8 @@
 =First Part=
 Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Group-03-Team-MLNSD---Villamin-Wood-and-Iron-Works-System
 
-=Quality Management Plan=
-==Introduction==
+==6.8 Quality Management Plan==
+===6.8.1. Introduction===
 <p>To ensure consistently high quality throughout the project, a quality management plan, and an agile methodology is needed to complete the requirements. The quality standards for evaluating the Villamin Wood and Iron Works project will be established by this plan. In addition, it offers a structure for resolving quality issues, illustrating the jobs and obligations of team members, and enumerating the standards and techniques connected with quality.
 
 <p>These are the goals of the quality of the management plan: </p>
@@ -14,7 +14,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 <p>The system implemented by Villamin Wood and Iron Works will prioritize user-friendliness and accommodation for the two clients and the actual business. It will seamlessly integrate with the organization's current technology, ensuring adaptability. The Quality Management Plan will encompass both product and process quality standards. It will include a comprehensive strategy with specific procedures and reporting for the overall overview of quality performance. </p> 
 
-==Quality Management Approach==
+===6.8.2. Quality Management Approach==
 <p> To guarantee that the project meets all following requirements and expectations of all stakeholders, the Quality Management Plan will provide a comprehensive system for effectively managing and maintaining the project's quality. To determine and address any quality issues which may arise, the plan will lay down a detailed set of procedures. </p>
 
 <p>The following are the roles and duties of the quality management plan: </p>
@@ -61,7 +61,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 <p> In conclusion, the Villamin Wood and Iron Works system project's quality management strategy will prioritize the delivery of a high-quality product that meets customer requirements by employing an Agile methodology. To go beyond meeting quality expectations, the approach will remain adaptable and continuously improved, and the team ensures that it is in line with the organization's quality standards and that it fulfills the requirements of the project stakeholders. </p>
 
-===Quality Requirements/Standards===
+===6.8.3. Quality Requirements/Standards===
 <p> The team creates and archives quality rules and guidelines that focus on the quality of the Villamin Wood and Iron Works Framework. Testing and evaluation, in addition to input from the client and stakeholders' feedback, will be incorporated to achieve this goal and guarantee compliance with the following criteria. The Villamin Wood and Iron Works System will meet the following quality standards and requirements:
 
 ====Product Quality Requirements====
@@ -74,52 +74,37 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 # To guarantee consistent system development, testing, and deployment, the development team will adhere to a specified configuration management procedure.
 # The development team will set up continuous testing along with a quality assurance approach to make sure that the system complies with all technical requirements and requirements.
 
+===Compliance Demonstrations===
+# Before deploying to the client, the group will evaluate and test the Villamin Wood and Iron Works system as per the characterized quality standards.
+# On request, the client will have access to easily comprehensible documentation of all quality assurance and testing procedures. The development team will provide ongoing support to guarantee that the system consistently adheres to the established quality standards.
+
 ===Continual Improvement===
 <p> Continuous client feedback collection and analysis, system performance monitoring, and internal audits to find areas for improvement will all be part of the development team's continuous improvement process. This kind of setup will be incorporated into the venture to guarantee that the Villamin Wood and Iron Works System ensures quality standards are met as well as proactively adjusts to developing client needs. </p>
 
-===Quality Assurance===
+===6.8.4. Quality Assurance===
 <p> The Agile approach will be used to carry out the quality assurance approach for the Villamin Wood and Iron Works System project. This strategy aims to achieve appropriate implementation through consistent enhancement and teamwork. The following actions will be taken: </p>
-# Defining Quality Standards-</b> To make sure that the deliverables meet the project's quality standards, the project team and stakeholders collaborated effectively. </p>
 
+# Defining Quality Standards-</b> To make sure that the deliverables meet the project's quality standards, the project team and stakeholders collaborated effectively. </p>
 # <b>Quality Auditing</b>- The team, with the collaboration of the stakeholder, will monitor and evaluate the quality of the project deliverables, ensuring adherence to established standards and specifications. The team will report and document findings to maintain records and communication with the stakeholders, Scheduling that will outline the initial plan and meet the deadlines, and continuous improvement to emphasize importance and better output of the project.
 # <b>Quality Metrics </b>- The project team will monitor and report on how the project performed regarding the quality criteria, utilizing quality metrics.
 # <b>Continuous Improvement</b>- With collaboration with stakeholders, the team will be able to identify areas for improvement and make important changes. The project team will use the feedback from quality audits and quality metrics to continually enhance the product and the quality processes. 
 # <b>Reviewing Customer Feedback </b>- Customer feedback will be evaluated on a regular basis by the project team to find any issues or opportunities for improvement. To make sure that the product meets and exceeds customer expectations, this feedback will be used to guide ongoing improvement efforts. </p>
 
-===Quality Control===
+===6.8.5. Quality Control===
 <p> The process of quality control within the Villamin Wood and Iron Works System project will be established into the Agile approach with the goal of ensuring that quality meets expectations through teamwork and continuous development. These are the following steps that involve in the project: </p>
 
-#<b>Continuous Testing and Feedback </b>- To identify any issues and assure that the product corresponds to the demands of the client, the project team is going to perform a continual evaluation.
-# <b>User Acceptance Testing </b>- To ensure that it aligns with client requirements and demands, the system's functionality will be monitored by the project manager or developer. This phase will be finished at the end of each sprint, and user feedback will be used to make any necessary improvements.
-# <b>Capability Testing: </b> The Villamin Wood and Iron Works System will undergo testing across several phases, including mobile devices and any browser, to confirm consistency and handle any potential problems within the system.
+#<b>Continuous Testing and Feedback </b>- To identify any issues and ensuring that the product corresponds to the demands of the client, the project team is going to perform a continual evaluation.
+# <b>User Acceptance Testing </b>- To ensure that it aligns with client requirements, the system's functionality will be monitored by the project manager or developer. This phase will be finished at the end of each sprint, and user feedback will be used to make any necessary improvements.
+# <b>Compatibility Testing: </b> The Villamin Wood and Iron Works System will undergo testing across several phases, including mobile devices and any browser, to confirm consistency and handle any potential problems within the system.
 # <b>Continuous Monitoring </b>: The project team will carefully monitor the performance and effectiveness of the Villamin Wood and Iron Works system following its installation. This requires constant performance and functioning system monitoring.
 # <b>Tracking and Documenting Quality Evaluations </b>- The project team will adhere to, and the outcomes of the Quality Control procedure will be preserved and used to monitor the activities or progress of the system.  </p>
 # <b>Continuous Improvement </b>- The project team will adhere to, and the outcomes of the Quality Control procedure will be preserved and used to monitor the activities or progress of the system.
 
 <p> In summary, the Villamin Wood and Iron Works System project's quality control system is going to be essential to the development process. It will emphasize monitoring the overall performance. As part of the quality control process, the project team will diligently monitor and assess the product's quality, ensuring the required quality standards and customer requirements. </p>
 
-====Quality Control Measurements====
+====6.8.6. Quality Control Measurements====
 <p> The Villamin Wood and Iron Works System project will employ the Agile Methodology throughout its life cycle to enable continuous review and improvement. To guarantee effective quality control, this plan will place a strong emphasis on transparency and cooperation. </p>
 <p> Quality control procedures will be applied at every phase of the development process to ensure compliance with standards and requirements. These measures will be documented and available on a platform for collaboration and documentation, like an application for project management. </p>
-
-===Product Quality Requirements===
-# The system will have user-friendly instructions and an interface, making it easy to operate and meet all the requirements for the project.
-# The project will enhance business operations and align with the existing technology infrastructure.
-
-===Requirements for Ensuring Quality of Processes===
-# The product owner and development team will carefully review and support any endeavor expectations before communicating to the customer.
-# The improvement gathering will lead to typical run reviews to promptly recognize and decide on any quality concerns.
-# To guarantee consistent system development, testing, and deployment, the development team will adhere to a specified configuration management procedure.
-# The development team will set up continuous testing along with a quality assurance approach to make sure that the system complies with all technical requirements and requirements.
-
-===Compliance Demonstrations===
-# Before deploying to the client, the group will evaluate and test the Villamin Wood and Iron Works framework as per the characterized quality necessities and principles.
-# The improvement group will keep up with nitty gritty documentation of all testing and quality affirmation exercises, which can be gotten to by the client upon demand.
-# A conventional acknowledgment test will be led by the improvement group in a joint effort with the client to ensure that the framework meets their necessities and assumptions.
-# The development team will provide ongoing support to guarantee that the system consistently adheres to the established quality standards.
-
-===Continual Improvement===
-<p> Continuous client feedback collection and analysis, system performance monitoring, and internal audits to find areas for improvement will all be part of the development team's continuous improvement process. This kind of setup will be incorporated into the venture to guarantee that the Villamin Wood and Iron Works System ensures quality standards are met as well as proactively adjusts to developing client needs. </p>
 
 ==Human Resource Management Plan==
 ===Introduction===
@@ -2738,8 +2723,8 @@ Knowledge in using an online system.
 
 </table>
 
-=Procurement Management Plan=
-==Introduction==
+==6.10. Procurement Management Plan==
+===6.10.1. Introduction===
 <p>A procurement plan is a vital component of any organization's strategic planning process, as it outlines the approach and strategy for acquiring goods, services, or works from external sources. It serves as a roadmap that guides the procurement activities, ensuring that the organization obtains the necessary resources efficiently, effectively, and in compliance with relevant regulations and policies. </p>
 
 <p>It considers the organization's overall objectives, budgetary constraints, and specific project requirements. The plan outlines the procurement methods, timelines, and responsibilities for each procurement activity. The primary purpose of a procurement plan is to ensure transparency, fairness, and value for money in the procurement process. By having a well-defined plan in place, organizations can mitigate risks, avoid unnecessary delays, and maximize the benefits of their procurement activities. </p>
@@ -2748,8 +2733,7 @@ Knowledge in using an online system.
 
 <p>Overall, Organizations must have a well-developed procurement strategy in place if they want to accomplish their goals methodically and affordably. Transparency, fairness, and value for money are ensured by the structured framework it provides for the procurement of goods, services, or works. Organizations can streamline their procurement processes, lower risks, and guarantee that the acquisition of goods and services is carried out in a transparent and effective manner by creating a thorough procurement plan. </p>
 
-==Procurement Risks==
-
+===6.10.2.Procurement Risks===
 <p> Procurement risk are potential problems that could potentially harm the project's success come up during the procurement process. To reduce these risks, it is crucial to recognize them and take proactive measures to address the influence over the project. </p>
 
 <p> The Villamin Wood and Iron Works Ordering System project may contain procurement activities that carry risks which are included but not limited to the following: </p>
@@ -2761,7 +2745,7 @@ Knowledge in using an online system.
 
 <p> To lessen the impact of the risks, this plan will include strategies for identifying, evaluating, and reducing risks. Throughout the course of the project, this plan will be continuously reviewed and updated to make sure that risks are recognized and promptly addressed. Furthermore, we'll put into practice strict processes and procedures for reducing the risks involved in procurement management. </p>
 
-==Procurement Risk Management==
+===6.10.3.Procurement Risk Management==
 ; Identification of Procurement Risks
 <p>The following are the potential risks of the project: </p>
 
@@ -2790,7 +2774,7 @@ Knowledge in using an online system.
 
 : The procurement plan will emphasize the commitment to continuous improvement as an integral part of the procurement lifecycle, ensuring that the organization remains adaptive, responsive, and proactive in meeting evolving needs and achieving excellence.
 
-==Cost Determination==
+===6.10.4. Cost Determination===
 
 <p> Villamin Wood and Iron Works Online System’s cost determination is a critical aspect of the procurement process, ensuring that the organization obtains goods or services at the most favorable price while maintaining quality and meeting requirements. When calculating the project's overall cost, it is important to take project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenses into account. </p>
 
@@ -2800,7 +2784,7 @@ Knowledge in using an online system.
 
 <p> Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the completion success of Villamin Wood and Iron Works Online System project within the given budget constraints. </p>
 
-==Procurement Constraints==
+===6.10.5. Procurement Constraints===
 
 <p> Procurement constraints are inherent limitations and factors that can influence the procurement process and pose challenges to achieving procurement objectives. The following constraints are considered in Villamin Wood and Iron Works Online System project’s procurement process: </p>
 
@@ -2811,7 +2795,7 @@ Knowledge in using an online system.
 
 <p> By recognizing and proactively addressing these constraints, organizations can navigate the procurement landscape more efficiently and effectively, leading to better decision-making, cost optimization, and overall procurement success. </p>
 
-==Contract Approval Process==
+===6.10.6. Contract Approval Process===
 
 <p> The contract approval process is a critical step in the procurement lifecycle, ensuring that contracts are reviewed, authorized, and executed in accordance with established policies and procedures. These procedures include the following: </p>
 
@@ -2825,7 +2809,7 @@ Knowledge in using an online system.
 
 <p> Overall, by establishing a clear and structured contract approval process, organizations can enhance transparency, accountability, and efficiency in their procurement activities, minimizing potential legal and financial risks while fostering effective supplier relationships. </p>
 
-==Decision Criteria==
+===6.10.7. Decision Criteria==
 <p> Decision criteria are a set of predefined factors and considerations used to evaluate and make informed decisions in the procurement process. The following are the decision criteria of Villamin Wood and Iron Works Online System project that will be used by the contract review board: </p>
 
 # <b>Schedule </b>- The vendor must show they can complete the project on time and meet all deliverables, including important deadlines and milestones.
@@ -2837,7 +2821,7 @@ Knowledge in using an online system.
 
 <p> The use of clear and well-defined decision criteria promotes consistency, transparency, and accountability in the procurement decision-making process, enabling organizations to make informed choices that yield favorable outcomes. </p>
 
-==Performance Metrics for Procurement Activities==
+===6.10.8. Performance Metrics for Procurement Activities===
 <p> The following performance metrics will be used by Villamin Wood and Iron Works Online System project for procurement activities: </p>
 
 ; Vendor Performance Rating
@@ -2855,7 +2839,7 @@ Knowledge in using an online system.
 ; Contract Management
 : The success of contract management procedures like contract extensions, modifications, and supplier performance evaluation. By establishing and monitoring performance metrics, organizations can track their procurement performance, identify areas for improvement, and make data-driven decisions to optimize procurement activities. Performance metrics enable organizations to gauge the value and impact of their procurement efforts, drive continuous improvement, and ensure alignment with strategic objectives.
 
-=Risk Management Plan=
+==Risk Management Plan==
 ==Introduction==
 <p> In this project, the risk management plan aims to breakdown and identify the potential risks that might be there for the project. That is why the risk management plan is being developed to response to those potential risks and manage those risks by ensuring that the project team can mitigate it as we achieve the project’s objectives. </p>
 <p> The risk management plan includes an overview of the risk management process, showing the roles and responsibilities of the project team and the risk assessment approach. It is key to be able to identify all the potential risks and as a team be able to develop resolutions for it. </p>
