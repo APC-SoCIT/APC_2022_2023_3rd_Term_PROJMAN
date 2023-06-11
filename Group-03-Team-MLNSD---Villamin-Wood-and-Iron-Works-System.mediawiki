@@ -106,40 +106,29 @@
   <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
  </tr>
  <tr>
-  <td><p style="text-align:center;">Mabelle Aspeli</p></td>
-  <td><p style="text-align:center;">Project Manager</p></td>
-  <td><p style="text-align:center;">The person in charge makes sure the group works well together and finishes 
-  their work on schedule. </p></td>
+  <td><p style="text-align:center;">Leigh Curtis Camara & Ludwig Marco Angeles</p></td>
+  <td><p style="text-align:center;">Quality Assurance</p></td>
+  <td><p style="text-align:center;">Tracking, evaluating, and recommending actions to fix or strengthen a company's end products to fulfill defined quality requirements. </p></td>
  </tr>
  <tr>
-  <td><p style="text-align:center;">Leigh Curtis Camara</p></td>
-  <td><p style="text-align:center;">Team Leader</p></td>
-  <td><p style="text-align:center;">The person in charge of supporting the project manager and guiding the 
-  other team members to complete the project within the given constraints. </p></td>
+  <td><p style="text-align:center;">Dale Joshua Domingo</p></td>
+  <td><p style="text-align:center;">Project Tester</p></td>
+  <td><p style="text-align:center;">Accountable of developing testing scenarios regarding software accessibility, conducting these evaluations, and providing feedback to the development team on the effectiveness and errors. </p></td>
  </tr>
  <tr>
   <td><p style="text-align:center;">Sofia Emmanuelle Villamin</p></td>
-  <td><p style="text-align:center;">Project Stakeholder</p></td>
-  <td><p style="text-align:center;">The person in charge of communicating with the client for the needed 
-  information in the project. </p></td>
+  <td><p style="text-align:center;">Product Owner</p></td>
+  <td><p style="text-align:center;">Primary point of contact on behalf of the client to identify product specifications for the development team. </p></td>
  </tr>
  <tr>
   <td><p style="text-align:center;">Nathaniel Sison</p></td>
   <td><p style="text-align:center;">Team Developer</p></td>
-  <td><p style="text-align:center;">Works closely with the stakeholder and team leader. In charge of developing 
-  and implementing the project. </p></td>
+  <td><p style="text-align:center;">Producing, programming, implementing, and overseeing software systems.</p></td>
  </tr>
  <tr>
-  <td><p style="text-align:center;">Dale Joshua Domingo</p></td>
-  <td><p style="text-align:center;">Team Secretary/Developer Support</p></td>
-  <td><p style="text-align:center;">Works as the support and with assisting the team’s developer. Also, in 
-  charge of supporting and assisting the team leader.  </p></td>
- </tr>
- <tr>
-  <td><p style="text-align:center;">Ludwig Marco Angeles</p></td>
-  <td><p style="text-align:center;">Team Secretary Support</p></td>
-  <td><p style="text-align:center;">Works closely with the team’s secretary, also works as a substitute 
-  whenever the secretary is busy helping the developer.  </p></td>
+  <td><p style="text-align:center;">Manuel Villamin Jr.</p></td>
+  <td><p style="text-align:center;">Project Sponsor</p></td>
+  <td><p style="text-align:center;">Responsible for the overall success of the project, involving assigning the project manager as well as a group; establishing success criteria, and guaranteeing the project's accomplishment. </p></td>
  </tr>
  </table><br/>
 
@@ -662,19 +651,17 @@
 <p>The team developed the project Villamin Wood and Iron Works System to build a system that resolves all the issues presented by the client and to meet their demands which includes the following: </p>
 
 <ul> 1. Creating an Ordering System in the online store to address the conflicts with their manual ordering process.  </ul>
-<ul> 2. Increasing the customer reach. </ul>
+<ul> 2. Increasing the number of customer reach. </ul>
 <ul> 3. Monitor the inventory of stocks and orders. </ul>
 
-<p>The process of developing the detailed description of this project and its deliverables occurred through interviewing with the client and learning about their business process and understanding their struggles and how we can contribute to their business by providing the project.  Team meetings discussing and developing a plan is an important process in the development of the project as we identified all requirements, scope of the project, and how we can incorporate our ideas into the system. </p>
+<p>The process of developing the detailed description of this project and its deliverables occurred through interviewing with the client and learning about their business process and understanding their struggles and how the team can contribute to their business by providing the project.  Team meetings discussing and developing a plan is an important process in the development of the project as we identified all requirements, scope of the project, and how we can incorporate our ideas into the system. </p>
 
 ===6.2.5 Project Scope Statement===
 <ul> <b>Product Scope Description</b> – The project will accomplish all requests made by the client based on the business problems they have provided which should be solved by the project.  </ul>
-
 <ul> <b>Product Acceptance Criteria</b> – Part of the acceptance criteria will be based on the overall satisfaction of the client. This can be broken down into specific parts which includes the deployment of a fully functioning online store, solving all the presented business problems, and catering to the needs of the customers through the online store.  </ul>
-
 <ul> <b>Project Exclusions</b> - The following is out of the scope of the project and will not be included:  </ul>
-<ul><ul> a. Modification of the system beyond what was discussed in the project scope statement.  </ul></ul>
-<ul><ul> b. Collaborations with other system/company outside of the scope of the project.  </ul></ul>
+<ul><ul> 1. Modification of the system beyond what was discussed in the project scope statement.  </ul></ul>
+<ul><ul> 2. Collaborations with other system/company outside of the scope of the project.  </ul></ul>
 
 <ul> <b>Project Constraints</b> - The following limits the project:  </ul>
 <ul><ul> a. Limited budget </ul></ul>
@@ -709,17 +696,17 @@ the project manager alongside the team and stakeholders. The project manager wil
 <p>The following steps will be taken to modify the scope baseline during the scope control process for the Villamin Wood and Iron Works System project: </p>
 
 <ul> 1.	The request for a change in scope will be evaluated by the Project Manager and the Project Sponsor to assess its potential impact on the project schedule, financial plan, and available resources. </ul>
-<ul> 2.	Any stakeholder or team member who identifies a requirement for a change to the scope will initiate a scope change request. </ul>
+<ul> 2. A scope change request will be initiated by any team member who identifies a requirement for a change to the scope. </ul>
 <ul> 3.	If the request is approved, the Project Manager will create a plan of action to implement the change, revise the initial project scope, and communicate the change to all relevant stakeholders. </ul>
 <ul> 4.	The project team will continue with the original scope if the request is rejected. </ul>
 <p><b>Sponsor Acceptance</b></p>
 
 ==6.3 Cost Management Plan==
 
-==Introduction==
+==6.3.1 Introduction==
 <p>The Cost Management Plan will include the required resources and process of estimating and tracking the cost to keep expenses within the planned budget. Mabelle Aspeli, our Project Manager, will be responsible for managing and reporting on the project expenses throughout the project duration. She will also have the authority to make and approve changes to the project to bring it back within the budget. The Project Cost Performance will be measured using a set of formulas that integrate schedule, scope, and costs to measure project success. The Project Manager will review cost deviations she will be presenting to the project sponsor, and she will also provide options for the project back on budget. </p>
 
-===6.3.1vCost Management Approach===
+===6.3.2 Cost Management Approach===
 <p>To facilitate a cost management plan, the team will imitate the key components of the management approach, and these are: </p>
 <p><b> Cost Planning - </b>The team will develop a comprehensive cost plan that includes budgeting, estimating costs for resources, and establishing cost baselines. </p> 
 <p><b> Cost Estimation - </b>The team will determine the expected costs of project activities, tasks, or resources using various techniques such as data analysis, expert judgment, and parametric estimation.  </p> 
@@ -728,18 +715,49 @@ the project manager alongside the team and stakeholders. The project manager wil
 <p><b> Cost Optimization - </b> The team will seek ways to optimize costs by identifying cost-saving opportunities, improving efficiency, and exploring alternatives while considering the desired quality and performance. </p> 
 <p><b> Cost Reporting - </b>  The team will generate regular reports and updates on cost performance, including actual costs incurred, forecasted costs, and variance analysis, to keep stakeholders informed and facilitate decision making.  </p> 
 <p><b> Risk Management - </b>   The team will assess and manage potential risks that could impact costs, such as cost overruns, schedule delays, or changes in scope. Mitigation strategies are developed to minimize the impact of risks on project costs. </p> 
-==Measuring Project Costs==
+===6.3.3 Measuring Project Costs===
 <p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
+<p><b>Depreciated Value:</b></p>
+<ul> 	Assuming that the Useful Life in Years is 5 years until the equipment will not operate optimally, the Depreciation Rate of the item will be deducted 20% per year. </ul>
+<ul>Depreciation Value (DV)=SRP-(SRP*(Years x Depreciation Rate))
+	Example:
+	PhP50,000-(PhP50000 * (3 years * 20%)) = PhP20,000
+</ul>
+<p><b>Equipment Usage</b></p>
+<ul>Equipment usage is calculated similarly to renting the equipment used to accomplish the project. This is equated based on Depreciated Value, and Rental Rate. The Rental Rate is 10%, following the rate that the team has come up with to be received for rent.</ul>
+<ul> Rental=Depricated Value x Rental Rate
+	Example:
+	PhP20,000 * 10% = PhP2,000
+</ul>
+<p><b>Labor</b></p>
+<ul>Labor is the measurement of how the team exerted its efforts on finishing the project. This is also known as Cost of Work Performed. </ul>
+<ul> Labor=(hourly rate x Time Spent) Manpower
+	Example:
+	(PhP100 * 1629hours) 6 Members = PhP977,400
+</ul>
+<p><b>Actual Cost</b></p>
+<ul> Actual Cost is how much the Service Provider is charging.</ul>
+<ul>	Example:
+	GoDaddy Web Hosting Economy = PhP5,988
+	Actual Cost = PhP5,988
+   </ul>
 
-==Reporting Format==
+===6.3.4 Reporting Format===
+<p><b>1. Executive Summary - </b> The Team will discuss the reason for creating the project and its objectives.</p> 
+<p><b>2. Project Budget - </b> Acknowledging the costs expected and their limitations will determine how the project will perform, this will also set expectations.</p> 
+<p><b>3. Project Status - </b> - Determining if there are bottlenecks, seeing if the project is accomplishing its objectives, and what can be done for improvements.</p> 
+<p><b>4. Milestone Achieved - </b> - Keeping in record what the set milestones in the project will see its effectiveness.</p> 
+<p><b>5. Project Variance - </b> - This will discuss what other variables are affecting the project’s budget and the project itself.</p> 
+<p><b>6. Setting New Milestones - </b> - Creating new milestones for the project will predict its success and see what are other factors that control the project's performance beyond what is documented.</p> 
+<p><b>7. Approval - </b> - After the success of the meeting, the team will determine what to pursue based on what was the outcome of the meeting. This will then help the team to accomplish the necessary steps based on what the client has provided and is expecting.</p> 
 <p>Reporting on cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p>
 
-==Cost Variance Response Process==
-<p>The Control Thresholds for this project are a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and how the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance Corrective Action Plan, it will become a part of the project plan and the project will be updated to reflect the corrective actions. </p>
+===6.3.5 Cost Variance Response Process===
+<p>The team, alongside the Project Sponsor, has allowed a leeway of 20% of the total budget in preparation for unidentified costs. This is then subjected to approval before allocating the cost. Variables such us Service Down Time, Change of Platform, Change of Service Charge, and New Feature Implementations are some of the costs that can be overlooked. If the threshold set has been exceeded, the Team will conduct a corrective action to minimize overbudgeting. All of these will then be presented to the Project Sponsor and Product Owner during the Monthly Project Meeting. If the new budget has been approved, the team will implement the necessary steps for the Projects best interest, but if not, the team will create new alternatives to meet the clients’ expectations.</p>
 
-==Cost Changes Control Process==
+===6.3.6 Cost Changes Control Process===
 <p><b> Cost Change Control </b> The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p> 
-==Project Budget== 
+===6.3.7 Project Budget=== 
 <p>The budget for this project is detailed below.  Costs for this project are presented in various categories... </p> 
 <p> Fixed Costs </p>
 <p> Material Costs </p>
@@ -747,7 +765,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 <p> Total Project Cost </p>
 <p> Management Reverse </p>
 
-
+===6.3.8 Sponsor Acceptance===
 
 
 
