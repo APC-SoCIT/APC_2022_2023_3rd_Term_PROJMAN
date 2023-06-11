@@ -770,7 +770,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 
 
-== 6.4. Schedule Management Plan==
+==6.4. Schedule Management Plan==
 ===6.4.1. Introduction===
 <p>The schedule management plan is a roadmap for the process of executing the project. This is important as they provide the status of the project to the project team, sponsor, and stakeholders. The purpose of the schedule management plan is to specify the methodology the project team will employ in putting together the project schedule. The schedule management plan must be identified, analyzed, documented, prioritized, approved, or rejected, and published. This plan will help the team to monitor the progress of the project and manage the changes to the project schedule after being approved. </p>
 
@@ -790,11 +790,12 @@ the project manager alongside the team and stakeholders. The project manager wil
 
 <p>Schedule development roles and responsibilities are the following: </p>
 
-<ul> <b>Project Manager</b> – responsible for facilitating and checking the progress of the deliverables. The project manager also supports the team, stakeholder, and project sponsor on validating the proposed schedule. </ul>
-<ul> <b>Project Team</b> – responsible for working and completing the deliverables. The project team is also responsible for reviewing the proposed schedule and assigning activities after the schedule’s approval. </ul>
-<ul> <b>Project Stakeholders</b> – responsible for reviewing of proposed schedule and assisting in approvals. 
+<ul> <b>Project Manager – </b> responsible for facilitating and checking the progress of the deliverables. The project manager also supports the team, stakeholder, and project sponsor on validating the proposed schedule. </ul>
+<ul> <b>Product Owner – </b> the project owner is tasked with the responsibility of advocating for the stakeholders and working together with the development team. Additionally, in charge of maximizing the product's value and making major strategic decisions throughout its lifespan. </ul>
+<ul> <b>Project Developer– </b> manages a project's operations and typically collaborates with the project manager to create activities, schedules, and regular progress reports.
 </ul>
-<ul> <b>Project Sponsor</b> - responsible for reviewing of proposed schedule and approval of the final schedule before baselined. </ul>
+<ul> <b>Project Tester - </b> responsible for ensuring that the system satisfies the specified criteria, functions as intended, and satisfies the established quality standard. </ul>
+<ul> <b>Project Sponsor - </b> responsible for reviewing of proposed schedule and approval of the final schedule before baselined. </ul>
 
 ===6.4.3.Schedule Control===
 <p>The project schedule will be reviewed and updated on a twice a week basis with actual start, actual initial completion, and the final completion percentage which will be given and reviewed by the Project Manager. Additionally, the project manager will be responsible for holding meetings for the updates and reviews, submission of schedule change requests, and reports of the schedule status according to the project’s communication plan. </p>
