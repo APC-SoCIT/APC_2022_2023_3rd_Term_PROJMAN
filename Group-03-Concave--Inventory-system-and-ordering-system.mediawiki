@@ -84,22 +84,17 @@ An Inventory System and Ordering System for Torrecamps Company is necessary to a
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Description </font></th>   
 </tr>
-     <tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Stefano Franco Binay </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Project Leader </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">The team leader is resonsible for guiding, directing, and motivating the team to work together to achieve a common goal. </font></th>  </p>
-<tr>
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Stefano Franco Binay </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Project Manager </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">The project manager is responsible for leading and managing the project team to achieve the project objectives within the constraints of time, budget, and scope. </font></th></tr></p>
-<tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">The project manager is responsible for leading and managing the project team to achieve the project objectives within the constraints of time, budget, and scope. </font></th></p>
+
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Jan Terence Francisco </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Developer/IT Head </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">The responsibility of a developer is to write, test, and maintain code that meets the project's requirements and is of high quality.</font></th></tr></p>
-<tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">The responsibility of a developer is to write, test, and maintain code that meets the project's requirements and is of high quality.</font></th></p>
+
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Ken Angelo Carangan </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Documentation </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"><p align=" justify"> Oversee the project`s process improvement.</font></th></tr></p>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"><p align=" justify"> Oversee the project`s process improvement.</font></th></p>
 <tr>
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Marcus Medina </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Documentation </font></th>
