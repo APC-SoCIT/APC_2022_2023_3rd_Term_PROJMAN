@@ -84,9 +84,10 @@ An Inventory System and Ordering System for Torrecamps Company is necessary to a
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Position </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Description </font></th>   
 </tr>
+<tr>
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Stefano Franco Binay </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Project Manager </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">The project manager is responsible for leading and managing the project team to achieve the project objectives within the constraints of time, budget, and scope. </font></th></p>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">The project manager is responsible for leading and managing the project team to achieve the project objectives within the constraints of time, budget, and scope. </font></th></p></tr>
 
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Jan Terence Francisco </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Developer/IT Head </font></th>
