@@ -128,42 +128,36 @@ To recognize and motivate exceptional performance, the group will institute a re
       <th>Project Responsibility</th>
       <th>Required Skills/Expertise</th>
     </tr>
-
     <tr>
       <td>Pallas Dale Fontiveros</td>
       <td>Project Team Leader & QA</td>
       <td>Lead a project team and ensure the project is delivered on time, within budget, and to the required quality standards.</td>
       <td>Leadership, Communication, planning and organizing, risk management</td>
     </tr>
-
     <tr>
       <td>Neil Albert Garcia</td>
       <td>Project Manager</td>
       <td>Plan, execute, and close projects effectively and efficiently.</td>
       <td>Communication, Problem-solving, time management, technical skill in the project</td>
     </tr>
-
     <tr>
       <td>Bryan Gel Fabellore</td>
       <td>Developer</td>
       <td>Create front-end and back-end development for the website and test for quality checking.</td>
       <td>Complete tasks assigned by the project leader or manager.</td>
     </tr>
-
     <tr>
       <td>Gabriel Luis Antonio Perez</td>
       <td>Developer</td>
       <td>Designing, developing, testing, and deploying software solutions.</td>
       <td>Collaborate with other team members to achieve project goals. Complete tasks assigned by the project leader or manager.</td>
     </tr>
-
     <tr>
       <td>Joshua Timothy Roxas</td>
       <td>UI/UX Developer</td>
       <td>Design and create user interfaces that are aesthetically pleasing, clear, and user-friendly while taking project needs and best practices for user experience into account.</td>
       <td>Possess skills in user interface design, user experience design, front-end development, and collaboration to create visually appealing.</td>
     </tr>
-
   </table>
 
 
