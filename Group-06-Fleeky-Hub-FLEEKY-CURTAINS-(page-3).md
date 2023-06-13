@@ -1,4 +1,4 @@
-<h2>Human Resource Management Plan</h2>
+<h1>Human Resource Management Plan</h1>
 <h2>Staffing Management Plan</h2>
 <p>A strong human resource management strategy is critical to the success of any project. It acts as a template for how the project team will be managed and structured, and it assists in ensuring that the appropriate people with the right qualifications are in the right place at the right time. Roles and duties, communication protocols, and performance management measures are all part of the strategy.</p>
 
@@ -161,8 +161,10 @@ To recognize and motivate exceptional performance, the group will institute a re
   </table>
 
 
+==================================
+==Next Document==
 
-<h2>Change Management Plan</h2>
+<h1>Change Management Plan</h1>
 <h2>Introduction</h2>
 <p>The Fleeky Curtains project Communication Management Plan includes the methods and procedures to support successful communication among all project stakeholders. Clear and timely communication is critical for effective project implementation because it keeps everyone informed, engaged, and aligned throughout the project's lifespan.<br>
 
