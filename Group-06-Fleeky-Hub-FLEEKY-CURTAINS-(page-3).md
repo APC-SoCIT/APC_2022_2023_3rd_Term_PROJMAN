@@ -48,8 +48,6 @@ Overall, the human resources management plan acts as a roadmap for the project t
       <td>Define project objectives, scope, and timeline</td>
       <td>Project management, leadership, communication</td>
     </tr>
-
-
     <tr>
       <td>Project Manager</td>
       <td>Administrative tasks, documentation, client reporting, resource coordination</td>
@@ -74,7 +72,7 @@ Overall, the human resources management plan acts as a roadmap for the project t
       <td>Inspects validates deliverables. Analyzes such as compatibility, performance, usability, security, and functionality</td>
       <td>Skilled in testing and issue resolution. Analytical thinking, attention to detail, and understanding of testing procedures.</td>
     </tr>
-  </table>
+</table>
 
 <h2>Project Organizational Charts</h2>
 <p>The project organizational design of Fleeky Hub illustrates the project team and the relationships among the main stakeholders. Typically, the project sponsor is at the top of the chart, followed by the project manager who oversees administering the project's resources, scope, and schedule.</p>
