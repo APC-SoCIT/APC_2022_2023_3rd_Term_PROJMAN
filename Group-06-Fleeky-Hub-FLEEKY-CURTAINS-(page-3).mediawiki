@@ -476,11 +476,11 @@ Signed authorizations
 <p>WBS Element: A WBS Element is a single WBS component, and its associated attributes located anywhere within a WBS.  A WBS Element can contain work, or it can contain other WBS Elements or Work Packages. </p>
 
 
-
-
 <h2>Human Resource Management Plan</h2>
 <h2>Staffing Management Plan</h2>
 <p>A strong human resource management strategy is critical to the success of any project. It acts as a template for how the project team will be managed and structured, and it assists in ensuring that the appropriate people with the right qualifications are in the right place at the right time. Roles and duties, communication protocols, and performance management measures are all part of the strategy.</p>
+
+<p>The main objectives, roles, duties, and procedures involved in staffing the website development project for Fleeky Hub are outlined in this staffing management plan. It will outline the project's many phases as well as the manpower needs needed to successfully complete each one.</p>
 
 <p>Using this plan, the project manager and project team can effectively manage the project by ensuring that all team members understand their roles and responsibilities, that communication is open and effective, and that performance is monitored and managed in a way that contributes to the project's overall success.</p>
 
@@ -521,13 +521,21 @@ Overall, the human resources management plan acts as a roadmap for the project t
       <th>Competency</th>
     </tr>
     <tr>
-      <td>Project Manager</td>
+      <td>Project Team Leader</td>
       <td>Decision making, resource allocation, approval, communication, and coordination</td>
       <td>Define project objectives, scope, and timeline</td>
       <td>Project management, leadership, communication</td>
     </tr>
+
+
     <tr>
-      <td>Web Designer</td>
+      <td>Project Manager</td>
+      <td>Administrative tasks, documentation, client reporting, resource coordination</td>
+      <td>Assist the project team leader in handling tasks and communicating with the client</td>
+      <td>Organization, coordination, communication</td>
+    </tr>
+    <tr>
+      <td>Designer (Web and UI/UX)</td>
       <td>Design decision making, user experience, graphic asset, quality assurance, feedback</td>
       <td>Create visually appealing website layouts and user interface designs</td>
       <td>Graphic design, UI/UX design, creativity</td>
@@ -539,80 +547,107 @@ Overall, the human resources management plan acts as a roadmap for the project t
       <td>Web development, framework, programming languages</td>
     </tr>
     <tr>
-      <td>Project Coordinator</td>
-      <td>Administrative tasks, task coordinator, documentation, reporting, resource coordination</td>
-      <td>Assist the project manager in administrative tasks</td>
-      <td>Organization, coordination, communication</td>
+      <td>QA Checker</td>
+      <td>Verifies quality and standards. Ensure that the deliverables comply with the rules and specifications that have been set out.</td>
+      <td>Inspects validates deliverables. Analyzes such as compatibility, performance, usability, security, and functionality</td>
+      <td>Skilled in testing and issue resolution. Analytical thinking, attention to detail, and understanding of testing procedures.</td>
     </tr>
   </table>
 
 <h2>Project Organizational Charts</h2>
+<p>The project organizational design of Fleeky Hub illustrates the project team and the relationships among the main stakeholders. Typically, the project sponsor is at the top of the chart, followed by the project manager who oversees administering the project's resources, scope, and schedule.</p>
 
+<p>An internal user of the system, such as the developers of Fleeky Hub and the staff of Fleeky Curtains, may also partake in user testing and provide input on the system requirements. External users of the system (Fleeky Curtains customers) may also provide feedback on the usability and functionality of the system. The organizational chart clarifies the duties and responsibilities of each stakeholder, ensuring that everyone is aligned with the project's objectives and aims.</p>
+
+![image](https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_SS201_SF201_G06_Fleeky_Hub/blob/2c7ceb274c736da39288e41de5dc4c04b8e6c101/documentation/projman/week%204-6/project%20organization%20chart.png)
 
 ![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002947/9793dc8b-c47f-4e77-b48e-f41979eabde2)
 
 ![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002947/e3ee10f5-270c-4836-91fa-39faa1d6a899)
 
 <h2>Staffing Management</h2>
-<p>Fleeky Hub's Staffing Management Plan for the Dispatch Directory System project plays a vital role in ensuring the success of the project. It includes the strategies and procedures for acquiring, supervising, and relinquishing human resources throughout the lifecycle of a project.<br>
+<p>FThe SPOTLIGHT group and the client’s Staffing Management Plan for website development play a vital role in ensuring the success of the project. It includes the strategies and procedures for acquiring, supervising, and relinquishing human resources throughout the lifecycle of a project.<br>
 
-Fleeky Hub will quickly acquire human resources to assure the availability of necessary skills and expertise when needed. This may entail recruiting new employees, employing contractors, or utilizing internal personnel. To ensure their availability, the acquisition of resources will be coordinated with the project timeline. </p>
-
+<p>Client-Side Staffing Management:</p>
 <ul>
-<li>
-In cases where skill deficits have been identified, Fleeky Hub will provide training to ensure that team members possess the necessary skills and knowledge to perform effectively. This training may consist of both formal and informal programs. 
+<li>Fleeky Curtains is a small business that has low human resources, in which its staff revolves around family members. Each member has a specific role in the business which they are responsible for their workload assigned with.
+</li>
+<li>In the time when Fleeky Curtains will acquire enough human resources to the business, sufficient necessary skills such as marketing and experience in the workaround should be needed.
+</li>
+<li>The business can provide necessary tools and equipment to ease the workload of the staff in reorganizing, production, and customer handling. To ensure the workforce are sufficient in creating products that satisfy their customer needs.
 </li>
 <li>
-To assess the efficacy of team members and identify areas for improvement, we will conduct routine performance reviews. These evaluations will also provide feedback on the degree to which team members are reaching the project's requirements and objectives. 
+In cases where skill deficits have been identified, the staff of Fleeky Curtains will provide guidance to ensure that team members possess the necessary skills and knowledge to perform effectively. This training may consist of both formal and informal programs.
 </li>
 <li>
-To recognize and motivate exceptional performance, Fleeky Hub will institute a rewards and recognition system that may include bonuses, promotions, and other incentives. 
+To recognize and motivate exceptional performance, Fleeky Curtains will institute a reward system, aside from the salary they get, that may include bonuses and other incentives.
 </li>
 </ul>
 
-<p>Depending on the scope of the project, the personnel management plan may also include elements such as compliance with government and regulatory requirements, organizational health, and safety. These considerations will depend on the industry-specific requirements and location of the undertaking. If the Dispatch Directory System endeavor involves data privacy and security regulations, for instance, compliance with government laws will be essential. Moreover, organizational health and safety measures will be implemented if the project utilizes apparatus or technology that poses potential dangers to team members.</p>
+
+<p>SPOTLIGHT Staffing Management:</p>
+<ul>
+<li>The project manager and team leader align each role in the team with their designated responsibilities based on their skills and experience and to reduce such performance complexity.
+</li>
+<li>To ensure their availability, the acquisition of resources will be coordinated with the project timeline.
+</li>
+<li>In cases where skill deficits have been identified, the project adviser can suggest or provide supplementary training to ensure that team members possess the necessary skills and knowledge to perform effectively.
+</li>
+<li>
+To assess the efficacy of team members and identify areas for improvement, we will conduct routine performance reviews. These evaluations will also provide feedback on the degree to which team members are reaching the project's requirements and objectives.
+</li>
+<li>
+To recognize and motivate exceptional performance, the group will institute a rewards and recognition system that may include incentives.
+</li>
+</ul>
+
+<p>A small business may build a knowledgeable and enthusiastic team of website developers by putting into practice a well-defined workforce management plan. This will help to successfully create a top-notch website that satisfies the company's goals and improves its internet exposure. Review and revise the strategy as necessary to keep it in line with changing project needs and industry standards.</p>
+
+
 
   <table>
     <tr>
+      <th>Name</th> 
       <th>Role</th>
       <th>Project Responsibility</th>
-      <th>Skills Required</th>
-      <th>Number of Staff</th>
-      <th>Performance Reviews</th>
-      <th>Recognition and Rewards</th>
+      <th>Required Skills/Expertise</th>
     </tr>
+
     <tr>
-      <td>Project Manager</td>
-      <td>Plan, execute, and close projects</td>
-      <td>Leadership, communication, problem-solving, collaboration, technical skills</td>
-      <td>Depends on the scope and complexity of the project</td>
-      <td>The project manager will conduct regular performance reviews with team members to assess their progress, provide feedback, and address any issues.</td>
-      <td>The project manager will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
-    </tr>
-    <tr>
-      <td>Project Team Leader</td>
+      <td>Pallas Dale Fontiveros</td>
+      <td>Project Team Leader & QA</td>
       <td>Lead a project team and ensure the project is delivered on time, within budget, and to the required quality standards.</td>
-      <td>Leadership, communication, planning and organizing, risk management, budget management, technical skills</td>
-      <td>Depends on the scope and complexity of the project</td>
-      <td>The project leader will work with team members to set achievable performance goals and track their progress.</td>
-      <td>The project leader will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
+      <td>Leadership, Communication, planning and organizing, risk management</td>
     </tr>
+
     <tr>
-      <td>Project Team Member</td>
+      <td>Neil Albert Garcia</td>
+      <td>Project Manager</td>
+      <td>Plan, execute, and close projects effectively and efficiently.</td>
+      <td>Communication, Problem-solving, time management, technical skill in the project</td>
+    </tr>
+
+    <tr>
+      <td>Bryan Gel Fabellore</td>
+      <td>Developer</td>
+      <td>Create front-end and back-end development for the website and test for quality checking.</td>
+      <td>Complete tasks assigned by the project leader or manager.</td>
+    </tr>
+
+    <tr>
+      <td>Gabriel Luis Antonio Perez</td>
+      <td>Developer</td>
+      <td>Designing, developing, testing, and deploying software solutions.</td>
       <td>Collaborate with other team members to achieve project goals. Complete tasks assigned by the project leader or manager.</td>
-      <td>Technical skills related to the project, communication, collaboration and teamwork, problem-solving, time management</td>
-      <td>Depends on the scope and complexity of the project</td>
-      <td>The frequency and format of performance reviews will be determined based on the project's needs and the company's policies.</td>
-      <td>The project leader or manager will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
     </tr>
+
     <tr>
-      <td>Executive Sponsor</td>
-      <td>Provide strategic direction and leadership for the project. Ensure the project is aligned with the organization's goals and vision.</td>
-      <td>Leadership, strategic thinking, communication, decision-making, risk management, budget management</td>
-      <td>The executive sponsor is typically a high-level executive or member of the board of directors</td>
-      <td>The executive sponsor may conduct performance reviews of the project leader or manager to ensure they are meeting the organization's standards and goals for the project.</td>
-      <td>The executive sponsor may recognize and reward the project team for their achievements and progress towards the project's goals.</td>
+      <td>Joshua Timothy Roxas</td>
+      <td>UI/UX Developer</td>
+      <td>Design and create user interfaces that are aesthetically pleasing, clear, and user-friendly while taking project needs and best practices for user experience into account.</td>
+      <td>Possess skills in user interface design, user experience design, front-end development, and collaboration to create visually appealing.</td>
     </tr>
+
   </table>
 
 
