@@ -55,11 +55,11 @@
 = Business Case =
 == Executive Summary ==
 
-<p> The SmartBooks project proposes the implementation of an automated library management system at Asia Pacific College Library to improve the availability and accessibility of resources for employees. The goal is to increase employee access to relevant books and resources and address the issue of low library book usage, which has been identified as a problem. The project objectives are to increase book utilization by 25%, improve access to relevant resources, and reduce the time it takes to locate and borrow books. The project will be led by Sim Paul Palacio and Marc Shane Rowy and is expected to be completed within six months. The business case outlines the details of the project, including cost-benefit analysis, alternative analysis, anticipated outcomes, and recommendations for implementation. </p>
+<p> The purpose of this business case is to optimize the book and ebook acquisition process for APC by making informed decisions about which materials to purchase for student use. The project addresses the challenges of limited resources and the cost associated with acquiring books/ebooks. By analyzing usage patterns and incorporating reliable reviews, APC aims to maximize the value of its budget while providing students with high-quality, relevant resources. The project's objectives include improving cost efficiency, adopting a student-centric approach, leveraging data for decision-making, and optimizing resource allocation. By achieving these objectives, APC can enhance the learning experience, support academic success, and ensure the effective utilization of resources within the APC community. </p>
 
 == Issue ==
 
-<p> The Asia Pacific College Library is facing challenges in optimizing the utilization of its book and ebook resources. The library's collection of books and ebooks is not being fully utilized by employees, leading to a significant amount of resources going to waste. In addition, the manual tracking of book usage is time-consuming and prone to errors. The lack of an automated system to manage the library's resources is hindering the library's ability to provide efficient and effective services to its stakeholders. These issues need to be addressed to ensure that the library is providing high-quality services that meet the needs of its users while maximizing the use of its resources. </p>
+<p> The primary issue addressed in this business case is the challenge faced by APC in efficiently determining which books and ebooks to purchase for student use while considering the associated costs. Limited resources and budget constraints necessitate a strategic approach to optimize the acquisition process and ensure that APC invests in the most relevant and beneficial resources. Without an optimized process, there is a risk of acquiring materials that may not align with student needs or provide the best value for the budget, potentially impacting student satisfaction and hindering academic success. Therefore, addressing this issue is crucial to effectively allocate resources, enhance the learning experience, and support the educational goals of APC. </p>
 
 == Anticipated Outcomes ==
 
@@ -77,7 +77,7 @@
 
 == Business Case Analysis Team ==
 
-<p> The business case analysis team for the SmartBooks project consisted of Sim Paul Palacio and Marc Shane Rowy. Mr. Palacio served as the project lead and was responsible for overseeing the overall direction and management of the project. Mr. Rowy provided assistance to Mr. Palacio in carrying out the necessary research and analysis required to develop the business case. Together, they collaborated on developing the project objectives, identifying the business problem, analyzing alternative solutions, and assessing the costs and benefits of the proposed solution. Throughout the project, Mr. Palacio and Mr. Rowy will continue to serve in their respective roles and will work closely with the project team to ensure the successful implementation of the SmartBooks project. </p> 
+<p> The business case analysis team for the SmartBooks project consisted of Sim Paul Palacio. Mr. Palacio served as the project lead and was responsible for overseeing the overall direction and management of the project. He was supported by a team that assisted in the necessary research and analysis. Together, they collaborated on developing project objectives, identifying the business problem, analyzing alternative solutions, and assessing costs and benefits. The team will continue working together to ensure the successful implementation of the SmartBooks project. </p> 
 
 == Problem Definition ==
 <h3> Problem Statement </h3>
@@ -189,22 +189,35 @@ Budget:  </p>
 <table>
 
 <tr>
-<th colspan="2"> Costs </th> 
+<th colspan="2"> Total Project Cost: $320,000 </th> 
 </tr>
 
 <tr>
-<td> Library Management System </td>
-<td> ₱200,000 </td>
+<td> Costs: </td>
 </tr>
 
 <tr>
-<td> Hardware and Software Upgrades </td>
+<td> Personnel Costs </td>
+<td> ₱120,000 </td>
+</tr>
+
+<tr>
+<td> Software Development:  </td>
+<td> ₱80,000</td>
+</tr>
+
+<tr>
+<td> Hardware and Infrastructure: </td>
 <td> ₱50,000 </td>
 </tr>
 
 <tr>
-<td> Total Project Cost </td>
-<td> ₱270,000 </td>
+<td> Training and Documentation:  </td>
+<td> ₱40,000 </td>
+</tr>
+<tr>
+<td> Contingency Reserve:  </td>
+<td> $30,000 </td>
 </tr>
 
 </table>
@@ -212,9 +225,10 @@ Budget:  </p>
 <h3> Benefits </h3> 
 
 <ul> 
-<li> Increased Book Utilization by 25%: estimated annual savings of ₱75,000 </li> 
-<li> Improved Student Satisfaction with Library Collection by 15%: potential increase in student retention and enrollment, resulting in estimated annual revenue increase of ₱100,000 </li> 
-<li> Reduced Library Expenditures on Books and eBooks by 10%: estimated annual savings of ₱40,000 </li> 
+<li> Cost savings from efficient resource allocation </li> 
+<li> Enhanced student satisfaction and academic success </li> 
+<li> Improved decision-making based on data analysis </li> 
+<li> Improved decision-making based on data analysis </li> 
 </ul> 
 
 <table> 
