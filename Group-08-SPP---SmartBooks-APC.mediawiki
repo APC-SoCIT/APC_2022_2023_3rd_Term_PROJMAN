@@ -189,7 +189,7 @@ Budget:  </p>
 <table>
 
 <tr>
-<th colspan="2"> Total Project Cost: $320,000 </th> 
+<th colspan="2"> Total Project Cost: $350,000 </th> 
 </tr>
 
 <tr>
@@ -198,7 +198,7 @@ Budget:  </p>
 
 <tr>
 <td> Personnel Costs </td>
-<td> ₱120,000 </td>
+<td> ₱150,000 </td>
 </tr>
 
 <tr>
@@ -231,7 +231,7 @@ Budget:  </p>
 <li> Increased efficiency and productivity </li> 
 </ul> 
 
-<p> The investment of $320,000 in the book and ebook acquisition optimization project at APC has the potential to yield significant benefits, including cost savings, improved student satisfaction, better decision-making, and increased efficiency. </p>
+<p> The investment of $350,000 in the book and ebook acquisition optimization project at APC has the potential to yield significant benefits, including cost savings, improved student satisfaction, better decision-making, and increased efficiency. </p>
 
 == Alternative Analysis ==
 
@@ -381,72 +381,60 @@ Intended Effects of the Business Case:
 <table>
 
 <tr>
-<th colspan="2"> Summary Milestone Schedule – List key project milestones relative to project start </th>
+<th colspan="2"> Summary Milestone Schedule </th>
 </tr>
 
 <tr> 
-<th> Project Milstone </th>
-<th> Target Date </th>
+<th> Summary Milestone Schedule </th>
+<th> Target Completion Date </th>
 </tr>
 
 <tr>
-<td> Project initiation and planning phase
+<td> Requirement Analysis
 <ul>
-<li> Define project scope and objectives. </li>
-<li> Develop project plan and schedule. </li>
-<li> Establish project team and roles. </li> </ul>
+
 </td>
 
-<td> June 1, 2023 </td>
+<td> July 1 –  July 31 </td>
 </tr>
 
 <tr>
-<td> Requirements gathering and analysis phase
+<td> System Design
 <ul>
-<li> Gather and analyze data on book and eBook usage patterns. </li>
-<li> Identify high-demand materials and potential new titles. </li>
-<li> Determine necessary system features and functionality. </li> </ul>
+
 </td>
 
-<td> June 15, 2023 </td>
+<td> August 1 – August 31 </td>
 </tr>
 
 <tr>
-<td> System development and testing phase
-<ul>
-<li> Develop system for tracking book and eBook usage patterns. </li>
-<li> Test and refine the system to ensure accuracy and reliability. </li>
-<li> Implement necessary integrations with existing library systems. </li> </ul>
+<td> System Development
 </td>
 
-<td> July 15 – August 15 2023 </td>
+<td> September 1 – September 15 </td>
 </tr>
 
 <tr>
-<td> Implementation and training phase
+<td> Testing
 <ul>
-<li> Train library staff on new system and processes </li>
-<li> Integrate new system with library operations. </li>
-<li> Launch new system to students and gather feedback. </li> </ul>
+
 </td>
 
-<td> September 1 – 15 2023 </td>
+<td> September 16 – October 15 </td>
 </tr>
 
 <tr>
-<td> Maintenance and evaluation phase 
+<td> Deployment
 <ul>
-<li> Monitor system performance and usage patterns. </li>
-<li> Collect and analyze user feedback for system improvements. </li>
-<li> Make necessary updates and modifications to system over time. </li> </ul>
+
 </td>
 
 <td> October 1, 2023 </td>
 </tr>
 
 <tr> 
-<th> Project Closure </th>
-<td> October 15, 2023 </td>
+<th> Maintenance and Support </th>
+<td> October 16  - 30 </td>
 </tr>
 
 
@@ -469,27 +457,27 @@ Intended Effects of the Business Case:
 
 <tr> 
 <td> Personnel (Project Manager, Developers, Testers, etc.) </td>
-<td> ₱200,000 </td>
+<td> ₱150,000 </td>
 </tr>
 
 <tr> 
 <td> Hardware and Software </td>
-<td> ₱50,000 </td>
+<td> ₱110,000 </td>
 </tr>
 
 <tr> 
 <td> Training and Documentation </td>
-<td> ₱10,000 </td>
+<td> ₱20,000 </td>
 </tr>
 
 <tr> 
 <td> Contingency </td>
-<td> ₱20,000 </td>
+<td> ₱30,000 </td>
 </tr>
 
 <tr>
 <th> Total Planned Cost </th>
-<td> ₱280,000 </td>
+<td> ₱320,000 </td>
 </tr>
 
 </table>
