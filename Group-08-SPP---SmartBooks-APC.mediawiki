@@ -390,28 +390,30 @@ Intended Effects of the Business Case:
 </tr>
 
 <tr>
-<th> Requirement Analysis</th>
+<th> Requirement Analysis 
 <ul>
 <li> Define project requirements. </li>
 <li> Gather and analyze user requirements. </li>
 <li> Determine project scope and constraints. </li>
 </ul>
+</th>
 <td> June 15 – June 30 </td>
 </tr>
 
 <tr>
-<th> System Design </th>
+<th> System Design 
 <ul>
 <li> Create a data flow diagram </li>
 <li> Determine the database schema. </li>
 <li> Create wireframes for the user interface. </li>
 <li> Design the system architecture </li>
 </ul>
+</th>
 <td> July 1 –  July 31 </td>
 </tr>
 
 <tr>
-<th> System Development </th>
+<th> System Development
 <ul>
 <li> Set up the development environment. </li>
 <li> Develop the user interface. </li>
@@ -419,11 +421,12 @@ Intended Effects of the Business Case:
 <li> Develop the backend functionality. </li>
 <li> Integrate SmartBooks with the existing Library website. </li>
 </ul>
+</th>
 <td> August 1 – August 31 </td>
 </tr>
 
 <tr>
-<th> Testing </th>
+<th> Testing 
 <ul>
 <li> Develop a test plan. </li>
 <li> Conduct unit testing. </li>
@@ -431,28 +434,31 @@ Intended Effects of the Business Case:
 <li> Conduct system testing. </li>
 <li> Conduct user acceptance testing </li>
 </ul>
+</th>
 <td> September 1 – September 15 </td>
 </tr>
 
 <tr>
-<th> Deployment </th>
+<th> Deployment 
 <ul>
 <li> Create a deployment plan. </li>
 <li> Prepare the production environment. </li>
 <li> Install SmartBooks in the production environment. </li>
 <li> Perform system testing in the production environment. </li>
 </ul>
+</th>
 <td> September 16 – October 15 </td>
 </tr>
 
 <tr> 
-<th> Maintenance and Support </th>
+<th> Maintenance and Support 
 <ul>
 <li> Monitor system performance. </li>
 <li> Provide ongoing technical support. </li>
 <li> Perform system maintenance. </li>
 <li> Address user feedback and feature requests </li>
 </ul>
+</th>
 <td> October 16  - 30 </td>
 </tr>
 
