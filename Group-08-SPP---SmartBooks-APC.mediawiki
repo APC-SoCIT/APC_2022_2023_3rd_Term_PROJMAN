@@ -189,7 +189,7 @@ Budget:  </p>
 <table>
 
 <tr>
-<th colspan="2"> Total Project Cost: $350,000 </th> 
+<th colspan="2"> Total Project Cost: ₱350,000 </th> 
 </tr>
 
 <tr>
@@ -217,7 +217,7 @@ Budget:  </p>
 </tr>
 <tr>
 <td> Contingency Reserve:  </td>
-<td> $30,000 </td>
+<td> ₱30,000 </td>
 </tr>
 
 </table>
@@ -390,45 +390,27 @@ Intended Effects of the Business Case:
 </tr>
 
 <tr>
-<td> Requirement Analysis
-<ul>
-
-</td>
-
+<td> Requirement Analysis</td>
 <td> July 1 –  July 31 </td>
 </tr>
 
 <tr>
-<td> System Design
-<ul>
-
-</td>
-
+<td> System Design</td>
 <td> August 1 – August 31 </td>
 </tr>
 
 <tr>
-<td> System Development
-</td>
-
+<td> System Development</td>
 <td> September 1 – September 15 </td>
 </tr>
 
 <tr>
-<td> Testing
-<ul>
-
-</td>
-
+<td> Testing</td>
 <td> September 16 – October 15 </td>
 </tr>
 
 <tr>
-<td> Deployment
-<ul>
-
-</td>
-
+<td> Deployment </td>
 <td> October 1, 2023 </td>
 </tr>
 
@@ -436,8 +418,6 @@ Intended Effects of the Business Case:
 <th> Maintenance and Support </th>
 <td> October 16  - 30 </td>
 </tr>
-
-
 </table>
 
 == Summary Budget ==
