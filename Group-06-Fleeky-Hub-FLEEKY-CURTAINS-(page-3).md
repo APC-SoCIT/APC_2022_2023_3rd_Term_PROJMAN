@@ -164,9 +164,9 @@ To recognize and motivate exceptional performance, the group will institute a re
 ==================================
 ==Next Document==
 
-<h1>Change Management Plan</h1>
+<h1>Communication Management Plan</h1>
 <h2>Introduction</h2>
-<p>The Fleeky Curtains project Communication Management Plan includes the methods and procedures to support successful communication among all project stakeholders. Clear and timely communication is critical for effective project implementation because it keeps everyone informed, engaged, and aligned throughout the project's lifespan.<br>
+<p>The Fleeky Curtains Project Communication Management Plan includes the methods and procedures to support successful communication among all project stakeholders. Clear and timely communication is critical for effective project implementation because it keeps everyone informed, engaged, and aligned throughout the project's lifespan.<br>
 
 This strategy serves as a road map for creating communication channels, defining roles and duties, and delivering information in an orderly and consistent manner. By putting this strategy into action, we hope to enhance collaboration, handle problems quickly, and build a shared understanding among stakeholders.<br>
 
@@ -182,7 +182,7 @@ Regular reviews will be done to monitor and assess the success of the communicat
 
 We intend to establish a collaborative atmosphere, develop effective communication, and assure the successful implementation of the Fleeky Curtains project by adopting this Communication Management Plan. We can overcome problems, align stakeholders, and provide a high-quality product that satisfies the requirements and expectations of all parties involved by communicating transparently and consistently.<br>
 
-Fleeky Hub project outlines the communication strategy and protocols for the project team and stakeholders. The plan defines the following:</p>
+The Fleeky Hub project outlines the communication strategy and protocols for the project team and stakeholders. The plan defines the following:</p>
 
 <ol>
 <li>
@@ -192,7 +192,7 @@ Share project updates: Keep stakeholders informed about project progress, milest
 Gather feedback: Establish channels to collect feedback and suggestions from stakeholders. Surveys, feedback forms, and open forums will be employed to ensure stakeholders' voices are heard and incorporated into project decision-making processes. 
 </li>
 <li>
-Resolve issues: Provide a platform for stakeholders to raise concerns or issues and ensure they are addressed promptly. A dedicated issue tracking system and regular project meetings will facilitate effective issue resolution. 
+Resolve issues: Provide a platform for stakeholders to raise concerns or issues and ensure they are addressed promptly. A dedicated issue-tracking system and regular project meetings will facilitate effective issue resolution. 
 </li>
 <li>
 Foster collaboration: Promote collaboration and knowledge sharing among project team members and stakeholders. Collaboration tools, online platforms, and project meetings will facilitate information exchange and foster a collaborative environment. 
@@ -213,13 +213,13 @@ Project meetings: Regular project meetings will be conducted to discuss project 
 Email communication: Formal communication, such as project updates, reports, and notifications, will be shared via email. Email will serve as a primary channel for distributing important project-related information. 
 </li>
 <li>
-Collaboration tools: Online collaboration platforms, such as project management software, document sharing tools, and instant messaging applications, will be used to facilitate real-time communication and collaboration among project team members. 
+Collaboration tools: Online collaboration platforms, such as project management software, document-sharing tools, and instant messaging applications, will be used to facilitate real-time communication and collaboration among project team members. 
 </li>
 <li>
 Stakeholder surveys: Periodic surveys will be conducted to gather feedback, opinions, and suggestions from stakeholders. These surveys will provide valuable insights to improve project processes and address stakeholder concerns. 
 </li>
 <li>
-Dedicated project website: A dedicated project website or portal will be established to serve as a centralized source of project information. This platform will host project documents, announcements, and other relevant resources. 
+Dedicated project website: A dedicated project website or portal will be established to serve as a centralized source of project information. This platform will host project documents, announcements, and other relevant resources(GitHub). 
 </li>
 </ol>
 
@@ -234,13 +234,15 @@ Project Manager: The project manager will have overall responsibility for managi
 Communication Coordinator: A designated communication coordinator will facilitate and coordinate communication activities, including scheduling meetings, disseminating information, and managing communication channels. 
 </li>
 <li>
+QA Checker: Essential to the communications management strategy because they thoroughly examine all communication materials to make sure they are accurate and consistent, and follow all rules and regulations.
+</li>
+<li>
 Project Team: All project team members will actively engage in communication, provide updates, and seek clarification when needed. They will contribute to project meetings, share relevant information, and collaborate with other team members. 
 </li>
 <li>
 Stakeholders: Stakeholders are responsible for actively participating in communication processes, providing feedback, and raising concerns or issues. They should stay informed about project updates and actively engage in relevant communication channels. 
 </li>
 </ol>
-
 
 
 
@@ -503,6 +505,10 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Responsible for providing financial resources and support for the project. Approves project scope, budget, and timelines. Ensures alignment between project goals and business objectives. Provides guidance and strategic direction to the project team. Acts as the main point of contact for senior management and other stakeholders. Reviews and approves project deliverables. Monitors project progress and provides necessary interventions when required. Takes responsibility for the overall success of the project.</td>
     </tr>
     <tr>
+      <td>Project Manager</td>
+      <td>Customers: Provide feedback and requirements, test the website, and provide insights to improve the user experience. Fleeky Curtains Management: Provide guidance, approve project decisions, and ensure the project aligns with business goals. Employees: Utilize and provide feedback on the website, actively participate in testing, and contribute to the project's success. Investors: Provide financial support and expect a return on investment. Suppliers: Coordinate with the project team to ensure the smooth integration of their products/services into the website.</td>
+    </tr>
+    <tr>
       <td>Quality Assurance Team</td>
       <td>Responsible for ensuring the quality and reliability of the Fleeky Hub website. Develops and implements test plans, test cases, and test scripts. Conducts functional, performance, and security testing. Identifies and reports any defects or issues found during testing. Collaborates with the development team to resolve issues and ensure the website meets the specified requirements. Ensures adherence to quality standards and best practices. Provides recommendations for process improvements to enhance the quality of the product.</td>
     </tr>
@@ -511,19 +517,10 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Customers: Provide feedback and requirements, test the website, and provide insights to improve the user experience. Fleeky Curtains Management: Provide guidance, approve project decisions, and ensure the project aligns with business goals. Employees: Utilize and provide feedback on the website, actively participate in testing, and contribute to the project's success. Investors: Provide financial support and expect a return on investment. Suppliers: Coordinate with the project team to ensure the smooth integration of their products/services into the website.</td>
     </tr>
     <tr>
-      <td>Project Manager</td>
-      <td>Customers: Provide feedback and requirements, test the website, and provide insights to improve the user experience. Fleeky Curtains Management: Provide guidance, approve project decisions, and ensure the project aligns with business goals. Employees: Utilize and provide feedback on the website, actively participate in testing, and contribute to the project's success. Investors: Provide financial support and expect a return on investment. Suppliers: Coordinate with the project team to ensure the smooth integration of their products/services into the website.</td>
-    </tr>
-    <tr>
       <td>Development Team</td>
       <td>Designs, develops, and maintains the Fleeky Hub website. Collaborates with the project manager to define technical requirements and specifications. Translates design mock-ups and user stories into functional code. Conducts unit testing and debugging of the website. Integrates third-party services and APIs as required. Implements security measures and ensures data protection. Works closely with the QA team to resolve any identified issues or bugs. Maintains documentation of the codebase and provides support for future enhancements or updates.</td>
     </tr>
   </table>
-
-
-
-
-
 
 
 <h2>Project Team Directory</h2>
@@ -547,14 +544,14 @@ Implement lessons learned from previous projects to enhance communication practi
     </tr>
     <tr>
       <td>Neil Albert Garcia</td>
-      <td>Manager</td>
+      <td>Manager & Coordinator</td>
       <td>Internal</td>
       <td>Project Coordinator/Manager</td>
       <td>nagarcia@student.apc.edu.ph</td>
     </tr>
     <tr>
       <td>Pallas Dale Fontiveros</td>
-      <td>Project Manager</td>
+      <td>Project Team Leader & QA</td>
       <td>Internal</td>
       <td>Leader</td>
       <td>prfontiveros@student.apc.edu.ph</td>
@@ -585,14 +582,14 @@ Implement lessons learned from previous projects to enhance communication practi
 <h3>Communication Methods and Technologies</h3>
   <ul>
     <li>Email: Email communication can be used for formal and written communication between team members, stakeholders, and clients. It allows for the exchange of detailed information, documentation, and updates.</li>
-    <li>Project Management Software: Utilizing project management software, such as Trello, Asana, or Jira, can facilitate communication by providing a centralized platform for task management, progress tracking, and team collaboration. These tools often include features like task assignment, file sharing, and commenting.</li>
-    <li>Online Meetings and Video Conferencing: Platforms like Zoom, Microsoft Teams, or Google Meet can be used to conduct virtual meetings, video conferences, and screen sharing sessions. These tools enable real-time communication and discussion, even when team members are geographically dispersed.</li>
-    <li>Instant Messaging: Tools like Slack or Microsoft Teams can be used for quick and informal communication among team members. Instant messaging allows for real-time conversations, file sharing, and team collaboration.</li>
-    <li>Document Collaboration Tools: Platforms like Google Docs, Microsoft Office 365, or Dropbox Paper enable multiple users to collaborate on the same document simultaneously. This facilitates real-time editing, commenting, and version control.</li>
+    <li>Project Management Software: Utilizing project management software, such as Trello, can facilitate communication by providing a centralized platform for task management, progress tracking, and team collaboration. These tools often include features like task assignment, file sharing, and commenting.</li>
+    <li>Online Meetings and Video Conferencing: Platforms like Microsoft Teams can be used to conduct virtual meetings, video conferences, and screen sharing sessions. These tools enable real-time communication and discussion, even when team members are geographically dispersed.</li>
+    <li>Instant Messaging: Tools like Microsoft Teams can be used for quick and informal communication among team members. Instant messaging allows for real-time conversations, file sharing, and team collaboration.</li>
+    <li>Document Collaboration Tools: Platforms like Microsoft Office 365 enable multiple users to collaborate on the same document simultaneously. This facilitates real-time editing, commenting, and version control.</li>
     <li>In-person Meetings: Face-to-face meetings can be scheduled for important discussions, project reviews, or decision-making processes. These meetings provide an opportunity for more in-depth and interactive communication.</li>
-    <li>File Sharing Platforms: Platforms like Google Drive, Dropbox, or SharePoint can be used to store and share project-related documents, files, and resources. This ensures that team members have access to the latest versions of files and promotes collaboration.</li>
+    <li>File Sharing Platforms: Platforms like SharePoint can be used to store and share project-related documents, files, and resources. This ensures that team members have access to the latest versions of files and promotes collaboration.</li>
     <li>Project Dashboard: Creating a project dashboard or intranet site can serve as a centralized hub for project information, updates, announcements, and important documents. It provides a single source of truth for all stakeholders to access project-related information.</li>
-    <li>Social Collaboration Tools: Social collaboration platforms like Yammer, Workplace by Facebook, or Microsoft Yammer can be used to foster a sense of community and collaboration within the project team. These platforms enable team members to share updates, ideas, and engage in discussions.</li>
+    <li>Social Collaboration Tools: Social collaboration platforms like Facebook can be used to foster a sense of community and collaboration within the project team. These platforms enable team members to share updates, ideas, and engage in discussions.</li>
     <li>Mobile Communication: Utilizing mobile communication technologies, such as text messaging or mobile apps, can enable quick and convenient communication among team members, especially when they are on the go.</li>
   </ul>
 
@@ -618,7 +615,7 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Meeting</td>
       <td>Once every week</td>
       <td>Informal</td>
-      <td>Team Meetings</td>
+      <td>Team Meetings - MS Teams</td>
     </tr>
     <tr>
       <td>Requirements Gathering</td>
@@ -627,7 +624,7 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Meeting</td>
       <td>As needed</td>
       <td>Formal</td>
-      <td>In-person/Video Calls</td>
+      <td>In-person/Video Calls - MS Teams</td>
     </tr>
     <tr>
       <td>Progress Reports</td>
@@ -636,7 +633,7 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Artifact</td>
       <td>Once every sprint</td>
       <td>Written Document</td>
-      <td>Project Management Tool (e.g., Jira)</td>
+      <td>Project Management Tool (e.g. Trello)</td>
     </tr>
     <tr>
       <td>Bug Reports</td>
@@ -645,7 +642,7 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Artifact</td>
       <td>As discovered</td>
       <td>Written Document</td>
-      <td>Bug Tracking Tool (e.g., Bugzilla)</td>
+      <td>Bug Tracking Tool (e.g. Bugzilla)</td>
     </tr>
     <tr>
       <td>Stakeholder Updates</td>
@@ -654,7 +651,7 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Meeting</td>
       <td>As needed</td>
       <td>Formal</td>
-      <td>Email</td>
+      <td>Email - Outlook</td>
     </tr>
     <tr>
       <td>User Feedback</td>
@@ -663,7 +660,7 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Artifact</td>
       <td>As provided</td>
       <td>Written Document</td>
-      <td>Email</td>
+      <td>Email - Outlook</td>
     </tr>
   </table>
 
