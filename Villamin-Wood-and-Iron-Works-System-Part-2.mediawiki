@@ -14,7 +14,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 <p>The system implemented by Villamin Wood and Iron Works will prioritize user-friendliness and accommodation for the two clients and the actual business. It will seamlessly integrate with the organization's current technology, ensuring adaptability. The Quality Management Plan will encompass both product and process quality standards. It will include a comprehensive strategy with specific procedures and reporting for the overall overview of quality performance. </p> 
 
-===6.8.2. Quality Management Approach==
+==6.8.2. Quality Management Approach==
 <p> To guarantee that the project meets all following requirements and expectations of all stakeholders, the Quality Management Plan will provide a comprehensive system for effectively managing and maintaining the project's quality. To determine and address any quality issues which may arise, the plan will lay down a detailed set of procedures. </p>
 
 <p>The following are the roles and duties of the quality management plan: </p>
@@ -52,7 +52,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
  <tr>
  <td><p style="text-align:center;">Project Development Team</p></td>
- <td><p style="text-align:center;">responsible for making contributions to accomplish the project objectives. ensuring that each deliverable is completed. Providing expertise and collaboration to define and satisfy business requirements to ensure the project's success. </p></td>
+ <td><p style="text-align:center;">contributions to accomplish the project objectives. ensuring that each deliverable is completed. Providing expertise and collaboration to define and satisfy business requirements to ensure the project's success. </p></td>
  </tr>
  
  <tr>
@@ -63,12 +63,12 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 <p> Every aspect of the project will involve the integration of quality management, which will be the responsibility of the entire team. Feedback and interaction from the client will always be the priority of the team to improve the project. </p>
 <p> These are the following steps that include: </p>
-# <b>Define Quality Standards </b>- The project team will prioritize delivering value to the customer by establishing quality standards that are in line with the principles of Agile Methodology.
-# <b>Quality Planning </b>- To determine the project's requirements and prioritize the best features, the team will maintain regular collaboration and schedule a meeting with stakeholders. This procedure includes creating the Product Backlog and establishing quality objectives to guarantee that the project transition produces value and abides by quality standards.
-# <b>Quality Control </b>- Quality control incorporates the most common way of looking into and testing to distinguish any potential issues that emerge at various stages. This system is done throughout the run to ensure that the established requirements and project goals are fulfilled. 
-# <b>Quality Assurance </b>: The team will employ efficient methods and procedures to ensure that the project adheres to established standards and guidelines. To actively prevent issues and defects from occurring, they will implement quality assurance measures. 
-# <b>Continuous Improvement </b>: The team consistently monitors its performance throughout the project's development to identify areas for improvement and make necessary adjustments. In this process, feedback plays a crucial role in involving stakeholders and fostering team collaboration. The team can identify areas that need improvement and improve the project's overall quality by actively seeking feedback. 
-# <b> Communication </b>: Effective communication between the development team and stakeholders holds significant importance in this process. It serves multiple purposes, including updating stakeholders on the current quality status of the product, demonstrating alignment between the system's processes and the product's goals, and providing stakeholders with an opportunity to provide valuable feedback. 
+# <b>Define Quality Standards:</b>The project team will prioritize delivering value to the customer by establishing quality standards that are in line with the principles of Agile Methodology.
+# <b>Quality Planning:</b> To determine the project's requirements and prioritize the best features, the team will maintain regular collaboration and schedule a meeting with stakeholders. This procedure includes creating the Product Backlog and establishing quality objectives to guarantee that the project transition produces value and abides by quality standards.
+# <b>Quality Control: </b> Quality control incorporates the most common way of looking into and testing to distinguish any potential issues that emerge at various stages. This system is done throughout the run to ensure that the established requirements and project goals are fulfilled. 
+# <b>Quality Assurance: </b> The team will employ efficient methods and procedures to ensure that the project adheres to established standards and guidelines. To actively prevent issues and defects from occurring, they will implement quality assurance measures. 
+# <b>Continuous Improvement: </b> The team consistently monitors its performance throughout the project's development to identify areas for improvement and make necessary adjustments. In this process, feedback plays a crucial role in involving stakeholders and fostering team collaboration. The team can identify areas that need improvement and improve the project's overall quality by actively seeking feedback. 
+# <b> Communication: </b> Effective communication between the development team and stakeholders holds significant importance in this process. It serves multiple purposes, including updating stakeholders on the current quality status of the product, demonstrating alignment between the system's processes and the product's goals, and providing stakeholders with an opportunity to provide valuable feedback. 
 
 <p> In conclusion, the Villamin Wood and Iron Works system project's quality management strategy will prioritize the delivery of a high-quality product that meets customer requirements by employing an Agile methodology. To go beyond meeting quality expectations, the approach will remain adaptable and continuously improved, and the team ensures that it is in line with the organization's quality standards and that it fulfills the requirements of the project stakeholders. </p>
 
@@ -214,10 +214,10 @@ Knowledge in using an online system.
 
 ==Staffing Management==
 <p>Staffing Management is a crucial part of ensuring the success of the project. It shows the plans and process of the project, managing the acquired information, and it also shows the responsibilities and task of the human resources.
-# Acquisition must be completed as soon as possible to obtain the skills and knowledge required for the project. This will involve using new employees, outside contractors, and even internal staff as needed to complete the project.
-# Prior to anything else, training will be used to reduce errors in the project working environment and to further hone skills for better application in the creation and execution of deliverables appropriately.
-# Regular performance evaluations will be done to evaluate the performance of team members and pinpoint potential improvement areas. These evaluations also comment on the team members' performance in achieving the project's goals, objectives, and expectations.
-# A recognition and incentive program will be put in place to reward and encourage exceptional performance. This could apply to rewards, promotions, and other advantages.
+#* Acquisition must be completed as soon as possible to obtain the skills and knowledge required for the project. This will involve using new employees, outside contractors, and even internal staff as needed to complete the project.
+#* Prior to anything else, training will be used to reduce errors in the project working environment and to further hone skills for better application in the creation and execution of deliverables appropriately.
+#* Regular performance evaluations will be done to evaluate the performance of team members and pinpoint potential improvement areas. These evaluations also comment on the team members' performance in achieving the project's goals, objectives, and expectations.
+#* A recognition and incentive program will be put in place to reward and encourage exceptional performance. This could apply to rewards, promotions, and other advantages.
 
 <p> Regular reviews and updates to the Staffing Management Plan will be made as necessary to Ensure that it continues to be in line with the project's requirements and objectives. It is crucial that the project manager performs a thorough analysis of the project's particular requirements and laws to ascertain whether any extra items need to be added to the management of staffing.  </p>
 
@@ -278,7 +278,7 @@ Knowledge in using an online system.
  <td><p style="text-align:center;"> Salary Increase </p></td>
  </tr>
  <tr>
- <td><p style="text-align:center;"> System Tester </p></td>
+ <td><p style="text-align:center;">Project Tester </p></td>
  <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for program. </p></td>
  <td><p style="text-align:center;">Technical Skills, Communication Skills, Time Management, Analytic and Problem-Solving Abilities. </p></td>
  <td><p style="text-align:center;"> 1 </p></td>
