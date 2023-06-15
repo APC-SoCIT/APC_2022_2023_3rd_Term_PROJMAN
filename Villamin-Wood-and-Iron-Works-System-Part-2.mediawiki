@@ -2852,14 +2852,14 @@ Knowledge in using an online system.
 
 ==Risk Management Plan==
 ==Introduction==
-<p> In this project, the risk management plan aims to breakdown and identify the potential risks that might be there for the project. That is why the risk management plan is being developed to response to those potential risks and manage those risks by ensuring that the project team can mitigate it as we achieve the project’s objectives. </p>
+<p> In this project, the risk management plan aims to breakdown and identify the potential risks that might be there for the project. That is why the risk management plan is being developed to response to those potential risks and manage those risks by ensuring that the project team can mitigate them as we achieve the project’s objectives. </p>
 <p> The risk management plan includes an overview of the risk management process, showing the roles and responsibilities of the project team and the risk assessment approach. It is key to be able to identify all the potential risks and as a team be able to develop resolutions for it. </p>
 
 ==Top Three Risks==
 <p>The project’s top three risks are:</p>
-# Technical risks which may occur due to delays in development of the project or technical issues. This may result in issues with the budget and delays in the project timeline as well.
-# Resource risks which may occur when there are insufficient resources which may be needed for further development.
-# Security Risks which may occur when there is a data breach or any other form of hacking of the system.
+# Technical risks may occur due to delays in development of the project or technical issues. This may result in issues with the budget and delays in the project timeline as well.
+# Resource risks may occur when there are insufficient resources that may be needed for further development.
+# Security Risks may occur when there is a data breach or any other form of hacking of the system.
 
 ==Risk Management Approach==
 <p>The risk management approach focuses on quickly identifying the potential risks and composing mitigation plans that are capable of handling and resolving the risks that may occur. All stakeholders will be included in this risk management process as it requires a cooperative approach and contribution from everyone involved. </p>
@@ -2867,14 +2867,17 @@ Knowledge in using an online system.
 ==Risk Identification==
 <p> The risks identified in the risk assessment were updated and regularly monitored to ensure that they are being managed effectively. Some of the potential risks identified in the risk assessment are listed below: </p>
 
-# <b> Technical Risks </b>- There is a risk that the project may be delayed due to technical reasons.
-# <b> Resource Risks </b>- There is a risk that the project may not have access to enough resources causing a stop of work or adjustments in budget or other delays.
-# <b> Security Risks </b>- There is a risk of being hacked and having a breach in the system.
+#* <b> Technical Risks - </b> There is a risk that the project may be delayed due to technical reasons.
+#* <b> Resource Risks - </b> There is a risk that the project may not have access to enough resources causing a stop of work or adjustments in budget or other delays.
+#* <b> Security Risks - </b> There is a risk of being hacked and having a breach in the system.
 # <b> Changes in Technology </b>- There is a risk that a change in the industry of technology occurs which may require additional work or resources to adapt.
-# <b> Human Error </b>- There is risk that a person may commit a mistake or error that could negatively affect the project.
-# <b> Unforeseen Circumstances </b>- There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.
+#* <b> Human Error - </b> There is a risk that a person may commit a mistake or error that could negatively affect the project.
+#* <b> Unforeseen Circumstances - </b> There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.
 
 <p> To mitigate these risks, the team has developed a plan which will mitigate all risks and monitor them all in the process to protect the project avoid all risks. </p>
+
+==Risk Qualification and Prioritization==
+<p>Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.</p>
 
 ==Risk Monitoring==
 <p> Risks will always be present especially during the project’s life cycle which is why it is important to continuously monitor those risks and document the entire process which includes identifying the conditions which may trigger certain risks. </p>
@@ -2888,11 +2891,11 @@ Knowledge in using an online system.
 
 <p>To accomplish risk mitigation and avoidance the team should identify the potential risks and prioritize what to handle first based on the severity of its impact. Provided below are considerations or options available for the project manager to avoid and mitigate the risks:</p>
 
-# <b>Resource Allocation </b>- Guaranteeing that the project has all the required resources is crucial for the project to be successful and efficient which is why resource allocation is important to ensure that the resources are available to the team to finish the project.
-# <b>Risk Assessment </b>- The team needs to analyze potential risks effectively to anticipate it and immediately apply resolutions.
+# <b>Resource Allocation - </b> Guaranteeing that the project has all the required resources is crucial for the project to be successful and efficient which is why resource allocation is important to ensure that the resources are available to the team to finish the project.
+# <b>Risk Assessment - </b>The team needs to analyze potential risks effectively to anticipate them and immediately apply resolutions.
 # <b>Contingency Planning </b>- To be prepared for potential risks, the team needs to produce multiple backup plans in case some may not work due to some reason in each scenario.
-# <b>Contingency Planning </b>- To be prepared for potential risks, the team needs to produce multiple backup plans in case some may not work due to some reason in each scenario.
-# <b>Communication </b>- It is important for the entire team to be able to communicate clearly and prevent misunderstandings as it has the potential to create risks. Having clear communication between the project team, clients, and stakeholders can help minimize these risks.
+# <b>Contingency Planning - </b> To be prepared for potential risks, the team needs to produce multiple backup plans in case some may not work due to some reason in each scenario.
+# <b>Communication - </b> It is important for the entire team to be able to communicate clearly and prevent misunderstandings as it has the potential to create risks. Having clear communication between the project team, clients, and stakeholders can help minimize these risks.
 
 ==Risk Register==
 <p> The risk register includes a thorough explanation of each risk and its potential effects, as well as the mitigation steps taken. The risk register will be maintained up to date throughout the project to make sure that it reflects the project’s current condition. </p>
