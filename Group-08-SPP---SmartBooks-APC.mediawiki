@@ -390,27 +390,27 @@ Intended Effects of the Business Case:
 </tr>
 
 <tr>
-<td> Requirement Analysis</td>
+<th> Requirement Analysis</th>
 <td> July 1 –  July 31 </td>
 </tr>
 
 <tr>
-<td> System Design</td>
+<th> System Design </th>
 <td> August 1 – August 31 </td>
 </tr>
 
 <tr>
-<td> System Development</td>
+<th> System Development</th>
 <td> September 1 – September 15 </td>
 </tr>
 
 <tr>
-<td> Testing</td>
+<th> Testing </th>
 <td> September 16 – October 15 </td>
 </tr>
 
 <tr>
-<td> Deployment </td>
+<th> Deployment </th>
 <td> October 1, 2023 </td>
 </tr>
 
@@ -457,7 +457,7 @@ Intended Effects of the Business Case:
 
 <tr>
 <th> Total Planned Cost </th>
-<td> ₱320,000 </td>
+<td> ₱350,000 </td>
 </tr>
 
 </table>
