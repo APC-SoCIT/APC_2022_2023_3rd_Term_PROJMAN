@@ -593,13 +593,11 @@ Co-Manager: Marc Shane Rowy
 ## Define Project requirements
 ## Gather and analyze user requirements
 ## Determine project scope and constraints
-## Create a requirements traceability matrix
 # Design
 ## Create a design document
 ## Determine the database schema
 ## Create wireframes for the user interface
 ## Design the system architecture
-## Create a data flow diagram
 # Development 
 ## Set up the development environment
 ## Develop the user interface
