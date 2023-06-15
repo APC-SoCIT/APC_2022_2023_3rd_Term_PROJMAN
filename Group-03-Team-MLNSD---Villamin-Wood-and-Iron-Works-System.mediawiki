@@ -640,10 +640,10 @@
 <p>The Villamin Wood and Iron Works System plan for scope management describes the technologies and resources that will be used to create, document, and handle the project's context. The team will utilize agile methodologies and collaborative tools to build an ordering system that meets the project's demands. </p>
 
 # <b> Collect Requirements – </b> To gather and record the system's requirements, the project team will employ a variety of methods, including client interviews and discussions. 
-# <b> 2. Define Scope – </b> To establish the scope, the user stories and scope statement will be integrated into a project management plan. To accommodate any alterations to the project's scope as it progresses, the plan will be updated on a regular basis. 
-# <b> 3. Verify Scope – </b> – The project group will utilize an agile methodology to test and confirm the project's expectations align with the requirements and are in accordance with the scope statement.
-# <b> 4. Control Scope – </b> A change control process will be used to manage any changes to the project's scope. This process will look at how these changes will affect the project's schedule, budget, and quality. Additionally, each change solicitation guarantees that the change is fundamental, practical, and lined up with the project objectives. 
-#<b> 5. Create WBS – </b> This process breaks project deliverables down into progressively smaller and more manageable components which, at the lowest level, are called work packages.  This hierarchical structure allows for more simplicity in scheduling, costing, monitoring, and controlling the project. 
+# <b> Define Scope – </b> To establish the scope, the user stories and scope statement will be integrated into a project management plan. To accommodate any alterations to the project's scope as it progresses, the plan will be updated on a regular basis. 
+# <b> Verify Scope – </b> – The project group will utilize an agile methodology to test and confirm the project's expectations align with the requirements and are in accordance with the scope statement.
+# <b> Control Scope – </b> A change control process will be used to manage any changes to the project's scope. This process will look at how these changes will affect the project's schedule, budget, and quality. Additionally, each change solicitation guarantees that the change is fundamental, practical, and lined up with the project objectives. 
+# <b> Create WBS – </b> This process breaks project deliverables down into progressively smaller and more manageable components which, at the lowest level, are called work packages.  This hierarchical structure allows for more simplicity in scheduling, costing, monitoring, and controlling the project. 
 
 ===6.2.2 Scope Management Approach===
 <p>The Project Manager, Mabelle Aspeli, will have the authority and responsibility to manage scope management. Mabelle Aspeli will collaborate with the project sponsor, Mr. Manuel Villamin Jr, to establish and regulate the project's scope. </p>
@@ -658,7 +658,7 @@
 # <b>Product Owner-</b> This person is responsible for making strategic decisions and collaborating with the development team and ensuring that the business objectives are achieved. 
 # <b>Project Sponsor-</b> Project Sponsor will have the authority to approve all changes, particularly in the project budget, schedule, and project scope. </ul>
 
-===6.2.4 Scope Definition==
+==6.2.4 Scope Definition==
 <p>The team developed the project Villamin Wood and Iron Works System to build a system that resolves all the issues presented by the client and to meet their demands which include the following: </p>
 
 # Creating an Ordering System in the online store to address the conflicts with their manual ordering process. 
@@ -728,7 +728,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 ===6.3.3. Measuring Project Costs===
 <p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
 <p><b>Depreciated Value:</b></p>
-<ul> 	Assuming that the Useful Life in Years is 5 years until the equipment will not operate optimally, the Depreciation Rate of the item will be deducted 20% per year. </ul>
+<ul> Assuming that the Useful Life in Years is 5 years until the equipment will not operate optimally, the Depreciation Rate of the item will be deducted 20% per year. </ul>
 <ul>Depreciation Value (DV)=SRP-(SRP*(Years x Depreciation Rate))
 	Example:
 	PhP50,000-(PhP50000 * (3 years * 20%)) = PhP20,000
@@ -753,29 +753,21 @@ the project manager alongside the team and stakeholders. The project manager wil
    </ul>
 
 ===6.3.4. Reporting Format===
-<p><b>1. Executive Summary - </b> The Team will discuss the reason for creating the project and its objectives.</p> 
-<p><b>2. Project Budget - </b> Acknowledging the costs expected and their limitations will determine how the project will perform, this will also set expectations.</p> 
-<p><b>3. Project Status - </b> - Determining if there are bottlenecks, seeing if the project is accomplishing its objectives, and what can be done for improvements.</p> 
-<p><b>4. Milestone Achieved - </b> - Keeping in record what the set milestones in the project will see its effectiveness.</p> 
-<p><b>5. Project Variance - </b> - This will discuss what other variables are affecting the project’s budget and the project itself.</p> 
-<p><b>6. Setting New Milestones - </b> - Creating new milestones for the project will predict its success and see what are other factors that control the project's performance beyond what is documented.</p> 
-<p><b>7. Approval - </b> - After the success of the meeting, the team will determine what to pursue based on what was the outcome of the meeting. This will then help the team to accomplish the necessary steps based on what the client has provided and is expecting.</p> 
-<p>Reporting on cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. </p>
+# <b> Executive Summary - </b> The Team will discuss the reason for creating the project and its objectives.
+# <b> Project Budget - </b> Acknowledging the costs expected and their limitations will determine how the project will perform, this will also set expectations.
+# <b>3. Project Status - </b> Determining if there are bottlenecks, seeing if the project is accomplishing its objectives, and what can be done for improvements.
+# <b> Milestone Achieved - </b> Keeping in the record what the set milestones in the project will see its effectiveness.</p> 
+# <b> Project Variance - </b> This will discuss what other variables are affecting the project’s budget and the project itself.</p> 
+# <b> Setting New Milestones - </b> Creating new milestones for the project will predict its success and see what other factors that control the project's performance beyond what is documented.</p> 
+# <b> Approval - </b> After the success of the meeting, the team will determine what to pursue based on what was the outcome of the meeting. This will then help the team to accomplish the necessary steps based on what the client has provided and is expecting.</p> 
 
 ===6.3.5. Cost Variance Response Process===
-<p>The team, alongside the Project Sponsor, has allowed a leeway of 20% of the total budget in preparation for unidentified costs. This is then subjected to approval before allocating the cost. Variables such us Service Down Time, Change of Platform, Change of Service Charge, and New Feature Implementations are some of the costs that can be overlooked. If the threshold set has been exceeded, the Team will conduct a corrective action to minimize overbudgeting. All of these will then be presented to the Project Sponsor and Product Owner during the Monthly Project Meeting. If the new budget has been approved, the team will implement the necessary steps for the Projects best interest, but if not, the team will create new alternatives to meet the clients’ expectations.</p>
+<p>The team, alongside the Project Sponsor, has allowed a leeway of 20% of the total budget in preparation for unidentified costs. This is then subjected to approval before allocating the cost. Variables such as Service Down Time, Change of Platform, Change of Service Charge, and New Feature Implementations are some of the costs that can be overlooked. If the threshold set has been exceeded, the Team will conduct a corrective action to minimize overbudgeting. All of these will then be presented to the Project Sponsor and Product Owner during the Monthly Project Meeting. If the new budget has been approved, the team will implement the necessary steps for the project's best interest, but if not, the team will create new alternatives to meet the client’s expectations.</p>
 
 ===6.3.6. Cost Changes Control Process===
-<p><b> Cost Change Control </b> The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p> 
+<p><b> Cost Change Control - </b> The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p> 
 ===6.3.7. Project Budget=== 
-<p>The budget for this project is detailed below.  Costs for this project are presented in various categories... </p> 
-<p> Fixed Costs </p>
-<p> Material Costs </p>
-<p> Contractor Costs </p>
-<p> Total Project Cost </p>
-<p> Management Reverse </p>
 
-===6.3.8 Sponsor Acceptance===
 
 
 
@@ -785,37 +777,37 @@ the project manager alongside the team and stakeholders. The project manager wil
 <p>The schedule management plan is a roadmap for the process of executing the project. This is important as they provide the status of the project to the project team, sponsor, and stakeholders. The purpose of the schedule management plan is to specify the methodology the project team will employ in putting together the project schedule. The schedule management plan must be identified, analyzed, documented, prioritized, approved, or rejected, and published. This plan will help the team to monitor the progress of the project and manage the changes to the project schedule after being approved. </p>
 
 ===6.4.2. Schedule Management Approach===
-<p>The schedule management plan will be created with the help of the deliverables in the Work Breakdown Structure (WBS). The specific work packages that must be carried out to complete each deliverable will be identified by the activity definition. To determine the order of work packages, an activity sequencing will be used and assigned between project activities. The number of work periods necessary to finish work packages will be determined using activity duration estimation. To finish schedule development, resource estimating will be used to allocate resources to work packages. </p>
+<p>The schedule management plan will be created with the help of the deliverables in the Work Breakdown Structure (WBS). The specific work packages that must be carried out to complete each deliverable will be identified by the activity definition. To determine the order of work packages, activity sequencing will be used and assigned between project activities. The number of work periods necessary to finish work packages will be determined using activity duration estimation. To finish schedule development, resource estimating will be used to allocate resources to work packages. </p>
 
-<p>Once an initial schedule has been done, the project team and stakeholders will review the task and must agree on the proposed work package assignments, duration, and schedule. Afterwards, the project team will have it reviewed by the project sponsor for the approval and have the schedule baselined.  </p>
+<p>Once an initial schedule has been done, the project team and stakeholders will review the task and must agree on the proposed work package assignments, duration, and schedule. Afterward, the project team will have it reviewed by the project sponsor for approval and have the schedule baselined.  </p>
 
 <p>The milestones for the projects schedule are as follows: </p>
 
-<ul> 1. Completion of deliverables </ul>
-<ul> 2. Completion of scope management plan and Work Breakdown Structure (WBS) </ul>
-<ul> 3. Approval of initial schedule baseline </ul>
-<ul> 4. Project Sponsor budget approval </ul>
-<ul> 5. Roles and responsibilities approval </ul>
-<ul> 6. Acceptance of deliverables </ul>
+#* Completion of deliverables 
+#* Completion of the scope management plan and Work Breakdown Structure (WBS) 
+#* Approval of initial schedule baseline 
+#* Project Sponsor budget approval
+#* Roles and responsibilities approval 
+#* Acceptance of deliverables 
 
 <p>Schedule development roles and responsibilities are the following: </p>
 
-<ul> <b>Project Manager – </b> responsible for facilitating and checking the progress of the deliverables. The project manager also supports the team, stakeholder, and project sponsor on validating the proposed schedule. </ul>
-<ul> <b>Product Owner – </b> the project owner is tasked with the responsibility of advocating for the stakeholders and working together with the development team. Additionally, in charge of maximizing the product's value and making major strategic decisions throughout its lifespan. </ul>
-<ul> <b>Project Developer– </b> manages a project's operations and typically collaborates with the project manager to create activities, schedules, and regular progress reports.
-</ul>
-<ul> <b>Project Tester - </b> responsible for ensuring that the system satisfies the specified criteria, functions as intended, and satisfies the established quality standard. </ul>
-<ul> <b>Project Sponsor - </b> responsible for reviewing of proposed schedule and approval of the final schedule before baselined. </ul>
+#* <b>Project Manager – </b> responsible for facilitating and checking the progress of the deliverables. The project manager also supports the team, stakeholders, and project sponsor in validating the proposed schedule. 
+#* <b> Quality Assurance – </b> responsible for ensuring the completion of the deliverables. Also responsible for reviewing the proposed schedule and assigning activities after the schedule’s approval.
+#* <b> Product Owner – </b> – responsible for reviewing the proposed schedule and assisting in approvals. 
+#* <b>Project Developer– </b> manages a project's operations and typically collaborates with the project manager to create activities, schedules, and regular progress reports.
+#* <b>Project Tester - </b> responsible for ensuring that the system satisfies the specified criteria, functions as intended, and satisfies the established quality standard. 
+#* <b>Project Sponsor - </b> responsible for reviewing of proposed schedule and approval of the final schedule before baselined. 
 
 ===6.4.3.Schedule Control===
-<p>The project schedule will be reviewed and updated on a twice a week basis with actual start, actual initial completion, and the final completion percentage which will be given and reviewed by the Project Manager. Additionally, the project manager will be responsible for holding meetings for the updates and reviews, submission of schedule change requests, and reports of the schedule status according to the project’s communication plan. </p>
+<p>The project schedule will be reviewed and updated on a twice-a-week basis with the actual start, actual initial completion, and the final completion percentage which will be given and reviewed by the Project Manager. Additionally, the project manager will be responsible for holding meetings for the updates and reviews, submission of schedule change requests, and reports of the schedule status according to the project’s communication plan. </p>
 
 <p>The project team will be responsible for participating in the meetings for updates and reviews, reporting any changes of actual start and actual initial completion to the project manager. </p>
 
-<p>The project sponsor will be responsible for maintaining the acknowledgement of the project schedule status, review and approve any schedule change requests that will be submitted by the project manager. </p>
+<p>The project sponsor will be responsible for maintaining the acknowledgment of the project schedule status, reviewing and approving any schedule change requests that will be submitted by the project manager. </p>
 
 ===6.4.4. Schedule Changes and Thresholds===
-<p>If there is a need for a change in the schedule, the team must hold a meeting with the project manager and identify the proposed changes as they will affect the tasks in progress. While holding the meeting, the team must identify the cause of change and other changes and find a way of taking an alternative action to use for the success of the proposed scheduled plan. Afterwards, the project manager may review the proposed changes and submit the schedule change request form to the project stakeholders and project sponsor. </p>
+<p>If there is a need for a change in the schedule, the team must hold a meeting with the project manager and identify the proposed changes as they will affect the tasks in progress. While holding the meeting, the team must identify the cause of change and other changes and find a way of taking an alternative action to use for the success of the proposed scheduled plan. Afterward, the project manager may review the proposed changes and submit the schedule change request form to the project stakeholders and project sponsor. </p>
 
 ===6.4.5. Scope Change===
 <p>The project team will need to assess the impact of any changes to the project scope that have been approved by the project sponsor on the current schedule. The project manager may request that the schedule be re-baselined to consider any changes that must be made as part of the new project scope if it is determined that the scope change will significantly affect the current project schedule. This request must be reviewed and approved by the project sponsor before the schedule can be re-baselined. </p>
