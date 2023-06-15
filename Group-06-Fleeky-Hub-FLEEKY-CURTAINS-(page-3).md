@@ -161,9 +161,6 @@ To recognize and motivate exceptional performance, the group will institute a re
   </table>
 
 
-==================================
-==Next Document==
-
 <h1>Communication Management Plan</h1>
 <h2>Introduction</h2>
 <p>The Fleeky Curtains Project Communication Management Plan includes the methods and procedures to support successful communication among all project stakeholders. Clear and timely communication is critical for effective project implementation because it keeps everyone informed, engaged, and aligned throughout the project's lifespan.<br>
