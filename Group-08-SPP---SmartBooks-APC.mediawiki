@@ -392,60 +392,55 @@ Intended Effects of the Business Case:
 <tr>
 <th> Requirement Analysis</th>
 <li> Define project requirements. </li>
-<li> </li>
-<li> </li>
-<td> July 1 –  July 31 </td>
+<li> Gather and analyze user requirements. </li>
+<li> Determine project scope and constraints. </li>
+<td> June 15 – June 30 </td>
 </tr>
 
 <tr>
 <th> System Design </th>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<td> August 1 – August 31 </td>
+<li> Create a data flow diagram </li>
+<li> Determine the database schema. </li>
+<li> Create wireframes for the user interface. </li>
+<li> Design the system architecture </li>
+<td> July 1 –  July 31 </td>
 </tr>
 
 <tr>
 <th> System Development </th>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<td> September 1 – September 15 </td>
+<li> Set up the development environment. </li>
+<li> Develop the user interface. </li>
+<li> Create the database schema. </li>
+<li> Develop the backend functionality. </li>
+<li> Integrate SmartBooks with the existing Library website. </li>
+<td> August 1 – August 31 </td>
 </tr>
 
 <tr>
 <th> Testing </th>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<td> September 16 – October 15 </td>
+<li> Develop a test plan. </li>
+<li> Conduct unit testing. </li>
+<li> Conduct integration testing. </li>
+<li> Conduct system testing. </li>
+<li> Conduct user acceptance testing </li>
+<td> September 1 – September 15 </td>
 </tr>
 
 <tr>
 <th> Deployment </th>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<td> October 1, 2023 </td>
+<li> Create a deployment plan. </li>
+<li> Prepare the production environment. </li>
+<li> Install SmartBooks in the production environment. </li>
+<li> Perform system testing in the production environment. </li>
+<td> September 16 – October 15 </td>
 </tr>
 
 <tr> 
 <th> Maintenance and Support </th>
-<li> Monitor system performance.
-Provide ongoing technical support.
-Perform system maintenance.
-Address user feedback and feature requests
-</li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
+<li> Monitor system performance. </li>
+<li> Provide ongoing technical support. </li>
+<li> Perform system maintenance. </li>
+<li> Address user feedback and feature requests </li>
 <td> October 16  - 30 </td>
 </tr>
 
