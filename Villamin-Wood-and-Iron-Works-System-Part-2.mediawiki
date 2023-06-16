@@ -3191,8 +3191,6 @@ Knowledge in using an online system.
 # <b>Review Escalation Process - </b>This can be reviewed to learn from the previous issues and find ways to further improve and avoid those circumstances.
 
 
-
-
 =Implementation Plan=
 ==Executive Summary==
 <p> Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. </p>
@@ -3216,11 +3214,13 @@ Knowledge in using an online system.
 
 ; Transition Team Organization
 ; Roles and Responsibilities
-# <b>Project Manager </b>- The responsibility of the project manager leads this project to its completion. The project manager guarantees to meet all the requirements, setting a plan for the deadline of deliverables, and speaking with the client is effective to ensure progress.
-# <b>Project Stakeholder </b>- responsible for allocating the required resources to guarantee the success of the project. Assuming responsibility for the relevant tasks and objectives. Staying updated on the project's advancements and sharing relevant information with the necessary individuals. Taking proactive steps to identify and fulfill training and development needs.
+# <b>Project Manager - </b> The responsibility of the project manager leads this project to its completion. The project manager guarantees to meet all the requirements, setting a plan for the deadline of deliverables, and speaking with the client is effective to ensure progress.
+# <b>Quality Assurance - </b>accountable for ensuring all project deliverables meets established quality standards.
+# <b>Project Tester - </b>ensuring the system meets the specified requirements by designing and executing test cases and identifying and reporting defects.
+ensuring the system meets the specified requirements by designing and executing test cases and identifying and reporting defects.
+# <b>Project Owner - </b>making strategic decisions and collaborating with the development team to ensure that the requirements are completed according to the objectives.
+# <b>Project Developers </b> are responsible for the project's design and development into action. Also, the developer is most likely to collaborate with the new owner for general comprehension of the process before the transition of technical knowledge.
 # <b>Project Sponsor </b>- the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule.
-# <b>Project Developers </b>- are responsible for the project's design and development into action. Also, the developer is most likely to collaborate with the new owner for general comprehension of the process before the transition of technical knowledge.
-# <b>Project Team </b>- responsible for all deliverables such as documentation, planning, and implementing project schedules.
 
 ==Workforce Transition ==
 <p> The workforce transition is part of the transition plan for the Villamin Wood and Iron Works Ordering System. To establish the transition, and run efficiently, the team planned to test to determine if there are issues that may arise. </p>
@@ -3241,23 +3241,23 @@ Knowledge in using an online system.
 <p> This project has no existing contracts or subcontract agreements. As a result, no contract or related agreement changeover is necessary. </p>
 
 ==Property Transition==
-<p><b>Government Furnished Equipment (GFE) </b></p>
+; Government Furnished Equipment (GFE)
 <p>This section of the transition plan is not applicable since Government Furnished Equipment (GFE) is not involved in the Villamin Wood and Iron Works Ordering System. </p>
-<p><b>Incumbent Owned Equipment </b></p>
+; Incumbent Owned Equipment 
 <p>All equipment owned by the incumbent will remain upon completion and approval of the Villamin Wood and Iron Works Ordering System. Any equipment needed to support the client's applications and services should be specified in the plan, including whether the client or the new contractor will have the choice to purchase it.  </p>
 <p> The plan must include all necessary documentation, such as purchase agreement, bill of sale, financial statements, permits, licenses, registrations, and all necessary documents and procedures must be followed accurately and in compliance with local laws and regulations. </p>
 
 ==Intellectual Property==
-<p><b>User Accounts and Passwords </b></p>
+; User Accounts and Passwords 
 <p> The company, Villamin Wood and Iron Works, pointed out that they do not directly collect or store usernames and passwords for customer accounts. Instead, they use a third-party platform, like the Facebook page, to connect with customers and provide access to their services. Customers are urged to check in with their Facebook credentials already in place to avoid creating new accounts or passwords. This strategy guarantees a secure and seamless user experience while protecting client privacy. </p>
 <p> The integration of the system with the Facebook platform, as well as proper configuration and adherence to their rules, will be the primary focus during the implementation phase. Customers will be given detailed instructions on how to log in using their Facebook accounts, emphasizing the significance of protecting their login information. The company prioritizes the integrity and security of client accounts while boosting convenience and user happiness by utilizing Facebook's well-established security procedures. </p>
 <p> Although user accounts are present on Facebook, Villamin Wood and Iron Works do not collect details other than Usernames, and User Profiles. This means that the team will not be able to transfer Facebook credentials such us User Accounts and Passwords to the proposed system. </p>
 
 ==Knowledge Transfer==
 ; Documentation/Manuals
-#* The project team will provide documentation and manuals for the Villamin Wood and Iron Works company for better understanding regarding the operation of the system.
-# The team will provide a manual that contains step-by-step instructions on how to perform operation regards to the system. This will allow the store owner or manager to easily operate the system.
-#* The team will provide documentation and other relevant documentation for the company for better understanding of the system and how it works.
+# The project team will provide documentation and manuals for the Villamin Wood and Iron Works company for better understanding regarding the operation of the system.
+# The team will provide a manual that contains step-by-step instructions on how to perform operations regards to the system. This will allow the store owner or manager to easily operate the system.
+# The team will provide documentation and other relevant documentation for the company for a better understanding of the system and how it works.
 
 <p> As part of the Knowledge Transfer Plan, the project team and the store owner/manager will be scheduling a meeting to ensure that knowledge transfer is successful, and any questions or concerns will be addressed urgently. Any changes regard to the system, the company will inform you to ensure that they are updated. </p>
 
@@ -3266,9 +3266,9 @@ Knowledge in using an online system.
 ==Handover and Acceptance==
 <p> The process of handover and acceptance will start if the transition plan is completed. The team will set a schedule for the formal handover and a meeting with the new owner and employees to discuss the transition plan. This will include all the deliverables and documents. </p>
 
-<p> During the handover meeting, all required documents and deliverables must be completed wherein the team will present the transition plan accordingly to the company then they will further review the materials that was provided and discuss if there are any concerns regarding to the requirements. The formal acceptance document will only be signed if the company owner resolves all the issues. This will serve as an agreement and evidence that the handover has been successful alongside the signatures of the stakeholders. </p>
+<p> During the handover meeting, all required documents and deliverables must be completed wherein the team will present the transition plan accordingly to the company then they will further review the materials that were provided and discuss if there are any concerns regarding the requirements. The formal acceptance document will only be signed if the company owner resolves all the issues. This will serve as an agreement and evidence that the handover has been successful alongside the signatures of the stakeholders. </p>
 
-<p> Overall, the handover and acceptance of section of the contract transition out plan contains detailed roadmap for the successful handover and ensures that all the stakeholders are contented to the process or the outcome of the project. </p>
+<p> Overall, the handover and acceptance of section of the contract transition out plan contains the detailed roadmap for the successful handover and ensures that all the stakeholders are contented with the process or the outcome of the project. </p>
 
 ==Sponsor Acceptance==
 <p> The project acceptance document contains all the deliverables and the formal acceptance signed by the new owner of this project for the Villamin Wood and Iron Works System. All the acceptance criteria were defined in the project scope statement. </p>
