@@ -711,7 +711,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 # If the request is approved, the Project Manager will create a plan of action to implement the change, revise the initial project scope, and communicate the change to all relevant stakeholders.
 # The project team will continue with the original scope if the request is rejected. 
 
-==Cost Management Plan==
+=Cost Management Plan=
 ==Introduction==
 <p>The Cost Management Plan will include the required resources and process of estimating and tracking the cost to keep expenses within the planned budget. Mabelle Aspeli, our Project Manager, will be responsible for managing and reporting on the project expenses throughout the project duration. She will also have the authority to make and approve changes to the project to bring it back within the budget. The Project Cost Performance will be measured using a set of formulas that integrate schedule, scope, and costs to measure project success. The Project Manager will review the cost deviations she will be presenting to the project sponsor, and she will also provide options for the project back on budget. </p>
 
@@ -724,7 +724,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 <p><b> Cost Optimization - </b> The team will seek ways to optimize costs by identifying cost-saving opportunities, improving efficiency, and exploring alternatives while considering the desired quality and performance. </p> 
 <p><b> Cost Reporting - </b>  The team will generate regular reports and updates on cost performance, including actual costs incurred, forecasted costs, and variance analysis, to keep stakeholders informed and facilitate decision-making.  </p> 
 <p><b> Risk Management - </b> The team will assess and manage potential risks that could impact costs, such as cost overruns, schedule delays, or changes in scope. Mitigation strategies are developed to minimize the impact of risks on project costs. </p> 
-===6.3.3. Measuring Project Costs===
+==Measuring Project Costs==
 <p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
 <p><b>Depreciated Value:</b></p>
 <ul> Assuming that the Useful Life in Years is 5 years until the equipment will not operate optimally, the Depreciation Rate of the item will be deducted 20% per year. </ul>
@@ -751,7 +751,7 @@ the project manager alongside the team and stakeholders. The project manager wil
 	Actual Cost = PhP5,988
    </ul>
 
-===6.3.4. Reporting Format===
+==Reporting Format==
 # <b> Executive Summary - </b> The Team will discuss the reason for creating the project and its objectives.
 # <b> Project Budget - </b> Acknowledging the costs expected and their limitations will determine how the project will perform, this will also set expectations.
 # <b>3. Project Status - </b> Determining if there are bottlenecks, seeing if the project is accomplishing its objectives, and what can be done for improvements.
@@ -760,22 +760,18 @@ the project manager alongside the team and stakeholders. The project manager wil
 # <b> Setting New Milestones - </b> Creating new milestones for the project will predict its success and see what other factors that control the project's performance beyond what is documented.</p> 
 # <b> Approval - </b> After the success of the meeting, the team will determine what to pursue based on what was the outcome of the meeting. This will then help the team to accomplish the necessary steps based on what the client has provided and is expecting.</p> 
 
-===6.3.5. Cost Variance Response Process===
+==Cost Variance Response Process==
 <p>The team, alongside the Project Sponsor, has allowed a leeway of 20% of the total budget in preparation for unidentified costs. This is then subjected to approval before allocating the cost. Variables such as Service Down Time, Change of Platform, Change of Service Charge, and New Feature Implementations are some of the costs that can be overlooked. If the threshold set has been exceeded, the Team will conduct a corrective action to minimize overbudgeting. All of these will then be presented to the Project Sponsor and Product Owner during the Monthly Project Meeting. If the new budget has been approved, the team will implement the necessary steps for the project's best interest, but if not, the team will create new alternatives to meet the client’s expectations.</p>
 
-===6.3.6. Cost Changes Control Process===
+==Cost Changes Control Process==
 <p><b> Cost Change Control - </b> The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p> 
-===6.3.7. Project Budget=== 
+==Project Budget===
 
-
-
-
-
-==6.4. Schedule Management Plan==
-===6.4.1. Introduction===
+=Schedule Management Plan=
+==Introduction==
 <p>The schedule management plan is a roadmap for the process of executing the project. This is important as they provide the status of the project to the project team, sponsor, and stakeholders. The purpose of the schedule management plan is to specify the methodology the project team will employ in putting together the project schedule. The schedule management plan must be identified, analyzed, documented, prioritized, approved, or rejected, and published. This plan will help the team to monitor the progress of the project and manage the changes to the project schedule after being approved. </p>
 
-===6.4.2. Schedule Management Approach===
+==Schedule Management Approach==
 <p>The schedule management plan will be created with the help of the deliverables in the Work Breakdown Structure (WBS). The specific work packages that must be carried out to complete each deliverable will be identified by the activity definition. To determine the order of work packages, activity sequencing will be used and assigned between project activities. The number of work periods necessary to finish work packages will be determined using activity duration estimation. To finish schedule development, resource estimating will be used to allocate resources to work packages. </p>
 
 <p>Once an initial schedule has been done, the project team and stakeholders will review the task and must agree on the proposed work package assignments, duration, and schedule. Afterward, the project team will have it reviewed by the project sponsor for approval and have the schedule baselined.  </p>
@@ -798,17 +794,17 @@ the project manager alongside the team and stakeholders. The project manager wil
 #* <b>Project Tester - </b> responsible for ensuring that the system satisfies the specified criteria, functions as intended, and satisfies the established quality standard. 
 #* <b>Project Sponsor - </b> responsible for reviewing of proposed schedule and approval of the final schedule before baselined. 
 
-===6.4.3.Schedule Control===
+==Schedule Control==
 <p>The project schedule will be reviewed and updated on a twice-a-week basis with the actual start, actual initial completion, and the final completion percentage which will be given and reviewed by the Project Manager. Additionally, the project manager will be responsible for holding meetings for the updates and reviews, submission of schedule change requests, and reports of the schedule status according to the project’s communication plan. </p>
 
 <p>The project team will be responsible for participating in the meetings for updates and reviews, reporting any changes of actual start and actual initial completion to the project manager. </p>
 
 <p>The project sponsor will be responsible for maintaining the acknowledgment of the project schedule status, reviewing and approving any schedule change requests that will be submitted by the project manager. </p>
 
-===6.4.4. Schedule Changes and Thresholds===
+==Schedule Changes and Thresholds==
 <p>If there is a need for a change in the schedule, the team must hold a meeting with the project manager and identify the proposed changes as they will affect the tasks in progress. While holding the meeting, the team must identify the cause of change and other changes and find a way of taking an alternative action to use for the success of the proposed scheduled plan. Afterward, the project manager may review the proposed changes and submit the schedule change request form to the project stakeholders and project sponsor. </p>
 
-===6.4.5. Scope Change===
+==Scope Change==
 <p>The project team will need to assess the impact of any changes to the project scope that have been approved by the project sponsor on the current schedule. The project manager may request that the schedule be re-baselined to consider any changes that must be made as part of the new project scope if it is determined that the scope change will significantly affect the current project schedule. This request must be reviewed and approved by the project sponsor before the schedule can be re-baselined. </p>
 
 =Continuation=
