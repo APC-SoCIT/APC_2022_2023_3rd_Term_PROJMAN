@@ -2734,249 +2734,8 @@ Knowledge in using an online system.
 
 </table>
 
-==6.10. Procurement Management Plan==
-===6.10.1. Introduction===
-<p>A procurement plan is a vital component of any organization's strategic planning process, as it outlines the approach and strategy for acquiring goods, services, or works from external sources. It serves as a roadmap that guides procurement activities, ensuring that the organization obtains the necessary resources efficiently, effectively, and in compliance with relevant regulations and policies. </p>
 
-<p>It considers the organization's overall objectives, budgetary constraints, and specific project requirements. The plan outlines the procurement methods, timelines, and responsibilities for each procurement activity. The primary purpose of a procurement plan is to ensure transparency, fairness, and value for money in the procurement process. By having a well-defined plan in place, organizations can mitigate risks, avoid unnecessary delays, and maximize the benefits of their procurement activities. </p>
 
-<p>The procurement plan shows the details of multiple suppliers that can be managed by the company and the approval process in the contract. The plan also includes the decision criteria, establishment of contract deliverables, and schedule of deadlines, which explains the contracts that are coordinated with the project scope, budget, and schedule. </p>
-
-<p>Overall, organizations must have a well-developed procurement strategy in place if they want to accomplish their goals methodically and affordably. Transparency, fairness, and value for money are ensured by the structured framework it provides for the procurement of goods, services, or works. Organizations can streamline their procurement processes, lower risks, and guarantee that the acquisition of goods and services is carried out in a transparent and effective manner by creating a thorough procurement plan. </p>
-
-===6.10.2.Procurement Risks===
-<p> Procurement risks are potential problems that could potentially harm the project's success come up during the procurement process. To reduce these risks, it is crucial to recognize them and take proactive measures to address their influence over the project. </p>
-
-<p> The Villamin Wood and Iron Works Ordering System project may contain procurement activities that carry risks which are included but not limited to the following: </p>
-
-# Changes to the project's scope, schedule, or budget, may have an impact on vendor commitments and procurement activities.
-# Unclear and insufficient information in the documentation may lead to conflict between the team and the client.
-# Incomplete contract terms or legal issues that will affect the project’s reputation and legal rights.
-# Lack of communication and transparency between the team and the vendors, which may lead to misunderstanding.
-
-<p> To lessen the impact of the risks, this plan will include strategies for identifying, evaluating, and reducing risks. Throughout the course of the project, this plan will be continuously reviewed and updated to make sure that risks are recognized and promptly addressed. Furthermore, we'll put into practice strict processes and procedures for reducing the risks involved in procurement management. </p>
-
-==6.10.3.Procurement Risk Management==
-; 1. Identification of Procurement Risks
-<p>The following are the potential risks of the project: </p>
-
-#* Sudden change in the cost of goods and services.
-#* Lacking information on the contract’s terms and conditions.
-#* Conflict due to misinformation from the team to the vendor about the project.
-
-; 2. Risk Mitigation Strategies
-<p>The following are the strategies that will be implemented: </p>
-
-#* Thorough research into the identity of the company supplier and their goods and services.
-#* Conduct meetings as much as possible for communicating reports to clear confusion about the project.
-#* Establish clear and fair contract terms and conditions that will protect the company and the project.
-#* Regular monitoring throughout the procurement process to ensure that the team will be ready for any emerging risks.
-
-; 3. Assignment of Responsibilities
-: Villamin Wood and Iron Works Online System need clear roles and responsibilities to help ensure accountability, clarity, and effective coordination. It is essential to clearly communicate the assigned responsibilities to all parties involved and ensure that everyone understands their roles and obligations. Regular communication, coordination, and collaboration among the responsible parties contribute to the smooth execution of the procurement plan and successful procurement outcomes.
-
-; 4. Communication and Reporting
-: Effective communication and reporting play a crucial role in ensuring transparency, coordination, and accountability throughout the procurement process. Regular and clear communication helps stakeholders stay informed, aligned, and engaged. It enables the exchange of critical information, progress updates, and timely resolution of issues.
-
-: This ensures that relevant stakeholders are kept informed about procurement activities, supplier selection processes, contract status, and any potential risks or issues. It will promote collaboration, enable timely decision-making, and provide a platform for addressing concerns, feedback, and suggestions.
-
-; 5. Continuous Improvement
-: Continuous improvement is a fundamental aspect of the procurement process, driving efficiency, effectiveness, and innovation. Lessons learned from past procurement experiences will be documented and shared to avoid repeating mistakes and capitalize on best practices.
-
-: The procurement plan will emphasize the commitment to continuous improvement as an integral part of the procurement lifecycle, ensuring that the organization remains adaptive, responsive, and proactive in meeting evolving needs and achieving excellence.
-
-===6.10.4. Cost Determination===
-
-<p> Villamin Wood and Iron Works Online System’s cost determination is a critical aspect of the procurement process, ensuring that the organization obtains goods or services at the most favorable price while maintaining quality and meeting requirements. When calculating the project's overall cost, it is important to take project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenses into account. </p>
-
-<p> Project management-related expenses for personnel, hardware, and software are all included. While integration costs cover the price of integrating the system with other programs or third-party applications, development costs cover the cost of creating software, hardware, testing, and quality assurance. The price of purchasing the necessary tools, software, and services to design and put the system into use is included in the procurement costs. The costs associated with training personnel to use the system effectively are also covered. </p>
-
-<p> This includes conducting thorough cost analysis, considering the total cost of ownership, conducting market research and benchmarking, engaging in effective cost negotiation, and maintaining cost transparency and documentation. By employing these strategies, the procurement team can make informed decisions, optimize cost savings, and achieve value for money while procuring goods and services that meet the organization's needs and quality standards. </p>
-
-<p> Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the complete success of Villamin Wood and Iron Works Online System project within the given budget constraints. </p>
-
-===6.10.5. Procurement Constraints===
-
-<p> Procurement constraints are inherent limitations and factors that can influence the procurement process and pose challenges to achieving procurement objectives. The following constraints are considered in Villamin Wood and Iron Works Online System project’s procurement process: </p>
-
-# <b>Budget constraint: </b> The project was given with a limited financial resources by the client. This requires careful budget planning and cost optimization strategies to ensure procurement objectives are met within the allocated budget.
-# <b>Schedule constraints: </b> The project has a strict deadline, so procurement tasks must be finished promptly to keep the project on schedule. Any delays in the procurement process could affect the project's overall schedule and cause it to take longer to complete.
-# <b>Technology constraints: </b> Villamin Wood and Iron Works Online System requires technical needs and features that will allow customers to view products and services, to be able to order and pay for their products. Additionally, it must have a user-friendly interface that is simple to navigate and open to users with various levels of technical proficiency.
-# <b>Resource constraints: </b> To ensure that procurement activities can be completed effectively and efficiently, the procurement process must consider the availability of internal resources, such as personnel.
-<p> By recognizing and proactively addressing these constraints, organizations can navigate the procurement landscape more efficiently and effectively, leading to better decision-making, cost optimization, and overall procurement success. </p>
-
-===6.10.6. Contract Approval Process===
-
-<p> The contract approval process is a critical step in the procurement lifecycle, ensuring that contracts are reviewed, authorized, and executed in accordance with established policies and procedures. These procedures include the following: </p>
-
-#* <b>Contract Initiation:</b> The procurement process will be initiated by the project manager by sending a Workday request for procurement to the procurement officer.
-#* <b>Contract Planning: </b> A procurement plan that specifies the kind of contract to be used, the evaluation standards, and the deadlines for procurement activities will be created by the procurement officer.
-#* <b>Contract Development: </b>The procurement officer will create the contract documents, such as the Terms and conditions, a pricing schedule, and a Statement of Work (SOW) after the procurement plan has been approved.
-#* <b>Contract Review: </b> The legal department will examine the contract documents to make sure they adhere to all relevant laws and rules.
-#* <b>Contract Approval: </b> The Contract Review Committee will be asked to approve the contract documents. The Committee will then assess the contract documentation and provide the Project Manager with a recommendation.
-#* <b>Contract Execution: </b>The Procurement Officer will execute the contract and issue a purchase order during the Workday after it has been approved. 
-#* <b>Contract Monitoring: </b> To make sure the vendor is observing the terms of the contract, the project manager will monitor their performance. Additionally, the procurement officer will keep an eye on the agreement to make sure that all deliverables are fulfilled, and payments are made in accordance with the contract's terms.
-
-<p> Overall, by establishing a clear and structured contract approval process, organizations can enhance transparency, accountability, and efficiency in their procurement activities, minimizing potential legal and financial risks while fostering effective supplier relationships. </p>
-
-===6.10.7. Decision Criteria==
-<p> Decision criteria are a set of predefined factors and considerations used to evaluate and make informed decisions in the procurement process. The following are the decision criteria of Villamin Wood and Iron Works Online System project that will be used by the contract review board: </p>
-
-#* <b>Schedule: </b> The vendor must show they can complete the project on time and meet all deliverables, including important deadlines and milestones.
-#* <b>Business Needs: </b> The project must be aligned with the company’s business needs, such as increasing operational effectiveness, enhancing customer experience, or an increase in revenue.
-#* <b>Pricing: </b> During the decision-making process, the cost of the vendor's suggested solution will be considered. The vendor's pricing should be competitive and reasonable considering the market analysis and additional proposals received.
-# <b>Risk Management: </b>The vendor must show that they have a solid grasp of potential risks and mitigation techniques. This includes identifying potential risks associated with projects and procurement.
-# <b>Technical Requirements: </b> The system must adhere to the organization's technical specifications, which may include compatibility with current systems, security protocols, and industry-specific standards.
-# <b>Compliance:</b>The vendor must comply with all applicable laws, rules, and agreements, including those relating to intellectual property rights, data privacy, and security.
-
-<p> The use of clear and well-defined decision criteria promotes consistency, transparency, and accountability in the procurement decision-making process, enabling organizations to make informed choices that yield favorable outcomes. </p>
-
-===6.10.8. Performance Metrics for Procurement Activities===
-<p> The following performance metrics will be used by Villamin Wood and Iron Works Online System project for procurement activities: </p>
-
-; 1. Vendor Performance Rating
-: The rating is calculated by giving points to numerous factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with five being the best, can be created by averaging the total score.
-
-; 2. Customer Satisfaction
-: Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery.
-
-; 3. Procurement Cycle Time
-: The length of time needed to complete the procurement process from need identification to the issuance of a purchase order or contract.
-
-; 4. Cost Variance
-: This metric contrasts actual and anticipated costs associated with procurement. To calculate, divide the result by the planned costs after deducting the actual costs.
-
-; 5. Contract Management
-: The success of contract management procedures like contract extensions, modifications, and supplier performance evaluation. By establishing and monitoring performance metrics, organizations can track their procurement performance, identify areas for improvement, and make data-driven decisions to optimize procurement activities. Performance metrics enable organizations to gauge the value and impact of their procurement efforts, drive continuous improvement, and ensure alignment with strategic objectives.
-
-==Risk Management Plan==
-==Introduction==
-<p> In this project, the risk management plan aims to breakdown and identify the potential risks that might be there for the project. That is why the risk management plan is being developed to response to those potential risks and manage those risks by ensuring that the project team can mitigate them as we achieve the project’s objectives. </p>
-<p> The risk management plan includes an overview of the risk management process, showing the roles and responsibilities of the project team and the risk assessment approach. It is key to be able to identify all the potential risks and as a team be able to develop resolutions for it. </p>
-
-==Top Three Risks==
-<p>The project’s top three risks are:</p>
-# Technical risks may occur due to delays in development of the project or technical issues. This may result in issues with the budget and delays in the project timeline as well.
-# Resource risks may occur when there are insufficient resources that may be needed for further development.
-# Security Risks may occur when there is a data breach or any other form of hacking of the system.
-
-==Risk Management Approach==
-<p>The risk management approach focuses on quickly identifying the potential risks and composing mitigation plans that are capable of handling and resolving the risks that may occur. All stakeholders will be included in this risk management process as it requires a cooperative approach and contribution from everyone involved. </p>
-
-==Risk Identification==
-<p> The risks identified in the risk assessment were updated and regularly monitored to ensure that they are being managed effectively. Some of the potential risks identified in the risk assessment are listed below: </p>
-
-#* <b> Technical Risks - </b> There is a risk that the project may be delayed due to technical reasons.
-#* <b> Resource Risks - </b> There is a risk that the project may not have access to enough resources causing a stop of work or adjustments in budget or other delays.
-#* <b> Security Risks - </b> There is a risk of being hacked and having a breach in the system.
-# <b> Changes in Technology </b>- There is a risk that a change in the industry of technology occurs which may require additional work or resources to adapt.
-#* <b> Human Error - </b> There is a risk that a person may commit a mistake or error that could negatively affect the project.
-#* <b> Unforeseen Circumstances - </b> There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.
-
-<p> To mitigate these risks, the team has developed a plan which will mitigate all risks and monitor them all in the process to protect the project avoid all risks. </p>
-
-==Risk Qualification and Prioritization==
-<p>Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.</p>
-
-==Risk Monitoring==
-<p> Risks will always be present especially during the project’s life cycle which is why it is important to continuously monitor those risks and document the entire process which includes identifying the conditions which may trigger certain risks. </p>
-
-<p> As for the plan, the project manager will incorporate and assign a risk manager to oversee the monitoring process which will help the team to determine if the risks require a higher level of attention in case the risks trigger. The risk manager will provide report updates during team meetings to keep everyone updated. </p>
-
-<p> Furthermore, it should be noted that not only the risk manager should pay attention to any risks around the project, but the entire project team should also remain aware of the identified risks and the potential they have to impact the project which is why everyone is encouraged to help and notify the project manager or risk manager in case new risks occur. </p>
-
-==Risk Mitigation and Avoidance==
-<p> The risk management plan will be created by the team based on the criteria created rating the risks based on their impact and importance. In preparation for those risks, the project team will work alongside with stakeholders to put mitigation techniques in place to mitigate the risks. </p>
-
-<p>To accomplish risk mitigation and avoidance the team should identify the potential risks and prioritize what to handle first based on the severity of its impact. Provided below are considerations or options available for the project manager to avoid and mitigate the risks:</p>
-
-# <b>Resource Allocation - </b> Guaranteeing that the project has all the required resources is crucial for the project to be successful and efficient which is why resource allocation is important to ensure that the resources are available to the team to finish the project.
-# <b>Risk Assessment - </b>The team needs to analyze potential risks effectively to anticipate them and immediately apply resolutions.
-# <b>Contingency Planning </b>- To be prepared for potential risks, the team needs to produce multiple backup plans in case some may not work due to some reason in each scenario.
-# <b>Contingency Planning - </b> To be prepared for potential risks, the team needs to produce multiple backup plans in case some may not work due to some reason in each scenario.
-# <b>Communication - </b> It is important for the entire team to be able to communicate clearly and prevent misunderstandings as it has the potential to create risks. Having clear communication between the project team, clients, and stakeholders can help minimize these risks.
-
-==Risk Register==
-<p> The risk register includes a thorough explanation of each risk and its potential effects, as well as the mitigation steps taken. The risk register will be maintained up to date throughout the project to make sure that it reflects the project’s current condition. </p>
-<p>This is the Work breakdown structure of our group which is a diagram that breakdowns the project scope and shows the tasks that are required to complete the project. </p>
-
-<table border="1" width="70%" align="center">
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RISK ID</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">RISK RANK</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">RISK</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">CATEGORY</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">DESTINATION/OWNER</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">PROBABILITY</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">IMPACT</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">STATUS</p></td>
- </tr>
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 001</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Technical Risks</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that delays in development which leads to the risk of not finishing the project 
-  on time and other errors caused by the conflict. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Technology</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 002</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">2</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Resource Risks</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk of having insufficient resources which may be needed to accomplish the project on 
-  time. Thus, resulting in delays and a budget overrun. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Organizational</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 003</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">3</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Security Risks</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk of being hacked and compromising the data of the client. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Security</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">System Developer</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 004</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">4</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Changes in Technology</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that a change in the industry of technology occurs which may require additional 
-  work or resources to adapt. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Technology</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 005</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">5</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Unforeseen Circumstances</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that circumstances such as natural disasters could cause disturbance and impact 
-  the project in an unexpected way. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Natural</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
-</table>
 
 =Communication Management Plan=
 ==Introduction==
@@ -3000,7 +2759,6 @@ Knowledge in using an online system.
 # <b> Consistent updates - </b> It is important that all stakeholders are informed of the updates regarding the project regularly to keep them in the loop of what is happening during the development.
 # <b> Effective Communication - </b> This is crucial for conveying project-related information to stakeholders in a matter that is clear and shows that they can comprehend the messages and vice versa.
 # <b> Transparency - </b> It is important to establish transparency to gain the trust of the stakeholders. This involves openly discussing everything with the stakeholders including issues and risks.
-
 
 ==Roles==
 <table border="1" width="70%" align="center">
@@ -3190,6 +2948,250 @@ Knowledge in using an online system.
 # <b>Documentation - </b> It is important to document the entire escalation process from identifying the problem to its resolution.
 # <b>Review Escalation Process - </b>This can be reviewed to learn from the previous issues and find ways to further improve and avoid those circumstances.
 
+==Risk Management Plan==
+==Introduction==
+<p> In this project, the risk management plan aims to break down and identify the potential risks that might be there for the project. That is why the risk management plan is being developed to respond to those potential risks and manage those risks by ensuring that the project team can mitigate them as we achieve the project’s objectives. </p>
+<p> The risk management plan includes an overview of the risk management process, showing the roles and responsibilities of the project team and the risk assessment approach. It is key to be able to identify all the potential risks and as a team be able to develop resolutions for it. </p>
+
+==Top Three Risks==
+<p>The project’s top three risks are:</p>
+# Technical risks may occur due to delays in the development of the project or technical issues. This may result in issues with the budget and delays in the project timeline as well.
+# Resource risks may occur when there are insufficient resources that may be needed for further development.
+# Security Risks may occur when there is a data breach or any other form of hacking of the system.
+
+==Risk Management Approach==
+<p>The risk management approach focuses on quickly identifying the potential risks and composing mitigation plans that are capable of handling and resolving the risks that may occur. All stakeholders will be included in this risk management process as it requires a cooperative approach and contribution from everyone involved. </p>
+
+==Risk Identification==
+<p> The risks identified in the risk assessment were updated and regularly monitored to ensure that they are being managed effectively. Some of the potential risks identified in the risk assessment are listed below: </p>
+
+# <b> Technical Risks - </b> There is a risk that the project may be delayed due to technical reasons.
+# <b> Resource Risks - </b> There is a risk that the project may not have access to enough resources causing a stop of work or adjustments in budget or other delays.
+# <b> Security Risks - </b> There is a risk of being hacked and having a breach in the system.
+# <b> Changes in Technology </b>- There is a risk that a change in the industry of technology occurs which may require additional work or resources to adapt.
+# <b> Human Error - </b> There is a risk that a person may commit a mistake or error that could negatively affect the project.
+# <b> Unforeseen Circumstances - </b> There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.
+
+<p> To mitigate these risks, the team has developed a plan which will mitigate all risks and monitor them all in the process to protect the project and avoid all risks. </p>
+
+==Risk Qualification and Prioritization==
+<p>Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.</p>
+
+==Risk Monitoring==
+<p> Risks will always be present, especially during the project’s life cycle which is why it is important to continuously monitor those risks and document the entire process which includes identifying the conditions which may trigger certain risks. </p>
+
+<p> As for the plan, the project manager will incorporate and assign a risk manager to oversee the monitoring process which will help the team to determine if the risks require a higher level of attention in case the risks trigger. The risk manager will provide report updates during team meetings to keep everyone updated. </p>
+
+<p> Furthermore, it should be noted that not only the risk manager should pay attention to any risks around the project, but the entire project team should also remain aware of the identified risks and the potential they have to impact the project which is why everyone is encouraged to help and notify the project manager or risk manager in case new risks occur. </p>
+
+==Risk Mitigation and Avoidance==
+<p> The risk management plan will be created by the team based on the criteria created rating the risks based on their impact and importance. In preparation for those risks, the project team will work alongside stakeholders to put mitigation techniques in place to mitigate the risks. </p>
+
+<p>To accomplish risk mitigation and avoidance the team should identify the potential risks and prioritize what to handle first based on the severity of its impact. Provided below are considerations or options available for the project manager to avoid and mitigate the risks:</p>
+
+# <b>Resource Allocation - </b> Guaranteeing that the project has all the required resources is crucial for the project to be successful and efficient which is why resource allocation is important to ensure that the resources are available to the team to finish the project.
+# <b>Risk Assessment - </b>The team needs to analyze potential risks effectively to anticipate them and immediately apply resolutions.
+# <b>Contingency Planning </b>- To be prepared for potential risks, the team needs to produce multiple backup plans in case some may not work due to some reason in each scenario.
+# <b>Contingency Planning - </b> To be prepared for potential risks, the team needs to produce multiple backup plans in case some may not work due to some reason in each scenario.
+# <b>Communication - </b> It is important for the entire team to be able to communicate clearly and prevent misunderstandings as it has the potential to create risks. Having clear communication between the project team, clients, and stakeholders can help minimize these risks.
+
+==Risk Register==
+<p> The risk register includes a thorough explanation of each risk and its potential effects, as well as the mitigation steps taken. The risk register will be maintained up to date throughout the project to make sure that it reflects the project’s current condition. </p>
+<p>This is the Work breakdown structure of our group which is a diagram that breakdowns the project scope and shows the tasks that are required to complete the project. </p>
+
+<table border="1" width="70%" align="center">
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">RISK ID</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">RISK RANK</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">RISK</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">CATEGORY</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">DESTINATION/OWNER</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">PROBABILITY</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">IMPACT</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">STATUS</p></td>
+ </tr>
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">RID 001</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Technical Risks</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that delays in development which leads to the risk of not finishing the project 
+  on time and other errors caused by the conflict. </p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Technology</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+ </tr>
+
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">RID 002</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">2</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Resource Risks</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk of having insufficient resources which may be needed to accomplish the project on 
+  time. Thus, resulting in delays and a budget overrun. </p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Organizational</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+ </tr>
+
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">RID 003</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">3</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Security Risks</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk of being hacked and compromising the data of the client. </p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Security</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">System Developer</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+ </tr>
+
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">RID 004</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">4</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Changes in Technology</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that a change in the industry of technology occurs which may require additional 
+  work or resources to adapt. </p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Technology</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+ </tr>
+
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">RID 005</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">5</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Unforeseen Circumstances</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that circumstances such as natural disasters could cause disturbance and impact 
+  the project in an unexpected way. </p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Natural</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+ </tr>
+
+</table>
+
+
+=6.10. Procurement Management Plan=
+==6.10.1. Introduction==
+<p>A procurement plan is a vital component of any organization's strategic planning process, as it outlines the approach and strategy for acquiring goods, services, or works from external sources. It serves as a roadmap that guides procurement activities, ensuring that the organization obtains the necessary resources efficiently, effectively, and in compliance with relevant regulations and policies. </p>
+
+<p>It considers the organization's overall objectives, budgetary constraints, and specific project requirements. The plan outlines the procurement methods, timelines, and responsibilities for each procurement activity. The primary purpose of a procurement plan is to ensure transparency, fairness, and value for money in the procurement process. By having a well-defined plan in place, organizations can mitigate risks, avoid unnecessary delays, and maximize the benefits of their procurement activities. </p>
+
+<p>The procurement plan shows the details of multiple suppliers that can be managed by the company and the approval process in the contract. The plan also includes the decision criteria, establishment of contract deliverables, and schedule of deadlines, which explains the contracts that are coordinated with the project scope, budget, and schedule. </p>
+
+<p>Overall, organizations must have a well-developed procurement strategy in place if they want to accomplish their goals methodically and affordably. Transparency, fairness, and value for money are ensured by the structured framework it provides for the procurement of goods, services, or works. Organizations can streamline their procurement processes, lower risks, and guarantee that the acquisition of goods and services is carried out in a transparent and effective manner by creating a thorough procurement plan. </p>
+
+==6.10.2.Procurement Risks==
+<p> Procurement risks are potential problems that could potentially harm the project's success come up during the procurement process. To reduce these risks, it is crucial to recognize them and take proactive measures to address their influence over the project. </p>
+
+<p> The Villamin Wood and Iron Works Ordering System project may contain procurement activities that carry risks which are included but not limited to the following: </p>
+
+# Changes to the project's scope, schedule, or budget, may have an impact on vendor commitments and procurement activities.
+# Unclear and insufficient information in the documentation may lead to conflict between the team and the client.
+# Incomplete contract terms or legal issues that will affect the project’s reputation and legal rights.
+# Lack of communication and transparency between the team and the vendors, which may lead to misunderstanding.
+
+<p> To lessen the impact of the risks, this plan will include strategies for identifying, evaluating, and reducing risks. Throughout the course of the project, this plan will be continuously reviewed and updated to make sure that risks are recognized and promptly addressed. Furthermore, we'll put into practice strict processes and procedures for reducing the risks involved in procurement management. </p>
+
+==6.10.3.Procurement Risk Management==
+; 1. Identification of Procurement Risks
+<p>The following are the potential risks of the project: </p>
+
+#* Sudden change in the cost of goods and services.
+#* Lacking information on the contract’s terms and conditions.
+#* Conflict due to misinformation from the team to the vendor about the project.
+
+; 2. Risk Mitigation Strategies
+<p>The following are the strategies that will be implemented: </p>
+
+#* Thorough research into the identity of the company supplier and their goods and services.
+#* Conduct meetings as much as possible for communicating reports to clear confusion about the project.
+#* Establish clear and fair contract terms and conditions that will protect the company and the project.
+#* Regular monitoring throughout the procurement process to ensure that the team will be ready for any emerging risks.
+
+; 3. Assignment of Responsibilities
+: Villamin Wood and Iron Works Online System need clear roles and responsibilities to help ensure accountability, clarity, and effective coordination. It is essential to clearly communicate the assigned responsibilities to all parties involved and ensure that everyone understands their roles and obligations. Regular communication, coordination, and collaboration among the responsible parties contribute to the smooth execution of the procurement plan and successful procurement outcomes.
+
+; 4. Communication and Reporting
+: Effective communication and reporting play a crucial role in ensuring transparency, coordination, and accountability throughout the procurement process. Regular and clear communication helps stakeholders stay informed, aligned, and engaged. It enables the exchange of critical information, progress updates, and timely resolution of issues.
+
+: This ensures that relevant stakeholders are kept informed about procurement activities, supplier selection processes, contract status, and any potential risks or issues. It will promote collaboration, enable timely decision-making, and provide a platform for addressing concerns, feedback, and suggestions.
+
+; 5. Continuous Improvement
+: Continuous improvement is a fundamental aspect of the procurement process, driving efficiency, effectiveness, and innovation. Lessons learned from past procurement experiences will be documented and shared to avoid repeating mistakes and capitalize on best practices.
+
+: The procurement plan will emphasize the commitment to continuous improvement as an integral part of the procurement lifecycle, ensuring that the organization remains adaptive, responsive, and proactive in meeting evolving needs and achieving excellence.
+
+==6.10.4. Cost Determination==
+
+<p> Villamin Wood and Iron Works Online System’s cost determination is a critical aspect of the procurement process, ensuring that the organization obtains goods or services at the most favorable price while maintaining quality and meeting requirements. When calculating the project's overall cost, it is important to take project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenses into account. </p>
+
+<p> Project management-related expenses for personnel, hardware, and software are all included. While integration costs cover the price of integrating the system with other programs or third-party applications, development costs cover the cost of creating software, hardware, testing, and quality assurance. The price of purchasing the necessary tools, software, and services to design and put the system into use is included in the procurement costs. The costs associated with training personnel to use the system effectively are also covered. </p>
+
+<p> This includes conducting thorough cost analysis, considering the total cost of ownership, conducting market research and benchmarking, engaging in effective cost negotiation, and maintaining cost transparency and documentation. By employing these strategies, the procurement team can make informed decisions, optimize cost savings, and achieve value for money while procuring goods and services that meet the organization's needs and quality standards. </p>
+
+<p> Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the complete success of Villamin Wood and Iron Works Online System project within the given budget constraints. </p>
+
+==6.10.5. Procurement Constraints==
+
+<p> Procurement constraints are inherent limitations and factors that can influence the procurement process and pose challenges to achieving procurement objectives. The following constraints are considered in Villamin Wood and Iron Works Online System project’s procurement process: </p>
+
+# <b>Budget constraint: </b> The project was given with a limited financial resources by the client. This requires careful budget planning and cost optimization strategies to ensure procurement objectives are met within the allocated budget.
+# <b>Schedule constraints: </b> The project has a strict deadline, so procurement tasks must be finished promptly to keep the project on schedule. Any delays in the procurement process could affect the project's overall schedule and cause it to take longer to complete.
+# <b>Technology constraints: </b> Villamin Wood and Iron Works Online System requires technical needs and features that will allow customers to view products and services, to be able to order and pay for their products. Additionally, it must have a user-friendly interface that is simple to navigate and open to users with various levels of technical proficiency.
+# <b>Resource constraints: </b> To ensure that procurement activities can be completed effectively and efficiently, the procurement process must consider the availability of internal resources, such as personnel.
+<p> By recognizing and proactively addressing these constraints, organizations can navigate the procurement landscape more efficiently and effectively, leading to better decision-making, cost optimization, and overall procurement success. </p>
+
+==6.10.6. Contract Approval Process==
+
+<p> The contract approval process is a critical step in the procurement lifecycle, ensuring that contracts are reviewed, authorized, and executed in accordance with established policies and procedures. These procedures include the following: </p>
+
+#* <b>Contract Initiation:</b> The procurement process will be initiated by the project manager by sending a Workday request for procurement to the procurement officer.
+#* <b>Contract Planning: </b> A procurement plan that specifies the kind of contract to be used, the evaluation standards, and the deadlines for procurement activities will be created by the procurement officer.
+#* <b>Contract Development: </b>The procurement officer will create the contract documents, such as the Terms and conditions, a pricing schedule, and a Statement of Work (SOW) after the procurement plan has been approved.
+#* <b>Contract Review: </b> The legal department will examine the contract documents to make sure they adhere to all relevant laws and rules.
+#* <b>Contract Approval: </b> The Contract Review Committee will be asked to approve the contract documents. The Committee will then assess the contract documentation and provide the Project Manager with a recommendation.
+#* <b>Contract Execution: </b>The Procurement Officer will execute the contract and issue a purchase order during the Workday after it has been approved. 
+#* <b>Contract Monitoring: </b> To make sure the vendor is observing the terms of the contract, the project manager will monitor their performance. Additionally, the procurement officer will keep an eye on the agreement to make sure that all deliverables are fulfilled, and payments are made in accordance with the contract's terms.
+
+<p> Overall, by establishing a clear and structured contract approval process, organizations can enhance transparency, accountability, and efficiency in their procurement activities, minimizing potential legal and financial risks while fostering effective supplier relationships. </p>
+
+==6.10.7. Decision Criteria==
+<p> Decision criteria are a set of predefined factors and considerations used to evaluate and make informed decisions in the procurement process. The following are the decision criteria of Villamin Wood and Iron Works Online System project that will be used by the contract review board: </p>
+
+#* <b>Schedule: </b> The vendor must show they can complete the project on time and meet all deliverables, including important deadlines and milestones.
+#* <b>Business Needs: </b> The project must be aligned with the company’s business needs, such as increasing operational effectiveness, enhancing customer experience, or an increase in revenue.
+#* <b>Pricing: </b> During the decision-making process, the cost of the vendor's suggested solution will be considered. The vendor's pricing should be competitive and reasonable considering the market analysis and additional proposals received.
+# <b>Risk Management: </b>The vendor must show that they have a solid grasp of potential risks and mitigation techniques. This includes identifying potential risks associated with projects and procurement.
+# <b>Technical Requirements: </b> The system must adhere to the organization's technical specifications, which may include compatibility with current systems, security protocols, and industry-specific standards.
+# <b>Compliance:</b>The vendor must comply with all applicable laws, rules, and agreements, including those relating to intellectual property rights, data privacy, and security.
+
+<p> The use of clear and well-defined decision criteria promotes consistency, transparency, and accountability in the procurement decision-making process, enabling organizations to make informed choices that yield favorable outcomes. </p>
+
+==6.10.8. Performance Metrics for Procurement Activities==
+<p> The following performance metrics will be used by Villamin Wood and Iron Works Online System project for procurement activities: </p>
+
+; 1. Vendor Performance Rating
+: The rating is calculated by giving points to numerous factors, including the caliber of the good or service, responsiveness, and communication. A rating scale of 1 to 5, with five being the best, can be created by averaging the total score.
+
+; 2. Customer Satisfaction
+: Customer satisfaction with the purchasing process, including receptivity, communication, and product and service delivery.
+
+; 3. Procurement Cycle Time
+: The length of time needed to complete the procurement process from need identification to the issuance of a purchase order or contract.
+
+; 4. Cost Variance
+: This metric contrasts actual and anticipated costs associated with procurement. To calculate, divide the result by the planned costs after deducting the actual costs.
+
+; 5. Contract Management
+: The success of contract management procedures like contract extensions, modifications, and supplier performance evaluation. By establishing and monitoring performance metrics, organizations can track their procurement performance, identify areas for improvement, and make data-driven decisions to optimize procurement activities. Performance metrics enable organizations to gauge the value and impact of their procurement efforts, drive continuous improvement, and ensure alignment with strategic objectives.
 
 =Implementation Plan=
 ==Executive Summary==
