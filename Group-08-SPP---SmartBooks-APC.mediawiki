@@ -395,10 +395,71 @@
 
 <tr> 
 <th> Project Milestone </th>
-<th> Target Date  </th>
+<th> Target Date </th>
 </tr>
 
 <tr>
+<td> Requirements Analysis: 
+<li> Understand the needs and requirements of stakeholders. </li> 
+<li> Identify desired features and functionalities. </li> 
+<li> Define data requirements for tracking book usage and reviews. </li> 
+</td>
+<td> June 15 – June 30 </td>
+</tr>
+
+<tr>
+<td> System Design: 
+<li> Create a user-friendly interface and system architecture. </li> 
+<li> Design data models for tracking book usage and reviews.. </li> 
+<li> Define workflows for book acquisition and borrowing. </li> 
+</td>
+<td> July 1 – July 31 </td>
+</tr>
+
+<tr>
+<td> System Development & Testing: 
+<li> Develop the SmartBooks system. </li> 
+<li> Test the system for functionality and performance. </li> 
+<li> Fix any issues or bugs identified during testing. </li> 
+</td>
+<td>  August 1 – September 15 </td>
+</tr>
+
+<tr>
+<td> Training and Documentation: 
+<li> Provide training for library staff on using the system. </li> 
+<li> Create user guides and manuals for reference. </li> 
+<li> Develop system administration documentation. </li> 
+</td>
+<td> September 16 – September 30 </td>
+</tr>
+
+<tr>
+<td> Implementation and Deployment:
+<li> Roll out the system in phases or all at once. </li> 
+<li> Migrate existing book and eBook data to the system. </li> 
+<li> Test the system in the live environment. </li> 
+</td>
+<td> October 1 – October 15 </td>
+</tr>
+
+<tr>
+<td> Maintenance and Support:
+<li> Maintain and update the system regularly. </li> 
+<li> Provide technical support to address user queries.</li> 
+<li> Monitor system performance and security. </li> 
+</td>
+<td> October 16 – 30 </td>
+</tr>
+
+<tr>
+<td> Project Closure:
+<li> Review the success of the project. </li> 
+<li> Document project outcomes and lessons learned. </li> 
+<li> Archive project-related documents. </li> 
+</td>
+<td> November 3 </td>
+</tr>
 </table>
 
 == Summary Budget ==
@@ -416,28 +477,33 @@
 <th> Component Cost </th>
 </tr>
 
-<tr> 
-<td> Personnel (Project Manager, Developers, Testers, etc.) </td>
+<tr>
+<td> Personnel Costs  </td>
 <td> ₱150,000 </td>
 </tr>
 
-<tr> 
-<td> Hardware and Software </td>
-<td> ₱110,000 </td>
-</tr>
-
-<tr> 
-<td> Training and Documentation </td>
-<td> ₱20,000 </td>
-</tr>
-
-<tr> 
-<td> Contingency </td>
-<td> ₱30,000 </td>
+<tr>
+<td> Software </td>
+<td> ₱70,000</td>
 </tr>
 
 <tr>
-<th> Total Planned Cost </th>
+<td> Hardware and Infrastructure </td>
+<td> ₱60,000 </td>
+</tr>
+
+<tr>
+<td> Training and Documentation  </td>
+<td> ₱35,000 </td>
+</tr>
+
+<tr>
+<td> Contingency Reserve  </td>
+<td> ₱35,000 </td>
+</tr>
+
+<tr>
+<td> Total Planned Costs  </td>
 <td> ₱350,000 </td>
 </tr>
 
@@ -445,17 +511,17 @@
 
 == Project Approval Requirements ==
 
-<p> The approval requirements for the SmartBooks Utilization project are as follows: </p>
+<p> These approval requirements ensure that the project receives the necessary support, resources, and alignment with organizational goals to proceed successfully. The approval requirements for the SmartBooks Utilization project are as follows: </p>
 
 <ol>
 
-<li> Final approval of the project charter by the project sponsor. </li>
-<li> Approval of the project plan by the project sponsor and stakeholders. </li>
-<li> Approval of any changes to the project scope, schedule, or budget by the project sponsor and stakeholders. </li>
-<li> Completion and approval of all project deliverables by the project sponsor and stakeholders. </li>
-<li> Successful testing and acceptance of the system by library staff. </li>
-<li> Approval of the project closeout report by the project sponsor and stakeholders. </li>
-<li> Sign-off by the project sponsor indicating that all project objectives and success criteria have been met and that the project is complete. </li>
+<li> Project Proposal: A detailed proposal outlining project objectives, scope, timeline, and estimated budget. </li>
+<li> Budget Approval: Securing approval for the project budget to obtain necessary funding. </li>
+<li> Stakeholder Buy-In: Gaining approval and support from key stakeholders involved in the project. </li>
+<li> Risk Assessment and Mitigation Plan: Conducting a risk assessment and obtaining approval for a plan to address potential risks. </li>
+<li> Resource Allocation: Approval for the allocation of required resources, such as personnel and equipment. </li>
+<li> Project Governance: Seeking approval from project governance bodies responsible for overseeing project execution.</li>
+<li> Alignment with Organizational Strategy: Demonstrating how the project aligns with the college's strategic goals and objectives. </li>
 
 </ol>
 
@@ -465,9 +531,9 @@
 Name: Sim Paul Palacio
 </p>
 
-<p> Responsibility: The Project Manager is responsible for planning, executing, and closing the project within the defined budget, timeline, and scope. The Project Manager will also be responsible for managing the project team, ensuring all tasks are completed on time, and communicating with stakeholders. </p>
+<p> Responsibility: The project manager is responsible for planning, executing, and monitoring the SmartBooks project. They lead the project team, communicate with stakeholders, manage risks, and ensure project objectives are met within the defined timeline and budget. </p>
 
-<p> Authority Level: The Project Manager will have the authority to manage project personnel, allocate resources, and make decisions related to project scope and schedule changes. Any major changes to the project budget or scope will require approval from the project sponsor. </p>
+<p> Authority Level: The project manager has the authority to make decisions related to project execution, team management, and resource allocation. However, major decisions impacting project scope, budget, or timeline may require approval from the project sponsor or relevant stakeholders. The project manager collaborates closely with stakeholders to ensure alignment and obtain necessary approvals throughout the project. </p>
 
 = Stakeholder Management Strategy Plan =
 
