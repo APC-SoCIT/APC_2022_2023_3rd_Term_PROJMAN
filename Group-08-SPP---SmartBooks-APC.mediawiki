@@ -566,131 +566,150 @@ Name: Sim Paul Palacio
 
 == Introduction ==
 
-<p> Project management's key component of scope management is ensuring that the project stays on track and achieves its goals. The project team's duties and responsibilities are outlined in the scope management plan, along with the procedures that will be used to define, develop, and validate the project's scope. Because it offers a clear road map for managing and controlling the project's scope throughout its lifecycle, this plan is essential to the project's success. To manage the project scope efficiently, we will use a five-step procedure in this plan: gather requirements, define scope, create WBS, verify scope, and control scope. By taking these actions, we can make sure that SmartBooks incorporates all the work required to accomplish its objectives while removing extraneous effort. </p> 
+<p> 
+The SmartBooks project takes a structured approach to manage its scope effectively. By closely collaborating with library staff, students, and the project sponsor, the project team ensures a clear understanding of requirements and priorities. They establish a process to evaluate and approve scope changes, regularly review deliverables, and monitor project activities to prevent scope creep. Engaging stakeholders throughout the project keeps them informed and involved. This approach ensures that the project stays on track, delivers the desired outcomes, and meets the needs of all stakeholders. </p> 
 
 == Scope Management Approach ==
 
-<p> The scope management approach for SmartBooks involves a clear delineation of authority and responsibility for scope management. The project manager is ultimately responsible for scope management, while the project sponsor has the authority to approve changes to the scope. The scope will be defined through a combination of the Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and Statement of Work. </p> 
+<p> The SmartBooks project will follow a clear and organized approach to manage its scope effectively. This involves defining and documenting the project's boundaries and objectives. The scope includes implementing an automated library management system to optimize book and eBook acquisition and utilization in the Asia Pacific College Library. </p> 
 
-<p> Through various quality checklists, the scope baseline, and work performance measurements, the scope will be assessed and verified. Changes will be initiated by the project team, reviewed by the project sponsor, and approved by the change control board. The scope change process will be carefully monitored in this way. </p> 
+<p> By following this approach, the SmartBooks project will stay on track, deliver the desired outcomes, and meet the needs of library staff, students, and the project sponsor. To manage the scope, the project team will: </p> 
 
-<p> The project team will guarantee that the final deliverable is produced in accordance with the project scope that has been accepted and that the project sponsor has given their approval. This strategy will enable SmartBooks to efficiently manage the project scope and guarantee that it is delivered on schedule, under budget, and to the satisfaction of all stakeholders. </p> 
+<ul> 
+
+<li> Work closely with library staff, students, and the project sponsor to understand their requirements and priorities. </li>
+<li> Establish a process for evaluating and approving changes to the project scope, ensuring they align with the project's goals. </li>
+<li> Regularly review and validate project deliverables to ensure they meet stakeholders' expectations. </li>
+<li> Monitor project activities to prevent scope creep and address any deviations promptly. </li>
+<li> Engage stakeholders throughout the project, seeking their input and keeping them informed of progress and potential changes. </li>
+
+</ul>
 
 == Roles and Responsibilities ==
 
+<p> These roles work together to achieve the goals of the SmartBooks project, ensuring stakeholder involvement, effective project management, system development, and insightful data analysis. </p>
+
 <ol>
-<li> <b> Project Manager: </b> The Project Manager is responsible for the overall management of the project scope. This includes developing the Scope Management Plan, defining the scope of the project, measuring and verifying scope, managing scope changes, and ensuring the project is completed within the defined scope. </li>
-<li> <b> Project Team: </b> The Project Team is responsible for working together to complete the project deliverables within the defined scope. Each team member should have a clear understanding of their role and responsibilities within the scope management process. </li>
-<li> <b> Stakeholders: </b> Stakeholders are responsible for providing input into the project scope and accepting the final project deliverables as defined by the scope. They should be engaged throughout the project to ensure that their needs are met and that they are satisfied with the project outcomes. </li>
-<li> <b> Other key persons: </b> Other key persons involved in managing the scope of the project may include subject matter experts, quality assurance professionals, and change management specialists. Each of these roles should have clearly defined responsibilities within the scope management process. </li> 
+
+<li> <b> Stakeholders: </b> Stakeholders in the SmartBooks project have important roles and responsibilities. They provide input and feedback on project requirements, participate in decision-making, review and approve deliverables, ensure alignment with organizational goals, and provide necessary resources and support. </li>
+<li> <b> Project Manager: </b> The project manager oversees the entire project, defining objectives, creating plans, assigning tasks, monitoring progress, and addressing issues. They facilitate communication, ensure quality and timely delivery, and report project status to stakeholders. </li>
+<li> <b> System Developers: </b>  System developers design, develop, and implement the SmartBooks system. They understand requirements, code software components, conduct testing, collaborate with other team members, document processes, and provide support during implementation. </li>
+<li> <b> Data Analyst: </b> Other key persons involved in managing the scope of the project may include subject matter experts, quality assurance professionals, and change management specialists. Each of these roles should have clearly defined responsibilities within the scope management process.The data analyst analyzes and interprets data related to book usage, reviews, and metrics. They collect and analyze data, collaborate with stakeholders, generate reports and recommendations, ensure data quality, and assist in testing and validation. </li> 
+
 </ol> 
 
 == Scope Definition ==
 
-<p> Through the implementation of a system that monitors usage patterns and makes recommendations for purchasing choices based on data, the SmartBooks Utilization project seeks to increase the use of books and eBooks in the library at Asia Pacific College. The project will involve creating and putting into use a software system that will enable library personnel to gather information on borrowing patterns, spot materials that are in high demand, and make more informed purchasing decisions. The project's scope comprises the creation of the software system, instruction in its use for library staff members, and incorporation into the library's current workflows. The completion of the project will be marked by the successful implementation of the system and the ability of the library to use the system to make more efficient purchasing decisions. </p> 
+<p> The SmartBooks Utilization project aims to enhance book and ebook usage in the library at Asia Pacific College by implementing a data-driven system. This system will enable library personnel to monitor borrowing patterns, identify popular materials, and make informed purchasing decisions. The project scope includes the development and deployment of a software system, training for library staff members on its usage, and seamless integration into existing library workflows. The project's successful completion will be marked by the effective implementation of the system, empowering the library to make efficient and data-backed purchasing decisions. </p> 
 
 == Project Scope Statement ==
 
 <b> Product Scope Description: </b> 
-<p> The SmartBooks Library System is a web-based application that allows library patrons to search for books and other resources, reserve books, and check the availability of books in real-time. It will provide librarians with a tool to manage the library's inventory, track the status of borrowed and returned books, and generate reports for library management. </p> 
+<p> The SmartBooks project aims to improve book and eBook usage in the library at Asia Pacific College and be cost efficient on gathering resources by understanding student usage patterns through a digital platform. This platform will provide an easy-to-use interface for library staff and students to access and manage resources effectively. Key features include real-time inventory tracking, book recommendations based on usage patterns, and integration with reliable review sources. The project scope involves developing the digital platform, providing user training and support, and integrating it with the existing library infrastructure. The goal is to enhance resource utilization, accessibility, and user experience for both staff and students. </p> 
 
 <b> Product Acceptance Criteria </b>
-<p> The project will be considered complete and accepted when the following criteria have been met: </p> 
+<p> These criteria highlight the key goals of the SmartBooks project, such as successful system implementation, improved book access, positive user experience, and adequate support for staff. Meeting these criteria will ensure the project's success and acceptance by stakeholders. The project will be considered complete and accepted when the following criteria have been met: </p> 
 
-<ul> 
-<li> The system is fully functional and meets all the requirements outlined in the scope statement. </li>
-<li> The system has been tested and validated by both librarians and library patrons. </li> 
-<li> The system is integrated with the existing library infrastructure and can communicate with other library systems. </li>
-</ul> 
+<ol> 
+
+<li> The automated library management system is implemented according to agreed-upon requirements. </li>
+<li> Accurate tracking of book usage and popular titles is achieved. </li> 
+<li> Users can easily retrieve and borrow books through the automated system. </li>
+<li> Positive feedback and satisfaction are received from library staff and students regarding system functionality and usability. </li>
+<li> Comprehensive training and documentation are provided to support staff in effectively using and managing the system. </li>
+
+</ol> 
 
 <h3> <b> Project Deliverables </b> </h3> 
 
 <b> Project Exclusions: </b> 
+
 <ul>
-<li> The project team will not be responsible for any hardware or software upgrades to the existing IT infrastructure of the Asia Pacific College Library. </li> 
-<li> The project team will not be responsible for any additional staff training or development outside of the scope of the SmartBooks system. </li> 
-<li> The project team will not be responsible for any additional modules or features that are not specified in the project scope statement.  </li>
-<li> The project team will not be responsible for any changes or modifications to the existing library policies and procedures outside of the scope of the SmartBooks system. </li>
-<li> The project team will not be responsible for any maintenance or support of the SmartBooks system beyond the project completion date, unless specifically stated in a separate agreement. </li>
+
+<li> <b> Network Infrastructure Upgrades: </b> Any upgrades or modifications to the existing network infrastructure of the Asia Pacific College Library are not within the scope of the project. The project solely concentrates on optimizing book and eBook acquisition and utilization through the implementation of the automated system. </li> 
+<li> <b> Physical Library Space Renovations: </b> The project does not involve any renovations or modifications to the physical library space. While the system may help optimize resource utilization, the physical infrastructure and layout of the library are not part of the project scope.</li> 
+<li> <b> Extensive Customization of the System: </b> The project excludes extensive customization of the library system beyond the initially defined requirements. The focus is on delivering the core functionalities of usage pattern analysis, reliable reviews integration, and updated collection development policy. </li>
+
 </ul>
 
 <b> Project Constraints </b>
 
-<ul>
-<li> Budget: The project must be completed within the allocated budget. Any additional expenses must be approved by the project sponsor.
-</li>
-<li> Time: The project must be completed within the agreed-upon timeline. Any delays must be communicated to the project sponsor and stakeholders.
-</li>
-<li> Technology: The project must use the existing library website platform and any required upgrades must be approved by the IT department.
-</li>
-<li> Staffing: The project must be completed using existing library staff resources. No additional staffing resources will be allocated.
-</li>
-</ul>
+<ol> 
+
+<li> <b> Budget: </b> The project must stay within the allocated budget, and any additional expenses require approval from the project sponsor. </li> 
+<li> <b> Time: </b> The project must be completed within the agreed-upon timeline, and any potential delays must be communicated to the project sponsor and stakeholders. </li> 
+<li> <b> Technology: </b> The project must utilize the existing library website platform, with any necessary upgrades approved by the IT department. </li> 
+<li> <b> Staffing: </b> The project must be carried out using the current library staff resources, without additional staffing allocation. </li> 
+
+</ol> 
 
 <p> <b> Project Assumptions </b> </p>
 
-<ul>
-<li> The library has a system in place for tracking books and eBook usage data. </li>
-<li> Students will continue to use the library's services and borrow books and eBooks. </li>
-<li> The library has the necessary budget to purchase additional books and eBooks based on the usage data. </li>
-<li> The library staff have the necessary skills and training to analyze the usage data and make informed purchasing decisions. </li>
-<li> The library has a sufficient amount of storage space for additional books and eBooks. </li>
-<li> The library's website is able to accommodate the additional data and features required to display usage patterns. </li>
-<li> The students will provide accurate information when borrowing books and eBooks. </li>
-</ul>
+<ol> 
+
+<li> <b> Adequate Budget Allocation: </b> The library has allocated a sufficient budget to purchase additional books and eBooks based on the usage data. This ensures that the library can acquire materials that are in demand and align with student needs. </li> 
+<li> <b> Skilled Staff for Data Analysis: </b> The library staff possesses the necessary skills and training to analyze the usage data and make informed purchasing decisions. Their expertise allows for effective interpretation of data insights and selection of relevant materials for acquisition. </li> 
+<li> <b> Sufficient Storage Capacity: </b> The library has an adequate amount of storage space to accommodate the additional books and eBooks that will be acquired based on usage data. Sufficient storage ensures that the library can effectively manage and organize the expanded collection. </li> 
+<li> <b> Website Compatibility: </b> The library's website is capable of accommodating the additional data and features required to display usage patterns. This assumption implies that the website infrastructure and design can support the integration of usage data and provide a user-friendly interface for students and staff. </li> 
+<li> <b> Accuracy of Borrowing Information: </b> It is assumed that students will provide accurate information when borrowing books and eBooks. This assumption is crucial for ensuring the reliability and integrity of the usage data collected for analysis and decision-making. </li> 
+
+</ol> 
 
 == Work Breakdown Structure == 
 
 <b> SmartBooks </b>
+
 # Requirement Analysis
-## Define Project requirements
-## Gather and analyze user requirements
-## Determine project scope and constraints
-# Design
-## Create a design document
-## Determine the database schema
-## Create wireframes for the user interface
-## Design the system architecture
-# Development 
-## Set up the development environment
-## Develop the user interface
-## Create the database schema
-## Develop the backend functionality
-## Integrate Smartbooks with the existing Library website 
-# Testing
-## Develop a test plan
-## Conduct unit testing
-## Conduct integration Testing
-## Conduct system testing 
-## Conduct user acceptance testing
-# Deployment
-## Create a deployment plan
-## Prepare the production environment
-## Install Smartbooks in the production environment
-## Perform system testing in the production environment
-# Maintenance and Support
-## Provide user training
-## Monitor system performance
-## Provide ongoing technical support
-## Perform system maintenance
-## Address user feedback and feature requests
+## Understand the needs and requirements of stakeholders.
+## Identify desired features and functionalities.
+## Define data requirements for tracking book usage and reviews.
+# System Design
+## Create a user-friendly interface and system architecture.
+## Design data models for tracking book usage and reviews.
+## Define workflows for book acquisition and borrowing.
+# Development and Testing
+## Develop the automated library management system.
+## Test the system for functionality and performance.
+## Fix any issues or bugs identified during testing.
+# Training and Documentation
+## Provide training for library staff on using the system.
+## Create user guides and manuals for reference.
+## Develop system administration documentation.
+#Implementation and Deployment:
+## Roll out the system in phases or all at once.
+## Migrate existing book and eBook data to the system.
+## Test the system in the live environment.
+# Maintenance and Support:
+## Maintain and update the system regularly.
+## Provide technical support to address user queries.
+## Monitor system performance and security.
+
 
 == Scope Verification ==
 
-<p> Scope verification is an important process in ensuring that project deliverables are in alignment with the original scope. The following methods will be used for scope verification in the SmartBooks project: 
+<p> Scope verification is the process of reviewing and confirming that the SmartBooks project has achieved its goals and delivered all the planned outcomes. This involves:
 </p> 
 
 <ul>
-<li> <b> Quality Checklists: </b>  Quality checklists will be used to ensure that all project deliverables meet the specified quality standards. The checklists will be developed based on the project requirements and will be used to verify that all deliverables meet the requirements. </li> 
-<li> <b> Work Performance Measurements: </b> Work performance measurements will be used to track the progress of the project deliverables against the project schedule. This will help to identify any deviations from the original scope and allow for corrective action to be taken if necessary.  </li> 
+
+<li> <b> Reviewing Project Objectives:  </b>  The project team and stakeholders check if the project objectives, such as optimizing book acquisition, generating usage pattern reports, integrating reliable reviews, updating the collection development policy, and implementing the automated library management system, have been met. </li> 
+<li> <b> Assessing Deliverables: </b> The project team examines each completed deliverable, like the usage pattern report, reliable reviews integration, updated policy, and operational system. They compare these deliverables against the requirements to ensure they meet the intended scope and functionality. </li> 
 <li> <b> Scope Baseline: </b> The scope baseline will be used as a reference to ensure that all project deliverables are within the defined scope. Any changes to the scope will be documented and tracked against the baseline. </li> 
-<li> <b> Formal Acceptance: </b>  Deliverables will be formally accepted by the stakeholders throughout the project lifecycle. This will ensure that all stakeholders are satisfied with the deliverables and that they meet the specified requirements. Formal acceptance will also help to avoid delays and issues that may arise if deliverables are held back until the end of the project. </li> 
+<li> <b> Stakeholder Feedback: </b>  Library staff and students provide their input and feedback on the deliverables to assess their satisfaction and confirm that the outcomes meet their expectations and needs. </li> 
+<li> <b> Documenting Results: </b> The results of the scope verification process are documented, including any identified discrepancies or issues. This documentation serves as evidence that the project deliverables have been reviewed and confirmed to align with the defined scope. </li> 
+
 </ul> 
 
 == Scope Control ==
 
+<p> The Scope Control process will be used to monitor the status of the project's scope and ensure that it remains within the defined boundaries. The following tools and techniques will be used to control the scope of the Smartbooks project: </p> 
+
 <ul>
+
 <li> <b> Scope Baseline: </b> The Scope Baseline document will serve as a reference for measuring project performance and controlling changes to the project scope. The Scope Baseline will be updated as necessary to reflect changes in the project scope. </li> 
+<li> <b> Documentation: </b>  Keeping a record of approved scope changes, including the rationale behind the changes, their impact on the project, and any adjustments made to the project plan or deliverables as a result. </li> 
+<li> <b> Communication: </b> Regularly communicating scope changes, updates, and decisions to all relevant stakeholders. This ensures transparency and alignment among project team members and stakeholders regarding any modifications to the project scope. </li> 
+
 </ul>
 
 = Cost Management Plan = 
