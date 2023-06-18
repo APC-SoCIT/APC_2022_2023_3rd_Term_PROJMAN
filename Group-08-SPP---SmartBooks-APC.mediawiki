@@ -230,8 +230,8 @@
 <ul>
 
 <li> <b> Status Quo - Do Nothing: </b> Maintaining the current manual system of data collection and book management at the Asia Pacific College Library. This alternative does not address the identified issues and lacks efficiency and productivity improvements. <b> Not selected. </b> </li>
-<li> <b> Purchase Additional Books and Ebooks: </b> Buying more resources to expand the library's collection. This alternative may not effectively improve usage, access, and satisfaction. It can be costly and does not address underlying issues. <b> Not selected. </b> </li>
-<li> <b> Implement the SmartBooks Project: </b> Adopting the SmartBooks project to optimize book and ebook acquisition and utilization. This alternative addresses the identified issues, enhances resource access, improves the learning experience, and achieves cost savings through efficient allocation. <b> Selected. </b> </li>
+<li> <b> Purchase Additional Books and eBooks: </b> Buying more resources to expand the library's collection. This alternative may not effectively improve usage, access, and satisfaction. It can be costly and does not address underlying issues. <b> Not selected. </b> </li>
+<li> <b> Implement the SmartBooks Project: </b> Adopting the SmartBooks project to optimize book and eBook acquisition and utilization. This alternative addresses the identified issues, enhances resource access, improves the learning experience, and achieves cost savings through efficient allocation. <b> Selected. </b> </li>
 
 </ul>
 
@@ -244,101 +244,130 @@
 = Project Charter Plan =
 
 == Executive Summary == 
-<p> The organization's library resources will be used and used more effectively as a result of the SmartBooks utilization initiative. The goal of the project is to increase employee access to pertinent books and resources that can aid them in their work while addressing the issue of low library book usage. The project will involve the implementation of an automated library management system that will make it easier for employees to locate and borrow books. This system will also help in tracking the usage of books, identifying popular titles, and improving the overall management of the library. </p>
 
-<p> The project objectives are to increase book utilization by 25%, improve access to relevant resources for employees, and reduce the time it takes to locate and borrow books. The project will be led by Mr. Sim Paul Palacio is expected to be completed within six months. The project will have a projected budget of ₱350,000,.which will cover the cost of the library management system, training for employees, and any necessary hardware and software upgrades. The success of the project will be measured based on the achievement of the project objectives and the satisfaction of the stakeholders. </p>
+<p> The SmartBooks project aims to optimize the book and ebook acquisition process for Asia Pacific College (APC) Library. The project's objectives include improving resource allocation, enhancing student satisfaction, and achieving cost savings. By analyzing usage patterns and integrating reliable reviews, the project aims to make informed decisions about which materials to purchase. The project involves implementing an automated tracking system, analyzing usage data, integrating reviews, providing real-time availability updates, and ensuring a user-friendly interface. The project must stay within the budget and be completed on time, utilizing existing staff and technology resources. The success of the project relies on adequate budget allocation, skilled staff for data analysis, sufficient storage capacity, compatible website infrastructure, and accurate borrowing information.  </p>
 
-<p> Overall, the SmartBooks project will improve the availability and accessibility of resources for employees, leading to increased efficiency and productivity in the organization. </p>
+<p> Moreover, the deliverables include a usage pattern analysis report, reliable reviews integration, and system implementation. The project follows a timeline with milestones for requirements analysis, system design, development, testing, deployment, maintenance, and support. The estimated budget for the project is ₱350,000. The project requires approval through a project proposal, budget approval, stakeholder buy-in, risk assessment and mitigation plan, resource allocation, project governance approval, and alignment with organizational strategy. The project manager, Sim Paul Palacio, is responsible for leading the project and ensuring its successful execution. </p>
+
 
 <h2> Project Purpose / Justification </h2> 
 <h3> Business Need / Case </h3>
 
-<p> The library at Asia Pacific College spends a lot of money each year buying books and ebooks for its users. The library staff struggles to make educated purchase selections due to a lack of information on these products' usage trends. The library may choose materials to buy more intelligently and save money by creating a system to track the consumption patterns of books and ebooks. This will also boost student happiness. </p>
+<p> Addressing these business needs through optimized book and eBook acquisition processes enables APC to operate efficiently, meet student expectations, allocate resources wisely, and support student achievement. </p>
 
-Intended Effects of the Business Case:
-<ol>
-<li> Cost savings: By making more informed purchasing decisions, the library can avoid purchasing materials that are not frequently used, resulting in cost savings. </li>
-<li> Process improvement: The system for tracking usage patterns of books and eBooks can help library staff to identify which materials are in high demand and make purchasing decisions more efficiently. </li>
-<li> New product development: The system can also help the library to identify new titles that are similar to those that are already popular, leading to the development of a more diverse collection of books and eBooks. </li>
-<li> Increased student satisfaction: By providing students with access to the books and eBooks they need for their coursework, the library can help to improve student satisfaction and academic success. </li>
-</ol> 
+<ul>
+
+<li> <b> Cost Optimization: </b> APC needs to find a way to manage its budget effectively by purchasing books and eBooks that provide the most value for the money spent. By identifying the most relevant and frequently used materials, the library can prioritize its purchasing decisions and minimize unnecessary expenses. </li>
+<li> <b> Student Satisfaction: </b> It is crucial for APC to meet the needs and expectations of its students. By acquiring the right books and eBooks that align with students' interests and academic requirements, APC can enhance student satisfaction and engagement. This, in turn, contributes to a positive learning environment and supports students' educational goals. </li>
+<li> <b> Resource Allocation: </b> Limited resources necessitate careful allocation. APC needs to allocate its resources, including the library budget, efficiently to ensure that students have access to the necessary materials. By making informed decisions based on usage patterns and reliable reviews, APC can allocate its resources more effectively and ensure they are invested in the most beneficial resources for student use. </li>
+<li> <b> Academic Success: </b> The ultimate goal of APC is to facilitate academic success among its students. By providing access to appropriate books and eBooks that complement the curriculum, APC can enhance learning outcomes and support students in their academic pursuits. The right resources can aid students in conducting research, studying effectively, and expanding their knowledge, thereby contributing to their overall academic success. </li>
+
+</ul> 
 
 == Business Objectives ==
 
-<p> These objectives align with Asia Pacific College's strategic plan to provide high-quality education to its students, foster a culture of innovation and continuous improvement, and manage resources effectively. By implementing a system to track the usage patterns of books and eBooks, the library can make data-driven decisions that support these goals and contribute to the overall success of the institution. </p>
+<p> The purpose of this project is to optimize the book and eBook acquisition process for APC in order to make informed decisions about which materials to purchase for student use. By addressing the challenge of limited resources and the cost of buying books/eBooks, the project aims to ensure that APC invests in the most relevant and beneficial resources for its students. By identifying usage patterns and considering reliable reviews, the project seeks to maximize the value of the library's budget while providing students with access to high-quality materials that align with their needs and interests. Ultimately, the project aims to enhance the learning experience and support academic success within the APC community. </p>
 
-<ul> 
-<li> Increase the efficiency of the library's book and eBook purchasing process by using data analytics tools to make informed decisions about which materials to acquire. </li>
-<li> Improve student satisfaction by providing them with access to a wider range of relevant books and ebooks, leading to increased academic success and retention. </li>
-<li> Reduce the library's expenditure by avoiding the purchase of materials that are not frequently used, resulting in cost savings that can be allocated to other areas of the institution. </li>
-</ul>
 
 == Project Description ==
 
-<p> The Smartbooks Utilization project aims to improve the purchasing decisions of Asia Pacific College's library by implementing a system to track the usage patterns of books and eBooks. The project involves the development of a data analytics tool that will allow the library staff to identify which materials are frequently borrowed by students and make informed decisions about which books and eBooks to purchase in the future. The system will also provide recommendations for new titles that are similar to those that are already popular, leading to the development of a more diverse collection of books and eBooks. </p>
-<p> The project is intended to result in cost savings by avoiding the purchase of materials that are not frequently used, process improvement by streamlining the purchasing process, and increased student satisfaction by providing them with access to a wider range of relevant materials. Ultimately, the project aims to support the strategic goals of Asia Pacific College by improving the quality of education provided to students and managing resources effectively. </p> 
+<p> The SmartBooks project aims to optimize book and eBook acquisition and utilization in the Asia Pacific College Library. The project will improve the process of tracking books. This will enhance resource utilization, provide real-time usage data, and integrate reliable reviews for better book selection. The project involves phases like requirements gathering, system design, testing, training, and implementation. With active stakeholder involvement, the project aims to achieve outcomes such as efficient resource allocation, improved accessibility, enhanced learning experience, and cost savings. Overall, SmartBooks modernizes library management, aligns resources with student needs, and promotes effective learning and research. </p>
 
 == Project Objectives and Success Criteria ==
 
 <p> These objectives align with Asia Pacific College's strategic plan to provide high-quality education to its students, foster a culture of innovation and continuous improvement, and manage resources effectively. By implementing a system to track the usage patterns of books and ebooks, the library can make data-driven decisions that support these goals and contribute to the overall success of the institution. </p>
+ 
+<b> 1. Optimize Book and eBook Acquisition: </b> The primary goal of the SmartBooks project is to optimize the process of acquiring books and eBooks for the Asia Pacific College Library. This involves improving the tracking and selection of books, ensuring that the resources align with student needs and interests. 
 
-<ul> 
-<li> <b> Objective: </b> Increase the efficiency of the library's book and eBook purchasing process by 25% within 6 months of system implementation. </li>
-<li> <b> Success criteria: </b> Reduce the time spent on manual data collection by implementing an automated system that tracks borrowing and usage patterns. Increase the percentage of materials purchased that are relevant to the needs of the student population. </li>
-<li> <b> Objective: </b>  Improve student satisfaction with the library's collection of books and eBooks by 15% within 12 months of system implementation. </li>
-<li> <b> Success criteria: </b> Increase the number of unique titles borrowed by students. Improve the availability of relevant materials by increasing the percentage of high-demand materials purchased. </li>
-<li> <b> Objective: </b> Reduce the library's expenditures on books and eBooks by 10% within 12 months of system implementation. </li>
-<li> <b> Success criteria: </b> Decrease the percentage of materials purchased that are not frequently borrowed. Increase the number of materials borrowed per dollar spent. </li>
-</ul> 
+<ul>
+<b> Success criteria: </b>
+<li> Increase the percentage of books and eBooks acquired based on student needs and interests by 20% within one year. </li>
+<li> Decrease the percentage of unused or low-demand materials in the library's collection by 15% within six months. </li>
+</ul>
+
+<b> 2. Integrate Reliable Reviews: </b> The SmartBooks project seeks to integrate reliable reviews into the book selection process. By leveraging reviews from trusted sources, such as integrating reviews from companies like Amazon, the project aims to improve the quality and relevance of the library's collection.
+
+<ul>
+<b> Success criteria: </b> 
+<li> Incorporate reliable reviews from trusted sources for at least 80% of the new book acquisitions within three months. </li>
+<li> Improve the average rating of the library's collection based on user feedback by 0.5 points on a 5-point scale within six months. </li>
+</ul>
+
+
+<b> 3. Cost Savings: </b> The SmartBooks project aims to achieve cost savings by optimizing resource acquisition. By ensuring that the library invests in the most valuable and frequently used materials, the project aims to reduce unnecessary expenditures on books and eBooks.
+
+<ul>
+<b> Success criteria: </b> 
+<li> Reduce the overall expenditure on books and eBooks by 10% within one year, while maintaining or improving the quality and relevance of the collection. </li>
+</ul>
+
+<b> 4. Efficient Resource Allocation: </b> The project aims to achieve efficient resource allocation by making data-driven decisions. By analyzing usage patterns and reliable reviews, the project will guide the allocation of resources towards the most beneficial books and eBooks for student use, reducing unnecessary expenses. 
+
+<ul>
+<b> Success criteria: </b> 
+<li> Increase the percentage of resource allocation decisions based on data analysis and usage patterns by 30% within six months. </li>
+<li> Decrease the percentage of resource allocation for low-demand materials by 15% within one year. </li>
+</ul>
 
 <h3> Requirements </h3>
 
 <p> These high-level requirements will serve as guidelines for the project team to ensure that the SmartBooks Utilization project is completed successfully and meets the needs of the library and its users. </p>
 
-<ul>
-<li> The system must be able to track the borrowing and usage patterns of books and eBooks. </li>
-<li> The system must be able to analyze the data collected on borrowing and usage patterns to inform purchasing decisions. </li>
-<li> The system must be able to provide library staff with reports on borrowing and usage patterns of books and eBooks. </li>
-<li> The system must be able to integrate with the existing library management system and website. </li>
-<li> The project must meet the requirements and expectations of the project sponsor, customer, stakeholders, and the project team. </li>
-<li> The system must be scalable to accommodate future growth and changes in the library's collection and user base. </li>
-</ul> 
+<ol>
+
+<li> <b> Automated Book Tracking: </b> Implement an automated system that tracks the availability, location, and borrowing history of books and eBooks in the library. This will enable efficient management and provide real-time information on resource utilization. </li>
+<li> <b> Usage Pattern Analysis: </b> Develop capabilities to analyze usage patterns of books and eBooks within the library. This includes tracking which materials are frequently borrowed and identifying popular titles to inform resource acquisition decisions. </li>
+<li> <b> Integration of Reliable Reviews: </b> Integrate a reliable review system, such as partnering with reputable sources like Amazon, to provide users with comprehensive and trustworthy feedback on books and eBooks. This will assist in informed decision-making during resource selection. </li>
+<li> <b> Real-Time Availability Updates: </b> Enable real-time updates on book availability, allowing users to check the availability status of books and eBooks online. This will prevent disappointment caused by unavailable resources and improve resource accessibility. </li>
+<li> <b> User-Friendly Interface: </b> Create an intuitive and user-friendly interface for both library staff and users to easily navigate and access the SmartBooks system. The interface should provide seamless searching, borrowing, and returning functionalities. </li>
+<li> <b> Data Security and Privacy: </b> Implement robust security measures to protect user data and ensure compliance with data privacy regulations. User information, borrowing history, and other sensitive data should be handled securely and protected from unauthorized access. </li>
+<li> <b> Training and Support: </b> Provide comprehensive training and ongoing support for library staff to effectively utilize and maintain the SmartBooks system. This includes training on system functionalities, data analysis techniques, and troubleshooting procedures. </li>
+<li> <b> Scalability and Future Expansion: </b> Design the SmartBooks system to be scalable and adaptable for future growth. Consider the potential expansion of the library's collection and user base, ensuring the system can accommodate increased volumes of books and users. </li>
+
+</ol> 
 
 <h3> Constraints </h3>
-<p> The following constraints pertain to the SmartBooks Utilization project: </p>
 
-<li> <b> Budget: </b> The project must be completed within the allocated budget. Any additional expenses must be approved by the project sponsor. </li>
-<li> <b> Time: </b> The project must be completed within the agreed-upon timeline. Any delays must be communicated to the project sponsor and stakeholders. </li>
-<li> <b> Technology: </b> The project must use the existing library website platform and any required upgrades must be approved by the IT department. </li>
-<li> <b> Staffing: </b> The project must be completed using existing library staff resources. No additional staffing resources will be allocated. </li>
+<p> By acknowledging and working within these constraints, the SmartBooks Utilization project ensures responsible budget management, timely completion, alignment with existing technology infrastructure, and optimal utilization of available staff resources. The SmartBooks Utilization project is subject to the following constraints: </p>
+
+<ol> 
+
+<li> <b> Budget: </b> The project must stay within the allocated budget, and any additional expenses require approval from the project sponsor. </li> 
+<li> <b> Time: </b> The project must be completed within the agreed-upon timeline, and any potential delays must be communicated to the project sponsor and stakeholders. </li> 
+<li> <b> Technology: </b> The project must utilize the existing library website platform, with any necessary upgrades approved by the IT department. </li> 
+<li> <b> Staffing: </b> The project must be carried out using the current library staff resources, without additional staffing allocation. </li> 
+
+</ol> 
 
 <h3> Assumptions </h3>
 
-<p> The following are a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct: </p>
+<p> By accepting these assumptions, all parties involved in the SmartBooks project can move forward with confidence in their validity and plan accordingly. The SmartBooks project operates under the following assumptions, which all parties acknowledge to be true and correct upon agreement and signature of this document: </p> 
 
-<ul>
-<li> The library has a system in place for tracking book and eBook usage data. </li>
-<li> Students will continue to use the library's services and borrow books and eBooks. </li>
-<li> The library has the necessary budget to purchase additional books and eBooks based on the usage data. </li>
-<li> The library staff have the necessary skills and training to analyze the usage data and make informed purchasing decisions. </li>
-<li> The library has a sufficient amount of storage space for additional books and eBooks. </li>
-<li> The library's website is able to accommodate the additional data and features required to display usage patterns. </li>
-<li> The students will provide accurate information when borrowing books and eBooks. </li>
-</ul>
+<ol> 
+
+<li> <b> Adequate Budget Allocation: </b> The library has allocated a sufficient budget to purchase additional books and eBooks based on the usage data. This ensures that the library can acquire materials that are in demand and align with student needs. </li> 
+<li> <b> Skilled Staff for Data Analysis: </b> The library staff possesses the necessary skills and training to analyze the usage data and make informed purchasing decisions. Their expertise allows for effective interpretation of data insights and selection of relevant materials for acquisition. </li> 
+<li> <b> Sufficient Storage Capacity: </b> The library has an adequate amount of storage space to accommodate the additional books and eBooks that will be acquired based on usage data. Sufficient storage ensures that the library can effectively manage and organize the expanded collection. </li> 
+<li> <b> Website Compatibility: </b> The library's website is capable of accommodating the additional data and features required to display usage patterns. This assumption implies that the website infrastructure and design can support the integration of usage data and provide a user-friendly interface for students and staff. </li> 
+<li> <b> Accuracy of Borrowing Information: </b> It is assumed that students will provide accurate information when borrowing books and eBooks. This assumption is crucial for ensuring the reliability and integrity of the usage data collected for analysis and decision-making. </li> 
+
+</ol> 
+
 
 <h3> Preliminary Scope Statements </h3>
 
-<p> Through the implementation of a system that monitors usage patterns and makes recommendations for purchasing choices based on data, the SmartBooks Utilization project seeks to increase the use of books and eBooks in the library at Asia Pacific College. The project will involve creating and putting into use a software system that will enable library personnel to gather information on borrowing patterns, spot materials that are in high demand, and make more informed purchasing decisions. The project's scope comprises the creation of the software system, instruction in its use for library staff members, and incorporation into the library's current workflows. The completion of the project will be marked by the successful implementation of the system and the ability of the library to use the system to make more efficient purchasing decisions. </p>
+<p> The SmartBooks Utilization project aims to enhance book and ebook usage in the library at Asia Pacific College by implementing a data-driven system. This system will monitor usage patterns, provide recommendations for purchasing decisions, and improve overall resource management. The project scope includes the development and deployment of a software system that enables library personnel to gather data, identify high-demand materials, and make informed purchasing choices. Additionally, the project encompasses training library staff on system usage and integrating it seamlessly into existing library workflows. The project will be considered successfully completed when the system is implemented effectively, empowering the library to make efficient purchasing decisions based on usage data. </p>
 
 == Risks ==
 
 <p> These high-level risks should be monitored and managed throughout the project to minimize their impact on the project's success. </p>
 
 <ul>
-<li> Integration risks: Technical risks and difficulties, such as problems with data exchange, downtime, or system failures, may arise while integrating the new system with the current library management system and website. </li>
-<li> User adoption risks: Library staff may be resistant to change or may require additional training to adopt the new system, which could impact the system's usability, accuracy, and effectiveness. </li>
-<li> Data quality risks: Factors like missing or obsolete data, human mistake, or technical issues may affect the accuracy and dependability of the data collected on borrowing and usage habits, which may result in wrong or inadequate purchase decisions. </li>
-<li> Budget and timeline risks: Due to unanticipated difficulties, delays, or scope creep, the project may go above its allotted spending limit or completion date. </li>
+
+<li> <b> Limited Availability: </b> Risk of certain books and eBooks being unavailable in the market. Mitigation: Conduct thorough research and establish partnerships with multiple suppliers. </li>
+<li> <b> Changing Needs and Trends: </b> Risk of the SmartBooks system not aligning with evolving user requirements. Mitigation: Regularly engage with stakeholders, monitor industry trends, and collect user feedback to adapt the system accordingly. </li>
+<li> <b> Budget Constraints: </b> Risk of budget limitations affecting system implementation and resource acquisition. Mitigation: Effective budget planning, cost estimation, and monitoring of expenses. Prioritize essential features and explore cost-effective alternatives. </li>
+<li> <b> Quality and Reliability of Reviews: </b> Risk of poor-quality or biased reviews impacting user trust and decision-making. Mitigation: Implement a thorough review vetting process, consider reputable sources, and enable user feedback on reviews. </li>
 </ul>
 
 == Project Deliverables ==
@@ -346,10 +375,12 @@ Intended Effects of the Business Case:
 <p> The following deliverables must be met upon the successful completion of the SmartBooks Project.  Any changes to these deliverables must be approved by the project sponsor. </p>
 
 <ol>
-<li> <b> Usage Pattern Analysis Report: </b> This report will analyze the usage patterns of books and eBooks in the library and provide recommendations for purchasing decisions based on the findings. </li>
-<li> <b> Enhanced Library Website: </b> The improved library website will display the usage patterns of books and eBooks and allow students to provide feedback on the books they borrow, improving the overall user experience. </li>
+
+<li> <b> Usage Pattern Analysis Report: </b> The milestone is achieved when the usage pattern analysis report is generated. The report analyzes book and eBook usage patterns in the library, identifying trends and popular titles. These insights inform decision-making for book acquisition and resource allocation. </li>
+<li> <b> Reliable Reviews Integration: </b> This milestone marks the successful integration of reliable reviews into the SmartBooks system. Trusted review sources, like Amazon, are integrated, ensuring access to reliable reviews during the book selection process. </li>
 <li> <b> Updated Collection Development Policy: </b> The policy will be updated to reflect the new system for tracking usage patterns of books and eBooks, ensuring that purchasing decisions align with the needs of the students and the college. </li>
-<li> <b> Procurement Plan: </b> The procurement plan will outline the process for purchasing new books and eBooks, including how to evaluate usage patterns and determine which materials to acquire. </li> 
+<li> <b> System Implementation: </b> The system has officially launched in the Asia Pacific College Library. All project deliverables, including the system, usage pattern analysis report, and reliable reviews integration, are in place and operational. </li> 
+
 </ol>
 
 == Summary Milestones Schedule ==
@@ -368,83 +399,6 @@ Intended Effects of the Business Case:
 </tr>
 
 <tr>
-<th> Requirement Analysis </th>
-
-<ul>
-<li>Define project requirements.</li>
-<li>Gather and analyze user requirements.</li>
-<li>Determine project scope and constraints. </li>
-</ul>
-
-<td> June 15 – June 30 </td>
-</tr>
-
-<tr>
-<th> System Design 
-<ul>
-<li> Create a data flow diagram </li>
-<li> Determine the database schema. </li>
-<li> Create wireframes for the user interface. </li>
-<li> Design the system architecture </li>
-</ul>
-</th>
-<td> July 1 –  July 31 </td>
-</tr>
-
-<tr>
-<th> System Development
-<ul>
-<li> Set up the development environment. </li>
-<li> Develop the user interface. </li>
-<li> Create the database schema. </li>
-<li> Develop the backend functionality. </li>
-<li> Integrate SmartBooks with the existing Library website. </li>
-</ul>
-</th>
-<td> August 1 – August 31 </td>
-</tr>
-
-<tr>
-<th> Testing 
-<ul>
-<li> Develop a test plan. </li>
-<li> Conduct unit testing. </li>
-<li> Conduct integration testing. </li>
-<li> Conduct system testing. </li>
-<li> Conduct user acceptance testing </li>
-</ul>
-</th>
-<td> September 1 – September 15 </td>
-</tr>
-
-<tr>
-<th> Deployment 
-<ul>
-<li> Create a deployment plan. </li>
-<li> Prepare the production environment. </li>
-<li> Install SmartBooks in the production environment. </li>
-<li> Perform system testing in the production environment. </li>
-</ul>
-</th>
-<td> September 16 – October 15 </td>
-</tr>
-
-<tr> 
-<th> Maintenance and Support 
-<ul>
-<li> Monitor system performance. </li>
-<li> Provide ongoing technical support. </li>
-<li> Perform system maintenance. </li>
-<li> Address user feedback and feature requests </li>
-</ul>
-</th>
-<td> October 16  - 30 </td>
-</tr>
-
-<tr> 
-<th> Project Closure </th>
-<td> September 1, 2023 </td>
-</tr>
 </table>
 
 == Summary Budget ==
