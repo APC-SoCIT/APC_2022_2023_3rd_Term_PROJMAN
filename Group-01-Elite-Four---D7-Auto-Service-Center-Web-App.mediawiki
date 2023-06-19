@@ -556,9 +556,9 @@ The roles and responsibilities of the team are as follows:
     <td>In charge of overseeing the team and ensuring the project is planned, executed, and tasks are completed successfully & on time.</td>
   </tr>
   <tr>
-    <td>Product Owner</td>
+    <td> QA Tester </td>
     <td>Dan Michael Alfaras</td>
-    <td>Guides and supports team members to successfully complete the project within the given constraints.</td>
+    <td> Ensures the quality and reliability of software applications through thorough testing and bug identification. </td>
   </tr>
   <tr>
     <td>Web Developer</td>
@@ -571,14 +571,14 @@ The roles and responsibilities of the team are as follows:
     <td>In charge of managing, monitoring, and maintaining the database.</td>
   </tr>
   <tr>
-    <td>Project Coordinator</td>
-    <td>Francesca Erin Camino</td>
-    <td>In charge of coordinating communication and documentation, organizing meetings, managing schedules, and ensuring that participants and roles are defined for the business case and throughout the project.</td>
+    <td> Project Secretary </td>
+    <td> Francesca Erin Camino </td>
+    <td> In charge of coordinating communication and documentation, organizing meetings, managing schedules, and ensuring that participants and roles are defined for the business case and throughout the project .</td>
   </tr>
   <tr>
-    <td>Project Coordinator Assistant</td>
-    <td>Darrell Royce Lazala</td>
-    <td>Works closely with the team’s secretary, providing administrative support to the team and assisting in the coordination of team activities.</td>
+    <td> UI/UX Designer </td>
+    <td> Darrell Royce Lazala</td>
+    <td> Creates visually appealing and user-friendly interfaces to enhance the overall user experience of the web-app. </td>
   </tr>
   <tr>
     <td>Project Sponsor/Stakeholder</td>
@@ -748,7 +748,7 @@ The cost management approach for the D7 Auto Service Center shall be adherent to
 ==8.3 Measuring Project Costs==
 The Measuring of the Project Costs Plan for the D7 Auto Service Web-App will include and detailed and calculated approach for the measurement of the projected project costs using EVM (Earned Value Management). This will involve and need various Earned Value metrics like:  
 
-The BCWS (Budget Cost of Work Schedule) or PV (Planned Value)  
+1. The BCWS (Budget Cost of Work Schedule) or PV (Planned Value)  
 
 Measures the costs of the work that is budgeted and that is planned to be completed at a specific point in time. This is needed and required for the computation SPI (Schedule Performance Index).  
 
@@ -765,7 +765,7 @@ Therefore, the project’s Planned Value (PV) is PHP 30,000. 
 
 Reference: ​[1]​  
 
-BCWP (Budgeted Cost of Work Performed) or EV (Earned Value)  
+2. BCWP (Budgeted Cost of Work Performed) or EV (Earned Value)  
 
 Measures the budgeted costs of the work that has been completed at a specific point in time. This is needed and required for the computation of SPI (Schedule Performance Index) and the CPI (Costs Performance Index).  
 
@@ -782,7 +782,7 @@ Therefore, the project’s Earned Value (EV) is PHP 40,000. 
 
 Reference: ​[1]​  
 
-ACWP (Actual Cost of Work Performed) or AC (Actual Cost)  
+3. ACWP (Actual Cost of Work Performed) or AC (Actual Cost)  
 
 Measures the actual costs incurred for the works that have already been completed at a specific point in time and schedule. This is needed for the computation of CV (Cost Variance) and CPI (Cost performance index)  
 
@@ -797,7 +797,7 @@ The metrics above will be used to perform Costs Variance Analysis (CV), Schedule
 
 To help with capturing and recording these metrics, the team will use various project management software that can track, record, and generate reports on these EVM metrics overtime or in real-time. The software must also be capable of making future forecasts of the project costs as it will be used to review costs performance overtime, across work packages or schedule activities.   
 
-Cost Variance (CV)  
+ 1. Cost Variance (CV)  
 
 Measures the difference between the actual costs of the project and the planned costs. This is calculated by subtracting the actual costs from the Actual costs (EV – AC).  
 
@@ -813,7 +813,7 @@ The project’s Cost Variance (CV) is PHP –30,000, and since it is negative, w
 
 Reference: ​[2]​  
 
-Schedule Performance Index (SPI)  
+ 2. Schedule Performance Index (SPI)  
 
 Measures the project's schedule performance ratio by calculating the planned schedule and comparing it to the actual schedule. The ratio is calculated by dividing the EV to the PV. The ratio that will be resulted will be compared, If it is a value of 1 this will indicate that the project is on schedule, while the ratio that will be resulted in a value that is less than 1 indicates that the schedule is behind, While a value that is over 1 show that the project is ahead of schedule.  
 
@@ -829,7 +829,7 @@ Since the Schedule Performance Index (SPI) is above 1, the project is ahead of s
 
 Reference: ​[3]​
 
-Cost Performance Index (CPI)  
+ 3. Cost Performance Index (CPI)  
 
 Measures the project’s cost performance by calculating the actual costs to the planned costs of the project. This Index is calculated using this formula (CPI = EV / AC). Like the SPI the CPI also uses ratio in determining if the project is over budget, under budget, or right in budget.   
 
@@ -898,59 +898,59 @@ After the cost change for the budget has been approved it will be implemented ac
 ==8.7 Project Budget==
 The budget for the D7 Auto Service Center Web-App project is detailed below:
 
-The approved budget: <b>₱3,034,000</b>
+The approved budget: <b>₱363,600.00</b>
 
-The project’s duration is 331 days from Planning to Turn Over. Planning, however, will be excluded since the project will begin after the client has been confirmed.
+The project’s duration is 140 days from Planning to Turn Over. Planning, however, will be excluded since the project will begin after the client has been confirmed.
 
 <b>Salary Breakdown:</b>
 <table>
 <thead>
   <tr>
     <th>Position</th>
-    <th>Salary (Daily) with an expectation of 22 working days per month, excluding holidays and days off</th>
-    <th>No. Of Days</th>
+    <th> Salary on an Hourly Rate Basis</th>
+    <th>No. of work hours </th>
     <th>Total</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Project Manager</td>
-    <td>₱1,613.00 per day</td>
-    <td>331</td>
-    <td>₱533,903.00</td>
-  </tr>
-  <tr>
-    <td>Product Owner</td>
-    <td>₱2,930.72 per day</td>
-    <td>331</td>
-    <td>₱970,068.32</td>
+    <td>₱250.00</td>
+    <td>208</td>
+    <td>₱52,000.00</td>
   </tr>
   <tr>
     <td>Web Developer</td>
-    <td>₱1,498.54 per day</td>
-    <td>102</td>
-    <td>₱152,851.08</td>
+    <td>₱200.00 </td>
+    <td>384</td>
+    <td>₱76,800.00</td>
+  </tr>
+  <tr>
+    <td>UI/UX Designer</td>
+    <td>₱200.00</td>
+    <td>208</td>
+    <td>₱41,600.00</td>
   </tr>
   <tr>
     <td>Database Administrator</td>
-    <td>₱1,423.045 per day</td>
-    <td>87</td>
-    <td>₱123,804.94</td>
+    <td>₱200.00 </td>
+    <td>176</td>
+    <td>₱35,200.00</td>
   </tr>
   <tr>
-    <td>Project Coordinator</td>
-    <td>₱1,068.36 per day</td>
-    <td>331</td>
-    <td>₱353,627.16</td>
+    <td>QA Tester </td>
+    <td>₱220.00</td>
+    <td>120</td>
+    <td>₱26,400</td>
   </tr>
   <tr>
-    <td>Assistant Project Coordinator</td>
-    <td>₱909.09 per day</td>
-    <td>88</td>
-    <td>₱79,999.92</td>
+    <td>Project Secretary</td>
+    <td>₱200.00</td>
+    <td>200</td>
+    <td>₱32,000</td>
   </tr>
   <tr>
-    <td colspan="4">Total Salary: ₱2,214,254.42</td>
+    <td colspan="4">Total Salary: ₱264,000.00</td>
   </tr>
 </tbody>
 </table>
@@ -976,29 +976,24 @@ The project’s duration is 331 days from Planning to Turn Over. Planning, howev
     <td>₱3,000.00</td>
   </tr>
   <tr>
-    <td>Food Allowance</td>
-    <td>1270 days (6 members) x ₱150 (food allowance)</td>
-    <td>₱190,500.00</td>
-  </tr>
-  <tr>
     <td>Transportation Allowance</td>
-    <td>1270 days (6 members) x ₱100 (transportation allowances)</td>
-    <td>₱127,000.00</td>
+    <td>16 days (6 members) x ₱100 (transportation allowance for deployment and closeout)</td>
+    <td>₱1,600.00</td>
   </tr>
   <tr>
     <td>Contingency</td>
     <td></td>
-    <td>₱100,000.00</td>
+    <td>₱35,000.00</td>
   </tr>
   <tr>
     <td>Manpower</td>
     <td></td>
-    <td>₱2,214,254.42</td>
+    <td>₱264,000.00</td>
   </tr>
   <tr>
     <td>TOTAL:</td>
     <td></td>
-    <td>₱2,634,754.42</td>
+    <td>₱303,600.00</td>
   </tr>
   <tr>
     <td>Indirect Cost</td>
@@ -1012,23 +1007,8 @@ The project’s duration is 331 days from Planning to Turn Over. Planning, howev
   </tr>
   <tr>
     <td>Internet</td>
-    <td>₱2,500.00 x 12 months</td>
-    <td>₱30,000.00</td>
-  </tr>
-  <tr>
-    <td>Electricity</td>
-    <td>₱3,000.00 x 12 months</td>
-    <td>₱36,000.00</td>
-  </tr>
-  <tr>
-    <td>Office Space</td>
-    <td>₱10,000.00 x 12 months</td>
-    <td>₱120,000.00</td>
-  </tr>
-  <tr>
-    <td>Water</td>
-    <td>₱300.00 x 12 months</td>
-    <td>₱3,600.00</td>
+    <td>₱6,000.00x 4 months</td>
+    <td>₱24,000.00</td>
   </tr>
   <tr>
     <td>Equipment</td>
@@ -1041,22 +1021,17 @@ The project’s duration is 331 days from Planning to Turn Over. Planning, howev
     <td>₱0.00</td>
   </tr>
   <tr>
-    <td>Devices Used</td>
-    <td>₱32,000.00 x 6 (laptops)</td>
-    <td>₱192,000.00</td>
-  </tr>
-  <tr>
-    <td>Peripherals</td>
-    <td>₱3,000.00 x 6 (mouse &amp; keyboard)</td>
-    <td>₱18,000.00</td>
+    <td>Devices Rental</td>
+    <td>₱9,000.00 x 4 months at (₱1,500.00 per unit multiplied to number of members of project team) </td>
+    <td>₱36,000.00</td>
   </tr>
   <tr>
     <td>TOTAL:</td>
     <td></td>
-    <td>₱399,600.00</td>
+    <td>₱30,000.00</td>
   </tr>
   <tr>
-    <td colspan="3">GRAND TOTAL: ₱3,033,904.42</td>
+    <td colspan="3">GRAND TOTAL: ₱30,000.00</td>
   </tr>
 </tbody>
 </table>
@@ -1266,7 +1241,7 @@ The Change Control Process for the D7 Auto Service Center Web-App Project will f
 
 6)	Implement change (Project Manager) – If a change is approved by the CCB, the project manager will update and re-baseline project documentation, as necessary.
 
-To effectively monitor the progress of change requests, a specific change request status is assigned to each step, as illustrated in the table below
+To effectively monitor the progress of change requests, a specific change request status is assigned to each step, as illustrated in the table below:
 
 <table>
 <thead>
@@ -1314,6 +1289,11 @@ The Quality Management Plan outlines the team's approach to ensuring that the D7
 ==11.2 Quality Management Approach==
 The Quality Management Plan for the D7 Auto Service Center Web-App project will utilize an Agile and Scrum methodology, this way, the project during its phases can be subject to change which will allow both the development team and the client to make changes as needed whenever there are certain adjustments that are needed in order to make the project tailor-fit to the requirements of the business. This method and approach will also allow the development team to carefully run through the deliverables needed and ensure that the deliveries being made are of quality and through the right practices of the chosen methodologies.
 
+To ensure the quality of the project, a QA Tester is a part of the development team to ensure that all implementations are up to standard and of quality. 
+
+The project sponsor also acquired a project adviser and consultant in order to evaluate the project deliverables and to provide feedback and suggestions through consultations. 
+
+
 <table>
 <thead>
   <tr>
@@ -1327,8 +1307,8 @@ The Quality Management Plan for the D7 Auto Service Center Web-App project will 
     <td>Establishes and supports the standards needed for the project deliverables so that it may supply satisfaction to stakeholders' needs.</td>
   </tr>
   <tr>
-    <td>Product Owner</td>
-    <td>Ensures that the project’s features, and other necessary components pass the success criteria of the project, while supporting communication to both the project teams and the project manager.</td>
+    <td> QA Tester </td>
+    <td>Ensures that the project’s features, and other necessary components pass the success criteria of the project, while supporting communication to both the project teams and the project manager.  </td>
   </tr>
   <tr>
     <td>Development Team</td>
@@ -1342,6 +1322,19 @@ The Quality Management Plan for the D7 Auto Service Center Web-App project will 
     <td>Project Sponsor</td>
     <td>The project sponsor will be part of the project’s decision making whether a feature implemented and to be deployed is thereby approved, declined, or needs changes. The project sponsor will also receive regular updates from the project manager as new features are being implemented to the project.</td>
   </tr>
+<tr>
+    <td> Product Owner </td>
+    <td> Responsible for evaluating the deliverables being provided by the team and reports it to the project sponsor as updates throughout the project’s lifecycle.  </td>
+  </tr>
+<tr>
+    <td> Project Adviser  </td>
+    <td> The project adviser will be overseeing the deliverables being provided and will be supplying suggestions through the documentations and implementations of the project. </td>
+  </tr>
+<tr>
+    <td> Project Consultant  </td>
+    <td> The project adviser will be reviewing the deliverables  and documentations of the project and will be supplying suggestions to the project through consultations. </td>
+  </tr>
+
 </tbody>
 </table>
 
@@ -1457,6 +1450,11 @@ The human resource management aims to be a roadmap for the project team members 
     <td>Provides input and feedback on project deliverables and progress. Reviews and approves project deliverables and changes. Provides project funding and resources. Communicates their needs and expectations to the project team.</td>
     <td>Strong leadership, communication, and negotiation skills</td>
   </tr>
+<tr> 
+ <td> External Team (External Users)</td>
+ <td> The users who will oversee deliverables and provide suggestions and report to project sponsor </td>
+ <td> Provides feedback on project deliverables. Collaborates with the project team to identify and refine requirements as suggested and consulted upon. Evaluates deliverables and reports to project sponsor.  </td>
+</tr>
 </tbody>
 </table>
 
@@ -1520,6 +1518,23 @@ The project’s Human Resource and Staffing may be subjected to change as there 
     <td>Weekly review or as needed.</td>
     <td>Performance-based bonuses or salary increases.</td>
   </tr>
+  <tr> 
+   <td> Project Adviser </td> 
+   <td> Contributes to project’s checking, suggestions, and improvements.  </td>
+   <td> Technical and analytical skills as required by the project. </td>
+   <td> Varies depending on project requirements. </td>
+   <td> Weekly review or as needed. </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td> Project Consultant </td> 
+   <td> Contributes to project’s checking, suggestions, and improvements through consultations. </td>
+   <td> Technical and analytical skills as required by the project. </td>
+   <td> Varies depending on project requirements. </td>
+   <td> Weekly review or as needed. </td>
+   <td> </td>
+  </tr>
+
 </tbody>
 </table>
 
@@ -1599,21 +1614,29 @@ The Communication Management Plan for the D7 Auto Service Center Web-app project
     <td>The Product Owner is responsible for giving direction and guidance to team members to complete the D7 Auto Service Center web-app project within the given constraints. This includes delegating tasks, monitoring progress, providing feedback and support, and ensuring that all team members are working collaboratively towards achieving project objectives.</td>
   </tr>
   <tr>
-    <td>Team Developer</td>
+    <td> Web Developer </td>
     <td>The team developer collaborates closely with the Product Owner to ensure the project is completed quickly and efficiently. They are responsible for the design, coding, testing, and implementation of the project, ensuring that it meets the necessary requirements and is of high quality.</td>
   </tr>
   <tr>
-    <td>Team Developer Support</td>
+    <td>UI/UX Designer</td>
     <td>The team developer support works in collaboration with the team's developer and assists them in carrying out various tasks related to designing, coding, testing, and implementing the project. They provide additional support to ensure that the project is completed successfully and on time.</td>
   </tr>
   <tr>
-    <td>Team Secretary/Stakeholder</td>
-    <td>The team secretary/stakeholder coordinates communication and documentation, organizing meetings, managing schedules, and ensuring that participants and roles are defined for the business case and throughout the project's life.</td>
+    <td> QA Tester </td>
+    <td>The team’s QA Tester will be in charge of evaluating and monitoring implementations to ensure that the project’s features are up to standard and monitored accordingly. </td>
   </tr>
   <tr>
-    <td>Team Secretary Support</td>
-    <td>The team secretary support role involves working in close collaboration with the team's secretary to provide administrative assistance and support in coordinating team activities. This may include scheduling meetings, organizing documentation, and assisting with communication and coordination to ensure the project's smooth operation.</td>
+    <td> Project Secretary </td>
+    <td>The team’s project  secretary involves administrative documentation and support in coordinating team activities. This may include scheduling meetings, organizing documentation, and assisting with communication and coordination to ensure the project's smooth operation. </td>
   </tr>
+<tr>
+  <td> Project Adviser </td>
+  <td> The team’s project adviser will be evaluating the deliverables of the project and providing suggestions for the project’s improvement with regards to its development and documentation.  </td>
+ </tr>
+<tr>
+  <td> Project Consultant </td>
+  <td> The team’s project consultant will be evaluating the deliverables of the project and providing suggestions for the project’s improvement with regards to its development and documentation through consultations.  </td>
+ </tr>
 </tbody>
 </table>
 
@@ -1641,7 +1664,7 @@ The following table presents contact information for all persons identified in t
   </tr>
   <tr>
     <td>Dan Michael C. Alfaras</td>
-    <td>Product Owner</td>
+    <td> QA Tester </td>
     <td>dcalfaras@student.apc.edu.ph</td>
   </tr>
   <tr>
@@ -1651,7 +1674,7 @@ The following table presents contact information for all persons identified in t
   </tr>
   <tr>
     <td>Francesca Erin R. Camino</td>
-    <td>Project Coordinator</td>
+    <td>Project Secretary </td>
     <td>frcamino@student.apc.edu.ph</td>
   </tr>
   <tr>
@@ -1661,7 +1684,7 @@ The following table presents contact information for all persons identified in t
   </tr>
   <tr>
     <td>Darrell Royce A. Lazala</td>
-    <td>Asistant Coordinator</td>
+    <td>UI/UX Designer</td>
     <td>dalazala@student.apc.edu.ph</td>
   </tr>
 </tbody>
@@ -2230,140 +2253,147 @@ The Work Breakdown Structure presented here represents all the work required to 
         <td>1</td>
         <td>D7 Auto Service Center Web-App</td>
         <td>A web-application as an additional platform for D7</td>
-        <td>344 Days</td>
+        <td>140 Days</td>
     </tr>
     <tr>
         <td>2</td>
         <td>1.1</td>
         <td>Planning</td>
         <td>Comprised of planning essentials for the project</td>
-        <td>83 Days</td>
+        <td>25 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.1.1</td>
         <td>Planning Phase Preparations</td>
         <td>Project Adviser and Client search</td>
-        <td>20 Days</td>
+        <td>3 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.1.2</td>
         <td>Problem Identification</td>
         <td>Brainstorming and signing</td>
-        <td>12 Days</td>
+        <td>3 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.1.3</td>
         <td>Solution Deliberation</td>
         <td>Presentation of possible ideas</td>
-        <td>9 Days</td>
+        <td>8 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.1.4</td>
-        <td>Solution Refinement</td>
+        <td>Business Case & Stakeholder Management Planning</td>
         <td>Continuation of planning for chosen project</td>
-        <td>23 Days</td>
+        <td>3 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.1.5</td>
-        <td>Solution Prototype &amp; Documentation</td>
+        <td>Solution Prototype &amp; Refinement </td>
         <td>Finalization of plans and heads up for system analysis and design</td>
-        <td>19 Days</td>
+        <td> 5 Days</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>1.1.6</td>
+        <td> Project Management Planning &amp; Documentation </td>
+        <td> Finalization &amp; Documentation of Planning</td>
+        <td> 3 Days</td>
     </tr>
     <tr>
         <td>2</td>
         <td>1.2</td>
         <td>System Analysis &amp; Design</td>
         <td>Comprised of System Analysis and Designing of chosen project</td>
-        <td>89 Days</td>
+        <td> 30 Days </td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.2.1</td>
         <td>System Analysis &amp; Design Phase Preparation</td>
         <td>Project Adviser and Consultant search</td>
-        <td>10 Days</td>
+        <td>3 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.2.2</td>
-        <td>System Analysis UML Documentation</td>
+        <td>System Analysis UML Creation</td>
         <td>Analysis of context and data flow of system</td>
-        <td>29 Days</td>
+        <td>10 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.2.3</td>
-        <td>System Design UML Documentation</td>
+        <td>System Design UML Creation</td>
         <td>Presentation of Works from Sprints</td>
         <td>10 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.2.4</td>
-        <td>System Analysis &amp; Design Refinement</td>
+        <td>System Analysis &amp; Design Refinements</td>
         <td>Documentation proper of project and more analysis of system</td>
-        <td>30 Days</td>
+        <td>4 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.2.5</td>
         <td>System Analysis &amp; Design Documentation</td>
         <td>System structure, deployment, activities and deployment diagrams &amp;amp; Finalization of System Analysis and Design</td>
-        <td>10 Days</td>
+        <td>3 Days</td>
     </tr>
     <tr>
         <td>2</td>
         <td>1.3</td>
         <td>Development</td>
         <td>Comprised of Development of system features and web-app</td>
-        <td>86 Days</td>
+        <td>60 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.3.1</td>
         <td>Development Phase Preparation</td>
         <td>Project Adviser and Consultant search</td>
-        <td>5 Days</td>
+        <td>3 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.3.2</td>
         <td>Release Plan 1</td>
         <td>Initial creation of features for the web-app</td>
-        <td>38 Days</td>
+        <td>15 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.3.3</td>
-        <td>Documentation and Planning Refinement</td>
-        <td>Documentation and finalization of release plan 1</td>
-        <td>30 Days</td>
+        <td>Reservation and Review System Implementation</td>
+        <td>Continuation of creation of project features </td>
+        <td>15 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.3.4</td>
-        <td>Reservation and Review System Implementation</td>
-        <td>Continuation of creation of project features</td>
-        <td>33 Days</td>
+        <td>Web-App Functionality and Features Implementation </td>
+        <td>Presentation of development progress </td>
+        <td>15 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.3.5</td>
-        <td>Web-App Functionality and Features Completion (Release Plan 1 &amp; 2)</td>
-        <td>Presentation of development progress</td>
-        <td>5 Days</td>
+        <td> Development Revisions &amp; Quality Testing </td>
+        <td>Finalization of documentation for development and features of web-app </td>
+        <td>10 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.3.6</td>
-        <td>Support Tab and Statistics Integration</td>
-        <td>Continuation of final features creation</td>
-        <td>13 Days</td>
+        <td>Development Documentation</td>
+        <td>Finalization of documentation for development and features of web-app </td>
+        <td>2 Days</td>
     </tr>
     <tr>
         <td>3</td>
