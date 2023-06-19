@@ -2647,85 +2647,20 @@ Knowledge in using an online system.
 # <b> Transparency - </b> It is important to establish transparency to gain the trust of the stakeholders. This involves openly discussing everything with the stakeholders including issues and risks.
 
 ==Roles==
-<table border="1" width="70%" align="center">
- <tr>
- <td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">AUTHORITY</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">COMPETENCY</p></td>
- </tr>
+<p> Project Sponsor </p>
+<p>-	The project sponsor is responsible for guiding the project manager and project team in ensuring that the goals and objectives are met. The project sponsor also communicates with the entire team in checking the progresses being made. </p>
+<p> Product Owner </p>
+<p>-	The product owner is responsible for ensuring that the project accomplishes the objectives and represent the interests of the stakeholders. The product owner needs to be assertive and communicate clearly with the team on what is needed for the project in order to maximize the project’s value. </p> 
+<p>Project Manager </p>
+<p>-	Project Manager has the responsibility of overseeing the entire project which requires coordinating with all parties involved to assure clear communication is being done for the benefit of the project. </p>
+<p> Developer </p>
+<p>-	The developer is in charge of converting the ideas for the project into useful software programs which requires the developer to have a clear understanding of what will be developed. The developer will also need to communicate clearly and quickly regarding issues which may occur during the development process in order to resolve it immediately. </p>
+<p>Quality Assurance</p>
+<p>-	The quality assurance is in charge of ensuring that the entire project deliverables and product are consistently meeting its quality standards. Therefore, he/she needs to communicate with the team and check regularly on their tasks to ensure that the quality of their work and deliverables meet the criteria. </p>
+<p>Product Tester </p>
+<p>-	The product tester is responsible for testing the system and ensuring that it operates as intended and meets the quality standard set for it. The tester is in charge of reporting issues and adjustments to be made to the system. </p>
 
- <tr>
- <td><p style="text-align:center;">Project Sponsor</p></td>
- <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. Provides 
-     feedback and comments on what can be improved. Able to allot project resources and consent to project 
-     scope changes, schedule, and budgeting plan with significant effects. </p></td>
- <td><p style="text-align:center;">Ensures that the project delivers the anticipated benefits and value and is 
-     in line with the organization's strategic goals and objectives. Provide guidance to the project and 
-     project manager. Communicate with the stakeholder and project manager for the progress of the project and 
-     team. </p></td>
- <td><p style="text-align:center;">Communicating effectively with the team. Strong leadership and strategic 
-     thinking skills. Understands the team’s goal for the project. Ability to support the project. </p></td>
- </tr>
 
- <tr>
- <td><p style="text-align:center;">Project Stakeholder</p></td>
- <td><p style="text-align:center;">Checks the approved changes in the deliverables. Authority to revise an 
-     information that will mislead the goals of the project. </p></td>
- <td><p style="text-align:center;">Ensures that the deliverables are complete before sending and having it 
-     checked by the project sponsor. Organize meetings with the project manager and project team members for 
-     the feedback from the project sponsor. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills.
-     Knowledge of the company for precise information. </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Manager</p></td>
- <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve changes to 
-     project scope, schedule, and budget that has low change effect. </p></td>
- <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors 
-     the work of the team members. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
-     Knowledge of the company for precise information. </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Team Leader (Internal User) </p></td>
- <td><p style="text-align:center;">Leads the team members. Authority to call a meeting with the project manager 
-     and team members about the project. </p></td>
- <td><p style="text-align:center;">Ensures that the entire project deliverables are complete. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
-     Knowledge of the company for precise information. </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Team Members (Internal Users) </p></td>
- <td><p style="text-align:center;">Authority to help the project leader and project manager in deciding the 
-     plans on the project. </p></td>
- <td><p style="text-align:center;">Ensures that the information in the deliverables is complete and connected 
-     to the objectives of the project. Ensures that the deliverables are complete within the given period. 
-     </p></td>
- <td><p style="text-align:center;">Effective communication skills, project management skills, and cooperation.
-     Knowledge of the company needs, and information to complete deliverables. </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Customers (External Users) </p></td>
- <td><p style="text-align:center;">Test the project’s system. </p></td>
- <td><p style="text-align:center;">Provides feedback on the project’s system. Communicates with the team to 
-     help improve the system. </p></td>
- <td><p style="text-align:center;">Communication skills. Knowledge in using an online system. </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Client (External User) </p></td>
- <td><p style="text-align:center;">Company Owner that introduced the project and will test the system. </p> 
- </td>
- <td><p style="text-align:center;">Provides feedback on the deliverables and system. Communicates with the 
-     project sponsor, project stakeholder, and project manager for updates and progress.  </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and negotiation skills. </p></td>
- </tr>
-</table>
 ==Communication Methods and Technologies==
 
 <p>The Villamin Wood and Ironworks System requires understanding from the team of the communication methods and technologies to effectively communicate with the stakeholders. It is essential to consider varied factors and limitations in ensuring that the stakeholders will receive the information they need at the right time and in an efficient manner. This includes delivering project updates, progress reports, and other relevant information. Some factors to consider are the location of the stakeholders, the level of technical expertise of the stakeholders which should be considered to factor in how the team should communicate. Also, the budget and resources available. </p>
