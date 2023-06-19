@@ -2414,56 +2414,42 @@ The Work Breakdown Structure presented here represents all the work required to 
         <td>1.4</td>
         <td>Deployment</td>
         <td>Comprised of proper documentation, and project managing of web-app</td>
-        <td>70 Days</td>
+        <td>10 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.4.1</td>
         <td>Deployment Phase Preparation</td>
         <td>Project Adviser and Consultant search</td>
-        <td>5 Days</td>
+        <td>3 Days</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.4.2</td>
-        <td>Business Case and Stakeholder Management Planning</td>
+        <td>Document Signing for web-app deployment</td>
         <td>Documentation of work division and work management</td>
-        <td>20 Days</td>
+        <td> 1 Day </td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.4.3</td>
-        <td>Project Management Planning and Documentation</td>
-        <td>Continuation of documentation for web-app management and budgeting</td>
-        <td>15 Days</td>
+        <td>Web-app deployment and compatibility Testing </td>
+        <td> Deployment Testing</td>
+        <td> 5 Days </td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.4.4</td>
-        <td>Project Management Planning and Documentation Continued</td>
+        <td>Web-App Deployment</td>
         <td>Continuation of documentation and deployment preparation</td>
-        <td>5 Days</td>
+        <td> 1 Day </td>
     </tr>
     <tr>
-        <td>3</td>
-        <td>1.4.5</td>
-        <td>Integrated Project Governance and Planning</td>
-        <td>Finalization of Documentations for PROJMAN and Client Meetings</td>
-        <td>20 Days</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>1.4.6</td>
-        <td>Deployment Demonstration and Feedback Collection</td>
-        <td>Presentation for PROJMAN and Deployment of Web-App </td>
-        <td>5 Days</td>
-    </tr>
-    <tr>
-        <td>3</td>
+        <td>2</td>
         <td>1.5</td>
         <td>Close Out</td>
         <td>Comprised of project turnover and closeout to client  </td>
-        <td>3 Days</td>
+        <td> 15 Days</td>
     </tr>
     <tr>
         <td>3</td>
@@ -2475,16 +2461,23 @@ The Work Breakdown Structure presented here represents all the work required to 
     <tr>
         <td>3</td>
         <td>1.5.2</td>
-        <td>Documentations</td>
+        <td>Project Documentations Receiving Copy Turnover</td>
         <td>Release of copies of technical documentation to D7 Auto Service Center  </td>
         <td>1 Day</td>
     </tr>
     <tr>
         <td>3</td>
         <td>1.5.3</td>
-        <td>System Demonstration</td>
+        <td> Project Training & Handling </td>
         <td>Demonstration of project tutorial to project sponsor and D7 Auto Service Center Management</td>
-        <td>1 Day</td>
+        <td> 7 Days </td>
+    </tr>
+<tr>
+        <td>3</td>
+        <td>1.5.4</td>
+        <td> Project Demonstration & Hands-on Practice </td>
+        <td>Demonstration of project tutorial to project sponsor and D7 Auto Service Center Management</td>
+        <td> 6 Days </td>
     </tr>
 </table>
 
