@@ -43,7 +43,7 @@
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Dan Micheal C. Alfaras</p></td>
-		<td><p style="text-align:center;">Product Owner</p></td>
+		<td><p style="text-align:center;"> QA Tester </p></td>
 		<td><p style="text-align:center;">dcalfaras@student.apc.edu.ph</p></td>
 	</tr>
 	<tr>
@@ -53,17 +53,17 @@
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">John Zenon Coquia</p></td>
-		<td><p style="text-align:center;">Data Administrator </p></td>
+		<td><p style="text-align:center;">Database Administrator </p></td>
 		<td><p style="text-align:center;">jpcoquia@student.apc.edu.ph</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Francesca Erin Camino</p></td>
-		<td><p style="text-align:center;">Project Coordinator / Documentation Manager </p></td>
+		<td><p style="text-align:center;">Project Secretary</p></td>
 		<td><p style="text-align:center;">frcamino@student.apc.edu.ph</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Darrell Royce Lazala</p></td>
-		<td><p style="text-align:center;">Project Coordinator Assistant</p></td>
+		<td><p style="text-align:center;"> UI/UX Designer</p></td>
 		<td><p style="text-align:center;">dalazala@student.apc.edu.ph</p></td>
 	</tr>
 </table>
@@ -145,8 +145,8 @@ Integrating the new Web-App project with the existing system of D7 Auto Service 
     <td>Andre Viernes</td>
   </tr>
   <tr>
-    <td>Product Owner</td>
-    <td>Guides and supports team members to successfully complete <br>the project within the given constraints.</td>
+    <td> QA Tester </td>
+    <td> Ensures quality and reliability of the web-app through testing and bug identification. </td>
     <td>Dan Michael Alfaras</td>
   </tr>
   <tr>
@@ -155,18 +155,18 @@ Integrating the new Web-App project with the existing system of D7 Auto Service 
     <td>Alyssa Garcia</td>
   </tr>
   <tr>
-    <td>Data Administrator</td>
+    <td>Database Administrator</td>
     <td>In charge in managing, monitoring and maintaining the database.</td>
     <td>John Zenon Coquia</td>
   </tr>
   <tr>
-    <td>Project Coordinator</td>
+    <td>Project Secretary</td>
     <td>In charge of coordinating communication and documentation, organizing meetings, managing schedules, <br>and ensuring that participants and roles are defined for the business case and throughout the project.</td>
     <td>Francesca Erin Camino</td>
   </tr>
   <tr>
-    <td>Project Coordinator Assistant</td>
-    <td>Works closely with the team’s secretary, providing administrative support to the team and assisting in the <br>coordination of team activities.</td>
+    <td> UI/UX Designer</td>
+    <td> Creates visually appealing and user-friendly interfaces to enhance the overall user experience of the web-app. </td>
     <td>Darrell Royce Lazala</td>
   </tr>
 </tbody>
