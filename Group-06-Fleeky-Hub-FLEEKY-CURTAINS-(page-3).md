@@ -1567,39 +1567,24 @@ By having a dedicated Change Control Board, the Fleeky Curtains project can effe
         <td>Monitor all change requests made throughout the project and ensure that all high-impact requests are actioned upon in a timely manner. Monitor the Project Manager's decision on low-impact requests. Submit change requests if deemed necessary. Review the change request log and reports to ensure alignment with changes.</td>
       </tr>
       <tr>
+        <td>Fleeky Curtain Staff (Stakeholders)</td>
         <td>Internal Users of the system</td>
-        <td></td>
-        <td>Submit change requests if deemed necessary. Review the change request log and reports to ensure alignment with changes.</td>
-      </tr>
-      <tr>
-        <td>External Users of the system</td>
-        <td></td>
-        <td>Submit change requests if deemed necessary. Review the change request log and reports to ensure alignment with changes.</td>
+        <td>Provide input and feedback on change requests. Review and approve changes within their respective areas of expertise.</td>
       </tr>
       <tr>
         <td>Pallas Dale Fontiveros</td>
-        <td>Project Manager</td>
-        <td>Submit change requests if deemed necessary. Review the change request log and reports to ensure alignment with changes. Perform impact analysis for every change request submitted to differentiate low-impact and high-impact requests. This will also aid the Project Sponsor in making decisions for high-impact requests. Oversee the overall change request process with the help of the Change Coordinator.</td>
+        <td>Project Team Leader & Quality Assurance Checker</td>
+        <td>Perform an impact analysis on every submitted change request to distinguish low-impact from high-impact requests. With the assistance of the Change Coordinator, oversee the change request process as a whole. Identify errors and addresses on the output provided by the team that will negatively impact the user experience.</td>
       </tr>
       <tr>
-        <td>Neil Albert Garcia, Bryan Gel Fabellore, Joshua Timothy Roxas, Pallas Dale Fontiveros</td>
+        <td>Neil Albert Garcia</td>
+        <td>Project Manager & Change Coordinator</td>
+        <td>Direct contact of the project sponsor also decides for the group. Submit change requests when deemed necessary. Examine the change request log and associated reports to ensure consistency with alterations.</td>
+      </tr>
+      <tr>
+        <td>Bryan Gel Fabellore and Joshua Timothy Roxas</td>
         <td>Development Team</td>
         <td>Execute the technical aspect of the change request action plan. Review the change request log and reports to ensure alignment with changes.</td>
-      </tr>
-      <tr>
-        <td>Quality Assurance Team</td>
-        <td></td>
-        <td>Review and verify the implementation of approved change requests. Conduct testing and ensure that the changes meet the required quality standards.</td>
-      </tr>
-      <tr>
-        <td>Change Coordinator</td>
-        <td></td>
-        <td>Coordinate the change request process, including receiving and logging change requests, assigning priority levels, and maintaining the change request log and reports.</td>
-      </tr>
-      <tr>
-        <td>Stakeholders</td>
-        <td></td>
-        <td>Provide input and feedback on change requests. Review and approve changes within their respective areas of expertise.</td>
       </tr>
     </tbody>
   </table>
