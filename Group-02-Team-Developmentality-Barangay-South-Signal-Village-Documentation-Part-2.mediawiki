@@ -19,21 +19,146 @@ The Barangay South Signal Village Web App is a comprehensive project aimed at de
 <tbody>
 <tr>
 <td bgcolor="">
-<p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Barangay South Signal Village Web App <br /><br />&nbsp;&nbsp;1.1 PLANNING<br />&nbsp;&nbsp;&nbsp;&nbsp;1.1.1 Project Preparation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1 Creation of Project Groups<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.2 Choose Project/Client<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.3 Choose Adviser/Consultant<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.4 Design Thinking 1<br />&nbsp;&nbsp;&nbsp;&nbsp;1.1.2 MNTSDEV Team consultation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1 Team meeting with Project adviser<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.2 Team meeting with Project Sponsor<br />&nbsp;&nbsp;&nbsp;&nbsp;1.1.3 MNTSDEV Creation of Midterm Paper<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3.1 Chapter 1 (Introduction)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3.2 Chapter 2 (RRL/RRS)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3.3 Chapter 3 (Methodology)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3.4 Chapter 4 (Results and Discussions)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3.5 Chapter 5 (Conclusion)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3.6 Proofreading<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.3.7 Creation of presentation deck<br />&nbsp;&nbsp;&nbsp;&nbsp;1.1.4 MNTSDEV Midterm Evaluation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.4.1 Midterm (Sprint1)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.4.2 Comment Matrix<br />&nbsp;&nbsp;&nbsp;&nbsp;1.1.5 Initial Design<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.5.1 Initial wireframe<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.5.2 Initial low-fidelity prototype<br />&nbsp;&nbsp;&nbsp;&nbsp;1.1.6 MNTSDEV Progression of Paper/Final Paper<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.1 Chapter 1 (Introduction)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.2 Chapter 2 (RRL/RRS)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.3 Chapter 3 (Current System)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.4 Chapter 4 (Proposed System)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.5 Chapter 5 (Requirement Analysis)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.6 Chapter 6 (Conclusion)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.7 Proofreading<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.8 Creation of presentation deck<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.6.9 Submission of final Requirements for Final Presentation<br />&nbsp;&nbsp;&nbsp;&nbsp;1.1.7 MNSTDEV Finals Evaluation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.7.1 Final Presentation (Sprint 2)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.7.2 Revision for Comment Matrix and Final Paper<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.7.3 Submission of MNSTDEV FINAL Documents<br /><br />&nbsp;&nbsp;1.2 ANALYSIS AND DESIGN<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 MSYADD Project Progression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.1 Initial analysis for Chapter 5 (Requirement Analysis)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.2 Submission of MNSTDEV final documents<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.3 Implementation of GitHub Repository<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.4 Request letter for Adviser/Consultant<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 MSYADD Team consultation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2.1 Team meeting with Project adviser<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2.2 Team meeting with Project Sponsor<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.3 MSYADD Individual Deliverables<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.4 MSYADD Release Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.4.1 Release Plan 1.1<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.4.2 Release Plan 1.2<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.5 MSYADD Week 3 - Week 4<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.5.1 Event Table<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.5.2 Use Case Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.5.3 Use Case Full Description<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.5.4 Data Flow Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.5.5 Context Flow Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.5.6 Entity Relationship Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.6 MSYADD Week 5 - Week 7<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.6.1 Activity Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.6.2 Object Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.6.3 Class Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.7 MSYADD Midterm Evaluation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.7.1 Pre-midterm Presentation (Sprint 3)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.7.2 Midterm Presentation (Sprint 4)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.7.3 Revision Midterm<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.8 MSYADD Week 8 - Week 9<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.8.1 Sequence Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.8.2 State Machine Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.8.3 Package Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.8.4 Deployment Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.8.5 Component Diagram<br />&nbsp;&nbsp;&nbsp;&nbsp;1.2.9 MSYADD Final Evaluation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.9.1 MSYADD Pre-final Presentation (Sprint 5)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.9.2 MSYADD Final Presentation (Sprint 6)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.9.3 Revision for Final Paper<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.9.4 Submission of Final Requirements<br /><br />&nbsp;&nbsp;1.3 DEVELOPMENT<br />&nbsp;&nbsp;&nbsp;&nbsp;1.3.1MCSPROJ Project Progression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.1 Submission of MSYADD Final Documents<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.2 Request letter for Adviser/Consultant<br />&nbsp;&nbsp;&nbsp;&nbsp;1.3.2 MCSPROJ Release Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.1 Finalizing Release 1<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.2 Release Plan 2<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.3 Release Plan 3<br />&nbsp;&nbsp;&nbsp;&nbsp;1.3.3 MCSPROJ Midterm Deliverables<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.1 Creation of Gantt Chart<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.2 Creation of WBS<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.3 Creation of Activity List<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.4 Creation of Project Vision and Scope Progression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.5 Creation of Statement of Work Progression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.6 Creation of Project Charter Progression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.7 Pre-midterm Presentation (Sprint 7)<br />&nbsp;&nbsp;&nbsp;&nbsp;1.3.4 MCSPROJ Team consultation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.4.1 Team meeting with Project adviser<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.4.2 Team meeting with Project Sponsor<br />&nbsp;&nbsp;&nbsp;&nbsp;1.3.5 MCSPROJ Midterm Evaluation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.5.1 Submission of Midterm Requirement<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.5.2 MCSPROJ Final Presentation (Sprint 8)<br />&nbsp;&nbsp;&nbsp;&nbsp;1.3.6 MCSPROJ Finals Deliverables<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.6.1 Creation of Test Case<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.6.2 Creation of Quality Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.6.3 Creation of User Acceptance<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.6.4 Creation of Change Management Plan<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.6.5 Updating MCSPROJ Final Paper<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.6.6 Creation of Proofreading Endorsement<br />&nbsp;&nbsp;&nbsp;&nbsp;1.3.7 MCSPROJ Finals Evaluation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.7.1 Submission of MCSPROJ Final Requirements<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.7.2 MCSPROJ Final Presentation (Sprint 9)<br /><br />
-&nbsp;&nbsp;1.4TESTING <br />
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.1	Unit Testing<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1.1 Unit Testing for Release 1 <br />	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1.2 Unit Testing for Release 2 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1.3 Unit Testing for Release 3 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.2	Users Acceptance Test (UI/UX) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.3	Security Testing <br />
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.4	Functional Testing <br /> 
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.5	Verified use cases with the client (Sprint 10) <br /> <br />
-
-
-
-
-&nbsp;&nbsp;1.5 IMPLEMENTATION<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.1 PROJMAN Project Progression<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.1.1 Submission of MCSPROJ Final Documents<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.1.2 Request Letter for Adviser/Consultant<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.2 PROJMAN Week 1-3<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.2.1 Creation of Project Charter<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.2.2 Creation of Business Case<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.2.3 Creation of Stakeholders Management Strategy Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.3 PROJMAN Week 4-6<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.3.1 Creation of Scope Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.3.2 Creation of Cost Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.3.3 Creation of Time Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.3.4 Creation of Work Breakdown Structure<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.3.5 Creation of Work Packages based on WBS.<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.4 System Updates<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.4.1 Testing 1<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.5 PROJMAN Midterm Evaluation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.5.1 Submission of PROJMAN Midterm Requirements<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.5.2 PROJMAN Midterm presentation (Sprint 10)<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.6 PROJMAN Week 8-10<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.6.1 Creation of HR Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.6.2 Creation of Quality Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.6.3 Creation of Risk Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.6.4 Creation of Communications Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.6.5 Creation of Procurement Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.7 PROJMAN Week 11<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.7.1 Creation of Project Status Reports Distribution Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.7.2 Creation of Change Request Documentation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.7.3 Creation of Project Execution Monitoring Report<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.7.4 Creation of Implementation Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.8 PROJMAN Week 12<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.8.1 Creation of Change Management Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.8.2 Creation of Project Status Reports<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.8.3 Creation of Transition-Out Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.8.4 Creation of Project Turn-Over Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.8.5 Creation of Post Project Review Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.9 PROJMAN Week 13<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.9.1 Creation of Consolidated Project Plan<br />&nbsp;&nbsp;&nbsp;&nbsp;1.5.10 PROJMAN Final Evaluation<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.10.1 Submission of PROJMAN Final Requirements<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.10.2 PROJMAN Final presentation (Sprint 11)<br /><br />&nbsp;&nbsp;1.6 CLOSEOUT<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.6.1.1 System and documentation handover<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.6.1.2 Gain Formal Acceptance<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.6.1.3 Project close out meeting.</p>
+<p style="text-align: justify;">
+1. Barangay South Signal Village Web App 
+<hr>
+&nbsp;&nbsp; 1.1 PLANNING <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1 Project Preparation  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1.1 Creation of Project Team <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1.2 Choosing Project Client  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1.3 1st meeting w/ Client  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1.4 Choosing Project Adviser/Consultant PM  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1.5 1st meeting w/ Adviser <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.1.6 Kick-off Meeting (Sprint 1)<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2 Project Proposal <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.1 2nd meeting w/ Client  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.2 2nd meeting w/ Adviser <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.3 Initial Creation of Project Proposal  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.4 3rd meeting w/ Adviser  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.5 1st meeting w/ Consultant    <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.6 Proofreading  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.7 Initial Project Proposal Evaluation (Sprint 2)  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.8 Progression of Project Proposal <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.9 4th meeting w/ Adviser  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.10 Proofreading    <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.2.11 Final Project Proposal Evaluation (Sprint 3) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3 Creation of Project Management Plans <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.1 Project Charter   <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.2 Business Case <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.3 Stakeholders Management Strategy Plan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.4 Scope Management Plan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.5 Cost Management Plan   <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.6 Time Management Plan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.7 Work Breakdown Structure <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.8 Work Packages based on WBS.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.9 HR Management <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.10 Quality Management Plan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.11 Risk Management Plan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.12 Communications Management Plan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.13 Procurement Management Plan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.14 Implementation Plan  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.15 Change Management Plan <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.16 Project Management Plan Evaluation (Sprint 4) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.17 Project Management Plan Progression <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.1.3.18 Finalizing Project Management Plan (Sprint 5)  <br/><br/>
+&nbsp;&nbsp; 1.2 ANALYSIS AND DESIGN
+&nbsp;&nbsp;&nbsp;&nbsp; 1.2.1 Creation of Initial Prototype <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.1.1 Creation of Initial Wireframe <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.1.2 Creation of UI/UX Design <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.1.3 Initial Prototype Evaluation (Sprint 6) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.1.4 Prototype Progression <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.1.5 Finalization of Initial Prototype (Sprint 7) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2 Creation of Project Diagrams <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.1 Event Table <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.2 Use Case Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.3 Use Case Full Description <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.4 Data Flow Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.5 Context Flow Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.6 ERD <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.7 5th meeting w/ Adviser <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.8 6th meeting w/ Adviser <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.9 Activity Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.10 Object Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.11 Class Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.12 Sequence Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.13 State Machine Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.14 3rd meeting w/ Client <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.15 Package Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.16 Deployment Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.17 Component Diagram <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.18 7th meeting w/ Adviser <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.19 Project Diagram Evaluation (Sprint 8) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.20 Project Diagrams Progressions  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.2.21 Finalization of Project Diagrams (Sprint 9) <br/> <br/>
+&nbsp;&nbsp; 1.3 DEVELOPMENT  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1 Release 1 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.1 Main Page Feature <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.1.1 1st Team development meeting <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.1.2 Creation of Landing Page <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.1.3 Creation of Contact Page <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.1.4 Creation of Safety Section Page <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.1.5 Creation of About Us Page <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.1.6 2nd Team development meeting <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.2 Resident Dashboard <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.2.1 Creation of Registration Page <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.2.2 Creation of Login Page <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.2.3 Creation of Resident Dashboard <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.2.4 3rd Team development meeting <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.3 Barangay Employee Dashboard <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.3.1 Creation of Admin Login Page <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.3.2 Creation of Barangay Administrator Dashboard <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.3.3 Creation of Managing Barangay Employee Account <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.3.4 Creation of Barangay Employee Dashboards <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.4 4th Team development meeting <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.5 8th Team meeting w/ Adviser <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.6 Release 1 Evaluation (Sprint 10) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.7 Release 1 Progression <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.1.8 Finalizing Release 1 (Sprint 11) <br/> <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  1.3.2 Release 2 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.1 Requesting Barangay Documents <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.1.1 Creation of functions to request documents. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.1.2 Creation of functions to track requested documents. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.1.3 Creation of functions for notifications <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.1.4 Creation of functions to manage requested documents. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.2 4th Team meeting Team meeting w/ Client <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.3 Release 2 Evaluation (Sprint 12) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.4 Release 2 Progression <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.5 Finalizing Release 2 (Sprint 13) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.2.6 5th Team development meeting <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  1.3.3 Release 3 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.1 Submitting Concerns <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.1.1 Creation of functions to submit concerns. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.1.2 Creation of functions to manage concerns. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.1.3 Creation of functions to track submitted concerns. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.2 Manage Web App <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.2.1 Generate Report <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.2.2 Modify Web App information. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.3 5th Team meeting w/ Client <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.4 Release 3 Evaluation (Sprint 14) <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.5 Release 3 Progression <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.3.6 Finalizing Release 3 (Sprint 15) <br/> <br/>
+&nbsp;&nbsp; 1.4 TESTING <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;  1.4.1 Unit Testing <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.1.1 Unit Testing for Release 1 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.1.2 Unit Testing for Release 2 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.1.3 Unit Testing for Release 3 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  1.4.2 User Acceptance Test  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  1.4.3 Integration Testing <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  1.4.4 Performance Testing <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  1.4.5 Verified use cases with the client (Sprint 16) <br/> <br/>
+&nbsp;&nbsp; 1.5 IMPLEMENTATION <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  1.5.1 Hosting <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.5.1.1 Setting up hosting services <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.5.1.2 Go Live (Sprint 17) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;  1.5.2 Web App Training w/ client <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.5.2.1 Session 1  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.5.2.2 Session 2 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.5.2.3 Session 3 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.5.2.4 Finalizing Web App Training Session (Sprint 18) <br/> <br/>
+&nbsp;&nbsp; 1.6 CLOSEOUT <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 1.6.1 System and documentation handover <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 1.6.2 Gain Formal Acceptance <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; 1.6.3 Project close out meeting (Sprint 19) <br/></p>
 </td>
 </tr>
 </tbody>
