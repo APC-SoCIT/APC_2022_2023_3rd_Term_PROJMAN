@@ -339,6 +339,7 @@ The Risk Management Plan is important for projects following the Agile Methodolo
 Contents of this document include a summary of the risk management process, describing the sequence of steps as well as who is assigned to do so. Next is a guide for what constitutes as a risk and their hierarchy. Followed by this is the monitoring and controlling process for the risks, and last is the risk register.
    
 To further develop a risk management plan for the SurveiRams System, the following information should be considered:   
+ 
 ==13.2 Top Three Risks==
 Every project has risks whether foreseen or not. However, in the situation of the SurveiRams project, the three biggest foreseen risks are the following:
 # '''Technical Risks''' – Risks that are brought by evolving technology, such as failure from either or both software and hardware and cyberattacks resulting in data loss and/or security breaches.
@@ -348,7 +349,7 @@ Every project has risks whether foreseen or not. However, in the situation of th
 ==13.3 Risk Management Approach==
 Agile risk management values lean thinking and efficient communication. This means that for the SurveiRams risk management strategy, the focus will be data gathering and analysis before deciding on a course of action. Stakeholders, sponsors, and the project team must cooperate with each other for the risk management approach.
 
-Specifically, these are the steps to be followed:   
+Specifically, these are the steps to be followed:      
 * '''Risk Identification:''' Meetings will be held to discuss relevant risks encountered based on experience from other projects, and a Risk Register will be put together.
 * '''Risk Assessment:''' A Risk Assessment Matrix will be constructed to rank the risks discussed based on the probability of their occurrence as well as the gravity of its impact on the project.
 * '''Risk Mitigation:''' Mitigation plans will be made for the risks that have a high probability and extreme gravity, which include how to prevent them and minimize their impact. 
@@ -364,20 +365,18 @@ After a thorough discussion with the project team, risks to SurveiRams were iden
 * '''Skills Resource:''' Risks related to the project team’s skills and expertise
 * '''External Hazard:''' Risks related to nature, society, and the government
 
-These are all the possible types of risks that could affect the project. Updates will be made in the event that another type is discovered. Specific risks under some of these categories will be discussed in the Risk Register below. 
+These are all the possible types of risks that could affect the project. Updates will be made in the event that another type is discovered. Specific risks under some of these categories will be discussed in the Risk Register below.  
 
 ==13.5 Risk Qualification and Prioritization== 
 A Risk Assessment Matrix based on probability and impact was created to aid in ranking the risks in the Risk Register.
 <img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/7ee3c489-4c79-41f5-87e2-3884eb0ca07b" alt="Image description" style="display:block; margin:0 auto; width:30%;">
 As shown in Table 1, there are three levels each for the probability and impact of a risk. The lowest level is 1 and the highest is 3. The assessments are the following:
-   
-The probability of risks happening and their impact on the project is described below:   
 * Low – These are risks with low impact and low probability. Risks assessed as low are negligible and are low priority. 
 * Medium – These are risks with medium impact and probability. Risks assessed as medium must have mitigation plans at least drafted, and these are medium priority.
 * High – These are risks with high impact and probability. Risks assessed as high must have finalized and strong mitigation plans ready and studied by the project team, as these are of high priority. 
 
 ==13.7 Risk Mitigation and Avoidance== 
-A Risk Register was made for the project team to have a centralized guide to refer to upon encountering risks. This will be disseminated to all the stakeholders for easy access, so they can be prepared with their tasks and responsibilities when the time comes. Although there are numerous risks that could possibly happen, only the five most likely ones to occur for the SurveiRams project are listed below. 
+A Risk Register was made for the project team to have a centralized guide to refer to upon encountering risks. This will be disseminated to all the stakeholders for easy access, so they can be prepared with their tasks and responsibilities when the time comes. Although there are numerous risks that could possibly happen, only the five most likely ones to occur for the SurveiRams project are listed below.
 <table>
   <tbody>
     <tr>
@@ -391,21 +390,13 @@ A Risk Register was made for the project team to have a centralized guide to ref
     <tr>
       <td>01</td>
       <td>Technical</td>
-      <td>Data loss</td>
-      <td>High</td>
-      <td>Developers</td>
-      <td>Create backups for the data such as exporting the database contents into a document</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Technical</td>
       <td>System Bugs</td>
       <td>Medium</td>
       <td>Developers</td>
       <td>Revisit and debug source code</td>
     </tr>
     <tr>
-      <td>03</td>
+      <td>02</td>
       <td>Technical</td>
       <td>Power Failure</td>
       <td>Medium</td>
@@ -413,25 +404,17 @@ A Risk Register was made for the project team to have a centralized guide to ref
       <td>Activate backup electricity generators</td>
     </tr>
     <tr>
-      <td>04</td>
-      <td>Technical</td>
-      <td>Unstable Internet Connection</td>
-      <td>Medium</td>
-      <td>Project Manager</td>
-      <td>Buy load to use mobile data</td>
-    </tr>
-    <tr>
-      <td>05</td>
+      <td>03</td>
       <td>Cost</td>
       <td>The project goes over budget</td>
       <td>Low</td>
       <td>Project Manager</td>
-      <td>Request for additional budget from Project Sponsors</td>
+      <td>Request for additional budget from Project Sponsors </td>
     </tr>
   </tbody>
 </table>  
 
-Table 2, the Risk Register, shows the following information that are needed for managing the risks identified:  
+Table 2, the Risk Register, shows the following information that are needed for managing the risks identified:
 # '''Risk ID -''' The unique identifier assigned to each risk. 
 # '''Risk Category -''' Each risk is labelled based on the categories listed in Risk Identification it falls under.
 # '''Risk Description -''' The explanation of what the risk is and its effects.
