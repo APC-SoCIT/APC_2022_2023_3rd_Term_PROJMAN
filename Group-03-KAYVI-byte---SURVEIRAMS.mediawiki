@@ -878,19 +878,15 @@ The change management plan must be consulted in the event of the desire to chang
 =8. COST MANAGEMENT PLAN=
 
 ==8.1 Introduction==
-
 The purpose of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are managed efficiently throughout its entire duration. The plan outlines the techniques and guidelines that will be employed to gauge, communicate, and regulate project expenses.
- 
-#*Cost management responsibilities:
+
+#'''Cost management responsibilities:'''
 The Project Manager will be responsible for managing the project's expenses and act as the contact for any cost-related concerns. The Project Leader, on the other hand, will be responsible for supervising project spendings and making sure that it stays within the authorized budget.
- 
-#*Cost change approval:
+#'''Cost change approval:'''
 Authorization from the Project Manager is required prior to implementing any changes in cost. In case the cost modification exceeds 10% of the total project budget, approval from the Project Sponsor must be obtained before executing it.
- 
-#*Cost measurement and reporting:
-The project expenses will be evaluated and recorded on a monthly basis, using both the cost performance index (CPI) and the schedule performance index (SPI). Monthly expense reports will be submitted to the Project Sponsor.
- 
-#*Budget format and standards:
+#'''Cost measurement and reporting:'''
+The project expenses will be evaluated and recorded on a monthly basis, using both the cost performance index (CPI) and the schedule performance index (SPI). Monthly expense reports will be submitted to the Project Sponsor. 
+#'''Budget format and standards:'''
 The budget will be presented in a simplified and concise format by utilizing a spreadsheet program like Microsoft Excel. The budget will be divided into distinct line items, with each item having a detailed cost estimate. It will be updated once there are any changes, and any changes made will be indicated. 
  
 Overall, the objective of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are effectively monitored and controlled, allowing the project to be completed within the assigned budget. This approach will ensure the project's successful and timely completion.
