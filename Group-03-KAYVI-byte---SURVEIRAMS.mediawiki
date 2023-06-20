@@ -712,52 +712,38 @@ The security personnel, Building Maintenance Office (BMO), and Information Techn
 
 ==7.1 Introduction==
 
-The scope management plan is a crucial component of the overall project management approach for the SurveiRams project. It outlines the tools and techniques that will be utilized to effectively document and control the scope of the project, ensuring that it remains within the defined boundaries and aligns with the project objectives. As an agile project, the scope management plan will be developed and executed in accordance with agile methodologies, which emphasize flexibility, collaboration, and iterative progress.
+The scope management plan is a crucial component of the overall project management approach for the SurveiRams project. It outlines the tools and techniques that will be utilized to effectively document and control the scope of the project, ensuring that it remains within the defined boundaries and aligns with the project objectives.
 
-The project team will work collaboratively with stakeholders, using agile techniques to prioritize and manage scope, identify and manage changes, and ensure that the project remains on track to deliver a successful SurveiRams system that meets the needs of all stakeholders.
+The project team will work collaboratively with stakeholders to prioritize and manage scope, identify and manage changes, and ensure that the project remains on track to deliver a successful SurveiRams system that meets the needs of all stakeholders.
 
 ==7.2 Scope Management Approach==
 
-* Mr. Ian Onrubia, the designated Project Manager, will work closely with Mr. Jojo Castillo, the project sponsor, and other key stakeholders to define and effectively manage the scope of the project, as well as oversee the fulfillment of all project requirements and ensure that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders, with successful completion of the project dependent on the acceptance of all deliverables and resolution of any outstanding issues. 
+* Mr. Ian Onrubia, the designated Project Manager, will work closely with Mr. Jojo Castillo, the project sponsor, and other key stakeholders to define and effectively manage the scope of the project, as well as oversee the fulfillment of all project requirements and ensure that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders, with successful completion of the project dependent on the acceptance of all deliverables and resolution of any outstanding issues.
 
-* The scope of the SurveiRams project will be defined using various documents such as a Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and a detailed Statement of Work (SOW), with regular reviews conducted throughout the project to ensure alignment with objectives and proper documentation of any changes. To measure and verify the scope, quality checklists will be developed, a scope baseline will be established, and work performance measurements will be used to track any progress. The Project Manager will submit a formal request for scope change, which the project sponsor will approve after evaluating it for alignment with the project goals, impacts on schedule and budget, and contribution to project success, ensuring only approved changes are made. 
+* The scope of the SurveiRams project will be defined using various documents such as a Scope Statement, Work Breakdown Structure (WBS), and a WBS Dictionary, with regular reviews conducted throughout the project to ensure alignment with objectives and proper documentation of any changes. To measure and verify the scope, quality checklists will be developed, a scope baseline will be established, and work performance measurements will be used to track any progress. The Project Manager will submit a Scope Change Request Form found in the Appendix, which the project sponsor will approve after evaluating it for alignment with the project goals, impacts on schedule and budget, and contribution to project success, ensuring only approved changes are made.
 
 ==7.3 Roles and Responsibilities==
 
 The following are the roles and responsibilities in managing the project's scope:  
-<table border="1" width="70%" align="center">
-		<tr>
-			<td bgcolor="lightblue">
-				<p><strong> Role </strong></p>
-			</td>
-			<td bgcolor="lightblue">
-				<p><strong> Responsibility </strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Project Manager  </em></p>
-			</td>
-			<td>
-				<p><em> The project manager oversees specifying and establishing the scope of the project, as well as supervising and approving adjustments. Oversees raising stakeholder demands and priorities and making sure the project adds value to the company. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Project Team</em></p>
-			</td>
-			<td>
-				<p><em> The project team is in charge of confirming the project's scope and, if necessary, submitting change requests. </em></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<p><em> Stakeholders </em></p>
-			</td>
-			<td>
-				<p><em> The stakeholders oversee providing feedback on the needs and scope of the project and authorizing any necessary changes.  </em></p>
-			</td>
-		</tr>
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Role</strong></td>
+      <td><strong>Responsibilities</strong></td>
+    </tr>
+    <tr>
+      <td>Project Manager</td>
+      <td>The project manager oversees specifying and establishing the scope of the project, as well as supervising and approving adjustments. Also oversees raising stakeholder demands and priorities and making sure the project adds value to the company.</td>
+    </tr>
+    <tr>
+      <td>Project Team</td>
+      <td>The project team is in charge of confirming the project's scope and, if necessary, submitting change requests.</td>
+    </tr>
+    <tr>
+      <td>Stakeholders</td>
+      <td>The stakeholders oversee providing feedback on the needs and scope of the project and authorizing any necessary changes.</td>
+    </tr>
+  </tbody>
 </table>
 
 ==7.4 Scope Definition==
