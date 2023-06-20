@@ -297,64 +297,64 @@ Asia Pacific College (APC) has been using a manual process for recording inciden
 ==5.2 Project Purpose/Justification==
 
 ===5.2.1 Business Need/Case===
-The SurveiRams project has been created to improve the incident reporting process. The APC employees involved will be more productive, make less errors, as well as spend less time on one report by using the mobile application. 
+The SurveiRams project has been created to improve the incident reporting process. The APC employees involved will be more productive, make less errors, as well as spend less time on one report using the mobile application.  
 
 ===5.2.2 Business Objectives===
 The general business objective is to develop SurveiRams, a ticketing system for APC’s security personnel, ITRO, and BMO to record incident reports and logs. It will provide insights into the security personnel’s routes to ensure they have completed their assigned tasks.
 
-Specifically, the SurveiRams mobile application should act as the centralized location of the guards’ patrol logs, automate the log documentations, and provide analytics to help stakeholders in their decision-making. Development is expected to be finished by June 2024 with a budget of PHP1,547,950.80
+Specifically, the SurveiRams mobile application should act as the centralized location of the guards’ patrol logs, automate the log documentations, and provide analytics to help stakeholders in their decision-making. Development is expected to be finished by August 2023 with a budget of PHP 314,881.60.
 
 
 ==5.3 Project Description==
-This section discusses a high-level description of the SurveiRams Ticketing System project.
+This section discusses a high-level description of the SurveiRams Ticketing System project. 
 
 This project will be concerned with the creation of a mobile application for the security 
 personnel and several offices of APC, wherein they can log and view incident reports.
-This is to digitize the security personnel’s recording process, as well as boost their 
+This is to digitize the security personnel’s recording process, as well as boost them 
 productivity. There will be different accessible features available depending on the 
 user, which is based on what office or department they are from.
 
 ===5.3.1 Project Objectives and Success Criteria===
-The objectives which mutually support the milestones and deliverables for this project have been identified.  In order to achieve success on the SurveiRams project, the following objectives must be met within the designated time and budget allocations:
+The objectives which mutually support the milestones and deliverables for this project have been identified. To achieve success on the SurveiRams project, the following objectives must be met within the designated time and budget allocations:
 
-*Develop proposal about features to present to the client, project sponsor, and stakeholders within 23 days (about 3 weeks). 
-*Complete list of required hardware/software which meets budget allocation within 10 days (about 1 and a half weeks). 
-*Create the SurveiRams ticketing system within 115 days (about 16 and a half weeks). 
-*Complete the testing phase within 18 days (about 2 and a half weeks). 
-*Complete the required documentation for this project. 
-*Implement the solution across the APC organization within 48 days (about 7 weeks).
+*Develop proposal about features to present to the client, project sponsor, and stakeholders within 3 days. 
+*Complete list of required hardware/software which meets budget allocation within a day.
+*Create the SurveiRams ticketing system within 4 months and 13 days.
+*Complete the testing phase within 6 days.
+*Complete the required documentation for this project.
+*Implement the solution across the APC organization within 14 days.
 
 ===5.3.2 Requirements===
 
-This project must meet the following list of requirements to achieve success.   
+This project must meet the following list of requirements to achieve success.    
 
-*The application must be tested and approved by the client, project sponsor, and other relevant stakeholders prior to deployment. 
-*All documentation must be approved by the Project Manager and Project Sponsor before confirming project completion. 
+*The application must be tested and approved by the client, project sponsor, and other relevant stakeholders prior to deployment.
+*All documentation must be approved by the Project Manager and Project Sponsor before confirming project completion.
 
-Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward. 
+Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward.
 
 ===5.3.3 Constraints===
 
-The following constraints pertain to the SurveiRams project: 
+The following constraints pertain to the SurveiRams project:
 
-*All mobile devices to be used by the security personnel are exclusive of the allocated budget. 
-*The entire project timeline will last for 283 days (about 40 weeks).  
-*Two software developers, one documentation specialist, one software tester and a project manager will be provided as resources for this project. 
+*All mobile devices to be used by the security personnel are exclusive of the allocated budget.
+*The entire project timeline will last for 4 months and 13 days. 
+*Two software developers, one documentation specialist, one software tester and a project manager will be provided as resources for this project.
 
 ===5.3.4 Assumptions===
 
-The following is a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct: 
+The following is a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:
 
-*This project has the full support of the client, project sponsor, stakeholders, and project adviser. 
-*The purpose of this project will be communicated throughout the company prior to deployment. 
+*This project has the full support of the client, project sponsor, stakeholders, and project adviser.
+*The purpose of this project will be communicated throughout the company prior to deployment.
 *The project adviser and project sponsor will provide additional resources if necessary. 
 
 ===5.3.5 Preliminary Scope Statement===
 
-The SurveiRams project aims to create a more robust ticketing system for the entire organization. The project team will handle all aspects of the project, including administering personnel, hardware, and software resources, and all necessary testing will be conducted independently of daily operations. The Project Manager is responsible for securing project funding as outlined in this document. Additional funding must be approved by the project sponsor. The project will be considered complete once the SurveiRams system is tested and deployed throughout the organization, the final report is submitted within 30 days, and technical documentation is distributed to appropriate personnel.
+The SurveiRams project aims to create a more robust ticketing system for the entire organization. The project team will handle all aspects of the project, including administering personnel, hardware, and software resources, and all necessary testing will be conducted independently of daily operations. The Project Manager is responsible for securing project funding as outlined in this document. Additional funding must be approved by the project sponsor. The project will be considered complete once the SurveiRams system is tested and deployed throughout the organization, the final report is submitted within 33 days (about 5 weeks), and technical documentation is distributed to appropriate personnel. 
 
 ==5.4 Risks==
-The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:   
+The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of the following risks:   
 
 * Data Loss
 * System Bugs
@@ -365,7 +365,7 @@ The following risks for the SurveiRams project have been identified.  The projec
 
 ==5.5 Project Deliverables==
 
-The following deliverables must be met upon the successful completion of the SurveiRams project.  Any changes to these deliverables must be approved by the project sponsor. 
+The following deliverables must be met upon the successful completion of the SurveiRams project.  Any changes to these deliverables must be approved by the project sponsor.
 
 *Complete implementation of SurveiRams Ticketing System 
 *SurveiRams project’s technical documentation 
@@ -396,31 +396,31 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
   </tr>
   <tr>
     <td>Initiation</td>
-    <td>04/11/2023 – 05/12/2023</td>
+    <td>04/11/2023 – 04/13/2023</td>
   </tr>
   <tr>
     <td>Develop a Project Plan</td>
-    <td>05/15/2023 – 09/12/2023</td>
+    <td>04/13/2023 – 04/25/2023</td>
   </tr>
   <tr>
     <td>Analysis</td>
-    <td>09/13/2023 – 10/10/2023</td>
+    <td>04/26/2023 – 04/26/2023</td>
   </tr>
   <tr>
     <td>Design</td>
-    <td>10/11/2023 – 04/01/2024</td>
+    <td>04/27/2023 – 07/20/2023</td>
   </tr>
   <tr>
     <td>Testing</td>
-    <td>04/02/2024 – 04/25/2024</td>
+    <td>07/21/2023 – 07/28/2023</td>
   </tr>
   <tr>
     <td>Implementation</td>
-    <td>04/18/2024 – 06/26/2024</td>
+    <td>07/31/2023 – 08/17/2023</td>
   </tr>
   <tr>
     <td>Close Project</td>
-    <td>07/27/2024 – 08/12/2024</td>
+    <td>08/18/2023 – 08/23/2023</td>
   </tr>
 </table>
 
@@ -428,23 +428,50 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
 
 The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project.
 
-{| class="wikitable"
-! Project Cost Elements !! Cost
-|-
-| Manpower Cost: Estimate (based on glassdoor) || PHP 818,860.00
-|-
-| Hardware || PHP 217,108.00
-|-
-| Software || PHP 11,260.00
-|-
-| Recurring Payment || PHP 310,000.00
-|-
-| Onetime Payment || PHP 50,000.00
-|-
-| Contingency Cost || PHP 140,722.00
-|-
-| Grand Total || PHP 1,547,950.80
-|}
+<html>
+<head>
+  <title>SurveiRams Ticketing System</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h2>SurveiRams Ticketing System</h2>
+  
+  <table>
+    <tr>
+      <th>Project Cost Elements</th>
+      <th>Cost</th>
+    </tr>
+    <tr>
+      <td>Manpower Cost: Estimate *based on glassdoor</td>
+      <td>PHP 286,256.00</td>
+    </tr>
+    <tr>
+      <td>Contingency Cost</td>
+      <td>PHP 28,625.60</td>
+    </tr>
+    <tr>
+      <td>Grand Total</td>
+      <td>PHP 314,881.60</td>
+    </tr>
+  </table>
+  
+</body>
+</html>
 
 
 
