@@ -94,12 +94,13 @@ personnel and other departments conduct their processes manually, and the former
 
 ==4.1 Executive Summary==
 
-The SurveiRams system is a digital solution aimed at enhancing the security personnel's daily operations at APC. The existing manual verification system used by security personnel is inefficient, time-consuming, and compromises productivity and efficiency. 
-To address this issue, the project team aims to develop a mobile application that focuses on the reporting system aspect, which provides real-time feedback data to the management team. The SurveiRams system will serve as a ticketing system for recording incident reports and logs, insights into guards' routes, and a tactical transition to a digital approach to stakeholder's present difficulties. By implementing the SurveiRams system, the project team aims to increase accuracy and efficiency in determining whether security personnel have completed their assigned tasks.
+The SurveiRams system is a digital solution aimed at enhancing the security personnel's daily operations at APC. The existing manual logging system used by security personnel is inefficient, time-consuming, and compromises productivity and efficiency. 
+
+To address this issue, the project team aims to develop a mobile application that focuses on the reporting system aspect, which provides real-time feedback data to the management team. The SurveiRams system will serve as a ticketing system for recording incident reports and logs, insights into guards' routes, and a tactical transition to a digital approach to stakeholder's present difficulties. By implementing the SurveiRams system, the project team aims to increase accuracy and efficiency in determining whether security personnel have completed their assigned tasks. 
 
 ===4.1.1 Issue===
 
-Manually monitoring maintenance in a tall school building can be time-consuming, error-prone, and overwhelming for guards who have other duties. To address this issue, implementing a digital system for monitoring maintenance issues could significantly reduce the time and effort required to monitor maintenance, improve accuracy and consistency, and ensure timely issue resolution. Overall, implementing a digital system can improve efficiency, accuracy, safety, and reduce the workload of guards.
+Manually monitoring maintenance in a tall school building can be time-consuming, error-prone, and overwhelming for guards who have other duties. To address this issue, implementing a digital system for monitoring maintenance issues could significantly reduce the time and effort required to monitor maintenance, improve accuracy and consistency, and ensure timely issue resolution. 
 
 ===4.1.2 Anticipated Outcomes===
 
@@ -111,10 +112,10 @@ Providing training for employees responsible for building maintenance can enhanc
 
 ===4.1.4 Justification===
 
-Implementing a system to track issues in a building can bring many benefits, including reducing manual effort and maximizing technology usage. Such a system can automatically identify and track issues in each room, freeing personnel to focus on other tasks. The use of sensors or monitoring devices can help detect issues that might be missed by manual inspections, leading to greater accuracy and consistency. In addition, real-time updates can make it easier to track progress and ensure that issues are addressed promptly. Overall, implementing a system for tracking issues can increase efficiency, accuracy, and technology utilization while saving time and effort.
+Implementing a system to track issues in a building can bring many benefits, including reducing manual effort and maximizing technology usage. Such a system can automatically identify and track issues in each room, freeing personnel to focus on other tasks. In addition, real-time updates in the application can make it easier to track progress and ensure that documents and issues are addressed promptly. Overall, implementing a system for tracking issues can increase efficiency, accuracy, and technology utilization while saving time and effort.
 
 ==4.2 Business Case Analysis Team==
-
+This section describes the roles of the team members who developed the business case.  It is imperative that participants and roles are clearly defined for the business case as well as throughout the life cycle of the project.
 <table border="1" width="70%" align="center">
 	<tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">Role</p></td>
@@ -151,7 +152,7 @@ Implementing a system to track issues in a building can bring many benefits, inc
 		<td width="517">
 <p>·         <em>Provides executive support for the project. </em></p>
 </td>
-<td><p style="text-align:center;"><em>Sir Jojo F. Castillo</em><br> <em>Sir Jose Manuel Garcia</em> </p> 
+<td><p style="text-align:center;"><em>MR. Jojo F. Castillo</em><br> <em>MR. Jose Manuel V. Garcia</em> </p> 
 </td>
     </tr>
 
@@ -162,43 +163,42 @@ Implementing a system to track issues in a building can bring many benefits, inc
 
 ===4.3.1 Problem Statement===
 
-The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner.The current system also has unnecessary steps that could be eliminated when digitized such as rewriting the information from the logbook onto an incident report to be submitted to the Information Technology Resource Office (ITRO) or Building Maintenance Office (BMO).
+The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner. The current system also has unnecessary steps that could be eliminated when digitized such as rewriting the information from the logbook onto an incident report to be submitted to the Information Technology Resource Office (ITRO) or Building Maintenance Office (BMO).
 
 ===4.3.2 Organizational Impact===
 
-SurveiRams facilitate the digitization of work processes by reducing the use of paper among employees. Security personnel quickly report incidents they encounter, which allows for a faster response time and enhances overall safety measures within the organization.BMO and ITRO faculty members will also receive the incident reports as soon as a guard logs it, instead of waiting for the rewritten version.
+SurveiRams facilitate the digitization of work processes by reducing the use of paper among employees. Security personnel quickly report incidents they encounter, which allows for a faster response time and enhances overall safety measures within the organization. BMO and ITRO faculty members will also receive the incident reports as soon as a guard logs it, instead of waiting for the rewritten version.
 
 ===4.3.3 Technology Migration===
 
-In order to address the issues brought on by the manual administration of security personnel, BMO, and ITRO, the team developed a mobile application called SurveiRams that automates the manual documentation procedure. The migration from manual administration to SurveiRams will improve the overall efficiency and accuracy of the security personnel reporting process. As the data will be securely stored and easily accessible to the cloud, it will enable faster decision-making and reduce the risk of errors or discrepancies in reporting.
+In order to address the issues brought on by the manual administration of security personnel, BMO, and ITRO, the team will develop a mobile application called SurveiRams that automates the manual documentation procedure. The migration from manual administration to SurveiRams will improve the overall efficiency and accuracy of the security personnel reporting process. As the data will be securely stored and easily accessible to the cloud, it will enable faster decision-making and reduce the risk of errors or discrepancies in reporting.
 
 ==4.4 Project Overview==
 
 ===4.4.1 Project Description===
 
-This project will be concerned with the creation of a mobile application for the security personnel and several offices of APC, wherein they can log and view incident reports. This is to digitize the security personnel’s recording process, as well as boost their productivity. There will be different accessible features available depending on the user, which is based on what office or department they are from.
+This project will be concerned with the creation of a mobile application for the security personnel and several offices of APC, wherein they can log and view incident reports. This is to digitize the security personnel’s recording process, as well as boost their productivity. There will be different accessible features available depending on the user, which is based on what office or department they are from. 
 
 ===4.4.2 Goals and Objectives===
 
-The main goal of this project is to create SurveiRams, a ticketing mobile application for APC’s security personnel, ITRO, and BMO.
+The main goal of this project is to create SurveiRams, a ticketing mobile application for APC’s security personnel, ITRO, and BMO. 
 
 Specifically, said application should:
-*Develop a centralized location where the guards can log their patrols,
-*Automate the manual process of documentation, and
-*Provide analytical insights to interpret data reports and patterns for assisted and effective decision-making
+*Serve as a centralized location that the guards will log their patrols on
+*Digitize the manual documentation processes of Security, ITRO, and BMO
+*Assist users in making decisions by providing insights based on data collected
 
 ===4.4.3 Project Performance===
 
-SurveiRams will be considered a success if the following features are achieved:
+The mobile application SurveiRams must have the following features for the project to be successful:
 
-*A repository wherein the user has the ability to create, read, and update incident report and logs.
-*A dashboard where an administrator is able to view insights drawn from the stored data from the reports. The following information should be seen on the dashboard:
-** How many resolved and unresolved incident reports there are
-** The department and floor that ranks highest with regard to the number of incidents that occurred
-** What kind of incident occurred the most
-** How many incidents occurred per floor
-** How many incidents are reported per office
-
+#A repository wherein the user has the ability to create, read, and update incident report and logs.
+#A dashboard where an administrator is able to view insights drawn from the stored data from the reports. The following information should be seen on the dashboard:
+**How many resolved and unresolved incident reports there are
+**The department and floor that ranks highest with regard to the number of incidents that occurred
+**What kind of incident occurred the most
+**How many incidents occurred per floor
+**How many incidents are reported per office
 
 ===4.4.4 Project Assumptions===
 
