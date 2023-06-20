@@ -53,6 +53,7 @@
 <p> The Asia Pacific College Library is embracing technological advancements by adopting SmartBooks, an innovative solution for optimizing book and eBook acquisition and utilization. This decision reflects the library's commitment to providing cutting-edge resources and services to enhance the learning experience. SmartBooks revolutionizes how students access educational materials by offering features like usage pattern analysis and personalized recommendations. By analyzing students' reading habits and preferences, the library can improve collection development strategies and provide a seamless digital reading experience. The adoption of SmartBooks aligns with the library's mission to create a dynamic learning environment and ensure students have access to relevant and engaging educational resources. </p>
 
 = Business Case =
+
 == Executive Summary ==
 
 <p> The purpose of this business case is to optimize the book and eBook acquisition process for APC by making informed decisions about which materials to purchase for student use. The project addresses the challenges of limited resources and the cost associated with acquiring books/ebooks. By analyzing usage patterns and incorporating reliable reviews, APC aims to maximize the value of its budget while providing students with high-quality, relevant resources. The project's objectives include improving cost efficiency, leveraging data for decision-making, and optimizing resource allocation. By achieving these objectives, APC can enhance the learning experience, support academic success, and ensure the effective utilization of resources within the APC community. </p>
@@ -716,90 +717,263 @@ The SmartBooks project takes a structured approach to manage its scope effective
 
 == Introduction == 
 
-<p> The Cost Management Plan for the SmartBooks project outlines the strategies and procedures that will be employed to effectively manage costs throughout the project's lifecycle. This plan establishes the framework and guidelines for measuring, reporting, and controlling project costs. It ensures that the project remains within budget and enables informed decision-making regarding cost-related matters. </p>
-
-<p> Key elements of the Cost Management Plan include: </p>
-
-<ul>
-<li> Cost Management Responsibility: The project's cost management personnel or positions are expressly identified in the plan. In order to achieve cost effectiveness, this entails appointing a Cost Manager to supervise cost-related operations and work with stakeholders. </li> 
-<li> Authority for Budget Changes: The authority levels necessary to approve adjustments to the project's budget are laid out in the plan. This guarantees that any budget changes or revisions are appropriately assessed, approved, and documented. </li>
-<li> Cost Performance Measurement: The strategy identifies the quantitative techniques and indicators that will be used to gauge and assess cost performance. This include setting cost baselines, monitoring variances to find any budgetary deviations, and comparing actual costs to projected expenditures. </li>
-<li> Reporting Format and Frequency: The plan specifies the report's structure, frequency, and recipients. These reports give project stakeholders rapid access to precise project cost information, enabling strategic cost management and well-informed decision-making. </li>
-</ul> 
-
-<p> The SmartBooks project ensures efficient cost control and transparency throughout its duration by putting the Cost Management Plan into practice. It makes it possible for stakeholders to keep track of, evaluate, and optimize expenditures, thus assisting in the project's successful completion within the allotted budget. </p>
+<p> The Cost Management Plan for the SmartBooks project aims to effectively manage project costs and ensure financial transparency. It includes key elements such as cost management responsibility, authority for budget changes, cost performance measurement, and reporting format. By implementing this plan, the project can optimize resource utilization, make informed decisions, and deliver within budgetary constraints. </p>
 
 == Cost Management Approach == 
 
-<p> The Cost Management Approach for the SmartBooks project encompasses strategies and methodologies to effectively manage costs throughout the project's lifecycle. Cost estimation techniques, such as bottom-up and analogous estimation, will be utilized to provide accurate cost projections. A detailed cost baseline will be established, serving as the reference point for measuring actual costs. Regular monitoring and control mechanisms, including variance analysis and cost-saving identification, will ensure adherence to the budget. A robust change control process will evaluate cost implications of requested changes, and clear and concise cost reports will be shared with stakeholders to maintain financial transparency. By implementing this approach, the SmartBooks project aims to optimize resource utilization, make informed decisions, and successfully deliver within budgetary constraints. </p>
+<p> The cost management approach for the SmartBooks project involves thorough cost estimation and budget development, followed by continuous monitoring and control of project expenses. This includes comparing actual costs to the budgeted amounts, implementing change management processes, effectively managing vendors and suppliers, and providing regular cost reports to stakeholders. By adopting this approach, the project aims to optimize resource utilization, control costs, and ensure financial transparency throughout the project lifecycle. </p>
 
 == Measuring Project Costs ==
 
-<p> The Cost Management Plan for SmartBooks' Measure Project Costs section gives a thorough explanation of how project costs will be monitored and managed during the course of the project. We will use Earned Value Management (EVM) as our main methodology to precisely track and manage expenditures. EVM combines the cost, schedule, and performance factors to offer a comprehensive picture of project development and cost performance. It enables us to identify any variations and budgetary deviations by comparing the value of work accomplished (earned value) to the actual expenditures expended and the projected value. </p>
+<ul> 
 
-<p> To implement EVM effectively, we will establish a robust system for tracking and recording project costs. This will include capturing all direct and indirect costs associated with SmartBooks, such as personnel costs, hardware and software expenses, training costs, and any other relevant expenditures. We will also ensure that accurate cost data is collected and recorded on a regular basis, enabling us to have real-time visibility into the project's financial performance. Furthermore, we will define key cost metrics and indicators that will be used to assess the project's cost performance. These metrics may include Cost Performance Index (CPI), Schedule Performance Index (SPI), Cost Variance (CV), and Schedule Variance (SV), among others. Regular analysis of these metrics will provide insights into the project's cost efficiency and help identify any potential cost overruns or savings opportunities. </p> 
+<li> <b> Cost Tracking: </b> As the project progresses, actual costs are tracked and recorded for each activity and expense category. This involves collecting data on labor costs, materials, software licenses, training sessions, hardware purchases, and any other project-related expenditures. </li>
+<li> <b> Cost Analysis: </b> The tracked costs are analyzed and compared against the budgeted amounts and cost estimates. This analysis helps identify any variances or deviations from the planned costs and provides insights into the financial health of the project. </li>
 
-<p> Project managers and other key team members must obtain the necessary instruction on EVM principles and practices if EVM is to be implemented successfully. This will make it possible for them to precisely measure and evaluate cost data, to efficiently track cost performance, and to proactively deal with any cost-related problems that might emerge throughout the project. We will be able to retain financial control, make wise judgments, and guarantee that the SmartBooks project stays under budget limitations by adopting a strict and methodical approach to measuring project expenses with EVM. </p>
+</ul>
 
 == Reporting Format ==
 
-<p> The Reporting Format section of the Cost Management Plan outlines how cost information will be documented, presented, and communicated to stakeholders throughout the SmartBooks project. Effective reporting is crucial for transparency, accountability, and informed decision-making regarding project costs. The reporting format will include regular cost performance reports that provide a snapshot of the project's financial status. These reports will typically include key cost metrics, such as the Cost Performance Index (CPI), Schedule Performance Index (SPI), Cost Variance (CV), Schedule Variance (SV), and Estimate at Completion (EAC). The reports will also highlight any significant cost deviations, trends, or risks that may impact on the project's budget. </p>
+<p> The cost performance report for the SmartBooks project provides a concise overview of the project's financial performance. It begins with a summary section that outlines the total budgeted cost, actual cost incurred to date, cost variance, and the cost performance index (CPI). These metrics offer insights into the project's adherence to the budget and its overall cost efficiency. The report then delves into a detailed cost breakdown, focusing on labor costs and procurement costs. It highlights the budgeted and actual figures for each category and calculates the variances. This breakdown enables a more granular understanding of the project's cost allocation and identifies areas where the actual costs differ from the initial budget. </p>
 
-<p> The frequency of cost reporting will be determined based on the project's needs and the level of detail required by stakeholders. As a general guideline, we anticipate providing monthly cost reports to the project team, project sponsors, and other relevant stakeholders. However, for critical milestones, budget reviews, or major cost fluctuations, additional ad-hoc reports may be generated to ensure timely and comprehensive communication. </p>
-
-<p> Moreover, the cost reports' layout will be clear, concise, and simple to comprehend. To effectively show the data, visual aids like graphs and charts will be used. In order to help stakeholders evaluate the project's financial performance and make wise cost management decisions, the reports will compare projected costs, actual costs, and earned value. The reports will also point out any cost-related concerns, mitigation techniques, and suggested solutions to any problems with the budget.  </p>
-
-<p> After, we will create open lines of contact for stakeholders to answer any queries, worries, or requests for further cost information, in addition to providing regular cost updates. As a result, stakeholders will have timely access to reliable cost data, and cost management talks will take place in a collaborative setting. We want to promote transparency, enable proactive decision-making, and keep stakeholders' faith in the financial management of the SmartBooks project by offering thorough and consistent cost information. </p>
+<p> The report further includes a comprehensive cost analysis section, where major cost categories are examined in detail. This analysis identifies significant variances or deviations from the budgeted amounts and provides an explanation of the underlying factors contributing to these variances. Additionally, the report emphasizes any corrective actions taken or planned to address the identified variances. Lastly, the cost control measures implemented during the reporting period are summarized, showcasing the efforts made to manage costs effectively. The report evaluates the effectiveness of these measures and provides insights into the project's overall cost control strategies. By presenting a comprehensive view of cost management, the cost performance report assists stakeholders in understanding the financial health of the SmartBooks project and facilitates informed decision-making. </p>
 
 == Cost Variance Response Process == 
 
-<p> The control thresholds and measures to be implemented in the event that the project's cost variance exceeds the predefined limitations are established by the Cost Management Plan for SmartBooks' Cost Variance Response Process. This procedure guarantees that corrective actions are taken promptly and appropriately to handle any budget variances and get the project back on track. When the project triggers a control threshold, the Project Manager will conduct a thorough analysis of the cost variance, identifying the root causes and potential mitigation strategies. The Project Manager will then present the findings and proposed options for corrective action to the Project Sponsor for review and approval. </p> 
-
-<p> The response process may involve several potential actions to address the cost variance. These actions could include: </p>
-
-<ul> 
-<li> <b> Increasing the budget: </b> The project manager may suggest raising the project's budget to account for the extra costs if the cost difference is due to unanticipated charges or changes in project requirements. The Project Sponsor would need to approve this choice, and the project's financial viability would need to be reevaluated. </li> 
-<li> <b> Reducing scope or quality: </b> The project manager may suggest decreasing the scope or quality of some project deliverables if the cost variance is large and cannot be accommodated within the current budget. This strategy tries to optimize the remaining budget and reallocate resources to match the project's goals. </li>
-<li> <b> Adjusting resource allocation: </b> A different choice is to evaluate how resources are allocated within the project. In order to maximize cost utilization and reduce the cost variance, the project manager might suggest reallocating resources from non-critical tasks to those that are. </li>
-<li> <b> Seeking alternative funding sources: </b> To overcome the cost variance, the project manager may occasionally look into alternate funding options or cost-sharing agreements with pertinent stakeholders or sponsors. </li>
-</ul>
-
-<p> The specific corrective action taken will depend on the nature and severity of the cost variance, project priorities, and the overall project objectives. The Project Sponsor will review the proposed options and provide approval for the chosen corrective action, ensuring that the project's budget is effectively managed and aligned with the project's goals. </p>
+<p> When a cost variance is detected in the SmartBooks project, a simple and streamlined response process is followed. First, the variance is analyzed by comparing the budgeted and actual costs. Then, the project team identifies the causes and assesses the impact on project objectives. Next, appropriate corrective actions are devised and implemented, which may involve budget adjustments, resource optimization, or cost-saving measures. Throughout the process, clear and regular communication with stakeholders ensures transparency and keeps everyone informed. This cost variance response process enables the project to maintain control over its finances and stay on track within the allocated budget. </p>
 
 == Cost Change Control Process ==
 
-<p> The Cost Change Control Process for SmartBooks aligns with the project's overall change control process to effectively manage and control any changes that may impact the project's cost baseline. This process ensures that changes to the project's costs are carefully reviewed, evaluated, and approved in a controlled manner. </p>
+<p> The cost change control process in the SmartBooks project follows a simple and systematic approach to manage changes to the project budget. When a change request related to project costs arises, the process ensures proper evaluation and decision-making. </p>
 
-<p> When a change request that impacts project costs is identified, it will follow the established change control process. The Cost Change Control Process includes the following steps: </p>
+<p> The first step is to document and assess the proposed cost change. The project team reviews the change request, including the reasons for the change and its potential impact on the budget. This evaluation helps in understanding the necessity and feasibility of the proposed cost change. Next, the change request is reviewed by the relevant stakeholders, such as the project sponsor, project manager, and finance department. They collectively analyze the potential implications of the cost change on the project's objectives, timeline, and overall financial resources. </p>
 
-<ul> 
-<li> <b> Change Identification: </b> Any suggested modifications that might affect the project's costs are noted and documented. This might entail alterations to the project's scope, schedule, resources, or other elements that directly affect project costs. </li> 
-<li> <b> Change Request Documentation: </b> The change request is supported by documentation that clearly outlines the requested modification, its justification, and any potential effects it might have on project costs. Financial analysis or cost estimates may also be presented as supporting material. </li>
-<li> <b> Change Evaluation: </b> The Project Manager, Cost Control Team, and other suitable project participants analyze the change request along with other pertinent stakeholders. The evaluation measures the overall alignment with the project's goals, risks, rewards, and potential financial consequences. </li>
-<li> <b> Cost Impact Analysis: </b> To determine the projected impact of the proposed change on the project's cost baseline, a thorough analysis is carried out. This analysis considers both the direct and indirect cost consequences, taking into consideration things like the need for additional resources, changes to the procurement process, and any potential cost savings or cost overruns. </li>
-<li> <b> Change Approval: </b> The Change Control Board or the designated authority appointed to approve changes is presented with the change request and its related cost impact study. The project's goals, restrictions, and resources available are taken into account as the board assesses the change request using predetermined criteria. Whether the change is approved and whether the cost baseline will be modified as a result depends on the approval decision. </li>
-<li> <b> Cost Baseline Update: </b> The Cost Control Team updates the project's cost baseline to reflect the approved adjustments if the change request is approved. By doing this, it is made sure that the project's financial plans, budget allocations, and cost projections appropriately account for the modified scope and associated costs. </li>
-</ul>
-
-<p> It is essential to maintain proper documentation throughout the Cost Change Control Process, including records of change requests, cost impact analyses, and approval decisions. This helps maintain transparency, accountability, and a comprehensive audit trail of all changes affecting the project's costs. By following this well-defined Cost Change Control Process, SmartBooks ensures that changes impacting project costs are effectively evaluated, controlled, and documented, promoting financial accountability and maintaining alignment with the project's budgetary objectives. </p>
+<p> Based on the evaluation and stakeholder input, a decision is made regarding the approval or rejection of the cost change request. If approved, the necessary adjustments are made to the project budget, considering the revised cost estimates and resource allocations. Throughout the process, proper documentation and communication are maintained to ensure transparency and accountability. All stakeholders involved are informed of the decision and any subsequent actions taken. </p>
 
 == Project Budget ==
 
-<p> The Project Budget for SmartBooks outlines the estimated costs required to successfully execute the project and achieve its objectives. The budget is categorized into various cost elements, and the total project cost is targeted to be 350,000 pesos. The budget allocation for each category is as follows: </p>
+<table> 
 
+<tr>
+<th colspan="2"> Summary of Cost Performance </th>
+</tr>
+
+<tr>
+<td> Total Budgeted Costs: </td>
+<td> ₱350,000 </td>
+</tr>
+
+<tr>
+<td> Total Actual Costs: </td>
+<td> ₱268,117 </td>
+</tr>
+
+<tr>
+<td> Cost Variance: </td>
+<td> ₱81,883 </td>
+</tr>
+
+</table>
+
+<b> Cost Breakdown </b>
+
+<table> 
+
+<tr>
+<th colspan="2"> A. Labor Costs </th>
+</tr>
+
+<tr>
+<td> Total Budgeted Costs: </td>
+<td> ₱150,000 </td>
+</tr>
+
+<tr>
+<td> Total Actual Costs: </td>
+<td> ₱125,325 </td>
+</tr>
+
+<tr>
+<td> Cost Variance: </td>
+<td> ₱24,675 </td>
+</tr>
+
+<tr>
+<th colspan="2"> B. Procurement Costs </th>
+</tr>
+
+<tr>
+<td> Total Budgeted Costs: </td>
+<td> ₱200,000</td>
+</tr>
+
+<tr>
+<td> Total Actual Costs: </td>
+<td> ₱142,792 </td>
+</tr>
+
+<tr>
+<td> Cost Variance: </td>
+<td> ₱57,208 </td>
+</tr>
+
+</table>
+
+<b> Cost Analysis </b>
+<b> Labor Cost Breakdwon </b>
+<table> 
+
+<tr>
+<th> Roles </th> 
+<th> Rate </th> 
+<th> Hours </th> 
+<th>  Total </th> 
+</tr>
+
+<tr>
+<td> Project Manger </td>
+<td> 75 </td>
+<td> 256 </td>
+<td> ₱19,200 </td>
+</tr>
+
+<tr>
+<td> System Developer </td>
+<td> 75 </td>
+<td> 727 </td>
+<td> ₱54,525 </td>
+</tr>
+
+<tr>
+<td> Data Analyst </td>
+<td> 75 </td>
+<td> 688 </td>
+<td> ₱51,600 </td>
+</tr>
+
+<tr>
+<td> Total </td>
+<td> 75 </td>
+<td> 1671 </td>
+<td> ₱125,325 </td>
+</tr>
+
+</table>
+
+<b> Procurement Cost Breakdwon </b>
+<table> 
+
+<tr>
+<th> Budget </th> 
+<th> Phase </th> 
+<th> Costs </th> 
+<th>  Total </th> 
+</tr>
+
+<tr>
+<td> Software Budget: 65,000 PHP </td> 
+
+<td> 
 <ul> 
-<li> <b> Personnel Costs: </b> ₱150,000 </li>
-<p> ## This includes the salaries, wages, and benefits of the project team members and any additional resources dedicated to the project. </p> 
-<li> <b> Software Development: </b> ₱80,000 </li>
-<p> This category covers the costs associated with developing and implementing the SmartBooks software solution, including any licensing fees, development tools, and third-party software components. </p>
-<li> <b> Hardware and Infrastructure: </b> ₱50,000 </li>
-<p> This includes the procurement and setup of any hardware equipment and infrastructure required to support the SmartBooks system, such as servers, networking devices, and storage devices. </p>
-<li> <b> Training and Documentation: </b> ₱40,000 </li>
-<p> This category encompasses the costs related to training the project team, end-users, and stakeholders on how to effectively use the SmartBooks system. It also includes the development and distribution of project documentation and user manuals. </p>
-<li> <b> Contingency Reserve: </b> ₱30,000 </li>
-<p> A contingency reserve is set aside to account for unforeseen risks or changes that may arise during the project. It allows for flexibility in managing any unexpected expenses. </p>
+<li> System Design </li>
+<li> Development and Testing </li>
+<li> Maintenance and Support </li>
+</ul> 
+</td>
 
-<p> Taking into account all of the aforementioned areas, the expected project budget 350,000 pesos. In order to achieve effective cost management and adherence to budgetary limits, it is vital to emphasize that the budget is subject to periodic review and revision over the course of the project. </p>
+<td> 
+<ul> 
+<li> Webflow: ₱880 </li>
+<li> Zoho Creator: ₱2,200  </li>
+<li> ClickUp: ₱1,320  </li>
+<li> GitHub: ₱660  </li>
+<li> SQL: ₱16,060 </li>
+<li> 15% of Budget to Maintenance and Support </li>
+</ul> 
+</td>
+
+<td> ₱51,360 </td>
+
+</tr>
+
+<tr>
+<td> Hardware Budget: 65,000 PHP </td> 
+
+<td> 
+<ul> 
+<li> Development and Testing </li>
+</ul> 
+</td>
+
+<td> 
+<ul> 
+<li> NAS Server: ₱16,500 </li>
+<li> Barcode Scanner: ₱3945  </li>
+<li> ClickUp: ₱1,320 </li>
+<li> CCS RFID Sticker Label: ₱150 </li>
+<li> Hard Drive: ₱845 </li>
+</ul> 
+</td>
+
+<td> ₱21,440 </td>
+</tr>
+
+<tr>
+<td> Training and Documentation Budget: ₱35,000 </td> 
+<td> 
+<ul> 
+<li> Training and Documentation </li>
+</ul> 
+</td>
+
+<td> 
+<ul> 
+<li> Training Materials: ₱3,500 </li>
+<li> Divided by the number of trainees (4): ₱7,875  </li>
+</ul> 
+</td>
+
+<td> ₱35,000 </td>
+</tr>
+
+<tr>
+<td> Contingency Budget: ₱35,000  </td> 
+<td> 
+<ul> 
+<li> Requirement Analysis </li>
+<li> System Design </li>
+<li> Development and Testing </li>
+<li> Training and Documentation </li>
+<li> Implementation and Deployment </li>
+<li> Maintenance and Support </li>
+</ul> 
+</td>
+
+<td> 
+<ul> 
+<li> ₱1944 Per Each Task</li>
+</ul> 
+</td>
+
+<td> ₱34,992 </td>
+</tr>
+
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> ₱142,792 </td>
+</tr>
+
+</table>
+
+<b> Labor Costs </b>
+<p> The actual labor costs for the project were lower than the budgeted amount, resulting in a favorable variance. This can be attributed to efficient resource allocation and effective time management. The project team completed tasks within the planned effort, leading to cost savings. No corrective actions were needed as the labor costs were well managed. </p>
+
+<b> Procurement Costs </b>
+<p> The actual procurement costs for software and hardware were lower than the budgeted amount, resulting in a favorable variance. This was achieved through thorough vendor evaluation. The project team conducted extensive market research and obtained competitive pricing, contributing to cost savings. No corrective actions were required as the procurement costs were well controlled. </p>
+
+<p> Overall, the SmartBooks project demonstrated effective cost management with favorable variances in both labor and procurement costs. The project team's efficient resource allocation, time management, and cost control measures contributed to the cost savings. No specific corrective actions were needed as the project remained within budget. The remaining budget can be allocated for other project needs or kept as contingency reserves for unforeseen expenses. </p>
 
 = Schedule Management Plan = 
 
