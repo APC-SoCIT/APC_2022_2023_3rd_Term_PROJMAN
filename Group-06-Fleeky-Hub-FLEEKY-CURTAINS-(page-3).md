@@ -795,31 +795,29 @@ Below are the meeting guidelines for Dispatch Directory System project: </p>
   <p>The implementation plan for Fleeky Hub outlines the key steps and strategies for the successful development and deployment of a user-friendly website that will streamline the operations of Fleeky Curtains. This executive summary provides an overview of the plan, highlighting the objectives, phases, key stakeholders, and communication processes involved in the implementation.</p>
 
   <h2>Project Overview</h2>
-  <p>Fleeky Hub aims to enhance the customer experience and improve operational efficiency for Fleeky Curtains by providing a website that offers easy browsing, efficient order management, and comprehensive reporting capabilities. The implementation plan focuses on utilizing the Django framework and SQL database to develop the website and ensure seamless integration with existing systems.</p>
+  <p>Fleeky Hub provides a website with simple browsing, effective order administration, and extensive reporting features in an effort to improve the customer experience and operational efficiency for Fleeky Curtains. The development of the website and ensuring a smooth interface with current systems are the main objectives of the implementation plan, which centers on using the Django framework and SQL database.</p>
 
   <h2>Key Objectives</h2>
   <ul>
-    <li>Develop a functional website that offers a user-friendly interface for customers to browse products and place orders.</li>
-    <li>Streamline order management processes to improve efficiency and reduce handling time.</li>
-    <li>Enhance communication and collaboration among team members to facilitate seamless operations.</li>
-    <li>Implement robust reporting capabilities to generate business insights and support decision-making.</li>
+    <li>uild a useful website that enables users to explore items and place orders using a user-friendly interface.</li> 
+    <li>Simplify order management procedures to increase productivity and cut down on handling time.</li> 
+    <li>Improve team member collaboration and communication to promote efficient operations. </li>
+    <li>Install reliable reporting tools to facilitate decision-making and produce company insights.</li>
   </ul>
 
   <h2>Implementation Phases</h2>
-  <ol>
-    <li>Planning and Requirements Gathering</li>
-    <li>Website Development and Testing</li>
-    <li>Deployment and Training</li>
-    <li>Post-Implementation Review and Optimization</li>
-  </ol>
+    <p>The implementation plan consists of the following phases:</p>
+    <br>Phase 1: Planning and Requirements Gathering
+    <br>Phase 2: Website Development and Testing
+    <br>Phase 3: Deployment and Training
+    <br>Phase 4: Post-Implementation Review and Optimization
+    <p>Each phase focuses on specific activities, such as analyzing requirements, developing the website, conducting testing, deploying the system, and continuously improving its performance.</p>
 
   <h2>Key Stakeholders and Roles</h2>
-  <ul>
-    <li>Project Sponsor: Provides overall guidance, support, and resources.</li>
-    <li>Project Manager: Oversees project execution, manages resources, and ensures timely delivery.</li>
-    <li>Development Team: Responsible for website development, coding, and testing.</li>
-    <li>QA Team: Conducts rigorous testing to ensure quality and functionality.</li>
-  </ul>
+    <p>Project Sponsor: Provides overall guidance, support, and resources.</p>
+    <br>Project Manager: Oversees project execution, manages resources, and ensures timely delivery.
+    <br>Development Team: Responsible for website development, coding, and testing.
+    <br>QA Team: Conducts rigorous testing to ensure quality and functionality.
 
   <h2>Communication and Escalation Processes</h2>
   <p>To ensure effective communication and timely issue resolution, the implementation plan establishes clear communication channels and guidelines. It also outlines a communication escalation process to address any breakdowns or conflicts promptly.</p>
