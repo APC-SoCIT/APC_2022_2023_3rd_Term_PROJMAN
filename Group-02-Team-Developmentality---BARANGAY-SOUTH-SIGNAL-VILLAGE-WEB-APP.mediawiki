@@ -1052,217 +1052,256 @@ In this WBS, the project is divided into five main sections: Project Planning, A
 		<td >
         <p style="font-size: 1.17em; font-weight: bold;"> 1.1 PLANNING </p>
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.1 Project Preparation </p>
-* 1.1.1.1 Creation of Project Groups
-* 1.1.1.2 Choose Project/Client
-* 1.1.1.3 Choose Adviser/Consultant
-* 1.1.1.4 Design Thinking 1
+* 1.1.1.1	Creation of Project Team	
+* 1.1.1.2	Choosing Project Client		
+* 1.1.1.3	1st meeting w/ Client		
+* 1.1.1.4	Choosing Project Adviser/Consultant	PM		
+* 1.1.1.5	1st meeting w/ Adviser
+* 1.1.1.6	Kick-off Meeting (Sprint 1)
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.2 MNTSDEV Team consultation </p>
-* 1.1.2.1 Team meeting with Project adviser
-* 1.1.2.2 Team meeting with Project Sponsor
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.3 MNTSDEV Creation of Midterm Paper </p>
-* 1.1.3.1 Chapter 1 (Introduction)
-* 1.1.3.2 Chapter 2 (RRL/RRS)
-* 1.1.3.3 Chapter 3 (Methodology)
-* 1.1.3.4 Chapter 4 (Results and Discussions)
-* 1.1.3.5 Chapter 5 (Conclusion)
-* 1.1.3.6 Proofreading
-* 1.1.3.7 Creation of presentation deck
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.2 Project Proposal  </p>
+* 1.1.2.1	2nd meeting w/ Client		
+* 1.1.2.2	2nd meeting w/ Adviser
+* 1.1.2.3	Initial Creation of Project Proposal		
+* 1.1.2.4	3rd meeting w/ Adviser		
+* 1.1.2.5	1st meeting w/ Consultant				
+* 1.1.2.6	Proofreading		
+* 1.1.2.7	Initial Project Proposal Evaluation (Sprint 2)		
+* 1.1.2.8	Progression of Project Proposal	
+* 1.1.2.9	4th meeting w/ Adviser		
+* 1.1.2.10	Proofreading				
+* 1.1.2.11	Final Project Proposal Evaluation (Sprint 3)	
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.4 MNTSDEV Midterm Evaluation </p>
-* 1.1.4.1 Midterm (Sprint1)
-* 1.1.4.2 Comment Matrix
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.5 Initial Design </p>
-* 1.1.5.1 Initial wireframe
-* 1.1.5.2 Initial low-fidelity prototype
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.6 MNTSDEV Progression of Paper/Final Paper </p>
-* 1.1.6.1 Chapter 1 (Introduction)
-* 1.1.6.2 Chapter 2 (RRL/RRS)
-* 1.1.6.3 Chapter 3 (Current System)
-* 1.1.6.4 Chapter 4 (Proposed System)
-* 1.1.6.5 Chapter 5 (Requirement Analysis)
-* 1.1.6.6 Chapter 6 (Conclusion)
-* 1.1.6.7 Proofreading
-* 1.1.6.8 Creation of presentation deck
-* 1.1.6.9 Submission of final Requirements for Final Presentation
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.7 MNSTDEV Finals Evaluation </p>
-* 1.1.7.1 Final Presentation (Sprint 2)
-* 1.1.7.2 Revision for Comment Matrix and Final Paper
-* 1.1.7.3 Submission of MNSTDEV FINAL Documents
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.1.3	Creation of Project Management Plans</p>
+* 1.1.3.1	Project Charter			
+* 1.1.3.2	Business Case	
+* 1.1.3.3	Stakeholders Management Strategy Plan	
+* 1.1.3.4	Scope Management Plan	
+* 1.1.3.5	Cost Management Plan			
+* 1.1.3.6	Time Management Plan	
+* 1.1.3.7	Work Breakdown Structure	
+* 1.1.3.8	Work Packages based on WBS.
+* 1.1.3.9	HR Management	
+* 1.1.3.10	Quality Management Plan	
+* 1.1.3.11	Risk Management Plan	
+* 1.1.3.12	Communications Management Plan	
+* 1.1.3.13	Procurement Management Plan	
+* 1.1.3.14	Implementation Plan		
+* 1.1.3.15	Change Management Plan	
+* 1.1.3.16	Project Management Plan Evaluation (Sprint 4)	
+* 1.1.3.17	Project Management Plan Progression	
+* 1.1.3.18	Finalizing Project Management Plan (Sprint 5)
 </td>      
 </tr>
 <tr>
 <td>
 <p style="font-size: 1.17em; font-weight: bold;"> 1.2 ANALYSIS AND DESIGN </p>
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.1 MSYADD Project Progression </p>
-* 1.2.1.1 Initial analysis for Chapter 5 (Requirement Analysis)
-* 1.2.1.2 Submission of MNSTDEV final documents
-* 1.2.1.3 Implementation of GitHub Repository
-* 1.2.1.4 Request letter for Adviser/Consultant
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.2 MSYADD Team consultation </p>
-* 1.2.2.1 Team meeting with Project adviser
-* 1.2.2.2 Team meeting with Project Sponsor
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Inpidual Deliverables </p>
-* 1.2.4 MSYADD Release Plan 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> MSYADD Release Plan </p>
-* 1.2.4.1 Release Plan 1.1
-* 1.2.4.2 Release Plan 1.2
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.5 MSYADD Week 3 - Week 4 </p>
-* 1.2.5.1 Event Table
-* 1.2.5.2 Use Case Diagram
-* 1.2.5.3 Use Case Full Description
-* 1.2.5.4 Data Flow Diagram
-* 1.2.5.5 Context Flow Diagram
-* 1.2.5.6 Entity Relationship Diagram
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.6 MSYADD Week 5 - Week 7 </p>
-* 1.2.6.1 Activity Diagram
-* 1.2.6.2 Object Diagram
-* 1.2.6.3 Class Diagram
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.7 MSYADD Midterm Evaluation </p>
-* 1.2.7.1 Pre-midterm Presentation (Sprint 3)
-* 1.2.7.2 Midterm Presentation (Sprint 4)
-* 1.2.7.3 Revision Midterm
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.8 MSYADD Week 8 - Week 9 </p>
-* 1.2.8.1 Sequence Diagram
-* 1.2.8.2 State Machine Diagram
-* 1.2.8.3 Package Diagram
-* 1.2.8.4 Deployment Diagram
-* 1.2.8.5 Component Diagram
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.9 MSYADD Final Evaluation </p>
-* 1.2.9.1 MSYADD Pre-final Presentation (Sprint 5)
-* 1.2.9.2 MSYADD Final Presentation (Sprint 6)
-* 1.2.9.3 Revision for Final Paper
-* 1.2.9.4 Submission of Final Requirements
-</td>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.1	Creation of Initial Prototype </p>
+* 1.2.1.1	Creation of Initial Wireframe
+* 1.2.1.2	Creation of UI/UX Design
+* 1.2.1.3	Initial Prototype Evaluation (Sprint 6)
+* 1.2.1.4	Prototype Progression
+* 1.2.1.5	Finalization of Initial Prototype (Sprint 7)
+  
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.2.2	Creation of Project Diagrams </p>
+* 1.2.2.1	Event Table
+* 1.2.2.2	Use Case Diagram
+* 1.2.2.3	Use Case Full Description
+* 1.2.2.4	Data Flow Diagram
+* 1.2.2.5	Context Flow Diagram
+* 1.2.2.6	ERD
+* 1.2.2.7	5th meeting w/ Adviser
+* 1.2.2.8	6th meeting w/ Adviser
+* 1.2.2.9	Activity Diagram
+* 1.2.2.10	Object Diagram
+* 1.2.2.11	Class Diagram
+* 1.2.2.12	Sequence Diagram
+* 1.2.2.13	State Machine Diagram
+* 1.2.2.14	3rd meeting w/ Client
+* 1.2.2.15	Package Diagram
+* 1.2.2.16	Deployment Diagram
+* 1.2.2.17	Component Diagram
+* 1.2.2.18	7th meeting w/ Adviser
+* 1.2.2.19	Project Diagram Evaluation (Sprint 8)
+* 1.2.2.20	Project Diagrams Progressions 
+* 1.2.2.21	Finalization of Project Diagrams (Sprint 9)
+  </td>
 </tr>
 
 <tr>
 <td>
 <p style="font-size: 1.17em; font-weight: bold;"> 1.3 DEVELOPMENT&nbsp; </p>
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.1 MCSPROJ Project Progression  </p>
-* 1.3.1.1 Submission of MSYADD Final Documents 
-* 1.3.1.2 Request letter for Adviser/Consultant 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.1	Release 1	  </p>
+* 1.3.1.1	Main Page Feature
+** 1.3.1.1.1	1st Team development meeting
+** 1.3.1.1.2	Creation of Landing Page
+** 1.3.1.1.3	Creation of Contact Page
+** 1.3.1.1.4	Creation of Safety Section Page
+** 1.3.1.1.5	Creation of About Us Page
+** 1.3.1.1.6	2nd Team development meeting
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.2 MCSPROJ Release Plan    </p>
-* 1.3.2.1 Finalizing Release 1 
-* 1.3.2.2 Release Plan 2 
-* 1.3.2.3 Release Plan 3 
+* 1.3.1.2	Resident Dashboard
+** 1.3.1.2.1	Creation of Registration Page
+** 1.3.1.2.2	Creation of Login Page
+** 1.3.1.2.3	Creation of Resident Dashboard
+** 1.3.1.2.4	3rd Team development meeting
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.3 MCSPROJ Midterm Deliverables   </p>
-* 1.3.3.1 Creation of Gantt Chart 
-* 1.3.3.2 Creation of WBS 
-* 1.3.3.3 Creation of Activity List 
-* 1.3.3.4 Creation of Project Vision and Scope Progression 
-* 1.3.3.5 Creation of Statement of Work Progression 
-* 1.3.3.6 Creation of Project Charter Progression 
-* 1.3.3.7 Pre-midterm Presentation (Sprint 7) 
+  
+* 1.3.1.3	Barangay Employee Dashboard
+** 1.3.1.3.1	Creation of Admin Login Page
+** 1.3.1.3.2	Creation of Barangay Administrator Dashboard
+** 1.3.1.3.3	Creation of Managing Barangay Employee Account
+** 1.3.1.3.4	Creation of Barangay Employee Dashboards
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.4 MCSPROJ Team consultation   </p>
-* 1.3.4.1 Team meeting with Project adviser 
-* 1.3.4.2 Team meeting with Project Sponsor 
+ 
+* 1.3.1.4	4th Team development meeting
+* 1.3.1.5	8th Team meeting w/ Adviser
+* 1.3.1.6	Release 1 Evaluation (Sprint 10)
+* 1.3.1.7	Release 1 Progression
+* 1.3.1.8	Finalizing Release 1 (Sprint 11)
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.5 MCSPROJ Midterm Evaluation   </p>
-* 1.3.5.1 Submission of Midterm Requirement 
-* 1.3.5.2 MCSPROJ Final Presentation (Sprint 8) 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.2	Release 2</p>
+* 1.3.2.1	Requesting Barangay Documents
+** 1.3.2.1.1	Creation of functions to request documents.
+** 1.3.2.1.2	Creation of functions to track requested documents.
+** 1.3.2.1.3	Creation of functions for notifications
+** 1.3.2.1.4	Creation of functions to manage requested documents.
+  
+* 1.3.2.2	4th Team meeting Team meeting w/ Client
+* 1.3.2.3	Release 2 Evaluation (Sprint 12)
+* 1.3.2.4	Release 2 Progression
+* 1.3.2.5	Finalizing Release 2 (Sprint 13)
+* 1.3.2.6	5th Team development meeting
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.6 MCSPROJ Finals Deliverables    </p>
-* 1.3.6.1 Creation of Test Case 
-* 1.3.6.2 Creation of Quality Plan 
-* 1.3.6.3 Creation of User Acceptance 
-* 1.3.6.4 Creation of Change Management Plan 
-* 1.3.6.5 Updating MCSPROJ Final Paper 
-* 1.3.6.6 Creation of Proofreading Endorsement 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.7 MCSPROJ Finals Evaluation      </p>
-* 1.3.7.1 Submission of MCSPROJ Final Requirements 
-* 1.3.7.2 MCSPROJ Final Presentation (Sprint 9) 
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.3	Release 3  </p>
+* 1.3.3.1	Submitting Concerns
+** 1.3.3.1.1	Creation of functions to submit concerns.
+** 1.3.3.1.2	Creation of functions to manage concerns.
+** 1.3.3.1.3	Creation of functions to track submitted concerns.
+  
+* 1.3.3.2	Manage Web App
+** 1.3.3.2.1	Generate Report
+** 1.3.3.2.2	Modify Web App information.
+</td>
+</tr>
+<td>
+<p style="font-size: 1.17em; font-weight: bold;"> 1.3 DEVELOPMENT&nbsp; </p>
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.1	Release 1	  </p>
+* 1.3.1.1	Main Page Feature
+** 1.3.1.1.1	1st Team development meeting
+** 1.3.1.1.2	Creation of Landing Page
+** 1.3.1.1.3	Creation of Contact Page
+** 1.3.1.1.4	Creation of Safety Section Page
+** 1.3.1.1.5	Creation of About Us Page
+** 1.3.1.1.6	2nd Team development meeting
+
+* 1.3.1.2	Resident Dashboard
+** 1.3.1.2.1	Creation of Registration Page
+** 1.3.1.2.2	Creation of Login Page
+** 1.3.1.2.3	Creation of Resident Dashboard
+** 1.3.1.2.4	3rd Team development meeting
+
+  
+* 1.3.1.3	Barangay Employee Dashboard
+** 1.3.1.3.1	Creation of Admin Login Page
+** 1.3.1.3.2	Creation of Barangay Administrator Dashboard
+** 1.3.1.3.3	Creation of Managing Barangay Employee Account
+** 1.3.1.3.4	Creation of Barangay Employee Dashboards
+
+ 
+* 1.3.1.4	4th Team development meeting
+* 1.3.1.5	8th Team meeting w/ Adviser
+* 1.3.1.6	Release 1 Evaluation (Sprint 10)
+* 1.3.1.7	Release 1 Progression
+* 1.3.1.8	Finalizing Release 1 (Sprint 11)
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.2	Release 2</p>
+* 1.3.2.1	Requesting Barangay Documents
+** 1.3.2.1.1	Creation of functions to request documents.
+** 1.3.2.1.2	Creation of functions to track requested documents.
+** 1.3.2.1.3	Creation of functions for notifications
+** 1.3.2.1.4	Creation of functions to manage requested documents.
+  
+* 1.3.2.2	4th Team meeting Team meeting w/ Client
+* 1.3.2.3	Release 2 Evaluation (Sprint 12)
+* 1.3.2.4	Release 2 Progression
+* 1.3.2.5	Finalizing Release 2 (Sprint 13)
+* 1.3.2.6	5th Team development meeting
+
+
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.3.3	Release 3  </p>
+* 1.3.3.1	Submitting Concerns
+** 1.3.3.1.1	Creation of functions to submit concerns.
+** 1.3.3.1.2	Creation of functions to manage concerns.
+** 1.3.3.1.3	Creation of functions to track submitted concerns.
+  
+* 1.3.3.2	Manage Web App
+** 1.3.3.2.1	Generate Report
+** 1.3.3.2.2	Modify Web App information.
+</td>
+</tr>
+
+<tr>
+<td>
+<p style="font-size: 1.17em; font-weight: bold;"> 1.4 TESTING  </p>
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.1	Unit Testing    </p>
+* 1.4.1.1	Unit Testing for Release 1	
+* 1.4.1.2	Unit Testing for Release 2
+* 1.4.1.3	Unit Testing for Release 3
+
+
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.2	User Acceptance Test     </p>
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.3	Integration Testing     </p>
+  <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.4	Performance Testing    </p>
+  <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.5	Verified use cases with the client (Sprint 16)   </p>
 
 </td>
 </tr>
 
 <tr>
 <td>
-<p style="font-size: 1.17em; font-weight: bold;"> 1.4 IMPLEMENTATION  </p>
+<p style="font-size: 1.17em; font-weight: bold;"> 1.5 IMPLEMENTATION  </p>
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.1 PROJMAN Project Progression    </p>
-* 1.4.1.1 Submission of MCSPROJ Final Documents 
-* 1.4.1.2 Request Letter for Adviser/Consultant 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.5.1	Hosting   </p>
+* 1.5.1.1	Setting up hosting services
+* 1.5.1.2	Go Live (Sprint 17)
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.2 PROJMAN Week 1-3     </p>
 * 1.4.2.1 Creation of Project Charter 
 * 1.4.2.2 Creation of Business Case 
 * 1.4.2.3 Creation of Stakeholders Management Strategy Plan 
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.3 PROJMAN Week 4-6    </p>
-* 1.4.3.1 Creation of Scope Management Plan 
-* 1.4.3.2 Creation of Cost Management Plan 
-* 1.4.3.3 Creation of Time Management Plan 
-* 1.4.3.4 Creation of Work Breakdown Structure 
-* 1.4.3.5 Creation of Work Packages based on WBS. 
+<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.5.2	Web App Training w/ client </p>
+* 1.5.2.1	Session 1	
+* 1.5.2.2	Session 2
+* 1.5.2.3	Session 3
+* 1.5.2.4	Finalizing Web App Training Session (Sprint 18)
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.4 System Updates    </p>
-* 1.4.4.1 Testing 1
 
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.5 PROJMAN Midterm Evaluation    </p>
-* 1.4.5.1 Submission of PROJMAN Midterm Requirements 
-* 1.4.5.2 PROJMAN Midterm presentation (Sprint 10) 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.6 PROJMAN Week 8-10     </p>
-* 1.4.6.1 Creation of HR Management Plan 
-* 1.4.6.2 Creation of Quality Management Plan 
-* 1.4.6.3 Creation of Risk Management Plan 
-* 1.4.6.4 Creation of Communications Management Plan 
-* 1.4.6.5 Creation of Procurement Management Plan 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.7 PROJMAN Week 11      </p>
-* 1.4.7.1 Creation of Project Status Reports Distribution Plan 
-* 1.4.7.2 Creation of Change Request Documentation 
-* 1.4.7.3 Creation of Project Execution Monitoring Report 
-* 1.4.7.4 Creation of Implementation Plan 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.8 PROJMAN Week 12      </p>
-* 1.4.8.1 Creation of Change Management Plan 
-* 1.4.8.2 Creation of Project Status Reports 
-* 1.4.8.3 Creation of Transition-Out Plan 
-* 1.4.8.4 Creation of Project Turn-Over Plan 
-* 1.4.8.5 Creation of Post Project Review Plan 
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.9 PROJMAN Week 13      </p>
-* 1.4.9.1 Creation of Consolidated Project Plan
-
-<p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.4.10 PROJMAN Final Evaluatio      </p>
-* 1.4.10.1 Submission of PROJMAN Final Requirements 
-* 1.4.10.2 PROJMAN Final presentation (Sprint 11) 
 
 </td>
 </tr>
 
+  
 <tr>
 <td>
 <p style="font-size: 1.17em; font-weight: bold;"> 1.5 CLOSEOUT  </p>
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.5.1 System and documentation handover    </p>
-* 1.5.1.1 System and documentation handover 
+
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.5.2 Gain Formal Acceptance     </p>
-* 1.5.2.1 Gain Formal Acceptance  
+
 
 <p style="font-size: 1.5em; font-weight: bold; margin-top: 0.5em; margin-bottom: 0.5em;"> 1.5.3 Project close-out meeting.     </p>
-* 1.5.3.1 Project close-out meeting. 
-
 
 </td>
 </tr>
