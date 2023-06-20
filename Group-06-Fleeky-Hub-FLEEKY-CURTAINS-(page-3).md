@@ -1697,8 +1697,8 @@ Review the change request log and reports to ensure alignment with changes. </p>
         <br>3. The Project Sponsor reviews and evaluates the change request.
         <br>4. If approved, the Project Manager proceeds with the "Implement Change Request" phase.
         <br>5. If denied, the change request is determined as closed.
-        <br>6. The Change Coordinator, Roselyn Angeles, updates the Change Log and creates a Change Status Report.
-        <br>This change request approval process for Fleeky Curtains ensures that changes are assessed based on their impact on the project. Low impact changes are reviewed and approved/denied by the Project Manager, while high impact changes require approval from the Project Sponsor. The involvement of the Change Coordinator helps maintain proper documentation and transparency throughout the process.
+        <br>6. The Change Coordinator, Neil Albert Garcia, updates the Change Log and creates a Change Status Report.
+        <br><br>This change request approval process for Fleeky Curtains ensures that changes are assessed based on their impact on the project. Low impact changes are reviewed and approved/denied by the Project Manager, while high impact changes require approval from the Project Sponsor. The involvement of the Change Coordinator helps maintain proper documentation and transparency throughout the process.
       </td>
       <td>Approved or denied</td>
     </tr>
@@ -1708,7 +1708,7 @@ Review the change request log and reports to ensure alignment with changes. </p>
       <br>2. The Project Manager creates an action plan outlining the necessary steps and tasks to implement the approved change request.
       <br>3. Once the action plan is finalized, the Project Manager communicates it to the relevant team members and assigns responsibilities accordingly.
       <br>4. The Project Manager ensures that the project plan, budget, and schedule are updated to incorporate the changes introduced by the approved request.
-      <br>5. The Change Coordinator, Roselyn Angeles, updates the Change Log to reflect the implementation progress and creates a Change Status Report to provide an overview of the implemented changes.
+      <br>5. The Change Coordinator, Neil Albert Garcia, updates the Change Log to reflect the implementation progress and creates a Change Status Report to provide an overview of the implemented changes.
       <td>This process ensures that once a change request is approved, the Project Manager takes the necessary steps to implement it effectively. Communication, assignment of responsibilities, and updating project documentation are key aspects of successful change implementation. The involvement of the Change Coordinator helps maintain accurate records of the changes and their status.</td>
       <td>In Progress</td>
     </tr>
