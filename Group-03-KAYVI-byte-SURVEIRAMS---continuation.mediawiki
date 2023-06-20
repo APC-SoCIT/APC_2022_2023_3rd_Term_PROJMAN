@@ -784,7 +784,7 @@ To summarize, the Procurement Management Plan’s objective is to have an effici
 ==15.2 Procurement Risks==
 Procurement in every project is a vital component that should be taken with care because it involves budget in acquiring goods, services or work from external sources.  Having risks in the procurement may negatively impact the development. Therefore, it is an issue that should be addressed to minimize the impact on the project.
    
-The SurveiRams System incorporates procurement processes that entail a number of hazards, including but not exclusive to the following:   
+The SurveiRams System incorporates procurement processes that entail a number of hazards, including but not exclusive to the following:      
   
 * Delivery of services or goods within the project timeline from vendor may result in increased costs.
 * The absence of competition in the market may lead to higher prices or reduced quality of services.
@@ -827,18 +827,17 @@ After identifying the potential procurement risks, it is ideal to plot a strateg
 3.  Assignment of Responsibilities 
 Every person in the team should be given a clear assignment of duties for controlling procurement risks. The procurement manager will be in charge of identifying and evaluating procurement risks for the SurveiRams System, creating risk mitigation plans, and keeping an eye on risk throughout the procurement process.    
 
-Project manager and the team’ s input and feedback on procurement risk management strategies are also valuable and essential. 
+Project manager and the team’ s input and feedback on procurement risk management strategies are also valuable and essential.  
 
 4.  Communication and Reporting  
 Communication and reporting in the process of procurement risk management is valuable. The regular updates on the procurement risks and risks mitigation activities will be provided to the team. Communication within the team may be held using online platforms if necessary.
 
 Moreover, communication plan is developed for the stakeholders to keep informed in any changes or developments made in the procurement risk management.
 
-
 5.  Continuous Improvement  
 To improve future procurement planning and execution, lessons acquired from risk management and procurement operations will be recorded and communicated to the project team. It should be a constant practice to improve procurement risk management.
   
-In order to identify areas for improvement, procurement risk management operations will also be regularly reviewed.      
+In order to identify areas for improvement, procurement risk management operations will also be regularly reviewed.            
  
 ==15.4 Cost Determination==
 Determining costs is a key component of the SurveiRams System procurement process. The team will employ a thorough cost determination procedure to choose providers who are both competent and cost-efficient. As part of the cost estimation process, potential suppliers are asked to submit quotes, proposals, or bids in response to an RFP (Request for Proposal). The team must assess the costs related to the procurement process, such as acquisition, delivery, installation, and maintenance costs. The group will evaluate potential cost overruns as well as suggest measures to reduce them. To promote openness and equity in the selection process, the project team will make cost one of the primary deciding factors.    
@@ -851,7 +850,7 @@ Overall, the procurement management plan's cost determination section will be ex
 The following constraints must be considered as part of the SurveiRams project’s procurement management process:      
 # '''Budget Constraint:''' The project must be completed within a specific budgetary limit. This constraint restricts the team’s flexibility as the project must be aligned with the available financial resources.
 # '''Time Constraint:''' The project must be delivered within a specified timeframe. This constraint limits the development and deployment according to the project schedule, meeting the required deadlines.
-# '''Quality Constraint:''' The project must meet certain quality standards and performance expectations. This constraint limits the team to finding suppliers that meet the quali ty standards needed for the project.
+# '''Quality Constraint:''' The project must meet certain quality standards and performance expectations. This constraint limits the team to finding suppliers that meet the quality standards needed for the project.
 # '''Technical Constraint:''' The project must adhere to specific technical specifications or compatibility requirements. This constraint restricts the team’s performance due to lack of tools, sub-standard equipments and bad quality of goods/tools.
 # '''Security and Compliance Constraint:''' The project must comply with relevant security standards, data protection regulations, and industry-specific compliance requirements. This constraint limits the user confidence in using the application as the system lacks the security standards 
 # '''Scalability Constraint:''' The project must be scalable to accommodate future growth and increased user demand. This restricts the whole project team due to vendors that can’t provide the required goods/tools for the project.
@@ -872,7 +871,7 @@ The contract approval process for the SurveiRams project will follow a systemati
 It's important to note that the contract approval process may vary depending on the organization's specific procedures, hierarchy, and approval authority levels. Therefore, it is advisable to adapt the process to align with your organization's unique requirements and internal policies.
 
 ==15.7 Decision Criteria==
-For the SurveiRams project, the following decision criteria will be used by the contract review board:      
+For the SurveiRams project, the following decision criteria will be used by the contract review board:   
 * '''Technical Expertise:''' The vendor should possess the necessary technical skills and capabilities to successfully complete the project, demonstrating experience in similar projects and expertise in relevant technologies.
 * '''Pricing:''' The vendor's proposed solution should have competitive and reasonable pricing, which will be evaluated based on market research and comparison with other received proposals.
 * '''Timelines:''' The vendor must demonstrate the ability to meet the project's timeline and deliverables, including key milestones and completion dates.
