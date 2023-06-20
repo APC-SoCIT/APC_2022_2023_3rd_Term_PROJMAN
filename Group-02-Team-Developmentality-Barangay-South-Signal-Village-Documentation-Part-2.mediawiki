@@ -172,333 +172,281 @@ The hierarchical structure makes it easy to see how the different components of 
 |-
 ! Level !! WBS Code !! Element Name
 |- 
-| 1 || 1 || Barangay South Signal Village Web App
+1 || 1. || Barangay South Signal Village Web App
 |- 
-| 2 || 1.1 || Planning
+2 || 1.1 || PLANNING
 |- 
-| 3 || 1.1.1 || Project Preparation
+3 || 1.1.1 || Project Preparation
 |- 
-| 4 || 1.1.1.1 || Creation of Project Groups
+4 || 1.1.1.1 || Creation of Project Team
 |- 
-| 4 || 1.1.1.2 || Choose Project/Client
+4 || 1.1.1.2 || Choosing Project Client
 |- 
-| 4 || 1.1.1.3 || Choose Adviser/Consultant
+4 || 1.1.1.3 || 1st meeting w/ Client
+4 || 1.1.1.4 || Choosing Project Adviser/Consultant
 |- 
-| 4 || 1.1.1.4 || Design Thinking 1
+4 || 1.1.1.5 || 1st meeting w/ Adviser
 |- 
-| 3 || 1.1.2 || MNTSDEV Team consultation
+4 || 1.1.1.6 || Kick-off Meeting (Sprint 1)
 |- 
-| 4 || 1.1.2.1 || Team meeting with Project adviser
+3 || 1.1.2 || Project Proposal 
 |- 
-| 4 || 1.1.2.2 || Team meeting with Project Sponsor
+4 || 1.1.2.1 || 2nd meeting w/ Client
 |- 
-| 3 || 1.1.3 || MNTSDEV Creation of Midterm Paper
+4 || 1.1.2.2 || 2nd meeting w/ Adviser
 |- 
-| 4 || 1.1.3.1 || Chapter 1 (Introduction)
+4 || 1.1.2.3 || Initial Creation of Project Proposal
 |- 
-| 4 || 1.1.3.2 || Chapter 2 (RRL/RRS)
+4 || 1.1.2.4 || 3rd meeting w/ Adviser
 |- 
-| 4 || 1.1.3.3 || Chapter 3 (Methodology)
+4 || 1.1.2.5 || 1st meeting w/ Consultant
 |- 
-| 4 || 1.1.3.4 || Chapter 4 (Results and Discussions)
+4 || 1.1.2.6 || Proofreading
 |- 
-| 4 || 1.1.3.5 || Chapter 5 (Conclusion)
+4 || 1.1.2.7 || Initial Project Proposal Evaluation (Sprint 2)
 |- 
-| 4 || 1.1.3.6 || Proofreading
+4 || 1.1.2.8 || Progression of Project Proposal
 |- 
-| 4 || 1.1.3.7 || Creation of presentation deck
+4 || 1.1.2.9 || 4th meeting w/ Adviser
 |- 
-| 3 || 1.1.4 || MNTSDEV Midterm Evaluation
+4 || 1.1.2.10 || Proofreading
 |- 
-| 4 || 1.1.4.1 || Midterm (Sprint1)
+4 || 1.1.2.11 || Final Project Proposal Evaluation (Sprint 3)
 |- 
-| 4 || 1.1.4.2 || Comment Matrix
+3 || 1.1.3 || Creation of Project Management Plans
 |- 
-| 3 || 1.1.5 || Initial Design
+4 || 1.1.3.1 || Project Charter
 |- 
-| 4 || 1.1.5.1 || Initial wireframe
+4 || 1.1.3.2 || Business Case
 |- 
-| 4 || 1.1.5.2 || Initial low-fidelity prototype
+4 || 1.1.3.3 || Stakeholders Management Strategy Plan
 |- 
-| 3 || 1.1.6 || MNTSDEV Progression of Paper/Final Paper
+4 || 1.1.3.4 || Scope Management Plan
 |- 
-| 4 || 1.1.6.1 || Chapter 1 (Introduction)
+4 || 1.1.3.5 || Cost Management Plan
 |- 
-| 4 || 1.1.6.2 || Chapter 2 (RRL/RRS)
+4 || 1.1.3.6 || Time Management Plan
 |- 
-| 4 || 1.1.6.3 || Chapter 3 (Current System)
+4 || 1.1.3.7 || Work Breakdown Structure
 |- 
-| 4 || 1.1.6.4 || Chapter 4 (Proposed System)
+4 || 1.1.3.8 || Work Packages based on WBS.
 |- 
-| 4 || 1.1.6.5 || Chapter 5 (Requirement Analysis)
+4 || 1.1.3.9 || HR Management
 |- 
-| 4 || 1.1.6.6 || Chapter 6 (Conclusion)
+4 || 1.1.3.10 || Quality Management Plan
 |- 
-| 4 || 1.1.6.7 || Proofreading
+4 || 1.1.3.11 || Risk Management Plan
 |- 
-| 4 || 1.1.6.8 || Creation of presentation deck
+4 || 1.1.3.12 || Communications Management Plan
 |- 
-| 4 || 1.1.6.9 || Submission of final Requirements for Final Presentation
+4 || 1.1.3.13 || Procurement Management Plan
 |- 
-| 3 || 1.1.7 || MNSTDEV Finals Evaluation
+4 || 1.1.3.14 || Implementation Plan
 |- 
-| 4 || 1.1.7.1 || Final Presentation (Sprint 2)
+4 || 1.1.3.15 || Change Management Plan
 |- 
-| 4 || 1.1.7.2 || Revision for Comment Matrix and Final Paper
+4 || 1.1.3.16 || Project Management Plan Evaluation (Sprint 4)
 |- 
-| 4 || 1.1.7.3 || Submission of MNSTDEV FINAL Documents
+4 || 1.1.3.17 || Project Management Plan Progression
 |- 
-| 2 || 1.2 || Analysis and Design
+4 || 1.1.3.18 || Finalizing Project Management Plan (Sprint 5)
 |- 
-| 3 || 1.2.1 || MSYADD Project Progression
+2 || 1.2 || ANALYSIS AND DESIGN
 |- 
-| 4 || 1.2.1.1 || Initial analysis for Chapter 5 (Requirement Analysis)
+3 || 1.2.1 || Creation of Initial Prototype
 |- 
-| 4 || 1.2.1.2 || Submission of MNSTDEV final documents
+4 || 1.2.1.1 || Creation of Initial Wireframe
 |- 
-| 4 || 1.2.1.3 || Implementation of GitHub Repository
+4 || 1.2.1.2 || Creation of UI/UX Design
 |- 
-| 4 || 1.2.1.4 || Request letter for Adviser/Consultant
+4 || 1.2.1.3 || Initial Prototype Evaluation (Sprint 6)
 |- 
-| 3 || 1.2.2 || MSYADD Team consultation
+4 || 1.2.1.4 || Prototype Progression
 |- 
-| 4 || 1.2.2.1 || Team meeting with Project adviser
+4 || 1.2.1.5 || Finalization of Initial Prototype (Sprint 7)
 |- 
-| 4 || 1.2.2.2 || Team meeting with Project Sponsor
+3 || 1.2.2 || Creation of Project Diagrams
 |- 
-| 3 || 1.2.3 || MSYADD Individual Deliverables
+4 || 1.2.2.1 || Event Table
 |- 
-| 3 || 1.2.4 || MSYADD Release Plan
+4 || 1.2.2.2 || Use Case Diagram
 |- 
-| 4 || 1.2.4.1 || Release Plan 1.1
+4 || 1.2.2.3 || Use Case Full Description
 |- 
-| 4 || 1.2.4.2 || Release Plan 1.2
+4 || 1.2.2.4 || Data Flow Diagram
 |- 
-| 3 || 1.2.5 || MSYADD Week 3 - Week 4
+4 || 1.2.2.5 || Context Flow Diagram
 |- 
-| 4 || 1.2.5.1 || Event Table
+4 || 1.2.2.6 || ERD
 |- 
-| 4 || 1.2.5.2 || Use Case Diagram
+4 || 1.2.2.7 || 5th meeting w/ Adviser
 |- 
-| 4 || 1.2.5.3 || Use Case Full Description
+4 || 1.2.2.8 || 6th meeting w/ Adviser
 |- 
-| 4 || 1.2.5.4 || Data Flow Diagram
+4 || 1.2.2.9 || Activity Diagram
 |- 
-| 4 || 1.2.5.5 || Context Flow Diagram
+4 || 1.2.2.10 ||  Object Diagram
 |- 
-| 4 || 1.2.5.6 || Entity Relationship Diagram
+4 || 1.2.2.11 ||  Class Diagram
 |- 
-| 3 || 1.2.6 || MSYADD Week 5 - Week 7
+4 || 1.2.2.12 ||  Sequence Diagram
 |- 
-| 4 || 1.2.6.1 || Activity Diagram
+4 || 1.2.2.13 ||  State Machine Diagram
 |- 
-| 4 || 1.2.6.2 || Object Diagram
+4 || 1.2.2.14 ||  3rd meeting w/ Client
 |- 
-| 4 || 1.2.6.3 || Class Diagram
+4 || 1.2.2.15 ||  Package Diagram
 |- 
-| 3 || 1.2.7 || MSYADD Midterm Evaluation
+4 || 1.2.2.16 ||  Deployment Diagram
 |- 
-| 4 || 1.2.7.1 || Pre-midterm Presentation (Sprint 3)
+4 || 1.2.2.17 || Component Diagram
 |- 
-| 4 || 1.2.7.2 || Midterm Presentation (Sprint 4)
+4 || 1.2.2.18 || 7th meeting w/ Adviser
 |- 
-| 4 || 1.2.7.3 || Revision Midterm
+4 || 1.2.2.19 || Project Diagram Evaluation (Sprint 8)
 |- 
-| 3 || 1.2.8 || MSYADD Week 8 - Week 9
+4 || 1.2.2.20 || Project Diagrams Progressions
+|-  
+4 || 1.2.2.21 || Finalization of Project Diagrams (Sprint 9)
 |- 
-| 4 || 1.2.8.1 || Sequence Diagram
+2 || 1.3 || DEVELOPMENT 
 |- 
-| 4 || 1.2.8.2 || State Machine Diagram
+3 || 1.3.1 || Release 1
 |- 
-| 4 || 1.2.8.3 || Package Diagram
+4 || 1.3.1.1 || Main Page Feature
 |- 
-| 4 || 1.2.8.4 || Deployment Diagram
+5 || 1.3.1.1.1 || 1st Team development meeting
 |- 
-| 4 || 1.2.8.5 || Component Diagram
+5 || 1.3.1.1.2 || Creation of Landing Page
 |- 
-| 3 || 1.2.9 || MSYADD Final Evaluation
+5 || 1.3.1.1.3 || Creation of Contact Page
 |- 
-| 4 || 1.2.9.1 || MSYADD Pre-final Presentation (Sprint 5)
+5 || 1.3.1.1.4 || Creation of Safety Section Page
 |- 
-| 4 || 1.2.9.2 || MSYADD Final Presentation (Sprint 6)
+5 || 1.3.1.1.5 || Creation of About Us Page
 |- 
-| 4 || 1.2.9.3 || Revision for Final Paper
+5 || 1.3.1.1.6 || 2nd Team development meeting
 |- 
-| 4 || 1.2.9.4 || Submission of Final Requirements
+4 || 1.3.1.2 || Resident Dashboard
 |- 
-| 2 || 1.3 || DEVELOPMENT
+5 || 1.3.1.2.1 || Creation of Registration Page
 |- 
-| 3 || 1.3.1 || MCSPROJ Project Progression
+5 || 1.3.1.2.2 || Creation of Login Page
 |- 
-| 4 || 1.3.1.1 || Submission of MSYADD Final Documents
+5 || 1.3.1.2.3 || Creation of Resident Dashboard
 |- 
-| 4 || 1.3.1.2 || Request letter for Adviser/Consultant
+5 || 1.3.1.2.4 || 3rd Team development meeting
 |- 
-| 3 || 1.3.2 || MCSPROJ Release Plan
+4 || 1.3.1.3 || Barangay Employee Dashboard
 |- 
-| 4 || 1.3.2.1 || Finalizing Release 1
+5 || 1.3.1.3.1 || Creation of Admin Login Page
 |- 
-| 4 || 1.3.2.2 || Release Plan 2
+5 || 1.3.1.3.2 || Creation of Barangay Administrator Dashboard
 |- 
-| 4 || 1.3.2.3 || Release Plan 3
+5 || 1.3.1.3.3 || Creation of Managing Barangay Employee Account
 |- 
-| 3 || 1.3.3 || MCSPROJ Midterm Deliverables
+5 || 1.3.1.3.4 || Creation of Barangay Employee Dashboards
 |- 
-| 4 || 1.3.3.1 || Creation of Gantt Chart
+4 || 1.3.1.4 || 4th Team development meeting
 |- 
-| 4 || 1.3.3.2 || Creation of WBS
+4 || 1.3.1.5 || 8th Team meeting w/ Adviser
 |- 
-| 4 || 1.3.3.3 || Creation of Activity List
+4 || 1.3.1.6 || Release 1 Evaluation (Sprint 10)
 |- 
-| 4 || 1.3.3.4 || Creation of Project Vision and Scope Progression
+4 || 1.3.1.7 || Release 1 Progression
 |- 
-| 4 || 1.3.3.5 || Creation of Statement of Work Progression
+4 || 1.3.1.8 || Finalizing Release 1 (Sprint 11)
 |- 
-| 4 || 1.3.3.6 || Creation of Project Charter Progression
+3 || 1.3.2 || Release 2
 |- 
-| 4 || 1.3.3.7 || Pre-midterm Presentation (Sprint 7)
+4 || 1.3.2.1 || Requesting Barangay Documents
 |- 
-| 3 || 1.3.4 || MCSPROJ Team consultation
+5 || 1.3.2.1.1 || Creation of functions to request documents.
 |- 
-| 4 || 1.3.4.1 || Team meeting with Project adviser
+5 || 1.3.2.1.2 || Creation of functions to track requested documents.
 |- 
-| 4 || 1.3.4.2 || Team meeting with Project Sponsor
+5 || 1.3.2.1.3 || Creation of functions for notifications
 |- 
-| 3 || 1.3.5 || MCSPROJ Midterm Evaluation
+5 || 1.3.2.1.4 || Creation of functions to manage requested documents.
 |- 
-| 4 || 1.3.5.1 || Submission of Midterm Requirement
+4 || 1.3.2.2 || 4th Team meeting Team meeting w/ Client
 |- 
-| 4 || 1.3.5.2 || MCSPROJ Final Presentation (Sprint 8)
+4 || 1.3.2.3 || Release 2 Evaluation (Sprint 12)
 |- 
-| 3 || 1.3.6 || MCSPROJ Finals Deliverables
+4 || 1.3.2.4 || Release 2 Progression
 |- 
-| 4 || 1.3.6.1 || Creation of Test Case
+4 || 1.3.2.5 || Finalizing Release 2 (Sprint 13)
 |- 
-| 4 || 1.3.6.2 || Creation of Quality Plan
+4 || 1.3.2.6 || 5th Team development meeting
 |- 
-| 4 || 1.3.6.3 || Creation of User Acceptance
+3 || 1.3.3 || Release 3
 |- 
-| 4 || 1.3.6.4 || Creation of Change Management Plan
+4 || 1.3.3.1 || Submitting Concerns
 |- 
-| 4 || 1.3.6.5 || Updating MCSPROJ Final Paper
+5 || 1.3.3.1.1 || Creation of functions to submit concerns.
 |- 
-| 4 || 1.3.6.6 || Creation of Proofreading Endorsement
+5 || 1.3.3.1.2 || Creation of functions to manage concerns.
 |- 
-| 3 || 1.3.7 || MCSPROJ Finals Evaluation
+5 || 1.3.3.1.3 || Creation of functions to track submitted concerns.
 |- 
-| 4 || 1.3.7.1 || Submission of MCSPROJ Final Requirements
+4 || 1.3.3.2 || Manage Web App
 |- 
-| 4 || 1.3.7.2 || MCSPROJ Final Presentation (Sprint 9)
+5 || 1.3.3.2.1 || Generate Report
 |- 
-| 2 || 1.4 || Testing 
+5 || 1.3.3.2.2 || Modify Web App information.
 |- 
-| 3 || 1.4.1 || Unit Testing
+4 || 1.3.3.3 || 5th Team meeting w/ Client
 |- 
-| 4 || 1.4.1.1 || Unit Testing for Release 1
+4 || 1.3.3.4 || Release 3 Evaluation (Sprint 14)
 |- 
-| 4 || 1.4.1.2 || Unit Testing for Release 2
+4 || 1.3.3.5 || Release 3 Progression
 |- 
-| 4 || 1.4.1.3 || Unit Testing for Release 3
+4 || 1.3.3.6 || Finalizing Release 3 (Sprint 15)
 |- 
-| 3 || 1.4.2 || Users Acceptance Test (UI/UX)
+2 || 1.4 || TESTING
 |- 
-| 3 || 1.4.3 || Security Testing
+3 || 1.4.1 || Unit Testing
 |- 
-| 3 || 1.4.4 || Functional Testing
+4 || 1.4.1.1 || Unit Testing for Release 1
 |- 
-| 3 || 1.4.5 || Verified use cases with the client (Sprint 10)
+4 || 1.4.1.2 || Unit Testing for Release 2
 |- 
-| 2 || 1.5 || Implementation
+4 || 1.4.1.3 || Unit Testing for Release 3
 |- 
-| 3 || 1.5.1 || PROJMAN Project Progression
+3 || 1.4.2 || User Acceptance Test 
 |- 
-| 4 || 1.5.1.1 || Submission of MCSPROJ Final Documents
+3 || 1.4.3 || Integration Testing
 |- 
-| 4 || 1.5.1.2 || Request Letter for Adviser/Consultant
+3 || 1.4.4 || Performance Testing
 |- 
-| 3 || 1.5.2 || PROJMAN Week 1-3
+3 || 1.4.5 || Verified use cases with the client (Sprint 16)
 |- 
-| 4 || 1.5.2.1 || Creation of Project Charter
+2 || 1.5 || IMPLEMENTATION
 |- 
-| 4 || 1.5.2.2 || Creation of Business Case
+3 || 1.5.1 || Hosting
 |- 
-| 4 || 1.5.2.3 || Creation of Stakeholders Management Strategy Plan
+4 || 1.5.1.1 || Setting up hosting services
 |- 
-| 3 || 1.5.3 || PROJMAN Week 4-6
+4 || 1.5.1.2 || Go Live (Sprint 17)
 |- 
-| 4 || 1.5.3.1 || Creation of Scope Management Plan
+3 || 1.5.2 || Web App Training w/ client
 |- 
-| 4 || 1.5.3.2 || Creation of Cost Management Plan
+4 || 1.5.2.1 || Session 1
 |- 
-| 4 || 1.5.3.3 || Creation of Time Management Plan
+4 || 1.5.2.2 || Session 2
 |- 
-| 4 || 1.5.3.4 || Creation of Work Breakdown Structure
+4 || 1.5.2.3 || Session 3
 |- 
-| 4 || 1.5.3.5 || Creation of Work Packages based on WBS.
+4 || 1.5.2.4 || Finalizing Web App Training Session (Sprint 18)
 |- 
-| 3 || 1.5.4 || System Updates
+2 || 1.6 || CLOSEOUT
 |- 
-| 4 || 1.5.4.1 || Testing 1
+3 || 1.6.1 || System and documentation handover
 |- 
-| 3 || 1.5.5 || PROJMAN Midterm Evaluation
+3 || 1.6.2 || Gain Formal Acceptance
 |- 
-| 4 || 1.5.5.1 || Submission of PROJMAN Midterm Requirements
-|- 
-| 4 || 1.5.5.2 || PROJMAN Midterm presentation (Sprint 10)
-|- 
-| 3 || 1.5.6 || PROJMAN Week 8-10
-|- 
-| 4 || 1.5.6.1 || Creation of HR Management Plan
-|- 
-| 4 || 1.5.6.2 || Creation of Quality Management Plan
-|- 
-| 4 || 1.5.6.3 || Creation of Risk Management Plan
-|- 
-| 4 || 1.5.6.4 || Creation of Communications Management Plan
-|- 
-| 4 || 1.5.6.5 || Creation of Procurement Management Plan
-|- 
-| 3 || 1.5.7 || PROJMAN Week 11
-|- 
-| 4 || 1.5.7.1 || Creation of Project Status Reports Distribution Plan
-|- 
-| 4 || 1.5.7.2 || Creation of Change Request Documentation
-|- 
-| 4 || 1.5.7.3 || Creation of Project Execution Monitoring Report
-|- 
-| 4 || 1.5.7.4 || Creation of Implementation Plan
-|- 
-| 3 || 1.5.8 || PROJMAN Week 12
-|- 
-| 4 || 1.5.8.1 || Creation of Change Management Plan
-|- 
-| 4 || 1.5.8.2 || Creation of Project Status Reports
-|- 
-| 4 || 1.5.8.3 || Creation of Transition-Out Plan
-|- 
-| 4 || 1.5.8.4 || Creation of Project Turn-Over Plan
-|- 
-| 4 || 1.5.8.5 || Creation of Post Project Review Plan
-|- 
-| 3 || 1.5.9 || PROJMAN Week 13
-|- 
-| 4 || 1.5.9.1 || Creation of Consolidated Project Plan
-|- 
-| 3 || 1.5.10 || PROJMAN Final Evaluation
-|- 
-| 4 || 1.5.10.1 || Submission of PROJMAN Final Requirements
-|- 
-| 4 || 1.5.10.2 || PROJMAN Final presentation (Sprint 11)
-|- 
-| 2 || 1.6 || Closeout
-|- 
-| 3 || 1.6.1 || System and documentation handover
-|- 
-| 3 || 1.6.2 || Gain Formal Acceptance
-|- 
-| 3 || 1.6.3 || Project close out meeting
+3 || 1.6.3 || Project close out meeting (Sprint 19)
 |}
-
 
 
 ==10.4 Tabular View ==
