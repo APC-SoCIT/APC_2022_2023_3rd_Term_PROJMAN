@@ -1582,7 +1582,7 @@ By having a dedicated Change Control Board, the Fleeky Curtains project can effe
         <td>Direct contact of the project sponsor also decides for the group. Submit change requests when deemed necessary. Examine the change request log and associated reports to ensure consistency with alterations.</td>
       </tr>
       <tr>
-        <td>Bryan Gel Fabellore and Joshua Timothy Roxas</td>
+        <td>Bryan Gel Fabellore & Joshua Timothy Roxas</td>
         <td>Development Team</td>
         <td>Execute the technical aspect of the change request action plan. Review the change request log and reports to ensure alignment with changes.</td>
       </tr>
@@ -1673,70 +1673,56 @@ Review the change request log and reports to ensure alignment with changes. </p>
       <td>Submitted</td>
     </tr>
     <tr>
-      <td>Analyze Impact of the Change Request</td>
+      <td>Evaluation of change request</td>
       <td>
-        1. After receiving the request, the Project Manager will assess the impact of the change request, whether it’s high or low, based on the scope, schedule, budget, quality and then determine the required action to implement. 
-        <br>2. If the impact is high, the Project Manager will then prepare a recommendation to approve or deny the change request based on the findings made during impact analysis. The Project Sponsor will then review the change request, the project manager’s impact analysis and recommendation. 
+        1. After receiving the request, the Project Manager will assess the impact of the change request, whether it’s high or low, based on the scope, schedule, budget, and quality and then determine the required action to implement. 
+        <br>2. If the impact is high, the Project Manager will then prepare a recommendation to approve or deny the change request based on the findings made during impact analysis. The Project Sponsor will then review the change request, the project manager’s, impact analysis and recommendation. If the impact is low, the Project Manager can decide to approve or deny the change request.
         <br>If the impact is low, the Project Manager can decide to approve or deny the change request. 
         <br>3. The Change Coordinator will update the Change Log and create a Change Status Report.
       </td>
       <td>In Review</td>
     </tr>
     <tr>
-      <td>Approve or Deny Change Request</td>
+      <td>Decision of Change Request</td>
       <td>Approval of the change request depends on the impact it has on the project:
-        <br><br>Low Impact:
-        <br>If the change request is low, the Project Manager has the authority to approve or deny the request. If approved, the Project Manager will proceed with the "Implement Change Request" phase. If denied, the change request is determined as closed. The Change Coordinator will update the Change Log and create a Change Status Report.
-        <br><br>High Impact:
-        <br>If the change request is high, the Project Sponsor has the sole authority to approve or deny the request. If approved, the Project Manager will proceed with the "Implement Change Request" phase. If denied, the change request is determined as closed. The Change Coordinator will update the Change Log and create a Change Status Report.
+        <br><br>Low Impact Change Request:
+        <br>1. The Project Manager, Pallas Fontiveros, has the authority to approve or deny the request.
+        <br>2. If the change request is deemed low impact, Pallas Fontiveros reviews and evaluates it.
+        <br>3. If approved, Pallas Fontiveros proceeds with the "Implement Change Request" phase.
+        <br>4. If denied, the change request is determined as closed.
+        <br>5. The Change Coordinator, Neil Albert Garcia, updates the Change Log and creates a Change Status Report.
+        <br><br>High Impact Change Request:
+        <br>1. The Project Sponsor, Mitzi Hannah Garcia, has the sole authority to approve or deny the request.
+        <br>2. If the change request is deemed high impact, it is escalated to the Project Sponsor.
+        <br>3. The Project Sponsor reviews and evaluates the change request.
+        <br>4. If approved, the Project Manager proceeds with the "Implement Change Request" phase.
+        <br>5. If denied, the change request is determined as closed.
+        <br>6. The Change Coordinator, Roselyn Angeles, updates the Change Log and creates a Change Status Report.
+        <br>This change request approval process for Fleeky Curtains ensures that changes are assessed based on their impact on the project. Low impact changes are reviewed and approved/denied by the Project Manager, while high impact changes require approval from the Project Sponsor. The involvement of the Change Coordinator helps maintain proper documentation and transparency throughout the process.
       </td>
       <td>Approved or denied</td>
     </tr>
   <tr>
-      <td>Change request submittal</td>
-      <td>1. The Requestor fills out and submits the change request form to initiate the request. If the requestor is unaware of how to properly fill out the form, the Project Manager will orient the requestor in completing the Change Request.</td>
-      <td>Submitted</td>
-    </tr>
-    <tr>
-      <td>Analyze Impact of the Change Request</td>
-      <td>
-        1. After receiving the request, the Project Manager will assess the impact of the change request, whether it’s high or low, based on the scope, schedule, budget, quality and then determine the required action to implement. 
-        <br>2. If the impact is high, the Project Manager will then prepare a recommendation to approve or deny the change request based on the findings made during impact analysis. The Project Sponsor will then review the change request, the project manager’s impact analysis and recommendation. 
-        <br>If the impact is low, the Project Manager can decide to approve or deny the change request. 
-        <br>3. The Change Coordinator will update the Change Log and create a Change Status Report.
-      </td>
-      <td>In Review</td>
-    </tr>
-    <tr>
-      <td>Approve or Deny Change Request</td>
-      <td>Approval of the change request depends on the impact it has on the project:
-        <br><br>Low Impact:
-        <br>If the change request is low, the Project Manager has the authority to approve or deny the request. If approved, the Project Manager will proceed with the "Implement Change Request" phase. If denied, the change request is determined as closed. The Change Coordinator will update the Change Log and create a Change Status Report.
-        <br><br>High Impact:
-        <br>If the change request is high, the Project Sponsor has the sole authority to approve or deny the request. If approved, the Project Manager will proceed with the "Implement Change Request" phase. If denied, the change request is determined as closed. The Change Coordinator will update the Change Log and create a Change Status Report.
-      </td>
-      <td>Approved or denied</td>
-    </tr>
-    <tr>
-      <td>Implement Change Request</td>
-      <td>
-        1. After the change log is updated to "Approved", the Project Manager will create an action plan to implement the change request.
-        <br>2. Once the action plan is finalized, the Project Manager will communicate the action plan and assign responsibilities to the team involved.
-        <br>3. The Project Manager then updates the project plan, budget, and schedule as needed.
-        <br>4. The Change Coordinator will update the Change Log and create a Change Status Report.
-      </td>
+      <td>Implementation of Change Request</td>
+      <br><br>1. After the change log is updated to "Approved," the Project Manager, Pallas Fontiveros, takes charge of implementing the change request.
+      <br>2. The Project Manager creates an action plan outlining the necessary steps and tasks to implement the approved change request.
+      <br>3. Once the action plan is finalized, the Project Manager communicates it to the relevant team members and assigns responsibilities accordingly.
+      <br>4. The Project Manager ensures that the project plan, budget, and schedule are updated to incorporate the changes introduced by the approved request.
+      <br>5. The Change Coordinator, Roselyn Angeles, updates the Change Log to reflect the implementation progress and creates a Change Status Report to provide an overview of the implemented changes.
+      <td>This process ensures that once a change request is approved, the Project Manager takes the necessary steps to implement it effectively. Communication, assignment of responsibilities, and updating project documentation are key aspects of successful change implementation. The involvement of the Change Coordinator helps maintain accurate records of the changes and their status.</td>
       <td>In Progress</td>
     </tr>
     <tr>
-      <td>Verify Implementation of Change Request</td>
-      <td>Project Manager verifies that the change has been implemented and reports to the Change Control Board.
-        <br>The Change Coordinator will update the Change Log and create a Change Status Report.
+      <td>Closing</td>
+      <td>
+        1. Project Manager verifies that the change has been implemented and reports to the Change Control Board.
+        <br>2. The Change Coordinator will update the Change Log and create a Change Status Report.
       </td>
       <td>Verifying</td>
     </tr>
     <tr>
       <td>Change Request Closure</td>
-      <td>1. The Change Coordinator will send out the final Change Status Report across the team and stakeholders.</td>
+      <td>The Change Coordinator will send out the final Change Status Report across the team and stakeholders.</td>
       <td>Closed</td>
     </tr>
   </table>
