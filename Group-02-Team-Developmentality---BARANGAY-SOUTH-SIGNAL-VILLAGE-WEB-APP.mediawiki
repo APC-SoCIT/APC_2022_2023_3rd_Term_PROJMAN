@@ -1492,7 +1492,7 @@ Team Developmentality will utilize the Software Development Life Cycle (SDLC) th
 * '''B. Schedule Milestones''' <br> The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined, this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager. 
    
 
-<table border="1" width="70%" align="center">
+<table border="1" width="85%" align="center">
 	<tr>
 		<td bgcolor="lightblue" colspan="2"><p style="text-align:center;">'''Summary Milestone Schedule - List key project milestones relative to project start.'''</p></td>
                 
@@ -1504,29 +1504,103 @@ Team Developmentality will utilize the Software Development Life Cycle (SDLC) th
 	</tr>
 <tr>
 		<td bgcolor=""><p style="text-align:center;">'''Project Start'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">03/30/2022 )</p></td>
+                <td bgcolor=""><p style="text-align:center;">03/30/2022</p></td>
 	</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Planning'''<br>- Midterm Presentation (Sprint 1)<br>- Final Presentation (Sprint 2)</p></td>
-                <td bgcolor=""><p style="text-align:center;"><br>03/05/2022<br>04/06/2022</p></td>
+		<td bgcolor=""><p style="text-align:justify;">'''Planning'''
+		<br>-	Kick-off Meeting (Sprint 1) <br>-	Initial Project Proposal Evaluation (Sprint 2)
+		<br>-	Final Project Proposal Evaluation (Sprint 3)<br>-	Project Management Plan Evaluation (Sprint 4)
+		<br>-	Finalizing Project Management Plan (Sprint 5)
+		</p>
+		</td>
+		<td bgcolor=""><p style="text-align:center;">
+		  <br>4/14/2022
+		  <br>5/17/2022
+		  <br>6/20/2022
+		  <br>9/14/2022
+		  <br>10/26/2022
+		  </p>
+		  </td>
 	</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Analysis and Design'''<br>- Pre-midterm presentation (Sprint 3)<br>- Midterm Presentation (Sprint 4)<br>- Final Requirement (Sprint 5)<br>- Pre-final Presentation (Sprint 5)<br>- Final Presentation (Sprint 6)</p></td>
-                <td bgcolor=""><p style="text-align:center;"><br>09/23/2022<br>09/28/2022<br>10/03/2022<br>10/28/2022<br>11/02/2022</p></td>
+		<td bgcolor=""><p style="text-align:justify;">'''Analysis and Design'''
+		<br>-	Initial Prototype Evaluation (Sprint 6)
+		<br>-	Finalization of Initial Prototype (Sprint 7)
+		<br>-	Project Diagram Evaluation (Sprint 8)
+		<br>-	Finalization of Project Diagrams (Sprint 9)
+		</p>
+		</td>
+		<td bgcolor="">
+		  <p style="text-align:center;">
+		    <br>12/23/2022
+		    <br>12/16/2022
+		    <br>1/16/2023
+		    <br>1/20/2023
+		    </p>
+		    </td>
 	</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Development'''<br>- Initial Release 1 Prototype<br>- Release 2<br>- Release 3<br>- Pre-midterm Presentation (Sprint 7)<br>- Midterm Presentation (Sprint 8)<br>Final Presentation (Sprint 9)</p></td>
-                <td bgcolor=""><p style="text-align:center;"><br>08/22/2022<br>08/28/2022<br>01/12/2023<br>01/09/2023<br>01/09/2023<br>03/03/2023</p></td>
+		<td bgcolor="">
+		  <p style="text-align:justify;">'''Development'''
+		  <br>-	Release 1 Evaluation (Sprint 10)
+		  <br>-	Finalizing Release 1 (Sprint 11)
+		  <br>-	Release 2 Evaluation (Sprint 12)
+		  <br>-	Finalizing Release 2 (Sprint 13)
+		  <br>-	Release 3 Evaluation (Sprint 14)
+		  <br>-	Finalizing Release 3 (Sprint 15)
+		  </p>
+		</td>
+		<td bgcolor="">
+		  <p style="text-align:center;">
+		    <br>5/12/2023
+		    <br>6/12/2023
+		    <br>8/7/2023
+		    <br>8/22/2023
+		    <br>9/26/2023
+		    <br>10/4/2023
+		    </p>
+		</td>
 	</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Implementation'''<br>- Midterm Presentation (Sprint 10)<br>- Final Presentation (Sprint 11)</p></td>
-                <td bgcolor=""><p style="text-align:center;"><br>05/04/2023<br>06/26/2023</p></td>
+		<td bgcolor="">
+		  <p style="text-align:justify;">'''Testing'''
+		  <br>-	Verified use cases with the client (Sprint 16)
+		  </p>
+		  </td>
+		  <td bgcolor="">
+		    <p style="text-align:center;">
+		      <br>10/27/23
+		      </p>
+		  </td>
 	</tr>
+	
+	<tr>
+		<td bgcolor="">
+		  <p style="text-align:justify;">'''IMPLEMENTATION'''
+		  <br>-	Go Live (Sprint 17)
+		  <br>-	Finalizing Web App Training Session (Sprint 18)
+		  </p>
+		  </td>
+		  <td bgcolor="">
+		    <p style="text-align:center;">
+		      <br>11/2/2023
+		      <br>11/27/2023
+		      </p>
+		  </td>
+	</tr>
+	
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Close-out'''<br>- System and Documentation Handover<br>- Gain Formal Acceptance<br>Project Close out meeting</p></td>
-                <td bgcolor=""><p style="text-align:center;"><br>06/05/2023<br>06/13/2023<br>06/25/2023</p></td>
+		<td bgcolor=""><p style="text-align:justify;">'''Close-out'''
+		<br>Project Close out meeting</p>
+		</td>
+		<td bgcolor="">
+		  <p style="text-align:center;">
+		    <br>11/30/2023
+		    </p>
+		    </td>
 	</tr>
 </table>
+
 
 
 ==9.3 Schedule Control==
