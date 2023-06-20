@@ -91,10 +91,10 @@
 <p>Once the project has been implemented, this will by leading to more customer interaction with their business as the online store will add credibility and improve the customer’s online experience and it will also lead to more sales as more orders can be processed at a time with the help of the ordering system. </p> 
 <p>The client will manage and monitor the project's final state, which will run smoothly as they continue to incorporate their products online and meet customer needs faster and more conveniently. </p>
 
-==1.1 Recommendation==
+==Recommendation==
 <p>The team addresses the business problem by creating a system or an ordering system that will help the business improve. In a matter of time and the client's decision, the system may be upgraded, and more features could be added apart from the general features that are needed for the first deployment of the system. This system will be beneficial to the Villamin Wood and Iron Works business with the use of mobile devices or web browsers, customers will be able to quickly access well-organized item listings, increasing convenience for both companies and customers. Also, this system contains example designs of the items and customers will be able to customize their design that was given by the business. This eliminates the need for customers to physically visit the store, and transactions can be done online to save time and effort instead of having to go into the business physically. </p>
 
-==1.2 Justification==
+==Justification==
 <p>Applying the system created for Villamin Wood and Iron Works will increase the possibility of expanding their customer reach and increasing product sales in comparison to their initial use of the Facebook Page. This ordering system will help customers order their desired products even when they are at home or at their workplace. It will provide easy communication between the customer and the client, and an easy transaction for the products or items, this will help Villamin Wood and Iron Works gain more customers and increase their sales continuously without errors or problems. However, this system will not replace their initial page on Facebook, but rather it will help the system to be more advertised and seen by other potential customers. </p>
 
 ==Business Case Analysis Team==
@@ -131,12 +131,12 @@
  </tr>
  </table><br/>
 
-==3 Problem Definition==
-===3.1 Problem Statement===
+==Problem Definition==
+==Problem Statement==
 <p>The project’s business client, Villamin Wood, and Iron Works, owned by Mr. Manuel Villamin Jr. is a manufacturing enterprise where products are made to order. The company has been operational since 1983, in its span, the company’s estimated profit is 600,000 per year. The problem started when the lockdown happened due to the pandemic, and the company did not anticipate that its profit would decrease by 30%. Since then, they started to use and create their own Facebook page to help increase their clientele. </p>
 <p> However, Villamin Wood and Iron Works’ Facebook page became outdated, and not knowing how to create an advertisement and how to improve their page to help them market the company to customers, other competitors covered their page.</p>
 
-===3.2 Organizational Impact===
+==Organizational Impact==
 <p>There are no new roles required for this project. But existing roles will have to tend for the project to work as intended. The following are the existing roles and their responsibilities:</p>
 
 # Store Manager
@@ -150,51 +150,51 @@
 #* Managing the System’s Database.
 #* Monitor business performance through Dashboard Reports.
 
-===3.3 Technology Migration===
-<p>Villamin Wood and Iron Works operate in Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally into PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a form for the client to fill out if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided sixteen of their product lists that have been then migrated to the system manually in preparation for the initial deployment. </p>
+==Technology Migration==
+<p>Villamin Wood and Iron Works operate in Paper and Pen when documenting their sales and list of goods. The System Proposed by MLNSD will transition their current operations digitally into PHP and SQL. In the process, the team will continuously coordinate with the client to achieve the output desired. In line with coordinating with the client, the team created a Form for the client to fill out if they have concerns, and if there are any details for the team. An interface is prepared in the system for the client to import new products. This will enable them to modify the product listing displayed independently. As of May 2023, the client has provided sixteen of their product lists that have been then migrated to the system manually in preparation for the initial deployment. </p>
 
-==4 Project Overview==
-<p> The project created for Villamin Wood and Iron Works upon their request is an ordering system to help improve their current business process which is why the team developed an ordering system. The goals and objectives of this project are to boost the number of customers and improve the time it takes for transactions to be completed.  </p>
+==Project Overview==
+<p> The project created for Villamin Wood and Iron Works upon their request is an ordering system to help improve their current business process which is why the team developed an ordering system. Part of the goals and objectives of this project is to boost the number of customers and improve the time it takes for transactions to be completed. </p>
 
 <p>As the project progresses there will be a list of project assumptions, constraints, and milestones along the way. However, the preliminary list which the team will build upon is provided below. </p>
 
-===4.1 Project Description===
-<p>The project which is an Ordering System will consist of features created to benefit both the client and their customers will be implemented to address the business problems of the client. Utilizing the features of the online store will help to solve business problems. </p>
+==Project Description==
+<p>The project which is an Ordering System will consist of features created to benefit both the client and their customers and will be implemented to address the business problems of the client. Utilizing the features of the online store will help to solve business problems. </p>
 
 <p>The key features are as follows: </p>
 
-# <b>Ordering System </b>– To provide a convenient and faster way to process and create orders.
-# <b>Customer Sign-up/Log-in </b>– To have accounts that can interact with the online store.
-# <b>Admin Dashboard </b>– To be able to monitor the sales and inventory.
+# <b>Ordering System -</b> To provide a convenient and faster way to process and create orders.
+# <b>Customer Sign-up/Log-in- </b>To have accounts that can interact with the online store.
+# <b>Admin Dashboard -</b>To be able to monitor the sales and inventory.
 
-===4.2 Goals and Objectives===
+==Goals and Objectives==
 <p>The business goals and objectives supported by the project created by MLNSD are prominently observed as requested by the client (Villamin Wood and Iron Works) which is to boost the number of customers and to increase sales with the help of an online store. The project addresses those objectives by developing the online store with an ordering system and having the ability to manage stocks and views reports on the dashboard. Listed below are the specific objectives of the project: </p>
 
 # To boost the number of customers by creating a convenient alternative for their Facebook page through our systems which minimize the amount of clicks it takes to order by two clicks.
 # To create features for the system such as the add-to-cart and check-out feature which will improve the time it takes for transactions to complete from the previous 2-3 days and now can be accomplished within 1-2 days.
 
-===4.3 Project Performance===
+==Project Performance==
 <p>A quantitative criterion to gauge the project's performance will be used to assess its success. The following criteria will be used to gauge the project's success using KPI: </p>
 
-# Budget Plan </b>– The team will look for inefficiency and waste to guarantee quality control in project management procedures. They will also monitor the construction of the project to ensure that the budget will not exceed.
-# Milestones </b>– The team will track project progress to make sure the project is going according to plan and schedule for the project development.
-# Productivity </b>– The productivity of the team will be monitored while they conduct their tasks and responsibilities and monitor the progress of the assigned work.
-# Team Satisfaction </b>– The team will make sure that every team member increases productivity and does their work satisfactorily.
-# Client satisfaction </b>– The team will offer a Client Satisfaction Survey evaluation to gauge the project's effectiveness and efficiency.
+# Budget Plan - </b>The team will look for inefficiency and waste to guarantee quality control in project management procedures. They will also monitor the construction of the project to ensure that the budget will not exceed.
+# Milestones - </b> The team will track project progress to make sure the project is going according to plan and schedule for the project development.
+# Productivity - </b> The productivity of the team will be monitored while they conduct their tasks and responsibilities and monitor the progress of the assigned work.
+# Team Satisfaction - </b>The team will make sure that every team member increases productivity and does their work satisfactorily.
+# Client satisfaction -</b> The team will offer a Client Satisfaction Survey evaluation to gauge the project's effectiveness and efficiency.
 
-===4.4 Project Assumptions===
+==Project Assumptions==
 # There will be communication between the team and the company if there are complications occur upon deployment.
 # The business and the team will discuss any additional resources.
 # Additional features or changes will be added depending on the discussion and agreement between the team and the client.
 
-===4.5 Project Constraints===
+==Project Constraints==
 <p>These are the following constraints pertain to Villamin Wood and Iron Works: </p>
 
 # It is necessary to purchase if there are any additional requirements within the allocated budget and time limit. The group will guarantee to effectively accomplish the targets to meet the undertaking goals, and the group will guarantee to effectively accomplish the requirements.
 # The software that will be used is necessary to be compatible with our IT platforms.
 # To avoid conflict, any additional requirements should be discussed prior to the deadline.
 
-===4.6 Major Project Milestones===
+==Major Project Milestones==
 <p>According to the milestone schedule below, the project plan will be submitted and approved. After the project plan is approved, resources will be assigned to it. Any schedule adjustments that may affect milestones must be approved by the Project Sponsor. The project plan will include a thorough schedule. </p>
 
 <table border="1" width="70%" align="center">
@@ -276,7 +276,7 @@
  </tr>
 </table>
 
-==5.Strategic Alignment==
+==5Strategic Alignment==
 <p>By ensuring that the Ordering System is in line with Villamin Wood and Iron Work's strategic goals and objectives, the team MLNSD will optimize the project's value and guarantee its contribution to the company's long-term success. </p>
 
 <p><b>Villamin Wood and Iron Works aims to deliver superior craftsmanship and innovative solutions in the fields of woodwork, ironworks, glass fabrication, and aluminum works.</b></p>
@@ -291,7 +291,7 @@
 
 : By aligning the ordering system with the strategic goals of the company of becoming the preferred choice for premium manufacturing services, the ordering system will enhance the overall customer experience by allowing customers to easily navigate through the process. Incorporate features such as real-time order tracking and customization. Lastly, by improving operational efficiency optimize the workflow and automate processes within the ordering system to minimize errors, reduce lead times, and improve overall operational efficiency.
 
-==6.Cost Benefit Analysis==
+==Cost Benefit Analysis==
 <p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those customers purchased a product, we could safely say that there will be a 50% increase in sales. This table is not final, and this is introduced for the client’s approval: </p>
 
 <table border="1" width="100%" allign="center">
@@ -318,7 +318,7 @@
 </tbody>
 </table>
 
-==7. Alternatives Analysis==
+==Alternatives Analysis==
 <p>There are other alternatives that the team has put into consideration for the Business's concern. Listed are those alternative solutions alongside with why the team did not lean towards it: </p>
 
 # Focus on the current business process.
@@ -335,10 +335,10 @@
 <p>Since 1983, our company, Villamin Wood & Iron Works, has proven the durability of its products. But they lack customer reach and sales. Due to that problem, Villamin Wood & Iron Works System has been created to help reach out to more customers, not only through on-shop but also online, which will also help increase the company’s sales. The project is being created as a solution and in line with the current ordering system to accomplish both the customer's and company’s needs. </p>
 
 ==Project Purpose/Justification==
-===Business Need===
+==Business Need==
 <p>The Villamin Wood & Iron Works System has been created to help the company increase its sales and customer reach to take back the loss in income from the sudden temporary closing of the shop due to the pandemic. Also, to enhance the convenience of their customers. In this approach, it will eliminate unnecessary expenses for the company. The cost to make the system successful will be covered by the company owner, and recovered by the system's anticipated results. </p>
 
-===Business Objectives===
+==Business Objectives==
 # Strengthen customer service.
 #* Develop goals that motivate them and ensure that our customers and clients have a positive experience with our services. And emphasize the importance of providing an exceptional customer experience every time we connect with our customers and clients.
 # Selling a more reliable product.
@@ -347,14 +347,14 @@
 ==Project Description==
 <p>The Villamin Wood & Iron Works System will support the increase in the company’s sales and customer reach. The system will provide easy navigation and transaction to avoid complications while customers are using the system. The system will be an additional tool from the company’s current platform to attain its objectives while allowing customers to browse and process orders easily. </p>
 
-===Project Objectives and Success Criteria===
-====Constraints====
+==Project Objectives and Success Criteria==
+==Constraints==
 <p>These are the following constraints pertain to Villamin Wood and Iron works: </p>
 # It is necessary to purchase if there are any additional requirements within the allocated budget and time limit.
 # The stakeholder will provide the necessary information for the project.
 # The software to be used must be suitable for our IT (Information Technology) platforms.
 
-====Assumptions====
+==Assumptions==
 # There will be communication between the team and the company if there are complications occur upon deployment. </ul>
 # If there are more resources, the company and the team will discuss them. </ul>
 
@@ -426,7 +426,7 @@
 
 ==Project Technical Approach==
 <p>Our technological approach for Villamin Wood and Iron Works System is based on a thorough understanding of the project requirements and constraints. Our team will use an agile product development methodology to assure the on-time delivery of a high-quality solution that fulfills the client's expectations.</p>
-===Product Development Methodology===
+==Product Development Methodology==
 <p>Our product management strategy is based on an agile project management framework. We will use an agile approach to allow for quick iterations and ongoing feedback from stakeholders, as well as to ensure that the project is completed on time and within budget.</p>
 <p>The steps in the methodology are as follows:</p>
 # Project Initiation
@@ -472,12 +472,14 @@
   <td><p style="text-align:left;">mtaspeli@student.apc.edu.ph</p></td>
  </tr>
  <tr>
-  <td><p style="text-align:left;">Leigh Curtis Camara</p></td>
-  <td><p style="text-align:left;">Team Leader</p></td>
+  <td><p style="text-align:left;">Sofia Emmanuelle Villamin</p></td>
+  <td><p style="text-align:left;">Product Owner</p></td>
   <td><p style="text-align:center;">H</p></td>
-  <td><p style="text-align:left;">Timely updates on project progress</p></td>
-  <td><p style="text-align:left;">Delegate tasks and set deadlines</p></td>
-  <td><p style="text-align:left;">lbcamara2@student.apc.edu.ph</p></td>
+  <td><p style="text-align:left;">Achieve a successful product delivery, it's important to comprehend the needs and preferences of the team, communicate clearly with them, manage their expectations, and consider their comments. </p></td>
+  <td><p style="text-align:left;">Provides resources and support for the project</p></td>
+  <td><p style="text-align:left;">srvillamin@student.
+apc.edu.ph
+</p></td>
  </tr>
  <tr>
   <td><p style="text-align:left;">Sofia Emmanuelle Villamin</p></td>
@@ -491,25 +493,27 @@
   <td><p style="text-align:left;">Nathaniel Sison</p></td>
   <td><p style="text-align:left;">Team Developer</p></td>
   <td><p style="text-align:center;">H</p></td>
-  <td><p style="text-align:left;">Obtain project requirement and client’s demand</p></td>
+  <td><p style="text-align:left;">Comprehending the roles and responsibilities, actively seeking out the team and the client’s opinions and suggestions, and working together with them to make sure the project is developed and delivered successfully.</p></td>
   <td><p style="text-align:left;">Consult with team leader and stakeholder to execute suitable requisite. </p> 
   </td>
   <td><p style="text-align:left;">nmsison@student.apc.edu.ph</p></td>
  </tr>
  <tr>
   <td><p style="text-align:left;">Dale Joshua Domingo</p></td>
-  <td><p style="text-align:left;">Team Secretary</p></td>
+  <td><p style="text-align:left;">Product Tester</p></td>
   <td><p style="text-align:center;">L</p></td>
-  <td><p style="text-align:left;">Detailed records of problems that appear during testing</p></td>
-  <td><p style="text-align:left;">Facilitate and schedule team meetings</p></td>
+  <td><p style="text-align:left;">To ensure a high-quality product that fulfills the client’s expectations, stakeholders must work together to understand their requirements, collect feedback, effectively communicate problems and improvements, and understand the stakeholders' needs.</p></td>
+  <td><p style="text-align:left;">Provide feedbacks and insights about the product, and report errors that may occur while testing.</p></td>
   <td><p style="text-align:left;">dbdomingo@student.apc.edu.ph</p></td>
  </tr>
  <tr>
   <td><p style="text-align:left;">Ludwig Marco Angeles</p></td>
-  <td><p style="text-align:left;">Team Secretary Support</p></td>
-  <td><p style="text-align:center;">L</p></td>
-  <td><p style="text-align:left;"> Observe or participate in product testing</p></td>
-  <td><p style="text-align:left;">Write and provide observation on product testing</p></td>
+  <td><p style="text-align:left;">Quality Assurance</p></td>
+  <td><p style="text-align:center;">H</p></td>
+  <td><p style="text-align:left;">Create a high-quality product that fulfills expectations, actively working to develop quality standards and criteria, and ensuring good communication and coordination throughout the project.</p></td>
+  <td><p style="text-align:left;">Delegate tasks and set deadlines,
+write and provide observation on product testing.
+</p></td>
   <td><p style="text-align:left;">ltangeles@student.apc.edu.ph</p></td>
  </tr>
 </table>
@@ -525,47 +529,36 @@
  <tr>
   <td><p style="text-align:left;">Mabelle Aspeli</p></td>
   <td><p style="text-align:left;">Project Manager</p></td>
-  <td><p style="text-align:center;">Principal responsible party for the project's accomplishment. Work plan, 
-  resource allocation, risk management, scope change management, milestones monitoring, and project status 
-  communication with all stakeholders. </p></td>
+  <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors the work of the team members. </p></td>
   <td><p style="text-align:left;">Notifies the Team Leader of any escalating risks, problems, or personnel 
   difficulties. </p></td>
  </tr>
  <tr>
-  <td><p style="text-align:left;">Leigh Curtis Camara</p></td>
-  <td><p style="text-align:left;">Team Leader</p></td>
-  <td><p style="text-align:center;">A person who leads, oversees, and manages a team of workers to accomplish 
-  objectives that advance the organization. </p></td>
-  <td><p style="text-align:left;">Authority to handle challenges, risk, and conflicts. </p></td>
+  <td><p style="text-align:left;">Leigh Curtis Camara & Ludwig Marco Angeles</p></td>
+  <td><p style="text-align:left;">Quality Assurance</p></td>
+  <td><p style="text-align:center;">Ensures that the entire project deliverables and product are consistently meeting its quality standards. Ensure that the overall quality of the product and deliverables are met by establishing quality criteria, and development processes, and implementing corrective actions. 
+
+ </p></td>
+  <td><p style="text-align:left;">Authority to handle challenges, risk, and conflicts. Ensures that products and deliverables fulfill its quality standards.</p></td>
  </tr>
  <tr>
   <td><p style="text-align:left;">Sofia Emmanuelle Villamin</p></td>
-  <td><p style="text-align:left;">Project Stakeholder</p></td>
-  <td><p style="text-align:center;">A person who is responsible for facilitating the project's success and 
-  provides resources and support. </p></td>
-  <td><p style="text-align:left;">Aim to remove eliminate barriers and approves the final plan. </p></td>
+  <td><p style="text-align:left;">Product Owner</p></td>
+  <td><p style="text-align:center;">Responsible of representing the interests of the stakeholders, working with the development team, and making sure the product satisfies consumer needs and accomplishes business objectives. </p></td>
+  <td><p style="text-align:left;">Aim to remove and eliminate barriers and approves the final plan. </p></td>
  </tr>
  <tr>
   <td><p style="text-align:left;">Nathaniel Sison</p></td>
   <td><p style="text-align:left;">Team Developer</p></td>
-  <td><p style="text-align:center;">A person in charge of organizing a functional or technical area's work. 
+  <td><p style="text-align:center;">Responsible to convert conceptual designs and specifications into useful software programs. They must write clear, effective, and well-documented code, perform unit tests to ensure functionality, and debug and fix software bugs.
   </p></td>
-  <td><p style="text-align:left;">Emulate client's demand and develops the project. </p></td>
+  <td><p style="text-align:left;">Emulate client's demand and develops the project. Work closely with product owner and project manager.</p></td>
  </tr>
  <tr>
   <td><p style="text-align:left;">Dale Joshua Domingo</p></td>
-  <td><p style="text-align:left;">Team Secretary</p></td>
-  <td><p style="text-align:center;">A person in the position of setting up meetings, managing paperwork, and 
-  replying to communications. </p></td>
-  <td><p style="text-align:left;">Maintains the team's efficiency and organization. </p></td>
- </tr>
- <tr>
-  <td><p style="text-align:left;">Ludwig Marco Angeles</p></td>
-  <td><p style="text-align:left;">Team Secretary Support</p></td>
-  <td><p style="text-align:center;">A person who is in control of carrying out project duties to 
-  meet its goals. </p></td>
-  <td><p style="text-align:left;">Updates the Team Leader and Project Manager on their work's progress as well 
-  as any relevant risks or difficulties. </p></td>
+  <td><p style="text-align:left;">Prodcut/System Tester</p></td>
+  <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for designing and executing test cases, identifying, and reporting defects, and verifying that the system meets the specified requirements.</p></td>
+  <td><p style="text-align:left;">Maintains the product’s efficiency and organization. </p></td>
  </tr>
 </table>
 
@@ -597,16 +590,17 @@
   project’s development</p></td>
  </tr>
  <tr>
-  <td><p style="text-align:left;">Leigh Curtis Camara</p></td>
-  <td><p style="text-align:left;">Project Manager</p></td>
+  <td><p style="text-align:left;">Leigh Curtis Camara & Ludwig Marco Angeles</p></td>
+  <td><p style="text-align:left;">Quality Assurance</p></td>
   <td><p style="text-align:center;">High</p></td>
   <td><p style="text-align:left;">Medium</p></td>
-  <td><p style="text-align:left;">Ensuring that all parties involved can cooperate to accomplish the 
-  organization's aims and objectives. </p></td>
+  <td><p style="text-align:left;">Ensuring that all parties involved can cooperate to accomplish the organization's aims and objectives.
+Maintaining work and support to the team throughout the project’s development.
+</p></td>
  </tr>
  <tr>
   <td><p style="text-align:left;">Sofia Emmanuelle Villamin</p></td>
-  <td><p style="text-align:left;">Project Stakeholder</p></td>
+  <td><p style="text-align:left;">Project Owner </p></td>
   <td><p style="text-align:center;">High</p></td>
   <td><p style="text-align:left;">High</p></td>
   <td><p style="text-align:left;">Keeping them informed and updated per client request. </p></td>
@@ -620,10 +614,10 @@
  </tr>
  <tr>
   <td><p style="text-align:left;">Dale Joshua Domingo</p></td>
-  <td><p style="text-align:left;">Team Secretary</p></td>
+  <td><p style="text-align:left;">Product Tester</p></td>
   <td><p style="text-align:center;">High</p></td>
   <td><p style="text-align:left;">Medium</p></td>
-  <td><p style="text-align:left;">Keeping the deliverables organized and efficient. </p></td>
+  <td><p style="text-align:left;">Keeping the system works efficiently. </p></td>
  </tr>
  <tr>
   <td><p style="text-align:left;">Ludwig Marco Angeles</p></td>
