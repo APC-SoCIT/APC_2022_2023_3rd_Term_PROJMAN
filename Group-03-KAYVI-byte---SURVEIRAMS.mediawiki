@@ -777,8 +777,7 @@ Based on the analysis and input gathered, the following deliverables were define
 # Reporting and analytics 
 # User training and support 
 
-===7.5.2 Product Acceptance Criteria===
-
+*'''Product Acceptance Criteria'''
 The project will be accepted as complete if:
 
 # The user can create, read, and update reports and logs in the application.
@@ -789,9 +788,9 @@ The project will be accepted as complete if:
 :* How many incidents happened per floor
 :* How many incidents happened per department
 
-===7.5.3 Project Deliverables===
+*'''Project Deliverables''' - detailed list of deliverables the project will result in.
+Upon the successful conclusion of the project, the subsequent deliverables will be provided:
 
-Upon the successful conclusion of the project, the subsequent deliverables will be provided: 
 # A fully operational system. 
 
 # User manuals and training materials. 
@@ -800,27 +799,27 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 
 # Any other deliverables as outlined in the Project Scope Statement and agreed upon by the Project Sponsor. 
 
-===7.5.4 Project Exclusions===
+*'''Project Exclusions'''
 
 # Data Collection: This project does not include data collection from other sources or 	systems other than what is inputted by the user. 
 
-# Automated Entry: This project does not include automated entry for the reports, all reports must be done or reported manually using the application. The user will be responsible for the creation of reports. 
+# Automated Entry: This project does not include automated entry for the reports. All reports must be done or reported manually using the application. The user will be responsible for the creation of reports.
 
-# Data Transfer: The project team will not be responsible for encoding past logs and reports into the SurveiRams database. 
+# Data Transfer: The project team will not be responsible for encoding past logs and reports into the SurveiRams database.
 
 # Machine Learning: This project will not involve the development or implementation of any machine learning algorithms. The focus will be to manage the reports from students and to lessen the use of paper by using a dedicated application for the reports. 
 
-===7.5.5 Project Constraints===
+*'''Project Constraints'''
 
 # The project team only consists of five (5) members. 
 
 # The project team will only be operating on the budget that the Project Sponsors approve. 
 
-# The project will be developed only from April 2023 to July 2024. 
+# The project will be developed only from April 2023 to August 2023. 
 
 # The project is not intended to be used for purposes other than processes regarding patrolling, post logs, and incident reports. 
 
-===7.5.6 Project Assumptions===
+*'''Project Assumptions'''
 
 # This project is fully supported by the project sponsor, stakeholders, and all departments involved. This means the approvals or permissions for the project will be obtained in a timely manner. 
 
@@ -831,10 +830,9 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 # Asia Pacific College possesses the necessary conditions to facilitate system implementation, sustain maintenance efforts, and provide comprehensive support for project development. 
 
 ==7.6 Work Breakdown Structure==
-
-The Work Breakdown Structure (WBS) and Work Breakdown Structure Dictionary are key elements to effective scope management.  This section should discuss how the project scope is to be subdivided into smaller deliverables in the WBS and WBS Dictionary and how these smaller components are managed during the life of the project.   
-
 <img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135850/fd3c4daa-80ba-461d-a44d-46186f024dec" alt="WBS" style="display:block; margin:0 auto;">
+                                                 '''Figure 1.1, Work Breakdown Structure (WBS)'''
+Figure 1 illustrates the SurveiRams WBS in a hierarchical structure. A more detailed discussion for this can be found in the Work Breakdown Structure document. 
 
 ==7.7 Scope Verification ==
 
