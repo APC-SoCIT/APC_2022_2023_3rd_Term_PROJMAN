@@ -1668,7 +1668,7 @@ Review the change request log and reports to ensure alignment with changes. </p>
       <th>Change Log Status</th>
     </tr>
     <tr>
-      <td>Change request submittal</td>
+      <td>Proposal of change</td>
       <td>1. The Requestor fills out and submits the change request form to initiate the request. If the requestor is unaware of how to properly fill out the form, the Project Manager will orient the requestor in completing the Change Request.</td>
       <td>Submitted</td>
     </tr>
