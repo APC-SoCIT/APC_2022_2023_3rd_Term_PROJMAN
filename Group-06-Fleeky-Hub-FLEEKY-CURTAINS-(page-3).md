@@ -1472,13 +1472,13 @@ The following are the roles and duties for the quality management plan: </p>
 
   <h2>Introduction</h2>
 
-  <p>A robust change management plan is of utmost importance for the Fleeky Hub project to ensure its successful execution. This plan provides a structured framework for identifying, evaluating, and implementing changes that may arise throughout the project lifecycle. By following this plan, changes can be effectively managed, ensuring they align with the project's scope and objectives, and are communicated to all stakeholders in a timely manner.</p>
+  <p>The Fleeky Hub project must have a strong change management strategy in place for it to be carried out successfully. Throughout the project lifespan, modifications may need to be identified, assessed, and implemented. This plan offers a formal framework for doing just that. This plan may be used to manage changes in an efficient manner, ensuring that they are timely communicated to all stakeholders and that they are in line with the project's scope and objectives.</p>
 
-  <p>The change management plan includes a defined process for submitting, evaluating, and approving changes. This process is clearly communicated to all stakeholders, encouraging them to submit any modification requests they may have. The project team then carefully evaluates these requests, considering their potential impact on the project's schedule, cost, and quality. Approved changes are subsequently implemented in a controlled and organized manner, while rejected changes are documented for future reference.</p>
+  <p>The change management strategy comprises a structured procedure for submitting, assessing, and approving changes. All stakeholders are informed of this procedure in detail and are urged to make any amendment requests they may have. Following that, the project team carefully assesses these requests, considering their possible influence on the project's budget, timeline, and quality. Rejected modifications are recorded for future reference while approved changes are performed in a planned and controlled way.</p>
 
-  <p>It is important to emphasize that making changes outside the designated change management process can have negative consequences on the project's progress and ultimate outcome. Therefore, it is crucial for all stakeholders to understand and adhere to the change management process. This adherence will help ensure that the project remains on track and that any changes made contribute to its overall success.</p>
+  <p>Making modifications outside of the approved change management procedure can have a detrimental impact on the project's progress and outcome. Therefore, it is essential that everyone involved with the project understands and follows the change management procedure. This adherence will assist in ensuring that the project stays on course and that any adjustments are beneficial to the project's success.</p>
 
-  <p>By having a well-defined change management plan in place, the Fleeky Hub project can effectively address and accommodate modifications, mitigating potential risks and maintaining project stability. This approach fosters transparency, accountability, and effective communication among all stakeholders, ultimately leading to a successful project delivery.</p>
+  <p>By having a well-defined change management plan in place, the Fleeky Hub project can effectively address and accommodate modifications, mitigating potential risks and maintaining project stability. This approach fosters transparency, accountability, and effective communication among all stakeholders, ultimately leading to successful project delivery.</p>
 
   <h2>Change Control Board</h2>
 
@@ -1488,29 +1488,54 @@ The following are the roles and duties for the quality management plan: </p>
 <table>
     <thead>
       <tr>
-        <th>Role</th>
         <th>Name</th>
-        <th>Contact</th>
+        <th>Position</th>
+        <th>Project Role</th>
+        <th>Contact Information</th>
         <th>Responsibilities</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Change Control Board Chair</td>
-        <td>Ms. Mitzi Garcia</td>
+        <td>Mitzi Hannah Garcia</td>
+        <td>Sponsor</td>
+        <td>Project Sponsor</td>
+        <td>mhagarcia927@gmail.com</td>
         <td>Approve or deny high impact changes.<br>Has the responsibility to review the low impact changes and can overturn decisions made by the Project Manager about change requests.</td>
       </tr>
       <tr>
-        <td>Change Control Board Member</td>
+        <td>Neil Albert Garcia</td>
         <td>Project Manager</td>
-        <td>Pallas Dale Fontiveros</td>
-        <td>Determines if the impact of the change request is high or low.<br>Approve or deny low impact changes.<br>Responsible for formulating an action plan to implement the change request, if approved.<br>Communicates the required actions to implement the changes.<br>Update the project plan, budget, and schedule as needed.</td>
+        <td>Project Manager</td>
+        <td>nagarcia@student.apc.edu.ph</td>
+        <td>Direct contact of the project sponsor also decides for the group. Submit change requests when deemed necessary. Examine the change request log and associated reports to ensure consistency with alterations.</td>
       </tr>
       <tr>
-        <td>Change Control Board Member</td>
-        <td>Change Coordinator</td>
-        <td>Neil Albert Garcia</td>
-        <td>Ensures that the Change Management process is properly implemented.<br>Responsible for updating the change logs accordingly.<br>Prepare Change Status Report. Create a report at the end of each month summarizing the status of the contents of the change control logs.</td>
+        <td>Pallas Dale Fontiveros</td>
+        <td>Project Team Leader</td>
+        <td>Leader & QA Checker</td>
+        <td>prfontiveros@student.apc.edu.ph</td>
+        <td>Perform an impact analysis on every submitted change request to distinguish low-impact from high-impact requests. With the assistance of the Change Coordinator, oversee the change request process as a whole.</td>
+      </tr>
+      <tr>
+        <td>Bryan Gel Fabellore</td>
+        <td>Technical Lead</td>
+        <td>Development Team</td>
+        <td>bcfabellore@student.apc.edu.ph</td>
+        <td>Handles technical revisions as well as dividing the workload for the development of the website.</td>
+      </tr>
+      <tr>
+        <td>Gabriel Luis Antonio Perez</td>
+        <td>Developer</td>
+        <td>Development Team</td>
+        <td>gmperez@student.apc.edu.ph</td>
+        <td>Follows the commands and assigned tasks by the technical lead as well as the project manager, project coordinator, and the project sponsor.</td>
+      <tr>
+        <td>Joshua Timothy Roxas</td>
+        <td>Developer</td>
+        <td>Development Team</td>
+        <td>jbroxas@student.apc.edu.ph</td>
+        <td>Follows the commands and assigned tasks by the technical lead as well as the project manager, project coordinator, and the project sponsor.</td>
       </tr>
     </tbody>
   </table>
