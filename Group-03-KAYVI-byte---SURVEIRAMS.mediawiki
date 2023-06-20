@@ -886,10 +886,10 @@ The Project Manager will be responsible for managing the project's expenses and 
 '''Cost change approval:'''
 Authorization from the Project Manager is required prior to implementing any changes in cost. In case the cost modification exceeds 10% of the total project budget, approval from the Project Sponsor must be obtained before executing it.
 
-#'''Cost measurement and reporting:'''
+'''Cost measurement and reporting:'''
 The project expenses will be evaluated and recorded on a monthly basis, using both the cost performance index (CPI) and the schedule performance index (SPI). Monthly expense reports will be submitted to the Project Sponsor. 
 
-#'''Budget format and standards:'''
+'''Budget format and standards:'''
 The budget will be presented in a simplified and concise format by utilizing a spreadsheet program like Microsoft Excel. The budget will be divided into distinct line items, with each item having a detailed cost estimate. It will be updated once there are any changes, and any changes made will be indicated. 
  
 Overall, the objective of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are effectively monitored and controlled, allowing the project to be completed within the assigned budget. This approach will ensure the project's successful and timely completion.
@@ -898,21 +898,19 @@ Overall, the objective of the Cost Management Plan for the SurveiRams System pro
 ==8.2 Cost Management Approach==
 The cost management approach for SurveiRams will be based on the following principles: 
 
-# '''Clear definition of cost'''  <br> - The project team will define all the costs associated with SurveiRams. Hardware and software costs, development costs,  and manpower costs, and any other expenses related to the project. 
+# '''Clear definition of cost'''  <br> - The project team will define all the costs associated with SurveiRams such as hardware, software, development, and manpower costs as well as any other expenses related to the project. 
 
-# '''Budget development and tracking''' <br> - An effective budget tracking system will be implemented to regularly monitor actual spending against the allocated budget and identify areas for improvement. 
+# '''Budget development and tracking''' <br> - OpenProject will be implemented to regularly monitor actual spending against the allocated budget and identify areas for improvement. 
 
-# '''Cost estimates''' <br> - The project team will utilize diverse methods of cost estimation to guarantee that the allocated budget is precise and feasible. 
+# '''Cost variance analysis''' <br> - The project team will analyze and distinguish between the actual cost in the budget and predicted cost estimates to pinpoint reasons for any discrepancies, then initiate remedial measures to align expenses accordingly.
 
-# '''Cost variance analysis''' <br> - The project team will analyze and distinguish between the actual cost in the budget and predicted cost estimates to pinpoint reasons for any discrepancies, then initiate remedial measures to align expenses accordingly. 
+# '''Cost management roles and responsibilities''' <br> - The project team members will define and establish clear roles and responsibilities for cost management.
 
-# '''Cost management roles and responsibilities''' <br> - The project team members will define and establish clear roles and responsibilities for cost management. 
+# '''Approval process for changes'''  <br> - Changes to projects or budgets will be approved formally through an established and implemented procedure.
 
-# '''Approval process for changes'''  <br> - Changes to projects or budgets will be approved formally through an established and implemented procedure. 
+# '''Reporting and communication'''  <br> - Regular cost reports will be provided and distributed to the project team, project sponsor, and stakeholders to inform them of the project's financial situation. 
 
-# '''Reporting and communication'''  <br> - Regular cost reports will be provided and distributed to the project team, project sponsor, and management to inform every one of the project's financial situations. 
-
-By implementing a clear cost management approach in SurveiRams, the project team can help ensure that the project stays on budget and meets financial objectives. This can help to minimize the risk of cost overruns and ensure that the project is completed successfully. 
+By implementing a clear cost management approach in SurveiRams, the project team can ensure that the project stays on budget and meets financial objectives. This can help to minimize the risk of cost overruns and ensure that the project is completed successfully.
 
 
 ==8.3 Measuring Project Costs==
@@ -962,9 +960,9 @@ For this project, the Earned Value Management tool will be used to measure proje
 </tr>
 </table>
 
-Table 1 shows the formula to calculate for each metric. SV is the difference between the EV and PV. It will determine whether the project is ahead (SV > 0), right on track (SV = 0), or behind schedule (SV < 0) in a specific timeframe or task. Meanwhile, CV is the difference between EV and AC. This dictates whether the project is under budget (CV > 0), perfectly on budget (CV = 0), or over budget (CV < 0) during a certain period. 
+Table 1 shows the formula to calculate for each metric. SV is the difference between the EV and PV. It will determine whether the project is ahead (SV > 0), right on track (SV = 0), or behind schedule (SV < 0) in a specific timeframe or task. Meanwhile, CV is the difference between EV and AC. This dictates whether the project is under budget (CV > 0), perfectly on budget (CV = 0), or over budget (CV < 0) during a certain period.
 
-On the other hand, CPI is the ratio of the EV to the AC. This will help in checking if the project is cost-effective. If the CPI is: 
+On the other hand, CPI is the ratio of the EV to the AC. This will help in checking if the project is cost-effective. If the CPI is:
 
 * less than one (a negative number), then it means that the project is over budget so far 
 
@@ -976,11 +974,11 @@ The Schedule Performance Index, which is the ratio of the EV to the PV, is simil
 
 ==8.4 Reporting Format==
 
-Reporting on cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report. 
+Reporting on cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside of the thresholds identified in this Cost Management Plan will be reported on including any corrective actions which are planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report.
 
 ==8.5 Cost Variance Response Process==
 
-The Control Thresholds for this project is a CPI or SPI of 1, as stated above in the Measuring Project Cost. 
+The Control Thresholds for this project is a CPI or SPI of 1, as stated above in Measuring Project Cost.
 
 If the Project Sponsor selects a corrective action option, they may choose from the following:  
 
@@ -989,25 +987,25 @@ If the Project Sponsor selects a corrective action option, they may choose from 
 * Increasing the budget for the project 
 * Increasing productivity or efficiency of project team members 
 
-The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget. If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action. 
+The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget. If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action.
 
 ==8.6 Cost Change Control Process==
 
-The cost change control process will include the following steps: 
+The cost change control process will include the following steps:
 
-# '''Identification of Cost Change''' <br> - The Project Manager or any team member who identifies and proposes a potential cost change must document and bring it to the attention of the Project Sponsor through a cost change request form. 
+# '''Identification of Cost Change''' <br> - The Project Manager or any team member who identifies and proposes a potential cost change must document and bring it to the attention of the Project Sponsor through a Cost Change Request Form.
 
-# '''Analysis of the Cost Change''' <br> - The project team will analyze the cost change to determine its impact on the project schedule, budget, and overall performance.  
+# '''Analysis of the Cost Change''' <br> - The project team will analyze the cost change to determine its impact on the project schedule, budget, and overall performance. 
 
-# '''Approval of the Cost Change'''  <br> - The Project Manager will present an analysis of the cost change to the Project Sponsor and other relevant stakeholders. The Project Sponsor will then approve or reject the cost change based on the analysis provided. 
+# '''Approval of the Cost Change'''  <br> - The Project Manager will present an analysis of the cost change to the Project Sponsor and other relevant stakeholders. The Project Sponsor will then approve or reject the cost change based on the analysis provided.
 
-# '''Implementation of the Cost Change'''  <br> - Once the cost change is approved, the Project Manager will update the project cost baseline and implement the necessary cost changes to the project plan in accordance with the project schedule and budget. 
+# '''Implementation of the Cost Change'''  <br> - Once the cost change is approved, the Project Manager will update the project cost baseline and implement the necessary cost changes to the project plan in accordance with the project schedule and budget.
 
-# '''Tracking and Monitoring of the Cost Change'''  <br> - The Project Manager will track and monitor the cost change to ensure that it is implemented effectively and efficiently. The project team will regularly review the progress of the cost change and adjust as necessary. 
+# '''Tracking and Monitoring of the Cost Change'''  <br> - The Project Manager will track and monitor the cost change to ensure that it is implemented effectively and efficiently. The project team will regularly review the progress of the cost change and adjust as necessary.
 
-# '''Reporting on the Cost Change''' <br> - The Project Manager will report on the cost change to the Project Sponsor and other stakeholders. The report will detail the factors contributing to the cost change, its implications for the project timeline, budget, and quality of work, as well as the progress achieved in managing the situation. 
+# '''Reporting on the Cost Change''' <br> - The Project Manager will report on the cost change to the Project Sponsor and other stakeholders. The report will detail the factors contributing to the cost change, its implications for the project timeline, budget, and quality of work, as well as the progress achieved in managing the situation.
 
-The cost change control process is a crucial aspect of managing the SurveiRams ticketing system project's financial aspects. By analyzing and approving cost changes, the project can ensure that it remains within the allocated budget and avoids any unexpected financial challenges. Regular reporting on cost changes will allow the project manager to keep the project sponsor and other key stakeholders informed of any financial updates and ensure transparency throughout the project's lifecycle. By adhering to this cost change control process, the SurveiRams ticketing system project can achieve its objectives and deliver quality results within the specified budget. 
+The cost change control process is a crucial aspect of managing the SurveiRams ticketing system project's financial aspects. By analyzing and approving cost changes, the project can ensure that it remains within the allocated budget and avoids any unexpected financial challenges. Regular reporting on cost changes will allow the project manager to keep the project sponsor and other key stakeholders informed of any financial updates and ensure transparency throughout the project's lifecycle. By adhering to this cost change control process, the SurveiRams ticketing system project can achieve its objectives and deliver quality results within the specified budget.
 
 
 ==8.7 Project Budget==
