@@ -428,15 +428,17 @@ The Barangay South Signal Village Web Application project, aligned with the orga
 
 ''' COST '''
 
-* '''Manpower Estimated Cost'''<br> This includes the cost of the team members who will work on the project for 12 months. The team consists of: 
+* '''Manpower Estimated Cost'''<br> This includes the labor cost of the project team who will work on the project for almost 17 months. According to the Indeed website, the average hourly salaries for each role are as follow:
 
-# ''' Project Manager ''' : The average salary per month is ₱50,605.00, and the total salary for 12 months is ₱607,260.00. 
-# ''' Product Owner ''' : The average salary per month is ₱58,500.00, and the total salary for 12 months is ₱702,000.00.  
-# ''' Scrum Master/Developer ''' : The average salary per month is ₱79,500.00, and the total salary for 12 months is ₱954,000.00. 
-# ''' Scrum Member/Laravel Junior Developer ''' : The average salary per month is ₱40,000.00, and the total salary for 12 months is ₱960,000.00 (2 team members). 
-# ''' Documentation Manager ''' : The average salary per month is ₱41,059.00, and the total salary for 12 months is ₱492,708.00. 
+# ''' Project Manager ''' : The average hourly salary is ₱341.00, and the estimated working hours for the project are 389, resulting in a total labor cost of ₱132,649.00. 
+# ''' Product Owner ''' : : The average hourly salary is ₱413.00, and the estimated working hours for the project are 446, resulting in a total labor cost of ₱184,198.00.  
+# ''' Scrum Master/Developer ''' : The average hourly salary is ₱485.95, and the estimated working hours for the project are 699, resulting in a total labor cost of ₱339,679.05.
+# ''' Laravel Junior Developer ''' : The average hourly salary is ₱254.00, and the estimated working hours for the project are 720, resulting in a total labor cost of ₱183,680.00. 
+# ''' QA Tester ''' : The average hourly salary is ₱271.00, and the estimated working hours for the project are 242, resulting in a total labor cost of ₱65,582.00.
+# ''' Documentation Manager ''' : The average hourly salary is ₱178.16, and the estimated working hours for the project are 387, resulting in a total labor cost of ₱68,947.92. 
+# ''' System Trainer ''' : The average hourly salary is ₱120.00, and the estimated working hours for the project are 36, resulting in a total labor cost of ₱4,320.00. 
 
-The total manpower cost estimate is ''''' ₱3,715,968.00 ''''' . 
+The total manpower cost estimate is ''''' ₱978,255.97 ''''' . 
 
 * '''Maintenance Estimated Cost '''<br> This includes the cost of maintaining the website after it has been developed.  The cost elements are: 
 
@@ -444,20 +446,17 @@ The total manpower cost estimate is ''''' ₱3,715,968.00 ''''' .
 # ''' Website Security (Premium) ''' : The cost is ₱799.00 per month, which amounts to ₱9,588.00 per year. 
 # ''' Website Backup ''' : The cost is ₱99.00 per month, which amounts to ₱1,188.00 per year. 
 # ''' Scrum Member/Laravel Junior Developer ''' : The average salary per month is ₱40,000.00, and the total salary for 12 months is ₱960,000.00 (2 team members). 
-# ''' System Administrator ''' : The average salary per month is ₱41,059.00, and the total salary for 12 months is ₱492,708.00. 
 
-Maintenance (yearly): The total cost for maintenance per year is ''''' ₱375,775.00 '''''. 
+
+Maintenance (yearly): The total cost for maintenance per year is ''''' ₱15,775.00 '''''. 
 
 * '''Hosting and DNS Cost '''<br> This includes the cost of hosting and domain name system (DNS) protection for the website. The cost element is: 
 
 # ''' Hosting w/ DNS protection (36 months) ''' : The cost is ₱12,992.72 every 3 years.
 
-* '''Indirect Cost '''<br> This includes the cost of utilities, which is covered by the barangay. 
+* '''Indirect Cost '''<br> This includes utilities, equipment, internet, training supplies, miscellaneous expenses, which are covered by the barangay.
 
-# ''' Equipment ''' : No cost element is included for equipment. 
-# ''' Administrative Roles ''' : No cost element is included for administrative roles.
-
-<img src="https://user-images.githubusercontent.com/110672519/235835937-d329411b-853d-441a-90ed-5ea98c4b19ed.jpg" alt="Image description" style="display:block; margin:0 auto;">
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/110672519/72be0e9a-7f46-452c-9879-889997f540dd" alt="Image description" style="display:block; margin:0 auto;">
 
 This table displays the estimated cost of the project, which includes the allocated budget and its duration. The budget of this project is estimated around ₱4,104,735.72 which intended to cover the 12-month duration of the project. In the table, the team shows four types of costs in this project which are the Manpower Estimated Cost, Maintenance Estimated Cost, Hosting and DNS Cost, and the Indirect cost. The total maintenance cost per year is ₱375,775.00. 
 
