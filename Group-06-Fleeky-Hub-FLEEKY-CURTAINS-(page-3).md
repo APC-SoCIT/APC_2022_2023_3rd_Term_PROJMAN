@@ -1061,7 +1061,7 @@ In summary, the handover and acceptance phase of the Fleeky Curtains project is 
   <ul>
     <li>Human Error: Errors made by project team members, having the potential of having an influence on the project.</li>
     <li>Security Vulnerabilities: The initiative runs the risk of being exposed to security lapses or data loss, both of which might have dire repercussions.</li>
-    <li>Unforeseen Circumstances: There is a chance that unanticipated events (such market shifts) could have an unexpected effect on the project.</li>
+    <li>Unforeseen Circumstances: There is a chance that unanticipated events (such as transaction discrepancy and data processing error) could have an unexpected effect on the project.</li>
   </ul>
   
   <h3>Risk Qualification and Prioritization</h3>
@@ -1165,7 +1165,7 @@ In summary, the handover and acceptance phase of the Fleeky Curtains project is 
     </tr>
   </table>
 
-<h2>Procurement Management Plan</h2>
+<h1>Procurement Management Plan</h1>
 
  <h2>Introduction</h2>
   <p>The Procurement Management Plan plays a critical role in the project's successful completion. This plan outlines the project's procurement requirements and how the procurement process will be managed from the development of procurement documentation to the closure of contracts. This plan aims to ensure that all necessary items are procured on time, within budget, and according to the quality standards required for the project.</p>
