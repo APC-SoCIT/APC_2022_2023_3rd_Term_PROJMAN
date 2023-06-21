@@ -1133,292 +1133,629 @@ By using the WBS and WBS Dictionary, the project team will be able to assign res
 
 =Cost Management Plan=
 <p><b>Introduction</b></p>
-<p>The Cost Management Plan for Apelo Dental Clinic System (ADENICSY) project is designed to ensure that all costs associated with the project are effectively managed throughout its lifecycle. The plan outlines the format and standards by which the project costs will be measured, reported, and controlled.
+<p>The Cost Management Plan for Tracking Activity Project Management (TAPM) is to outline the approach that the project team will take to manage costs throughout the project. The plan outlines the methods that will be used to monitor and manage costs, such as budgeting, cost reporting, and cost estimations.
 
 <br><br>Cost management responsibilities:
 
 <ul>
-  <li>The Project Manager will be responsible for overall cost management of the project and will be the primary point of contact for all cost-related issues.</li>
-  <li>The Finance Team will be responsible for monitoring project costs and ensuring that they are within the approved budget.</li>
+  <li>The Project Manager is responsible for developing and implementing the cost management plan.</li>
+  <li>The Project Team is responsible for following the cost management plan and reporting any cost increase or problems.</li>
 </ul>
 
 Cost change approval:
 <ul>
-  <li>All cost changes must be approved by the Project Manager before they are implemented.</li>
-  <li>If the cost change exceeds 10% of the total project budget, it must be approved by the Project Sponsor before it can be implemented.</li>
+  <li>The Business Analyst is in charge with managing information by analyzing and compiling them to address potential issues in the project as well as create solutions.</li>
+  <li>The Operational Analyst is responsible for examining the operational needs of the suggested solution and creating an implementation and strategy.</li>
+  <li>The System Developer oversees handling the system of the application in case of an error or technical issues encountered in the system.</li>
 </ul>
 
-Cost measurement and reporting:
-<ul>
-  <li>Costs will be measured and reported on a monthly basis, using a cost performance index (CPI) and a schedule performance index (SPI).</li>
-  <li>Reports will be presented to the Project Sponsor on a monthly basis.</li>
-</ul>
+<p>By adopting these approaches, the project team may efficiently manage expenses for a project that concentrates on TAPM by implementing these measures, ensuring that the project remains on track financially.</p>
 
-Budget format and standards:
-<ul>
-  <li>The budget will be presented in a clear and concise format, using a spreadsheet format such as Excel.</li>
-  <li>The budget will be broken down into individual line items, with detailed cost estimates for each item.</li>
-  <li>The budget will be updated on a monthly basis, with any changes clearly highlighted.</li>
-</ul>
-
-<p>Overall, the Cost Management Plan for ADENICSY project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.
-
-<p><b>Cost Management Approach</b></p>
-<p>The cost management approach for the dispatch directory system project will be based on the following principles:
-</p>
-<br>
-<p>
-a.	Clear definition of costs:
--	The project team will work closely with stakeholders to clearly define and document the costs associated with the project, including labor, materials, equipment, and other expenses.
-<br>
-<br>
-b.	Budget development and tracking:
--	A detailed project budget will be developed and regularly updated throughout the project, with costs tracked and reported in real time.
-<br>
-<br>
-c.	Cost estimates:
--	The project team will use a variety of cost estimation techniques to ensure that the project budget is accurate and realistic.
-<br>
-<br>
-d.	Cost variance analysis:
--	The project team will closely monitor costs throughout the project and perform variance analysis to identify and address any cost overruns or savings.
-<br>
-<br>
-e.	Cost management roles and responsibilities:
--	Clear roles and responsibilities for cost management will be defined and communicated to all project team members.
-<br>
-<br>
-f.	Approval process for changes:
--	A formal process for approving changes to the project or its budget will be established and implemented.
-<br>
-<br>
-g.	Reporting and communication:
--	Regular cost reports will be prepared and shared with stakeholders, including the project sponsor, project team, and management.
-</p>
-
-<p>By following these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
 
 <p><b>Measuring Project Cost</b></p>
-<p>The Cost Management Plan for ADENICSY project will include a detailed approach for measuring project costs using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:</p>
+<p>The Project Tracking Monitoring System (TAPM) cost almost nothing and involved the creation of software using Laravel and Visual Studio, as well as GitHub, we will use Man-hours and hourly rate to measure and control our project costs. To estimate the cost of the project based on the given information, you can use the following formula:</p>
 
-<p>
-1. Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) - This measures the budgeted costs of the work that was planned to be completed at a specific point in time.
-</p>
+<p><em>Total Cost = (Hourly Rate * 8 hours) * 30 days</em></p>
 
-<p>
-Example:<br>
+<p>EXAMPLE:</p>
+<div>
+    <ol>
+        <li>Assuming a junior programmer salary of 375 Pesos per hour, the cost of the project can be estimated as follows: Total cost per project phase = Hourly rate * 8 working hours * (Days of work) Total Cost = 3000 * 30 = 90,000 So, the estimated cost of the project based on the project phase duration for the junior programmer salary is 90,000 Pesos.</li>
+    </ol>
+</div>
 
-To calculate the BCWS or Planned Value, we need to multiply the total labor cost of the TESTING WBS by its percentage of completion:<br>
+<p><em>Total Cost = (Hourly Rate * (8 hours * Total Working Days))</em></p>
 
-BCWS = Total labor cost of TESTING WBS x Percentage of completion<br>
-= (PHP 300,000) x 33.71%<br>
-= PHP 101,130<br><br>
+<p>The Formula above calculates the overall cost the personnel in the duration of the project cycles. However, please note that this is only an estimate, and the actual cost may vary based on factors such as project complexity, resource utilization, and unforeseen events. To forecast future project costs, we will review cost performance over time and across work packages or schedule activities. This will help us identify any potential cost overruns or deviations from our project plan. By measuring and monitoring our project costs, we can ensure that we stay on track and deliver our project within budget.</p>
 
-Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 101,130.
-<p>
-
-<p>
-2. Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) - This measures the budgeted costs of the work that has actually been completed at a specific point in time.
-</p>
-
-<p>
-Example:<br>
-
-To calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV), we need to know the percentage of work completed for each task or WBS element. Assuming that the percentage of completion for each of the Testing<br>
-Phase tasks are as follows:
-<br>
-
-<ul>
-<li>Week 26: Testing Phase 1 - 100%</li>
-<li>Week 27: Testing Phase 2 - 75%</li>
-<li>Week 28: Testing Phase 3 - 50%</li>
-<li>Week 29: Testing Phase 4 - 25%</li>
-</ul>
-
-Then, we can calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) as follows:<br><br>
-EV = BCWS x % of work completed<br>
-EV = (₱300,000 x 33.71%) + (₱75,000 x 8.43% x 0.75) + (₱75,000 x 8.43% x 0.50) + (₱75,000 x 8.43% x 0.25)<br>
-EV = ₱101,130 + ₱4,732.50 + ₱3,155 + ₱1,577.50<br>
-EV = ₱110,595<br><br>
-
-Therefore, the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) is ₱110,595.
-<p>
-
-<p>
-3. Actual Cost of Work Performed (ACWP) or Actual Cost (AC) - This measures the actual costs incurred for the work that has been completed at a specific point in time.<br>
-Example:<br>
-Assuming that the Actual Cost for the TESTING WBS is PHP 120,000, then:<br>
-
-AC = PHP 120,000<br><br>
-
-Therefore, the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) is <br>
-PHP 120,000.<br><br>
-
-These metrics will be used to perform cost variance analysis (CV), schedule performance index (SPI), and cost performance index (CPI) to measure the project's cost performance over time.<br><br>
-To assist in capturing these metrics, the project team will use project management software that is capable of tracking and reporting on EVM metrics. This software will also be used to forecast future project costs, and to review cost performance over time, across work packages or schedule activities.
-
-<ol>
-<li>Cost Variance (CV) measures the difference between the actual cost and the planned cost of the project. It is calculated by subtracting the actual cost from the planned cost. A negative CV indicates that the project is over budget, while a positive CV indicates that the project is under budget.<br>
-
-Example:<br><br>
-
-To compute the Cost Variance (CV), we need to subtract the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) from the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV). From the previous example, the BCWP or EV is ₱110,595, and the ACWP or AC is ₱120,000.<br><br>
-
-CV = EV - AC<br>
-CV = ₱110,595 - ₱120,000<br>
-CV = -₱9,405<br><br>
-
-Therefore, the Cost Variance (CV) for the Testing WBS is -₱9,405. A negative CV means that the project is over budget.<br>
-</li>
-<li>
-Schedule Performance Index (SPI) measures the project's schedule performance by comparing the planned schedule to the actual schedule. This index is calculated as the ratio of the BCWP to the BCWS. It is calculated by dividing the earned value by the planned value. A value of 1 indicates that the project is on schedule, while a value less than 1 indicates that the project is behind schedule, and a value greater than 1 indicates that the project is ahead of schedule.<br><br>
-
-Example:<br>
-
-From the previous computations, we have:<br>
-
-Earned Value (EV) = ₱110,595<br>
-Planned Value (PV) = ₱101,130<br>
-Plugging these values into the formula, we get:<br><br>
-
-SPI = EV / PV<br>
-SPI = ₱110,595 / ₱101,130<br>
-SPI = 1.093<br><br>
-
-Therefore, the Schedule Performance Index (SPI) is 1.093. This indicates that the project is ahead of schedule, as the SPI is greater than 1.<br>
-</li>
-<li>
-Cost Performance Index (CPI) measures the project's cost performance by comparing the actual cost to the planned cost. This index is calculated as the ratio of the BCWP to the ACWP. It is calculated by dividing the earned value by the actual cost. A value of 1 indicates that the project is on budget, while a value less than 1 indicates that the project is over budget, and a value greater than 1 indicates that the project is under budget.<br><br>
-
-Example:<br>
-To calculate the Cost Performance Index (CPI), we need to use the following formula:<br>
-
-CPI = EV / AC<br>
-where:<br>
-EV = Earned Value (BCWP) <br>
-AC = Actual Cost (ACWP)<br>
-
-From the previous computations, we have:<br>
-EV = ₱110,595<br>
-AC = ₱120,000<br><br>
-
-CPI = EV / AC<br>
-CPI = ₱110,595 / ₱120,000<br>
-CPI = 0.9216<br><br>
-
-Therefore, the Cost Performance Index (CPI) is 0.9216. This means that for every one peso spent, the project has earned only 0.92 pesos of value. This indicates that the project is behind budget and may need to take corrective actions to bring the costs in line with the planned budget.<br><br>
-
-In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.<br>
-</li>
-</ol>
-</p>
 <p><b>Reporting Format</b></p>
 <p>
-The ideal reporting format for the cost management plan of the Dispatch Directory system project would likely be a detailed spreadsheet or table. This format should include all relevant cost information such as project budget, actual costs incurred, projected costs, and any variances or discrepancies.<br>
-Additionally, the format should be easily understandable and accessible to all stakeholders, including the project team, stakeholders, and management. A bar chart or Gantt chart can also be included to provide a visual representation of the cost information. The reporting format for the cost management plan of the Dispatch Directory system project would include the following elements:<br>
-</p>
-
-
-<p>
-1.Executive Summary:<br>
-A brief overview of the cost management plan, including the project's overall budget, any major cost variances or issues, and any actions taken to address them.<br>
-
-2.Budget Overview:<br>
-A detailed breakdown of the project's budget, including the total project cost, the cost of each phase or deliverable, and the costs associated with each project resource (e.g., labor, materials, equipment, etc.).<br>
-
-3.Cost Variance Analysis:<br>
-A detailed analysis of any variances between the project's actual costs and the budgeted costs. This should include a detailed explanation of the causes of the variances, the impact on the project, and any actions taken to address them.
-
-4.Budget Forecast:<br>
-A projection of the project's future costs, including any potential cost variances and their potential impact on the project. <br>
-
-5.Cost Management Metrics:<br>
-A set of key performance indicators (KPIs) that provide a snapshot of the project's cost performance, including cost variance, cost performance index (CPI), and schedule performance index (SPI).<br>
-
-6.Approval and Sign-off:<br>
-A section for the project manager and other key stakeholders to review, approve, and sign off on the cost management plan.<br>
-
-7.Appendices:<br>
-Any additional documentation or supporting materials, such as detailed cost breakdowns, invoices, or change request forms.<br><br>
-
-It is important to note that this is a general outline, and the reporting format may vary depending on the specific needs of the project and organization. However, it should provide a comprehensive overview of the project's cost management and performance in order to make informed decisions.<br>
+The ideal reporting format at the cost management plan for the Project TAPM would be a financial report using a spreadsheet, excel, or table. This will include all the technical, maintenance, and for the hourly work of each member, information for the project budget that will be incurred.<br>
+In addition to that there are format that are easily understandable and helpful for the stakeholders and the project team, reporting is especially needed in seeing how much the expected cost and amount of a project, some helpful infographic can also be used upon reporting. The following formats would be used by TAPM, Executive Summary of the project cost and a Budget Overview of the total cost incurred it as well as infographics to make it presentable such as a bar chart.<br>
 </p>
 
 <p><b>Cost Variance Response Process</b></p>
-<p>
-The Cost Variance Response process for ADENICSY project will be as follows:<br>
-
-1.Control Thresholds:<br>
--	The project will have several control thresholds set for cost variance.<br>
--	These thresholds will be set at 5%, 10%, and 15% of the total project budget.<br>
--	If the project triggers any of these thresholds, it will be considered a cost variance.<br><br>
-
-2.	Identification of Variance:<br>
--	The Project Manager will be responsible for identifying any cost variances and reporting them to the Project Sponsor.<br>
--	The Project Manager will use the Earned Value Metrics and other cost management tools to identify and track any variances.<br><br>
-
-3.	Analysis of Variance:<br>
--	The Project Manager will analyze the variance to determine the root cause of the problem and develop options for corrective action.<br>
--	The Project Manager will also consider the impact of the variance on the project schedule and scope.<br><br>
-
-4.	Presentation of Options:<br>
--	The Project Manager will present the options for corrective action to the Project Sponsor.<br>
--	The options will be based on the root cause of the variance and the impact on the project schedule and scope.<br><br>
-
-5.	Approval of Corrective Action:<br>
--	The Project Sponsor will review the options and approve an appropriate action to bring the project back on budget.<br>
--	This may include increasing the budget, reducing scope or quality, or implementing other corrective actions.<br><br>
-
-6.	Implementation of Corrective Action:<br>
--	The Project Manager will implement the approved corrective action and monitor the results.<br>
--	The Project Manager will also update the project schedule and budget accordingly.<br><br>
-
-7.	Reporting:<br>
--	The Project Manager will report the cost variance, corrective action taken, and the results of the corrective action in the Monthly Project Status Report.<br>
--	The Project Manager will also provide updates on the project budget and schedule.<br><br>
-
-The Cost Variance Response process will be an ongoing process throughout the project lifecycle. The Project Manager will be responsible for monitoring and controlling the project costs, and the Project Sponsor will be responsible for approving any corrective actions as needed. <br>
-</p>
+<p>Cost variable response for project TAPM is in the following:</p>
+<ul>
+    <li>Control Thresholds
+        <ol>
+            <li>The Control Threshold for the TAPM project is a cost variance of more than 10% or less than -10%. If the project reaches one of these Control Thresholds, a Cost Variance Corrective Action Plan is required.</li>
+        </ol>
+    </li>
+    <li>Reporting
+        <ol>
+            <li>the project team must report any cost variances to the Project Manager within two days of detection.</li>
+            <li>Options for Corrective Action: Upon escalation, the Project Manager will present the increasing the budget for the project.
+                <ul>
+                    <li>Reducing scope or quality</li>
+                    <li>Revising the project schedule</li>
+                    <li>Changing resource allocation &ndash;</li>
+                </ul>
+            </li>
+        </ol>
+    </li>
+    <li>Selection of Corrective Action:
+        <ol>
+            <li>Within three business days from when the Stakeholders selects a corrective action option, the Project Manager will present the Stakeholders with a formal Cost Variance Corrective Action Plan.</li>
+        </ol>
+    </li>
+</ul>
+<ul>
+    <li>Cost Variance Corrective Action Plan:
+        <ol>
+            <li>The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and how the effectiveness of the actions in the plan will be measured. The plan will include:
+                <ul>
+                    <li>A description of the corrective actions to be taken</li>
+                    <li>A timeline for implementation of the actions</li>
+                    <li>A budget for the actions</li>
+                </ul>
+            </li>
+        </ol>
+    </li>
+</ul>
 
 <p><b>Cost Change Control Process</b></p>
-<p>
-The cost change control process will include the following steps:<br><br>
-
-1.	Identification of the cost change:<br>
--	Any proposed changes to the project budget or costs must be identified and documented in a cost change request form.<br><br>
-2.	Analysis of the cost change:<br>
--	The proposed change will be analyzed by the project team to determine the potential impact on the project schedule, resources, and overall budget.<br><br>
-3.	Approval of the cost change:<br>
--	The cost change request will be reviewed and approved by the project sponsor and other relevant stakeholders.<br><br>
-4.	Implementation of the cost change:<br>
--	Once approved, the cost change will be implemented in accordance with the project schedule and budget.<br><br>
-5.	Tracking and monitoring of the cost change:<br>
--	The project team will track and monitor the impact of the cost change on the project schedule and budget, and any necessary adjustments will be made to ensure the project stays on track.<br><br>
-6.	Reporting on the cost change:<br>
--	The cost change will be reported in the monthly project status report, along with any relevant financial information and any corrective actions taken.<br><br>
-
-The cost change control process will be implemented to ensure that any changes to the project budget or costs are identified, analyzed, and approved in a timely manner. This will help to minimize the impact of cost changes on the project schedule and budget and help to ensure that the project stays on track to meet its objectives.<br>
-
-</p>
+<p>The cost change control process for a project that focuses on TAPM includes:</p>
+<ol>
+    <li>Identifying and documenting the change - Suggested changes to the budget of the project must be documented on a cost change request form.</li>
+    <li>Evaluating the impact of the change - The project team will evaluate the change&rsquo;s effect on the project&rsquo;s cost after it has been documented.</li>
+    <li>Approving of the change - The change request must be reviewed by the stakeholders, including the project sponsor. After approval, the change must be documented and shared with the project team.</li>
+    <li>Updating the project plan - The project plan should be updated to reflect the change after it has been approved.</li>
+    <li>Reporting on the cost change - The project team needs to keep updated on the cost of the project and report on any changes.</li>
+</ol>
+<p>The cost change control process will be implemented to ensure that any changes that have an impact on the project&rsquo;s cost are correctly assessed and documented by creating an effective cost change control approach. This can reduce the possibility of excess costs and guarantee that the project is completed within the budget.</p>
 
 <p><b>Project Budget</b></p>
-<p>
-Budgeting is a crucial component of project management that involves planning, estimating, and controlling project costs. For the Dispatch Directory System project, a budget has been developed to ensure that project costs are identified, monitored, and controlled throughout the project's life cycle.<br>
-The budget includes direct and indirect costs, and it is designed to provide the project team and stakeholders with a comprehensive understanding of the financial resources required to successfully complete the project. This budget will serve as a baseline for monitoring the project's financial performance and ensuring that it remains on track to meet its goals and objectives within the approved budget.<br><br><br>
-
-
-<b>Approved Budget: PHP 900,000.00</b>
-</p>
-<img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pSwJG36CJ5KKnbIM_RoEWJ5WsJ7MUz5ZouBqJcNTheIFsk0hTTZcnH61Jahjc8KXJVx3rfRNe88_qIDk_dHiVojlKz5Q=s1600">
-<br>
-<img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81pUdaD4nEnQl_Wtu6yTOBrDMgDoA6qoayb2AmWbC4XgPOSyPNIq12koJMZ9ICOz7DFutvwz-NcAtFtlhzYajkOEh07Ubg=s1600">
-<br><br>
-<p>Labor Cost Distribution Summary</p>
-<img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oXKTF8-UMFabgRzd-VDKnG_QK9YUBjQrua7ZgtCDlAor0hUHJvi5ftjVL6lbaeXaMyC66_KvtLs1iFkzhZFdpfaBF6qQ=s1600">
-<br><br>
-<p>Cost Schedule Summary</p>
-<img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rzugSnlHX_vgSL2DDDUICQQzvbxtLt7Zk69la65bKFq3qhUlpxK0CJs-1CyG6qBhxP43Lo2IPNMcdLKEqrxyF0OcyYlA=s1600">
-
+<p>In the context of the TAPM project, a budget has been developed to ensure that all project costs are accounted for and managed throughout the project&apos;s life cycle. This budget will serve as a baseline for monitoring the project&apos;s financial performance and ensuring that it remains on track to meet its objectives within the approved budget.</p>
+<p>The budget for this project is detailed below. The formula used to find the Total Cost monthly pay is Total Cost = (Hourly Rate * 8) * 30, Costs for this project are presented in various categories</p>
+<p>&nbsp;</p>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td colspan="5" style="width: 413.65pt;border: 1pt solid windowtext;padding: 0in 5.4pt;height: 5.35pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>INITIATION</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Role</span></strong></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Salary * No. of Days</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>COST</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 54,720</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Business Analyst</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>207</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1656*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 49,680</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" style="width: 413.65pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PLANNING</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Role</span></strong></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Salary * No. of Days</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>COST</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 54,720</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Business Analyst</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>207</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1656*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 49,680</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" style="width: 413.65pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 5.35pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>EXECUTION</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Role</span></strong></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Salary * No. of Days</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>COST</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 54,720</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Operation Analyst</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>144</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1152*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 34,560</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>System Developer</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>214</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1712*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 51,360</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" style="width: 413.65pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>CONTROL</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Role</span></strong></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Salary * No. of Days</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>COST</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 54,720</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Operation Analyst</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>144</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1152*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 34,560</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>System Developer</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>214</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1712*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 51,360</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" style="width: 413.65pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 5.35pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>CLOSEOUT</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Role</span></strong></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Salary * No. of Days</span></strong></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>COST</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 54,720</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 98.85pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Operation Analyst</span></p>
+            </td>
+            <td style="width: 66.4pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>144</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1152*30</span></p>
+            </td>
+            <td style="width: 82.55pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 83.3pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 10.95pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 34,560</span></strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><br></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>To Calculate the Total cost formula used is <em>Total Cost = (Hourly Rate * (8 hours * Total Working Days)).</em></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 93.35pt;border: 1pt solid windowtext;padding: 0in 5.4pt;height: 18.5pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><em><span style='font-size:16px;font-family:"Arial",sans-serif;'>&nbsp;</span></em></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Staff</span></strong></p>
+            </td>
+            <td style="width: 1.3in;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;height: 18.5pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><em><span style='font-size:16px;font-family:"Arial",sans-serif;'>&nbsp;</span></em></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Hourly Rate</span></strong></p>
+            </td>
+            <td style="width: 93.35pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;height: 18.5pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>8hours *</span></strong></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Working Days</span></strong></p>
+            </td>
+            <td style="width: 93.35pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;height: 18.5pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><em><span style='font-size:16px;font-family:"Arial",sans-serif;'>&nbsp;</span></em></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 1.3in;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;height: 18.5pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><em><span style='font-size:16px;font-family:"Arial",sans-serif;'>&nbsp;</span></em></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>COST</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 93.35pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>8*150</span></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 273,600</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 93.35pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Business Analyst</span></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>207</span></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>8*60</span></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 99,360</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 93.35pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Operation Analyst</span></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>144</span></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>8*90</span></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 103,680</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 93.35pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>System Developer</span></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>214</span></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>8*60</span></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 12.7pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 102,720</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 93.35pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 6.3pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Sub-total</span></strong></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 6.3pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 793</span></strong></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 6.3pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>360</span></strong></p>
+            </td>
+            <td style="width: 93.35pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 6.3pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>5</span></strong></p>
+            </td>
+            <td style="width: 1.3in;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 6.3pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 570,360</span></strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 251.55pt;border: 1pt solid windowtext;padding: 0in 5.4pt;height: 3.9pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Item</span></strong></p>
+            </td>
+            <td style="width: 93.85pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;height: 3.9pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>COST</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 251.55pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 3.9pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Web Hosting</span></p>
+            </td>
+            <td style="width: 93.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 3.9pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 10,000/yr.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 251.55pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 3.85pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Domain Name</span></p>
+            </td>
+            <td style="width: 93.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 3.85pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 2,500/yr.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 251.55pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 3.9pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Sub-total</span></strong></p>
+            </td>
+            <td style="width: 93.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 3.9pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 12,500</span></strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 3.5in;border: 1pt solid windowtext;padding: 0in 5.4pt;height: 28.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Category</span></strong></p>
+            </td>
+            <td style="width: 94pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;height: 28.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>COST</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 3.5in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 28.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Manpower</span></p>
+            </td>
+            <td style="width: 94pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 28.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 570,360</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 3.5in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 27.8pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Training</span></p>
+            </td>
+            <td style="width: 94pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 27.8pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 15,000</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 3.5in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 28.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Maintenance</span></p>
+            </td>
+            <td style="width: 94pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 28.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 50,000 /yr.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 3.5in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 15.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>Equipment</span></p>
+            </td>
+            <td style="width: 94pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 15.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 12,500</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 3.5in;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;height: 28.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>Sub-total</span></strong></p>
+            </td>
+            <td style="width: 94pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;height: 28.05pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;font-family:"Arial",sans-serif;'>PHP 647,860</span></strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div align="center" style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br></div>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br></p>
+<div align="center" style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br></div>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:107%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+<div align="center" style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><br></div>
 
 =Schedule  Management Plan=
 ==Introduction==
