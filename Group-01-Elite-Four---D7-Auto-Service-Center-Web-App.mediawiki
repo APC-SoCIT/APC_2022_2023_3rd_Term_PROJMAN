@@ -182,7 +182,7 @@ Lastly, the COVID-19 pandemic has intensified the online competition for D7 Auto
 
 These challenges highlight the need for a comprehensive solution that can address D7 Auto Service Center's advertising and online presence issues, streamline their reservation management process, and provide additional features to enhance customer engagement.
 
-===4.3.2 Issue===
+===4.3.2 Organizational Impact===
 The proposed project for D7 Auto Service Center will make significant improvements to organizational processes, tools, hardware, and software. A centralized reservation and management system will be implemented to eliminate difficulties and errors in recordkeeping caused by the current system. This will result in improved accuracy and efficiency in managing reservation logs and record keeping, reducing manual collation efforts, and enhancing overall customer service. Additionally, the project will provide an extended communication platform for customers and specialists through the web-app, allowing for seamless and efficient communication for inquiries, clarifications, and updates. This will lead to increased customer engagement and satisfaction and improved communication within the organization for more effective service delivery. The project may also create new roles or modify existing ones to align with the new system, such as assigning a designated team or individual to manage and oversee reservations. Overall, the proposed project will bring about positive changes in reservation management and customer interactions within the organization.
 
 ===4.3.3 Technology Mitigation===
@@ -426,26 +426,182 @@ The project Summary Milestone Schedule is presented below. As requirements are m
   <tr>
     <td>Development</td>
     <td>November 23, 2022</td>
-    <td>March 22, 2023</td>
+    <td>March 07, 2023</td>
   </tr>
   <tr>
     <td>Deployment</td>
     <td>March 23, 2023</td>
-    <td>June 28, 2023</td>
+    <td>June 31, 2023</td>
   </tr>
   <tr>
     <td>Close Out</td>
-    <td>June 27, 2023</td>
-    <td>June 29, 2023</td>
+    <td>June 1, 2023</td>
+    <td>June 21, 2023</td>
   </tr>
 </table>
+
+===5.6.1 Summary Milestones Schedule===
+The budget for the D7 Auto Service Center Web-App project is detailed below:
+<b> The approved budget: ₱363,600.00 </b>
+
+The project’s duration is 140 days from Planning to Turn Over which is from (Mach 2022 - June 2023) since this project is agreed upon to be rendered within a year with no particular days required to be rendered each month. The amount of work to be paid for every project team member will be on an hourly rate basis. The budget allotted also excludes costs for food allowances, working space, and any other costs that will be incurred by the project team except whatever is included in the approved budget’s breakdown. 
+
+
+Important note:
+
+Salaries for the external team members (Product Owner, Project Adviser, and Project Consultant) will not be covered in this salary breakdown. It is agreed upon by the project sponsor and the project team to exclude this external matter from the documentation. Furthermore, the breakdown of the salary is in accordance with the dates and hours rendered of each member.
+
+<b>Salary Breakdown:</b>
+<table>
+<thead>
+  <tr>
+    <th>Position</th>
+    <th> Salary on an Hourly Rate Basis</th>
+    <th>No. of work hours </th>
+    <th>Total</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Project Manager</td>
+    <td>₱250.00</td>
+    <td>208</td>
+    <td>₱52,000.00</td>
+  </tr>
+  <tr>
+    <td>Web Developer</td>
+    <td>₱200.00 </td>
+    <td>384</td>
+    <td>₱76,800.00</td>
+  </tr>
+  <tr>
+    <td>UI/UX Designer</td>
+    <td>₱200.00</td>
+    <td>208</td>
+    <td>₱41,600.00</td>
+  </tr>
+  <tr>
+    <td>Database Administrator</td>
+    <td>₱200.00 </td>
+    <td>176</td>
+    <td>₱35,200.00</td>
+  </tr>
+  <tr>
+    <td>QA Tester </td>
+    <td>₱220.00</td>
+    <td>120</td>
+    <td>₱26,400</td>
+  </tr>
+  <tr>
+    <td>Project Secretary</td>
+    <td>₱200.00</td>
+    <td>200</td>
+    <td>₱32,000</td>
+  </tr>
+  <tr>
+    <td colspan="4">Total Salary: ₱264,000.00</td>
+  </tr>
+</tbody>
+</table>
+
+<b>Costs Breakdown:</b>
+<table>
+<thead>
+  <tr>
+    <th>Cost Item</th>
+    <th>Computation</th>
+    <th>Cost</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Direct Cost</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cloud Deployment &amp; Domain</td>
+    <td>₱2,000 (cloud deployment) + ₱1,000 (domain)</td>
+    <td>₱3,000.00</td>
+  </tr>
+  <tr>
+    <td>Transportation Allowance</td>
+    <td>16 days (6 members) x ₱100 (transportation allowance for deployment and closeout)</td>
+    <td>₱1,600.00</td>
+  </tr>
+  <tr>
+    <td>Contingency</td>
+    <td></td>
+    <td>₱35,000.00</td>
+  </tr>
+  <tr>
+    <td>Manpower</td>
+    <td></td>
+    <td>₱264,000.00</td>
+  </tr>
+  <tr>
+    <td>TOTAL:</td>
+    <td></td>
+    <td>₱303,600.00</td>
+  </tr>
+  <tr>
+    <td>Indirect Cost</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Utilities</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Internet</td>
+    <td>₱6,000.00x 4 months</td>
+    <td>₱24,000.00</td>
+  </tr>
+  <tr>
+    <td>Equipment</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Software Used</td>
+    <td></td>
+    <td>₱0.00</td>
+  </tr>
+  <tr>
+    <td>Devices Rental</td>
+    <td>₱9,000.00 x 4 months at (₱1,500.00 per unit multiplied to number of members of project team) </td>
+    <td>₱36,000.00</td>
+  </tr>
+  <tr>
+    <td>TOTAL:</td>
+    <td></td>
+    <td>₱30,000.00</td>
+  </tr>
+  <tr>
+    <td colspan="3">GRAND TOTAL: ₱363,600.00</td>
+  </tr>
+</tbody>
+</table>
+
 
 ==5.7 Project Approval Requirements==
 Success for the D7 Auto Service Center Web-app project will be achieved when a fully tested web-app, and all technical documentation, is fully deployed throughout the company within the time and cost constraints indicated in this charter. Additionally, this measure of success must include a recommendation list for future recommendations for upgrades/enhancements, as we approach this solution to also be secured to prevent/minimize future threats. Success will be determined by the Project Sponsor, Ms. Anne Sydney Simpelo, who will also authorize project completion.
 
-==5.8 Project Manager==
+==5.8 Project Management Approach==
+With regards to the project management approach, the stakeholder of the project will oversee granting authorization to the developers in implementing features for the project web-app, and to implementing the actual web-app. The development team will be comprised of a project manager, a product owner, developer team, documentation team, and a deployment team.
+
+The project manager shall work with all the members and stay connected with the stakeholder as each of the project deliverables/outcomes are being met. The project manager shall bestow tasks and grant permissions to the team in altering the web-app as approved and discussed by the project manager and the stakeholder.
+
+
+==5.9 Project Manager==
 Andre O. Viernes is assigned Project Manager for the D7 Auto Service Center Project. Mr. Viernes’s responsibility is to manage all project tasks, scheduling, and communication regarding the D7 Auto Service Center project. His team consists of two developers, one product owner, and one product stakeholder from BSIT-MI 201. Mr. Viernes will coordinate all resource requirements through the subject course adviser, Prof. Manuel Sebastian Sanchez. 
 
+==5.10 Project Technical Approach==
+The technical approach for the D7 Auto Service Center will be based on analysis made for the project during System Analysis & Design Phase, while it is also based on the project’s requirements, objectives, and constraints. The team will follow a structured agile-scrum methodology which allows changes and alterations to the project to be tailor-fit and beneficial to the stakeholder. 
+
+=PROJECT MANAGEMENT PLANS=
 =6. STAKEHOLDER STRATEGY MANAGEMENT PLAN=
 ==6.1 Introduction==
 The Stakeholder Management Strategy for D7 Auto Service Center Web-App aims to identify, connect, and manage stakeholders successfully throughout the project's lifecycle so that clear and concise communication between the Elite Four and the client is possible. Effective stakeholder management will be essential for the project to be successful. It helps in gaining support and anticipating any conflicts or roadblocks. This strategy describes the primary goals for managing stakeholders throughout the project's lifecycle.
@@ -1031,7 +1187,7 @@ The project’s duration is 140 days from Planning to Turn Over. Planning, howev
     <td>₱30,000.00</td>
   </tr>
   <tr>
-    <td colspan="3">GRAND TOTAL: ₱30,000.00</td>
+    <td colspan="3">GRAND TOTAL: ₱363,600.00</td>
   </tr>
 </tbody>
 </table>
