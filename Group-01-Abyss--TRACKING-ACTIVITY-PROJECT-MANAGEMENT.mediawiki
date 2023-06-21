@@ -1759,121 +1759,178 @@ In addition to that there are format that are easily understandable and helpful 
 
 =Schedule  Management Plan=
 ==Introduction==
-<p>The Schedule Management Plan is crucial because it provides direction and information in this area and specifies how the project's schedule will be handled throughout the entire project. After evaluating, managing, and prioritizing all time-related schedule alterations, the schedule management plan specifies strategies and tactics and distributes them.</p>
+<p>Effective schedule management is essential for any project to succeed. The schedule management plan serves as a critical tool for project managers to ensure that projects are completed on time, within budget, and with the required quality standards. The plan outlines the approach, methods, and tools that will be used to develop and manage the project schedule. It defines the roles and responsibilities of the project team members involved in schedule management, and it establishes the procedures for monitoring and controlling schedule progress. In this document, we will provide a general description of the items that should be included in the schedule management plan. These items will be described in more detail in subsequent sections of the plan, where we will outline specific procedures and techniques for managing the project schedule.</p>
 
 ==Schedule Management Approach==
-<p>The project team and the resources assigned to it will cautiously work on the initial schedule once it has been produced in order to prevent the project's schedule from being in the critical path. The proposed work package task, the length of the activities, and the project timeline require the approval of the project team and assets. Once this has been completed, the project adviser will check, approve, and baseline the schedule.</p>
+<p>The project team and allocated resources will carefully adhere to the initial schedule to avoid any delays that could affect the project's critical path. The approval of the project team and assets is necessary for the proposed work package task, activity durations, and overall project timeline. After obtaining the necessary approvals, the project advisor will review, approve, and establish the baseline schedule.</p>
 <br>
-<table border="1" width="70%" align="center">
-     <tr>
-        <td><p style="text-align:center;"><b>Milestone</b></p></td>
-        <td><p style="text-align:center;"><b>Timeline</b></p></td>
-     </tr>
-     <tr>
-        <td>Project Charter</td>
-        <td>1st Month</td>
-     </tr>
-     <tr>
-        <td>Project Approval</td>
-        <td>2nd Month</td>
-     </tr>
-     <tr>
-        <td>Developing the Web Application</td>
-        <td>3rd to 7th Month</td>
-     </tr>
-     <tr>
-        <td>Complete Test Plan</td>
-        <td>8th Month</td>
-     </tr>
-     <tr>
-        <td>Finalizing the Document</td>
-        <td>9th Month</td>
-     </tr>
+<table style="margin-left:77.9pt;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 155.95pt;border: 1pt solid black;padding: 0in;height: 10.45pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:40.05pt;margin-bottom:.0001pt;margin-left:40.3pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>MILESTONE</span></p>
+            </td>
+            <td style="width: 155.9pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in;height: 10.45pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:40.05pt;margin-bottom:.0001pt;margin-left:40.2pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>TIMELINE</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 155.95pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in;height: 10.4pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:0in;margin-bottom:0in;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Initiation</span></p>
+            </td>
+            <td style="width: 155.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in;height: 10.4pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:0in;margin-bottom:0in;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1<sup>st</sup> to 2<sup>nd</sup> month</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 155.95pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in;height: 10.45pt;vertical-align: top;">
+                <p style='margin-top:.35pt;margin-right:0in;margin-bottom:.0001pt;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:  150%;'><span style='font-size:16px;line-height:150%;font-family:  "Arial",sans-serif;'>Planning</span></p>
+            </td>
+            <td style="width: 155.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in;height: 10.45pt;vertical-align: top;">
+                <p style='margin-top:.35pt;margin-right:0in;margin-bottom:.0001pt;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:  150%;'><span style='font-size:16px;line-height:150%;font-family:  "Arial",sans-serif;'>3<sup>rd</sup> to 4<sup>th</sup> month</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 155.95pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in;height: 10.45pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:0in;margin-bottom:0in;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Execution</span></p>
+            </td>
+            <td style="width: 155.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in;height: 10.45pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:0in;margin-bottom:0in;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>5<sup>th</sup> month</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 155.95pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in;height: 10.4pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:0in;margin-bottom:0in;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Control</span></p>
+            </td>
+            <td style="width: 155.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in;height: 10.4pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:0in;margin-bottom:0in;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>5<sup>th</sup> to 6<sup>th</sup> month</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 155.95pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in;height: 10.45pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:0in;margin-bottom:0in;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Closeout</span></p>
+            </td>
+            <td style="width: 155.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in;height: 10.45pt;vertical-align: top;">
+                <p style='margin-top:.25pt;margin-right:0in;margin-bottom:0in;margin-left:2.6pt;font-size:15px;font-family:"Arial MT",sans-serif;text-align:justify;line-height:150%;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>6<sup>th</sup> to 7<sup>th</sup> month</span></p>
+            </td>
+        </tr>
+    </tbody>
 </table>
 <br>
-<p>When such changes are made, the plans and baselines will be updated. Furthermore, the same are shown as outputs. The scheduling approach, method of evaluation, tools, management, and control of the schedule will all be impacted by the development strategy.</p>
+
+<p>When modifications are implemented, the plans and baselines will be revised accordingly. Moreover, these revisions will be presented as outputs. The development strategy will have a significant influence on the scheduling approach, evaluation methods, tools, management, and control of the schedule.</p>
+
 <br>
 <p>The following are the roles and responsibilities involved in developing a schedule:</p>
-<table border="1" width="70%" align="center">
-     <tr>
-        <td><b>Role</b></td>
-        <td><b>Responsibility</b></td>
-     </tr>
-     <tr>
-        <td>Project Client</td>
-        <td>
-           <ul>
-              <li>Approves Scope Management Plan.</li>
-              <li>Provides high-level scope definition (Project Charter).</li>
-              <li>Reviews escalated scope issues and provide direction for resolution.</li>
-              <li>Approves major scope change requests.</li>
-              <li>Overall decision-making responsibility for Scope Management activities.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Project Manager</td>
-        <td>
-           <ul>
-              <li>Overall responsibility for scope management.</li>
-              <li>Oversees the development of the Scope Management Plan.</li>
-              <li>Oversees the scope change management process.</li>
-              <li>Approves scope change requests within his/her authority.</li>
-              <li>Escalates scope and change issues.</li>
-              <li>Ensures that scope changes are incorporated into appropriate project documents.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Project Team Members and Subject Matter Experts (SMEs)</td>
-        <td>
-           <ul>
-              <li>Help develop the project scope statement.</li>
-              <li>Submit scope change requests.</li>
-              <li>Review Scope Change requests when assigned.</li>
-              <li>Provide feedback as and when required.</li>
-              <li>Participate in team-level scope change reviews.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Independent Verification and Validation (IV&V)<br> Project Adviser</td>
-        <td>
-           <ul>
-              <li>Provides an ongoing independent review and analysis of project scope management practices.</li>
-              <li>Monitors scope changes and provide feedback.</li>
-              <li>Approves major scope change requests.</li>
-              <li>Approval of all documentation throughout the project.</li>
-           </ul>
-        </td>
-     </tr>
-     <tr>
-        <td>Stakeholders</td>
-        <td>
-           <ul>
-              <li><i>Key providers of requirements, scope, and the recipients of project deliverables associated with the project benefits. Most of the project deliverables will be based on their operations in the business and enhancing their business operations and environment.</i></li>
-           </ul>
-        </td>
-     </tr>
-</table>
 
-==Schedule Control==
-<p>For the duration of the project, the schedule must be precisely and effectively managed. Meetings, schedules, project updates, and even changes to the project schedule go through the project manager, who is also responsible for managing them. The project manager will also be responsible for informing and keeping the project client informed of the project's status.</p>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 233.75pt;border: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'>ROLES</p>
+            </td>
+            <td style="width: 233.75pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'>RESPONSIBILITIES</p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 233.75pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Client</span></p>
+            </td>
+            <td style="width: 233.75pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <div style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+                    <ul style="margin-bottom:0in;list-style-type: disc;margin-left:9.95px;">
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Grants approval to the Scope Management&nbsp;Plan.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Offers a broad outline of the project&apos;s scope (as stated in the&nbsp;Project Charter).</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Assesses elevated scope concerns and offers guidance for resolving them.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Gives consent to significant scope change requests.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Bears ultimate decision-making authority</span></li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 233.75pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Adviser</span></p>
+            </td>
+            <td style="width: 233.75pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <div style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+                    <ul style="margin-bottom:0in;list-style-type: disc;margin-left:9.95px;">
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Conducts continuous and impartial evaluation and analysis of project scope management practices.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Monitors alterations to the scope and offers constructive&nbsp;feedback.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Gives approval for significant scope change requests.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Grants approval for all project- related documentation at various&nbsp;stages.</span></li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 233.75pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Leader</span></p>
+            </td>
+            <td style="width: 233.75pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <div style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+                    <ul style="margin-bottom:0in;list-style-type: disc;margin-left:9.95px;">
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Bears ultimate responsibility for scope management.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Supervises the creation of the Scope Management&nbsp;Plan.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Supervises the process of managing scope&nbsp;changes.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Grants approval for scope change requests within their authorized jurisdiction.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Raises and addresses escalated scope and change&nbsp;concerns.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Ensures that scope changes are appropriately integrated into project documents.</span></li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 233.75pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Team Members</span></p>
+            </td>
+            <td style="width: 233.75pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <div style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+                    <ul style="margin-bottom:0in;list-style-type: disc;margin-left:9.95px;">
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Assists in the development of the project scope statement.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Submits requests for scope changes.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Reviews assigned scope change requests.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Offers feedback as&nbsp;necessary.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Participates in team-level reviews of scope changes.</span></li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 233.75pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Stakeholders</span></p>
+            </td>
+            <td style="width: 233.75pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <div style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+                    <ul style="margin-bottom:0in;list-style-type: disc;margin-left:9.95px;">
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Serve as crucial sources of requirements and scope and are the recipients of project deliverables tied to project benefits.</span></li>
+                        <li style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='line-height:150%;font-family:"Arial",sans-serif;font-size:16px;'>Most project deliverables are centered around their business operations, aimed at improving and enhancing their overall business environment.</span></li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
 <br>
-<p>The project team, on the other hand, is required to attend meetings for any schedule updates provided and work on any timetable adjustments that would be made. The percentage of completion must be presented to the project team for discussion by project team members who also complete a task.</p>
+==Schedule Control==
+<p>Throughout the project, it is essential to handle the schedule meticulously and efficiently. The project manager assumes the responsibility of overseeing meetings, schedules, project updates, as well as any alterations to the project schedule. Additionally, the project manager ensures that the project client is consistently informed about the project&apos;s progress.</p>
+<br>
+<p>On the other hand, the project team is obligated to attend meetings where schedule updates are shared and collaborate on any necessary adjustments to the timetable. Each task completed by project team members should be accompanied by a discussion and presentation of the corresponding percentage of completion to the project team.</p>
+<br>
 
 ==Schedule Changes and Thresholds==
-<p>When the project team creates the schedule, the project sponsor must specify a deadline for the project to be finished or operational. This is essential because it enables the project sponsor to align the objectives and expectations of the project client with the project at hand. One of the factors that could affect the changes in schedule is poor schedule management, which requires an extension or change in the project plan. If there are any circumstances that might potentially affect the timetable and go beyond the limits specified by the project sponsor, the project manager should submit a schedule change request and it should be approved by the project sponsor before the schedule change is made.</p>
+<p>When creating the project schedule, it is crucial for the project sponsor to establish a deadline for project completion or operational readiness. This deadline serves to align the project client's objectives and expectations with the ongoing project. Poor schedule management is one factor that can lead to schedule changes, necessitating plan extensions or modifications. If circumstances arise that could potentially exceed the predetermined limits set by the project sponsor, it becomes necessary for the project manager to submit a schedule change request, which must obtain approval from the project sponsor before implementing the change.</p>
 <br>
-<p>If any of the following apply, a schedule change request must be submitted to the project stakeholder for approval, if not, then submission is made for approval to the project manager: </p>
+<p>If any of the following situations occur, a schedule change request must be submitted for approval to either the project stakeholder or the project manager, depending on the specific circumstances: </p>
 <ul>
-    <li>The suggested change is to limit the length of deliverables of a given Sprint Backlog during the project's development phase, to make it obvious that adding something to the duration does not indicate extending the work across the full duration.</li>
-    <li>Changes to the scope statement must be taken into consideration in order to prevent conflicts during the project's documentation phase. The project team must compile every mistake in the document before expanding the work packages by 5% or more to reflect the changes in all the documentation.</li>
-    <li>A different way to implement the changes is to either cut or extend the project's overall timetable by 10% or more.</li>
+    <li>If a proposed change aims to limit the length of deliverables within a given deadline during the project's development phase, it is important to emphasize that increasing the duration does not equate to extending the work across the entire duration.</li>
+    <li>Changes to the scope statement need to be carefully considered to prevent conflicts during the project's documentation phase. If these changes result in a work package expansion of 5% or more, reflecting the updates across all project documentation, a schedule change request must be submitted.</li>
+    <li>When an alternative approach suggests either reducing or extending the project's overall timetable by 10% or more, a schedule change request should be initiated.</li>
 </ul>
 
 ==Scope Change==
-<p>If a project problem arises that requires a substantial change in the project scope, it is best to propose a change. It is necessary to use prudence during the process of suggesting and evaluating the project's scope adjustment. Any project team member or project client may ask to change the project's scope. All change requests must be submitted in the form of a project change request document to the project advisor. Following that, the project manager will go over the requested change to the project's scope. The project adviser will either reject the request for change if it does not fit in with the project's goals or schedule, a meeting with the project client and project team to discuss it and determine its impact. Following initial approval from the project client and project adviser, the project manager will communicate the scope change to the entire project team. In result of that, the team members will amend any applicable paperwork, deliverables, and product backlogs. </p>
+<p>When a significant problem occurs within the project that necessitates a substantial change in project scope, it is advisable to propose a change, exercising prudence during the process of suggesting and evaluating adjustments. Any member of the project team or the project client has the authority to request changes to the project's scope. To initiate a change request, a project change request document must be submitted to the project advisor, who will review the requested scope change. If the request does not align with the project's goals or schedule, the project advisor may reject it, or a meeting may be scheduled with the project client and team to discuss and assess its impact. Once the project client and advisor have initially approved the scope change, the project manager will communicate it to the entire team, who will then make necessary amendments to relevant paperwork, deliverables, and product backlogs in response to the change. </p>
 
 
 
