@@ -436,7 +436,7 @@ Knowledge in using an online system.
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.1.3.11</p></td>
- <td><p style="text-align:center;">Human Resources Management Plan</p></td>
+ <td><p style="text-align:center;">Quality Management Plan</p></td>
  </tr>
 
  <tr>
@@ -982,1186 +982,639 @@ Knowledge in using an online system.
  <tr>
  <td><p style="text-align:center;">1</p></td>
  <td><p style="text-align:center;">1</p></td>
- <td><p style="text-align:center;">Villamin Wood and Iron Works System</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Additional platform for Villamin Wood and Iron Works</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">313 days</p></td>
+ <td><p style="text-align:center;">Villamin Wood and Ironworks System</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">Additional platform for Villamin Wood and Iron Works</p> 
+ </td>
+ <td bgcolor="lightblue"><p style="text-align:center;">325 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">2</p></td>
  <td><p style="text-align:center;">1.1</p></td>
  <td><p style="text-align:center;">Planning</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Planning the process of the project</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">296 days</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">Commencing the project planning. <<</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">318 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.1.1</p></td>
- <td><p style="text-align:center;">Creation of Project</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Planning of the project. Finding a client and forming a team</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">14 days</p></td>
+ <td><p style="text-align:center;">Project Preparation</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Everyone was finding and starting to form teams. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.1.1</p></td>
+ <td><p style="text-align:center;">Creation of Project Team</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Everyone was finding and starting to form teams. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.1.2</p></td>
+ <td><p style="text-align:center;">Choose Project/Client</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team decided to choose Villamin Wood and Iron Works as their client. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.1.3</p></td>
+ <td><p style="text-align:center;">Choose Adviser/Consultant</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team looked for advisers and consultants that are in line with our course for future meetings and consultations. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.1.4</p></td>
+ <td><p style="text-align:center;">1st Meeting with Adviser</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team presented the first three chapters of the project paper to the panelists. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.1.5</p></td>
+ <td><p style="text-align:center;">1st Meeting with Client</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team will be introduced to the client that will also be interviewed to gather information about the company. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.1.2</p></td>
- <td><p style="text-align:center;">Choose Project/Client</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Choosing the possible client for the project</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">14 days</p></td>
+ <td><p style="text-align:center;">Project Proposal</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team created a project proposal that will summarize the company’s needs and problems. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">51 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.2.1</p></td>
+ <td><p style="text-align:center;">2nd Meeting with Adviser</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team set a meeting with the adviser for checking the proposed project. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.2.2</p></td>
+ <td><p style="text-align:center;">Project Proposal Evaluation (Sprint 1) </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team’s project proposal is evaluated. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.2.3</p></td>
+ <td><p style="text-align:center;">Project Proposal Progression</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The project proposal will be continued to be worked on by the team for improvements. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">10 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.2.4</p></td>
+ <td><p style="text-align:center;">Final Project Proposal Evaluation (Sprint 2) </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The improved project proposal is evaluated. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.2.5</p></td>
+ <td><p style="text-align:center;">Submission of Revised Final Project Proposal</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The final revision of the project proposal is submitted. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.1.3</p></td>
- <td><p style="text-align:center;">Choose Adviser/Consultant</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Finding professors that are in line with our course for future meetings and consultations</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">14 days</p></td>
+ <td><p style="text-align:center;">Creation of Project Management Plans</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Deliverables needed for the system. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">53 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.4</p></td>
- <td><p style="text-align:center;">Design Thinking 1</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">An assignment for us to understand how the project will be made</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.1</p></td>
+ <td><p style="text-align:center;">Project Charter</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Define a project's main goals and benefits. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">53 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.5</p></td>
- <td><p style="text-align:center;">Chapter 1</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Chapter 1 of the project paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.6</p></td>
- <td><p style="text-align:center;">Chapter 2</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Chapter 2 of the project paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.7</p></td>
- <td><p style="text-align:center;">Chapter 3</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Chapter 3 of the project paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.8</p></td>
- <td><p style="text-align:center;">Midterm (Sprint 1) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Project presentation for defense</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.9</p></td>
- <td><p style="text-align:center;">Comments Matrix</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Improvements of the first 3 chapters on the paper. </p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.2</p></td>
+ <td><p style="text-align:center;">Business Case</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Justification for embarking on a project. </p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">4 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.10</p></td>
- <td><p style="text-align:center;">Chapter 4</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Chapter 4 of the project paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.3</p></td>
+ <td><p style="text-align:center;">Stakeholder Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Appropriate management strategies for effectively engaging stakeholders throughout the project's lifecycle. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">3 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.11</p></td>
- <td><p style="text-align:center;">Chapter 5</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Chapter 5 of the project paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.12</p></td>
- <td><p style="text-align:center;">Progression of Chapter 1, 2, and 3</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Progressions of the project paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">15 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.13</p></td>
- <td><p style="text-align:center;">Finals (Sprint 2) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Improvements on the chapters of the paper. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.14</p></td>
- <td><p style="text-align:center;">Updated Comments Matrix and Paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Improvements on the chapters of the paper. </p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.4</p></td>
+ <td><p style="text-align:center;">Scope Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Processes involved in project execution. </p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">5 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.1.15</p></td>
- <td><p style="text-align:center;">Submission of Updated Comments Matrix and Final Paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Submitting the paper through uploading the files on MS 
- Teams</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.5</p></td>
+ <td><p style="text-align:center;">Cost Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Create and manage a budget. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">11 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.6</p></td>
+ <td><p style="text-align:center;">Schedule Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Describes how the timetable for a project will be set, handled, and monitored. </p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
  </tr>
 
-<tr>
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.7</p></td>
+ <td><p style="text-align:center;">Work Breakdown Structure</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A method for completing a multi-step, complex project. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.8</p></td>
+ <td><p style="text-align:center;">Work Packages Based on WBS</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A collection of related jobs within a project. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.9</p></td>
+ <td><p style="text-align:center;">3rd Meeting with Adviser</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team set a meeting with the adviser for checking the project. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.10</p></td>
+ <td><p style="text-align:center;">Human Resources Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Establishes principles for defining human resources for project management. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.11</p></td>
+ <td><p style="text-align:center;">Quality Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A document that explains the policies, processes, and objectives for achieving project quality. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">5 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.12</p></td>
+ <td><p style="text-align:center;">Risk Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Describe how to deal with business hazards. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.13</p></td>
+ <td><p style="text-align:center;">Communications Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Determines the most significant information to be presented with project participants. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.14</p></td>
+ <td><p style="text-align:center;">Procurement Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Document used to manage the vendor search and selection process. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.15</p></td>
+ <td><p style="text-align:center;">Change Management Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Making certain that changes are implemented smoothly and without incident. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">3 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.16</p></td>
+ <td><p style="text-align:center;">Implementation Plan</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Define the tasks/actions required to put each best practice into action. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">3 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.17</p></td>
+ <td><p style="text-align:center;">Project Management Plan Evaluation (Sprint 3) </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Determining whether the activities were carried out as planned and resulted in specific outcomes. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.18</p></td>
+ <td><p style="text-align:center;">Project Management Plan Revision</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Making modifications to it to improve it. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.1.3.19</p></td>
+ <td><p style="text-align:center;">Final Project Management Plan (Sprint 4) </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Determining whether the activities were carried out as planned and resulted in specific outcomes. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
  <td><p style="text-align:center;">2</p></td>
  <td><p style="text-align:center;">1.2</p></td>
  <td><p style="text-align:center;">Analysis and Design</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Initial production of the system</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">64 days</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A precise point in a project's life cycle. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">120 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.2.1</p></td>
+ <td><p style="text-align:center;">Creation of Initial Prototype</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	An early prototype, model, or release of a product designed to test a concept or method. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">26 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.1.1</p></td>
  <td><p style="text-align:center;">Choose Adviser/Consultant</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Finding professors that are in line with our course for future meetings and consultations</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">24 days</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The team looked for advisers and consultants that are in line with our course for future meetings and consultations. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.1.2</p></td>
+ <td><p style="text-align:center;">Creation of Wireframe</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A simple visual representation of the layout design of a project. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">5 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.1.3</p></td>
+ <td><p style="text-align:center;">Creation of Initial UI/UX Design</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Aspects of the custom software development process that are crucial. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">5 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.1.4</p></td>
+ <td><p style="text-align:center;">Initial Prototype Evaluation</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Determining whether the activities were carried out as planned and resulted in specific outcomes. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">5 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.1.5</p></td>
+ <td><p style="text-align:center;">Initial Prototype Progression</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	The extent to which a project has been developed and completed up to that point. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">5 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.1.6</p></td>
+ <td><p style="text-align:center;">Final Evaluation of Initial Prototype (Sprint 5) </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Determining whether the activities were carried out as planned and resulted in specific outcomes. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">5 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.2.2</p></td>
- <td><p style="text-align:center;">Compilation of MNTSDEV Requirements</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Compiled the previous requirements during MNTSDEV</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">Creation of Project Diagrams</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A graphical depiction of the workflow. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">52 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.3</p></td>
- <td><p style="text-align:center;">Software Design</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Problem-solving and software solution planning</p> 
- </td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.4</p></td>
- <td><p style="text-align:center;">MVC Infographic</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Infographic preparation for the project</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.5</p></td>
- <td><p style="text-align:center;">GitHub Repository</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Signed up/logged in into their GitHub accounts to be 
- added on the team’s repository. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.6</p></td>
- <td><p style="text-align:center;">Case in Point: Big Ten University</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Assigned to do the Case in Point: Big Ten University of 
- the project. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">3 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.7</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.1</p></td>
  <td><p style="text-align:center;">Event Table</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A series of events that occur in the system. </p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.8</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.2</p></td>
+ <td><p style="text-align:center;">4th Meeting with Adviser/Consultant</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A series of events that occur in the system. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.3</p></td>
  <td><p style="text-align:center;">Use Case Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.9</p></td>
- <td><p style="text-align:center;">Use Case Full Description</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">6 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.10</p></td>
- <td><p style="text-align:center;">Data Flow Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">6 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.11</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.4</p></td>
  <td><p style="text-align:center;">Context Flow Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">6 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.12</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.5</p></td>
+ <td><p style="text-align:center;">Use Case Full Description</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.6</p></td>
+ <td><p style="text-align:center;">Data Flow Diagram</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.7</p></td>
  <td><p style="text-align:center;">Entity-Relationship Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">6 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.13</p></td>
- <td><p style="text-align:center;">Adviser/Consultant Meeting 1</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting with the project’s adviser for consultation and 
- other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.14</p></td>
- <td><p style="text-align:center;">Submission of Midterm Deliverables</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Proofread the paper and gathered the requirements for it 
- to be emailed to the panelists. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.15</p></td>
- <td><p style="text-align:center;">Midterm (Sprint 3) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Presnted the projected and took notes on what is needed 
- to improve on the project paper. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.16</p></td>
- <td><p style="text-align:center;">Comment Matrix</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Added notes on what is needed to improve on the project 
- paper. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.17</p></td>
- <td><p style="text-align:center;">Paper Revision 1</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Revised the parts that are needed to improve. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.18</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.8</p></td>
  <td><p style="text-align:center;">Activity Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.19</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.9</p></td>
  <td><p style="text-align:center;">Object Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">6 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.20</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.10</p></td>
  <td><p style="text-align:center;">Class Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.21</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.11</p></td>
  <td><p style="text-align:center;">Sequence Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.22</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.12</p></td>
  <td><p style="text-align:center;">State Machine Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.23</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.13</p></td>
  <td><p style="text-align:center;">Package Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.24</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.14</p></td>
  <td><p style="text-align:center;">Component Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.25</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.15</p></td>
  <td><p style="text-align:center;">Deployment Diagram</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Events happening in the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.26</p></td>
- <td><p style="text-align:center;">Adviser/Consultant Meeting 2</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting with the project’s adviser for consultation and 
- other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.16</p></td>
+ <td><p style="text-align:center;">5th Meeting with Adviser/Consultant</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.27</p></td>
- <td><p style="text-align:center;">Adviser/Consultant Meeting 3</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting with the project’s adviser for consultation and 
- other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.17</p></td>
+ <td><p style="text-align:center;">Project Diagram Revision</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.28</p></td>
- <td><p style="text-align:center;">Paper Revision 2</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Revised the parts that are needed to improve. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.29</p></td>
- <td><p style="text-align:center;">Mock Presentation</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Presented the project to the adviser and given us 
- advice </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.30</p></td>
- <td><p style="text-align:center;">Submission of Final Deliverables</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Presented the project to the adviser and given us 
- advice </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.31</p></td>
- <td><p style="text-align:center;">Finals (Sprint 4) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Scanned the panelists’ comments on what is needed to 
- improve on the project paper. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.32</p></td>
- <td><p style="text-align:center;">Paper Revision 3</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Added notes on what is needed to improve on the project 
- paper. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">9 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.2.33</p></td>
- <td><p style="text-align:center;">Updated Comments Matrix and Paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Proofread the paper and gathered the requirements for it 
- to be uploaded on the Teams Channel. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.2.2.18</p></td>
+ <td><p style="text-align:center;">Submission of Final Project Diagram</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">2</p></td>
  <td><p style="text-align:center;">1.3</p></td>
  <td><p style="text-align:center;">Development, Testing, and Deployment</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Initial System Development</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">65 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.1</p></td>
  <td><p style="text-align:center;">Choose Adviser/Consultant</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Finding professors that are in line with our course for 
- future meetings and consultations. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.2</p></td>
- <td><p style="text-align:center;">Compilation of MSYADD1 Requirements</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Compiled the folder consisting of the requirements of 
- the last MSYADD1 course. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
-
+ <td><p style="text-align:center;">5th Meeting with Adviser/Consultant</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.3</p></td>
- <td><p style="text-align:center;">Project Flow</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Tracking the project's progress. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
+ <td><p style="text-align:center;">Development of System</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.3.1</p></td>
+ <td><p style="text-align:center;">Database</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.3.2</p></td>
+ <td><p style="text-align:center;">Database Initial Evaluation (Sprint 6) </p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.3.3</p></td>
+ <td><p style="text-align:center;">Home Page Feature</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">5</p></td>
+ <td><p style="text-align:center;">1.3.3.3.1</p></td>
+ <td><p style="text-align:center;">About Villamin Page</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">5</p></td>
+ <td><p style="text-align:center;">1.3.3.3.2</p></td>
+ <td><p style="text-align:center;">FAQs Page</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">5</p></td>
+ <td><p style="text-align:center;">1.3.3.3.3</p></td>
+ <td><p style="text-align:center;">Product Page</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">5</p></td>
+ <td><p style="text-align:center;">1.3.3.3.4</p></td>
+ <td><p style="text-align:center;">Cart Feature</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.3.4</p></td>
+ <td><p style="text-align:center;">Admin Dashboard</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">5</p></td>
+ <td><p style="text-align:center;">1.3.3.4.1</p></td>
+ <td><p style="text-align:center;">Dashboard</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">5</p></td>
+ <td><p style="text-align:center;">1.3.3.4.2</p></td>
+ <td><p style="text-align:center;">Report Feature</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.3.5</p></td>
+ <td><p style="text-align:center;">Log In/Sign Up Feature</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.3.6</p></td>
+ <td><p style="text-align:center;">Final System Evaluation (Sprint 7) </p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.4</p></td>
- <td><p style="text-align:center;">Assigning of Parts for Statement of Work and Project Charter Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The team leader assigned the group work </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">Testing of System</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.4.1</p></td>
+ <td><p style="text-align:center;">Unit Testing</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.4.2</p></td>
+ <td><p style="text-align:center;">6th Meeting with Adviser/Consultant</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.4.3</p></td>
+ <td><p style="text-align:center;">Performance Testing</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">4</p></td>
+ <td><p style="text-align:center;">1.3.4.4</p></td>
+ <td><p style="text-align:center;">Use Case Meeting with Client</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.5</p></td>
- <td><p style="text-align:center;">Initial Project Charter Plan (Long Version) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Gives project managers written permission to begin work.
- </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">27 days</p></td>
+ <td><p style="text-align:center;">Deployment of System</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.5.1</p></td>
- <td><p style="text-align:center;">Executive Summary</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The preliminary section of a Project Charter Plan</p> </td>
- <td bgcolor="lightblue"><p style="text-align:center;">4 days</p></td>
+ <td><p style="text-align:center;">Hosting</p></td>
+ </tr>
+
+ <tr>
+ <td><p style="text-align:center;">5</p></td>
+ <td><p style="text-align:center;">1.3.5.1.1</p></td>
+ <td><p style="text-align:center;">Setting up Hosting</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.5.2</p></td>
- <td><p style="text-align:center;">Risks</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Scenarios that will develop changing the conclusion of a 
- project, for better or for worse. </p> </td>
- <td bgcolor="lightblue"><p style="text-align:center;">4 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.5.3</p></td>
- <td><p style="text-align:center;">Project Purpose/Justification</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Scenarios that will develop changing the conclusion of a 
- project, for better or for worse. </p> </td>
- <td bgcolor="lightblue"><p style="text-align:center;">4 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.5.4</p></td>
- <td><p style="text-align:center;">Project Description</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Explains the project's specifics </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.5.5</p></td>
- <td><p style="text-align:center;">Preliminary Scope Statement</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Statement identifying the high-level project goals </p> 
- </td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.5.6</p></td>
- <td><p style="text-align:center;">Summary Milestone Schedule</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Allows the project manager to analyze and identify all 
- key and substantial project milestones that may exist during a project. </p> 
- </td>
- <td bgcolor="lightblue"><p style="text-align:center;">3 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.5.7</p></td>
- <td><p style="text-align:center;">Project Deliverables</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Output component within the scope of a project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">3 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.5.8</p></td>
- <td><p style="text-align:center;">Project Approval Requirements</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The deliverables have reached the final draft stage. 
- </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.5.9</p></td>
- <td><p style="text-align:center;">Project Manager</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The person in charge of completing the project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.5.10</p></td>
- <td><p style="text-align:center;">Authorization</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A formal procedure that enables (or grants permission 
- for) work on a project to commence. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">10 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.6</p></td>
- <td><p style="text-align:center;">Statement of Work</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A legally enforceable agreement that collects and 
- describes all aspects of your project's work management. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">8 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.1</p></td>
- <td><p style="text-align:center;">Introduction/Background</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A one-page portion of your project proposal that 
- describes the issue that your initiative will address. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.2</p></td>
- <td><p style="text-align:center;">Scope of Work</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A guide to help your team understand what a project 
- includes and excludes. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">5 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.3</p></td>
- <td><p style="text-align:center;">Period of Performance</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The total period (sometimes several years) that 
- a federal agency grants a grantee to accomplish the approved work of the project detailed in the application. 
- </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.4</p></td>
- <td><p style="text-align:center;">Place of Performance</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The overall assessment of whether a project has met its objectives and requirements in terms of scope, cost, and timeliness. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.5</p></td>
- <td><p style="text-align:center;">Work Requirements</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The features, functions, and tasks that must be performed for a project to be considered successful. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.6</p></td>
- <td><p style="text-align:center;">Schedule/Milestones</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A project's activities, deliverables, and milestones are listed here. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.7</p></td>
- <td><p style="text-align:center;">Acceptance Criteria</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Criteria that contain performance standards and fundamental conditions that should be met before the project's outcomes are granted approval </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.8</p></td>
- <td><p style="text-align:center;">Other Requirements</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Other requirements needed for the system. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">3 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.6.9</p></td>
- <td><p style="text-align:center;">Acceptance</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A procedure for reviewing and accepting project deliverables by the customer. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.7</p></td>
- <td><p style="text-align:center;">Project Vision and Scope</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Define the project's broad parameters and lay the groundwork for all following steps in the projects or programs cycle. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.7.1</p></td>
- <td><p style="text-align:center;">Business Requirements</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Define what the company wants or needs to be able to do when the project is finished. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
-
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.7.2</p></td>
- <td><p style="text-align:center;">Business Objectives and Success Criteria</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Cost, scope, and timeliness </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.7.3</p></td>
- <td><p style="text-align:center;">Vision of the Solution</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Define the end aim and any other criteria that will help the project succeed. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.7.4</p></td>
- <td><p style="text-align:center;">Scope and Limitations</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The project's anticipated completion date </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.3.7.5</p></td>
- <td><p style="text-align:center;">Business Context</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">The project's anticipated completion date </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.8</p></td>
- <td><p style="text-align:center;">Activity List</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A document that lists all the activities in a project. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">31 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.9</p></td>
- <td><p style="text-align:center;">MCSPROJ Course Paper</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A research paper that is based on your original study. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">16 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.10</p></td>
- <td><p style="text-align:center;">Team Meeting 1</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.11</p></td>
- <td><p style="text-align:center;">Initial Work Breakdown Structure (WBS) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Methodical way of completing huge tasks with multiple moving parts </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">20 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.12</p></td>
- <td><p style="text-align:center;">Team Meeting 2</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.13</p></td>
- <td><p style="text-align:center;">Improvement Matrix</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Collecting the past comments of the panelists during each defense. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">15 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.14</p></td>
- <td><p style="text-align:center;">Midterm (Sprint 5) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Project presentation for defense </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.15</p></td>
- <td><p style="text-align:center;">Midterm Comment Matrix</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Improvements of the paper. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.16</p></td>
- <td><p style="text-align:center;">User Project Review</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Detailed understanding of the project's present situation </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.17</p></td>
- <td><p style="text-align:center;">Team Meeting 3</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.18</p></td>
- <td><p style="text-align:center;">Test Case</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Beginning stage of the testing process</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">6 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.19</p></td>
- <td><p style="text-align:center;">Initial Quality Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Maintaining the program's overall quality smoothly and effectively</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.20</p></td>
- <td><p style="text-align:center;">Software Requirement Specifications</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A set of instructions that specifies what the software will accomplish and how it should behave. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">9 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.21</p></td>
- <td><p style="text-align:center;">Adviser/Consultant Meeting 4</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting with the project’s adviser for consultation and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.22</p></td>
- <td><p style="text-align:center;">Adviser/Consultant Meeting 5</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting with the project’s adviser for consultation and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.3.23</p></td>
- <td><p style="text-align:center;">Finals (Sprint 6) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Scanned the panelists’ comments on what is needed to improve on the project paper. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">System Training with Client</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">2</p></td>
  <td><p style="text-align:center;">1.4</p></td>
- <td><p style="text-align:center;">Project Management</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Planning and organizing a company's resources to complete a given task, event, or duty </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">51 days</p></td>
+ <td><p style="text-align:center;">Project Closeout</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.4.1</p></td>
- <td><p style="text-align:center;">Team Meeting 4</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">System and Documentation Turnover</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.4.2</p></td>
- <td><p style="text-align:center;">Business Case</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Rationale for carrying out a project, program, or repertoire </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">12 days</p></td>
+ <td><p style="text-align:center;">Project Closeout Meeting with Client</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.4.3</p></td>
- <td><p style="text-align:center;">Project Charter Plan (Short Version) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Venture's goals, scope, and duties to key project stakeholders to gain permission. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">9 days</p></td>
+ <td><p style="text-align:center;">Formal Acceptance</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.4.4</p></td>
- <td><p style="text-align:center;">TOPCIT Project Management Quizlet</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Competence of projects, handling projects, project tools, and assessment of projects. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.5</p></td>
- <td><p style="text-align:center;">Stakeholder Analysis</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Identifying these individuals prior to the start of the project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">9 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.6</p></td>
- <td><p style="text-align:center;">Stakeholder Management Strategy</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Managing the expectations and needs of all internal and external stakeholders </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">9 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.7</p></td>
- <td><p style="text-align:center;">Choose Project Adviser and Consultant</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Finding professors that are in line with our course for future meetings and consultations. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.8</p></td>
- <td><p style="text-align:center;">Team Meeting 5</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.9</p></td>
- <td><p style="text-align:center;">Team Meeting 6</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.10</p></td>
- <td><p style="text-align:center;">Team Meeting 7</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.11</p></td>
- <td><p style="text-align:center;">Cost Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Mapping and controlling a budget </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.12</p></td>
- <td><p style="text-align:center;">Schedule Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">How the project schedule is handled over the course of the project's lifecycle </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.13</p></td>
- <td><p style="text-align:center;">Scope Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Drafting the procedures associated with executing a project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
-
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.14</p></td>
- <td><p style="text-align:center;">Work Package Solution</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Tasks inside a project that are related </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">39 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.15</p></td>
- <td><p style="text-align:center;">Team Meeting 8</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.16</p></td>
- <td><p style="text-align:center;">Adviser/Consultant Meeting 6</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting with the project’s adviser for consultation and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.17</p></td>
- <td><p style="text-align:center;">Initial Wiki Page Encoding</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Encoding the contents about the project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">16 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.18</p></td>
- <td><p style="text-align:center;">Project Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A collection of documentation outlining the how, when, and possibilities of the completion of a project. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">20 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.1</p></td>
- <td><p style="text-align:center;">Staffing Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Employment specifications for the venture and how assets are going to be handled </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">6 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.2</p></td>
- <td><p style="text-align:center;">Change Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Putting modifications or adjustments into action in a project or throughout a company </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">6 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.3</p></td>
- <td><p style="text-align:center;">Communication Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Communication between the project teams and stakeholders </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.4</p></td>
- <td><p style="text-align:center;">Final Quality Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Guaranteeing that quality measures are put in place for a project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.5</p></td>
- <td><p style="text-align:center;">Risk Management Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Risk management for the project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.6</p></td>
- <td><p style="text-align:center;">Procurement Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Covers the items the project will purchase, classified as products, services, or technology. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">10 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.7</p></td>
- <td><p style="text-align:center;">Implementation Plan</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Drafting the processes used by a team to achieve an objective or complete a project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.8</p></td>
- <td><p style="text-align:center;">Project Management Approach</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Drafting the processes used by a team to achieve an objective or complete a project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">9 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.18.9</p></td>
- <td><p style="text-align:center;">Company Profile</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">An introductory section to a corporation in writing that informs the audience regarding its operations, mission, ambitions, and capabilities. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">4</p></td>
- <td><p style="text-align:center;">1.4.19</p></td>
- <td><p style="text-align:center;">Team Meeting 9</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.20</p></td>
- <td><p style="text-align:center;">1st Individual Weekly Status Report</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Project progress over a certain time span </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">3 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.21</p></td>
- <td><p style="text-align:center;">PMI 7th Edition Quizlet</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">An assignment for us to understand how the project will be made </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">11 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.22</p></td>
- <td><p style="text-align:center;">Final Project Charter Plan (Long Version) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Venture's goals, scope, and duties to key project stakeholders to gain permission. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">13 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.23</p></td>
- <td><p style="text-align:center;">2nd Individual Weekly Status Report</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Project progress over a certain time span </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.24</p></td>
- <td><p style="text-align:center;">Adviser/Consultant Meeting 7</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting with the project’s adviser for consultation and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.25</p></td>
- <td><p style="text-align:center;">PMBOK Quizlet</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">An assignment for us to understand how the project will be made </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.26</p></td>
- <td><p style="text-align:center;">Final Work Breakdown Structure (WBS) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">A sequentially strategy to completing huge tasks with multiple variables </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.27</p></td>
- <td><p style="text-align:center;">Final Wiki Page Encoding</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Final encoding the contents about the project </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">14 days</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.28</p></td>
- <td><p style="text-align:center;">Team Meeting 10</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.29</p></td>
- <td><p style="text-align:center;">Team Meeting 11</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.30</p></td>
- <td><p style="text-align:center;">Team Meeting 12</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Meeting for help and other clarifications. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.4.31</p></td>
- <td><p style="text-align:center;">Finals (Sprint 7) </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Project presentation for defense </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">2</p></td>
- <td><p style="text-align:center;">1.5</p></td>
- <td><p style="text-align:center;">Project Closeout </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Completes every task assigned across all phases of the project. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.5.1</p></td>
- <td><p style="text-align:center;">Project Turnover </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Transfer from construction or renovation to use and occupancy </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.5.2</p></td>
- <td><p style="text-align:center;">Project Documentation </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Documentation created by the project manager throughout its developmental phase. </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">3</p></td>
- <td><p style="text-align:center;">1.5.3</p></td>
- <td><p style="text-align:center;">Project Demonstration </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">Evaluation of the system </p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">1 day</p></td>
+ <td><p style="text-align:center;">Final Meeting with Client</p></td>
  </tr>
 
 </table>
