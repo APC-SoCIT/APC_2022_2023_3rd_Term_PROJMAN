@@ -799,7 +799,7 @@ Below are the meeting guidelines for Dispatch Directory System project: </p>
 
   <h2>Key Objectives</h2>
   <ul>
-    <li>uild a useful website that enables users to explore items and place orders using a user-friendly interface.</li> 
+    <li>Build a useful website that enables users to explore items and place orders using a user-friendly interface.</li> 
     <li>Simplify order management procedures to increase productivity and cut down on handling time.</li> 
     <li>Improve team member collaboration and communication to promote efficient operations. </li>
     <li>Install reliable reporting tools to facilitate decision-making and produce company insights.</li>
@@ -811,7 +811,7 @@ Below are the meeting guidelines for Dispatch Directory System project: </p>
     <br>Phase 2: Website Development and Testing
     <br>Phase 3: Deployment and Training
     <br>Phase 4: Post-Implementation Review and Optimization
-    <p>Each phase focuses on specific activities, such as analyzing requirements, developing the website, conducting testing, deploying the system, and continuously improving its performance.</p>
+    <br><p>Each phase focuses on specific activities, such as analyzing requirements, developing the website, conducting testing, deploying the system, and continuously improving its performance.</p>
 
   <h2>Key Stakeholders and Roles</h2>
     <p>Project Sponsor: Provides overall guidance, support, and resources.</p>
@@ -906,14 +906,11 @@ Below are the meeting guidelines for Dispatch Directory System project: </p>
 <h2>Workforce Transition</h2>
   <p>The workforce transition plan is a crucial component of the transition strategy for the Fleeky Curtains project. It aims to facilitate a smooth and seamless transfer of personnel, ensuring the continuity of operations and minimizing any potential disruptions.</p>
   
-  <p>The Transition Project Manager, in collaboration with the HR department and management, will oversee the workforce transition process. The following steps will be taken to ensure an effective transition:</p>
+  <p>The Transition Project Manager, in collaboration with the Project Leader Pallas Fontiveros, will oversee the workforce transition process. The following steps will be taken to ensure an effective transition:</p>
   
   <h4>Workforce Assessment:</h4>
   <p>A comprehensive assessment of the current workforce will be conducted to determine the skill sets, competencies, and roles of the employees involved in the project. This assessment will help identify any gaps or redundancies in the workforce.</p>
-  
-  <h4>Retention and Transition:</h4>
-  <p>Efforts will be made to retain valuable and experienced employees who are essential to the success of the project. The Transition Project Manager will work closely with the HR department to develop retention strategies and negotiate transition plans with the new contractor if applicable.</p>
-  
+    
   <h4>Training and Development:</h4>
   <p>Training programs will be organized to equip the workforce with the necessary skills and knowledge required for the transition. This may include technical training, process training, or any other relevant training programs to ensure a smooth transfer of responsibilities.</p>
   
@@ -976,22 +973,22 @@ Below are the meeting guidelines for Dispatch Directory System project: </p>
   <p>During the transition process of the Fleeky Curtains project, it is crucial to consider the handling of intellectual property (IP) to facilitate a seamless transfer of all pertinent documentation, supplier and subcontractor information, service agreements, or original designs or plans. Proper management of IP entails addressing legal considerations and may involve the completion of non-disclosure agreements (NDAs) between the incumbent and the customer.</p>
   
   <p>To ensure the appropriate handling of intellectual property during the transition, the following steps will be undertaken:</p>
-  
-  <h4>Identification of Relevant Intellectual Property:</h4>
+<ol>
+  <li><b>Identification of Relevant Intellectual Property:</b>
   <p>All intellectual property associated with the project will be identified, encompassing design documents, patents, trademarks, copyrights, software code, and any proprietary information or trade secrets.</p>
   
-  <h4>Evaluation of Contractual Agreements:</h4>
+  <li><b>Evaluation of Contractual Agreements:</b>
   <p>Existing contractual agreements concerning intellectual property ownership and transfer will be carefully reviewed and assessed to ensure compliance throughout the transition.</p>
   
-  <h4>Negotiation of New Agreements:</h4>
+  <li><b>Negotiation of New Agreements:</b>
   <p>If any gaps or inconsistencies are identified in the existing agreements, new agreements will be negotiated among the incumbent, new contractor, and the customer. These new agreements will aim to establish clear guidelines for the proper ownership and transfer of all intellectual property.</p>
   
-  <h4>Protection of Intellectual Property:</h4>
+  <li><b>Protection of Intellectual Property:</b>
   <p>During the transition period, all intellectual property will be safeguarded through the implementation of non-disclosure agreements (NDAs) and other relevant legal measures.</p>
   
-  <h4>Transfer of Intellectual Property:</h4>
+  <li><b>Transfer of Intellectual Property:</b>
   <p>Upon the completion of the transition process, the transfer of relevant intellectual property will be executed according to the contractual agreements in place. This may involve transferring ownership to the new contractor, the customer, or retaining it with the incumbent, as stipulated in the agreements.</p>
-  
+ </ol>
   <p>By adhering to these steps, Fleeky Curtains can ensure a smooth and secure transition of all intellectual property associated with the project. This approach will mitigate the risk of IP-related issues and facilitate a successful transition process.</p>
   
   <h2>User Accounts and Passwords</h2>
