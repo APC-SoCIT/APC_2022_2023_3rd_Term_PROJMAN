@@ -247,93 +247,33 @@ Knowledge in using an online system.
 :; 1.3.3 Development of System
 :: 1.3.3.1 Database
 :: 1.3.3.2 Database Initial Evaluation (Sprint 6)
-:: 1.3.3.3 Home Page Feature
-::: 1.3.5.4 Project Description
-:: 1.3.5.5 Preliminary Scope Statement
-:: 1.3.5.6 Summary Milestone Schedule
-:: 1.3.5.7 Project Deliverables
-:: 1.3.5.8 Project Approval Requirements
-:: 1.3.5.9 Project Manager
-:: 1.3.5.10 Authorization
-:; 1.3.6 Statement of Work
-:: 1.3.6.1 Introduction/Background
-:: 1.3.6.2 Scope of Work
-:: 1.3.6.3 Period of Performance
-:: 1.3.6.4 Place of Performance
-:: 1.3.6.5 Work Requirements
-:: 1.3.6.6 Schedule/Milestones
-:: 1.3.6.7 Acceptance Criteria
-:: 1.3.6.8 Other Requirements
-:: 1.3.6.9 Acceptance
-:; 1.3.7 Project Vision and Scope
-:: 1.3.7.1 Business Requirements
-:: 1.3.7.2 Business Objectives and Success Criteria
-:: 1.3.7.3 Vision of the Solution
-:: 1.3.7.4 Scope and Limitations
-:: 1.3.7.5 Business Context
-: 1.3.8 Activity List
-: 1.3.9 MCSPROJ Course Paper
-: 1.3.10 Team Meeting 1
-: 1.3.11 Initial Work Breakdown Structure (WBS)
-: 1.3.12 Team Meeting 2
-: 1.3.13 Improvement Matrix
-: 1.3.14 Midterm (Sprint 5)
-: 1.3.15 Midterm Comment Matrix
-: 1.3.16 User Project Review
-: 1.3.17 Team Meeting 3
-: 1.3.18 Test Case
-: 1.3.19 Initial Quality Management Plan
-: 1.3.20 Software Requirement Specifications
-: 1.3.21 Adviser/Consultant Meeting 4
-: 1.3.22 Adviser/Consultant Meeting 5
-: 1.3.23 Finals (Sprint 6)
+::; 1.3.3.3 Home Page Feature
+::: 1.3.3.3.1 About Villamin Page
+::: 1.3.3.3.2 FAQs Page
+::: 1.3.3.3.3 Product Page
+::: 1.3.3.3.4 Cart Feature
+::; 1.3.3.4 Admin Dashboard
+::: 1.3.3.4.1 Dashboard
+::: 1.3.3.4.2 Report Feature
+:: 1.3.3.5 Log In/Sign Up Feature
+:: 1.3.3.6 Final System Evaluation (Sprint 7)
 
-; <i>1.4 Project Management</i>
-: 1.4.1 Team Meeting 4
-: 1.4.2 Business Case
-: 1.4.3 Project Charter Plan (Short Version)
-: 1.4.4 TOPCIT Project Management Quizlet
-: 1.4.5 Stakeholder Analysis
-: 1.4.6 Stakeholder Management Strategy
-: 1.4.7 Choose Project Adviser and Consultant
-: 1.4.8 Team Meeting 5
-: 1.4.9 Team Meeting 6
-: 1.4.10 Team Meeting 7
-: 1.4.11 Cost Management Plan
-: 1.4.12 Schedule Management Plan
-: 1.4.13 Scope Management Plan
-: 1.4.14 Work Package Solution
-: 1.4.15 Team Meeting 8
-: 1.4.16 Adviser/Consultant Meeting 6
-: 1.4.17 Initial Wiki Page Encoding
-:; 1.4.18 Project Management Plan
-:: 1.4.18.1 Staffing Management Plan
-:: 1.4.18.2 Change Management Plan
-:: 1.4.18.3 Communication Management Plan
-:: 1.4.18.4 Final Quality Management Plan
-:: 1.4.18.5 Risk Management Plan
-:: 1.4.18.6 Procurement Plan
-:: 1.4.18.7 Implementation Plan
-:: 1.4.18.8 Project Management Approach
-:: 1.4.18.9 Company Profile
-: 1.4.19 Team Meeting 9
-: 1.4.20 1st Individual Weekly Status Report
-: 1.4.21 PMI 7th Edition Quizlet
-: 1.4.22 Final Project Charter Plan (Long Version)
-: 1.4.23 2nd Individual Weekly Status Report
-: 1.4.24 Adviser/Consultant Meeting 7
-: 1.4.25 PMBOK Quizlet
-: 1.4.26 Final Work Breakdown Structure (WBS)
-: 1.4.27 Final Wiki Page Encoding
-: 1.4.28 Team Meeting 10
-: 1.4.29 Team Meeting 11
-: 1.4.30 Team Meeting 12
-: 1.4.31 Finals (Sprint 7)
+:; 1.3.4 Testing of System
+:: 1.3.4.1 Unit Testing
+:: 1.3.4.2 6th Meeting with Adviser/Consultant
+:: 1.3.4.3 Performance Testing
+:: 1.3.4.4 Use Case Meeting with Client
 
-; <i>1.5 Project Closeout</i>
-: 1.5.1 Project Turnover
-: 1.5.2 Project Documentation
-: 1.5.3 Project Demonstration
+:; 1.3.5 Deployment of System
+::; 1.3.5.1 Hosting 
+::: 1.3.5.1.1 Setting up Hosting
+:: 1.3.5.2 System Training with Client
+
+; <i>1.4 Project Closeout</i>
+: 1.4.1 System and Documentation Turnover
+: 1.4.2 Project Closeout Meeting with Client
+: 1.4.3 Formal Acceptance
+: 1.4.4 Final Meeting with Client
 
 ==Hierarchical View==
 <table border="1" width="70%" align="center">
