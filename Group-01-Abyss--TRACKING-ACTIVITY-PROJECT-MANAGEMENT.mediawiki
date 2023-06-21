@@ -1932,77 +1932,377 @@ In addition to that there are format that are easily understandable and helpful 
 ==Scope Change==
 <p>When a significant problem occurs within the project that necessitates a substantial change in project scope, it is advisable to propose a change, exercising prudence during the process of suggesting and evaluating adjustments. Any member of the project team or the project client has the authority to request changes to the project's scope. To initiate a change request, a project change request document must be submitted to the project advisor, who will review the requested scope change. If the request does not align with the project's goals or schedule, the project advisor may reject it, or a meeting may be scheduled with the project client and team to discuss and assess its impact. Once the project client and advisor have initially approved the scope change, the project manager will communicate it to the entire team, who will then make necessary amendments to relevant paperwork, deliverables, and product backlogs in response to the change. </p>
 
+=Staffing Management Plan=
+==Introduction==
+<p>Any project&apos;s success depends on a solid management plan. It helps to ensure that the right people with the correct qualifications are in the right place at the right time and serves as a model for how the project team will be managed and organized. The strategy includes roles and responsibilities, communication procedures, and performance management standards. With the help of this plan, the project manager and project team can manage the project in an efficient manner, making sure that everyone on the team is aware of their duties and responsibilities, that communication is clear and effective, and that performance is tracked and managed in a way that supports the project&apos;s success as a whole.</p>
+<br>
 
+==Roles and Responsibilities==
+<p>Any project must have a strong management plan in place to be successful. To ensure that everyone is aware of their particular contributions and how they fit into the larger picture, it explains the roles and responsibilities of all project team members and stakeholders. The plan also specifies each team member&apos;s level of authority and decision-making capacity, ensuring that resources are distributed and used efficiently. The strategy guarantees that the right people are in the right roles to accomplish project success by explicitly identifying competences and skill needs.</p>
+<br>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 102.9pt;border: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Role</span></strong></p>
+            </td>
+            <td style="width: 107.65pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Authority</span></strong></p>
+            </td>
+            <td style="width: 110.55pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Responsibility</span></strong></p>
+            </td>
+            <td style="width: 110.4pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Competency</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 102.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Sponsor</span></p>
+            </td>
+            <td style="width: 107.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Authorize the business case and budget for the project. offers resources and a clear strategic direction.</span></p>
+            </td>
+            <td style="width: 110.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Ensures the success of a project. Provides leadership, support, and guidance throughout the project lifecycle. Assist in updating the company on the status and advantages of the project.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 110.4pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Ability to successfully communicate with a variety of stakeholders. Strong leadership and strategic thinking abilities. comprehensive knowledge of the organization&apos;s mission, objectives, and values.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Possibility of obtaining funding and assistance for the project.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 102.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Manager</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 107.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Complete power to make decisions on the project.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>can distribute project resources and provide the go-ahead for low-impact adjustments to the project&apos;s scope, timetable, and budget.</span></p>
+            </td>
+            <td style="width: 110.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Controls and oversee all aspects of the project, including its planning, implementation, monitoring, and closeout.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Make that the project&apos;s goals are attained on schedule, within budget, and with the appropriate level of quality.</span></p>
+            </td>
+            <td style="width: 110.4pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Exceptional communication, project management, and leadership abilities. experience in difficult project management.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 102.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Internal</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>User of the</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>System<br>&nbsp;(Abyss Team)</span></p>
+            </td>
+            <td style="width: 107.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Employs the system as intended to carry out job tasks.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>feedback on the system&apos;s performance, usefulness, and usability.</span></p>
+            </td>
+            <td style="width: 110.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Utilize the system as intended to complete job tasks.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Check the precision and completeness of the data.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>To the project team, report any systemic difficulties and concerns.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Let us know your thoughts on the performance, functionality, and usefulness of the system.</span></p>
+            </td>
+            <td style="width: 110.4pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>knowledge about the tasks and activities that the system is being utilized for.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>having the knowledge necessary to carry out the prescribed work duties.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>basic computer knowledge, including competence with the system.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 102.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>External</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Users of the</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>System<br>&nbsp;(PDO)</span></p>
+            </td>
+            <td style="width: 107.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Receives service requests, logs in, and utilizes the system to process them.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>changes the status of a service request.</span></p>
+            </td>
+            <td style="width: 110.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Monitoring and responding to service requests quickly. Maintain accurate and current data on service request standings. When necessary, communicate with internal stakeholders to finish service requests. Close out service requests that have been fulfilled.</span></p>
+            </td>
+            <td style="width: 110.4pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Understanding of the processes, tools, and resources needed to fulfill service requests.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>the capacity to recognize and resolve technological problems. Understanding the significance of keeping the system&apos;s data correct and up to date.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 102.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 107.65pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Reviews, accepts, or rejects service requests using the system that is accessed and used. Service requests are assigned to internal or external technicians. information on the status and fulfilment of service requests.&nbsp;</span></p>
+            </td>
+            <td style="width: 110.55pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Upon reviewing the requests, decide whether to accept or reject them in accordance with corporate goals and policies.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>In accordance with their qualifications and availability, assign service requests to internal or external technicians.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Customers and internal stakeholders should be informed of the status and progress of service requests.</span></p>
+            </td>
+            <td style="width: 110.4pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Understanding of the organization&apos;s priorities and policies for service requests.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>the capacity to allocate and rank work tasks in accordance with technician expertise and availability.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:  "Arial",sans-serif;'>Recognizing the significance of accurate and prompt reporting on the status and completion of service requests.</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
 
+==Project Organizational Charts==
+<p>An organizational chart for a Tracking Activity Project Management system provides a visual representation of the project team&apos;s structure and the reporting relationships within the project. It outlines the roles and responsibilities of the team members involved in tracking and monitoring the progress of the project. The chart helps to establish clarity, define accountability, and facilitate effective communication within the project team. At the top of the organizational chart is typically the project sponsor, who serves as the overall champion and provides strategic guidance for the project. Reporting directly to the sponsor is the project manager, who is responsible for overseeing the entire project and ensuring its successful execution. Below the project manager, there may be various functional roles involved in the tracking and monitoring of the project.</p>
+<br>
+
+==Staffing Management==
+<p>Staffing management for Tracking Activity Project Management system involves identifying, acquiring, and managing the right personnel with the necessary skills and expertise to develop, implement, and maintain the system.&nbsp;</p>
+<ul>
+    <li>Assign a skilled project manager who will oversee the entire project, coordinate activities, and ensure that project goals are achieved within the defined scope, budget, and timeline.&nbsp;</li>
+    <li>Identify and recruit technical experts who specialize in areas relevant to the Project Tracking and Monitoring System. This may include software developers, database administrators, system analysts, UI/UX designers, and quality assurance testers.&nbsp;</li>
+    <li>Determine the level of user support required for the Project Tracking and Monitoring System. This may involve assigning dedicated support staff who can address user queries, provide training, and troubleshoot issues that arise during system usage.&nbsp;</li>
+    <li>Regularly evaluate the performance of the project team members to ensure that they are meeting project expectations and objectives. Provide feedback, support professional development, and address any performance issues that may arise.&nbsp;</li>
+</ul>
+<p>To keep it in line with the goals and needs of the project, the Staffing Management Plan will be periodically reviewed and revised as required. The project manager must carefully examine the rules and specifications that apply to the project in question to see whether any other elements need to be included in the workforce management strategy.</p>
+<p><br></p>
+<table style="border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td style="width: 55.9pt;border: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Role</span></strong></p>
+            </td>
+            <td style="width: 81.35pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Project responsibility</span></strong></p>
+            </td>
+            <td style="width: 86pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Skills Required</span></strong></p>
+            </td>
+            <td style="width: 81.95pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Number of Staff</span></strong></p>
+            </td>
+            <td style="width: 77.9pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Performance Reviews</span></strong></p>
+            </td>
+            <td style="width: 90.05pt;border-top: 1pt solid black;border-right: 1pt solid black;border-bottom: 1pt solid black;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><strong><span style='font-family:"Arial",sans-serif;'>Recognition and Awards</span></strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 55.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;text-align:center;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 81.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Overall accountability for project success, including meeting project objectives, delivering within budget and timeline, and ensuring stakeholder satisfaction.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Responsible for project planning, execution, monitoring, and control.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Identifying and managing project risks, issues, and changes.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Ensuring effective communication and collaboration among project team members and stakeholders.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Adhering to organizational policies, standards, and methodologies.</span></p>
+            </td>
+            <td style="width: 86pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Excellent leadership</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Team management skills</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Strong communication</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Negotiation</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Conflict resolution abilities</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Risk management</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Decision-making skills</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Stakeholder management</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Relationship building skills</span></p>
+            </td>
+            <td style="width: 81.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>The number of staff required depends on the project&apos;s complexity, scope, and scale.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Assess the specific project requirements and determine the necessary roles and responsibilities.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Consider the expertise needed in areas such as development, testing, design, and support.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>The project manager may need additional staff for project coordination, administration, and documentation.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 77.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Successful completion of project deliverables within the defined timeline, budget, and quality standards.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Achievement of project objectives and stakeholder satisfaction.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Effective utilization and management of resources.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Ability to adapt to changing project requirements and mitigate risks.</span></p>
+            </td>
+            <td style="width: 90.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Recognition for successful project completion and meeting project objectives.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Acknowledgment of exceptional leadership and management skills.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Awards for successful implementation, innovation, or cost savings achieved through the project.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Recognition for overcoming challenges and delivering exceptional results.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 55.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Team Leader</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 81.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Lead and manage the project team, ensuring the successful execution of project goals and objectives.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Coordinate and oversee project activities, including planning, resource allocation, and task delegation.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Foster collaboration and effective communication among team members and stakeholders.</span></p>
+            </td>
+            <td style="width: 86pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Strong leadership</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Team management abilities</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Excellent communication</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Time management skills</span></p>
+            </td>
+            <td style="width: 81.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>The required number of staff for a project team leader can vary depending on the project&apos;s size, complexity, and scope.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Typically, a project team leader may oversee a team of 5-15 members, but this can vary significantly.</span></p>
+            </td>
+            <td style="width: 77.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Conduct regular performance reviews for team members to assess their progress, achievements, and areas for improvement.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Provide constructive feedback and guidance to help team members enhance their performance.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Set performance goals and objectives aligned with the project&apos;s objectives and track progress towards them.</span></p>
+            </td>
+            <td style="width: 90.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Acknowledge and recognize team members&apos; efforts and achievements through verbal praise and written commendations.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Provide opportunities for team members to showcase their work and achievements to stakeholders and senior management.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Consider nominating exceptional team members for awards and recognition programs within the organization.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 55.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Team Member</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 81.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Work together with other team members to accomplish project objectives.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Notify the project manager or leader how things are going. Attend project meetings and participate in discussions.&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>To guarantee that project activities are performed on schedule and within budget, employees must properly manage their time and work.</span></p>
+            </td>
+            <td style="width: 86pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Technical expertise: Relevant technical skills and knowledge related to the project domain.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Communication: Strong verbal and written communication skills to effectively collaborate with team members, stakeholders, and clients.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Problem-solving: Ability to analyze and solve problems that arise during project execution.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Time management: Ability to prioritize tasks, meet deadlines, and manage time efficiently.</span></p>
+            </td>
+            <td style="width: 81.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>The required number of project team members can vary depending on the project&apos;s size, complexity, and scope.</span></p>
+            </td>
+            <td style="width: 77.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>The requirements of the project and the company&apos;s regulations will be used to decide the frequency and type of performance evaluations.</span></p>
+            </td>
+            <td style="width: 90.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>To inspire team members and promote good performance, the project manager or leader will put in place a recognition and incentive system.</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 55.9pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Executive Sponsor</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 81.35pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Providing strategic direction and guidance to the project team.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Ensuring alignment of the project with organizational goals and objectives.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Championing the project and securing necessary resources.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Managing relationships with key stakeholders.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Overseeing the project&apos;s progress and intervening as needed.</span></p>
+            </td>
+            <td style="width: 86pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Strong leadership and management skills.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Excellent communication and interpersonal skills.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Strategic thinking and problem-solving abilities.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Knowledge of project management principles and practices.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Ability to influence and negotiate with stakeholders.</span></p>
+            </td>
+            <td style="width: 81.95pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>The number of project executive sponsors can vary depending on the size and complexity of the project, as well as the organization&apos;s structure.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+            </td>
+            <td style="width: 77.9pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Performance reviews for project executive sponsors typically involve evaluating their overall effectiveness in guiding and supporting the project.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Assessments may consider factors such as strategic alignment, stakeholder management, resource allocation, decision-making, and project outcomes.</span></p>
+            </td>
+            <td style="width: 90.05pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0in 5.4pt;vertical-align: top;">
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Recognizing and awarding project executive sponsors can serve as a way to acknowledge their significant contributions and demonstrate appreciation for their efforts.</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>&nbsp;</span></p>
+                <p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:.5in;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;margin:0in;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Awards can be given based on exceptional leadership, successful project outcomes, effective stakeholder management, or other specific criteria.</span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;margin-left:0in;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
+<p><br></p>
 
 =Change Management Plan=
 ==Introduction==
-<p>The Change Management plan was created for the ADENICSY project to set and meet goals on how the clinic would change regarding appointments and storage. All stakeholders are expected to submit or request changes to the ADENICSY project in accordance with this Change Management Plan and all requests and submissions will follow the process detailed herein.</p>
+<p>A well-structured plan for managing changes is essential to ensure the successful implementation of any project, such as the Tracking Activity Project Management system. This plan provides a systematic approach to identify, assess, and implement changes that may arise throughout the project. It guarantees that any alterations are thoroughly evaluated, align with the project&apos;s scope, and effectively communicated to all stakeholders.</p><br>
+<p>The change management strategy includes a clear process for submitting, evaluating, and approving changes. This process is shared with all stakeholders, who are encouraged to request any modifications they deem necessary. The project team then evaluates these requests, considering their impact on the project&apos;s schedule, cost, and quality. Approved changes are executed in a controlled and organized manner, while rejected changes are documented and retained for future reference.</p><br>
+<p>It is crucial to note that making alterations outside of the change management strategy can negatively affect the project&apos;s progress and outcome. Therefore, it is essential for all stakeholders to understand and adhere to the change management process. This adherence guarantees that the project stays on track and that any adjustments made contribute to the overall success of the project.</p><br>
 
 ==Change Control Board==
 
-<p>The ADENICSY Change Control Board is the approval authority for all proposed change requests pertaining to the IS Project. The purpose of ADENICSY is to review all change requests, determine their impacts on the project risk, scope, cost, and schedule, and to approve or deny each change request. The following chart provides a list of the CCB (Change Control Board) members for the IS Project: </p>
+<p>The Change Control Board comprises a specific group of stakeholders who are accountable for approving or rejecting changes related to the Tracking Activity Project Management System. The following table provides a concise overview of each individual who serves on the Change Control Board:</p>
 
-<table border="1" width="70%" align="center">
-   <tr>
-      <th>Change Control Board Roles</th>
-      <th>Roles</th>
-      <th>Name</th>
-      <th>Contact</th>
-      <th>Responsibilities</th>
-      </tr>
-      <tbody>
-      <tr>
-      <td>Change Control Board Chair</td>
-      <td>Project Sponsor </td>
-      <td>Dr. Denroe Apelo</td>
-      <td></td>
-      <td>Project Sponsors can help to ensure that the project accomplishes its goals and adds value to the organization by supervising it, resolving problems, talking to stakeholders, offering support, and celebrating success. </td>
-      </tr>
-      <tr>
-      <td>Change Control Board Member</td>
-      <td>Project Leader/Manager</td>
-      <td>Janssen Pedrola</td>
-      <td>jtpedrola@student.apc.edu.ph</td>
-      <td>The project manager oversees defining ADENICSY’s project scope and goal. The Project Leader/Manager oversees developing or implementing new software, launching a new product, or completely overhauling an organization's marketing plan.  </td>
-      </tr>
-      <tr>
-      <td>Change Control Board Member</td>
-      <td>Project Operations Lead</td>
-      <td>Alfonzo Louise De Vera</td>
-      <td>abdevera@student.apc.edu.ph</td>
-      <td>The operation lead oversees developing any project execution strategies and overseeing the project's operational performance by keeping track of the project's progress. </td>
-      </tr>
-      <tr>
-      <td>Change Control Board Member</td>
-      <td>Project Technical Lead</td>
-      <td>Guiler Marion Regalado</td>
-      <td>grregalado@student.apc.edu.ph</td>
-      <td>Determines ADENICSY’s project requirements and develops work schedules for the team. Identifying risks and forming contingency plans as soon as possible. Analyzing the existing operations and meeting to discuss improvements.  </td>
-      </tr>
-      <tr>
-      <td>Change Control Board Member</td>
-      <td>Project Documentations Lead</td>
-      <td>Patricia Anne Meltran</td>
-      <td>plmeltran@student.apc.edu.ph</td>
-      <td>Documentation lead is responsible for identifying and suggesting improvements after assessing the effectiveness and efficiency of the current document management systems and practices. </td>
-      </tr>
-      <tr>
-      <td>Change Control Board Member</td>
-      <td>Project Operations Lead</td>
-      <td>Earl Eufimeah Dahinao</td>
-      <td>etdahinao@student.apc.edu.ph</td>
-      <td>The operation lead oversees developing any project execution strategies and overseeing the project's operational performance by keeping track of the project's progress. </td>
-      </tr>
-      <tr>
-      <td>Change Control Board Member</td>
-      <td>Project Technical Lead</td>
-      <td>Ivan Emmanuel Flores</td>
-      <td>ilflores@student.apc.edu.ph</td>
-      <td>Determines ADENICSY’s project requirements and develops work schedules for the team. Identifying risks and forming contingency plans as soon as possible. Analyzing the existing operations and meeting to discuss improvements.</td>
-      </tr>
-      </tbody>
-</table>
 <br>
 ==Roles and Responsibilities==
 <br>
