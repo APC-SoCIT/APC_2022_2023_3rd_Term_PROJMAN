@@ -2403,74 +2403,7 @@ In addition to that there are format that are easily understandable and helpful 
 <p>&nbsp;</p>
 
 ==Roles and Responsibilities==
-<br>
-<table border="1" cellspacing="0" cellpadding="0" width="737">
-    <tbody>
-        <tr>
-            <td width="17.91044776119403%" valign="top">
-                <p><strong>Name</strong></p>
-            </td>
-            <td width="19.26729986431479%" valign="top">
-                <p><strong>Project Role</strong></p>
-            </td>
-            <td width="62.82225237449118%" valign="top">
-                <p><strong>Responsibilities</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td width="17.91044776119403%" valign="top">
-                <p>Jayvee Cabardo</p>
-            </td>
-            <td width="19.26729986431479%" valign="top">
-                <p>Project Sponsor</p>
-            </td>
-            <td width="62.82225237449118%" valign="top">
-                <p>Oversee all change request made throughout the project and ensure that any high-impact requests are promptly addressed.</p>
-                <p>Monitor the Project Manager&apos;s determinations regarding low-impact requests.</p>
-                <p>Submit a change request if deemed necessary.</p>
-                <p>Review the change request log and reports to ensure consistency with the implemented changes.</p>
-            </td>
-        </tr>
-        <tr>
-            <td width="17.91044776119403%" valign="top">
-                <p>Project Development Office</p>
-            </td>
-            <td width="19.26729986431479%" valign="top">
-                <p>External User of the System</p>
-            </td>
-            <td width="62.82225237449118%" valign="top">
-                <p>Submit a change request if deemed necessary.</p>
-                <p>Review the change request log and reports to ensure consistency with the implemented changes.</p>
-            </td>
-        </tr>
-        <tr>
-            <td width="17.91044776119403%" valign="top">
-                <p>Noreen Keziah Sioco</p>
-            </td>
-            <td width="19.26729986431479%" valign="top">
-                <p>Project Manager</p>
-            </td>
-            <td width="62.82225237449118%" valign="top">
-                <p>Submit a change request if deemed necessary.</p>
-                <p>Review the change request log and reports to ensure consistency **** the implemented changes.</p>
-                <p>Conduct an impact analysis for each change request received to distinguish between low-impact and high-impact change requests. This analysis will also assist the Project Sponsor in making decisions regarding high-impact requests.</p>
-            </td>
-        </tr>
-        <tr>
-            <td width="17.91044776119403%" valign="top">
-                <p>Development Team</p>
-            </td>
-            <td width="19.26729986431479%" valign="top">
-                <p>Developers</p>
-            </td>
-            <td width="62.82225237449118%" valign="top">
-                <p>Carry out the technical aspects of the action plan for implementing the change request.</p>
-                <p>Evaluate the change request log and reports to verify consistency with the implemented changes.</p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<br>
+
 
 ==Change Control Process==
 <br>
