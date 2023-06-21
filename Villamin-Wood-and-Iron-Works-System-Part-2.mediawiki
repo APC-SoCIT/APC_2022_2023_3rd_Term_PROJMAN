@@ -838,26 +838,45 @@ Knowledge in using an online system.
  <td bgcolor="lightblue"><p style="text-align:center;">LEVEL 2</p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">LEVEL 3</p></td>
  <td bgcolor="lightblue"><p style="text-align:center;">LEVEL 4</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">LEVEL 5</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">Villamin Wood and Ironworks System</p></td>
  <td><p style="text-align:center;">1.1 Planning</p></td>
- <td><p style="text-align:center;">1.1.1 Creation of Project <br> 
-                                   1.1.2 Choose Project/Client <br>
-                                   1.1.3 Choose Adviser/Consultant <br>
-                                   1.1.4 Design Thinking 1 <br>
-                                   1.1.5 Chapter 1 <br>
-                                   1.1.6 Chapter 2 <br>
-                                   1.1.7 Chapter 3 <br>
-                                   1.1.8 Midterm (Sprint 1) <br>
-                                   1.1.9 Comments Matrix <br>
-                                   1.1.10 Chapter 4 <br>
-                                   1.1.11 Chapter 5 <br>
-                                   1.1.12 Progression of Chapter 1, 2, and 3 <br>
-                                   1.1.13 Finals (Sprint 2) <br>
-                                   1.1.14 Updated Comments Matrix and Paper <br>
-                                   1.1.15 Submission of Updated Comments Matrix and Final Paper
+ <td><p style="text-align:center;"> 1.1.1 Project Preparation <br>
+                                    1.1.2 Project Proposal <br>
+                                    1.1.3 Creation of Project Management Plans <br>
+ </p></td>
+ <td><p style="text-align:center;">1.1.1.1 Creation of Project Team <br>
+                                   1.1.1.2 Choose Project/Client <br> 
+                                   1.1.1.3 Choose Adviser/Consultant <br> 
+                                   1.1.1.4 1st Meeting with Adviser <br> 
+                                   1.1.1.5 1st Meeting with Client <br> <br>
+                                   1.1.2.1 2nd Meeting with Adviser <br>
+                                   1.1.2.2 Project Proposal Evaluation (Sprint 1) <br>
+                                   1.1.2.3 Project Proposal Progression <br>
+                                   1.1.2.4 Final Project Proposal Evaluation (Sprint 2) <br>
+                                   1.1.2.5 Submission of Revised Final Project Proposal <br> <br>
+                                   1.1.3.1 Project Charter <br>
+                                   1.1.3.2 Business Case <br>
+                                   1.1.3.3 Stakeholder Management Plan <br>
+                                   1.1.3.4 Scope Management Plan <br>
+                                   1.1.3.5 Cost Management Plan <br>
+                                   1.1.3.6 Schedule Management Plan <br>
+                                   1.1.3.7 Work Breakdown Structure <br>
+                                   1.1.3.8 Work Packages Based on WBS <br>
+                                   1.1.3.9 3rd Meeting with Adviser <br>
+                                   1.1.3.10 Human Resources Management Plan <br>
+                                   1.1.3.11 Quality Management Plan <br>
+                                   1.1.3.12 Risk Management Plan <br>
+                                   1.1.3.13 Communications Management Plan <br>
+                                   1.1.3.14 Procurement Plan <br>
+                                   1.1.3.15 Change Management Plan <br>
+                                   1.1.3.16 Implementation Plan <br>
+                                   1.1.3.17 Project Management Plan Evaluation (Sprint 3) <br>
+                                   1.1.3.18 Project Management Plan Revision <br>
+                                   1.1.3.19 Final Project Management Plan (Sprint 4)
  </p></td>
  <td><p style="text-align:center;"></p></td>
  </tr>
@@ -865,39 +884,37 @@ Knowledge in using an online system.
  <tr>
  <td><p style="text-align:center;"></p></td>
  <td><p style="text-align:center;">1.2 Analysis and Design</p></td>
- <td><p style="text-align:center;">1.2.1 Choose Adviser/Consultant <br> 
-                                   1.2.2 Compilation of MNTSDEV Requirements <br>
-                                   1.2.3 Software Design <br>
-                                   1.2.4 MVC Infographic <br>
-                                   1.2.5 GitHub Repository <br>
-                                   1.2.6 Case in Point: Big Ten University <br>
-                                   1.2.7 Event Table <br>
-                                   1.2.8 Use Case Diagram <br>
-                                   1.2.9 Use Case Full Description <br>
-                                   1.2.10 Data Flow Diagram <br>
-                                   1.2.11 Context Flow Diagram <br>
-                                   1.2.12 Entity-Relationship Diagram <br>
-                                   1.2.13 Adviser/Consultant Meeting 1 <br>
-                                   1.2.14 Submission of Midterm Deliverables <br>
-                                   1.2.16 Comment Matrix <br>
-                                   1.2.17 Paper Revision 1 <br>
-                                   1.2.18 Activity Diagram <br>
-                                   1.2.19 Object Diagram <br>
-                                   1.2.20 Class Diagram <br>
-                                   1.2.21 Sequence Diagram <br>
-                                   1.2.22 State Machine Diagram <br>
-                                   1.2.23 Package Diagram <br>
-                                   1.2.24 Component Diagram <br>
-                                   1.2.25 Deployment Diagram <br>
-                                   1.2.26 Adviser/Consultant Meeting 2 <br>
-                                   1.2.27 Adviser/Consultant Meeting 3 <br>
-                                   1.2.28 Paper Revision 2 <br>
-                                   1.2.29 Mock Presentation <br>
-                                   1.2.30 Submission of Final Deliverables <br>
-                                   1.2.31 Finals (Sprint 4) <br>
-                                   1.2.32 Paper Revision 3 <br>
-                                   1.2.33 Updated Comments Matrix and Paper <br>
+ <td><p style="text-align:center;">1.2.1 Creation of Initial Prototype <br>
+                                   1.2.2 Creation of Project Diagrams <br>
  </p></td>
+ <td><p style="text-align:center;">1.2.1.1 Choose Adviser/ Consultant<br>
+                                   1.2.1.2 Creation of Wireframe <br>
+                                   1.2.1.3 Creation of Initial UI/UX Design <br>
+                                   1.2.1.4 Initial Prototype Evaluation <br>
+                                   1.2.1.5 Initial Prototype Progression <br>
+                                   1.2.1.6 Final Evaluation of Initial Prototype (Sprint 5) <br> <br>
+                                   1.2.2.1 Event Table <br>
+                                   1.2.2.2 4th Meeting with Adviser/Consultant <br>
+                                   1.2.2.3 Use Case Diagram <br>
+                                   1.2.2.4 Context Flow Diagram <br>
+                                   1.2.2.5 Use Case Full Description <br>
+                                   1.2.2.6 Data Flow Diagram <br>
+                                   1.2.2.7 Entity-Relationship Diagram <br>
+                                   1.2.2.8 Activity Diagram <br>
+                                   1.2.2.9 Object Diagram <br>
+                                   1.2.2.8 Activity Diagram <br>
+                                   1.2.2.9 Object Diagram <br>
+                                   1.2.2.10 Class Diagram <br>
+                                   1.2.2.11 Sequence Diagram <br>
+                                   1.2.2.12 State Machine Diagram <br>
+                                   1.2.2.13 Package Diagram <br>
+                                   1.2.2.14 Component Diagram <br>
+                                   1.2.2.15 Deployment Diagram <br>
+                                   1.2.2.16 5th Meeting with Adviser/Consultant <br>
+                                   1.2.2.17 Project Diagram Revision <br>
+                                   1.2.2.18 Submission of Final Project Diagram <br> <br>
+
+</p></td>
  <td><p style="text-align:center;"></p></td>
  </tr>
 
@@ -905,109 +922,44 @@ Knowledge in using an online system.
  <td><p style="text-align:center;"></p></td>
  <td><p style="text-align:center;">1.3 Development, Testing, and Deployment</p></td>
  <td><p style="text-align:center;">1.3.1 Choose Adviser/Consultant <br> 
-                                   1.3.2 Compilation of MSYADD1 Requirements <br>
-                                   1.3.3 Project Flow <br>
-                                   1.3.4 Assigning of Parts for Statement of Work and Project Charter Plan <br>
-                                   1.3.5 Initial Project Charter Plan (Long Version) <br>
-                                   1.3.6 Statement of Work <br>
-                                   1.3.7 Project Vision and Scope <br>
-                                   1.3.8 Activity List <br>
-                                   1.3.9 MCSPROJ Course Paper <br>
-                                   1.3.10 Team Meeting 1 <br>
-                                   1.3.11 Initial Work Breakdown Structure (WBS) <br>
-                                   1.3.12 Team Meeting 2 <br>
-                                   1.3.13 Improvement Matrix <br>
-                                   1.3.14 Midterm (Sprint 5) <br>
-                                   1.3.15 Midterm Comment Matrix <br>
-                                   1.3.16 User Project Review <br>
-                                   1.3.17 Team Meeting 3 <br>
-                                   1.3.18 Test Case <br>
-                                   1.3.19 Initial Quality Management Plan <br>
-                                   1.3.20 Software Requirement Specifications <br>
-                                   1.3.21 Adviser/Consultant Meeting 4 <br>
-                                   1.3.22 Adviser/Consultant Meeting 5 <br>
-                                   1.3.23 Finals (Sprint 6) <br>
+                                   1.3.2 5th Meeting with Adviser/Consultant <br> 
+                                   1.3.3 Development of System <br> <br>
+                                   1.3.4 Testing of System <br> <br>
+                                   1.3.5 Deployment of System
+
   </p></td>
-  <td><p style="text-align:center;">1.3.5.1 Executive Summary <br> 
-                                   1.3.5.2 Risks <br>
-                                   1.3.5.3 Project Purpose/Justification <br>
-                                   1.3.5.4 Project Description <br>
-                                   1.3.5.5 Preliminary Scope Statement <br>
-                                   1.3.5.6 Summary Milestone Schedule <br>
-                                   1.3.5.7 Project Deliverables <br>
-                                   1.3.5.8 Project Approval Requirements <br>
-                                   1.3.5.9 Project Manager <br>
-                                   1.3.5.10 Authorization <br> <br>
-                                   1.3.6.1 Introduction/Background <br>
-                                   1.3.6.2 Scope of Work <br>
-                                   1.3.6.3 Period of Performance <br>
-                                   1.3.6.4 Place of Performance <br>
-                                   1.3.6.5 Work Requirements<br>
-                                   1.3.6.6 Schedule/Milestones <br>
-                                   1.3.6.7 Acceptance Criteria <br>
-                                   1.3.6.8 Other Requirements <br>
-                                   1.3.6.9 Acceptance <br> <br>
-                                   1.3.7.1 Business Requirements <br>
-                                   1.3.7.2 Business Objectives and Success Criteria <br>
-                                   1.3.7.3 Vision of the Solution <br>
-                                   1.3.7.4 Scope and Limitations <br>
-                                   1.3.7.5 Business Context <br>
+  <td><p style="text-align:center;">1.3.3.1 Database <br>
+                                   1.3.3.2 Database Initial Evaluation (Sprint 6) <br>
+                                   1.3.3.3 Home Page Feature <br>
+                                   1.3.3.4 Admin Dashboard <br> <br>
+                                   1.3.3.5 Log In/Sign Up Feature <br>
+                                   1.3.3.6 Final System Evaluation (Sprint 7) <br> <br>
+                                   1.3.4.1 Unit Testing <br>
+                                   1.3.4.2 6th Meeting with Adviser/Consultant <br>
+                                   1.3.4.3 Performance Testing <br>
+                                   1.3.4.4 Use Case Meeting with Client <br> <br>
+                                   1.3.5.1 Hosting <br> <br>
+                                   1.3.5.2 System Training with Client
+
+
+ </p></td>
+ <td><p style="text-align:center;">1.3.3.3.1 About Villamin Page <br>
+                                   1.3.3.3.2 FAQs Page <br>
+                                   1.3.3.3.3 Product Page <br>
+                                   1.3.3.3.4 Cart Feature <br> <br>
+                                   1.3.3.4.1 Dashboard <br>
+                                   1.3.3.4.2 Report Feature <br>
+                                   1.3.5.1.1 Setting up Hosting
  </p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;"></p></td>
- <td><p style="text-align:center;">1.4 Project Management</p></td>
- <td><p style="text-align:center;">1.4.1 Team Meeting 4 <br> 
-                                   1.4.2 Business Case <br>
-                                   1.4.3 Project Charter Plan (Short Version) <br>
-                                   1.4.4 TOPCIT Project Management Quizlet <br>
-                                   1.4.5 Stakeholder Analysis <br>
-                                   1.4.6 Stakeholder Management Strategy <br>
-                                   1.4.7 Choose Project Adviser and Consultant <br>
-                                   1.4.8 Team Meeting 5 <br>
-                                   1.4.9 Team Meeting 6 <br>
-                                   1.4.10 Team Meeting 7 <br>
-                                   1.4.11 Cost Management Plan <br>
-                                   1.4.12 Schedule Management Plan <br>
-                                   1.4.13 Scope Management Plan <br>
-                                   1.4.14 Work Package Solution <br>
-                                   1.4.15 Team Meeting 8 <br>
-                                   1.4.16 Adviser/Consultant Meeting 6 <br>
-                                   1.4.17 Initial Wiki Page Encoding <br>
-                                   1.4.18 Project Management Plan <br>
-                                   1.4.19 Team Meeting 9 <br>
-                                   1.4.20 1st Individual Weekly Status Report <br>
-                                   1.4.21 PMI 7th Edition Quizlet <br>
-                                   1.4.22 Final Project Charter Plan (Long Version) <br>
-                                   1.4.23 2nd Individual Weekly Status Report <br>
-                                   1.4.24 Adviser/Consultant Meeting 7 <br>
-                                   1.4.25 PMBOK Quizlet <br>
-                                   1.4.26 Final Work Breakdown Structure (WBS) <br>
-                                   1.4.27 Final Wiki Page Encoding <br>
-                                   1.4.28 Team Meeting 10 <br>
-                                   1.4.29 Team Meeting 11 <br>
-                                   1.4.30 Team Meeting 12 <br>
-                                   1.4.31 Finals (Sprint 7) <br>
-  </p></td>
-  <td><p style="text-align:center;">1.4.18.1 Staffing Management Plan <br> 
-                                   1.4.18.2 Change Management Plan <br>
-                                   1.4.18.3 Communication Management Plan <br>
-                                   1.4.18.4 Final Quality Management Plan <br>
-                                   1.4.18.5 Risk Management Plan <br>
-                                   1.4.18.6 Procurement Plan <br>
-                                   1.4.18.7 Implementation Plan <br>
-                                   1.4.18.8 Project Management Approach <br>
-                                   1.4.18.9 Company Profile <br>
- </p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;"></p></td>
- <td><p style="text-align:center;">1.5 Project Closeout</p></td>
- <td><p style="text-align:center;">1.5.1 Project Turnover <br> 
-                                   1.5.2 Project Documentation <br>
-                                   1.5.3 Project Demonstration <br>
+ <td><p style="text-align:center;">1.4 Project Closeout</p></td>
+ <td><p style="text-align:center;">1.4.1 System and Documentation Turnover <br>
+                                   1.4.2 Project Closeout Meeting with Client <br>
+                                   1.4.3 Formal Acceptance <br>
+                                   1.4.4 Final Meeting with Client
   </p></td>
   <td><p style="text-align:center;"></p></td>
  </tr>
