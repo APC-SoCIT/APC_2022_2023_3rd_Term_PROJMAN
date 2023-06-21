@@ -1300,7 +1300,7 @@ Indirect Costs:<br>
 2.	Administrative Roles
 </p>
 
-=7.4.5. Scope Change=
+=Scope Change=
 
 ==Introduction==
 <p>The schedule management plan is made to ensure that all project activities are completed on time, within budget, and to the satisfaction of stakeholders. An effective implementation of this schedule management plan is essential for this project's success, as it allows teams to prioritize tasks, allocate resources, and track progress towards project goals.
@@ -1883,9 +1883,386 @@ Budget management
 </ul>
 
 <p>Overall, the Communications Management Plan is a key tool that helps to ensure that all stakeholders are informed, and that communication is effective and efficient throughout the E-Cliniq project.</p>
+
 ==Communications Management Approach==
-<p></p>
-<p></p>
+<p>The most effective approach to managing communications for the E-Cliniq project would involve combining proactive and reactive strategies.</p>
+
+<p>Proactively, regular project status meetings will be conducted to keep all stakeholders well-informed and updated on the project's progress. The project manager will regularly meet with the project team, providing updates, progress reports, and addressing any risks or issues. This approach will offer stakeholders a comprehensive overview of the project's status and potential obstacles. Additionally, a dedicated project website and web portal will be established, granting stakeholders convenient access to project-related information such as meeting minutes, documents, and status reports.</p>
+
+<p>Reactively, an escalation process will be established to promptly address any conflicts or issues related to communication. The project manager will be readily available to respond to stakeholders' questions or concerns, offering support and guidance when necessary.</p>
+
+<p>Moreover, a change control process will be implemented to manage any alterations in communication or the communication process. This process will involve obtaining approval from the Change Control Board and ensuring stakeholders are promptly informed of any changes. Overall, this approach guarantees that the project team and stakeholders remain well-informed, while effectively handling any communication-related challenges that may arise.</p>
+
+==Communications Management Constraints==
+<p>The Communications Management Constraints for the E-Cliniq project are an important part of the overall project management plan. These constraints define limitations and boundaries that may affect the project’s communication processes and strategies. By identifying and addressing these constraints, the project team can proactively develop solutions to mitigate potential challenges and ensure smooth information flow.</p>
+
+<p>This section of the Communications Management Plan provides an overview of key constraints that may impact the project’s communication processes, including internal and external factors, technological limitations, and regulatory requirements.</p>
+
+<p>Communications management constraints for the E-Cliniq project may include:</p>
+<ol>
+   <li>Limited budget for communication tools and resources such as video conferencing software, project management software, or hiring a dedicated communications team may be a constraint.</li>
+   <li>Limited access to certain stakeholders located in remote locations or with limited access to certain forms of communication may be a constraint.</li>
+   <li>Limited availability of team members due to other commitments or responsibilities may be a constraint.</li>
+   <li>Language barriers may require translation services or additional resources to facilitate communication.</li>
+   <li>Confidentiality of some project information may require special handling and communication protocols.</li>
+   <li>Resistance to changes in communication processes or tools by some stakeholders can make it difficult to implement new communication strategies.</li>
+   <li>Technical difficulties with communication tools and systems can be a constraint.</li>
+   <li>Time constraints due to tight project deadlines can make it challenging to schedule and hold regular communication meetings.</li>
+
+</ol>
+
+==Stakeholder Communication Requirements==
+<p>This section of the Communications Management Plan outlines the specific communication needs of stakeholders and how they will be met throughout the project's life cycle.</p>
+
+<p>The Stakeholder Communication Requirements are a crucial part of the E-Cliniq project as they detail the specific communication needs of all stakeholders. Effective communication is essential for completing the project on time, within budget, and to the satisfaction of all stakeholders. By identifying and addressing stakeholders' communication requirements, the project team can proactively manage expectations, build trust, and foster collaboration.</p>
+
+<p>This section of the Communications Management Plan outlines stakeholders' specific communication needs and how they will be met throughout the project's lifecycle.</p>
+
+<p>The E-Cliniq project would probably require stakeholder communication needs such as:</p>
+<ol>
+    <li><p><b>Regular project updates: </b>It is imperative to consistently inform all stakeholders about the project's progress, including the disclosure of any emerging issues or risks.</p></li>
+    <li><p><b>Clear and concise communication: </b>Project-related information needs to be conveyed in a manner that is easily understood and succinct, ensuring stakeholders comprehend the message effectively.</p></li>
+    <li><p><b>Accessibility:</b>Communication should be accessible to all stakeholders, considering any language or accessibility requirements they may have.</p></li>
+    <li><p><b>Timely communication: </b>Information should be communicated promptly, guaranteeing that stakeholders receive it in a timely manner, without delays.</p></li>
+    <li><p><b>Confidentiality:</b>Sensitive or confidential information must only be shared with relevant stakeholders and handled securely to maintain confidentiality.</p></li>
+    <li><p><b>Customized communication: </b> Communication should be tailored to meet the specific needs of each stakeholder, considering their level of involvement in the project and their respective roles.</p></li>
+    <li><p><b>Two-way communication: </b>Effective communication involves active participation from both parties, allowing stakeholders to provide feedback and seek clarification through meaningful dialogue.</p></li>
+    <li><p><b>Feedback mechanisms: </b>Mechanisms should be in place to facilitate stakeholder feedback on the communication process, ensuring continuous improvement and effectiveness.</p></li>
+</ol>
+
+==Roles==
+<table border="1" width="70%" align="center">
+   <tr>
+       <td><p>Role</p></td>
+       <td><p>Responsibilities</p></td>
+   </tr>
+   <tr>
+       <td><p>Project Sponsor</p></td>
+       <td><p>An executive at a senior level who offers financial resources and strategic guidance for the project.</p></td>
+   </tr>
+   <tr>
+       <td><p>Project Manager</p></td>
+       <td><p>The person in charge of the planning, execution, and completion of E-Cliniq. The project manager leads the project team and ensures that the system is finished within the designated timeframe, budget, and quality standards.</p></td>
+   </tr>
+   <tr>
+       <td><p>Quality Assurance Analyst</p></td>
+       <td><p>The person assigned to ensure the quality and consistency of both the documentation and system.</p></td>
+   </tr>
+   <tr>
+       <td><p>Key Stakeholders</p></td>
+       <td><p>Individuals or groups with a vested interest in E-Cliniq, including the APC Administrator, Nurse, Doctor, Dentist, and Patients who rely on the system for their daily operations.</p></td>
+   </tr>
+   <tr>
+       <td><p>Development Team</p></td>
+       <td><p>A person responsible for the technical aspects of E-Cliniq, such as the system's architecture, database design, and software development. The team ensures that the system satisfies the necessary technical specifications and standards while being scalable, secure, and reliable.</p></td>
+   </tr>
+
+
+</table>
+
+==Project Team Directory==
+<p>The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.</p>
+<table border="1" width="70%" align="center">
+   <tr>
+       <td><p>Name</p></td>
+       <td><p>Position</p></td>
+       <td><p>Internal/External</p></td>
+       <td><p>Project Role</p></td>
+       <td><p>Contact Information</p></td>
+   </tr>
+   <tr>
+       <td><p>Jojo F. Castillo</p></td>
+       <td><p>Clinic Administrator</p></td>
+       <td><p>Internal</p></td>
+       <td><p>Project Sponsor</p></td>
+       <td><p>jojoc@apc.edu.ph</p></td>
+   </tr>
+   <tr>
+       <td><p>Ana Mae J. Torre</p></td>
+       <td><p>Clinic Nurse</p></td>
+       <td><p>Internal </p></td>
+       <td><p>Internal User of the System</p></td>
+       <td><p>anamaet@apc.edu.ph</p></td>
+   </tr>
+   <tr>
+       <td><p>APC Doctor</p></td>
+       <td><p>Doctor</p></td>
+       <td><p>Internal</p></td>
+       <td><p>Internal User of the System</p></td>
+       <td><p></p></td>
+   </tr>
+   <tr>
+       <td><p>APC Dentist</p></td>
+       <td><p>Dentist</p></td>
+       <td><p>Internal</p></td>
+       <td><p>Internal User of the System</p></td>
+       <td><p></p></td>
+   </tr>
+   <tr>
+       <td><p>Roselle Wednesday L. Gardon</p></td>
+       <td><p>Director, Computer Science</p></td>
+       <td><p>External</p></td>
+       <td><p>Project Adviser</p></td>
+       <td><p>roselleg@apc.edu.ph</p></td>
+   </tr>
+   <tr>
+       <td><p>John Angel Manahan</p></td>
+       <td><p>Project Manager</p></td>
+       <td><p>Internal</p></td>
+       <td><p>Project Manager</p></td>
+       <td><p>jmmanahan@student.apc.edu.ph</p></td>
+   </tr>
+   <tr>
+       <td><p>Kurt Jordan Cadenas</p></td>
+       <td><p>Quality Assurance Analyst</p></td>
+       <td><p>Internal</p></td>
+       <td><p>Development Team</p></td>
+       <td><p>kvcadenas@student.acp.edu.ph</p></td>
+   </tr>
+   <tr>
+       <td><p>Churchill Capagngan</p></td>
+       <td><p>Team Members of Operations</p></td>
+       <td><p>Internal</p></td>
+       <td><p>Development Team</p></td>
+       <td><p>cbcapagngan@student.apc.edu.ph</p></td>
+   </tr>
+   <tr>
+       <td><p>Darcy Medina</p></td>
+       <td><p>Team Members of Operations</p></td>
+       <td><p>Internal</p></td>
+       <td><p>Development Team</p></td>
+       <td><p>dlmedina@student.apc.edu.ph</p></td>
+   </tr>
+   <tr>
+       <td><p>Jan Patrick Navarrete</p></td>
+       <td><p>Team Members of Operations</p></td>
+       <td><p>Internal</p></td>
+       <td><p>Development Team</p></td>
+       <td><p>jmnavarrete@student.apc.edu.ph</p></td>
+   </tr>
+
+</table>
+
+==Communication Methods and Technologies==
+<p>The E-Cliniq project requires a deep understanding of the communication methods and technologies used to effectively communicate with stakeholders. It’s important to consider the capabilities and limitations of each method and technology to ensure stakeholders receive timely and efficient information. This includes determining the appropriate methods for delivering project updates, progress reports, risks, issues, and other relevant information.</p>
+
+<p>It’s important to consider the cost and feasibility of using different technologies, as well as any security or privacy concerns. By carefully selecting the most appropriate communication methods and technologies, the project team can ensure that all stakeholders are kept informed and that the project’s communication objectives are met.</p>
+
+<p>When determining the best communication methods and technologies for E-Cliniq, several factors should be considered. These include:</p>
+<ul>
+   <li><b>The scope and complexity of the project: </b>Web portals and project management software are frequently the best option when dealing with large-scale and complex projects since they make it easier to gather information and give all stakeholders easy access.</li>
+   <li><b>The technical proficiency of the stakeholders: </b>For stakeholders without technical proficiency, direct communication techniques like email and phone may be the best option.</li>
+   <li><b>The type of information being communicated:</b>Using secure techniques like encryption and password-protected portals may be necessary when dealing with sensitive or confidential material.</li>
+   <li><b>The project's budget and resources: </b>Communication strategies and technology should be chosen in accordance with the project's allotted budget and resources.</li>
+</ul>
+<p>Based on the factors mentioned earlier, it is recommended that the E-Cliniq project use a combination of communication methods and technologies such as project management software, email, telephone, and video conferencing to keep all stakeholders informed and meet the project's communication objectives.</p>
+==Communications Matrix==
+<table border="1" width="70%" align="center">
+    <tr>
+        <td><p>Channel</p></td>
+        <td><p>From</p></td>
+        <td><p>To</p></td>
+        <td><p>Type</p></td>
+        <td><p>Frequency</p></td>
+        <td><p>Delivery Media</p></td>
+    </tr>
+    <tr>
+        <td><p>Project Planning </p></td>
+        <td><p>Project Manager </p></td>
+        <td><p>Stakeholders</p></td>
+        <td><p>Meeting</p></td>
+        <td><p>Once Before the start of the project</p></td>
+        <td><p>Microsoft Teams</p></td>
+    </tr>
+    <tr>
+        <td><p>Release Planning </p></td>
+        <td><p>Project 
+Manager, 
+Project 
+Team
+</p></td>
+        <td><p>Stakeholders</p></td>
+        <td><p>Meeting</p></td>
+        <td><p>Once before 
+start of the 
+project 
+Updated 
+when 
+necessary
+</p></td>
+        <td><p>Microsoft Teams, Email</p></td>
+    </tr>
+    <tr>
+        <td><p>Sprint Planning</p></td>
+        <td><p>Project Manager</p></td>
+        <td><p>Project Team </p></td>
+        <td><p>Meeting</p></td>
+        <td><p>Once a week</p></td>
+        <td><p>Microsoft Teams</p></td>
+    </tr>
+    <tr>
+        <td><p>Management Processes</p></td>
+        <td><p>Project 
+Manager, 
+Project 
+Team
+</p></td>
+        <td><p>Stakeholders</p></td>
+        <td><p>Artifact</p></td>
+        <td><p>Once Before 
+start of the 
+project 
+Updated 
+when 
+necessary
+</p></td>
+        <td><p>Microsoft Teams, Email</p></td>
+    </tr>
+    <tr>
+        <td><p>Product Backlog</p></td>
+        <td><p>Project Manager </p></td>
+        <td><p>Project Team </p></td>
+        <td><p>Artifact</p></td>
+        <td><p>Once every week</p></td>
+        <td><p>Microsoft Teams</p></td>
+    </tr>
+    <tr>
+        <td><p>Project Update</p></td>
+        <td><p>Project Manager</p></td>
+        <td><p>Project Team </p></td>
+        <td><p>Meeting</p></td>
+        <td><p>Once every week</p></td>
+        <td><p>Microsoft Teams</p></td>
+    </tr>
+</table>
+
+image::https://asiapacificcollege.sharepoint.com/:i:/s/PROJMANT3SS201SF201/Edy00JKNppJHobAornVUo5wBci1yQngw1cc6WNBSilZiBg?e=CQd12l[Communication Flowchart]
+
+==Guidelines for Meetings==
+<p>Meetings are a crucial part of effective communication in any project, including the E-Cliniq project. To ensure productive, efficient, and effective meetings, it’s important to establish clear guidelines. These guidelines should include information on the purpose of meetings, roles and responsibilities of attendees, and procedures to follow during meetings.</p>
+<p>With well-defined guidelines, project team members and stakeholders can be better prepared for meetings and participate more effectively. The project manager can also ensure that meetings are conducted consistently and organized to avoid confusion and misunderstandings.</p>
+<p>Below are the meeting guidelines for E-Cliniq project:</p>
+<ul>
+   <li><b>Purpose:</b>Meetings serve as an essential tool for discussing project status, finding solutions to problems, and reaching decisions for the E-Cliniq project.</li>
+   <li><b>Scheduling:</b>It is important to plan meetings in advance and at times that are convenient for all participants. Meeting invitations and scheduling are the project manager's responsibilities.</li>
+   <li><b>Attendance:</b>Unless they have a legitimate excuse, all project team members and stakeholders are required to attend meetings. Team members should let the project manager know as soon as possible if they won't be able to attend.</li>
+   <li><b>Agenda:</b>Prior to the meeting, an agenda specifying the subjects to be covered and the desired results should be distributed. Doing agendas will make sure that everyone is ready and that the meeting is kept to schedule.</li>
+   <li><b>Minutes:</b>Minutes of the meeting should be recorded and given to all participants within 24 hours. A summary of the conversations, the conclusions made, and the assigned action items should all be included in the minutes.</li>
+   <li><b>Decisions:</b> Whenever achievable, decisions should be reached by consensus. If agreement cannot be obtained, the project sponsor will have final say.</li>
+   <li><b>Follow-up:</b>The project manager oversees making sure that action items are followed up on and finished on schedule.</li>
+   <li><b>Communication:</b>Project updates and problems are discussed during meetings. Participants should be urged to speak honestly and openly.</li>
+   <li><b>Technology:</b>Accessible technology should be used during meetings for all participants. This could involve web conferences, video conferences, or teleconferences.</li>
+   <li><b>Time management:</b>Meetings must begin and end on schedule, and they must not last longer than arranged. This will make sure that attendees aren't kept waiting, and the project will finish on time.</li>
+   <li><b>Evaluation:</b>To ensure that meetings are successful and that participants are happy with the results, they should be frequently evaluated. Any problems must be resolved, and improvements made.</li>
+</ul>
+==Communication Standards==
+<p>The best communication standards for the E-Cliniq project may include the following:</p>
+<ul>
+    <li><b>File Naming Convention: </b>Creating a standardized file naming convention for files and documents shared on the project will help assure simple information access and organization. </li>
+    <li><b>Web portal/Network Tool: </b>By using a common platform, such as SharePoint or project management software, for project communication, team members and stakeholders can collaborate more effectively and have easier access to information.</li>
+    <li><b>Video conferencing: </b>Team members and stakeholders that are spread out geographically can benefit greatly from using video conferencing platforms like Google Meets, Zoom, Skype, etc.</li>
+    <li><b>Communication protocols: </b>Sensitive data can be protected by having a standard communication protocol in place that specifies who is authorized to share it and how it should be shared.</li>
+</ul>
+
+==Communication Escalation Process==
+<p>The ideal and best communication escalation process for the E-Cliniq project would involve the following steps:</p>
+<ol>
+    <li><b>Identify the issue:</b>The first step for the project team in escalating a communication-related issue is to identify the issue that needs to be escalated.</li>
+    <li><b>Attempt to resolve the issue within the team: </b>The project team should first try to resolve the communication-related issue within the team by discussing it with relevant team members and finding a solution.</li>
+    <li><b>Involve a communication manager: </b>If the communication-related issue cannot be resolved within the team, the team should involve a communication manager or a designated person responsible for communication within the organization. This person will act as a liaison between the project team and stakeholders to help resolve the issue.</li>
+    <li><b>Escalate to higher management: </b>If the communication-related issue still cannot be resolved, it should be escalated to higher management for further review and resolution.</li>
+    <li><b>Document the issue and resolution: </b> During the escalation process, it’s important to document the issue, the steps taken to resolve it, and the final resolution to keep proper records for future reference.</li>
+    <li><b>Review and Improve:</b> After the escalation process, it’s important to review the process to identify areas for improvement for future escalations.</li>
+</ol>
+<p>The escalation process should be flexible and adaptable to the specific needs of the project. The project team should regularly review the escalation process to ensure it remains effective and efficient in addressing communication-related issues.</p>
+
+==Glossary of Communication Terminology==
+<table border="1" width="70%" align="center">
+   <tr>
+       <td>Term</td>
+       <td>Definition</td>
+   </tr>
+   <tr>
+       <td>Communication Plan</td>
+       <td>A written document that details the plan for how the project team and stakeholders will communicate and the protocols they will follow.</td>
+   </tr>
+   <tr>
+       <td>Stakeholder</td>
+       <td>A person or entity that holds a vested interest or concern in the project.</td>
+   </tr>
+   <tr>
+       <td>Communication Method</td>
+       <td>The methods or channels through which information is communicated, including but not limited to meetings, email, telephone, or web portal</td>
+   </tr>
+   <tr>
+       <td>Communication Frequency</td>
+       <td>The frequency at which project communications are disseminated.</td>
+   </tr>
+   <tr>
+       <td>Communication Objective</td>
+       <td>The intended result or objective of a specific communication.</td>
+   </tr>
+   <tr>
+       <td>Communication 
+Flowchart
+</td>
+       <td>A graphical representation illustrating the movement or transfer of information within a project.</td>
+   </tr>
+   <tr>
+       <td>Escalation Process</td>
+       <td>A protocol or set of steps for effectively resolving conflicts or issues related to communication.</td>
+   </tr>
+   <tr>
+       <td>Communication Matrix</td>
+       <td>A tabular format presenting the communication needs or specifications for a project.</td>
+   </tr>
+
+   <tr>
+       <td>Communication 
+Standards
+</td>
+       <td>Predefined templates, formats, or documents commonly employed for communication purposes within a project.</td>
+   </tr>
+
+   <tr>
+       <td>Communication 
+Constraints
+</td>
+       <td>Various factors that can impose limitations or influence the effectiveness of project communications.</td>
+   </tr>
+
+   <tr>
+       <td>Communication 
+Guidelines
+</td>
+       <td>Guidelines or protocols to follow when conducting meetings, teleconferences, and other types of communication.</td>
+   </tr>
+
+   <tr>
+       <td>Communication 
+Technology
+</td>
+       <td>Technological tools and platforms utilized for communication, including SharePoint, message boards, and video teleconferencing.</td>
+   </tr>
+
+   <tr>
+       <td>Communication 
+Escalation Process
+</td>
+       <td>A procedure for escalating communication-related issues or conflicts that cannot be resolved internally within the project team.</td>
+   </tr>
+
+   <tr>
+       <td>Communication 
+Approaches
+</td>
+       <td>To solve communication issues, several tactics and solutions are used, making sure that all interested parties are kept informed and that the project's communication goals are achieved.</td>
+   </tr>
+
+
+
+</table>
+
 
 =Quality Management Plan=
 ==Introduction==
@@ -1921,14 +2298,14 @@ The following are the roles and duties for the quality management plan:</p>
       <tbody>
       <tr>
       <td>Project Manager</td>
-      <td>In charge of quality assurance, setting up the acceptance standards and ensure that the final system satisfies the relevant stakeholders.</td>
+      <td>Facilitates the team overall, setting up the acceptance standards cooperates with the product sponsor and development team to enhance the final product.</td>
       </tr>
       <tr>
-      <td>Project team leader </td>
-      <td>Facilitates the team overall, cooperates with the product sponsor and development team to enhance the final product.</td>
+      <td>Quality Assurance Analyst</td>
+      <td>In charge of quality assurance and ensuring that the final system satisfies the relevant stakeholders.</td>
       </tr>
       <tr>
-      <td>Project Development Team </td>
+      <td>Project Development Team</td>
       <td>Responsible for the development of the system and adhere to the established acceptance standards.</td>
       </tr>
       <tr>
@@ -2031,3 +2408,487 @@ The following details will be on the platform:
 <p>Dashboards and other visual tools will be used to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. The dashboards will draw attention to patterns and problem areas so that the team can act fast and make the necessary adjustments. The quality control metrics will be reviewed, and the method will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the group will pinpoint potential improvement areas and put any found problems into practice. 
 <br><br>
 In conclusion, the E-Cliniq system will use Agile and Scrum approaches to implement a collaborative and dynamic quality control strategy. To make sure the product satisfies the standards and needs, the team will regularly assess the product's quality and make the required improvements. On a common platform, all quality control measurements will be collected and tracked in real-time. The team will collaborate to address any problems and implement any necessary improvements.</p>
+
+
+=Risk Management Plan=
+==Introduction==
+<p>The E-Cliniq system aims to provide an Electronic Health Record and Appointment system for the Asia Pacific College’s Clinic.
+<br><br>
+The development team's duties and responsibilities, the risk assessments plan, and an overview of the risk management process are all included in the risk management plan. The plan will also describe the risk monitoring and management procedures and risk response tactics. The plan's effectiveness will be judged by how quickly threats are identified and dealt with.
+<br><br>
+The following are information that are considered when developing a Risk Management Plan for the project, E-Cliniq:
+<br><br>
+•Identifying Risk: The E-Cliniq system development, implementation, and operation project group ought to be aware of any potential dangers. Risks may appear from several unusual places, including technical problems, legal requirements, cybersecurity, and human factors. Risks should be identified and then evaluated for both chance of occurrence and potential effects on the project.
+<br><br>
+•Risk Monitoring: Risk management is an ongoing activity that needs regular observation and evaluation. To guarantee that risk management procedures are still effective, risks are updated, and new risks are discovered, the project team should establish a frequent review process. All stakeholders should be informed of any changes during the review process, which should be open and transparent.
+<br><br>
+•Contingency Plans: The project team needs to create backup plans for major risks that could have a significant impact on the project's success. Plans for alternatives ought to specify the actions needed to lessen the risk's effects and keep the project moving forward. As the project develops and new risks are discovered, these strategies should be periodically reviewed and modified. 
+<br><br>
+•Risk Mitigation Tactics: The project team should create a plan for minimizing or avoiding the risks after having identified and assessed the risks. Prioritizing mitigation tactics should be done in accordance with how well they reduce risk and how easily they can be implemented in terms of both time and money. Contingency planning, redundancy, risk transfer through insurance, and the creation of fallback processes strategies.
+<br><br>
+
+The E-Cliniq System development team will ensure that the project is executed effectively, satisfying all objectives while avoiding potential risks by taking these extra considerations into account in a risk management plan.
+</p>
+
+==Top Three Risks==
+<ol>
+    <li>The E-Cliniq system would not synchronize the information of the patients being recorded if the internet connection is disrupted and/or lost during the process.</li>
+    <li>The information cannot be transferred/exchanged safely if the internet connection is lost and if there was a problem/issue that unexpectedly occurs with the router that connects the devices together.</li>
+    <li>The data in the E-Cliniq system can be vulnerable with risks when it comes to new employees being hired since the core data, which is the patient’s recorded data, can be interacted by the employees.</li>
+</ol>
+
+==Risk Management Approach==
+<p>The steps below are to help in being able to manage risks in the E-Cliniq system:
+<br><br>
+•Risk Identification and Assessment: The risks will be listed in a risk register together with details about their likelihood of happening, potential effects, and description. The identified risks will be assessed in terms of their likelihood of occurring and their effect on the project. The project team will rank each risk according to severity using the risk matrix. Risks with an elevated level of severity will be prioritized for either mitigation or contingency planning.
+<br><br>
+•Risk Monitoring: Risks will be continuously monitored during the project. To ensure that risks are being effectively managed, the project team will frequently review the risk register. As further threats are found and added to the risk register throughout the project, the risk assessment process will be repeated.
+<br><br>
+•Risk Mitigation: Plans for risk mitigation will be developed for risks having a high effect and likelihood of occurrence. The risk-mitigation strategies will be included in the mitigation plans. The project team will also decide on fallback plans for risks that cannot be minimized.
+<br><br>
+•Risk Communication: Risk communication is the process of alerting relevant parties—including the project sponsor, the project team, and other stakeholders—about risks and related management strategies. If any risks are identified, assessed, and dealt with, the project team will keep all stakeholders informed and maintain regular communication.
+</p>
+
+==Risk Identification==
+<p>During risk assessment meetings, the development team and relevant stakeholders were asked to identify and evaluate risks to the project's success. The dangers that were found were listed in a risk registry.
+<br><br>
+The risks discovered during the risk assessment meeting were documented in a manner consistent with the Agile risk management plan. To guarantee that new risks are found, and old risks are efficiently managed, the risk register is updated on a regular basis. The development team will keep an eye on and manage risks all the way through the project. The following are the project's potential risks for the E-Cliniq system:
+<br><br>
+•Human Error: Errors made by relevant stakeholders, having the potential of having an influence on the system.<br><br>
+•Security Vulnerabilities: The initiative runs the risk of being exposed to security lapses or data loss, both of which might have dire repercussions.<br><br>
+•Unforeseen Circumstances: There is a chance that unanticipated events (such as connection loss) could have an unexpected effect on the system.<br><br>
+
+</p>
+
+==Risk Qualification and Prioritization==
+<p>The development team will regularly review and update the risk record to make sure that risks are prioritized appropriately. The risks mentioned in the risk records were classified and evaluated using a probability-impact matrix. Risks that would have a significant effect on the project and a high possibility of occurring were given top consideration. Determining the probability and impact of each risk after analyzing potential risks related to the E-Cliniq system. Following is an overview of the likelihood of risks and their effects on the project:</p>
+<ul>
+    <li>Extreme: Risks that could seriously harm the system and have an extremely high possibility of happening.</li>
+    <li>High: Risks that could have a significant impact on the system and have a high chance of happening. The development team must immediately address these risks and create mitigation plans for them.</li>
+    <li>Medium: Risks that have an average chance of happening and a fair impact on the system. To prepare for these risks, mitigation plans should be created, and these risks should be continuously monitored.</li>
+    <li>Low: Risks that have a small impact on the system and a low likelihood of occurring. Periodically monitoring these risks will allow for the development of mitigation plans in case that they occur. </li>
+    <li>Negligible: Risks that have little chance of happening and negligible effect on the project. These dangers can be disregarded.</li>
+</ul>
+
+image::https://asiapacificcollege.sharepoint.com/:i:/s/PROJMANT3SS201SF201/ERu1jyLkJHNCm_lhX1YUbtQB0uUQly2VdF9jV-rRNf-mPg?e=moMNrf[Risk Assessment Matrix]
+<p>Technical Risks:</p>
+<ul>
+    <li>High probability and high impact.</li>
+    <li>Lack of technical expertise to develop the system.</li>
+    <li>Failure of the new system to integrate with the current systems.</li>
+</ul>
+<p>Resource Risks:</p>
+<ul>
+    <li>Medium probability and medium impact.</li>
+    <li>Inadequate resources for the project.</li>
+    <li>Security Risks.</li>
+    <li>Medium probability and medium impact.</li>
+    <li>Unauthorized access to the system.</li>
+</ul>
+
+==Risk Monitoring==
+<p>
+The E-Cliniq Risk Management Plan offers a framework for actively tracking risks throughout the project. To do this, it is crucial to closely document the process, including defining the circumstances that might set off risks, and to regularly monitor risks during the system lifecycle.
+<br><br>
+The high-scoring risks will be incorporated into the project schedule, and the risk manager will be given responsibility for their monitoring. This will make it easier for the project manager to decide when hazards need to be closely monitored and when the risk manager should provide project team meetings with updates. The risk manager will oversee monitoring the risk trigger circumstances. The project manager will also make sure that the project team is informed of the risks that have been identified and their potential effects on the project. Any new risks or modifications to existing risks should be reported to the risk management by the project team so that they can be evaluated and given the appropriate level of priority.
+<br><br>
+The agile risk management methodology, which emphasizes flexibility and constant improvement, will be used by the development team. To guarantee that the system’s goals and quality standards are met, the effectiveness of the risk management plan will be periodically evaluated and changed, as necessary.
+</p>
+
+==Risk Mitigation and Avoidance==
+<p>The project team will develop the risk management plan based on the value that each risk is given. The first stage in risk mitigation and avoidance is to identify and prioritize the potential risks. Strategies to prepare for likely delays could include preparing backup plans, allocating more resources, or changing project deadlines. The project team should determine which risks have the highest likelihood and potential impact and then establish plans to reduce or eliminate those risks. The project manager has the following main factors and choices to think about:
+<br><br>
+•Resource Allocation: The project manager must make sure the team has the necessary resources, including competence, abilities, and expertise, as well as access to tools and equipment, for the system to be effective and efficient. The project manager oversees the system, making sure that the team has access to these resources to complete the system on schedule and within the allocated budget.
+<br><br>
+•Risk Assessment: To effectively estimate and manage potential hazards, the development team should do a detailed analysis of them. Early in the project, the risk assessment should be finished, and the project manager should move quickly to identify and reduce any potential risks. 
+<br><br>
+•Contingency Planning: The project team must develop backup plans for emergencies to be ready for potential dangers. The project manager is responsible for supervising the creation, validation, and testing of these strategies for each potential risk.
+<br><br>
+•Agile Approach: Risk management can be done in a flexible and quick manner by using the Agile methodology. The team's use of the Agile methodology, which permits continual risk management and the capacity for change, must be ensured by the project manager.
+<br><br>
+•Communication: The project manager must encourage open and transparent communication between the development team and relevant stakeholders to reduce risks and avoid misunderstandings.
+</p>
+
+==Risk Register==
+<p>Each risk, its likelihood, potential repercussions, and any mitigation steps will be fully explained in the risk register, which will be maintained throughout the project. The risk register will be reviewed and updated frequently to make sure it accurately reflects the state of the project at the present time. The risk registry, which will be stored in a central location, will be accessible to all relevant stakeholders.
+<br><br>
+This risk management strategy is often in line with the Agile methodology and places an emphasis on early and frequent risk discovery, collaborative risk management, and continuing risk monitoring. By foreseeing and resolving potential risks, the E-Cliniq system development team can decrease the effects and increase the likelihood that the project will succeed. The risk register will be based on the following standards:
+<br><br>
+•	Risk ID - Each risk will receive a special identification number.
+<br><br>
+•	Risk Description - The risk event will be clearly and concisely described.
+<br><br>
+•	Risk Category - Risks will be categorized as technical, organizational, or legal.
+<br><br>
+•	Risk Owner - Will oversee keeping an eye on and managing every risk.
+<br><br>
+•	Probability - On a scale of 1 to 5, with one denoting the lowest chance and five denoting the highest, the likelihood of a risk occurring is evaluated.
+<br><br>
+•	Impact - On a scale of 1 to 5, where 1 represents the least significant impact and five represents the most significant impact, the risk's potential impact on the project is evaluated.
+<br><br>
+•	Risk Score - To calculate the overall risk score, the likelihood and impact scores are compounded.
+<br><br>
+•	Mitigation Strategy - explains the precise steps that must be taken to reduce the risk.
+<br><br> 
+•	Status - The current state of the risk, including whether it is open, ongoing, or closed, is also recorded.
+<br><br>
+•	Target Resolution Date - predicted day that the risk will be resolved.
+<br><br>
+</p>
+<table border="1" width="70%" align="center">
+	<tr>
+              <td>
+RISK ID
+</td>
+              <td>
+RISK RANK
+</td>
+              <td>
+RISK
+</td>
+              <td>
+DESCRIPTION
+</td>
+              <td>
+CATEGORY
+</td>
+              <td>
+DESTINATION/
+OWNER
+</td>
+              <td>
+PROBABILITY
+</td>
+              <td>
+IMPACT
+</td>
+              <td>
+STATUS
+</td>
+        </tr>
+	<tr>
+              <td>RISK001</td>
+              <td>1</td>
+              <td>Technical
+Risk
+</td>
+              <td>The system may not work well with current hardware and software systems, which could lead to errors and delays in the system.</td>
+              <td>
+
+
+
+
+Technology
+</td>
+              <td>
+
+
+
+
+Project
+Lead
+</td>
+              <td>
+
+
+
+
+High
+
+
+
+
+</td>
+              <td>
+
+
+
+
+High
+
+</td>
+              <td>
+
+
+
+
+In Progress
+</td>
+        </tr>
+	<tr>
+              <td>RISK002</td>
+              <td>2</td>
+              <td>Resource
+Risk
+</td>
+              <td>There is a chance that there will not be enough resources available to finish the project on schedule, which will cause delays and cost overruns.</td>
+              <td>
+
+
+
+
+
+Organizational
+</td>
+              <td>
+
+
+
+
+
+Project Manager
+</td>
+              <td>
+
+
+
+
+
+Medium
+</td>
+              <td>
+
+
+
+
+
+Medium
+</td>
+              <td>
+
+
+
+
+
+In Progress
+</td>
+        </tr>
+	<tr>
+              <td>RISK003</td>
+              <td>3</td>
+              <td>Security
+Risk
+</td>
+              <td>Data breaches and cyberattacks pose a threat that could compromise sensitive data.</td>
+              <td>
+
+
+Technical
+</td>
+              <td>
+
+
+System Developer
+</td>
+              <td>
+
+
+Medium
+</td>
+              <td>
+
+
+Medium
+</td>
+              <td>
+
+
+In Progress
+</td>
+        </tr>
+	<tr>
+              <td>RISK004</td>
+              <td>4</td>
+              <td>Technical Risk</td>
+              <td>The users may not be able to understand how to use the system initially.</td>
+              <td>
+
+
+Technical
+</td>
+              <td>
+
+
+User
+</td>
+              <td>
+
+
+Medium
+</td>
+              <td>
+
+
+Medium
+</td>
+              <td>
+
+
+In Progress
+</td>
+        </tr>
+</table>
+
+=Procurement Plan=
+==Introduction==
+<p>The Procurement Management Plan plays a crucial role in the successful completion of the project by outlining the project's procurement requirements and how the procurement process will be managed, from developing procurement documentation to contract closure. The primary goal of this plan is to ensure timely procurement of necessary items within budget and meeting the required quality standards.
+<br><br>
+This plan specifies the types of items to be procured, provides justification statements and timelines for procurement, determines the contract types to be used, identifies associated procurement risks, and outlines risk mitigation strategies. It also describes the process for determining costs, evaluating suppliers, and utilizing standardized procurement templates and documents.
+<br><br>
+Furthermore, the plan addresses the management of multiple suppliers (if applicable), the contract approval process, decision criteria, and the establishment of contract deliverables and deadlines. It explains how procurement and contracts align with the project's scope, budget, and schedule, highlights any procurement-related constraints, and provides guidance to sellers regarding baseline requirements such as contract schedules and work breakdown structures (WBS).
+<br><br>
+Effective vendor management is a critical aspect covered in this plan, including the identification of prequalified sellers (if applicable). Lastly, the plan establishes performance metrics for procurement activities to ensure continuous monitoring and control of the procurement process throughout the project's life cycle.
+<br><br>
+In summary, this Procurement Management Plan is carefully designed to meet the project’s procurement needs efficiently and effectively, emphasizing quality, cost, and schedule considerations. It serves as a clear and concise roadmap, ensuring alignment and information sharing among all stakeholders involved in the procurement process.
+</p>
+
+==Procurement Risk==
+<p>Procurement plays a vital role in project management by acquiring goods, services, or works from external sources. Procurement risks encompass potential challenges that can arise during the procurement process and have the potential to hinder the project's overall success. Thus, it is crucial to proactively identify and mitigate these risks to minimize their impact on the project's outcomes.
+<br><br>
+The E-Cliniq project involves procurement activities that carry inherent risks, which include but are not limited to the following:
+<br><br>
+1.	The availability and allocation of internal resources, such as team members or equipment, could impact the procurement process.
+<br><br>
+2.	Delays in the project timeline or missed deadlines within the team could affect the ability to procure necessary items or services within expected timeframes.
+<br><br>
+3.	Ensuring the quality of internally procured items or services is crucial to avoid rework, delays, or compromised project outcomes.
+<br><br>
+4.	Poor cost management within the project can create risks in procuring necessary resources within the allocated budget.
+<br><br>
+5.	Ineffective communication and coordination among team members involved in procurement activities can lead to misunderstandings, delays, or 
+errors.
+<br><br>
+6.	Inadequate documentation or incomplete records related to procurement activities can create risks in tracking decisions, maintaining transparency, and ensuring compliance.
+<br><br>
+</p>
+
+==Procurement Risk Management==
+<p>1.	Risk Identification:
+<br><br>
+a.	Identify possible procurement risks unique to the E-Cliniq project, considering internal procurement activities.<br><br>
+b.	Evaluate previous experiences, lessons learned, and project limitations to identify potential risks.<br><br>
+c.	Engage key stakeholders, including team members, in the process of identifying risks to gather a wide range of perspectives.<br><br>
+2.	Risk Assessment:<br><br>
+a.	Assess the likelihood and consequences of each identified procurement risk.<br><br>
+b.	Prioritize risks based on their seriousness and potential impact on project goals.<br><br>
+c.	Utilize qualitative and quantitative analysis methods, such as risk probability and impact assessment, to evaluate risks.<br><br>
+3.	Risk Mitigation:<br><br>
+a.	Develop risk mitigation strategies and action plans for high-priority procurement risks:<br><br>
+1.	Avoidance and Reduction: Take steps to avoid high-risk activities or situations and implement measures to reduce the likelihood or impact of identified risks.<br><br>
+2.	Contingency Planning: Develop backup plans and alternative courses of action to ensure project progress in case of risk occurrence.<br><br>
+3.	Communication and Documentation: Foster open communication channels, collaborate with stakeholders, and maintain comprehensive documentation to promptly address risks and capture lessons learned.<br><br>
+4.	Risk Monitoring and Control:<br><br>
+a.	Consistently keep track of identified procurement risks throughout the duration of the project.<br><br>
+b.	Routinely assess the efficiency of risk mitigation measures and make necessary adjustments.<br><br>
+5.	Documentation and Lessons Learned:<br><br>
+a.	Record all identified procurement risks, including their assessment, mitigation strategies, and implementation specifics.<br><br>
+b.	Establish a centralized repository for documentation related to procurement risks.<br><br>
+c.	Apply the lessons learned to future projects to enhance procurement practices and strengthen risk management capabilities.<br><br>
+6.	Continuous Improvement:<br><br>
+a.	Cultivate an environment of continuous improvement by actively seeking feedback and suggestions from project team members.<br><br>
+b.	Integrate feedback and improvements into future iterations of the procurement risk management approach.<br><br>
+</p>
+
+==Cost Determination==
+<p>
+The Cost Determination section of the Procurement Management Plan outlines the processes and considerations for determining the costs associated with procuring goods, services, or works for the E-Cliniq project. It adheres to the guidelines and principles outlined in the PMBOK Guide for Procurement Management.<br><br>
+1.	Cost Estimation Approach:<br><br>
+•	Utilize established cost estimation techniques, such as parametric estimation, analogous estimation, or bottom-up estimation, to determine the projected costs of procurement items.<br><br>
+•	Consider historical data, industry benchmarks, and expert judgment to enhance the accuracy and reliability of cost estimates.<br><br>
+•	Document the methodology and assumptions used in cost estimation to ensure transparency and facilitate future reference.<br><br>
+2.	Request for Quote (RFQ):<br><br>
+•	Prepare comprehensive RFQs to solicit pricing information and cost estimates from potential vendors or suppliers.<br><br>
+•	Clearly define the scope of work, specifications, and any performance requirements to ensure accurate cost proposals.<br><br>
+•	Include provisions for vendors or suppliers to provide breakdowns of their costs, including labor, materials, and any additional expenses.<br><br>
+3.	Cost Analysis and Evaluation:<br><br>
+•	Analyze and evaluate the cost proposals received from vendors or suppliers to assess their reasonableness, completeness, and adherence to the project's budgetary constraints.<br><br>
+•	Review the pricing details, cost breakdowns, and any associated terms and conditions to ensure alignment with the project's objectives and quality standards.<br><br>
+•	Consider any risks or contingencies identified in the cost proposals and evaluate their potential impact on the overall project cost.<br><br>
+4.	Cost Negotiation:<br><br>
+•	Engage in negotiations with vendors or suppliers to achieve the best value for the project while maintaining a balance between cost, quality, and schedule.<br><br>
+•	Seek opportunities for cost savings through potential discounts, volume pricing, or alternative procurement strategies.<br><br>
+•	Document any negotiated changes to the costs and ensure that they are properly incorporated into the contractual agreements.<br><br>
+5.	Cost Baseline:<br><br>
+•	Establish a cost baseline that reflects the approved and agreed-upon costs for the procurement items.<br><br>
+•	Use the cost baseline as a reference point for monitoring and controlling project expenditures throughout the procurement process.<br><br>
+•	Ensure that the cost baseline aligns with the project's overall budget and is integrated into the project's financial management systems.<br><br>
+
+By following the Cost Determination section of the Procurement Management Plan, the E-Cliniq project will have a structured approach to determine and manage the costs associated with procurement activities. This ensures that costs are estimated accurately, vendors or suppliers are evaluated effectively, and negotiations are conducted efficiently to achieve the project's objectives within the defined budgetary constraints.<br><br>
+</p>
+
+==Procurement Constraint==
+<p>The procurement management process of the E-Cliniq project must consider the following constraints:
+<br><br>
+1.	Budget constraints: The project operates within a defined budget, necessitating cost-effective procurement practices. Procurement activities must be planned and executed in a manner that aligns with the allocated budget.<br>
+2.	Technological constraints: The E-Cliniq project requires specific technological capabilities, and vendors must possess the necessary expertise to meet those requirements. Technological constraints influence the selection of vendors and the procurement of appropriate products and services.<br>
+3.	Vendor selection constraints: The procurement process adheres to the organization's policies and procedures for selecting vendors. Vendors are evaluated based on predetermined criteria, including factors like their past performance and financial stability, ensuring that only qualified vendors are considered.<br>
+4.	Buyer/seller relationship constraints: The E-Cliniq project has predefined requirements for the buyer/seller relationship, encompassing communication protocols, documentation standards, and reporting mechanisms. These constraints govern the interactions between the project team and vendors throughout the procurement process.<br>
+5.	Resource constraints: The availability of internal resources, such as personnel, needs to be considered during the procurement process. Efficient allocation of resources is essential to ensure the smooth execution of procurement activities.<br><br>
+
+These constraints should be carefully considered throughout the procurement process of the E-Cliniq project to ensure that project requirements are met while staying within the project's timeline and budgetary limitations.
+</p>
+
+==Contract Approval Process==
+<p>
+The Contract Approval Process outlines the procedures and steps involved in approving contracts for the E-Cliniq project. It adheres to the guidelines and principles outlined in the PMBOK Guide for Procurement Management.<br><br>
+1.	Contract Review and Evaluation:<br>
+•	The procurement team or contract review board reviews and evaluates contracts from vendors or suppliers. This includes assessing terms, pricing, deliverables, and other provisions to ensure compliance with project requirements.<br><br>
+2.	Approval Authority:<br>
+•	Clearly define the roles and responsibilities of individuals or entities with the authority to approve contracts within the project organization. Ensure that the approval process follows organizational policies and procedures for contract approvals.<br><br>
+3.	Contract Approval Criteria:<br>
+•	Establish criteria for evaluating and approving contracts, considering technical feasibility, financial viability, legal compliance, and alignment with project objectives. Ensure that the criteria align with procurement objectives, strategic goals, and risk management considerations.<br><br>
+4.	Contractual Negotiation:<br>
+•	Engage in negotiations with the selected vendor or supplier to finalize contract terms and conditions, including pricing, deliverables, timelines, quality standards, and other relevant aspects for a mutually beneficial agreement.<br><br>
+5.	Documentation and Recordkeeping:<br>
+•	Maintain accurate documentation of the contract approval process, including approval records, contract versions, amendments, and relevant correspondence. Establish a centralized repository or contract management system for efficient storage and management of contract-related documents.<br><br>
+6.	Approval Signatories and Execution:<br>
+•	Identify authorized signatories responsible for signing and executing approved contracts. Ensure the signing process complies with legal requirements, internal policies, and regulatory obligations.<br><br>
+7.	Contract Communication:<br>
+•	Communicate the approved contracts to relevant stakeholders, including the project team, vendors, suppliers, and any other involved parties. Provide clear instructions and expectations regarding the implementation of the contracts and the associated deliverables.<br><br>
+By adhering to the Contract Approval Process, the E-Cliniq project ensures a structured and regulated approach to contract approvals. This fosters transparency, accountability, and compliance with project requirements, legal obligations, and organizational policies.
+
+</p>
+==Decision Criteria==
+<p>The Decision Criteria outlines the key factors to consider when making procurement decisions for the E-Cliniq project.<br><br>
+1.	Technical Specifications: Assess procurement item specifications to meet project requirements. Consider compatibility, interoperability, and compliance with standards.<br>
+2.	Quality and Reliability: Assess vendors' quality and reliability based on past performance, references, certifications, and reviews. Consider their ability to consistently meet project quality standards.<br>
+3.	Cost and Value for Money: Examine the costs of procurement items or services, including purchase price, maintenance expenses, licensing fees, and ongoing costs. Evaluate the value for money by comparing costs to expected benefits, performance, durability, and long-term value.<br>
+4.	Vendor or Supplier Experience: Evaluate the vendors' or suppliers' experience, reputation, financial stability, technical expertise, past performance, and ability to fulfill contractual obligations when considering their suitability for providing similar products or services.<br>
+5.	Delivery Schedule: Evaluate the vendors' or suppliers' capacity to meet the project's delivery schedule and milestones by considering factors such as lead time, production capacity, logistics, and potential risks or delays in the supply chain.<br>
+6.	Risk Management: Assess the vendors' or suppliers' risk mitigation capabilities and their proactive approach to managing risks. Evaluate the potential risks associated with each procurement option, including supplier reliability, product/service performance, contractual risks, and market volatility.<br>
+7.	Contractual and Legal Considerations: Assess the contractual terms and conditions, such as warranties, intellectual property rights, liability clauses, termination conditions, and dispute resolution mechanisms, for potential contracts. Ensure compliance with relevant laws, regulations, and organizational policies when entering into contractual agreements.<br>
+8.	Stakeholder Alignment: Evaluate the alignment of the procurement decision with the needs and expectations of key stakeholders, including project sponsors, end-users, and regulatory authorities. Consider their input, requirements, and any specific preferences or constraints they may have.<br><br>
+
+These decision criteria ensure that the selected vendors or suppliers, products, or services align with E-Cliniq’s technical requirements, quality standards, budgetary constraints, and risk management considerations.
+</p>
+
+==Performance Matrix for Procurement Activities==
+<p>The Performance Metrics outlines the key indicators and metrics that will be used to monitor and assess the effectiveness of procurement processes and activities.<br><br>
+1.	Procurement Cycle Time:<br>
+•	Measure the time taken from the initiation of a procurement activity to its completion, including vendor selection, contract negotiation, and contract signing.<br>
+•	Evaluate the procurement cycle time to ensure that it aligns with project schedules and does not cause delays in project execution.<br><br>
+2.	Cost Variance:<br>
+•	Compare the actual procurement costs with the planned or budgeted costs for each procurement activity.<br>
+•	Calculate the cost variance to identify any significant deviations from the planned costs and take corrective actions if necessary.<br><br>
+3.	Supplier Performance:<br>
+•	Evaluate the performance of suppliers based on predefined criteria, such as adherence to contract terms, delivery schedule compliance, quality of products or services, and responsiveness to issues or concerns.<br>
+•	Use supplier performance ratings or scorecards to track and assess the overall performance of suppliers throughout the procurement process.<br><br>
+4.	Quality Assurance:<br>
+•	Establish metrics to monitor the quality of procured goods, services, or works.<br>
+•	Measure the adherence of suppliers to specified quality standards, product/service performance, defect rates, and customer satisfaction.<br><br>
+5.	Contract Compliance:<br>
+•	Monitor and assess the compliance of vendors or suppliers with contractual obligations, terms, and conditions.<br>
+•	Track contract deliverables, milestones, reporting requirements, and any other contractual obligations to ensure that suppliers fulfill their contractual commitments.<br><br>
+6.	Risk Management Effectiveness:<br>
+•	Evaluate the effectiveness of risk management strategies and actions taken to mitigate procurement-related risks.<br>
+•	Monitor the identification, assessment, and mitigation of risks throughout the procurement process and assess the impact on project objectives.<br><br>
+7.	Customer Satisfaction:<br>
+•	Gather feedback from project stakeholders, end-users, and customers regarding their satisfaction with the procured goods, services, or works.<br>
+•	Use surveys, feedback forms, or other means to measure and evaluate customer satisfaction levels.<br><br>
+8.	Cost Savings or Value Added:<br>
+•	Measure the cost savings achieved through effective procurement practices, such as negotiating favorable pricing, optimizing resources, or identifying alternative suppliers.<br>
+•	Assess the value added by the procured goods, services, or works in terms of improved project performance, productivity, or operational efficiency.<br><br>
+
+By tracking and analyzing these performance metrics, the project team can identify areas for improvement, make data-driven decisions, and ensure that procurement activities contribute to the overall success of the project. Regular monitoring and evaluation of these metrics will help in maintaining transparency, accountability, and continuous improvement within the procurement process.
+</p>
+
