@@ -1314,6 +1314,10 @@ The following are the roles and duties for the quality management plan: </p>
       <td>Responsibilities include producing a high-caliber product and upholding the specified quality policies and standards.</td>
     </tr>
     <tr>
+      <td>Quality Assurance Team</td>
+      <td>Responsible for creating and enforcing quality standards, carrying out exhaustive testing and inspections, and making sure that industry rules are being followed in order to produce high-quality goods and services.</td>
+    </tr>
+    <tr>
       <td>Project Sponsor</td>
       <td>Provides executive support for the project.</td>
     </tr>
@@ -1343,10 +1347,11 @@ The following are the roles and duties for the quality management plan: </p>
   <h3>Requirements for Product Quality:</h3>
 
   <ul>
-    <li>The Fleeky Hub will be fully operational and adhere to the product backlog's technical requirements.</li>
-    <li>The interface shall be simple to use, with prompts and instructions that are obvious to users.</li>
-    <li>The solution will work with the company's current technological infrastructure.</li>
-    <li>The system will have a high level of data security to safeguard the customer's private information.</li>
+	<li>The Fleeky Hub website will be fully operational and adhere to the product backlog’s technical requirements.</li>
+	<li>The interface shall be simple to use, with prompts and instructions that are obvious to users.</li>
+	<li>The solution shall work to numerous devices and different browsers.</li>
+	<li>The payment gateway and transaction is stored and recorded. The system shall notify the staff and the customer if there is a new order has created.</li>
+	<li>The system will have a high level of data security to safeguard the customer's private information.</li>
   </ul>
 
   <h3>Requirements for Ensuring Quality of Processes:</h3>
@@ -1376,43 +1381,46 @@ The following are the roles and duties for the quality management plan: </p>
 
 <p>The QA process for the Fleeky Hub project will be integrated into the Agile and Scrum method to ensure that quality is achieved through collaborative effort and continuous improvement. The following steps will be undertaken: </p>
 
-<h2>Defining Quality Standards</h2>
+<ul>
+<li>Defining Quality Standards</li>
   <p>The project team will collaborate with stakeholders to define and document the quality standards for the project in the Quality Management Plan. The quality standards will be communicated to all stakeholders.</p>
 
-  <h2>Agile Quality Auditing</h2>
+  <li>Agile Quality Auditing</li>
   <p>The project team will conduct regular quality audits using Agile practices such as peer reviews, test-driven development, and continuous integration. These practices will be used to verify that quality standards are being met and identify areas for improvement.</p>
 
-  <h2>Quality Metrics</h2>
+  <li>Quality Metrics</li>
   <p>The project team will use quality metrics to track and report on the project's performance against the quality standards.</p>
 
-  <h2>Continuous Improvement</h2>
+  <li>Continuous Improvement</li>
   <p>The project team will use the feedback received from quality audits and quality metrics to continuously improve the product and the quality process. The project team will work with stakeholders to identify opportunities for improvement and implement changes.</p>
 
-  <h2>Compliance with Industry Standards</h2>
+  <li>Compliance with Industry Standards</li>
   <p>The project team will ensure that the Fleeky Hub adheres to relevant industry standards such as accessibility standards, security standards, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.</p>
 
-  <h2>Reviewing Customer Feedback</h2>
+  <li>Reviewing Customer Feedback</li>
   <p>The project team will regularly review customer feedback to identify any issues or areas for improvement. This feedback will be used to inform the continuous improvement process and ensure that the product meets customer needs and expectations.</p>
 
-  <h2>Quality Assurance Metrics</h2>
+  <li>Quality Assurance Metrics</li>
   <p>The quality assurance metrics will be closely monitored, tracked, and reported on a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and implement improvements. The goal is to ensure that the Fleeky Hub meets the highest quality standards, and that all quality assurance metrics are closely monitored to ensure the project's success.</p>
+</ul>
 
   <h2>Quality Control</h2>
 
   <p>In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Fleeky Hub project will involve the following steps:</p>
 
-  <h3>Continuous testing and feedback:</h3>
+<ul>
+  <li>Continuous testing and feedback:</li>
   <p>The project team will perform continuous testing to identify defects and ensure that the product is meeting customer requirements. The testing will be automated wherever possible, and the results will be tracked in a continuous integration/continuous delivery (CI/CD) system.</p>
 
-  <h3>User Acceptance Testing (UAT):</h3>
+  <li>User Acceptance Testing (UAT):</li>
   <p>A representative group of end users will test the system to ensure it satisfies their needs and expectations. The UAT will be performed at the end of each sprint, and any necessary modifications will be made based on feedback from the users.</p>
 
-  <h3>Compatibility Testing:</h3>
+  <li>Compatibility Testing:</li>
   <p>The Fleeky Hub will be tested on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any difficulties that may arise when the system is used in various settings.</p>
 
-  <h3>Continuous Monitoring:</h3>
+  <li>Continuous Monitoring:</li>
   <p>After deployment, the project team will monitor the effectiveness of the Fleeky Hub. This will involve keeping an eye on important performance measures including user happiness, response time, and system uptime. This will provide essential information to aid with any system upgrades and identify any problems or bottlenecks.</p>
-
+</ul>
   <h2>Quality Metrics for Monitoring</h2>
 
   <p>The following quality metrics will be used to monitor and assess the system's performance:</p>
@@ -1425,15 +1433,9 @@ The following are the roles and duties for the quality management plan: </p>
     <li>User Happiness: Measured through surveys and feedback from users.</li>
     <li>Response Time: The time taken for the system to respond to user requests.</li>
     <li>System Uptime: The percentage of time the system is available and functioning as expected.</li>
+    <li>Tracking and Documenting Quality Evaluations: The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.</li>
+    <li>Continuous Improvement: The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.</li>
   </ul>
-
-  <h2>Tracking and Documenting Quality Evaluations</h2>
-
-  <p>The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.</p>
-
-  <h2>Continuous Improvement</h2>
-
-  <p>The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.</p>
 
   <h2>Quality Control Measurements</h2>
 
@@ -1455,15 +1457,16 @@ The following are the roles and duties for the quality management plan: </p>
     <li>Team member in charge of carrying out corrective measures</li>
   </ul>
 
-  <p>Dashboards and other visual tools will be used to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. The dashboards will draw attention to patterns and problem areas so that the team can act fast and make the necessary adjustments.</p>
+  <p>Visual tools will be used to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. It draws attention to patterns and problem areas so that the team can act fast and make the necessary adjustments.</p>
 
   <p>The quality control metrics will be reviewed, and the method will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the group will pinpoint potential improvement areas and put any found problems into practice.</p>
 
   <h2>Conclusion</h2>
 
-  <p>In conclusion, the Fleeky Hub project will use Agile and Scrum approaches to implement a collaborative and dynamic quality control strategy. To make sure the product satisfies the standards and needs, the team will regularly assess the product's quality and make the required improvements. On a common platform, all quality control measurements will be collected and tracked in real-time. The team will collaborate to address any problems and implement any necessary improvements.</p>
+  <p>In conclusion, the Fleeky Hub project will use Agile and Scrum approaches to implement a collaborative and dynamic quality control strategy. To make sure the product satisfies the standards and needs, the team will regularly assess the product's quality and make the required improvements. On a common platform, all quality control measurements will be collected and tracked in real time. The team will collaborate to address any problems and implement any necessary improvements.</p>
 
- <h1>Change Management Plan</h1>
+
+<h1>Change Management Plan</h1>
 
   <h2>Introduction</h2>
 
