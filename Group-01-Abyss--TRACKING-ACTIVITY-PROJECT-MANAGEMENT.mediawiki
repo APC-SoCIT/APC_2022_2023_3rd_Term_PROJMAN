@@ -2473,85 +2473,137 @@ In addition to that there are format that are easily understandable and helpful 
 
 ==Change Control Process==
 <br>
-<p>Apelo Dental Clinic System would like to provide the utmost care for patients who want to achieve their desired procedure for their dental health. And is responsible for achieving the patients’ demand. ADENICSY’s change protocol process guarantees that, in accordance with accountability protocols, each change proposed during an initiative is properly specified, examined, and approved before execution. The change control process promotes the effective use of resources and helps prevent unneeded modifications that could influence delivery in terms of time, budget, and quality. </p>
+<p>The Change Management process sets forth a systematic and efficient method for managing the submission, coordination, review, evaluation, categorization, and approval of all changes to the project's baselines. The table provided below illustrate the agreed-upon process flow for change requests (CR) within the team.</p>
 <br>
-<p>The following steps below are the ADENICSY’s change control process:  </p>
-<br>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q4Zd_Big4KF2i_8cJN44PBwJTyXx7xr2t1z-V4R0M5aKkWg2ZT55lFiKzODBiddi3aTc6zzm9NjBV6Zo3qM09Ix8Bp4g=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81q4Zd_Big4KF2i_8cJN44PBwJTyXx7xr2t1z-V4R0M5aKkWg2ZT55lFiKzODBiddi3aTc6zzm9NjBV6Zo3qM09Ix8Bp4g=s2560" /> </a>
-<br>
-<table border="1" width="70%" align="center">
-   <tr>
-      <th>Process Step</th>
-      <th>Description</th>
-      <th>Change Log Status</th>
-      </tr>
-      <tbody>
-      <tr>
-      <td>Proposing a Change</td>
-      <td>ADENICSY’s project leader oversees submitting a Change Request Form. At this point, organizational process inefficiencies, technological improvements, and changing client needs all point to the need for change. </td>
-      <td>Submitted</td>
-      </tr>
-      <tr>
-      <td>Change Request Evaluation</td>
-      <td>The second step involves evaluating the change request to determine its effect on company operations, resource requirements, and budgeting. This step also includes risk assessment and any behavioral adjustments necessary for the change to be successful. If the change is authorized, the procedure then advances to the following stage. If it is denied, the reasons are logged and shared with the customer and stakeholders. </td>
-      <td>Submitted</td>
-      </tr>
-      <tr>
-      <td>Decision</td>
-      <td>The third step of a change endeavor involves thorough preparation. Building a clear and simple strategy that includes dates, resources, pilot testing, and how to lessen the impact of change </td>
-      <td>Submitted </td>
-      </tr>
-      <tr>
-      <td>Implementing a Change</td>
-      <td>In this step, to accommodate the change, update the strategy and obtain resources.</td>
-      <td>Submitted</td>
-      </tr>
-      <tr>
-      <td>Closing a change</td>
-      <td>In this last step of ADENICSY’s change control process. Review all the implemented changes and update the change log. Once the document is signed for closure, the process will be finalized. </td>
-      <td>Submitted</td>
-      </tr>
-      </tbody>
-      </table>
-<br>
-<p>To keep track of the change request progress, each step has a corresponding change request status as show on the table below: </p>
-<br>
-<table border="1" width="70%" align="center">
-   <tr>
-      <th>Status</th>
-      <th>Description</th>
-      </tr>
-      <tbody>
-      <tr>
-      <td>Submitted</td>
-      <td>A member of the project development team or key stakeholders submitted a change request log and has not been reviewed by the Project Manager for impact analysis. </td>
-      </tr>
-      <tr>
-      <td>In review</td>
-      <td>Impact analysis is being performed.</td>
-      </tr>
-      <tr>
-      <td>Approved</td>
-      <td>Change request is approved and will be moved to implementation. </td>
-      </tr>
-      <tr>
-      <td>Denied</td>
-      <td>Change request is denied. </td>
-      </tr>
-      <tr>
-      <td>In Progress</td>
-      <td>Action plan to execute the change request is being implemented </td>
-      </tr>
-      <tr>
-      <td>Verifying</td>
-      <td>Review of proper implementation of change request </td>
-      </tr>
-      <tr>
-      <td>Closed</td>
-      <td>Chang request work is complete, has passed all tests, and updates have been released.</td>
-      </tr>
-      </tbody>
-      </table>
+
+<table style="width:552.85pt;margin-left:-72.25pt;border-collapse:collapse;border:none;">
+    <tbody>
+        <tr>
+            <td>
+                <p><strong>Process Step Step</strong></p>
+            </td>
+            <td>
+                <p><strong>Description</strong></p>
+            </td>
+            <td>
+                <p><strong>Change Log Status</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Change Request Submittal</p>
+            </td>
+            <td>
+                <p>1. The individual requesting the change (Requestor) completes and submits the change request form to initiate the request. If the Requestor is unsure about how to properly fill out the form, the Project Manager provides guidance and assistance in completing the Change Request form.</p>
+            </td>
+            <td>
+                <p>Submitted</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Analyze Impact of the Change Request</p>
+            </td>
+            <td>
+                <p>1. Upon receiving the change request, the Project Manager evaluates its impact, considering factors such as scope, schedule, budget, and quality. Based on this assessment, the Project Manager determines whether the impact is high or low and identifies the necessary actions for implementation.</p>
+<p><span>&nbsp;</span></p>
+                <p>2. If the impact of the change request is determined to be high, the Project Manager proceeds to prepare a recommendation for approval or denial based on the findings from the impact analysis. The Project Sponsor then reviews the change request, the Project Manager's impact analysis, and the recommendation. On the other hand, if the impact is low, the Project Manager has the authority to approve or deny the change request.</p>
+<p><span>&nbsp;</span></p>
+                <p>3. The Change Coordinator is responsible for updating the Change Log and generating a Change Status Report..</p>
+            </td>
+            <td>
+                <p>In Review</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Approve or Deny Change Request</p>
+            </td>
+            <td>
+                <p>Approval of the change request is dependent on the impact it has on the project:</p>
+<p><span>&nbsp;</span></p>
+                <p>For low-impact changes:</p>
+<p><span>&nbsp;</span></p>
+                <div>
+                    <ol>
+                        <li>1.	If the change request is classified as low-impact, the Project Manager has the authority to approve or deny the request.</li>
+                        <li>
+                            <div>
+                                <ol>
+                                    <li>If approved, the Project Manager proceeds with the "Implement Change Request" phase.</li>
+                                    <li>If denied, the change request is considered closed.</li>
+                                </ol>
+                            </div>
+                        </li>
+                        <li>2.	The Change Coordinator is responsible for updating the Change Log and generating a Change Status Report.</li>
+                    </ol>
+                </div>
+<p><span>&nbsp;</span></p>
+                <p>For high-impact changes:</p>
+<p><span>&nbsp;</span></p>
+                <div>
+                    <ol>
+                        <li>1.	If the change request is categorized as high-impact, the Project Sponsor has the sole authority to approve or deny the request.</li>
+                        <li>
+                            <div>
+                                <ol>
+                                    <li>If approved, the Project Manager proceeds with the "Implement Change Request" phase</li>
+                                    <li>If denied, the change request is considered closed.</li>
+                                </ol>
+                            </div>
+                        </li>
+                        <li>2.	The Change Coordinator updates the Change Log and creates a Change Status Report.</li>
+                    </ol>
+                </div>
+            </td>
+            <td>
+                <p>Approved or denied</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Implement Change Request</p>
+            </td>
+            <td>
+                <p>1. Once the change log is updated to "Approved," the Project Manager proceeds to develop an action plan for implementing the change request.</p>
+<p><span>&nbsp;</span></p>
+                <p>2. After finalizing the action plan, the Project Manager communicates it to the relevant team members and assigns responsibilities accordingly</p>
+<p><span>&nbsp;</span></p>
+                <p>3. The Project Manager then updates the project plan, budget, and schedule as necessary to accommodate the approved change.</p>
+<p><span>&nbsp;</span></p>
+                <p>4. The Change Coordinator is responsible for updating the Change Log and generating a Change Status Report.</p>
+            </td>
+            <td>
+                <p>In Progress</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Verify Implementation of Change Request</p>
+            </td>
+            <td>
+                <p>1. The Project Manager verifies the implementation of the change and reports the status to the Change Control Board.</p>
+<p><span>&nbsp;</span></p>
+                <p>2. The Change Coordinator updates the Change Log and generates a Change Status Report.</p>
+            </td>
+            <td>
+                <p>Verifying</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>Change Request Closure</p>
+            </td>
+            <td>
+                <p>1. The Change Coordinator distributes the final Change Status Report to the entire team and stakeholders.</p>
+            </td>
+            <td>
+                <p>Closed</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
 
 =Quality Management Plan=
 ==Introduction==
