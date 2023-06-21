@@ -2310,7 +2310,60 @@ The probability of risks happening and their impact on the project is described 
 * '''Low''': Risks with a low probability of occurring and a minor impact on the project. These risks can be monitored periodically, and mitigation strategies can be developed in case they occur.
 * '''Negligible''': Risks with a very low probability of occurring and negligible impact on the project. These risks can be ignored.
 
-(https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/98085450/a52edce8-d28c-4fbe-b5d8-73e02eac8832)
+{| class="wikitable" 
+|-
+! rowspan="8" | <br />Probability
+! colspan="6" | <br />Impact
+|-
+| <br />
+| <br />Rare <br />   <br />(1)
+| <br />Unlikely <br />   <br />(2)
+| <br />Possible<br />   <br /> (3)
+| <br />Likely <br />   <br />(4)
+| <br />Almost Certain (5)
+|-
+| <br />Insignificant (1)
+| style="background-color:#00B0F0;" | <br />N
+| style="background-color:#00B0F0;" | <br />N
+| style="background-color:#00B0F0;" | <br />N
+| style="background-color:#00B0F0;" | <br />N
+| style="background-color:#92D050;" | <br />L
+|-
+| <br />Minor <br />   <br />(2)
+| style="background-color:#00B0F0;" | <br />N
+| style="background-color:#00B0F0;" | <br />N
+| style="background-color:#92D050;" | <br />L
+| style="background-color:#92D050;" | <br />L
+| style="background-color:#FFC000;" | <br />M
+|-
+| <br />Significant (3)
+| style="background-color:#00B0F0;" | <br />N
+| style="background-color:#92D050;" | <br />L
+| style="background-color:#92D050;" | <br />L
+| style="background-color:#FFC000;" | <br />M
+| style="background-color:#FF0;" | <br />H
+|-
+| <br />Disastrous<br />   <br />(4)
+| style="background-color:#00B0F0;" | <br />N
+| style="background-color:#92D050;" | <br />L
+| style="background-color:#FFC000;" | <br />M
+| style="background-color:#FF0;" | <br />H
+| style="background-color:#F00;" | <br />E
+|-
+| <br />Catastrophic (5)
+| style="background-color:#92D050;" | <br />L
+| style="background-color:#FFC000;" | <br />M
+| style="background-color:#FF0;" | <br />H
+| style="background-color:#F00;" | <br />E
+| style="background-color:#F00;" | <br />E
+|-
+| <br />
+| <br />
+| <br />
+| <br />
+| <br />
+| <br />
+|}
 
 * '''Technical Risk''' - Medium Probability and Medium Impact
 * '''Security Risk''' - Low Probability and Medium Impact
