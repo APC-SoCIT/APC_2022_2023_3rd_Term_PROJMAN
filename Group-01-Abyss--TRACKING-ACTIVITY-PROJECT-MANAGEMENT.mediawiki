@@ -1132,7 +1132,7 @@ By using the WBS and WBS Dictionary, the project team will be able to assign res
 
 
 =Cost Management Plan=
-<p><b>Introduction</b></p>
+==Introduction==
 <p>The Cost Management Plan for Tracking Activity Project Management (TAPM) is to outline the approach that the project team will take to manage costs throughout the project. The plan outlines the methods that will be used to monitor and manage costs, such as budgeting, cost reporting, and cost estimations.
 
 <br><br>Cost management responsibilities:
@@ -1152,7 +1152,7 @@ Cost change approval:
 <p>By adopting these approaches, the project team may efficiently manage expenses for a project that concentrates on TAPM by implementing these measures, ensuring that the project remains on track financially.</p>
 
 
-<p><b>Measuring Project Cost</b></p>
+==Measuring Project Cost==
 <p>The Project Tracking Monitoring System (TAPM) cost almost nothing and involved the creation of software using Laravel and Visual Studio, as well as GitHub, we will use Man-hours and hourly rate to measure and control our project costs. To estimate the cost of the project based on the given information, you can use the following formula:</p>
 
 <p><em>Total Cost = (Hourly Rate * 8 hours) * 30 days</em></p>
@@ -1168,13 +1168,13 @@ Cost change approval:
 
 <p>The Formula above calculates the overall cost the personnel in the duration of the project cycles. However, please note that this is only an estimate, and the actual cost may vary based on factors such as project complexity, resource utilization, and unforeseen events. To forecast future project costs, we will review cost performance over time and across work packages or schedule activities. This will help us identify any potential cost overruns or deviations from our project plan. By measuring and monitoring our project costs, we can ensure that we stay on track and deliver our project within budget.</p>
 
-<p><b>Reporting Format</b></p>
+==Reporting Format==
 <p>
 The ideal reporting format at the cost management plan for the Project TAPM would be a financial report using a spreadsheet, excel, or table. This will include all the technical, maintenance, and for the hourly work of each member, information for the project budget that will be incurred.<br>
 In addition to that there are format that are easily understandable and helpful for the stakeholders and the project team, reporting is especially needed in seeing how much the expected cost and amount of a project, some helpful infographic can also be used upon reporting. The following formats would be used by TAPM, Executive Summary of the project cost and a Budget Overview of the total cost incurred it as well as infographics to make it presentable such as a bar chart.<br>
 </p>
 
-<p><b>Cost Variance Response Process</b></p>
+==Cost Variance Response Process==
 <p>Cost variable response for project TAPM is in the following:</p>
 <ul>
     <li>Control Thresholds
@@ -1214,7 +1214,7 @@ In addition to that there are format that are easily understandable and helpful 
     </li>
 </ul>
 
-<p><b>Cost Change Control Process</b></p>
+==Cost Change Control Process==
 <p>The cost change control process for a project that focuses on TAPM includes:</p>
 <ol>
     <li>Identifying and documenting the change - Suggested changes to the budget of the project must be documented on a cost change request form.</li>
@@ -1225,7 +1225,7 @@ In addition to that there are format that are easily understandable and helpful 
 </ol>
 <p>The cost change control process will be implemented to ensure that any changes that have an impact on the project&rsquo;s cost are correctly assessed and documented by creating an effective cost change control approach. This can reduce the possibility of excess costs and guarantee that the project is completed within the budget.</p>
 
-<p><b>Project Budget</b></p>
+==Project Budget==
 <p>In the context of the TAPM project, a budget has been developed to ensure that all project costs are accounted for and managed throughout the project&apos;s life cycle. This budget will serve as a baseline for monitoring the project&apos;s financial performance and ensuring that it remains on track to meet its objectives within the approved budget.</p>
 <p>The budget for this project is detailed below. The formula used to find the Total Cost monthly pay is Total Cost = (Hourly Rate * 8) * 30, Costs for this project are presented in various categories</p>
 <p>&nbsp;</p>
