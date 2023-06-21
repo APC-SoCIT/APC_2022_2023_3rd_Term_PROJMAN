@@ -1042,8 +1042,8 @@ In summary, the handover and acceptance phase of the Fleeky Curtains project is 
   
   <h3>Top Three Risks</h3>
   <ol>
-    <li>Fleeky Hub would not synchronize the data/information of the patient being recorded if the internet connection is disrupted and/or lost during the process.</li>
-    <li>The information cannot be transferred/exchanged safely if the internet connection is lost and if there was a problem/issue that unexpectedly occurs with the router that connects the devices together.</li>
+    <li>Fleeky Hub would not synchronize the data/information (new customer orders) of the user being recorded if the internet connection is disrupted and/or lost during the process.</li>
+    <li>The payment is transferred/exchanged if the internet connection is lost and if there was no receipt produced by the system.</li>
     <li>The data of Fleeky Hub can be vulnerable to risks when it comes to unauthorized personnel since the customer’s personal data can be interacted by the employees.</li>
   </ol>
   
