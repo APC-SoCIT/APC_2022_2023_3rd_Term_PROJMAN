@@ -2388,11 +2388,11 @@ The project team will collaboratively develop the risk management plan, assignin
 
 To commence risk mitigation and avoidance, the team will first identify and prioritize potential risks. Emphasis will be placed on risks with significant likelihood and impact, devising strategies to minimize or eliminate them. The project manager will consider the following crucial factors and available options:
 
-    '''Risk Assessment''': It is imperative for the team to conduct a comprehensive analysis of potential risks to proactively anticipate and address them. The project manager should prioritize completing the risk assessment early in the project and take swift actions to identify and mitigate any potential risks that are identified. By conducting a thorough risk assessment, the project team can effectively minimize the impact of risks and ensure smoother project execution.
+* '''Risk Assessment''': It is imperative for the team to conduct a comprehensive analysis of potential risks to proactively anticipate and address them. The project manager should prioritize completing the risk assessment early in the project and take swift actions to identify and mitigate any potential risks that are identified. By conducting a thorough risk assessment, the project team can effectively minimize the impact of risks and ensure smoother project execution.
 
-    '''Contingency Planning''': plays a crucial role in ensuring preparedness for potential risks. The project team, under the supervision of the project manager, should develop and test backup plans to address contingencies associated with identified risks. These plans should be carefully designed, thoroughly tested, and confirmed to ensure their effectiveness. By proactively establishing contingency measures, the project team can mitigate the impact of risks and maintain project resilience in the face of uncertainties.
+* '''Contingency Planning''': plays a crucial role in ensuring preparedness for potential risks. The project team, under the supervision of the project manager, should develop and test backup plans to address contingencies associated with identified risks. These plans should be carefully designed, thoroughly tested, and confirmed to ensure their effectiveness. By proactively establishing contingency measures, the project team can mitigate the impact of risks and maintain project resilience in the face of uncertainties.
 
-    '''Effective Communication''': A crucial aspect of risk management is fostering transparent and effective communication among the project team, clients, and stakeholders. The project manager plays a vital role in promoting clear channels of communication to minimize risks and prevent any potential misunderstandings. Open lines of communication facilitate the timely exchange of information, feedback, and concerns, enabling proactive risk identification and mitigation throughout the project lifecycle.
+* '''Effective Communication''': A crucial aspect of risk management is fostering transparent and effective communication among the project team, clients, and stakeholders. The project manager plays a vital role in promoting clear channels of communication to minimize risks and prevent any potential misunderstandings. Open lines of communication facilitate the timely exchange of information, feedback, and concerns, enabling proactive risk identification and mitigation throughout the project lifecycle.
 
 These are general strategies to mitigate and avoid potential risks throughout the project lifecycle. These steps ensure the management of risks that the project team will discover pre and post-development. Using the agile methodology, the group will be able to manage risks and adapt to changes more dynamically. This approach to mitigation and avoidance will be beneficial to all key stakeholders and to the project team.
 
@@ -2411,10 +2411,44 @@ The following criteria will be used for the risk register:
 *'''Risk Score''': The probability and impact scores are multiplied to determine the overall risk.
 *'''Status''': The risk's status, whether it is open, in progress, or closed, is also documented.
 
-![risk register](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/98085450/d2109b51-6aee-469b-a248-e5fe5796d6c3)
-
-
-
+{| class="wikitable" style="background-color:#E9EBF5;"
+|- style="background-color:#4472C4;"
+! <br />Risk ID
+! <br />Risk
+! <br />Description
+! <br />Category
+! <br />Destination
+! <br />Probability
+! <br />Impact
+! <br />Status
+|- style="background-color:#CFD5EA;"
+| <br />RID 001
+| <br />Scope Creep
+| <br />There is a risk   that the scope of the project may expand, leading to delays and cost   overruns.
+| <br />Project
+| <br />Development Team
+| <br />Medium (3)
+| <br />Medium (3)
+| <br />In progress
+|-
+| <br />RID 002
+| <br />Technical Challenges
+| <br />Technical challenges when developing a complex system that requires expertise,   innovative problem-solving, and effective decision-making.
+| <br />Technical
+| <br />Development Team
+| <br />Medium (3)
+| <br />Medium (3)
+| <br />In progress
+|-
+| <br />RID 003
+| <br />Lack of project management and planning
+| <br />Insufficient   project management and planning can lead to chaotic workflows, missed   deadlines, and project failure.
+| <br />Project
+| <br />Project Manager
+| <br />Medium (3)
+| <br />High (4)
+| <br />In progress
+|}
 
 =Work Breakdown Structure (WBS)=
 
