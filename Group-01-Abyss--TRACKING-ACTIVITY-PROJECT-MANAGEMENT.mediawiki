@@ -98,150 +98,67 @@
 <td bgcolor="lightblue"><p style="text-align:center;">POSITION</p></td>
 		<td bgcolor="lightblue"><p style="text-align:center;">EMAIL</p></td>
 	</tr>
-	<tr>
-		<td><p style="text-align:center;">Project Team Leader</p></td>
-<td><p style="text-align:center;">Assist in monitoring and guiding the project toward successful completion.</p></td>
-		<td><p style="text-align:center;">Patricia Anne L. Meltran</p></td>
-	</tr>
         <tr>
 		<td><p style="text-align:center;">Project Manager</p></td>
 <td><p style="text-align:center;">Oversee the business case and be responsible for executing the project.</p></td>
-		<td><p style="text-align:center;">Janssen Pedrola</p></td>
+		<td><p style="text-align:center;">Noreen Keziah Sioco</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
 <td><p style="text-align:center;">Oversee the project`s process improvement.</p></td>
-		<td><p style="text-align:center;">Guiler Marion R. Regalado</p></td>
+		<td><p style="text-align:center;">Mark Gerald Giba</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
 <td><p style="text-align:center;">Provide technical support for the project. </p></td>
-		<td><p style="text-align:center;">Alfonzo Louise De Vera</p></td>
+		<td><p style="text-align:center;">Jose Norberto Verde</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
-<td><p style="text-align:center;">Oversee the project`s process improvement. /p></td>
-		<td><p style="text-align:center;">Earl Eufimeah Dahinao</p></td>
+<td><p style="text-align:center;">Oversee the project`s process improvement.</td>
+		<td><p style="text-align:center;">Bea Angeline Cruz</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
 <td><p style="text-align:center;">Supervise the project team’s documentation improvement. </p></td>
-		<td><p style="text-align:center;">Ivan Emmanuel Flores</p></td>
+		<td><p style="text-align:center;">Joseph Adrian Lebag</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Executive Sponsor</p></td>
 <td><p style="text-align:center;">Provide guidance to the project.</p></td>
-		<td><p style="text-align:center;">Dr. Denroe Apelo</p></td>
+		<td><p style="text-align:center;">Jayvee Cabardo</p></td>
 	</tr>
 </table>
 ==Problem Definition==
 <p> <b>Problem Statement</b></p>
-<p>Apelo Dental Clinic is a company that provides a wide range of dental services to its customers. Usually, they focus on preserving good oral hygiene and avoiding or addressing dental problems. However, Apelo Dental Clinic System (ADENICSY) is a web application that supports day to day operation of Apelo Dental Clinic. 
-
-The company employs manual procedures for its daily operations, which involve using paper-based systems for queuing management and index cards to keep track of patient data. This results in a delay of approximately 1 to 4 hours to obtain a number, and patient information retrieval is time-consuming and occupies significant space in the dental clinic. All the current manual procedures are vulnerable to human mistakes and data loss. Despite efforts to maintain a large amount of data, some are still lost, and patients experience excessive waiting times, making it difficult for the company to maintain all the data of their patients and accommodate all the patients in their dental clinic.</p>
+<p>The Project Development Office of Asia Pacific is having difficulty monitoring the status of the school's internal and external projects promptly. This includes the lack of visibility into project status, potential bottlenecks or delays, poor communication among team members, and difficulty aligning project objectives with overall business goals. These issues often result in missed deadlines, cost overruns, and poor-quality outcomes.</p>
 
 <p><b>Organizational Impact</b></p>
-<p>The implementation of Apelo Dental Clinic will have a significant impact on the company. By reducing long waiting times in queuing and improving the manual process of recording records, the clinic can redirect its savings toward other important initiatives. This will help drive the overall performance and efficiency of the company. <br>
+<p>The implementation of an integrated project management system within the Project Development Office of Asia Pacific will have a significant impact on the organization. It will address existing challenges such as lack of visibility, poor communication, and difficulty aligning project objectives with business goals. By providing real-time project status updates, enabling efficient communication among team members, and ensuring alignment with business goals, the system will enhance project performance, reduce delays, and improve outcomes. This will lead to cost savings, increased efficiency, and higher customer satisfaction rates, driving overall organizational performance and profitability.<br>
 <br>
-In addition, the project aims to improve the current process by introducing agility into the system. By eliminating the need for patients to physically obtain numbers for queuing, the process becomes more efficient and saves time for both the patients and the clinic staff. Additionally, the project will address the challenge of storing patient information by reducing the amount of space required for physical storage. With these improvements, the clinic can focus on providing quality healthcare services and enhancing patient experiences. Overall, the project will revolutionize the healthcare sector by creating a seamless and hassle-free process for patients and healthcare providers alike.</p>
+Moreover, the integrated system will streamline processes by consolidating dispatch tools and reducing manual tasks. This will result in improved efficiency, faster response times, and reduced errors. The optimized process will enable team members to allocate resources effectively, resolve outages promptly, and enhance customer satisfaction. Additionally, the system will free up resources and savings that can be redirected towards other important initiatives, contributing to the organization's success, and fostering continuous improvement. Overall, the implementation of the integrated project management system will transform the Project Development Office, addressing existing issues, optimizing processes, and driving positive impacts on project delivery and overall organizational performance.</p>
 
 <p><b>Technology Migration</b></p>
-<p>The system will be developed using HTML, PHP, JavaScript, and SQL to create a web application, as they currently rely on manual processes that involve number cards and index cards. The data migration process will involve the dental clinic staff manually entering the information from the index cards. After the system is developed, it will be implemented through the company's VDI environment.</p>
-
-==Problem Statement==
-
-<p>There are current Tracking Activity and Project  Management processes that are inefficient and time-consuming,  resulting  in  misunderstandings,  missed deadlines,  and delays in project completion.</p>
-
-==Organizational Impact==
-<ul>
-	<li>
-		Increased  Efficiency: A well  designed and  effective  Tracking  Activity  and  Project Management system can be used to optimize resource use, avoid duplication of work, and improve project workflows.
-	</li>
-	<li>
-		Better   Communication   and   Collaboration:   A   Tracking   Activity   and   Project Management system  can  provide an organized  platform  for  team  members  to communicate  and  work  together,  facilitating more  efficient  teamwork  better decision-making, and better problem solving.
-	</li>
-	<li>
-		Increased Accountability: A Tracking Activity and Project Management system can provide insights into project performance and progress, which makes it simpler to hold team members accountable for their responsibilities.
-	</li>
-</ul>
-
-==Technology Migration==
-<p>This are the technology migration for the Project Tracking Activity Management:</p>
-<ul>
-	<li>
-		Assess the current technology stack: The first step in migrating to any system is to assess the current technology stack. This involves identifying the current software, hardware, and infrastructure that are in place. You will need to determine the strengths and weaknesses of the current system and identify areas that require improvement.
-	</li>
-	<li>
-		Define the target technology stack: Once you have assessed the current technology stack, you need to define the target technology stack. This involves identifying the technologies and platforms that will be used to build the new system. You will need to consider factors such as scalability, security, and user experience when selecting modern technologies.
-	</li>
-	<li>
-		Plan the migration strategy: With the current and target technology stacks identified, you need to plan the migration strategy. This involves determining the steps required to move from the current system to the new system. You will need to consider factors such as data migration, testing, and deployment when planning the migration strategy.
-	</li>
-	<li>
-		Execute the migration: Once the migration strategy has been defined, you can begin to execute the migration. This involves implementing modern technologies, migrating data from the old system to the new system, and testing the new system to ensure it meets the requirements.
-	</li>
-	<li>
-		Train the users: After the new system has been deployed, you will need to train the users in how to use the new system. This involves providing documentation, training sessions, and support to ensure the users are comfortable with the new system.
-	</li>
-	<li>
-		Monitor and maintain the new system: Finally, you will need to monitor and maintain the new system to ensure it continues to meet the requirements. This involves monitoring the system for issues, performing regular maintenance, and making updates, as necessary.
-	</li>
-	<li>
-		Closure: The project group will deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met.
-	</li>
-</ul>
+<p>The system will be built using Laravel Framework in which will use PHP syntax and SQL for database to create a web portal in order to be easily accessible for the users and stakeholders. In terms of data migration, all the past data such as user details and archived projects can be exported from the artifacts files that can be imported to the database, facilitating a seamless and efficient transition. Once the system is completed, it can be deployed through the APC network.</p>
 
 ==Project Overview==
 
-<p>The project aims to develop a website/system that will help the Asia Pacific College's Project Development Office monitor the progress of their internal and external projects promptly. The system will provide a platform that can enhance the PDO's capacity to track projects and generate reports efficiently.</p>
+<p><b>Project Description </b></p>
 
-<p>The project group will develop the system with the following intentions:</p>
-<ul>
-	<li>
-		Design and deploy software during PBL1 that can assist the PDO in tracking projects and generating reports in a timely manner. The software should be user-friendly and easily accessible with the PDO.
-	</li>
-	<li>
-		Develop a collaboration space that can facilitate the dissemination of files, ideas, and information between student groups and faculty members. The collaboration space should be well-suited for project-based learning, allowing students and faculty to work together efficiently and effectively.</li>
-	<li>
-		The system should have the capacity to monitor the status of projects under PBL2. It should provide real-time updates on the progress of the projects and allow the PDO to manage expectations for industry partners.
-	</li>
-</ul>
+<p>The goal of the project is to create a system that will address the need of a project development office with the problem of project tracking and management together with its students. As a function, the system will include a function that will visually show the progress to track the current flow of the project in which will allow the PDO to monitor everything that has been done to the project so far. With this, the stakeholders will be able to easily follow up the needs of the project development and will make it easier to continue past works that will be involve in the future.<br>
+<br>
+Doing this project will also improve the experience of the stakeholders involve in the project development by providing them with a single collaborative platform that provides tracking system, making it easier for them to track and manage their work. By implementing this system, the PDO will be able to track and monitor the on-going projects efficiently, allowing also the other stakeholders to track every progress made to the projects, from the system.</p>
 
-<p>The project group will follow a project management framework that includes the following phases: </p>
-<ul>
-	<li>
-		Initiation: In this phase, the project group will define the project's scope and objectives, identify stakeholders, and establish the project team.
-        </li>
-	<li>
-		Planning: The project group will develop a project plan that includes the project timeline, budget, and resources required. The group will also define the system requirements and specifications during this phase. 
-        </li>
-	<li>
-		Monitoring and Controlling: In this phase, the project group will monitor the project's progress and make any necessary changes to ensure it is on track.
-	</li>
-	<li>
-		Closure: The project group will deliver the completed system to the PDO and conduct a post-implementation review to ensure that the project objectives have been met.
-	</li>
-</ul>
+<p><b>Goals and Objectives</b></p>
 
-==Goals and Objectives==
-
-<p>The objectives which mutually support the milestones and deliverables for this project have been identified.  To achieve success on the project, the following objectives for the tracking activity project management project must be met within the designated time allocations: </p>
+<p>This project aims to improve the process of monitoring existing projects that the project development office handles, which includes the tracking of progress of the said projects. To achieve this, the project specifically addresses the following: </p>
 
 <ul>
 	<li>
-		<b>Specific:</b> Improve project outcomes by reducing project completion time by 70% compared to the previous term and achieve 100% by the last term. 
+      Develop a progress tracking system that will let the stakeholders monitor the projects.
 	</li>
 	<li>
-		<b>Measurable:</b> Increase team collaboration by achieving a 20% increase in team member participation in project planning and status meetings. 
-	</li>
-	<li>
-		<b>Attainable:</b> Implement a new project management tool that meets the organization's specific needs and can be deployed within the next 3 months. 
-	</li>
-	<li>
-		<b>Realistic:</b> Optimize project to what the project team can accomplish and still maintain the quality and scope. 
-	</li>
-	<li>
-		<b>Time-bound:</b> Foster innovation by implementing a new idea management system and receiving at least new ideas from team members within the first term period/months.
+      Develop a single collaborative platform for accessing all the information for project development, to reduce the use of multiple platforms.
 	</li>
 </ul>
 <p><b>Project Performance</b></p>
@@ -284,42 +201,505 @@ In addition, the project aims to improve the current process by introducing agil
 <p><b>Project Assumptions</b></p>
 <p>Here are the preliminary assumptions to the proposed system:</p>
 <ol type="a">
-  <li><b>User Adoption:</b> It is assumed that the users within the Project Development Office will actively adopt and utilize the integrated platform for tracking project activities.</li>
-  <li><b>User Satisfaction:</b> It is assumed that the newly developed platform will meet the needs and expectations of the users, resulting in a prominent level of user satisfaction. The assumption is based on user feedback mechanisms such as surveys and recommendations.</li>
-  <li><b>Time Saved:</b> It is assumed that the integrated platform will significantly reduce the time required to complete tasks compared to using individual tools separately. This assumption assumes that the platform will streamline processes and provide efficient project management capabilities.</li>
-  <li><b>Data Accuracy:</b> It is assumed that the developed system will enhance the accuracy of project data entered the platform compared to the accuracy achieved using individual tools. This assumption assumes that the integrated platform will provide standardized data entry mechanisms and minimize errors.</li>
-  <li><b>Cost Savings:</b> It is assumed that the implementation and maintenance of the integrated platform will result in cost savings compared to maintaining the individual tools separately. This assumption assumes that consolidating the tools into a single platform will reduce licensing, training, and maintenance costs.</li>
-  <li><b>Process Improvement:</b> It is assumed that using the integrated platform will lead to improved efficiency and effectiveness in project-related processes compared to using the individual tools separately. This assumption assumes that the platform will provide streamlined workflows, enhanced collaboration, and centralized project tracking capabilities.</li>
+  <li>The system that will be built will only be accessible within the APC network.</li>
+  <li>APC has the environment to support the project development, implementation, and maintenance of the system.</li>
+  <li>Indirect costs such as utilities (e.g., electricity, internet, office space) are already covered by APC and the client and will not be taken out of the project budget.</li>
+  <li>All artifact data can be extracted from the old tools and transitioned to the proposed project.</li>
+  <li>This project has the full support of the project sponsor, stakeholders, and all departments. Which means, any necessary approvals or permissions for the project will be obtained in a timely manner.</li>
+  <li>The project timeline and budget will remain unchanged throughout the duration of the project.</li>
+  <li>The Project Development Office will have the necessary skills and knowledge to adapt to the new system effectively as the Developers will only provide job-aides and documentation to the account’s SME during the transition/training phase.</li>
 </ol>
-<p>It is important to note that these assumptions should be validated and monitored throughout the project to ensure their accuracy and adjust the project approach if necessary.</p>
 
 <p><b>Project Constraints</b></p>
-<p>The following constraints must be considered to ensure the project is completed successfully and meets the PDO's requirements and expectations.</p>
+<p>Below are the preliminary constraints for the proposed project:</p>
 <ul>
-	<li><b>Time:</b> The project must be completed within the given timeline, as specified in the project plan. Any delays in the project timeline may affect the project's objectives and deliverables.</li>
-	<li><b>Budget:</b> The project must be completed within the allocated budget, as specified in the project plan. Any overspending may affect the project's financial viability and sustainability.</li>
-	<li><b>Resources:</b> The project team must work with the resources available, such as personnel, equipment, and software, to complete the project. The availability of resources may affect the project's scope and quality.</li>
-	<li><b>Technology:</b> The project must be developed using technology that is compatible with the PDO's existing technology infrastructure. Any compatibility issues may affect the system's performance and reliability. </li>
-	<li><b>User Acceptance:</b> The system must be designed and developed in collaboration with the PDO, ensuring that the system's features and functionalities meet the PDO's requirements and expectations. </li>
-	<li><b>Security:</b> The system must have a robust security mechanism to ensure the confidentiality of project information. Any security breaches may affect the system's credibility and trustworthiness.</li>
-	<li><b>Testing and Quality Assurance:</b> The system must be assessed and undergoes quality assurance to ensure that it is free from defects and errors. Any defects or errors in the system may affect the system's performance and reliability.</li>
-	<li><b>Legal and Regulatory Compliance:</b> The system must comply with legal and regulatory requirements, such as data protection and privacy laws. Any noncompliance may affect the system's credibility and trustworthiness.</li>
+	<li>Manpower constraints, such as developers, that has the sufficient knowledge in development to complete the project</li>
+	<li>Monetary constraints that the team can use to start the project development.</li>
+	<li>Stakeholder constraints, such as clients, must be considered to deliver the expected or desired outcome and address their needs.</li>
 </ul>
 
 <p><b>Major Project Milestones</b></p>
-<p>The specific timeline and milestones for each phase of the project will depend on the project scope, complexity, and resource availability. By breaking down the project into these major milestones, you can track progress and ensure that the project stays on schedule and within budget.</p>
-<p>Here are some possible major project milestones for the development and deployment of the tracking activity project management: </p>
-<ul>
-	<li><b>Project Planning:</b> This involves defining the project scope, objectives, requirements, and constraints, and creating a project plan outlining the project timeline, budget, and resource allocation. </li>
-	<li><b>System Design:</b> This involves designing the system architecture, interface, functionality, and security mechanisms, and creating detailed system specifications and wireframes. </li>
-	<li><b>System Development:</b> This involves coding, testing, and debugging the system's front-end and back-end components, as well as integrating the system with the PDO's existing technology infrastructure. </li>
-	<li><b>System Testing:</b> This involves assessing the system's functionality, performance, usability, and security, as well as conducting user acceptance testing with the PDO and other stakeholders. </li>
-	<li><b>System Deployment:</b> This involves deploying the system on the PDO's servers or on a cloud-based platform, as well as configuring the system's settings, access permissions, and security protocols. </li>
-	<li><b>User Training:</b> This involves providing user training and documentation to the PDO's staff, faculty, and students, as well as conducting system demonstrations and providing ongoing technical support. </li>
-	<li><b>System Maintenance:</b> This involves monitoring the system's performance, troubleshooting issues, applying software updates and security patches, and ensuring the system's ongoing reliability and security.</li>
-</ul>
+<p>The project has identified the following milestones and deliverables to guide the team's progress:</p>
+<ol>
+	<li>Schedule an initial meeting with Mr. Jayvee Cabardo, Director of Project Development in APC to discuss the initial system requirements and assess the status of existing technologies by April 26, 2022.</li>
+	<li>Conduct the analysis phase and present the findings to the primary stakeholder no later than December 05, 2022.</li>
+	<li>Complete the design phase and present the mockup design to the primary stakeholder by January 12, 2023.</li>
+	<li>Test the system with relevant stakeholders who will regularly use the application, ensuring that all requirements are met, and functionality is working as intended. This may involve user acceptance testing and functional testing and should be completed by March 15, 2023.</li>
+	<li>Implement the Tracking Activity Project Management system and provide user training to the Project Development Office and other relevant stakeholders by May 1, 2023.</li>
+	<li>Conduct a close out meeting and deliver hand-off documents to key stakeholders by June 26, 2023.</li>
+</ol>
 	 
-==Strategic Alignment==
-<p>The project aligns with the goals and vision of the faculty, teachers and PDO which includes the needs to provide efficiency, enhancement of academic performance and simple to use application for tracking progress, task completion, display project information and monitoring projects being managed. Also, this project will be useful in taking on projects like PBL2, which many projects are based on. <br>
-The range of this project will mostly impact the Faculty, PDO, teachers, and students. The project team will conduct a stakeholder analysis to understand and meet the needs and expectations of the users who will be involved in the project, which will be included in the project plan. The team will also conduct a risk analysis to detect the potential problems that may hinder the project progress. <br>
-The project will be conducted with the guidance of the advisors, teachers, client, and the students assigned will work on the project with intensive research, documentation, and enough programming skills to ensure the project meet the requirements of the stakeholders. Lastly, to measure the project's success is if it has reached the approval of the panelist, also, the project team will analyze the efficiency and impact the project has on the participants or users.</p>
+<p><b>Strategic Alignment</b></p>
+<p>By aligning the Tracking Activity Project Management system with the overall goals and objectives of Asia Pacific College’s Project Development Office, the organization will be able to maximize the value of the project and ensure that it is contributing to the success of the Project Development's Project-Based Learning. </p>
+<br><br>
+<p><b>Project Development Office aims to improve the monitoring process of the existing projects. </b></p>
+<br>
+<p>The system project aligns with this goal by improving the efficiency and effectiveness of the project monitoring and helping enhance the project tracking progress, task completion, and displaying project information. This will enhance the user experience for the faculty, PDO, teachers, and students involved in the projects. By aligning the Tracking Activity Project Management system, the organization will achieve greater efficiency, enhance academic performance, and improve the overall project monitoring and management process. This strategic alignment will lead to successful project outcomes. </p>
+<br>
+<p><b>Project Development Office aims to enhance the user experience for the target users.</b></p>
+<br>
+<p>The system project aligns with this goal by facilitating the management and monitoring of PBL projects. It will provide a useful tool for taking on projects like PBL2, which are based on the principles of project-based learning. This alignment will contribute to the overall success of the Project Development's Project-Based Learning approach at Asia Pacific College. It supports the organization's objectives by providing a framework for effective project monitoring, facilitating better collaboration among stakeholders, and ensuring that projects are in line with the institution's vision and goals.</p>
+
+<p><b>Cost and Benefit Analysis</b></p>>
+<p>The project will mostly include the cost of developing the software, training, maintenance, contingency and the server that will be used. The benefit side of this project, upon forming the analysis it can improve the delivery of the project, increasing the satisfaction of the client, increasing efficiency, and saving the time on project tracking and reporting. Other benefits include better collaboration and communication with student groups and faculty/teachers, and security and privacy of project information.</p>
+
+<p><b>Costs:</b></p>
+<ul>
+  <li>In Developing the server total project cost amounts to PHP 62,500 including the cost of manpower, application, and equipment.</li> 
+  <li>The maintenance cost of the system would amount to PHP 15,000 per project phase.</li>
+  <li>Training cost would amount to PHP 34,560 based on the hourly rate of a team leader, (operations specialist) in the duration of one month to get used to the new role, position, team, manager, business process and company culture.</li>
+  <li>The cost for the Server and 12500 for both the Domain name and the Website Hosting annually.</li>
+</ul>
+<p><b>Benefits:</b></p>
+<ul>
+  <li>The cost for the Server and 12500 for both the Domain name and the Website Hosting annually.</li>
+  <li>Enhanced efficiency which can handle various project, tracking and reporting tasks, reducing the need for manual effort, and minimizing errors allowing the project team to allocate their time and resources more effectively.</li>
+  <li>Better collaboration and communication among student groups, faculty/teachers, and other project stakeholders. It will provide a centralized platform for sharing information, exchanging ideas, and coordinating tasks.</li>
+  <li>Improved, security privacy and confidentiality which incorporates security measures to protect project information. This will safeguard sensitive data, ensuring confidentiality and privacy.</li>
+</ul>
+
+=Project Charter Plan=
+==Project Purpose Justification==
+<p><b>Business Need/case</b></p>
+<p>In today's fast-paced business environment, there is a growing demand for efficient and effective project management. The PDO needed to be able to deliver projects on time and within the period to remain concise. Tracking Activity Project Management System can help organizations meet this demand by improving project visibility, communication, and efficiency. <br>
+PDO and Faculty struggle with project management, often due to the number of projects to be handled or seeing a project progress and updates. By implementing Tracking Activity Project Management System, organizations can establish best practices for project management and improve their overall efficiency and productivity. <br>
+Advances in technology have made Tracking Activity Project Management System more accessible and affordable than ever before. Cloud-based project management tools, for example, can be accessed from anywhere with an internet connection and provide real-time project status updates, making it easier for teams to collaborate and communicate effectively. <br>
+In summary, the Business Need for Tracking Activity Project Management System is driven by a combination of market demand, organizational need, customer request, and technological advance. By implementing these tools, organizations can improve their project management capabilities, meet customer demands, and stay competitive in the marketplace.</p>
+
+<p><b>Business Objectives</b></p>
+<p>The project's business goals directly contribute to the strategic plan of the Project Development Office to improve its capability of tracking internal and external projects and generate reports on time. </p>
+<ul>
+	<li>Design a project management system for student groups and faculty members that can also help the PDO to keep track of the projects.</li> 
+	<li>Implement a collaboration space that can help student groups and faculty members to disseminate files, documents, and ideas</li>
+</ul>
+<br>
+<p><b>Project Description</b></p>
+<p>The Asia Pacific College's Project Development Office is facing difficulties in monitoring the status of their internal and external projects efficiently. The lack of a reliable system to track project progress and generate reports promptly has caused delays in project delivery and unmet expectations for industry partners. To address these issues, the project group will develop a website/system that can assist the PDO in monitoring the progress of their projects. The system will have the capacity to provide real-time updates on the status of projects under PBL2 and allow the PDO to manage project expectations efficiently.</p>
+<p><b>Project Objectives</b></p>
+<p>The project’s main objective is to develop a website/system that will keep the PDO up to date on the status of projects under the Asia Pacific College's Project Based Learning (PBL2). 
+   <br>To achieve this, the group will develop the system with the following intentions: </p>
+<ul>
+   <li>Escalate the PDO's capacity to track projects and generate reports in a timely manner; this needs the design and deployment of software which is planned to complete during PBL1. </li>
+   <li>Provide a well-suited collaboration space so that student groups and faculty can disseminate files, ideas, and information between PBL1 and PBL2, assisting in the timely completion of the project.</li>
+</ul>
+<br>
+<p><b>Success Criteria</b></p>
+<p>To ensure the success of the project, the following objectives must be achieved within the designated time and budget allocations: </p>
+<ul>
+   <li><b>Adoption and Satisfaction:</b> The Project Development Office (PDO) should successfully adopt the new system, and at least 90% satisfaction rate among the PDO members should be attained.</li>
+   <li><b>Reduction of Incorrect Dispatch Procedures:</b> The implementation of the new system should lead to a minimum 50% reduction in incorrect dispatch procedures within the first year. </li>
+   <li><b>Improved Outage Restoration:</b> The new system should contribute to at least a 20% improvement in outage restoration efforts within the first year. </li>
+   <li><b>Cost Savings:</b> The implementation of the new system should result in cost savings exceeding one million pesos in the first year. </li>
+   <li><b>Timely and Within Budget Implementation: </b> The new system should be completed and implemented as per the established timeline and budget specified in the project plan.</li>
+</ul>
+<br>
+<p><b>Requirements</b></p>
+<p>This project must meet the following list of requirements to achieve success. </p>
+<ul>
+   <li>The project management system should be user-friendly and intuitive, with a simple and easy-to-use interface. </li>
+   <li>The system should allow for easy collaboration and communication among team members, faculty, or teachers, and PDO. </li>
+   <li>The system should provide real-time data on project progress, projects managed, project details and members. </li>
+   <li>The system should be secure and provide role-based access to data, ensuring that only authorized individuals can access sensitive project information. </li>
+   <li>The system should integrate with existing software and tools, including calendar, and document management systems. </li>
+   <li>The system should allow for customization to meet the PDO’s/faculty specific needs and workflows.</li>
+</ul>
+<br>
+<p><b>Constraints</b></p>
+<p>There are several constraints that the project manager must consider for this project: </p>
+<ul>
+   <li>People – The project team must be trained and ready for the development of the system, to complete the project on time. </li>
+   <li>Budget - The project must be completed within a predefined budget. The project manager must ensure to manage resources effectively and does not exceed the allocated funds. </li>
+   <li>Stakeholders - The project manager must consider the expectations and requirements of various stakeholders, such as clients, customers, or regulatory bodies. To ensure that the project delivers the desired outcomes and addresses stakeholder needs.</li>
+</ul>
+<p><b>Assumptions</b></p>
+<p>The following is a list of assumptions. Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:</p>
+<ul>
+   <li>This project has the full support of the PDO, faculty, and teachers. </li>
+   <li>All legacy data can be extracted from the old tools and transitioned to the proposed project. </li>
+   <li>The project team assumes that the project requirements are clear and well-defined, and that any changes to the requirements will be communicated promptly. </li>
+   <li>The project development, system setup, and maintenance are all supported at Asia Pacific College. </li>
+   <li>Security and privacy of project data will be prioritized. It will comply with relevant data protection regulations to ensure the confidentiality and integrity of information.</li>
+</ul>
+<p><b>Preliminary Scope Statement</b></p>
+<p>The scope of this project is to develop and implement a Tracking Activity Project Management system for PDO, or faculty/teachers. This will involve identifying necessary metrics and tools, developing a project management plan, and implementing the tracking system. The project will require an advisor and team with expertise in project management and software development, as well as access to necessary software tools. The project will be considered complete when the tracking system is successfully implemented, users are able to use and accept the system, and improved project management processes and outcomes are demonstrated. This preliminary scope statement is subject to change as the project undergoes progressive elaboration and additional details are identified.</p>
+<br>
+==Risks==
+<p>The project team has identified several high-level risks as being relevant to this project. The project manager will determine and implement the proper risk reduction and avoidance measures, to reduce the likelihood of these hazards: </p>
+<ul>
+   <li><b>Security Risks: </b>Unauthorized access to critical project data runs the risk of causing data breaches or leaks. </li>
+   <li><b>User Adoption and Training:</b>Users, especially team members and project managers, run the risk of having trouble adjusting to and accepting the new system. Inadequate training or resistance to change could lead to lower user acceptance and reduced efficiency. </li>
+   <li><b>Human Error: </b>There is a chance that mistakes will be made by the project team. that might affect the project. </li>
+   <li><b>Integration Challenges:</b>Integrating the new system with the current tools and systems may pose challenges such as compatibility issues, data migration issues, or trouble creating a seamless data flow across different platforms.</li>
+</ul>
+<br>
+==Project Key Deliverables==
+<p>Upon successful completion of the project, the following deliverables must be made. The project sponsor's approval is required for any changes to these deliverables: </p>
+<ul>
+   <li>Design and implement a collaboration space within the system, enabling student groups and faculty members to seamlessly share files, ideas, and information. </li>
+   <li>Implement a functional system with project tracking, collaboration, and reporting features that fulfill the PDO's needs for monitoring internal and external projects. </li>
+   <li>A system that allows real-time tracking of project progress, milestones, tasks, and deadlines, providing the PDO with up-to-date project status information. </li>
+   <li>Successfully integrate the system with Asia Pacific College's existing systems and tools, facilitating seamless data exchange and minimizing duplication of effort. </li>
+   <li>Create comprehensive training materials, including user guides, documentation, and tutorials, to enable effective usage of the system by the PDO, student groups, and faculty members.</li>
+   <li>Conduct thorough testing and quality assurance procedures to identify and rectify any issues, ensuring the system is free of bugs or errors and provides reliable user experience. </li>
+   <li>Deploy the system to a production environment and provide ongoing technical support and maintenance to address any issues, bug fixes, and updates for the smooth operation of the system.</li>
+</ul>
+<br>
+==Summary Milestone Schedule==
+<p>Presented below is the project Summary Milestone Schedule. This schedule is subject to modification as the requirements become more clearly defined. Any changes will be communicated through project status meetings, led by the project manager.</p>
+<table border="1" width="70%" align="center">
+   <tr>
+      <th>Project Milestone</th>
+      <th>Target Completion Date</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>Project Initiation </td>
+      <td>March 30, 2022</td>
+      </tr>
+      <tr>
+      <td>Analysis Phase  </td>
+      <td>December 05, 2022 </td>
+      </tr>
+      <tr>
+      <td>Design Phase  </td>
+      <td>December 12, 2022 </td>
+      </tr>
+      <tr>
+      <td>Development Phase </td>
+      <td>January 12, 2023 </td>
+      </tr>
+      <tr>
+      <td>Testing and Implementation Phase </td>
+      <td>March 15, 2023</td>
+      </tr>
+      <tr>
+      <td>Monitoring and Control</td>
+      <td>June 26, 2023</td>
+      </tr>
+      <tr>
+      <td>Project close-out</td>
+      <td>June 26, 2023</td>
+      </tr>
+      </tbody>
+</table>
+<br>
+==Summary Budget==
+<table style="width:450.8pt;margin-left:30.35pt;border-collapse:collapse;border:none;">
+   <tbody>
+      <tr>
+            <td colspan="5" style="width: 450.8pt;border: 1pt solid black;background: rgb(68, 114, 196);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>INITIATION</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Role</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Salary * No. of Days&nbsp;</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>COST</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 54,720</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Business Analyst</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>207</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1656*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 49,680</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td colspan="5" style="width: 450.8pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(68, 114, 196);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>PLANNING</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(217, 226, 243);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Role</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(217, 226, 243);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(217, 226, 243);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Salary * No. of Days&nbsp;</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(217, 226, 243);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(217, 226, 243);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>COST</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 54,720</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Business Analyst</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>207</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1656*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 49,680</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td colspan="5" style="width: 450.8pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(68, 114, 196);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>EXECUTION</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Role</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Salary * No. of Days&nbsp;</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>COST</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 54,720</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Operation Analyst</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>144</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1152*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 34,560</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>System Developer</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>214</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1712*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 51,360</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td colspan="5" style="width: 450.8pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(68, 114, 196);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>CONTROL</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Role</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Salary * No. of Days&nbsp;</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>COST</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 54,720</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Operation Analyst</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>144</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1152*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 34,560</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>System Developer</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>214</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1712*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 51,360</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td colspan="5" style="width: 450.8pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(68, 114, 196);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>CLOSEOUT</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Role</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Hourly rate</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>Salary * No. of Days</span></strong></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>No. of People</span></strong></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;background: rgb(180, 198, 231);padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:16px;line-height:  150%;font-family:"Arial",sans-serif;color:black;'>COST</span></strong></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Project Manager</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>228</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1824*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 54,720</span></p>
+            </td>
+      </tr>
+      <tr>
+            <td style="width: 90.15pt;border-right: 1pt solid black;border-bottom: 1pt solid black;border-left: 1pt solid black;border-image: initial;border-top: none;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>Operation Analyst</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>144</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1152*30</span></p>
+            </td>
+            <td style="width: 90.15pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>1</span></p>
+            </td>
+            <td style="width: 90.2pt;border-top: none;border-left: none;border-bottom: 1pt solid black;border-right: 1pt solid black;padding: 0cm 5.4pt;vertical-align: top;">
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;line-height:150%;font-size:15px;font-family:"Calibri",sans-serif;'><span style='font-size:16px;line-height:150%;font-family:"Arial",sans-serif;'>PHP 34,560</span></p>
+            </td>
+      </tr>
+   </tbody>
+</table>
