@@ -138,19 +138,19 @@ The proposed project will address these issues by providing faster and more effi
 		<td bgcolor="lightblue"><p style="text-align:center;">NAME</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Team Leader</p></td>
-<td><p style="text-align:center;">Assist in monitoring and guiding the project toward successful completion.</p></td>
-		<td><p style="text-align:center;">Jan Patrick M. Navarrete</p></td>
-	</tr>
-        <tr>
 		<td><p style="text-align:center;">Project Manager</p></td>
 <td><p style="text-align:center;">Oversee the business case and be responsible for executing the project.</p></td>
 		<td><p style="text-align:center;">John Angel Manahan</p></td>
 	</tr>
+        <tr>
+		<td><p style="text-align:center;">Quality Assurance Analyst</p></td>
+<td><p style="text-align:center;">Assigned for quality assurance. Assist in monitoring and guiding the project toward successful completion.</p></td>
+		<td><p style="text-align:center;">Kurt Jordan Cadenas</p></td>
+	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
-<td><p style="text-align:center;">Oversee the project`s process improvement.</p></td>
-		<td><p style="text-align:center;">Kurt Jordan Cadenas</p></td>
+<td><p style="text-align:center;">Provide technical support for the project.</p></td>
+		<td><p style="text-align:center;">Jan Patrick Navarrete</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
@@ -159,7 +159,7 @@ The proposed project will address these issues by providing faster and more effi
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Team Member</p></td>
-<td><p style="text-align:center;">Oversee the project`s process improvement. /p></td>
+<td><p style="text-align:center;">Provide technical support for the project./p></td>
 		<td><p style="text-align:center;">Darcy Kaizer Medina</p></td>
 	</tr>
 <tr>
@@ -289,10 +289,9 @@ The project aligns with this goal by improving the experience of patients in ter
 <br><br>
 <b>Cons:</b> Potential for ongoing challenges related to the current manual process, including difficulties, and long searching times for specific health records, long queues in the clinic and long times in processing the inventory of the clinic which causes delays and inaccuracy. These issues could result in inefficiency.
 </p>
-==Approvals==
-<p>The project approval should come from the project sponsor and key stakeholder – Mr. Jojo F. Castillo, the Clinic head of Asia Pacific College.</p>
 
-=Project Charter Plan=
+
+=Project Charter=
 ==Executive Summary==
 <p>Asia Pacific College's clinic is seeking to upgrade its current Health Record System (HRS) by digitizing the system and integrating a better scheduling system. The current system involves physical records stored in filing cabinets, a physical logbook for appointments, and no system for scheduling. The project aims to provide faster management of health records and appointment schedules and include features such as clinic staff login for security solutions, CRUD operations, and a table and calendar view of the appointment schedules. The project also seeks to reduce paper usage by 40-60%, track inventory properly, and generate reports quickly. The project's significance is to address the concerns over the current system and provide better customer service for the nurse, clinic administrators, students, and employees. The proposed system's features include virtual consultation forms, an SMS notification feature, direct scheduling and rescheduling functions, and a generated summary report of clinic services. The project's scope is to provide a digitized solution for the current HRS and scheduling system, and the system will have limitations regarding data input and privacy concerns for medical staff outside the school.</p>
 
@@ -315,9 +314,6 @@ Overall, the business case for the upgrade to the health record system is strong
 </ul>
 
 ==Project Description==
-<p>The E-CLINIQ is a web application that will enhance APC Clinic's health record management, appointment scheduling, and inventory management processes. The system's scheduling feature will enable easy appointment scheduling, monitoring, and notification of changes, improving customer experience. The system will also provide secure login access, CRUD operations on health records, summary report generation, and appointment schedule management, reducing the time spent on administrative tasks. Additionally, the inventory management module will track medicine and medical supplies for restocking and generate real-time analytics for clinic administrators. Overall, the upgraded system will help the clinic provide better customer service and experience to their students and employees.</p>
-
-
 <p><b>Project Objectives and Success Criteria</b></p>
 <ul>
    <li>To optimize appointment scheduling by implementing an algorithm that evenly distributes patients based on their medical needs, time availability, 
@@ -364,13 +360,11 @@ Overall, the business case for the upgrade to the health record system is strong
         
 </ul>
 
-==Project Deliverables==
+==Project Key Deliverables==
 <p>The following deliverables are as follows:</p>
 <ul>
-	<li>A fully functional scheduling system which can accommodate the number of patients mentioned in the project objectives. </li>
-	<li>Electronically accessible health records that can be retrieved by authorized staff. </li>
-	<li>Report generation based on the criteria requested based on appointments and inventory.</li>
-        <li>Complete documentation created during the process.</li>
+	<li>A clinic management system which includes patient record management, appointment management, inventory management, and report generation.</li>
+	<li>Complete documentation created during the process.</li>
 </ul>
 
 ==Summary Milestone Schedule==
@@ -471,12 +465,39 @@ Overall, the business case for the upgrade to the health record system is strong
 </ul>
 
 ==Project Manager==
-<p>Our Project Manager is Kurt Jordan Cadenas who oversees the administrative functions of the group. </p>
+<p>The project manager for the E-Cliniq project is Mr. John Angel Manahan. His team that he manages is called Project V which is made up of his classmates from the same course. As the Project Manager, he is responsible for overseeing the planning, execution, and evaluation of the project, as well as managing the budget, timeline, and resources. He also coordinates with the stakeholders, partners, and beneficiaries of the project, ensuring that their needs and expectations are met.</p>
+
+=Project Management Approach=
+<p>The Project Sponsor has the authority to green light the execution of plans and any necessary changes. Meanwhile, the Project Manager oversees project management and carries out the project according to the Project Plan. The project team will be made up of CS students. </p>
+<br><br>
+<p>The Project Manager will collaborate with all resources to plan the project. The Project Sponsor will review and approve all project and budget management plans and make all funding decisions. Any approval authority delegated to the Project Manager must be in writing and signed by both the Project Sponsor and Project Manager.</p>
+
+=Project Technical Approach=
+==Product Development Methodology==
+<p>Our method of product management is a fusion of agile and conventional project management frameworks. To enable quick iterations and ongoing stakeholder feedback, we'll use agile methodologies like Scrum. To guarantee that the project is delivered on time and within budget, we will also use conventional project management techniques like Waterfall.</p>
+
+<p>The steps in the methodology are as follows:</p>
+<ul>
+    <li>Initiation</li>
+    <li>Planning</li>
+    <li>Execution</li>
+    <li>Monitoring and Controlling</li>
+    <li>Closure</li>
+</ul>
+<p>We will maintain constant contact with the client throughout the whole product development life cycle to make sure the project is on track and satisfies their needs. To make the product simple to use and intuitive, we will also give user experience and design top priority.</p>
+
+=Technical Architecture=
+<p>The technology architecture that will be used to build E-Cliniq is contemporary, cloud-based, and optimized for performance, security, and scalability. To enable modular and flexible development, our team will use microservices architecture. The system will be housed on a trustworthy and safe cloud platform, making it accessible from any location in the world. To secure the system from online dangers and unauthorized access, we will also employ best-in-class security measures.</p>
+
+<p>The system will be housed on an exceptionally reliable and safe cloud platform (AWS), making it available from any location in the world. The developers will also employ top-notch security measures to guard the system against online dangers and unwanted access.
+The E-Cliniq project's technical architecture is built to guarantee the application's effectiveness, dependability, and security. The architecture is client-server based.Using an application server as the server and a web browser as the client.</p>
+
+<p>The system shall be developed using PHP and MySQL server with Laravel for its framework. The user interface of the E-Cliniq system is designed with PHP. The developers studied the Laravel framework to design the system.</p>
 
 
-=Stakeholder Management Strategy=
-
-==Introduction==
+=Project Management Plans=
+==Stakeholders Strategy Management Plan==
+<p><b>Introduction</b></p>
 <p>This Stakeholder Management Plan aims to provide a comprehensive and practical framework for effectively managing the E-Cliniq project's stakeholders. The implementation of E-Cliniq is dependent on the cooperation and support of all stakeholders involved. Stakeholder management is an integral part of the project management process, and identifying, analyzing, and prioritizing stakeholders is essential for project success.</p>
 
 <p>The objective of the E-Cliniq Stakeholder Management Plan is to ensure that all stakeholders are identified, engaged, and effectively managed throughout the project lifecycle. These are the objectives of this plan:</p>
@@ -490,7 +511,7 @@ Overall, the business case for the upgrade to the health record system is strong
 
 <p>Effective stakeholder management can yield numerous benefits for the E-Cliniq project, including improved project outcomes, decreased risks, increased stakeholder satisfaction, and an enhanced reputation.</p>
 
-==Identify Stakeholders==
+<p><b></b></p>
 <p>Identification of every stakeholder who will be reached by the project is essential. Stakeholder identification, according to the IEEE Standards Association (2019), is the process of identifying all people or organizations who will be impacted by the project or have the potential to influence its result. The ability to manage stakeholder expectations, reduce negative effects, and secure stakeholder buy-in is why effective stakeholder identification is essential to project success. To identify stakeholders, apply the technique below:</p>
 <ol>
 	<li>Stakeholder Mapping: This method entails identifying stakeholders, comprehending their requirements, interests, and concerns, and mapping them according to their level of involvement and impact with the project. You can carry out this process by:
@@ -622,117 +643,9 @@ Overall, the business case for the upgrade to the health record system is strong
 </tr>
 </tbody>
 </table>
-
-==Stakeholder Engagement==
-
-<table border="1" width="70%" align="center">
-		<tr>
-			<td width="188" bgcolor="lightblue">
-				<p><strong>Stakeholder</strong></p>
-			</td>
-			<td width="88" bgcolor="lightblue">
-				<p><strong>Unaware</strong></p>
-			</td>
-			<td width="94" bgcolor="lightblue">
-				<p><strong>Resistant</strong></p>
-			</td>
-			<td width="88" bgcolor="lightblue">
-				<p><strong>Neutral</strong></p>
-			</td>
-			<td width="97" bgcolor="lightblue">
-				<p><strong>Supportive</strong></p>
-			</td>
-			<td width="85" bgcolor="lightblue">
-				<p><strong>Leading</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p>Marketing &amp; Sales</p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p>D</p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p>Accounting &amp; Finance</p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p>C</p>
-			</td>
-			<td width="97">
-				<p> </p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p>Inventory &amp; Logistics</p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p>D</p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-		<tr>
-			<td width="188">
-				<p>Distributors</p>
-			</td>
-			<td width="88">
-				<p>C</p>
-			</td>
-			<td width="94">
-				<p> </p>
-			</td>
-			<td width="88">
-				<p> </p>
-			</td>
-			<td width="97">
-				<p> </p>
-			</td>
-			<td width="85">
-				<p> </p>
-			</td>
-		</tr>
-</table>
-<p><strong>Stakeholder Engagement Assessment Matrix.  </strong>List stakeholders and place a “C” for their current level of engagement and “D” in the column of their desired level of engagement.</p>
-
-
+image::https://asiapacificcollege.sharepoint.com/:i:/s/PROJMANT3SS201SF201/EcJvVSMkiuZIikma0qTfWmABkgMHlWO2bl7l1p7Y-QW8Qw?e=XAS31a[Stakeholders Power/Interest Chart]
 
 =Scope Management Plan=
-
 
 ==Introduction==
 <p>The Scope Management Plan for E-Cliniq is an essential component of the project that defines the project's objectives, deliverables, and constraints; it will be updated throughout the project to ensure clear communication and scope management. The project team will collaborate closely with project stakeholders to assure delivery success that is in line with the project's scope and limitations.</p>
@@ -819,6 +732,7 @@ The system will also include an improved record management process to enhance th
 </ol>
 
 ==Work Breakdown Structure==
+image::https://asiapacificcollege.sharepoint.com/:i:/s/PROJMANT3SS201SF201/ERKdYUOK0k1NiVTe4aaSgW8BHq7Hq6TnswMjoWSRQ6UYig?e=AfCOB1[7.2.6. Work Breakdown Structure]
 <p>The Work Breakdown Structure presented here represents all the work required to complete this project.</p>
 
 <ul><b>Asia Pacific College Clinic System</b>
@@ -1119,7 +1033,7 @@ Therefore, the Cost Performance Index (CPI) is 0.9216. This means that for every
 In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.<br>
 </li>
 </ol>
-</p>
+
 ==Reporting Format==
 <p>
 The ideal reporting format for the cost management plan of the Dispatch Directory system project would likely be a detailed spreadsheet or table. This format should include all relevant cost information such as project budget, actual costs incurred, projected costs, and any variances or discrepancies.<br><br>
@@ -1246,10 +1160,10 @@ Labor and Maintenance
       <p>120</p>
     </td>
     <td style="height: 37px;" width="108">
-      <p>1</p>
+      <p>PHP 1,000.00</p>
     </td>
     <td style="height: 37px;" width="162">
-      <p>PHP 1,000.00</p>
+      <p>PHP 120,000.00</p>
     </td>
 </tr>
 		<tr style="height: 37px;">
@@ -1361,7 +1275,7 @@ Labor and Maintenance
 				<p>2</p>
 			</td>
 			<td style="height: 37px;" width="198">
-				<p>9</p>
+				<p></p>
 			</td>
 			<td style="height: 37px;" width="108">
 				<p>PHP 30,000.00</p>
@@ -1386,7 +1300,7 @@ Indirect Costs:<br>
 2.	Administrative Roles
 </p>
 
-=Schedule Management Plan=
+=7.4.5. Scope Change=
 
 ==Introduction==
 <p>The schedule management plan is made to ensure that all project activities are completed on time, within budget, and to the satisfaction of stakeholders. An effective implementation of this schedule management plan is essential for this project's success, as it allows teams to prioritize tasks, allocate resources, and track progress towards project goals.
@@ -1542,7 +1456,271 @@ In the following sections, we will provide more detailed information on each of 
 </ul>
 
 ==Scope Change==
-<p>If a problem arises that requires a substantial change in the project scope, it is best to propose a scope change. Note that the project manager and team must assess the status of the project schedule and determine how the scope change will impact the schedule and its resources moving forward. Any project team member or project client may ask to change the project's scope. All change requests must be submitted in a project change request document to the project advisor. Following that, the project manager will go over the requested change to the project's scope. After deep consideration of the project team and it is important to advise with the project adviser that will either reject the request for change if it does not fit in with the project's goals or schedule a meeting with the project client and project team to discuss further.Following initial approval from the project client and project adviser, the project manager will communicate the scope change to the project sponsor and all relevant stakeholders before any implementation occurs.</p>
+<p>If a problem arises that requires a substantial change in the project scope, it is best to propose a scope change. Note that the project manager and team must assess the status of the project schedule and determine how the scope change will impact the schedule and its resources moving forward. Any project team member or project client may ask to change the project's scope. All change requests must be submitted in a project change request document to the project advisor. Following that, the project manager will go over the requested change to the project's scope. After deep consideration of the project team and it is important to advise with the project adviser that will either reject the request for change if it does not fit in with the project's goals or schedule a meeting with the project client and project team to discuss further. Following initial approval from the project client and project adviser, the project manager will communicate the scope change to the project sponsor and all relevant stakeholders before any implementation occurs.</p>
+
+=Staffing Management Plan=
+==Introduction==
+<p>A key factor in E-Cliniq's success is the human resource plan. The project calls for a well-organized and qualified team to complete it because it is a full clinic management system designed to efficiently manage patient data, appointments, and inventory. The Human Resource Plan's goal is to describe the approaches and steps required to recruit and oversee the project team members throughout the project lifecycle.</p>
+
+<p>To guarantee that the correct people with the relevant experience and abilities are assigned to the right responsibilities within the project, effective human resource management is essential. The Human Resource Plan aims to increase productivity, improve collaboration, and reduce the risks related to understaffing or skill gaps by carefully identifying and assigning resources.</p>
+
+==Roles and Responsibilities==
+<p>E-Cliniq's project organizational chart gives a visual depiction of the project team and the connections among the important stakeholders. The project manager, who oversees overseeing the project's resources, scope, and schedule, is often listed above the project sponsor in the organizational chart. To contribute to the system's needs and take part in user testing, an internal user of the system, such as the APC Nurse, Doctor, and Dentist, are added. To get input on the system's usability and functionality, external users (APC Patients) may also be incorporated. Each stakeholder's roles and responsibilities are made clear by the organizational chart, ensuring that everyone is on the same page with the project's goals and objectives.</p>
+
+<table width="673" border="1" align="center">
+		<tr>
+			<td width="156" bgcolor="lightblue">
+				<p><strong>Role</strong></p>
+			</td>
+			<td width="517" bgcolor="lightblue">
+				<p><strong>Authority</strong></p>
+			</td>
+			<td width="517" bgcolor="lightblue">
+				<p><strong>Responsibility</strong></p>
+			</td>
+			<td width="517" bgcolor="lightblue">
+				<p><strong>Competency</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td width="156">
+				<p><em>Project Sponsor</em></p>
+			</td>
+			<td width="517">
+				<p>Approves the business plan and spending plan for the project. Provides resources and strategic direction.
+ Aids in securing stakeholder procurement. Key problems and conflicts are resolved by them. They can distribute project resources and give the go-ahead for high-impact adjustments to the project's scope, schedule, and budget.</p>
+			</td>
+			<td width="517">
+				<p>Ensures that the project provides the planned benefits and value and is in line with the organization's strategic goals and objectives. Oversee and advise the project manager at a high level. Obtain resources and backing from important stakeholders. Contribute by updating the company on the status and advantages of the project.</p>
+			</td>
+			<td width="517">
+				<p>Has the ability to effectively communicate with a variety of stakeholders. Strong leadership and strategic thinking skills. Has comprehensive knowledge of the organization's mission, objectives, and values. Can gather materials and support for the endeavor.</p>
+			</td>
+
+		</tr>
+		<tr>
+			<td width="156">
+				<p><em>Project Manager</em></p>
+			</td>
+			<td width="517">
+				<p>Full authority to make decisions on the project. Can distribute project resources and give the go-ahead for low-impact adjustments to the project's scope, timetable, and budget.</p>
+			</td>
+			<td width="517">
+				<p>Control and oversee all aspects of the project, including its planning, implementation, monitoring, and closeout. Make sure that the project's goals are attained on schedule, within budget, and with the required level of quality.</p>
+			</td>
+			<td width="517">
+				<p>Strong project management, communication, and leadership abilities. Experience with complicated project management.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="156">
+				<p><em>Quality Assurance Analyst</em></p>
+			</td>
+			<td width="517">
+				<p>Authorized to make and demand edits on both the document and program to ensure the quality of the system that the project manager will submit to the product owner is following the scope and limitations.</p>
+			</td>
+			<td width="517">
+				<p>Responsible for making sure that the product has zero errors and works as intended both in documentation and the actual program itself.</p>
+			</td>
+			<td width="517">
+				<p>Expected to have an eye for detail to ensure that the document and seamless, aligned with the program and has no problems.</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="156">
+				<p><em>Developer Team</em></p>
+			</td>
+			<td width="517">
+				<p>Authorized to make technical decisions and recommendations regarding software development and programming.
+Can access and utilize the necessary tools, software, and resources required for their development tasks.
+Collaborate with other teams or departments to gather requirements, clarify specifications, and resolve technical issues.
+</p>
+			</td>
+			<td width="517">
+				<p>They are responsible for delivering high-quality software solutions within the defined timelines and project objectives. They are accountable for ensuring that the developed software meets the functional and non-functional requirements as specified.
+They have the responsibility to adhere to coding standards, software development methodologies, and best practices.
+</p>
+			</td>
+			<td width="517">
+				<p>They are expected to possess strong programming skills and expertise in the relevant programming languages and technologies.
+They should have a solid understanding of software development principles, methodologies, and design patterns.
+They should be proficient in troubleshooting and debugging software issues and finding efficient solutions.
+</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="156">
+				<p>Internal User of the System (APC Nurse, Doctor, Dentist)</p>
+			</td>
+			<td width="517">
+				<p>Uses the system in the manner intended to achieve tasks. Feedback on the performance, functionality, and usefulness of the system.</p>
+			</td>
+			<td width="517">
+				<p>Complete tasks utilizing the system in the intended manner. Make sure the data is accurate and full. Inform the project team of any systemic flaws or challenges. Comment on the performance, functionality, and usefulness of the system.</p>
+			</td>
+			<td width="517">
+				<p>Knowledge of the activities and work processes for which the system is being used. Understanding the facts and data needed to finish the allocated work tasks. Competency in system utilization as well as fundamental computer abilities.</p>
+			</td>
+		</tr>
+                <tr>
+			<td width="156">
+				<p>External User of the System (APC Patients)</p>
+			</td>
+			<td width="517">
+				<p>Uses the system to access, receive, and deal with service requests. Updates the status of service requests. Shuts off finished service requests.</p>
+			</td>
+			<td width="517">
+				<p>In a timely manner, review and react to service inquiries. Keep service request status information current and correct. As necessary, communicate with internal stakeholders to finish service requests. Finish off any open service requests.</p>
+			</td>
+			<td width="517">
+				<p>Understanding of the processes, tools, and resources needed to finish service requests. The capacity to recognize and resolve technical problems. Understanding the significance of keeping the system's data accurate and up to date.</p>
+			</td>
+		</tr>
+</table>
+==Project Organizational Charts==
+image::https://asiapacificcollege.sharepoint.com/:i:/s/PROJMANT3SS201SF201/EWdaQXEIT41Cr-O4cZfap0UBD3W_aRo6oizY-dXUk8a9Xg?e=cs84as[Project Organizational Charts]
+
+==Staffing Management==
+<p>A crucial element in guaranteeing the project's effective execution is the staffing management plan for E-Cliniq. Throughout the project lifetime, it describes the tactics and procedures for recruiting, supervising, and releasing human resources.</p>
+<ul>
+       <li>Acquisition of human resources will be done in a timely manner to ensure that the necessary skills and expertise are in place when needed. This may include recruiting new hires, hiring contractors, or utilizing internal staff. The timeline for resource acquisition will be aligned with the project schedule to ensure that resources are available when needed.</li>
+       <li>Training for any resources with identified gaps in skills required will be provided to ensure that they have the necessary knowledge and capabilities to perform their roles effectively. This may include both on-the-job training and formal training programs.</li>
+       <li>Performance reviews will be conducted regularly to assess the performance of team members and identify areas for improvement. These reviews will also provide feedback on how well team members are meeting the project's expectations and objectives.</li>
+       <li>A rewards and recognition system will be implemented to acknowledge and motivate outstanding performance. This may include bonuses, promotions, and other incentives.</li>
+</ul>
+
+<p>It is significant to note that other factors, such as organizational health and safety, government and/or regulatory compliance, and others, may be included in staffing management depending on the project's scope. It relies on the industry's particular rules and regulations, as well as the setting where E-Cliniq is being used. If the project is bound by rules and regulations relating to data protection and security, government and regulatory compliance may be considered. If the project calls for the use of tools or technologies that could put team members at risk, organizational health and safety may also need to be considered.</p>
+<p>To keep it in line with the goals and needs of the project, the Staffing Management Plan will be periodically reviewed and revised as required. The project manager must carefully examine the rules and specifications that apply to the project in question to ascertain whether any other elements need to be included in the workforce management strategy.</p>
+
+<table width="673" border="1" align="center">
+        <tr>
+              <td width="156"><p><b>Role</b></p></td>
+              <td width="517"><p><b>Project Responsibility</b></p></td>
+              <td width="517"><p><b>Skills Required</b></p></td>
+              <td width="517"><p><b>Number of Staff</b></p></td>
+              <td width="517"><p><b>Performance Reviews</b></p></td>
+              <td width="517"><p><b>Recognition and Rewards</b></p></td>
+        </tr>
+        <tr>
+              <td width="156"><p>Project Manager</p></td>
+              <td width="517"><p>Plan, execute, and close projects effectively and efficiently. 
+
+Ensure the project meets the objectives and goals. 
+
+Manage project risks and issues. 
+
+Coordinate with stakeholders and team members.
+</p></td>
+              <td width="517"><p>Leadership 
+
+Communication 
+
+Problem-solving 
+
+Time management 
+
+Technical skills related to the project
+</p></td>
+              <td width="517"><p>Depends on the scope and complexity of the project.
+
+Determined in collaboration with other stakeholders
+</p></td>
+              <td width="517"><p>The project manager will conduct regular performance reviews with team members to assess their progress, provide feedback, and address any issues.</p></td>
+              <td width="517"><p>The project manager will implement a recognition and rewards system to motivate team members and encourage high performance.</p></td>
+        </tr>
+        <tr>
+              <td width="156"><p>Project Team Leader</p></td>
+              <td width="517"><p>Lead a project team and ensure the project is delivered on time, within budget, and to the required quality standards.
+
+Define project objectives and develop a detailed project plan. 
+
+Monitor and manage project risks, issues, and dependencies.
+
+Communicate project progress and status to stakeholders and senior management.
+
+Manage project scope, budget, and resources
+</p></td>
+              <td width="517"><p>Leadership
+
+Communication
+
+Planning and organizing
+
+Risk management
+
+Budget management
+
+Technical skills related to the project
+</p></td>
+              <td width="517"><p>Depends on the scope and complexity of the project. Determined in collaboration with other stakeholders.</p></td>
+              <td width="517"><p>The project leader will work with team members to set achievable performance goals and track their progress throughout the project.</p></td>
+              <td width="517"><p>The project leader will implement a recognition and rewards system to motivate team members and encourage high performance.</p></td>
+        </tr>
+        <tr>
+              <td width="156"><p>Project Team Member</p></td>
+              <td width="517"><p>Collaborate with other team members to achieve project goals. 
+
+
+Complete tasks assigned by the project leader or manager. 
+
+Report progress and status to the project leader or manager. 
+
+Participate in project meetings and contribute to discussions. 
+
+Manage their time and work effectively to ensure project tasks are completed on time and within budget.
+</p></td>
+              <td width="517"><p>Technical skills related to the project. 
+
+Communication 
+
+Collaboration and teamwork 
+
+Problem-solving 
+
+Time management
+</p></td>
+              <td width="517"><p>Depends on 
+the scope and 
+complexity of 
+the project. 
+Determined in 
+collaboration 
+with other 
+stakeholders
+</p></td>
+              <td width="517"><p>The frequency and format of performance reviews will be determined based on the project's needs and the company's policies.</p></td>
+              <td width="517"><p>The project leader or manager will implement a recognition and rewards system to motivate team members and encourage high performance.</p></td>
+        </tr>
+        <tr>
+              <td width="156"><p>Executive Sponsor</p></td>
+              <td width="517"><p>Provide strategic direction and leadership for the project. 
+
+Ensure the project is aligned with the organization's goals and vision. 
+
+Allocate resources and secure funding for the project. Act as the primary point of contact between the project team and senior management 
+
+Monitor project progress and provide guidance and support to the project team
+</p></td>
+              <td width="517"><p>Leadership 
+
+Strategic thinking 
+
+Communication 
+
+Decision-making 
+
+Risk management 
+
+Budget management
+</p></td>
+              <td width="517"><p>The executive sponsor is typically a high-level executive or member of the board of directors. May be supported by a project management office or other support staff.</p></td>
+              <td width="517">The executive sponsor may conduct performance reviews of the project leader or manager to ensure they are meeting the organization's standards and goals for the project. They may also receive updates and progress reports from the project leader or manager<p></p></td>
+              <td width="517"><p>The executive sponsor may recognize and reward the project team for their achievements and progress towards the project's goals. They may also provide opportunities for career growth and development for the project team members, as well as for the project leader or manager.</p></td>
+        </tr>
+
+
+          
+</table>
 
 =Change Management Plan=
 ==Introduction==
@@ -1627,8 +1805,8 @@ In the following sections, we will provide more detailed information on each of 
       </tr>
       <tr>
          <td>Kurt Jordan Cadenas</td>
-         <td>Project Team Member</td>
-         <td>Team Members bring valuable insights into the impact of proposed changes on project execution and delivery. They provide input on the feasibility and practicality of implementing changes within the project team's capabilities and resources. The Project Team Member actively participates in CCB meetings, contributes to discussions, and assists in evaluating the potential risks and benefits associated with change requests.</td>
+         <td>Quality Assurance Analyst</td>
+         <td>As the person assigned to ensure the quality of the product. The quality assurance analyst plays a crucial role in finalizing both the documentation and the product itself to make it aligned and consistent, and to make sure that the system itself adheres to the scope and limitations on the documentation end of the product.</td>
       </tr>
       <tr>
          <td>Churchill Capangan</td>
@@ -1686,6 +1864,28 @@ In the following sections, we will provide more detailed information on each of 
       </tr>
       </tbody>
       </table>
+=Communications Management Plan=
+==Introduction==
+<p>The Communications Management Plan is a critical component of the E-Cliniq project as it outlines the communication strategy and protocols for the project team and stakeholders. The plan defines the following:</p>
+<ul>
+    <li>The plan details the information to be communicated, such as project updates, progress reports, risks, and issues, including the level of detail and format.</li>
+    <li>The plan specifies the communication methods to be used, such as meetings, email, telephone, web portal, etc., to ensure timely information for all stakeholders.</li>
+    <li>The plan sets the frequency of project communications, both formal and informal, to keep stakeholders regularly informed.</li>
+    <li>The plan defines the roles and responsibilities of team members and stakeholders in communication, including who disseminates project information.</li>
+    <li>The plan addresses the specific communication needs of all stakeholders, such as language requirements and accessibility.</li>
+    <li>The plan allocates resources for communication, such as budget and personnel, to ensure effective and efficient communication.</li>
+    <li>The plan sets protocols for communicating sensitive or confidential information, including authorization for release.</li>
+    <li>The plan establishes a process for managing changes in communication or the communication process, including proposal, review, and approval of changes to ensure consistency throughout the project.</li>
+    <li>The plan outlines the flow of communication within the project, including information sharing between team members, stakeholders, and other project partners to ensure timely information for all stakeholders.</li>
+    <li>The plan identifies any internal or external constraints that may affect project communications and outlines how these constraints will be addressed.</li>
+    <li>The plan specifies any standard templates, formats, or documents to be used for communicating project information to provide consistent and accurate information to all stakeholders.</li>
+    <li>The plan includes an escalation process for resolving any communication-based conflicts or issues that may arise during the project to ensure timely resolution of communication-related issues.</li>
+</ul>
+
+<p>Overall, the Communications Management Plan is a key tool that helps to ensure that all stakeholders are informed, and that communication is effective and efficient throughout the E-Cliniq project.</p>
+==Communications Management Approach==
+<p></p>
+<p></p>
 
 =Quality Management Plan=
 ==Introduction==
