@@ -1925,7 +1925,8 @@ The following table identifies the communications requirements for this project.
 </table>
 
 ==13.9 Communication Flowchart==
-![comm-flowchart](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/60863056/80e4d74a-d2a9-4148-8547-40e38041360f)
+![comm-flowchart](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/60863056/962ddb55-120d-4c85-8cfe-901646337d06)
+
 
 ==13.10 Guidelines for Meetings==
 Meetings are an essential aspect of efficient communication within any project, and the D7 Auto Service Center web-app project is no different. To ensure the effectiveness, productivity, and efficiency of meetings, it is crucial to establish well-defined guidelines that specify the purpose of the meetings, the roles and responsibilities of attendees, and the procedures that will be followed during the meetings.
@@ -1971,14 +1972,14 @@ This communication escalation process ensures that issues related to the project
 
 ==13.13 Glossary of Communication Technology==
 
- <table>
+<table>
     <tr>
       <th>Term</th>
       <th>Definition</th>
     </tr>
     <tr>
-      <td>Communications Management Plan</td>
-      <td>A plan that outlines the communication strategy and protocols for stakeholders and the project team.</td>
+      <td> Communications Management Plan </td>
+      <td> A plan that outlines the communication strategy and protocols for stakeholders and the project team. </td>
     </tr>
     <tr>
       <td>Stakeholder</td>
@@ -2004,9 +2005,7 @@ This communication escalation process ensures that issues related to the project
       <td>Communication Approaches</td>
       <td>A communication approach refers to the specific methods and strategies used to convey information and messages to the project stakeholders.</td>
     </tr>
- </table>
-
-
+</table>
 =14. PROCUREMENT PLAN=
 
 ==14.1 Introduction==
@@ -2193,6 +2192,7 @@ Because there is a need for continuity and minimal disruption to ongoing operati
 
 The transition approach for the D7 Auto Service Center Web-App project will include the following steps: 
 <br><br>
+
 Assessment and Communication: The assessment will ensure that all gaps and inefficiencies in the system have been found. This also means that all stakeholders are informed of the transition plan that will occur, as well as the schedules for the transition.
 <br><br>
 Planning: The planning stage is to develop a detailed transition plan. This includes deciding the implementation's overall progress, milestones, and timelines. It is also critical to find potential risks and mitigation strategies to avoid problems in the future.
@@ -2234,6 +2234,87 @@ Development Team: In charge of supplying technical ability for the project. The 
 Documentation Team: In charge of keeping all paperwork and pertinent meetings well documented and recorded. This team will also handle weekly reports, and status reports and organize the minutes of the meetings. 
 <br>
 Project Sponsor: The project sponsor handles approving all changes to the budget/funding allocations, approving all changes to the schedule baseline, and approving any changes in project scope, as well as signing the project charter for the D7 Auto Service Center web-app project.
+
+==15.4 Workforce Transition==
+The workforce transition plan for the D7 Auto Service Center Web-App consists of three steps. The first step is to inform employees and stakeholders about the need for the new system so that they are informed and prepared for the change. The second step is to provide employees with customized training on how to use the new system, which includes instruction on new processes, procedures, and technologies. Finally, the third step is to manage employee performance during and after the new system's implementation to ensure that employees are effectively using the new system and meeting business goals. 
+
+Organizations can ensure that their employees are prepared and equipped to use the new system effectively by following these steps, which leads to improved business processes, increased efficiency, and increased customer satisfaction. A well-defined workforce transition plan can reduce potential resistance to change, increase adoption and usage of the new system, and help the project achieve its goals. 
+
+==15.5 Workforce Execution During Transition==
+During the transition period of the D7 Auto Service Center Web-App the following are to be observed and performed:
+
+•	Documents & Records Update: This is crucial for the project’s recordkeeping, as documents are changed, and/or altered to match what is agreed upon by the project manager and the project sponsor. 
+
+•	Formal Acceptance: The formal acceptance through proper signing and agreeing to the documents is still to be observed during the project's transition period.
+
+•	Project Closeout Onsite Meetings: The transition will also cover the closeout phase of the project which is why it will be of necessity to meet with the team’s sponsor to formally turn over and close the project. 
+
+==15.6 Subcontracts==
+This project D7 Auto Service Center Web-App is not tied or bound to any contracts or subcontracts. Transition of contracts or other related matters to subcontracts are not required. 
+
+==15.7 Property Transition==
+===15.7.1 Intellectual Property===
+The intellectual property of the D7 Auto Service Center Web-App's intellectual properties will fall under its:
+
+•	Project Source Code
+•	Project Database
+•	Project Open Administrator Tool
+•	Project Documentations
+•	Project Signed Documents 
+
+The following steps will be taken to ensure proper handling of intellectual property during the transition:
+
+Identification of all the project’s intellectual property 
+
+All intellectual property associated with the project will be transferred to the project sponsor accordingly throughout the project’s turnover phase. 
+
+Protection of all the project’s intellectual property
+
+During the transition period, all intellectual property will be safeguarded by non-disclosure agreements (NDAs) and other legal processes to ensure that the project team kept the intellectual properties of the project safe to the best of their abilities.
+
+Transfer of project’s intellectual property
+
+The project’s intellectual properties are to be transferred to the project sponsor during the turnover period of the project. 
+
+===15.7.1 User Accounts and Passwords===
+As pivotal part of the D7 Auto Service Center Web-App's security the user account and password of both the admins and the customers will be marked as the key credentials that will be used to access the account that they have used to access the system, in line with their respective accesses. 
+
+User Account Recordkeeping and Data Collection
+
+The accounts made will be recorded in the database to keep a record of the login credentials and pertinent information of the user that will be used to access their respective accounts and to improve the services being used in the web-app. 
+
+Passwords
+
+Passwords will also have the requirements of a strong password, to meet with the standards of security that prevents easy hacking of the accounts of both the admins and the customers. Through the accounts made, passwords per accounts may also be updated if the password is forgotten, through project measures utilizing the forgot password.  
+
+Account Disablement 
+
+Any violations within the premises of the web-app that was made by the customer accounts is subject to account disablement or in the case that an admin has also violated any rights or has acted unlawfully, the account of the violator shall be disabled to prevent any further harm in the system and its internal and external party involvements.
+
+==15.8 Knowledge Transfer==
+Documentation & Instruction Manuals: 
+
+•	Documentation and manuals will be provided to the client by the project manager and the development team. 
+•	The manuals will supply the proper instruction on how to complete specific system tasks. 
+
+Training: 
+
+The project team and development team will provide the client with proper orientation 	and training to ensure they fully understand the system and its processes. 
+
+Meetings between the project team and the client will be scheduled as part of the Knowledge transfer process to ensure that users of the system to manage it will be knowledgeable enough in operating and handling it accordingly.  
+
+==15.9 Schedule==
+![sched-d7](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/60863056/08ab3e05-a828-4006-86a7-a8c00f259560)
+
+==15.10 Handover and Acceptance==
+The completion of the transition plan, which will include all necessary documents and deliverables, marks the beginning of the project turnover and acceptance procedure. To review the transition plan and ensure that all requirements have been met, the project team will then schedule a formal turnover and demonstration meeting with the project sponsor. 
+
+At the handover meeting, the project team will present the documents and deliverables that were made, developed, agreed upon, and signed, together with the system’s instruction manuals. 
+
+The project sponsor will sign a formal acceptance document which pertains to the agreement to turn over the project for use and for operating for the D7 Auto Service Center. 
+
+In summary, the project turnover and acceptance section of the contract transition out plan will serve as a comprehensive guide, ensuring a smooth completion of the transition process and the satisfaction of the project sponsor with the outcomes.
+
 
 =16. SYSTEM REQUIREMENTS SPECIFICATION=
 ==16.1 System Requirements for Development==
