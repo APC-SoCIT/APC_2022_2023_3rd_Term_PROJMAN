@@ -1856,6 +1856,155 @@ To identify the most suitable communication methods and technologies for the D7 
 *The nature of the information being communicated: When sensitive or confidential information is involved, secure methods such as encryption and password-protected portals may be required.
 *The project's budget and available resources: The chosen communication methods and technologies must be financially feasible and sustainable within the project's allocated budget and available resources.
 
+==13.8 Communications Matrix==
+The following table identifies the communications requirements for this project.
+<table>
+            <tr>
+                <th>Channel</th>
+                <th>From</th>
+                <th>To</th>
+                <th>Type</th>
+                <th>Frequency</th>
+                <th>Format Used</th>
+                <th>Delivery media</th>
+            </tr>
+            <tr>
+                <td>Project Planning</td>
+                <td>Project Manager</td>
+                <td>Project Sponsor</td>
+                <td>Meeting</td>
+                <td>Beginning of the project</td>
+                <td>Formal</td>
+                <td>Onsite and social media</td>
+            </tr>
+            <tr>
+                <td>Release Planning</td>
+                <td>Project Manager, I.T. Team</td>
+                <td>Project Sponsor</td>
+                <td>Meeting</td>
+                <td>Beginning of the project</td>
+                <td>Formal</td>
+                <td>Onsite and social media</td>
+            </tr>
+            <tr>
+                <td>Sprint Planning</td>
+                <td>Project Manager</td>
+                <td>I.T. Team</td>
+                <td>Meeting</td>
+                <td>Weekly</td>
+                <td>Informal</td>
+                <td>Microsoft Teams and social media</td>
+            </tr>
+            <tr>
+                <td>Management Process</td>
+                <td>Project Manager, I.T. Team</td>
+                <td>Project Sponsor</td>
+                <td>Deliverable</td>
+                <td>Beginning of the project</td>
+                <td>Written Document</td>
+                <td>Google space (Gmail)</td>
+            </tr>
+            <tr>
+                <td>Project Deliverables & Updates</td>
+                <td>Project Manager</td>
+                <td>I.T. Team</td>
+                <td>Deliverable</td>
+                <td>Twice a week or as needed</td>
+                <td>Written Document</td>
+                <td>Microsoft Teams, GitHub</td>
+            </tr>
+            <tr>
+                <td>Project Backlogs</td>
+                <td>Project Manager</td>
+                <td>I.T. Team</td>
+                <td>Meeting</td>
+                <td>Twice a week or as needed</td>
+                <td>Informal</td>
+                <td>Microsoft Teams and social media</td>
+            </tr>
+</table>
+
+==13.9 Communication Flowchart==
+![comm-flowchart](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/60863056/80e4d74a-d2a9-4148-8547-40e38041360f)
+
+==13.10 Guidelines for Meetings==
+Meetings are an essential aspect of efficient communication within any project, and the D7 Auto Service Center web-app project is no different. To ensure the effectiveness, productivity, and efficiency of meetings, it is crucial to establish well-defined guidelines that specify the purpose of the meetings, the roles and responsibilities of attendees, and the procedures that will be followed during the meetings.
+
+Establishing clear guidelines for meetings can improve the effectiveness of communication among project team members and stakeholders. These guidelines enable participants to better prepare for meetings and engage in discussions more effectively. Furthermore, the project manager can ensure that meetings are conducted in an organized and consistent manner, which can prevent confusion and misunderstandings.
+
+The following are the meeting guidelines that should be observed for the D7 Auto Service Center web-app project to ensure that the meetings are productive, efficient, and effective:
+
+•	Meeting Attendees: The roles and responsibilities of attendees should be clearly defined and communicated in advance. Only attendees necessary for the meeting should be invited.
+•	Meeting Agenda: A clear, concise agenda should be developed and distributed to all attendees before the meeting.
+•	Platform used: The technology used for meetings should be accessible to all attendees. This may involve the use of video conferencing technology, such as Microsoft Teams.
+•	Meeting Evaluation: Regular evaluation of meetings is necessary to ensure that they are productive and that attendees are satisfied with the outcomes. Any issues that arise during meetings should be addressed promptly, and appropriate measures taken to improve and enhance future meetings' effectiveness.
+
+==13.11 Communication Standards==
+The appropriate and best communication standards for the D7 Auto Service Center Web-app project are the following:
+
+•	Naming Protocol: Establishing a consistent naming convention for documents and files that are shared within a project can make it easier to retrieve and organize files for the project.
+
+•	Collaboration Tool: The use of a standardized platform such as SharePoint, Open project software, or GitHub for project communication can enhance accessibility to information and promote collaboration among project team members and stakeholders.
+
+•	Video Meetings: Use of Video conferencing tools like Microsoft teams and Facebook Messenger to contact project development team members and the stakeholders. 
+
+==13.12 Communication Escalation Process==
+The appropriate and optimal communication escalation process for the D7 Auto Service Center Web-app project would consist of the following:
+
+1.	Determining the problem: 
+•	Any communication or issues related to the project should be first brought to the attention of the Developer.
+•	The Developer will assess the situation and try to resolve it themselves or escalate the issue to the next level if necessary.
+
+2.	Address the problem within the team:
+•	If the Developer is unable to resolve the issue, they will escalate it to the Product Owner.
+•	The Product Owner will review the issue and try to find a solution. If they are unable to do so, they will escalate the issue to the next level.
+
+4.	Involve the Project Manager: 
+•	If the Product Owner is unable to resolve the issue, it will be escalated to the Project Manager.
+•	The Project Manager will assess the situation and take appropriate action to resolve the issue. If they are unable to do so, they will escalate the issue to the next level.
+
+4.	Report to Project Sponsor: 
+•	If the issue is still not resolved, it will be escalated to the Project Sponsor.
+•	The Project Sponsor will review the issue and take appropriate action to resolve it. 
+
+This communication escalation process ensures that issues related to the project are addressed in a timely and efficient manner, and that the appropriate level of authority is involved in making decisions related to the project.
+
+==13.13 Glossary of Communication Technology==
+
+ <table>
+    <tr>
+      <th>Term</th>
+      <th>Definition</th>
+    </tr>
+    <tr>
+      <td>Communications Management Plan</td>
+      <td>A plan that outlines the communication strategy and protocols for stakeholders and the project team.</td>
+    </tr>
+    <tr>
+      <td>Stakeholder</td>
+      <td>An individual that has an interest in a project, program, or organization. They can be both internal or external to the organization and can be affected by or affect the project's or organization's actions, decisions, and outcomes.</td>
+    </tr>
+    <tr>
+      <td>Communication Flowchart</td>
+      <td>A visual representation that illustrates how information is communicated and moves throughout a project.</td>
+    </tr>
+    <tr>
+      <td>Communication Escalation Process</td>
+      <td>A process for resolving conflicts or issues related to communication.</td>
+    </tr>
+    <tr>
+      <td>Communication Standards</td>
+      <td>A communication standard is a set of guidelines or rules that define the methods, channels, formats, and protocols for exchanging information and ideas among individuals or groups within a project or organization.</td>
+    </tr>
+    <tr>
+      <td>Communication Constraints</td>
+      <td>A communication constraint refers to any factor that limits or affects the effectiveness of project communications.</td>
+    </tr>
+    <tr>
+      <td>Communication Approaches</td>
+      <td>A communication approach refers to the specific methods and strategies used to convey information and messages to the project stakeholders.</td>
+    </tr>
+ </table>
 
 
 =14. PROCUREMENT PLAN=
