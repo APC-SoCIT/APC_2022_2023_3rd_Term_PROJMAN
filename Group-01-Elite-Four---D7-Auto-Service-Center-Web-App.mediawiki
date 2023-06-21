@@ -2586,13 +2586,13 @@ The deployment shall require necessary system/software in order to be deployed a
 *A hosting service to host the web-app  
 
 ==17.3 Tools Specification==
-===17.4 Development Tools Specification===
+===17.3.1 Development Tools Specification===
 To specify the requirements needed for development, the team has acquired the following: 
 *Visual Studio Code integrated with CSS, HTML, JavaScript and PHP to develop the backend and frontend services and features for the project. 
 *PHPMyAdmin in order to effectively and efficiently manage the web-app. 
 *MySQL which will serve as the database of the project that will store and collect the data received from the customers and the users of the web-app. 
 
-===17.5 Deployment Tools Specification===
+===17.3.2 Deployment Tools Specification===
 To specify the requirements needed for deployment, the team has acquired the following: <br>
 *AWS to get a domain name 
 *AWS LightSail in order to host the web-app  
