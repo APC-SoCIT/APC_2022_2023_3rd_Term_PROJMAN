@@ -81,6 +81,7 @@
 <p> The SmartBooks project team consists of key roles including the project sponsor, stakeholders, project manager, system developers, and data analyst. The project sponsor provides overall guidance and resources, while stakeholders contribute their input and requirements. The project manager ensures smooth operations, while system developers create the automated library SmartBooks system. The data analyst analyzes usage patterns and provides valuable insights. Together, this team ensures the successful implementation and analysis of the SmartBooks project. </p> 
 
 == Problem Definition ==
+
 <h3> Problem Statement </h3>
 
 <p> The Asia Pacific College Library faces challenges in acquiring and providing access to relevant books and eBooks that meet the needs of its students efficiently and cost-effectively. The current process of determining which materials to purchase lacks effectiveness and cost optimization. As a result, there is a need for an improved approach to identify and acquire books and eBooks that align with the students' requirements and maximize their usage. By addressing these challenges, the library can enhance its ability to serve the educational needs of students and faculty effectively. <p> 
@@ -379,7 +380,6 @@
 
 <li> <b> Usage Pattern Analysis Report: </b> The milestone is achieved when the usage pattern analysis report is generated. The report analyzes book and eBook usage patterns in the library, identifying trends and popular titles. These insights inform decision-making for book acquisition and resource allocation. </li>
 <li> <b> Reliable Reviews Integration: </b> This milestone marks the successful integration of reliable reviews into the SmartBooks system. Trusted review sources, like Amazon, are integrated, ensuring access to reliable reviews during the book selection process. </li>
-<li> <b> Updated Collection Development Policy: </b> The policy will be updated to reflect the new system for tracking usage patterns of books and eBooks, ensuring that purchasing decisions align with the needs of the students and the college. </li>
 <li> <b> System Implementation: </b> The system has officially launched in the Asia Pacific College Library. All project deliverables, including the system, usage pattern analysis report, and reliable reviews integration, are in place and operational. </li> 
 
 </ol>
@@ -450,7 +450,7 @@
 <li> Provide technical support to address user queries.</li> 
 <li> Monitor system performance and security. </li> 
 </td>
-<td> October 16 – 30 </td>
+<td> October 16 – 31 </td>
 </tr>
 
 <tr>
@@ -765,12 +765,12 @@ The SmartBooks project takes a structured approach to manage its scope effective
 
 <tr>
 <td> Total Actual Costs: </td>
-<td> ₱268,117 </td>
+<td> ₱246,517 </td>
 </tr>
 
 <tr>
 <td> Cost Variance: </td>
-<td> ₱81,883 </td>
+<td> ₱103,483 </td>
 </tr>
 
 </table>
@@ -790,12 +790,12 @@ The SmartBooks project takes a structured approach to manage its scope effective
 
 <tr>
 <td> Total Actual Costs: </td>
-<td> ₱125,325 </td>
+<td> ₱103,725 </td>
 </tr>
 
 <tr>
 <td> Cost Variance: </td>
-<td> ₱24,675 </td>
+<td> ₱46,275 </td>
 </tr>
 
 <tr>
@@ -833,29 +833,29 @@ The SmartBooks project takes a structured approach to manage its scope effective
 <tr>
 <td> Project Manger </td>
 <td> 75 </td>
-<td> 256 </td>
+<td> 232 </td>
 <td> ₱19,200 </td>
 </tr>
 
 <tr>
 <td> System Developer </td>
 <td> 75 </td>
-<td> 727 </td>
+<td> 583 </td>
 <td> ₱54,525 </td>
 </tr>
 
 <tr>
 <td> Data Analyst </td>
 <td> 75 </td>
-<td> 688 </td>
+<td> 568 </td>
 <td> ₱51,600 </td>
 </tr>
 
 <tr>
 <td> Total </td>
 <td> 75 </td>
-<td> 1671 </td>
-<td> ₱125,325 </td>
+<td> 1,383 </td>
+<td> ₱103,725 </td>
 </tr>
 
 </table>
