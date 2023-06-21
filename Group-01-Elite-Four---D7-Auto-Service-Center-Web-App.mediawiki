@@ -1315,7 +1315,26 @@ If any changes are made to the project’s scope, rest assured it is approved by
 ==10.1 Introduction==
 The Change Management Plan was created for the D7 Auto Service Center Web-App project to set expectations on how the approach to changes will be managed, what defines a change, the purpose and role of the change control board, and the overall change management process. All stakeholders will be expected to submit or request changes to the D7 Auto Service Center Web-App Project in accordance with this Change Management Plan and all requests and submissions will follow the process detailed herein.
 
-==10.2 Change Control Board==
+==10.2 Change Management Approach==
+The Change Management approach for the D7 Auto Service Center Web-App Project will ensure that all proposed changes are defined, reviewed, and agreed upon so they can be properly implemented and communicated to all stakeholders. This approach will also ensure that only changes within this project's scope are approved and implemented.
+
+The Change Management approach is not to be confused with the Change Management Process which will be detailed later in this plan. The Change Management approach consists of three areas:
+
+•	Ensure changes are within scope and beneficial to the project.
+•	Determine how the change will be implemented.
+•	Manage the change as it is implemented.
+
+The Change Management process has been designed to make sure this approach is followed for all changes. By using this approach methodology, the Elite Four Team will prevent unnecessary change from occurring and focus its resources only on beneficial changes within the project scope.
+
+==10.3 Definition of Change==
+There are several types of changes which may be requested and considered for the D7 Auto Service Center Web-App Project. Depending on the extent and type of proposed changes, changes to project documentation and the communication of these changes will be required to include any approved changes into the project plan and ensure all stakeholders are notified. Types of changes include:
+
+•	Scheduling Changes: changes which will impact on the approved project schedule. These changes may require fast tracking, crashing, or re-baselining the schedule depending on the significance of the impact.
+
+The project manager must ensure that any approved changes are communicated to the project stakeholders. Additionally, as changes are approved, the project manager must ensure that the changes are captured in the project documentation where necessary. These document updates must then be communicated to the project team and stakeholders as well.
+
+
+==10.4 Change Control Board==
 The Change Control Board (CCB) is the approval authority for all proposed change requests pertaining to the D7 Auto Service Center Web-App Project. The purpose of the CCB is to review all change requests, determine their impacts on the project risk, and schedule, and to approve or deny each change request. The following chart provides a list of the CCB members for the D7 Auto Service Center Web-App Project:
 
 <table>
@@ -1353,7 +1372,7 @@ The Change Control Board (CCB) is the approval authority for all proposed change
 </tbody>
 </table>
 
-==10.3 Roles and Responsibilities==
+==10.5 Roles and Responsibilities==
 The following are the roles and responsibilities for all change management efforts related to the D7 Auto Service Center Web-App Project:
 <br><br>
 Project Sponsor:<br>
@@ -1381,7 +1400,7 @@ Product Owner:<br>
 <br>
 •	Identifying and addressing potential risks and issues associated with the change.
 
-==10.4 Change Control Process==
+==10.6 Change Control Process==
 
 The Change Control Process for the D7 Auto Service Center Web-App Project will follow the organizational standard change process for all projects. The project manager has overall responsibility for executing the change management process for each change request.
 
@@ -2006,9 +2025,11 @@ This communication escalation process ensures that issues related to the project
       <td>A communication approach refers to the specific methods and strategies used to convey information and messages to the project stakeholders.</td>
     </tr>
 </table>
-=14. PROCUREMENT PLAN=
 
-==14.1 Introduction==
+= 14. RISK MANAGEMENT PLAN =
+=15. PROCUREMENT PLAN=
+
+==15.1 Introduction==
 The purpose of the procurement management plan is to have access to the required tools, skills, and services while within the budgetary constraints for the D7 Auto Service Center Web-App. By outlining the project's objectives, requirements, stakeholders, and scope, this plan establishes the project's overall context.
 
 To ensure the successful implementation of the D7 Auto Service Center Web-App, the system must meet the following requirements:
@@ -2035,7 +2056,7 @@ To ensure the successful implementation of the D7 Auto Service Center Web-App, t
 
 These requirements encompass all the essential features and functionalities that should be part of the D7 Auto Service Center Web-App to ensure a comprehensive and satisfactory user experience. By following this plan, it can effectively manage the procurement process, ensuring access to the required tools, skills, and experience, as well as services within the allocated budget. It emphasizes the importance of maintaining high quality standards throughout the implementation process.
 
-==14.2 Procurement Risk==
+==15.2 Procurement Risk==
 Assessing the risk is an important task in all projects, as it involves the whole project and whether the acquiring of goods, services, and the business model would work in the real-life scenario. These procurement risks are potential issues that can arise during the project's procurement process. Which can negatively impact the said project and potentially the clients and their customer. Hence, it is important to know and plan for the risks as early as possible to minimize if not eliminate the possible impact of them on the project. 
 <br><br>
 1.	Security Risk: This refers to the potential for unauthorized access to sensitive data, which can compromise the confidentiality and integrity of the information. It is important to implement strict security measures, such as encryption and access controls, to prevent unauthorized access and protect sensitive data.
@@ -2047,7 +2068,7 @@ Assessing the risk is an important task in all projects, as it involves the whol
 These are the identified procurement risks that can happen during the implementation of the D7 Auto Service Center Web-App. It is important to conduct a comprehensive risk assessment and develop a plan to address any potential risks before implementation begins.
 
 
-==14.3 Procurement Risk Management==
+==15.3 Procurement Risk Management==
 1.	Identification of Procurement Risks 
 
 The identified procurement risks for the D7 Auto Service Center Web-App are the following:
@@ -2106,7 +2127,7 @@ The procurement risk management plan emphasizes continuous improvement through r
 The adoption of an Agile Scrum methodology further enhances the procurement risk management process by enabling iterative and flexible development. Through collaborative Scrum meetings, the project team identifies and addresses risks, adjusts priorities, and implements timely mitigation strategies. This iterative approach ensures continuous evaluation and management of risks, enabling effective response to changing circumstances and successful procurement outcomes
 
 
-==14.4 Cost Determination==
+==15.4 Cost Determination==
 Determining the cost of the D7 Auto Service Center Web-App necessitates considering several elements that influence the project's scope, complexity, and timing. Project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenditures are some of the cost aspects that must be considered when estimating the entire cost of the project. 
 
 Personnel costs, equipment expenditures, and software costs associated with project management are all included. Development expenses include software development, hardware, testing, and quality assurance, whereas integration costs include the cost of integrating the system with existing software or third-party applications. The cost of procuring hardware, software, and services required to design and implement the system is included in the procurement expenses. The cost of teaching personnel to operate the system efficiently is included in the training costs. 
@@ -2115,7 +2136,7 @@ The cost of maintaining the system, including software updates, hardware mainten
 
 The total cost for the D7 Auto Service Center Web-App can be established by estimating the cost of each of these cost elements. The total cost establishes a baseline for budgeting, forecasting, and monitoring project spending throughout the project's lifecycle.
 
-==14.5 Procurement Constraint==
+==15.5 Procurement Constraint==
 The D7 Auto Service Center Web-App is no exception and demands careful consideration of multiple such constraints. The following are the constraints that must be considered as part of the D7 Auto Service Center Web-App: 
 <br><br>
 •	Security – The web-app must adhere to strict security measures to safeguard sensitive customer data, prevent unauthorized access, and protect against cyber threats/attacks.
@@ -2124,7 +2145,7 @@ The D7 Auto Service Center Web-App is no exception and demands careful considera
 <br>
 •	Technical - The D7 Auto Service Center Web-App must have the necessary features to allow the customers to book appointments, view available services, and receive confirmation of bookings. It also must have a user-friendly interface that can easily be navigated and must be accessible to customers that have various levels of technical proficiency
 
-==14.6 Contract Approval Process==
+==15.6 Contract Approval Process==
 To ensure that all contracts are approved within the period of their urgency, the contract approval process for the D7 Auto Service Center project will be formal and informed immediately to the project sponsor. The procedure will follow the organization's policies and regulations as follows: 
 <br><br>
 Contract Planning: The project team will develop and construct the document that is necessary for the said project. 
@@ -2135,7 +2156,7 @@ Contract Approval: The contract would then be presented for approval to the proj
 <br><br>
 Contract Management: Once the contract is signed, the project manager will align the project to the contract's constraints and agreements
 
-==14.7 Decision Criteria==
+==15.7 Decision Criteria==
 For the D7 Auto Service Center Web-App, the following decision criteria will be used by the contract review board: 
 <br><br>
 •	Business Needs - The system should be aligned with the organization's business needs, such as improving the customer experience, increasing operational efficiency, or increasing revenue. 
@@ -2150,7 +2171,7 @@ For the D7 Auto Service Center Web-App, the following decision criteria will be 
 <br>
 •	Resource Availability - The project should have the necessary resources, such as staff, budget, or technology, to ensure its success
 
-==14.8 Performance Metrics for Procurement Activities==
+==15.8 Performance Metrics for Procurement Activities==
 For the D7 Auto Service Center Web-App, the following performance metrics will be used for procurement activities: 
 <br><br>
 
@@ -2169,8 +2190,8 @@ This metric will enable the breakdown of costs to see whether the project exceed
 Customer satisfaction will also be a metric that will be of great reliability to see the project’s efficacy to its intended purpose
 
 
-=15. IMPLEMENTATION PLAN=
-==15.1 Executive Summary==
+=16. IMPLEMENTATION PLAN=
+==16.1 Executive Summary==
 The Elite Four team collaborated with the client to develop the D7 Auto Service Center Web-App, aiming to enhance their auto services by improving organization, providing a convenient booking, and scheduling system. This includes highlighting the key features and functionalities of the system, such as online booking, appointment scheduling, and customer communication.
 
 The first step in developing an implementation plan for D7 Auto Service Center Web-App is defining the project's scope and goals. This includes showing the system's key features and functionalities, such as online booking, appointment scheduling, and customer communication. It is also critical to define the project goals and success criteria to ensure that the system meets the needs and expectations of the stakeholders. 
@@ -2185,7 +2206,7 @@ To ensure a thorough understanding of the system, the new owners will receive al
 
 To summarize, putting in place the D7 Auto Service Center Web-App causes careful planning, a skilled project team, and a rigorous development and testing process. D7 Auto Service Center can ensure that the system meets the needs of their customers, improves service efficiency and delivery, and supplies a positive return on investment by following a well-defined implementation plan.
 
-==15.2 Transition Summary==
+==16.2 Transition Summary==
 <b>Overall Approach: </b>
 
 Because there is a need for continuity and minimal disruption to ongoing operations, the transition-out plan for the D7 Auto Service Center Web-App will be a phased transition approach. This method enables the gradual and systematic transfer of knowledge, resources, and accountability to be transferred to the new team, reducing the risk of downtime and service interruption. 
@@ -2221,7 +2242,7 @@ d.	The client will be knowledgeable of operating and managing the project as dem
 
 <br>
 
-==15.3 Transition Team Organization==
+==16.3 Transition Team Organization==
 
 Roles and Responsibilities: 
 <br><br>
@@ -2235,12 +2256,12 @@ Documentation Team: In charge of keeping all paperwork and pertinent meetings we
 <br>
 Project Sponsor: The project sponsor handles approving all changes to the budget/funding allocations, approving all changes to the schedule baseline, and approving any changes in project scope, as well as signing the project charter for the D7 Auto Service Center web-app project.
 
-==15.4 Workforce Transition==
+==16.4 Workforce Transition==
 The workforce transition plan for the D7 Auto Service Center Web-App consists of three steps. The first step is to inform employees and stakeholders about the need for the new system so that they are informed and prepared for the change. The second step is to provide employees with customized training on how to use the new system, which includes instruction on new processes, procedures, and technologies. Finally, the third step is to manage employee performance during and after the new system's implementation to ensure that employees are effectively using the new system and meeting business goals. 
 
 Organizations can ensure that their employees are prepared and equipped to use the new system effectively by following these steps, which leads to improved business processes, increased efficiency, and increased customer satisfaction. A well-defined workforce transition plan can reduce potential resistance to change, increase adoption and usage of the new system, and help the project achieve its goals. 
 
-==15.5 Workforce Execution During Transition==
+==16.5 Workforce Execution During Transition==
 During the transition period of the D7 Auto Service Center Web-App the following are to be observed and performed:
 
 •	Documents & Records Update: This is crucial for the project’s recordkeeping, as documents are changed, and/or altered to match what is agreed upon by the project manager and the project sponsor. 
@@ -2249,11 +2270,11 @@ During the transition period of the D7 Auto Service Center Web-App the following
 
 •	Project Closeout Onsite Meetings: The transition will also cover the closeout phase of the project which is why it will be of necessity to meet with the team’s sponsor to formally turn over and close the project. 
 
-==15.6 Subcontracts==
+==16.6 Subcontracts==
 This project D7 Auto Service Center Web-App is not tied or bound to any contracts or subcontracts. Transition of contracts or other related matters to subcontracts are not required. 
 
-==15.7 Property Transition==
-===15.7.1 Intellectual Property===
+==16.7 Property Transition==
+===16.7.1 Intellectual Property===
 The intellectual property of the D7 Auto Service Center Web-App's intellectual properties will fall under its:
 
 •	Project Source Code
@@ -2276,7 +2297,7 @@ Transfer of project’s intellectual property
 
 The project’s intellectual properties are to be transferred to the project sponsor during the turnover period of the project. 
 
-===15.7.1 User Accounts and Passwords===
+===16.7.1 User Accounts and Passwords===
 As pivotal part of the D7 Auto Service Center Web-App's security the user account and password of both the admins and the customers will be marked as the key credentials that will be used to access the account that they have used to access the system, in line with their respective accesses. 
 
 User Account Recordkeeping and Data Collection
@@ -2291,7 +2312,7 @@ Account Disablement
 
 Any violations within the premises of the web-app that was made by the customer accounts is subject to account disablement or in the case that an admin has also violated any rights or has acted unlawfully, the account of the violator shall be disabled to prevent any further harm in the system and its internal and external party involvements.
 
-==15.8 Knowledge Transfer==
+==16.8 Knowledge Transfer==
 Documentation & Instruction Manuals: 
 
 •	Documentation and manuals will be provided to the client by the project manager and the development team. 
@@ -2303,10 +2324,10 @@ The project team and development team will provide the client with proper orient
 
 Meetings between the project team and the client will be scheduled as part of the Knowledge transfer process to ensure that users of the system to manage it will be knowledgeable enough in operating and handling it accordingly.  
 
-==15.9 Schedule==
+==16.9 Schedule==
 ![sched-d7](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/60863056/08ab3e05-a828-4006-86a7-a8c00f259560)
 
-==15.10 Handover and Acceptance==
+==16.10 Handover and Acceptance==
 The completion of the transition plan, which will include all necessary documents and deliverables, marks the beginning of the project turnover and acceptance procedure. To review the transition plan and ensure that all requirements have been met, the project team will then schedule a formal turnover and demonstration meeting with the project sponsor. 
 
 At the handover meeting, the project team will present the documents and deliverables that were made, developed, agreed upon, and signed, together with the system’s instruction manuals. 
@@ -2316,8 +2337,8 @@ The project sponsor will sign a formal acceptance document which pertains to the
 In summary, the project turnover and acceptance section of the contract transition out plan will serve as a comprehensive guide, ensuring a smooth completion of the transition process and the satisfaction of the project sponsor with the outcomes.
 
 
-=16. SYSTEM REQUIREMENTS SPECIFICATION=
-==16.1 System Requirements for Development==
+=17. SYSTEM REQUIREMENTS SPECIFICATION=
+==17.1 System Requirements for Development==
 The project shall consist of the necessary requirement that will enable development of its features, UI, its database, as well for the web-app to function accordingly. The following is the requirement to run through development: <br>
 <b>Software: </b><br>
 *1. Coding environment which is a software where the project maybe built accordingly.  
@@ -2326,29 +2347,29 @@ The project shall consist of the necessary requirement that will enable developm
 <br>
 The development of the project will require varying versions of the aforementioned software depending on the time it is to be altered, and/or edited.  <br>
 
-==16.2 System Requirements for Deployment==
+==17.2 System Requirements for Deployment==
 The deployment shall require necessary system/software in order to be deployed and function as it is intended to do so: 
 *A domain provider to configure the domain name of the project  
 *A hosting service to host the web-app  
 
-==16.3 Tools Specification==
-===16.4 Development Tools Specification===
+==17.3 Tools Specification==
+===17.4 Development Tools Specification===
 To specify the requirements needed for development, the team has acquired the following: 
 *Visual Studio Code integrated with CSS, HTML, JavaScript and PHP to develop the backend and frontend services and features for the project. 
 *PHPMyAdmin in order to effectively and efficiently manage the web-app. 
 *MySQL which will serve as the database of the project that will store and collect the data received from the customers and the users of the web-app. 
 
-===16.5 Deployment Tools Specification===
+===17.5 Deployment Tools Specification===
 To specify the requirements needed for deployment, the team has acquired the following: <br>
 *AWS to get a domain name 
 *AWS LightSail in order to host the web-app  
 <br>
 
-=17. WORK BREAKDOWN STRUCTURE=
+=18. WORK BREAKDOWN STRUCTURE=
 
-==17.1 Introduction==
+==18.1 Introduction==
 The Work Breakdown Structure presented here represents all the work required to complete this project. It will be the initial version of the web-app and it shall go under version 1. This version will undergo the PBL (Project Based Learning) phases from planning to deployment. It is hereby outlined with the help of this project management tool that will aim to provide better division of work during each respective phase. The project has divided the work accordingly per sprint to have them assigned and accomplished by the Elite Four team. 
-==17.2 Outline View==
+==18.2 Outline View==
 1.1	Planning
 1.1.1	Planning Phase Preparation
 1.1.2	Problem Identification
@@ -2384,7 +2405,7 @@ The Work Breakdown Structure presented here represents all the work required to 
 
 
 
-==17.3 Hierarchical Structure==
+==18.3 Hierarchical Structure==
 <table border="1" width="100%" align="center">
     <tr>
         <td>Level</td>
@@ -2558,7 +2579,7 @@ The Work Breakdown Structure presented here represents all the work required to 
     </tr>
 </table>
 
-==17.4 Tabular View ==
+==18.4 Tabular View ==
 <table border="1" width="70%" align="center">
   <tr>
     <th>Level 1</th>
@@ -2619,7 +2640,7 @@ The Work Breakdown Structure presented here represents all the work required to 
  </tr>
 </table>
 
-==17.5 Tree Structure View==
+==18.5 Tree Structure View==
 
 <p align="center">
      [[https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G01_Elite_Four/blob/c3bdbd2802af39fa3e9d4b10f4692f6828dde02a/documentation/archive/Elite%20Four%20Work%20Breakdown%20Structure.png]]
@@ -2867,7 +2888,7 @@ The Work Breakdown Structure presented here represents all the work required to 
     </tr>
 </table>
 
-==17.7 Glossary of Terms==
+==18.7 Glossary of Terms==
 <table border="1" width="70%" align="center">
   <tr>
     <th>Terms</th>
