@@ -779,7 +779,9 @@
 ==Introduction==
 <p> The stakeholder management strategy for RAM-IT: ITRO’s ChatBot & Ticketing System aims to proactively identify, prioritize, engage, and communicate with stakeholders to ensure their needs and expectations are met. The strategy will be integrated into the project management approach, guided by principles of transparency, inclusiveness, and accountability. It will focus on building positive relationships, effective communication, conflict mitigation, and continuous monitoring and evaluation to ensure successful system implementation and operation.The stakeholder management strategy for RAM-IT: ITRO’s ChatBot & Ticketing System aims to proactively identify, prioritize, engage, and communicate with stakeholders to ensure their needs and expectations are met. The strategy will be integrated into the project management approach, guided by principles of transparency, inclusiveness, and accountability. It will focus on building positive relationships, effective communication, conflict mitigation, and continuous monitoring and evaluation to ensure successful system implementation and operation. </p>
 ==Identify Stakeholders==
-<p>The stakeholder management strategy for RAM-IT: ITRO’s ChatBot & Ticketing System involves identifying and engaging with various stakeholders. These stakeholders include the ITRO team, consisting of IT Supervisor and IT Specialists who are responsible for the technical implementation and maintenance of the system. The school administration, including school administrators, and other school staff, play a crucial role in overseeing the system's usage and effectiveness at the school level. School staff, such as teachers and counselors, may interact with the system to submit tickets for technical issues or other inquiries. Primarily students themselves may also be stakeholders as they interact with the system to submit tickets or seek assistance. The school administrators, board members, and other officials, may also be stakeholders with oversight and governance responsibilities. Additionally, the proponents providing support or maintenance for the ticketing system may also be stakeholders. Other stakeholders may include alumni or APC community members depending on the context and requirements of the ticketing system. Identifying and engaging with these stakeholders is essential to ensure that their perspectives, needs, and concerns are considered in the management and improvement of the ticketing system. </p>
+<p>
+RAM-IT: ITRO's Chatbot & Ticketing System employs a stakeholder management strategy that involves identifying and engaging with various parties. These include the ITRO team, responsible for technical implementation and maintenance, comprising the ITRO Supervisor and IT Specialists. School administration, including administrators and staff, oversees system usage and effectiveness. Teachers, counselors, and students interact with the system for technical issues and inquiries. School administrators, board members, officials, and system support providers also have stakeholder roles. Other stakeholders, such as alumni or APC community members, may be involved based on system requirements. Identifying and engaging with these stakeholders ensures their perspectives, needs, and concerns shape the system's management and improvement.
+</p>
 
 ==Key Stakeholders==
 <p>Key stakeholders in the ITRO school ticketing system includes: </p> <br>
@@ -801,35 +803,44 @@
 <p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;&nbsp;&nbsp;Alumni</p>
 </p>
 
+<p>Project Team: <br>
+<p>&nbsp;&nbsp;&nbsp; •&nbsp;&nbsp;&nbsp;&nbsp;Optimum Five</p>
+
 <p>These key stakeholders may require more communication and management throughout the project’s lifecycle, and it is important to identify them to seek their feedback on their desired level of participation and communication. Identifying and engaging with these key stakeholders is crucial to consider their perspectives, needs, and concerns in the management of the ticketing system. </p>
 
 ==Stakeholder Analysis==
-<p>&nbsp;&nbsp;&nbsp; 1.&nbsp;&nbsp;&nbsp;&nbsp;ITRO - High influence, high interest, high impact: The ITRO team, including IT managers, system administrators, developers, and support staff, have a high level of influence and interest in the ticketing system as they are responsible for its technical implementation and maintenance. Their feedback, involvement, and support are crucial to the success of the system.</p>
-
-<p>&nbsp;&nbsp;&nbsp; 2.&nbsp;&nbsp;&nbsp;&nbsp;Academic Personnel/Administrator - High influence, high interest, high impact: School administrators, teachers, and other school staff play a key role in using and interacting with the proposed system to gauge the usage and effectiveness of the ticketing system at the school level. They have a high level of influence and interest in the system's functionality, as it affects their daily operations inside the school.</p>
-
-<p>&nbsp;&nbsp;&nbsp; 3.&nbsp;&nbsp;&nbsp;&nbsp;APC Community Members - Moderate influence, high interest, moderate impact: students and other school staff may interact with the ticketing system to submit tickets for technical issues or other inquiries. While their influence may be moderate, their interest in the system is high as it directly affects their ability to receive support and resolve issues.</p>
-
-<table width="744" border="1" align="center">
-<tr style="height: 52px;">
-                            <th style="height: 52px;" width="180" bgcolor="#04549B">
-			       <strong>Name</strong></th>
-                            <th style="height: 52px;" width="180" bgcolor="#04549B">
-				<strong>Department/Company</strong></th>
-                            <th style="height: 52px;" width="180" bgcolor="#04549B">
-				<strong>Position</strong></th>
-                            <th style="height: 52px;" width="180" bgcolor="#04549B">
-				<strong>Advisers</strong></th>
-                            <th style="height: 52px;" width="180" bgcolor="#04549B">
-				<strong>Objectives, Requirements, Interests</strong></th>
-                            <th style="height: 52px;" width="180" bgcolor="#04549B">
-				<strong>Influence</strong></th>
-                            <th style="height: 52px;" width="180" bgcolor="#04549B">
-				<strong>Project Contribution</strong></th>
-                            <th style="height: 52px;" width="180" bgcolor="#04549B">
-				<strong>Resistance</strong></th>
-
-</tr>
+{| class="wikitable" style="background-color:#B4C6E7;"
+|- style="background-color:#4472C4;"
+! <br />Stakeholder
+! <br />Objectives,   Requirements, Interests
+! <br />Influence
+! <br />Project   Contribution
+! <br />Resistance
+|-
+| style="vertical-align:middle; background-color:#4472C4;" | <br />JoJo Castillo<br />   <br />(APC ITRO)
+| <br /> <br />   <br />•Objective is to ensure a reliable and   user-friendly system that complies with policies and regulations.<br />   <br /> <br />   <br />•Knowledge of relevant technologies, experience   managing technical systems, and strong communication and problem-solving   skills.<br />   <br /> <br />   <br />•Interest in meeting the needs of the school   community, ensuring data security, maintaining up-to-date knowledge, and   contributing to efficient school operations.<br />   <br />
+| style="vertical-align:middle;" | <br />HIGH                          Relationship with   other stakeholders, organizational structure, and project sponsor
+| style="vertical-align:middle;" | <br />Process improvement,   access to resources, and technical expertise
+| style="vertical-align:middle;" | <br />Resource constraints   &<br />   <br />Concerns about data   security
+|- style="vertical-align:middle; background-color:#D9E2F3;"
+| style="background-color:#4472C4;" | <br />Academic Personnel   & Administrator
+| <br /> <br />   <br />•The objective is to   have access to an easy to use, fast, and streamlined ticket management, with   accurate data and ticket resolution.<br />   <br /> <br />   <br />•Requires the   ticketing system to be accessible and can be integrated to school operations.<br />   <br /> <br />   <br />•Interest in improved   overall experience and reduce delays for technology related inquiries.<br />   <br />
+| <br />HIGH                                  collected data and   user experience
+| <br />Providing feedback on its   usability, functionality, and effectiveness
+| <br />User challenges & Changes to   existing processes
+|-
+| style="vertical-align:middle; background-color:#4472C4;" | <br />Academic Community
+| <br /> <br />   <br />•Objective is to have a convenient and reliable   ticketing system that allows easy access    <br />   <br /> <br />   <br />•Requires the ticketing system to be ser-friendly,   secure, and integrates to daily school activity.<br />   <br /> <br />   <br />•Interest in being able to track ticket inquiries   and requests.<br />   <br />
+| style="vertical-align:middle;" | <br />Moderate                                   Collected data and   user experience
+| style="vertical-align:middle;" | <br />Providing feedback on   its usability, functionality, & effectiveness.
+| style="vertical-align:middle;" | <br />User challenges &   Changes to existing processes
+|- style="background-color:#D9E2F3;"
+| style="vertical-align:middle; background-color:#4472C4;" | <br />Optimum Five
+| <br /> <br />   <br />•Objective is to   design, develop, and implement a reliable, user-friendly, and efficient   system that meets the needs of the school and its stakeholders.<br />   <br /> <br />   <br />•Requires gathering   and analyze requirements from various stakeholders, including students,   parents, teachers, administrators, and IT staff.<br />   <br /> <br />   <br />•Interest in the   success of the project, as it reflects their skills and expertise, and may be   interested in career advancement and gaining experience.<br />   <br />
+| style="vertical-align:middle;" | <br /> <br />   <br />HIGH<br />   <br />Project design, development,   documentation, management, and implementation
+| style="vertical-align:middle;" | <br /> <br />   <br /> <br />   <br />Project design, development,   documentation, management, & implementation
+| style="vertical-align:middle;" | <br /> <br />   <br /> <br />   <br />Technical challenges &   Changes to existing processes
+|}
 
 <tr>
 <td><p>Jose Flavio Feliciano Castillo </p></td>
