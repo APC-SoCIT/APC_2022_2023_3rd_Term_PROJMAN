@@ -1353,270 +1353,358 @@ Knowledge in using an online system.
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.4</p></td>
  <td><p style="text-align:center;">Context Flow Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Display the interactions between a system and other actors (external factors) with whom it is intended to engage. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">2 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.5</p></td>
  <td><p style="text-align:center;">Use Case Full Description</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A description of how an end-user intends to "use" a system. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.6</p></td>
  <td><p style="text-align:center;">Data Flow Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A description of how an end-user intends to "use" a system. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.7</p></td>
  <td><p style="text-align:center;">Entity-Relationship Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	Describes how "entities" like as people, things, or concepts interact within a system. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.8</p></td>
  <td><p style="text-align:center;">Activity Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.9</p></td>
  <td><p style="text-align:center;">Object Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.10</p></td>
  <td><p style="text-align:center;">Class Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.11</p></td>
  <td><p style="text-align:center;">Sequence Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.12</p></td>
  <td><p style="text-align:center;">State Machine Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.13</p></td>
  <td><p style="text-align:center;">Package Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.14</p></td>
  <td><p style="text-align:center;">Component Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.15</p></td>
- <td><p style="text-align:center;">Deployment Diagram</p></td>
+ <td><p style="text-align:center;">Deployment Diagram</p></td> <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.16</p></td>
- <td><p style="text-align:center;">5th Meeting with Adviser/Consultant</p></td>
+ <td><p style="text-align:center;">5th Meeting with Adviser/Consultant</p></td> <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.17</p></td>
  <td><p style="text-align:center;">Project Diagram Revision</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.2.2.18</p></td>
  <td><p style="text-align:center;">Submission of Final Project Diagram</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">2</p></td>
  <td><p style="text-align:center;">1.3</p></td>
  <td><p style="text-align:center;">Development, Testing, and Deployment</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.1</p></td>
  <td><p style="text-align:center;">Choose Adviser/Consultant</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.2</p></td>
  <td><p style="text-align:center;">5th Meeting with Adviser/Consultant</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.3</p></td>
  <td><p style="text-align:center;">Development of System</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.3.1</p></td>
  <td><p style="text-align:center;">Database</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.3.2</p></td>
  <td><p style="text-align:center;">Database Initial Evaluation (Sprint 6) </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.3.3</p></td>
  <td><p style="text-align:center;">Home Page Feature</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">5</p></td>
  <td><p style="text-align:center;">1.3.3.3.1</p></td>
  <td><p style="text-align:center;">About Villamin Page</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">5</p></td>
  <td><p style="text-align:center;">1.3.3.3.2</p></td>
  <td><p style="text-align:center;">FAQs Page</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">5</p></td>
  <td><p style="text-align:center;">1.3.3.3.3</p></td>
  <td><p style="text-align:center;">Product Page</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">5</p></td>
  <td><p style="text-align:center;">1.3.3.3.4</p></td>
  <td><p style="text-align:center;">Cart Feature</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.3.4</p></td>
  <td><p style="text-align:center;">Admin Dashboard</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">5</p></td>
  <td><p style="text-align:center;">1.3.3.4.1</p></td>
  <td><p style="text-align:center;">Dashboard</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">5</p></td>
  <td><p style="text-align:center;">1.3.3.4.2</p></td>
  <td><p style="text-align:center;">Report Feature</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.3.5</p></td>
  <td><p style="text-align:center;">Log In/Sign Up Feature</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.3.6</p></td>
  <td><p style="text-align:center;">Final System Evaluation (Sprint 7) </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.4</p></td>
  <td><p style="text-align:center;">Testing of System</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.4.1</p></td>
  <td><p style="text-align:center;">Unit Testing</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.4.2</p></td>
  <td><p style="text-align:center;">6th Meeting with Adviser/Consultant</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.4.3</p></td>
  <td><p style="text-align:center;">Performance Testing</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.4.4</p></td>
  <td><p style="text-align:center;">Use Case Meeting with Client</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.3.5</p></td>
  <td><p style="text-align:center;">Deployment of System</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.5.1</p></td>
  <td><p style="text-align:center;">Hosting</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">5</p></td>
  <td><p style="text-align:center;">1.3.5.1.1</p></td>
  <td><p style="text-align:center;">Setting up Hosting</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">4</p></td>
  <td><p style="text-align:center;">1.3.5.2</p></td>
  <td><p style="text-align:center;">System Training with Client</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">2</p></td>
  <td><p style="text-align:center;">1.4</p></td>
  <td><p style="text-align:center;">Project Closeout</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.4.1</p></td>
  <td><p style="text-align:center;">System and Documentation Turnover</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.4.2</p></td>
  <td><p style="text-align:center;">Project Closeout Meeting with Client</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.4.3</p></td>
  <td><p style="text-align:center;">Formal Acceptance</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
  <tr>
  <td><p style="text-align:center;">3</p></td>
  <td><p style="text-align:center;">1.4.4</p></td>
  <td><p style="text-align:center;">Final Meeting with Client</p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">	A technique for representing a process model. </p></td>
+ <td bgcolor="lightblue"><p style="text-align:center;">7 days</p></td>
  </tr>
 
 </table>
