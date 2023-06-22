@@ -513,3 +513,46 @@ The Change Control Board is responsible for reviewing and approving proposed cha
     <td>CCB Member</td>
   </tr>
 </table>
+
+<h5>ROLES AND RESPONSIBILITIES</h5>
+<p align=" justify">
+The table below shows the respective responsibilities of each member of the project that in the change management process: <br> 
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Project Role</th>
+    <th>Responsibilities</th>
+  </tr>
+  <tr>
+    <td>Maria Theresa Reyes</td>
+    <td>Project Sponsor</td>
+    <td>Submit change request if deemed necessary    
+review the change request log and reports to ensure alignment with changes.</td>
+  </tr>
+  <tr>
+    <td>Stefano Franco Binay</td>
+    <td>Project Manager</td>
+    <td>Assess and verify the impact of change request along with the product owner & QA and reports to ensure alignment with changes.</td>
+  </tr>
+  <tr>
+    <td>Ken Angelo Carangan</td>
+    <td>Product Owner</td>
+    <td>Discuss the necessary changes and can approve or reject changes that do not align with the product objectives.</td>
+  </tr>
+  <tr>
+    <td>Marcus Medina</td>
+    <td>Scrum Master/QA</td>
+    <td>Facilitating the change control process within the Scrum framework and evaluating change requests to assess their impact on quality, functionality, and overall project objectives. They analyze the potential risks and benefits of proposed changes.</td>
+  </tr>
+  <tr>
+    <td>Jan Terence Francisco</td>
+    <td>Developer</td>
+    <td>Execute the technical aspect of the change request action plan to ensure alignment with changes.    </td>
+  </tr>
+  <tr>
+    <td>Ryan Gabriel Candari</td>
+    <td>Project Documentation Manager</td>
+    <td>Will update the Change Log and create a Change Status Report and will send out the final Change Status Report across the team and stakeholders.</td>
+  </tr>
+</table> </p>
+
