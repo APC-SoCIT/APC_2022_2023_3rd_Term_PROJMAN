@@ -1360,4 +1360,47 @@ Signed authorizations
   </tr>
 </table>
 
+table>
+  <tr>
+    <th>Total Hours</th>
+    <th>Name</th>
+    <th>Roles (₱)</th>
+    <th>Allocated Budget (₱)</th>
+  </tr>
+  <tr>
+    <td>2500.00 hours</td>
+    <td>Bryan Gel Fabellore</td>
+    <td>Full Stack Developer</td>
+    <td>PHP 600,000.00</td>
+  </tr>
+  <tr>
+    <td>1250.00 hours</td>
+    <td>Gabriel Luis Antonio Perez</td>
+    <td>Front End Developer</td>
+    <td>PHP 300,000.00</td>
+  </tr>
+  <tr>
+    <td>1300.00 hours</td>
+    <td>Joshua Roxas</td>
+    <td>UI/UX Developer</td>
+    <td>PHP 249,600.00</td>
+  </tr>
+  <tr>
+    <td>1400.00 hours</td>
+    <td>Pallas Dale Fontiveros</td>
+    <td>Project Leader / Quality Assurance</td>
+    <td>PHP 403,200.00</td>
+  </tr>
+  <tr>
+    <td>1350.00 hours</td>
+    <td>Neil Albert Garcia</td>
+    <td>Project Manager</td>
+    <td>PHP 32,400.00</td>
+  </tr>
+</table>
+
+<p><strong>TOTAL: PHP 1,585,200.00</strong></p>
+
 <p>The various elements and related expenses for creating the Fleeky Hub are broken down in this table, including web development, graphic design, hosting, domain registration, marketing, and contingency charges. The overall project cost, which in this case is 19,500 PHP, is also included in the table. This budget table can assist in managing the expenditures connected with the website development project and helping the business plan.</p>
+
+
