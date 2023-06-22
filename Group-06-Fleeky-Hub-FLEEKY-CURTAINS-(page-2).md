@@ -1037,3 +1037,30 @@ Signed authorizations
 
 <h2>Sope Change</h2>
 <p>In this section of the paper, as the team proceeds with the changes, they must first recognize the effects and impact it can and will make the current project schedule and resources. The team must also consider the current project schedule and how the scope change will affect the schedules and availability of resources when the project moves forward.</p>
+
+
+<h1>Cost Management Plan</h1>
+<h2>Introduction</h2>
+<p>In Fleeky Curtains, the management and the employees are responsible for keeping the business running. Since the client is a small business handled by family members, each of the decisions and budget planning is in the scope of the family members. The investor and the founder of Fleeky Curtains is the one who finances the business, Mitzi Garcia. She also oversees which products to be invested in and the raw materials to supplement the production of curtains. The investor also has the authority to approve the changes to the project of Fleeky Hub and carry out the budget for the business and the project.</p>
+<br>On the other note, the manager Neil Albert Garcia does the administrative tasks and manages the accounting for the transactions and expenses for the business. The manager also oversees the operations. 
+
+<h3>Cost Management Responsibilities:</h3>
+<br>• The Project Manager will be responsible for overall cost management of the project and will be the primary point of contact for all cost-related issues.
+<br>• The Finance Team will be responsible for monitoring project costs and ensuring that they are within the approved budget. 
+
+<h3>Cost Change Approval:</h3>
+<br>• All cost changes must be approved by the Project Manager before they are implemented.
+<br>• If the cost change exceeds 10% of the total project budget, it must be approved by the Project Sponsor before it can be implemented.
+
+<h3>Cost Measurement and Reporting:</h3>
+<br>• Costs will be measured and reported monthly, using a cost performance index (CPI) and a schedule of performance index (SPI)
+<br>• Reports will be presented to the Project Sponsors monthly.
+
+<h3>Budget Format and Standards:</h3>
+<br>• The Budget will be presented in a clear and concise format, using a spreadsheet format such as Excel and Fleeky Hub’s Website feature (If implemented/upon agreement)
+<br>• The budget will be broken down into individual line items, with detailed cost estimates for each item.
+<br>• The budget will be updated monthly, with any changes clearly highlighted.
+
+<p>Overall, the Cost Management Plan for the Fleeky Hub project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.</p>
+
+<h2>Cost Management Approach</h2>
