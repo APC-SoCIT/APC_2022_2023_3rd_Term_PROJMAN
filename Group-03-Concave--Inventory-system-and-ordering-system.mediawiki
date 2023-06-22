@@ -471,3 +471,45 @@ Change could appear because of new requirements, adapting to business demands, n
 •	Manage the change as it is implemented <br> <br>
 Any accepted changes must be shared with the project stakeholders, according to the project manager. The project manager must also make sure that if changes are authorized, they are recorded in the project documentation as needed. The project team and other stakeholders must then be informed of these document revisions. <br>
 </p>
+
+<h5>CHANGE CONTROL BOARD</h5>
+<p align=" justify">
+The Change Control Board is responsible for reviewing and approving proposed changes. The CCB consists of key stakeholders and decision-makers who assess the impact, risks, and benefits of proposed changes. <br> 
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Position</th>
+    <th>CCB Role</th>
+  </tr>
+  <tr>
+    <td>Maria Theresa Reyes</td>
+    <td>Project Sponsor</td>
+    <td>CCB Chair</td>
+  </tr>
+  <tr>
+    <td>Stefano Franco Binay</td>
+    <td>Project Manager</td>
+    <td>CCB Member</td>
+  </tr>
+  <tr>
+    <td>Ken Angelo Carangan</td>
+    <td>Product Owner</td>
+    <td>CCB Co-Chair</td>
+  </tr>
+  <tr>
+    <td>Marcus Medina</td>
+    <td>Scrum Master/QA</td>
+    <td>CCB Member</td>
+  </tr>
+  <tr>
+    <td>Jan Terence Francisco</td>
+    <td>Developer</td>
+    <td>CCB Member</td>
+  </tr>
+  <tr>
+    <td>Ryan Gabriel Candari</td>
+    <td>Project Documentation Manager</td>
+    <td>CCB Member</td>
+  </tr>
+</table>
