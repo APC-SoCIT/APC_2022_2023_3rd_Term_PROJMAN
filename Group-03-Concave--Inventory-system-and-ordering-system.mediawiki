@@ -924,4 +924,62 @@ Some of the potential risks identified for the IO System project include:   <br>
 
 - Change Management 
  Risk of resistance to system changes or updates, such as adding new categories, brands, products, and/or product quantities. <br><br> </p>
+
+<h4>Risk Registry</h4>
+<p align="justify">
+<table width = "60%" align = "center">
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Risk ID </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Risk Description </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Category </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Likelihood  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Impact</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Mitigation   </font></th>    
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 1 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> System security flaws lead to unauthorized access or data breaches.  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Strengthening security through encryption, access restrictions, and regular audits.</font></th>
+</tr>
+
+<tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 2 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> problems integrating with current systems or outside services.</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Test interfaces, compatibility, and establish clear communication routes for problem resolution.</font></th>
+</tr>
+
+<tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 3 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Data loss or corruption</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Low  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Automated backup, recovery, redundant storage systems, and routine data backups.</font></th>
+</tr>
+
+<tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 4 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> User experience issues can lead to poor adoption and customer dissatisfaction. </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Conduct usability tests, gather user input, and refine interfaces.</font></th>
+</tr>
+
+<tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 5 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Heavy user loads cause performance barriers. </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Load testing, optimize design, code, caching, resource allocation.</font></th>
+</tr>
+
+</table>
  
