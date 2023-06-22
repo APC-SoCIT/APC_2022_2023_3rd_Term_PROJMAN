@@ -1433,3 +1433,193 @@ The SmartBooks project takes a structured approach to manage its scope effective
 <li> <b> Quality Checklists </b> - Lists of criteria used to ensure that the deliverables meet the required quality standards. </li> 
 </ul>
 
+
+= Human Resource Plan =
+
+== Introduction == 
+
+<p> The Human Resources Management Plan is a vital tool for the SmartBooks project. It outlines strategies and processes for acquiring, developing, and managing project personnel. This plan is essential for the project manager and team to effectively handle human resources throughout the project's duration. </p> 
+<p> The plan covers key areas such as talent acquisition, training, performance management, rewards, and compliance. It provides a roadmap for acquiring the right people, enhancing their skills, evaluating their performance, and ensuring regulatory compliance. By following this plan, the project manager and team can align resources with project milestones, optimize resource allocation, and foster a positive work environment. The Human Resources Management Plan is instrumental in ensuring that the project team has the right skills, motivation, and support to successfully deliver the SmartBooks project. </p> 
+
+== Role and Responsibilties == 
+
+<ul> 
+Project Sponsor
+<li> Role: Provides strategic direction and financial support to the project. </li>
+<li> Level of Authority: High authority in decision-making and resource allocation. </li>
+<li> Responsibility: Ensures project alignment with organizational goals and monitors project progress. </li>
+<li> Competency: Strong leadership, decision-making, and strategic planning skills. </li>
+
+Project Manager
+<li> Role: The project manager oversees the entire project, defining objectives, creating plans, assigning tasks, monitoring progress, and addressing issues. They facilitate communication, ensure quality and timely delivery, and report project status to stakeholders. </li>
+<li> Level of Authority: High authority in project-related decisions and resource management. </li>
+<li> Responsibility: Develops project plans, assigns tasks, monitors progress, manages risks, and communicates with stakeholders. </li>
+<li> Competency: Project management expertise, leadership skills, communication, and problem-solving abilities. </li>
+
+
+System Developer:
+<li> Role: System developers design, develop, and implement the automated library management system. They understand requirements, code software components, conduct testing, collaborate with other team members, document processes, and provide support during implementation. </li>
+<li> Level of Authority: Medium authority in technical decisions related to system development. </li>
+<li> Responsibility: Translates requirements into system design, codes software components, conducts testing, and collaborates with other team members </li>
+<li> Competency: Proficiency in software development, programming languages, system design principles, and problem-solving skills. </li>
+
+Data Analyst:
+<li> Role: The data analyst analyzes and interprets data related to book usage, reviews, and metrics. They collect and analyze data, collaborate with stakeholders, generate reports and recommendations, ensure data quality, and assist in testing and validation. </li>
+<li> Level of Authority: Medium authority in data analysis and reporting. </li>
+<li> Responsibility: Identifies relevant data sources, analyzes data, generates reports, and provides insights and recommendations. </li>
+<li> Competency: Strong data analysis skills, knowledge of statistical methods, proficiency in data visualization tools, and attention to detail </li>
+
+== Project Organizational Charts ==
+
+<table> 
+
+<tr> 
+<th> Phase </th>
+<th> Responsibilities </th>
+</tr>
+
+<tr>
+<td> Requirement Analysis </td>
+<td> <ul>
+<li> The project manager will lead the requirement gathering process, ensuring effective communication with stakeholders and understanding their needs. </li>
+<li> The system developer will actively participate in analyzing the requirements and translating them into technical specifications. </li>
+<li> The data analyst will contribute by analyzing existing data and identifying relevant metrics for tracking book usage patterns. </li>
+</ul> </td>
+</tr>
+
+<tr>
+<td> System Design </td>
+<td> <ul>
+<li> The project manager will oversee the system design phase, ensuring alignment with project goals and stakeholder requirements. </li>
+<li> The system developer will take the lead in designing the architecture of the automated library management system, considering scalability and usability. </li>
+<li> The data analyst will provide insights on data structures and integration mechanisms for tracking book usage and reliable reviews. </li>
+</ul> </td>
+</tr>
+
+<tr>
+<td> Development & Testing </td>
+<td> <ul>
+<li> The project manager will coordinate the development and testing activities, ensuring adherence to project timelines and quality standards. </li>
+<li> The system developer will be responsible for implementing the designed system, coding functionalities, and conducting thorough testing. </li>
+<li> The data analyst will collaborate in testing the data analysis components and validating the accuracy and reliability of usage tracking. </li>
+</ul> </td>
+</tr>
+
+<tr>
+<td> Training and Documentation </td>
+<td> <ul>
+<li> The project manager will organize and oversee the training sessions for library staff, ensuring effective transfer of knowledge on system usage </li>
+<li> The system developer will contribute to creating user documentation and guidelines, providing technical insights and instructions. </li>
+<li> The data analyst may provide input on utilizing data analysis features of the system, assisting in training material creation if necessary. </li>
+</ul> </td>
+</tr>
+
+<tr>
+<td> Implementation and Deployment </td>
+<td> <ul>
+<li> The project manager will lead the implementation process, coordinating activities with IT and library staff to ensure a successful rollout. </li>
+<li> The system developer will actively participate in deploying the system, ensuring smooth integration with existing library infrastructure. </li>
+<li> The data analyst will verify the accuracy of data migration and provide support in setting up data tracking mechanisms. </li>
+</ul> </td>
+</tr>
+
+<tr>
+<td> Maintenance and Support: </td>
+<td> <ul>
+<li> The project manager will establish procedures for ongoing maintenance and support, ensuring that system updates and bug fixes are addressed. </li>
+<li> The system developer will provide technical support and address any system-related issues that arise. </li>
+<li> The data analyst may assist in monitoring system performance and analyzing usage data to identify areas for improvement. </li>
+</ul> </td>
+</tr>
+
+</table>
+
+<p> Stakeholders in the SmartBooks project have important roles and responsibilities. They provide input and feedback on project requirements, participate in decision-making, review and approve deliverables, ensure alignment with organizational goals, and provide necessary resources and support. </p>
+
+== Staffing Management ==
+
+<p> The SmartBooks project will acquire human resources based on the project timeline and required skills. Resources will be acquired when needed and released as tasks are completed. Training programs will be provided to address any skill gaps identified in the team. Performance reviews will be conducted periodically to assess individual and team performance. A rewards and recognition system will be implemented to acknowledge and motivate team members. Compliance with government regulations and organizational health and safety will be ensured. The staffing management approach will be communicated and periodically reviewed and adjusted as needed. This strategy aims to have skilled resources, support their development, promote performance excellence, and successfully complete the project. </p>
+
+= Change Management Plan = 
+
+== Introduction == 
+<p> The Change Management Plan for the SmartBooks project outlines how changes will be managed throughout the project. It helps us evaluate and decide on proposed changes, ensuring they align with project goals and minimize risks. The plan provides a framework for effective communication and documentation, allowing us to make informed decisions and keep the project on track. Ultimately, it helps us deliver the SmartBooks project successfully by handling changes in a controlled and organized way. </p>
+
+== Change Control Board ==
+
+<table>
+<tr>
+<th> Change Control Board Role </th>
+<th> Role </th>
+<th> Name </th>
+<th> Contact </th>
+<th> Responsibilities </th>
+</tr>
+
+<tr>
+
+<td> Change Control Board Chair </td>
+<td> Project Sponsor </td>
+<td> Mr. Jojo Castillo </td>
+<td> jojoc@apc.edu.ph </td>
+<td> <ul> 
+<li> Approve changes that align with project goals. </li>
+<li> Ensure changes are within the project budget. </li>
+<li> Review the impact of proposed changes. </li>
+<li> Make final decisions on change requests. </li> </ul> 
+</td>
+
+</tr>
+
+<tr>
+
+<td> Change Control Board Member </td>
+<td> Project Manager  </td>
+<td> Sim Paul Palacio </td>
+<td> snpalacio@student.apc.edu.ph </td>
+<td> <ul> 
+<li> Coordinate the change control process. </li>
+<li> Document and manage change requests. </li>
+<li> Present requests to the CCB. </li>
+<li> Monitor the implementation of approved changes. </li> </ul> 
+</td>
+
+</tr>
+
+<tr>
+
+<td> Change Control Board Member </td>
+<td> System Developer </td>
+<td> Sim Paul Palacio II </td>
+<td> snpalacio@student.apc.edu.ph </td>
+<td> <ul> 
+<li> Assess technical feasibility of changes. </li>
+<li> Provide insights on system impact. </li>
+<li> Collaborate with the CCB on evaluating resources and risks. </li>
+<li> Propose alternative solutions if needed. </li> </ul> 
+</td>
+
+</tr>
+
+<tr>
+
+<tr>
+
+<td> Change Control Board Member </td>
+<td> Data Analyst </td>
+<td> Sim Paul Palacio III </td>
+<td> snpalacio@student.apc.edu.ph </td>
+<td> <ul> 
+<li> Evaluate data-related impact of changes. </li>
+<li> Assess feasibility in data management and analysis. </li>
+<li> Contribute to decision-making on change requests. </li> </ul> 
+</td>
+
+</tr>
+
+</table>
+
+
+
+
+
