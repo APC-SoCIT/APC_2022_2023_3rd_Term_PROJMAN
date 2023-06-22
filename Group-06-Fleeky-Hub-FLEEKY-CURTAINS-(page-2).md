@@ -155,138 +155,6 @@ Obtain formal acceptance from the client that the project deliverables meet thei
 </li>
 </ol>
 
-<h2> Scope Control </h2>
-
-<p>Project Name: Fleeky Hub: Website Development Project <br>
-Project Manager: Pallas Dale Fontiveros <br>
-<p>Scope Control Document</p>
-
-<p>1.0 Purpose</p>
-<p>This document's goal is to outline the scope control procedure for the project to develop the Fleeky Curtains website. </p>
-
-<p>2.0 Scope Baseline</p>
-<p>The project charter, project management plan, and other project paperwork all provide information on the project's scope baseline. The change control procedure must be followed to authorize any modifications to the project's scope. </p>
-
-<p>3.0 Scope Control Process</p>
-<p>The following phases make up the scope control procedure for the Fleeky Curtains website development project: </p>
-
-<p>3.1 Monitor the Project Scope</p> 
-<p>The project team will keep an eye on the project scope throughout the whole project lifespan to make sure it stays in line with the project goals and organizational requirements. The project manager is in charge of keeping an eye on the project's scope and making any required updates to the project documents. </p>
-
-<p>3.2 Verify Scope </p>
-<p>After each project phase or milestone is finished, the project team will confirm the project's scope. To make sure the finished work satisfies the project's criteria, deliverables, and objectives, the project manager will examine it. </p>
-
-<p>3.3 Control Scope </p>
-<p>The change control procedure must be followed in order to authorize any modifications to the project's scope. Any suggested modifications to the project scope will be identified and assessed by the project team, and the project manager will examine and either accept or reject the change request. All project stakeholders will be informed of approved changes, which will then be recorded in the project documentation. </p>
-
-<p>4.0 Scope Control Roles and Responsibilities </p>
-<p>The scope control process involves the roles and tasks listed below: </p>
-<ul>
-<li>
-Project manager: accountable for overseeing, validating, and managing the project's scope. 
-</li>
-<li>
-The project team: is in charge of locating and assessing any suggested modifications to the project's scope. 
-</li>
-<li>
-The project sponsor is in charge of authorizing any scope adjustments. 
-</li>
-</ul>
- 
-<p>5.0 Scope Control Change Request Form </p>
-<p>The change control procedure must be followed in order to authorize any modifications to the project's scope. The scope control change request form has to contain the following details: </p>
-<ul>
-<li>
-Modify the description 
-</li>
-<li>
-The change's motivation 
-</li>
-<li>
-Effect on project deliverables, needs, and objectives 
-</li>
-<li>
-A suggested solution 
-</li>
-<li>
-Estimated impact on costs and timeline 
-</li>
-<li>
-Signed authorizations 
-</li>
-</ul>
-
-
-
-
-
-
-
-=Work Breakdown Structure=
-
-<h2>Introduction</h2>
-<p>The Work Breakdown Structure is breakdown of all the work packages necessary to complete, presented here represents all the work required to complete this project. A WBS is constructed Outline View Structure to develop to easily navigate and understand the structure how to accomplish this project, it also represents the work identified in the approved Project Scope Statement and serves as an Initial Schedule Development and Cost Estimating. We do the WBS is help more accurately and specifically define and organize the scope of the whole project. Also, to help with assigning responsibilities, resource allocation, monitoring and controlling the project.</p>
-<h2><strong>Outline View</strong></h2>
-<li>Just-In-Time E-Commerce Website
-<ul>
-<ul>Initiation
-<ul>
-<ul>Determine Project Team</ul>
-<ul>Develop Project Charter</ul>
-<ul><em>Deliverable:</em> Submit Project Charter</ul>
-<ul>Project Sponsor Reviews Project Charter</ul>
-<ul>Project Charter Signed/Approved</ul>
-<ul><em>Deliverable:</em> Work Breakdown Structure</ul>
-</ul>
-</ul>
-<ul>Planning
-<ul>
-<ul>Create Preliminary Scope Statement</ul>
-<ul>Project Team Initial Meeting</ul>
-<ul><em>Deliverable:</em> Stakeholder Management Plan</ul>
-<ul><em>Deliverable:</em> Schedule Management Plan</ul>
-<ul><em>Deliverable:</em> Cost Management Plan</ul>
-<ul>Submit Deliverables</ul>
-<ul>Project Team Meeting</ul>
-<ul><em>Milestone:</em> Project Plan Approval</ul>
-</ul>
-</ul>
-<ul>Execution
-<ul>
-<ul>Project Team Meeting</ul>
-<ul>Verify &amp; Validate Stakeholder Requirements</ul>
-<ul>Design System</ul>
-<ul>Procure Hardware/Software</ul>
-<ul>Install Development System</ul>
-<ul>Sprint Planning Meeting</ul>
-<ul>Create Sprint Backlog</ul>
-<ul>Develop Sprint Backlog Items (Daily Scrum)</ul>
-<ul>Sprint Review Meeting</ul>
-<ul>Sprint Retrospective Meeting</ul>
-<ul>Integration to Cloud Server</ul>
-</ul>
-</ul>
-<ul>Control
-<ul>
-<ul>Quality Assurance Control</ul>
-<ul>Project Management</ul>
-<ul>Project Status Meetings</ul>
-<ul>Risk Management</ul>
-<ul>Update Project Management Plan</ul>
-</ul>
-</ul>
-<ul>Closeout
-<ul>
-<ul>Audit Procurement</ul>
-<ul>Document Lessons Learned</ul>
-<ul>Update Files/Records</ul>
-<ul>Gain Formal Acceptance</ul>
-<ul>Archive Files/Documents</ul>
-</ul>
-</ul>
-</ul>
-
-
 
 <h2>WBS Dictionary</h2>
   <table>
@@ -970,4 +838,135 @@ Obtain formal acceptance from the client that the project deliverables meet thei
     </tr>
 </table>
 <p>By creating a clear scope baseline, Fleeky Curtains can make sure that everyone participating in the project is aware of its goals, deliverables, and requirements and that they can collaborate productively to get there.</p>
+
+<h2> Scope Control </h2>
+
+<p>Project Name: Fleeky Hub: Website Development Project <br>
+Project Manager: Pallas Dale Fontiveros <br>
+<p>Scope Control Document</p>
+
+<p>1.0 Purpose</p>
+<p>This document's goal is to outline the scope control procedure for the project to develop the Fleeky Curtains website. </p>
+
+<p>2.0 Scope Baseline</p>
+<p>The project charter, project management plan, and other project paperwork all provide information on the project's scope baseline. The change control procedure must be followed to authorize any modifications to the project's scope. </p>
+
+<p>3.0 Scope Control Process</p>
+<p>The following phases make up the scope control procedure for the Fleeky Curtains website development project: </p>
+
+<p>3.1 Monitor the Project Scope</p> 
+<p>The project team will keep an eye on the project scope throughout the whole project lifespan to make sure it stays in line with the project goals and organizational requirements. The project manager is in charge of keeping an eye on the project's scope and making any required updates to the project documents. </p>
+
+<p>3.2 Verify Scope </p>
+<p>After each project phase or milestone is finished, the project team will confirm the project's scope. To make sure the finished work satisfies the project's criteria, deliverables, and objectives, the project manager will examine it. </p>
+
+<p>3.3 Control Scope </p>
+<p>The change control procedure must be followed in order to authorize any modifications to the project's scope. Any suggested modifications to the project scope will be identified and assessed by the project team, and the project manager will examine and either accept or reject the change request. All project stakeholders will be informed of approved changes, which will then be recorded in the project documentation. </p>
+
+<p>4.0 Scope Control Roles and Responsibilities </p>
+<p>The scope control process involves the roles and tasks listed below: </p>
+<ul>
+<li>
+Project manager: accountable for overseeing, validating, and managing the project's scope. 
+</li>
+<li>
+The project team: is in charge of locating and assessing any suggested modifications to the project's scope. 
+</li>
+<li>
+The project sponsor is in charge of authorizing any scope adjustments. 
+</li>
+</ul>
+ 
+<p>5.0 Scope Control Change Request Form </p>
+<p>The change control procedure must be followed in order to authorize any modifications to the project's scope. The scope control change request form has to contain the following details: </p>
+<ul>
+<li>
+Modify the description 
+</li>
+<li>
+The change's motivation 
+</li>
+<li>
+Effect on project deliverables, needs, and objectives 
+</li>
+<li>
+A suggested solution 
+</li>
+<li>
+Estimated impact on costs and timeline 
+</li>
+<li>
+Signed authorizations 
+</li>
+</ul>
+
+
+
+
+
+
+
+=Work Breakdown Structure=
+
+<h2>Introduction</h2>
+<p>The Work Breakdown Structure is breakdown of all the work packages necessary to complete, presented here represents all the work required to complete this project. A WBS is constructed Outline View Structure to develop to easily navigate and understand the structure how to accomplish this project, it also represents the work identified in the approved Project Scope Statement and serves as an Initial Schedule Development and Cost Estimating. We do the WBS is help more accurately and specifically define and organize the scope of the whole project. Also, to help with assigning responsibilities, resource allocation, monitoring and controlling the project.</p>
+<h2><strong>Outline View</strong></h2>
+<li>Just-In-Time E-Commerce Website
+<ul>
+<ul>Initiation
+<ul>
+<ul>Determine Project Team</ul>
+<ul>Develop Project Charter</ul>
+<ul><em>Deliverable:</em> Submit Project Charter</ul>
+<ul>Project Sponsor Reviews Project Charter</ul>
+<ul>Project Charter Signed/Approved</ul>
+<ul><em>Deliverable:</em> Work Breakdown Structure</ul>
+</ul>
+</ul>
+<ul>Planning
+<ul>
+<ul>Create Preliminary Scope Statement</ul>
+<ul>Project Team Initial Meeting</ul>
+<ul><em>Deliverable:</em> Stakeholder Management Plan</ul>
+<ul><em>Deliverable:</em> Schedule Management Plan</ul>
+<ul><em>Deliverable:</em> Cost Management Plan</ul>
+<ul>Submit Deliverables</ul>
+<ul>Project Team Meeting</ul>
+<ul><em>Milestone:</em> Project Plan Approval</ul>
+</ul>
+</ul>
+<ul>Execution
+<ul>
+<ul>Project Team Meeting</ul>
+<ul>Verify &amp; Validate Stakeholder Requirements</ul>
+<ul>Design System</ul>
+<ul>Procure Hardware/Software</ul>
+<ul>Install Development System</ul>
+<ul>Sprint Planning Meeting</ul>
+<ul>Create Sprint Backlog</ul>
+<ul>Develop Sprint Backlog Items (Daily Scrum)</ul>
+<ul>Sprint Review Meeting</ul>
+<ul>Sprint Retrospective Meeting</ul>
+<ul>Integration to Cloud Server</ul>
+</ul>
+</ul>
+<ul>Control
+<ul>
+<ul>Quality Assurance Control</ul>
+<ul>Project Management</ul>
+<ul>Project Status Meetings</ul>
+<ul>Risk Management</ul>
+<ul>Update Project Management Plan</ul>
+</ul>
+</ul>
+<ul>Closeout
+<ul>
+<ul>Audit Procurement</ul>
+<ul>Document Lessons Learned</ul>
+<ul>Update Files/Records</ul>
+<ul>Gain Formal Acceptance</ul>
+<ul>Archive Files/Documents</ul>
+</ul>
+</ul>
+</ul>
 
