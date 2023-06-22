@@ -559,6 +559,52 @@ review the change request log and reports to ensure alignment with changes.</td>
 <h5>CHANGE CONTROL PROCESS</h5>
 <p align=" justify">
 The Change Control Process outlines the procedures throughout the project. It ensures that changes are properly evaluated, approved, and implemented in a controlled and systematic manner. The process typically involves the following stages:  <br> <br>
-Change Identification → Change Evaluation → Change Approval → Change Implementation → Change Documentation <br> </p>
+Change Identification → Change Evaluation → Change Approval → Change Implementation → Change Documentation <br> <br> </p>
 
-
+<table>
+  <tr>
+    <th>Process step</th>
+    <th>Description</th>
+    <th>Change Log Status</th>
+  </tr>
+  <tr>
+    <td>Change Identification  </td>
+    <td>1. The Project Manager and sponsor will fill out and submits the 
+  	change request form to initiate the request.</td>
+    <td> Submitted</td>
+  </tr>
+  <tr>
+    <td>Change Evaluation</td>
+    <td>1.	 After receiving the request, the Project Manager, QA, and Product Owner will assess the impact of the change request. <br>
+2.	If the impact is high, the Project Manager will then prepare a recommendation to approve. <br>
+3.	The Change Coordinator will update the   <br>
+Change Log and create a Change Status Report.    
+</td>
+    <td>In Review    
+</td>
+  </tr>
+  <tr>
+    <td>Change Approval </td>
+    <td>1. Product Owner can accept or reject an approval. </td>
+    <td>Approved or denied </td>
+  </tr>
+  <tr>
+    <td>Change Implementation</td>
+    <td>1.	After the approval the changes are subject to be implemented in the system. </td>
+    <td> In Progress </td>
+  </tr>
+  <tr>
+    <td>Change Documentation   </td>
+    <td>1.	Project Manager verifies that the changehas been implemented and reports to the Change Control Board. <br>
+2.	The Change Coordinator will update the change Log and create a Change Status Report.<br>    
+</td>
+    <td>    Verifying    
+</td>
+  </tr>
+  <tr>
+    <td>Change Request Closure    
+</td>
+    <td>The Change Coordinator will send out the final Change Status Report across the team and stakeholders.</td>
+    <td>Closed </td>
+  </tr>
+</table>
