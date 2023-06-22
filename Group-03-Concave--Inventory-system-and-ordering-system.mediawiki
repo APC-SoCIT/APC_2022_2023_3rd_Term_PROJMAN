@@ -617,30 +617,90 @@ Change Log and create a Change Status Report.
   </tr>
   <tr>
     <td>Submitted</td>
-    <td>A member of the project development team or key stakeholders submitted a change request log and has not been reviewed by the Project Manager for impact analysis.</td>
+    <td>A change request log was submitted by a member of the project development team or by important stakeholders; the project manager has not yet evaluated for impact analysis</td>
   </tr>
   <tr>
     <td>In Review </td>
-    <td>Impact analysis is being performed.</td>
+    <td>Impact analysis is currently being done.</td>
   </tr>
   <tr>
     <td>Approved</td>
-    <td>Change request is approved and will be moved to implementation.</td>
+    <td>The change request has been approved and will now be implemented.</td>
   </tr>
   <tr>
     <td>Denied </td>
-    <td>Change request is denied.</td>
+    <td>The Change request is denied.</td>
   </tr>
   <tr>
     <td>Change request is denied.</td>
-    <td>Action plan to execute the change request is being implemented</td>
+    <td>The changes to the request's action plan is being implemented</td>
   </tr>
   <tr>
     <td>Verifying </td>
-    <td>Review of proper implementation of change request    </td>
+    <td>Review of proper implementation of change request</td>
   </tr>
   <tr>
     <td>Closed  </td>
-    <td>Chang request work is complete, has passed all tests, and updates have been released.    </td>
+    <td>Updates have been made available after the change request work was finished and all tests were passed.</td>
+  </tr>
+</table>
+
+<h1>Staffing Management Plan</h1>
+<h5>Introduction</h5>
+<p align=" justify">
+The human resource management strategy is critical for finding, assigning, and managing resources are described in the staffing management plan. It guarantees that the correct people with the necessary experience and abilities are given project roles and responsibilities. This strategy is to maximize resource use, encourage good communication, and support the project's successful execution. <br>
+By following this plan, the product owner and development team can successfully manage the project by making sure that everyone on the team is aware of their respective roles and responsibilities, that communication is clear and effective, and that performance is tracked and managed in a way that supports the project's success. <br> <br>  
+
+<h5>Roles and Responsibilities</h5> 
+An effective human resources management plan is crucial for the successful completion of any project. The terms "roles and responsibilities" are used to describe the tasks, obligations, and areas of responsibility given to people or teams working on the project. These roles and duties are crucial for the project's successful execution and seamless execution. Roles and duties in consolidated project management are described as follows: <br> <br></p>
+
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Authority</th>
+    <th>Responsibility</th>
+    <th>Competency</th>
+  </tr>
+  <tr>
+    <td>Project Sponsor</td>
+    <td>The one’s responsible for initiating, ensuring, and approving of the project.</td>
+    <td>Ensures that the project funding model and approves sources of financing. Assists the team and the product owner.</td>
+    <th>Maintaining strong leadership qualities and the capacity for strategic thought, as well as the capacity for effective stakeholder communication.</th>
+  </tr>
+  <tr>
+    <td>Product Owner</td>
+    <td>Has the authority to make decisions regarding the product backlog, product vision and the prioritization of requirements and features.</td>
+    <td>To represent the interests of the stakeholders and ensure that the product meets their needs and expectations. They are responsible for defining and prioritizing the product backlog, ensuring that it is visible, transparent, and understood by the development team.   </td>
+    <th>The Product Owner should have the ability to prioritize effectively, balancing competing interests and managing the product backlog to maximize value.  </th>
+  </tr>
+  <tr>
+    <td>Project Manager</td>
+    <td>Making the decision for the project and responsible for designating task</td>
+    <td>Control and oversee all aspects of the project, including its planning, requirements gathering, system design, system development, implementation, and project management. Make sure that the project’s goals are attained on schedule, within budget, and with the appropriate level of quality.</td>
+    <th>Has a solid understanding of project management principles, methodologies, and best practices</th>
+  </tr>
+  <tr>
+    <td>Project Documentation Manager</td>
+    <td>The Project Documentation Manager has the authority to establish and enforce documents management policies and procedures within the project </td>
+    <td>The Documentation Manager is responsible for planning the documentation activities throughout the project lifecycle. This includes identifying documentation needs, setting priorities, and establishing timelines </td>
+    <th>The Documentation Manager should possess strong writing skills, technical understanding, and knowledge of industry-specific documentation standards. </th>
+  </tr>
+  <tr>
+    <td>Scrum Master</td>
+    <td>The Scrum Master has the authority to facilitate the Scrum process, ensuring that the team adheres to Agile principles and follows Scrum practices. </td>
+    <td>The primary responsibility of a Scrum Master is to facilitate the Scrum process, including organizing and facilitating Scrum events to ensure effective collaboration and progress </td>
+    <th>The Scrum Master must have a deep understanding of Agile principles and Scum practices. They should be well-versed in Scrum artifacts, ceremonies, and roles. </th>
+  </tr>
+  <tr>
+    <td>Quality Assurance</td>
+    <td>Has the authority to ensure that established quality standards, processes, and methodologies are followed throughout the project lifecycle.</td>
+    <td>Perform various types of testing, such as functional testing, integration testing, performance testing, and user acceptance testing, to ensure software quality.</td>
+    <th>Effective communication and collaboration skills to work closely with development teams, stakeholders, and other project members.</th>
+  </tr>
+  <tr>
+    <td>Developer</td>
+    <td>Developers have the authority to identify and resolve technical issues, bugs, and challenges encountered during the development process.</td>
+    <td>Collaborate with team members, including business analysts, designers, and testers, to ensure effective coordination and delivery of project tasks.</td>
+    <th>Areas enables a developer to effectively carry out their responsibilities, contribute to the successful implementation of software solutions, and ensure the delivery of reliable and high-quality software.</th>
   </tr>
 </table>
