@@ -608,3 +608,39 @@ Change Log and create a Change Status Report.
     <td>Closed </td>
   </tr>
 </table>
+<br><br> To keep track of the change request progress, each step has a corresponding change request status as show on the table below: <br> <br>
+
+<table>
+  <tr>
+    <th>Status</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Submitted</td>
+    <td>A member of the project development team or key stakeholders submitted a change request log and has not been reviewed by the Project Manager for impact analysis.</td>
+  </tr>
+  <tr>
+    <td>In Review </td>
+    <td>Impact analysis is being performed.</td>
+  </tr>
+  <tr>
+    <td>Approved</td>
+    <td>Change request is approved and will be moved to implementation.</td>
+  </tr>
+  <tr>
+    <td>Denied </td>
+    <td>Change request is denied.</td>
+  </tr>
+  <tr>
+    <td>Change request is denied.</td>
+    <td>Action plan to execute the change request is being implemented</td>
+  </tr>
+  <tr>
+    <td>Verifying </td>
+    <td>Review of proper implementation of change request    </td>
+  </tr>
+  <tr>
+    <td>Closed  </td>
+    <td>Chang request work is complete, has passed all tests, and updates have been released.    </td>
+  </tr>
+</table>
