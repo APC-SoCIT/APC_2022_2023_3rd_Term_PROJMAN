@@ -350,3 +350,99 @@ When designing a reporting format for an inventory and ordering system, it's imp
 6.Forecast Data: Include data on forecasted demand, including historical sales data and market trends. This data can help the operations team plan inventory levels and optimize the ordering process. <br> <br>
 7.Alert Data: Include any alerts related to inventory or ordering issues, such as stockouts, low inventory levels, or delayed orders. This data can help the operations team address issues quickly and avoid disruptions to operations. <br> <br>
 By including these key elements in the reporting format for an inventory and ordering system, stakeholders can gain insights into inventory levels, sales data, order data, and cost data. This information can help teams make informed decisions, optimize operations, and improve overall efficiency.
+<h5>COST VARIANCE RESPONSE PROCESS</h5>
+<p align="justify">
+Here is a detailed cost variance response process for an inventory and ordering system: <br><br>
+•Identify the variance: Compare the actual costs incurred with the budgeted costs to identify the variance.<br> <br>
+•Analyze the cause: Investigate the root cause of the variance, including any deviations from the plan, changes in demand, supplier issues, or unexpected costs. <br><br>
+•Assess the impact: Determine the impact of the variance on the project's overall budget, timeline, and quality.<br><br>
+•Develop a plan: Develop a plan to address the cost variance. The plan may involve making changes to the inventory and ordering system, negotiating with suppliers, or adjusting the budget. <br><br>
+•Evaluate the plan: Evaluate the plan for its effectiveness, feasibility, and impact on the project. Consider the risks, costs, and benefits of implementing the plan. <br><br>
+•Implement the plan: Implement the plan as quickly and efficiently as possible. This may involve making changes to the inventory and ordering system, communicating with suppliers, or making other adjustments. <br><br>
+•Monitor and report: Monitor the results of the plan and report on progress. Track key metrics, such as inventory levels, order volume, and cost savings, and report regularly to stakeholders. <br><br>
+•Re-evaluate and adjust: If the cost variance persists, re-evaluate the plan and make further adjustments. Consider alternative approaches and seek input from stakeholders. <br><br>
+By following this cost variance response process, you can effectively manage cost variance for an inventory and ordering system and ensure that the project stays on track financially.
+<h5>COST CHANGE CONTROL PROCESS</h5>
+<p align="justify">
+A cost change control process is necessary to manage changes to the cost baseline of a project, including changes to the inventory and ordering system. Here's a process for managing cost changes in an inventory and ordering system: <br> <br> 
+1.Identify the change: The first step is to identify the proposed change to the inventory and ordering system. This may include changes to the system itself, changes in demand, or changes in supplier costs. <br> <br>
+2.Assess the impact: Determine the impact of the proposed change on the project's budget, schedule, and quality. Consider the risks, benefits, and costs associated with the proposed change. <br> <br>
+3.Evaluate alternatives: Consider alternative approaches to the proposed change, such as using a different supplier or changing the inventory management strategy. Evaluate each alternative for its feasibility, effectiveness, and impact on the project. <br> <br>
+4.Develop a plan: Based on the assessment and evaluation, develop a plan for managing the proposed change. This may involve adjusting the budget, renegotiating contracts, or changing the project schedule. <br> <br>
+5.Obtain approvals: Obtain approvals from key stakeholders, including the project sponsor, project manager, and any other stakeholders impacted by the change. Document the approvals in the project management plan. <br> <br>
+6.Implement the change: Once the change is approved, implement it as quickly and efficiently as possible. Communicate the change to all stakeholders and update the project management plan accordingly. <br> <br>
+7.Monitor and report: Monitor the results of the change and report on progress. Track key metrics, such as inventory levels, order volume, and cost savings, and report regularly to stakeholders. <br> <br>
+8.Re-evaluate and adjust: If the change does not have the intended impact, re-evaluate the plan and make further adjustments. Consider alternative approaches and seek input from stakeholders. <br> <br>
+By following this cost change control process, you can effectively manage changes to the cost baseline of an inventory and ordering system and ensure that the project stays on track financially. <br> <br>
+<h5>PROJECT BUDGET</h5>
+<p align="justify">
+The budget for this project is detailed below.  Costs for this project are presented in various categories...
+<table width = "60%" align = "center">
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> PRODUCT</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> PRICE</font></th>   
+
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Manpower Cost </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱238,788.75 </font></th>
+
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Maintenance Cost </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱15,000.00 </font></th></tr>
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Contingency Cost </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱114,204.94 </font></th></tr>
+</tr>
+
+<tr>
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Total Project Budget </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> ₱367,993.69 </font></th></tr>
+</tr>
+<br>
+</table>
+<h1>Work Breakdown Structure</h1>
+<p align=" justify">
+Work breakdown structure is a tool in project management to divide larges projects to get things done faster and efficiently. The WBS structure gives a clear knowledge of the project scope, deliverables, and activities at each level, representing an increasingly precise description of the project work. The work breakdown structure (WBS) acts as a roadmap for project managers to plan, execute, and monitor project activities, and it helps to guarantee that all project requirements are satisfied within the time and budget constraints.
+
+The Work Breakdown Structure presented here represents all the work required to complete this project.</p>
+
+OUTLINE VIEW
+The outline view presents an easy to view and understand layout for the Ordering system and Inventory system.  <br> <br>
+
+1.	Ordering System and Inventory System<br>
+1.1	Project Planning<br>
+1.1.1	Define project scope and objectives <br>
+1.1.2	Identify project stakeholders <br>
+1.1.3	Develop project schedule <br>
+1.1.4	Define project budget <br>
+1.1.5	Establish project team roles and responsibilities<br>
+1.2	Requirements Gathering <br>
+1.2.1	Define system requirements<br>
+1.2.2	Identify inventory system requirements<br>
+1.2.3	Identify ordering system requirements<br>
+1.2.4	Define user requirements<br>
+1.2.5	Conduct stakeholder interviews<br>
+1.3	System Design<br>
+1.3.1	Design ordering system<br> 
+1.3.2	Design inventory system<br>
+1.3.3	Define user interface design<br>
+1.3.4	Determine software and hardware requirements<br>
+1.3.5	Develop system architecture<br>
+1.4	System Development<br>
+1.4.1	Code ordering system<br>
+1.4.2	Code inventory system<br>
+1.4.3	Integrate system components<br>
+1.4.4	Develop test plans<br>
+1.4.5	Conduct testing<br>
+1.5	System Implementation<br>
+1.5.1	Deploy system in test environment<br>
+1.5.2	Train system users<br>
+1.5.3	Resolve any issues found during testing<br>
+1.5.4	Deploy system in production environment<br>
+1.5.5	Perform system maintenance and support<br>
+1.6	Project Management<br>
+1.6.1	Monitor and control project progress<br>
+1.6.2	Manage project risk and issues<br>
+1.6.3	Communicate project status to stakeholders<br>
+1.6.4	Ensure project deliverables meet quality standards<br>
+1.6.5	Obtain project acceptance from stakeholders
