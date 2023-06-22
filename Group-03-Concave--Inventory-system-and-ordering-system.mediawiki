@@ -93,16 +93,19 @@ An Inventory System and Ordering System for Torrecamps Company is necessary to a
 
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Jan Terence Francisco </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Developer </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">The responsibility of a developer is to write, test, and maintain code that meets the project's requirements and is of high quality.</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">Ensures that the  
+Developing and implementing the project's software or application according to the defined requirements.
+</font></th>
 
 <tr>
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Marcus Medina </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Scrum Master/QA </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">Oversee the project`s process improvement.</font></th></tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">They provide coaching and guidance to the team members on self-organization, cross-functionality, and continuous improvement. Perform various types of testing, such as functional testing, integration testing, performance testing, and user acceptance testing, to ensure software quality.
+</font></th></tr>
 <tr>
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Ryan Gabriele Candari </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Project Documentation Manager </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">Oversee the project`s process improvement.</font></th></tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">Create, review, edit, and manage project documentation such as project plans, requirements documents, user manuals, technical specifications, and other relevant documentation</font></th></tr>
 <tr>
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Mr. Jabb Torrecampo & Ms. Maria Theresa Reyes  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Project Sponsor </font></th>
@@ -110,7 +113,7 @@ An Inventory System and Ordering System for Torrecamps Company is necessary to a
 </tr>
 <th text-align = "left" width="220" height = "40"><font color = " #000000"> Ken Angelo Carangan </font></th>
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> Product Owner </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">Oversee the project`s process improvement</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">Ensuring that the product meets the needs and expectations of stakeholders</font></th>
 <br>
 </table>
 <h1>Problem Definition</h1>
