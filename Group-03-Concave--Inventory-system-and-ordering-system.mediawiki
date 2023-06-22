@@ -375,39 +375,39 @@ In situations where the scope changes most if not all parts of the project needs
 
 <h5>COST MANAGEMENT APPROACH</h5>
 <p align="justify">
-A cost management approach for an inventory and ordering system would involve a set of practices and procedures designed to optimize inventory levels, reduce costs associated with ordering, and improve overall efficiency. Here are some key steps you would take to develop a cost management approach for an inventory and ordering system:
+A cost management approach for an inventory and ordering system would involve a set of practices and procedures designed to optimize inventory levels, reduce costs associated with ordering, and improve overall efficiency. Here are some key steps you would take to develop a cost management approach for an inventory and ordering system: <br> <br> <br>
 
-1.Analyze inventory levels: Start by reviewing your current inventory levels and identifying any excess or obsolete inventory. This will help you determine the optimal inventory levels for your business. <br>
+1.Analyze inventory levels: Start by reviewing your current inventory levels and identifying any excess or obsolete inventory. This will help you determine the optimal inventory levels for your business. <br> <br>
 
-2.Forecast demand: Use historical sales data and market trends to forecast demand for your products. This will help you order the right amount of inventory at the right time, avoiding stockouts and excess inventory. <br>
+2.Forecast demand: Use historical sales data and market trends to forecast demand for your products. This will help you order the right amount of inventory at the right time, avoiding stockouts and excess inventory. <br> <br>
 
-3.Set reorder points: Establish reorder points for each product based on demand forecasts and lead times. This will help you know when to reorder to avoid stockouts and minimize the need for rush orders. <br>
+3.Set reorder points: Establish reorder points for each product based on demand forecasts and lead times. This will help you know when to reorder to avoid stockouts and minimize the need for rush orders. <br> <br>
 
-4.Evaluate suppliers: Review your supplier relationships and negotiate better pricing and terms where possible. Consider consolidating orders with fewer suppliers to reduce administrative costs. <br>
+4.Evaluate suppliers: Review your supplier relationships and negotiate better pricing and terms where possible. Consider consolidating orders with fewer suppliers to reduce administrative costs. <br> <br>
 
-5.Implement inventory tracking: Implement an inventory tracking system to monitor inventory levels and ensure accuracy. This will help you identify potential issues such as overstocking or stockouts. <br>
+5.Implement inventory tracking: Implement an inventory tracking system to monitor inventory levels and ensure accuracy. This will help you identify potential issues such as overstocking or stockouts. <br> <br>
 
-6.Use technology: Consider implementing technology such as automated ordering systems <br>
+6.Use technology: Consider implementing technology such as automated ordering systems <br> <br>
 
-7.Continuously monitor and adjust: Continuously monitor your inventory and ordering processes and make adjustments as needed to improve efficiency and reduce costs. <br>
+7.Continuously monitor and adjust: Continuously monitor your inventory and ordering processes and make adjustments as needed to improve efficiency and reduce costs. <br> <br>
 
-By following these steps, we can develop a cost management approach for our inventory and ordering system that helps us optimize inventory levels, reduce costs, and improve efficiency. <br>
+By following these steps, we can develop a cost management approach for our inventory and ordering system that helps us optimize inventory levels, reduce costs, and improve efficiency. <br> <br>
 
 <h5>MEASURING PROJECT COSTS</h5>
 <p align="justify">
-To measure the project cost for an inventory and ordering system, you should consider the following cost categories:
+To measure the project cost for an inventory and ordering system, you should consider the following cost categories: <br> <br> <br>
 
-•Development Costs: This includes the cost of software development, database design, hardware procurement, and any other expenses related to building the inventory and ordering system.
+•Development Costs: This includes the cost of software development, database design, hardware procurement, and any other expenses related to building the inventory and ordering system. <br> <br>
 
-•Implementation Costs: This includes the cost of installing the inventory and ordering system, configuring it, and integrating it with other systems.
+•Implementation Costs: This includes the cost of installing the inventory and ordering system, configuring it, and integrating it with other systems. <br>
 
-•Training Costs: This includes the cost of training employees on how to use the inventory and ordering system, including any training materials or manuals.
+•Training Costs: This includes the cost of training employees on how to use the inventory and ordering system, including any training materials or manuals. <br>
 
-•Maintenance Costs: This includes the cost of ongoing system maintenance, including software updates, hardware upgrades, and any necessary repairs.
+•Maintenance Costs: This includes the cost of ongoing system maintenance, including software updates, hardware upgrades, and any necessary repairs. <br>
 
-•Operating Costs: This includes the cost of running the inventory and ordering system, including any software licenses, hosting fees, and other operating expenses.
+•Operating Costs: This includes the cost of running the inventory and ordering system, including any software licenses, hosting fees, and other operating expenses. <br>
 
-To measure the project cost, you should estimate the cost for each of these categories and add them together. You can also break down the costs into more detailed subcategories, such as labor costs, equipment costs, and software costs, to get a more accurate estimate.
+To measure the project cost, you should estimate the cost for each of these categories and add them together. You can also break down the costs into more detailed subcategories, such as labor costs, equipment costs, and software costs, to get a more accurate estimate. 
 
 It's also important to note that the project cost is not a one-time expense; there will be ongoing expenses associated with the inventory and ordering system, including maintenance and operating costs. Therefore, it's essential to factor in these ongoing costs when determining the project's total cost.
 
@@ -415,19 +415,19 @@ By accurately measuring the project cost, you can ensure that the project is fin
 
 <h5>REPORTING FORMAT</h5>
 <p align="justify">
-When designing a reporting format for an inventory and ordering system, it's important to consider the needs of different stakeholders, including management, operations, and finance teams. Here are some key elements to include in a reporting format for an inventory and ordering system: <br> <br>
+When designing a reporting format for an inventory and ordering system, it's important to consider the needs of different stakeholders, including management, operations, and finance teams. Here are some key elements to include in a reporting format for an inventory and ordering system: <br> <br> <br>
 
-1.Inventory Levels: Include data on current inventory levels, including stock on hand, stock in transit, and reorder levels. This data can help the operations team manage inventory and avoid stockouts. <br> 
+1.Inventory Levels: Include data on current inventory levels, including stock on hand, stock in transit, and reorder levels. This data can help the operations team manage inventory and avoid stockouts. <br> <br>
 
-2.Inventory Turnover: Include data on inventory turnover, which is the number of times inventory is sold and replaced within a period. This metric can help the finance team assess inventory efficiency and profitability. <br>
+2.Inventory Turnover: Include data on inventory turnover, which is the number of times inventory is sold and replaced within a period. This metric can help the finance team assess inventory efficiency and profitability. <br> <br>
 
-3.Sales Data: Include data on sales by product, location, and channel. This data can help the management team understand which products are selling well and which ones need to be reordered or discontinued. <br>
+3.Sales Data: Include data on sales by product, location, and channel. This data can help the management team understand which products are selling well and which ones need to be reordered or discontinued. <br> <br>
 
-4.Order Data: Include data on order volume, order frequency, and order lead time. This data can help the operations team optimize the ordering process and reduce costs. <br>
+4.Order Data: Include data on order volume, order frequency, and order lead time. This data can help the operations team optimize the ordering process and reduce costs. <br> <br>
 
-5.Cost Data: Include data on the cost of goods sold, including the cost of inventory, transportation, and any other associated costs. This data can help the finance team assess profitability and make informed pricing decisions. <br>
+5.Cost Data: Include data on the cost of goods sold, including the cost of inventory, transportation, and any other associated costs. This data can help the finance team assess profitability and make informed pricing decisions. <br> <br>
 
-6.Forecast Data: Include data on forecasted demand, including historical sales data and market trends. This data can help the operations team plan inventory levels and optimize the ordering process. <br>
+6.Forecast Data: Include data on forecasted demand, including historical sales data and market trends. This data can help the operations team plan inventory levels and optimize the ordering process. <br> <br>
 
 7.Alert Data: Include any alerts related to inventory or ordering issues, such as stockouts, low inventory levels, or delayed orders. This data can help the operations team address issues quickly and avoid disruptions to operations. <br> <br>
 
@@ -435,7 +435,7 @@ By including these key elements in the reporting format for an inventory and ord
 
 <h5>COST VARIANCE RESPONSE PROCESS</h5>
 <p align="justify">
-Here is a detailed cost variance response process for an inventory and ordering system:
+Here is a detailed cost variance response process for an inventory and ordering system: <br><br>
 
 •Identify the variance: Compare the actual costs incurred with the budgeted costs to identify the variance.
 
@@ -457,25 +457,25 @@ By following this cost variance response process, you can effectively manage cos
 
 <h5>COST CHANGE CONTROL PROCESS</h5>
 <p align="justify">
-A cost change control process is necessary to manage changes to the cost baseline of a project, including changes to the inventory and ordering system. Here's a process for managing cost changes in an inventory and ordering system:
+A cost change control process is necessary to manage changes to the cost baseline of a project, including changes to the inventory and ordering system. Here's a process for managing cost changes in an inventory and ordering system: <br> <br> <br> 
 
-1.Identify the change: The first step is to identify the proposed change to the inventory and ordering system. This may include changes to the system itself, changes in demand, or changes in supplier costs. <br>
+1.Identify the change: The first step is to identify the proposed change to the inventory and ordering system. This may include changes to the system itself, changes in demand, or changes in supplier costs. <br> <br>
  
-2.Assess the impact: Determine the impact of the proposed change on the project's budget, schedule, and quality. Consider the risks, benefits, and costs associated with the proposed change. <br>
+2.Assess the impact: Determine the impact of the proposed change on the project's budget, schedule, and quality. Consider the risks, benefits, and costs associated with the proposed change. <br> <br>
 
-3.Evaluate alternatives: Consider alternative approaches to the proposed change, such as using a different supplier or changing the inventory management strategy. Evaluate each alternative for its feasibility, effectiveness, and impact on the project. <br>
+3.Evaluate alternatives: Consider alternative approaches to the proposed change, such as using a different supplier or changing the inventory management strategy. Evaluate each alternative for its feasibility, effectiveness, and impact on the project. <br> <br>
 
-4.Develop a plan: Based on the assessment and evaluation, develop a plan for managing the proposed change. This may involve adjusting the budget, renegotiating contracts, or changing the project schedule. <br>
+4.Develop a plan: Based on the assessment and evaluation, develop a plan for managing the proposed change. This may involve adjusting the budget, renegotiating contracts, or changing the project schedule. <br> <br>
 
-5.Obtain approvals: Obtain approvals from key stakeholders, including the project sponsor, project manager, and any other stakeholders impacted by the change. Document the approvals in the project management plan. <br>
+5.Obtain approvals: Obtain approvals from key stakeholders, including the project sponsor, project manager, and any other stakeholders impacted by the change. Document the approvals in the project management plan. <br> <br>
 
-6.Implement the change: Once the change is approved, implement it as quickly and efficiently as possible. Communicate the change to all stakeholders and update the project management plan accordingly. <br>
+6.Implement the change: Once the change is approved, implement it as quickly and efficiently as possible. Communicate the change to all stakeholders and update the project management plan accordingly. <br> <br>
 
-7.Monitor and report: Monitor the results of the change and report on progress. Track key metrics, such as inventory levels, order volume, and cost savings, and report regularly to stakeholders. <br>
+7.Monitor and report: Monitor the results of the change and report on progress. Track key metrics, such as inventory levels, order volume, and cost savings, and report regularly to stakeholders. <br> <br>
 
-8.Re-evaluate and adjust: If the change does not have the intended impact, re-evaluate the plan and make further adjustments. Consider alternative approaches and seek input from stakeholders. <br>
+8.Re-evaluate and adjust: If the change does not have the intended impact, re-evaluate the plan and make further adjustments. Consider alternative approaches and seek input from stakeholders. <br> <br>
 
-By following this cost change control process, you can effectively manage changes to the cost baseline of an inventory and ordering system and ensure that the project stays on track financially. <br>
+By following this cost change control process, you can effectively manage changes to the cost baseline of an inventory and ordering system and ensure that the project stays on track financially. <br> <br>
 
 <h5>PROJECT BUDGET</h5>
 <p align="justify">
