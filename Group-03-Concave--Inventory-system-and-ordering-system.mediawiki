@@ -205,7 +205,7 @@ Work breakdown structure is a tool in project management to divide larges projec
 The Work Breakdown Structure presented here represents all the work required to complete this project.</p>
 
 OUTLINE VIEW
-The outline view presents an easy to view and understand layout for the Ordering system and Inventory system.  
+The outline view presents an easy to view and understand layout for the Ordering system and Inventory system.  <br> <br>
 
 1.	Ordering System and Inventory System<br>
 1.1	Project Planning<br>
@@ -247,10 +247,10 @@ The outline view presents an easy to view and understand layout for the Ordering
 
 <h1>Scope Management Plan</h1>
 <h4>Introduction </h4>
-1. Collect Requirements – The project team will use a number of methods to collect, and the system's requirements should be documented via user interviews with the client, adviser and consultant meetings and subject professor meetings.  <br>
+1. Collect Requirements – The project team will use a number of methods to collect, and the system's requirements should be documented via user interviews with the client, adviser and consultant meetings and subject professor meetings.  <br> 
 2. User Stories – The project team will create user stories to describe the functionality of the system from the perspective of the end user. These stories will be prioritized based on business value and will be used to guide the development process. <br>
 3. Scope Statement – The scope statement will be developed using the user stories created and requirements as input. It will provide a high-level overview of the project scope, including the deliverables, and constraints. <br>
-4. Scope Baseline - The user stories and scope statement will be added to a project management plan to create the scope baseline. It will be frequently updated as the project develops to allow for scope changes. 
+4. Scope Baseline - The user stories and scope statement will be added to a project management plan to create the scope baseline. It will be frequently updated as the project develops to allow for scope changes. <br><br>
 
 <h4>Scope Documentation</h4>
 The scope of I.O System will be documented by the methods listed here: <br>
@@ -399,13 +399,13 @@ To measure the project cost for an inventory and ordering system, you should con
 
 •Development Costs: This includes the cost of software development, database design, hardware procurement, and any other expenses related to building the inventory and ordering system. <br> <br>
 
-•Implementation Costs: This includes the cost of installing the inventory and ordering system, configuring it, and integrating it with other systems. <br>
+•Implementation Costs: This includes the cost of installing the inventory and ordering system, configuring it, and integrating it with other systems. <br> <br>
 
-•Training Costs: This includes the cost of training employees on how to use the inventory and ordering system, including any training materials or manuals. <br>
+•Training Costs: This includes the cost of training employees on how to use the inventory and ordering system, including any training materials or manuals. <br> <br>
 
-•Maintenance Costs: This includes the cost of ongoing system maintenance, including software updates, hardware upgrades, and any necessary repairs. <br>
+•Maintenance Costs: This includes the cost of ongoing system maintenance, including software updates, hardware upgrades, and any necessary repairs. <br> <br>
 
-•Operating Costs: This includes the cost of running the inventory and ordering system, including any software licenses, hosting fees, and other operating expenses. <br>
+•Operating Costs: This includes the cost of running the inventory and ordering system, including any software licenses, hosting fees, and other operating expenses. <br> <br> <br> 
 
 To measure the project cost, you should estimate the cost for each of these categories and add them together. You can also break down the costs into more detailed subcategories, such as labor costs, equipment costs, and software costs, to get a more accurate estimate. 
 
@@ -435,23 +435,23 @@ By including these key elements in the reporting format for an inventory and ord
 
 <h5>COST VARIANCE RESPONSE PROCESS</h5>
 <p align="justify">
-Here is a detailed cost variance response process for an inventory and ordering system: <br><br>
+Here is a detailed cost variance response process for an inventory and ordering system: <br><br><br>
 
-•Identify the variance: Compare the actual costs incurred with the budgeted costs to identify the variance.
+•Identify the variance: Compare the actual costs incurred with the budgeted costs to identify the variance.<br> <br>
 
-•Analyze the cause: Investigate the root cause of the variance, including any deviations from the plan, changes in demand, supplier issues, or unexpected costs.
+•Analyze the cause: Investigate the root cause of the variance, including any deviations from the plan, changes in demand, supplier issues, or unexpected costs. <br><br>
 
-•Assess the impact: Determine the impact of the variance on the project's overall budget, timeline, and quality.
+•Assess the impact: Determine the impact of the variance on the project's overall budget, timeline, and quality.<br><br>
 
-•Develop a plan: Develop a plan to address the cost variance. The plan may involve making changes to the inventory and ordering system, negotiating with suppliers, or adjusting the budget.
+•Develop a plan: Develop a plan to address the cost variance. The plan may involve making changes to the inventory and ordering system, negotiating with suppliers, or adjusting the budget. <br><br>
 
-•Evaluate the plan: Evaluate the plan for its effectiveness, feasibility, and impact on the project. Consider the risks, costs, and benefits of implementing the plan.
+•Evaluate the plan: Evaluate the plan for its effectiveness, feasibility, and impact on the project. Consider the risks, costs, and benefits of implementing the plan. <br><br>
 
-•Implement the plan: Implement the plan as quickly and efficiently as possible. This may involve making changes to the inventory and ordering system, communicating with suppliers, or making other adjustments.
+•Implement the plan: Implement the plan as quickly and efficiently as possible. This may involve making changes to the inventory and ordering system, communicating with suppliers, or making other adjustments. <br><br>
 
-•Monitor and report: Monitor the results of the plan and report on progress. Track key metrics, such as inventory levels, order volume, and cost savings, and report regularly to stakeholders.
+•Monitor and report: Monitor the results of the plan and report on progress. Track key metrics, such as inventory levels, order volume, and cost savings, and report regularly to stakeholders. <br><br>
 
-•Re-evaluate and adjust: If the cost variance persists, re-evaluate the plan and make further adjustments. Consider alternative approaches and seek input from stakeholders.
+•Re-evaluate and adjust: If the cost variance persists, re-evaluate the plan and make further adjustments. Consider alternative approaches and seek input from stakeholders. <br><br>
 
 By following this cost variance response process, you can effectively manage cost variance for an inventory and ordering system and ensure that the project stays on track financially.
 
