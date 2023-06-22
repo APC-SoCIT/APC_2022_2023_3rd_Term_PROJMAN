@@ -716,3 +716,76 @@ The Staffing Management Plan for the Inventory and Ordering System project is a 
 •	Regular performance reviews will be conducted to evaluate team members' performance and identify areas for improvement. These reviews will provide feedback on how well team members are meeting project expectations and objectives. <br>
 •	To acknowledge and motivate outstanding performance, a rewards and recognition system will be implemented. This may include bonuses, promotions, and other incentives. <br>
 </p>
+
+<table>
+  <tr>
+    <th>Role  </th>
+    <th>Project Responsibility  </th>
+    <th>Skills Required  </th>
+    <th>Number of  Staff</th>
+    <th>Performance Reviews  </th>
+    <th>Recognition and Rewards</th>
+  </tr>
+  <tr>
+    <td>Product Owner</td>
+    <td>Ensuring that the product meets the needs and expectations of stakeholders.</td>
+    <td> Excellent communication and collaboration skills.<br><br>Strong problem-solving and analytical skills.<br><br>Strong leadership and decision-making skills.<br></td>
+    <td>1</td>
+    <td>The project manager will conduct regular performance 
+reviews with team members
+to assess their progress, provide feedback, and address any issues.</td>
+    <td>The product owner will implement a recognition and rewards system to motivate team members and encourage high performance. </td>
+  </tr>
+  <tr>
+    <td>Scrum Master</td>
+    <td>They provide coaching and guidance to the team members on self-organization, cross-functionality, and continuous improvement</td>
+    <td>Leadership<br><br>Communication   
+Problem Solving 
+Analytical Skills</td>
+    <td>1</td>
+    <td>The project developer will 
+work with team members
+to set achievable performance goals and track their progress  </td>
+    <td>This can include acknowledgment for exceptional coding skills, solving complex technical problems, delivering high-quality software, and meeting project milestones.</td>
+  </tr>
+  <tr>
+    <td>Project Manager </td>
+    <td>Collaborating with stakeholders to gather requirements and understand project goals. <br> <br> Participating in project planning, estimation, and task allocation.</td>
+    <td>Technical skills related to the project.<br><br>Communication<br><br>Collaborationand teamwork <br><br>  Problem-solving  <br><br> Time management   </td>
+    <td>1</td>
+    <td>These reviews evaluate their technical skills, teamwork, adherence to project timelines and quality standards, problem-solving abilities, and overall project delivery. </td>
+    <td>Rewards may include bonuses, promotions, certificates, or opportunities for career growth within the organization.</td>
+  </tr>
+  <tr>
+    <td>Project Sponsor   </td>
+    <td>Allocate resources and secure funding for the project. Act as the primary point of contact between the project team and senior  management<br><br>  Monitor project progress and provide guidance and support to the project team  </td>
+    <td>Leadership <br><br>Strategic thinking <br><br>Communication </td>
+    <td>2</td>
+    <td>The review process may consider the Sponsor's ability to contribute to project success and stakeholder satisfaction. </td>
+    <td>Rewards may include acknowledgment from senior management, promotions, bonuses, or other forms of recognition based on their contribution to project success and overall organizational benefits.  </td>
+  </tr>
+  <tr>
+    <td>Project Documentation Manager</td>
+    <td>Create, review, edit, and manage project documentation such as project plans, requirements documents, user manuals, technical specifications, and other relevant documentation.</td>
+    <td>Communication <br> <br>Collaboration and teamwork <br> <br> Riskmanagement</td>
+    <td>1</td>
+    <td>Focus on the quality and accuracy of project documentation, adherence to documentation standards, ability to meet deadlines, and effective communication and collaboration with team members.</td>
+    <td>Opportunities for career advancement, such as promotions or leadership roles in documentation management.</td>
+  </tr>
+  <tr>
+    <td>Developer</td>
+    <td>Collaborate with team members, including business analysts, designers, and testers, to ensure effective coordination and delivery of project tasks.</td>
+    <td>Technical skills related to the project.<br><br>Communication<br><br>Collaboration and teamwork<br><br>Problem-solving <br></td>
+    <td>1</td>
+    <td>Focus on technical proficiency, ability to meet project deadlines, code quality, and collaboration within the team.</td>
+    <td>Opportunities for career advancement, such as promotions or specialized roles in software development</td>
+  </tr>
+  <tr>
+    <td>Quality Assurance</td>
+    <td>Perform various types of testing, such as functional testing, integration testing, performance testing, and user acceptance testing, to ensure software quality.</td>
+    <td>Ability to analyze complex problems, troubleshoot issues, and provide effective solutions.</td>
+    <td>1</td>
+    <td>Focus on the accuracy and testing, defect identification and management, adherence to quality standards, and collaboration within the team.</td>
+    <td>Opportunities for career advancement, such as promotions or specialized roles in quality assurance or software testing.</td>
+  </tr>
+</table>
