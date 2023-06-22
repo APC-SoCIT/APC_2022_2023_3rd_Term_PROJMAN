@@ -874,9 +874,156 @@ The website will comply with relevant laws and regulations, including data priva
 </li>
 </ol>
 
+<h2>Scope Verification</h2>
+<p>Scope verification is the process of reviewing the project deliverables to ensure that they meet the requirements specified in the project scope statement. To verify the scope of the Fleeky Hub e-commerce website project, the project team will conduct the following activities:</p>
+<ol>
+<li>
+Review the project scope statement and the WBS to ensure that all project deliverables are accounted for.
+</li>
+<li>
+The client has a clear understanding of their business requirements and goals. 
+</li>
+<li>
+Conduct regular meetings with the client to ensure that their expectations are being met and to address any concerns or changes to the scope.
+</li>
+<li>
+Use the WBS Dictionary to ensure that each component of the project has been completed according to the specifications outlined in the scope.
+</li>
+<li>
+Use testing and quality assurance measures to ensure that the website functions as intended and meets the requirements outlined in the scope.
+</li>
+<li>
+Obtain formal acceptance from the client that the project deliverables meet their expectations and are in line with the project scope statement.
+</li>
+</ol>
+
+<h2>Quality Checklists</h2>
+<p>In this table, each checklist item is listed in the first column. The second column has a checkbox for "Yes" to indicate that the item meets the quality standard, the third column has a checkbox for "No" to indicate that the item does not meet the quality standard, and the fourth column has a checkbox for "N/A" to indicate that the item is not applicable to the website being evaluated. The evaluator can mark the appropriate checkbox for each checklist item as they go through the evaluation process.</p>
+
+  <table>
+    <tr>
+      <th>Checklist Item</th>
+      <th>Yes</th>
+      <th>No</th>
+      <th>N/A</th>
+    </tr>
+    <tr>
+      <td>Navigation is easy to use and logical</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>Content is of high quality and relevant</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>Visual design is professional and visually appealing</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>Website loads quickly and is responsive</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>Website is optimized for mobile devices</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>Website is secure and protected against hacks or breaches</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>Website is optimized for search engines</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+  </table>
+
+<h2>Work Performance Measurements</h2>
+<p>These performance metrics will be used to monitor the website development project for Fleeky Curtains and make sure it is finished on schedule, within budget, and to the satisfaction of the client. Following these metrics throughout the project will enable Fleeky Curtains to see areas where they are succeeding and those where they might need to make improvements, which will eventually result in a successful project and pleased clients.</p>
+
+<table>
+    <tr>
+      <th>Work Performance Measurement</th>
+      <th>Description</th>
+      <th>Calculation</th>
+      <th>Target</th>
+    </tr>
+    <tr>
+      <td>Schedule Performance</td>
+      <td>Measures the actual progress of the project compared to plan</td>
+      <td>Actual completion date of task / Planned completion date of task x 100</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Cost Performance</td>
+      <td>Measures the actual cost of the project compared to budget</td>
+      <td>Actual costs incurred to date / Budgeted costs for the same period x 100</td>
+      <td>>100%</td>
+    </tr>
+    <tr>
+      <td>Quality Performance</td>
+      <td>Measures the quality of the deliverables produced by the project</td>
+      <td>Quality metrics such as defect density, user satisfaction, or code review ratings</td>
+      <td>>100%</td>
+    </tr>
+    <tr>
+      <td>Scope Performance</td>
+      <td>Measures the actual project deliverables produced compared to</td>
+      <td>Completed deliverables / Planned deliverables x 100</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Customer Satisfaction/td>
+      <td>Measures the satisfaction of the customer with the project</td>
+      <td>Surveys, customer feedback, or other means</td>
+      <td>High</td>
+    </tr>
+</table>
 
 
-
-
-
+<h2>Scope Baseline</h2>
+<table>
+    <tr>
+      <th>Scope Baseline Component</th>
+      <th>Description</th>
+    <tr>
+      <td>Project Scope Statement</td>
+      <td>• The goal of the project is to build Fleeky Curtains a new website that will improve its online visibility, boost client involvement, and eventually boost sales.
+          <br>•	Deliverables include a fully working website with an intuitive user interface, mobile responsiveness, and simple navigation. A product catalog, shopping cart, and checkout features will all be available on the website. 
+          <br>•	Requirements: The Django framework will be used to build the website, and a secure server will host it. The website will adhere to web accessibility guidelines and be search engine optimized.
+      </td>
+    </tr>
+    <tr>
+      <td>Work Breakdown Structure</td>
+      <td>• Website design 
+          <br>•	Website development 
+          <br>•	Website testing 
+          <br>•	Website deployment  
+          <br>•	Website maintenance
+      </td>
+    </tr>
+    <tr>
+      <td>Project Schedule</td>
+      <td>• Design phase: 2 weeks
+          <br>•	Development phase: 4 weeks
+          <br>•	Testing phase: 1 week 
+          <br>•	Deployment phase: 1 week
+          <br>•	Maintenance phase: Ongoing
+      </td>
+    </tr>
+</table>
+<p>By creating a clear scope baseline, Fleeky Curtains can make sure that everyone participating in the project is aware of its goals, deliverables, and requirements and that they can collaborate productively to get there.</p>
 
