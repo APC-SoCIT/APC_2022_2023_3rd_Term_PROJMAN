@@ -99,27 +99,27 @@
     </tr>
     <tr>
       <td>Pallas Dale Fontiveros</td>
-      <td>Project Team Leader</td>
+      <td>Project Team Leader & QA Checker</td>
       <td>Manages the overall progression of the Business Case and project team</td>
     </tr>
     <tr>
       <td>Neil Albert Garcia</td>
-      <td>Project Manager</td>
+      <td>Project Manager/Client</td>
       <td>Provides support in overseeing the project’s completion</td>
     </tr>
     <tr>
       <td>Bryan Gel Fabellore</td>
-      <td>Project Team Member</td>
+      <td>Technical Lead (Full Stack Developer)</td>
       <td>Provides support in documentation of the project</td>
     </tr>
     <tr>
       <td>Joshua Timothy Roxas</td>
-      <td>Project Team Member</td>
+      <td>Front End Developer</td>
       <td>Provides technical support in the project</td>
     </tr>
     <tr>
       <td>Gabriel Luis Antonio Perez</td>
-      <td>Project Team Member</td>
+      <td>UI/UX Developer</td>
       <td>Provides support in handling documentations of the project</td>
     </tr>
  </table>
@@ -195,6 +195,7 @@ In summary, while having a limited number of employees can pose challenges in ma
 <h2>Goals and Objectives</h2>
 
 <p>Goals:</p>
+
 <ul>
 	<li>
 		Generate higher yield or profit for the client’s business (Fleeky Curtains)
@@ -382,8 +383,10 @@ The website will be able to recruit and keep a strong team of web developers, de
 
 <h2>Project Charter</h2>
 <h2>Executive Summary</h2>
-<p>The pandemic has caused businesses to adapt quickly, using social media platforms such as Facebook and e-commerce platforms to sell their products. Fleeky Curtains is an independent family business that provides curtain products. They operate the business at the local household and book a courier to pick up the item and deliver the item to the customer. They aim to grow their market share in the home product industry by observing and adapting to the behavior of the consumers. The employees in the business consist of the members of the family where they take charge of the sewing, assemble the packaging, the messages at Facebook, Shopee inquiries, product inspection, and one that list and encode transactions and customer information. Despite having a limited number of employees, the business wishes to accomplish tasks at an efficient rate due to the lack of workforce/person. The most important details in this text are the production time, packaging time, encoding time, number of products and raw materials, inquiries, available products, expanding the potential clients, and the staff. Fleeky Curtains mentioned that when there is no assistant, the staff finishes the tasks behind time, and that handling and assembling the packaging of one customer order takes 25 minutes of their time. Additionally, the staff must cope with their sleep and roles at work or school, and they must adapt to the market. Fleeky Curtains is an e-commerce company that uses a variety of materials to produce their products. Raw materials such as fabrics, threads, grommet, and curtain rings are used to build a finish product, and packaging materials such as bubble wrap are used to cover the products. Spending activities are traced and recorded within an Excel sheet, and customer data is stored in an Excel sheet. Customer data helps them to identify customer behavior and consumerism, and user experience is most observed when presented with convenience. They have gained knowledgeable feedback and experience revolving to their current system and workflows. Spotlight interviewed one of the admins that handle Fleeky Curtains, Mr. Neil Albert Garcia, to discuss their pain points when it comes to handling their business. These include fees and expenses to the e-commerce platform, poor delivery system, manual encoding of customer details, raw materials and on-hand stocks not documented and audited, finding ways to expand their clients and markets, and manual reports and tracing the performance of the business. These inputs will help align the project with the client's needs and interests. </p>
-
+<p>The pandemic has caused businesses to adapt quickly, using social media platforms such as Facebook and e-commerce platforms to sell their products. Fleeky Curtains is an independent family business that provides curtain products. They operate the business at the local household and book a courier to pick up the item and deliver the item to the customer. They aim to grow their market share in the home product industry by observing and adapting to the behavior of the consumers. The employees in the business consist of the members of the family where they take charge of the sewing, assemble the packaging, the messages at Facebook, Shopee inquiries, product inspection, and one that list and encode transactions and customer information. Despite having a limited number of employees, the business wishes to accomplish tasks at an efficient rate due to the lack of workforce/person. The most important details in this text are the production time, packaging time, encoding time, number of products and raw materials, inquiries, available products, expanding the potential clients, and the staff. Fleeky Curtains mentioned that when there is no assistant, the staff finishes the tasks behind time, and that handling and assembling the packaging of one customer order takes 25 minutes of their time. Additionally, the staff must cope with their sleep and roles at work or school, and they must adapt to the market. Fleeky Curtains is an e-commerce company that uses a variety of materials to produce their products. Raw materials such as fabrics, threads, grommet, and curtain rings are used to build a finish product, and packaging materials such as bubble wrap are used to cover the products. Spending activities are traced and recorded within an Excel sheet, and customer data is stored in an Excel sheet. Customer data helps them to identify customer behavior and consumerism, and user experience is most observed when presented with convenience. They have gained knowledgeable feedback and experience revolving to their current system and workflows. Spotlight interviewed one of the admins that handle Fleeky Curtains, Mr. Neil Albert Garcia, to discuss their pain points when it comes to handling their business. These include fees and expenses to the e-commerce platform, poor delivery system, manual encoding of customer details, raw materials and on-hand stocks not documented and audited, finding ways to expand their clients and markets, and manual reports and tracing the performance of the business. These inputs will help align the project with the client's needs and interests.
+</n><br></n><br>
+The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
+</p>
 <h2>Project Purpose/Justification</h2>
 
 <p>The existing system may be improved by implementing contemporary technology, moving to a better design, and allowing administrators to quickly monitor operations, inventory, and activity. Fleeky Hub will also help employees complete their responsibilities more quickly by tracking departing orders, understanding what has to be packed, what needs to be prepared, what inventories are available, and encoding client information. Prospective company owners, particularly those with small firms, can benefit from Project Akbay's efficiency features, which will allow them to handle orders more quickly and monitor their operations. The relevance of the project for developers, future researchers, company owners, administrators, and employees is that it will provide them with a better grasp of how to design, improve, and execute a stronger basis for their product. Objectives for Sustainable Development (SDGs SDG 8 to increase economic productivity and SDG 9 to develop and promote innovative technology both complement the initiative. The use of the product and the recording of the study will help future studies and offer a better answer for those in need.</p>
@@ -611,7 +614,7 @@ Technical limits: Fleeky Curtains may suffer technological constraints such as r
 <table border="1" align="center">
       <thead>
         <tr>
-          <th colspan="2">Summary Budget</th>
+          <th colspan="2">Summary Budget -  List Component Costs</th>
         </tr>
         <tr>
           <th>Project Component</th>
@@ -638,6 +641,8 @@ Technical limits: Fleeky Curtains may suffer technological constraints such as r
       </tbody>
     </table>
 
+
+
 <h2>Project Approval Requirements</h2>
 
 <p>Success for the Fleeky Hub will be achieved when a fully tested intranet security solution, and all technical documentation, is fully deployed throughout the company, Fleeky Curtains, within the time and cost constraints indicated in this charter.  Additionally, this measure of success must include a recommendation list for future security considerations as we fully anticipate the necessity of this solution to evolve in order to prevent future threats. Success will be determined by the Project Sponsor, Ms. Mitzi Garcia, who will also authorize completion of the project.  </p>
@@ -654,22 +659,26 @@ Technical limits: Fleeky Curtains may suffer technological constraints such as r
 
 <p>Fleeky Hub is a small curtain company that provides clients with high-quality curtains. Fleeky Hub's success is reliant not only on its capacity to produce high-quality draperies, but also on its capacity to manage its stakeholders. Stakeholder management is a vital componentof any business, as it includes identifying, analyzing, and establishing relationships with stakeholders.</p><p> Stakeholders are people, organizations, and groups invested in a business' success. Customers, suppliers, employees, shareholders, and the local community may be included among Fleeky Hub's stakeholders. Effective stakeholder management requires a comprehension of the needs and expectations of each stakeholder group and the development of strategies to meet those needs and expectations.</p><p> This stakeholder management strategy is intended to provide Fleeky Hub with a framework for effectively managing its stakeholders. This strategy will define the organization's main constituents, their interests, expectations, and how the organization will engage and communicate with them. By implementing this strategy, Fleeky Hub can foster positive relationships with its stakeholders, which will contribute to the company's long-term success.</p>
 
-<h2>Stakeholders Identification</h2>
+<h2>Identify Stakeholders</h2>
 
 <p>The project team may use the Brainstorming methodology to uncover potential stakeholders that may not be identified right away. This could be done through creating a list of potential stakeholders and conducting group discussion and brainstorming within the project team. In the stakeholder identification process, the project team may ask the possible participants there may be when it comes to their relevance and significance to the business and project so the team will be able to have their approval and support that may help the project development succeed and be able to avoid hindrance or blockage to its progress.</p><p> When identifying the stakeholders, depending on their amount of influence, interest, and involvement in the project or organization, the stakeholders can be divided into several categories. For reference, key stakeholders for the project may be those directly impacted by the project or organization, such as clients or staff, whereas secondary stakeholders are those impacted indirectly, such as vendors or regulatory bodies. Other stakeholder groups can include internal stakeholders, external stakeholders, and key stakeholders, who tend to have a substantial influence on the organization's or project's success.</p><p> With identifying the stakeholders, for the project team to ensure that their interests and concerns are taken into consideration during the decision-making process and to increase support for the project or organization, stakeholders must be identified and engaged with. The chances of success can be increased, and trust can be gained while lowering resistance to change.</p>
 
 <h2>Key Stakeholders</h2>
 
+
 <p>The key stakeholders identified by the project team are those who have a significant impact on the success or failure of the project or initiative. The following are the sub-sets of stakeholders who may be identified as key stakeholders:</p>
 <ol>
 <li>
 Customers - Since their satisfaction and loyalty are crucial to the success of the project or company, customers are frequently regarded as significant stakeholders. Organizations can improve their competitiveness and profitability by comprehending and satisfying the demands and expectations of their clients.
+<br>
 </li>
 <li>
 Employees – As employees oversee carrying out the strategies and plans that advance the business, they are essential to its success. Employee motivation and engagement can boost output, lower attrition, and enhance an organization's overall success.
+<br>
 </li>
 <li>
 Suppliers/partners - Suppliers and partners are frequently regarded as important stakeholders since they supply the products and services required for the business to run smoothly. Reliable supply chains and cost savings can be achieved by establishing strong ties with these stakeholders.
+<br>
 </li>
 </ol>
 
@@ -679,6 +688,7 @@ Suppliers/partners - Suppliers and partners are frequently regarded as important
 <ul>
 <li>
 Customers: Fleeky Hub's clients are its main stakeholders since they buy its drapes. Understanding their requirements and preferences is crucial to the success of a business. To retain and acquire new consumers, Fleeky Hub must prioritize delivering high-quality products and superior customer service.
+</n>
 </li>
 <li>
 Workers: Key stakeholders in Fleeky Hub who make contributions to the company's success are the company's workers. They play a crucial role in both the production process and consumer interaction. Providing a safe and healthy workplace, equitable remuneration, and opportunities for professional growth and development will help retain employees and improve their performance.
@@ -708,16 +718,16 @@ Government: Fleeky Hub must adhere to local laws and regulations, and its operat
 
 <ol>
 <li>
-Requirements gathering:  The team will meet with the client to identify the business needs and problems. A project timeline will be established to create a survey for the client, which will focus on the client's business process, specifically related to e-commerce websites. Additionally, the survey will include questions about the status of the client’s employees’ tasks and process. 
+<b>Requirements gathering:</b>  The team will meet with the client to identify the business needs and problems. A project timeline will be established to create a survey for the client, which will focus on the client's business process, specifically related to e-commerce websites. Additionally, the survey will include questions about the status of the client’s employees’ tasks and process. 
 </li>
 <li>
-User stories: After gathering the set of requirements, the team will provide a set of user stories for the end-users, defining the functionality of the client's e-commerce website (Fleeky Hub). The team will organize the user stories hierarchically based on their priority and execute them accordingly. The user stories will guide the development process for the developers. 
+<b>User stories:</b> After gathering the set of requirements, the team will provide a set of user stories for the end-users, defining the functionality of the client's e-commerce website (Fleeky Hub). The team will organize the user stories hierarchically based on their priority and execute them accordingly. The user stories will guide the development process for the developers. 
 </li>
 <li>
-Scope statement: The project scope statement will be based on the user stories created by the team, which will serve as the requirements for the project. The project manager will provide the team with deadlines for each iteration to ensure that the requirements are achieved within the given timeframe. 
+<b>Scope statement: </b>The project scope statement will be based on the user stories created by the team, which will serve as the requirements for the project. The project manager will provide the team with deadlines for each iteration to ensure that the requirements are achieved within the given timeframe. 
 </li>
 <li>
-Scope base: The project scope baseline provides the team's scope statement and user stories as a feasible management plan. The team will provide daily and weekly updates on the project's progress, allowing for ongoing review of the scope statement to identify any necessary changes. 
+<b>Scope base: </b>The project scope baseline provides the team's scope statement and user stories as a feasible management plan. The team will provide daily and weekly updates on the project's progress, allowing for ongoing review of the scope statement to identify any necessary changes. 
 </li>
 </ol>
 
@@ -725,27 +735,27 @@ Scope base: The project scope baseline provides the team's scope statement and u
 
 <ol>
 <li>
-Requirements Documentation: The requirements for the e-commerce website will be documentation in a requirements specification document. 
+<b>Requirements Documentation:</b> The requirements for the e-commerce website will be documentation in a requirements specification document. 
 </li>
 <li>
-Project management plan: The project management plan will include the scope statement, the scope baseline, and any other relevant information about the scope of the project. 
+<b>Project management plan: </b>The project management plan will include the scope statement, the scope baseline, and any other relevant information about the scope of the project. 
 </li>
 <li>
-Change log: A change log will track the development and project plan, documenting any changes made to the project scope, including the description of the change, its impact on the project, and any required approvals. 
+<b>Change log: </b> A change log will track the development and project plan, documenting any changes made to the project scope, including the description of the change, its impact on the project, and any required approvals. 
 </li>
 </ol>
 
-<p><em><b>Scope Control: </em>The scope of the Fleeky Hub e-commerce website will be controlled through the following activities: </p>
+<p><em><b>Scope Control:</b> </em>The scope of the Fleeky Hub e-commerce website will be controlled through the following activities: </p>
 
 <ol>
 <li>
-Scope verification: The project team will use agile testing and waterfall techniques to verify that the deliverable of the project meets the requirements and align with the scope statement that can fully utilize the project implementation every iteration. 
+<b>Scope verification: </b>The project team will use agile testing and waterfall techniques to verify that the deliverable of the project meets the requirements and align with the scope statement that can fully utilize the project implementation every iteration. 
 </li>
 <li>
-Scope change control:  Any changes to the scope of the project will be managed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality. 
+<b>Scope change control: </b> Any changes to the scope of the project will be managed through a formal change control process, which will include an assessment of the impact on the project schedule, budget, and quality. 
 </li>
 <li>
-Scope change view: A scope change review will be held for each iteration request  to ensure that the changes is necessary, feasible and aligned with the project’s mission, vision and the objectives of the Fleeky Hub/ Fleeky Curtains. 
+<b>Scope change view: </b>A scope change review will be held for each iteration request  to ensure that the changes is necessary, feasible and aligned with the project’s mission, vision and the objectives of the Fleeky Hub/ Fleeky Curtains. 
 </li>
 </ol>
 
@@ -778,28 +788,28 @@ The project manager will ensure that all project requirements are met and that t
     </tr>
     <tr>
       <td>Pallas Dale Fontiveros</td>
-      <td>Project Team Leader & QA Checker</td>
-      <td>Leads the team and manages the overall progress</td>
+      <td>Project Team Leader & Quality Assurance</td>
+      <td>Leads the team and manages the overall progress. </n> Manages the quality of web applications.</td>
     </tr>
     <tr>
       <td>Neil Albert Garcia</td>
       <td>Project Manager</td>
-      <td>Reports to the stakeholder and decides on what's best for the client and the team</td>
+      <td>Reports to the stakeholder and decides on what's best for the client and the team.</td>
     </tr>
     <tr>
       <td>Bryan Gel Fabellore</td>
-      <td>Website Developer & Technical Lead</td>
-      <td>Handles the front and back end development</td>
+      <td>Full-stack Developer & Technical Lead</td>
+      <td>Handles the front and back end development.</td>
     </tr>
     <tr>
       <td>Joshua Timothy Roxas</td>
-      <td>Website Developer</td>
-      <td>Handles UI/UX and front end development</td>
+      <td>UI/UX Designer</td>
+      <td>Handles UI/UX and front end development.</td>
     </tr>
     <tr>
       <td>Gabriel Luis Antonio Perez</td>
-      <td>Website Developer & Documentation</td>
-      <td>Handles front end development and consolidates the document</td>
+      <td>Front-end Developer</td>
+      <td>Handles front-end development and consolidates the document.</td>
     </tr>
 </table>
 
