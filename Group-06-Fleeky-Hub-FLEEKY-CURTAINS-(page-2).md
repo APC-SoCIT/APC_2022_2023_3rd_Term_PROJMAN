@@ -1265,8 +1265,8 @@ Signed authorizations
 <table>
   <tr>
     <th>Description</th>
-    <th>Unit Cost (₱)</th>
-    <th>Total Cost (₱)</th>
+    <th>Unit Cost PHP</th>
+    <th>Total Cost PHP</th>
   </tr>
   <tr>
     <td>Electricity</td>
