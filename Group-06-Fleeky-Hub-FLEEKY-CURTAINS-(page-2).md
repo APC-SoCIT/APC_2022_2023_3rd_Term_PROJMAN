@@ -1397,9 +1397,14 @@ Signed authorizations
     <td>Project Manager</td>
     <td>PHP 32,400.00</td>
   </tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>TOTAL: PHP 1,585,200.00</strong></td>
+  </tr>
 </table>
 
-<p><strong>TOTAL: PHP 1,585,200.00</strong></p>
 
 <p>The various elements and related expenses for creating the Fleeky Hub are broken down in this table, including web development, graphic design, hosting, domain registration, marketing, and contingency charges. The overall project cost, which in this case is 19,500 PHP, is also included in the table. This budget table can assist in managing the expenditures connected with the website development project and helping the business plan.</p>
 
