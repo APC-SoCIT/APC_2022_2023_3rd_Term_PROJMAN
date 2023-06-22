@@ -26,3 +26,33 @@ Project Adviser
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> roselleg@apc.edu.ph </font></th>   
 </tr>
 </table>
+
+<br>
+Project Team
+<table width = "60%" align = "center">
+<tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Email </font></th>   
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Stefano Franco Binay</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> ssjbinay@student.apc.edu.ph </font></th>
+</tr>
+<tr bgcolor="#ffffff" >
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Ken Angelo Carangan </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> kgcarangan@student.apc.edu.ph </font></th>
+</tr>
+<tr bgcolor="#ffffff" >
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Ryan Gabriel Candari </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> rscandari@student.apc.edu.ph </font></th>
+</tr>
+<tr bgcolor="#ffffff" >
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Marcus Jorell Medina </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> mcmedina2@student.apc.edu.ph </font></th>
+</tr>
+<tr bgcolor="#ffffff" >
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> Jan Terence Francisco </font></th>   
+<th text-align = "left" width="220" height = "40"><font color = " #000000"> jrfrancisco@student.apc.edu.ph </font></th>
+</tr>
+<br>
+</table>
