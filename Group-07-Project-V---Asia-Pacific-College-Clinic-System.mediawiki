@@ -398,63 +398,8 @@ Overall, the business case for the upgrade to the health record system is strong
       </tbody>
 </table>
 ==Summary Budget==
-<p><b>List component project costs:</b></p>
-<table border="1" width="70%" align="center">
-   <tr>
-      <th></th>
-      <th>Duration/Frequency and Trigger</th>
-      <th>Total Cost in Php (₱)</th>
-      </tr>
-      <tbody>
-         <tr>
-            <td>Direct Costs</td>
-         </tr>
-      <tr>
-      <td>Manpower Cost</td>
-      <td>9 months</td>
-      <td>₱513,000.00</td>
-      </tr>
-      <tr>
-      <td>Maintenance Cost</td>
-      <td>1, <i>on-call</i></td>
-      <td>₱15,500.00</td>
-      </tr>
-      <tr>
-      <td>Contingency Cost</td>
-      <td>9 months</td>
-      <td>₱117,000.00</td>
-      </tr>
-      <tr>
-      <td>Total Direct Project Cost</td>
-      <td></td>
-      <td>₱645,000.00</td>
-      </tr>
-</tbody>
 
-</table>
-<table border="1" width="70%" align="center">
-<tr>
-      <th>Miscellaneous Costs</th>
-      </tr>
-     <tbody>
-      <tr>
-         <td>Equipment</td>
-         <td>Bought once</td>
-         <td>₱203,000.00</td>
-      </tr>
-      <tr>
-         <td>Subscription</td>
-         <td>Once Yearly</td>
-         <td>₱6,000.00</td>
-      </tr>
-      <tr>
-         <td>Total Miscellaneous Cost</td>
-         <td><i>for the first year</i></td>
-         <td>₱209,000.00</td>
-      </tr>
-      </tbody>
-</table>
-
+![355714430_638255984988306_2140179509384165276_n](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/122800822/e649f11a-d9dd-4dd1-a077-636bdca34520)
 
 ==Project Approval Requirements==
 <p>The requirements for the project entail that the objectives and client pain points be solved during the implementation of the project, these would be:</p>
@@ -1118,187 +1063,9 @@ The cost change control process will be implemented to ensure that any changes t
 </p>
 
 ==Project Budget==
-<p>
-The approved budget given by our Project Sponsor for the E-Cliniq system is something that the Project Team can work around with for the next 10 years. The budget includes direct costs such as salary for the development team based from Indeed, specified in the area of Makati, indirect costs, and it is designed to provide the project team and stakeholders with a comprehensive understanding of financial resources.<br><br>
-Approved Budget: 
-<br><br>
-Direct Costs:
-<br><br>
-Labor and Maintenance
-</p>
-<table width="744" border="1" align="center">
-  <tr style="height: 37px;">
-    <td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-      <p><strong>Labor and Maintenance</strong></p>
-    </td>
-  </tr>
-  <tr style="height: 52px;">
-    <td style="height: 52px;" width="180" bgcolor="lightblue">
-      <p><strong>ITEM</strong></p>
-    </td>
-    <td style="height: 52px;" width="96" bgcolor="lightblue">
-      <p><strong>Quantity</strong></p>
-    </td>
-    <td style="height: 52px;" width="198" bgcolor="lightblue">
-      <p><strong>Period (in months)</strong></p>
-    </td>
-    <td style="height: 52px;" width="108" bgcolor="lightblue">
-      <p><strong>Unit Cost</strong></p>
-    </td>
-    <td style="height: 52px;" width="162" bgcolor="lightblue">
-      <p><strong>Total Cost</strong></p>
-    </td>
-  </tr>
-  <tr style="height: 37px;">
-    <td style="height: 37px;" width="180">
-      <p>Maintenance Cost(After implementation)</p>
-    </td>
-    <td style="height: 37px;" width="96">
-      <p>1</p>
-    </td>
-    <td style="height: 37px;" width="198">
-      <p>120</p>
-    </td>
-    <td style="height: 37px;" width="108">
-      <p>PHP 1,000.00</p>
-    </td>
-    <td style="height: 37px;" width="162">
-      <p>PHP 120,000.00</p>
-    </td>
-</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p>Manpower Cost (Junior Developer)</p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>3</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>9</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>PHP 25,000.00</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>PHP 675,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p>Manpower Cost (Project Manager)</p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>9</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>PHP 39,000.00</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>PHP 351,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p>Manpower Cost (Quality Assurance Analyst)</p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>1</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p>9</p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>PHP 25,000.00</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>PHP 225,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p>Total Project Cost</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>PHP 1,371,000.00</p>
-			</td>
 
-		</tr>
-</Table>
-<table width="744" border="1" align="center">
-  <tr style="height: 37px;">
-    <td style="height: 37px;" colspan="5" width="744" bgcolor="lightblue">
-      <p><strong>Equipment/Hardware</strong></p>
-    </td>
-  </tr>
-  <tr style="height: 52px;">
-    <td style="height: 52px;" width="180" bgcolor="lightblue">
-      <p><strong>ITEM</strong></p>
-    </td>
-    <td style="height: 52px;" width="96" bgcolor="lightblue">
-      <p><strong>Quantity</strong></p>
-    </td>
-    <td style="height: 52px;" width="198" bgcolor="lightblue">
-      <p><strong>Period (in months)</strong></p>
-    </td>
-    <td style="height: 52px;" width="108" bgcolor="lightblue">
-      <p><strong>Unit Cost</strong></p>
-    </td>
-    <td style="height: 52px;" width="162" bgcolor="lightblue">
-      <p><strong>Total Cost</strong></p>
-    </td>
-  </tr>
-  <tr style="height: 37px;">
-    <td style="height: 37px;" width="180">
-      <p>Hardware Cost (Developer PC)</p>
-    </td>
-    <td style="height: 37px;" width="96">
-      <p>3</p>
-    </td>
-    <td style="height: 37px;" width="198">
-      <p></p>
-    </td>
-    <td style="height: 37px;" width="108">
-      <p>PHP 40,000.00</p>
-    </td>
-    <td style="height: 37px;" width="162">
-      <p>PHP 120,000.00</p>
-    </td>
-</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" width="180">
-				<p>Hardware Cost (Project Manager and QA Laptops)</p>
-			</td>
-			<td style="height: 37px;" width="96">
-				<p>2</p>
-			</td>
-			<td style="height: 37px;" width="198">
-				<p></p>
-			</td>
-			<td style="height: 37px;" width="108">
-				<p>PHP 30,000.00</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>PHP 60,000.00</p>
-			</td>
-		</tr>
-		<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="4" width="582">
-				<p>Total Project Cost</p>
-			</td>
-			<td style="height: 37px;" width="162">
-				<p>PHP 180,000.00</p>
-			</td>
-
-		</tr>
-</Table>
-<p>
-Indirect Costs:<br>
-1.	Web hosting<br>
-2.	Administrative Roles
-</p>
+![353123225_218945553855420_8863820986228365871_n](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/122800822/d6e84ff9-dad2-44d4-9f3a-a46abd35babd)
+![355432899_176346038539149_5691707785530769125_n](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/122800822/6b88a2b4-1016-44bb-9072-c15e6f68efa5)
 
 =Scope Change=
 
@@ -2893,6 +2660,154 @@ By tracking and analyzing these performance metrics, the project team can identi
 </p>
 =Implementation Plan=
 ==Executive Summary==
-<p></p>
-<p></p>
-<p></p>
+<p>As the E-Cliniq project nears completion, a transition out plan has been created as part of the project closeout to guarantee a seamless transfer of the system to its new owners. The goal of this plan is to offer a high-level overview of the transition procedure, including the background of the contract, the state of the system now, and the anticipated transition to the new owners. Our company worked with the client to develop E-Cliniq to enhance their delivery procedures. The project's goals were effectively met by the system throughout its first year of use. The system is now becoming the client's property as per the contract agreement. The system is now functioning and stable.</p>
+
+<p>All required functionalities have been tested and validated, and user training has been completed. As we transition out, we aim to ensure that the client is equipped with all necessary documentation and support to manage and maintain the system effectively. The new owners will receive all project deliverables, including technical documentation, user manuals, and source code, to ensure they have a comprehensive understanding of the system. We will also provide knowledge transfer sessions to the new owners, covering system operations, maintenance, and troubleshooting. The transition out plan for the project includes a detailed timeline with a focus on a smooth and successful handover to the new contractor. The user training process has been finished, and all necessary functionalities have been tested and validated. As we leave, we want to make sure the client has access to all the information and assistance they need to efficiently administer and maintain the system. To make sure the new owners have a thorough understanding of the system, all project deliverables will be given to them, including technical documentation, user manuals, and source code. Additionally, we will offer the new owners knowledge transfer sessions covering system operations, maintenance, and troubleshooting. The project's transition out plan comprises a thorough timetable with an emphasis on a successful and seamless handover to the next contractor.</p>
+
+<p>User training and go-live will take place at the end of August 2023 as part of the transition plan's execution phase. Documenting lessons learned, updating files and records, obtaining official acceptance, archiving files and papers, and convening a project closeout meeting are just a few of the crucial tasks that are included in the plan's closeout phase. The project closeout meeting is slated to take place at the end of September 2023; however, these activities will last the entire month. The transition team will collaborate closely throughout the process to guarantee a seamless handover and reduce any disruptions to the project's operations.</p>
+
+<p>The team will be made up of various roles, such as the Project Manager, Project Team Members, and Quality Assurance. The project team hopes to achieve a successful and seamless handover to the new contractor while preserving the quality of the project's deliverables by adhering to this transition strategy and timeframe. The overall goal of the transition out plan is to guarantee that the client receives a fully functional and long-lasting system and that our company successfully completes the project.</p>
+
+==Transition Approach==
+<p><b>Overall Approach:</b> Since there is a need for continuity and little disturbance to continuing activities, the Transition Out strategy for the E-Cliniq Project will take a phased transition approach. With this strategy, the risk of downtime and service interruption is reduced because knowledge, assets, and responsibility are gradually and methodically transferred to the new team.
+<br><br>
+The transition approach will include the following steps:<br>
+1.Communication Plan: All stakeholders will be informed of the transition plan, timetables, and expectations thanks to the communication plan.<br>
+2.Transition Planning: The clinic staff will be involved in the development of the transition plan, which will contain a comprehensive timeline of all the tasks that must be accomplished throughout the transition.<br>
+3.Knowledge Transfer: To guarantee that the clinic staff has the requisite expertise and information to support the system, knowledge transfer will take place through a variety of channels, including documentation, instruction manuals, as-built materials, and formal training sessions.<br>
+4.Staffing: The project team will reduce their headcount during the transition to the bare minimum needed to support knowledge transfer and transition operations.<br><br>
+
+<b>Timeline:</b><br>
+The project's transition out plan consists of a detailed timetable of tasks that must be completed to smoothly transition from the incumbent contractor to the clinic staff. Execution and closeout are the two primary stages of the transition plan.<br><br>
+User training and go-live events are part of the execution phase and are scheduled for August 28 through August 31. Documenting lessons learned, updating files and records, receiving official approval, archiving files and documents, and holding a project closeout meeting are all part of the closeout phase. The dates of these events are September 1 through September 29. To guarantee that all transition tasks are completed on time, the timetable offers a precise schedule for each activity. The thorough preparation and execution of each task as specified in the timeframe will determine whether the transition strategy is successful.
+
+<b>Assumptions:</b><br>
+The following assumptions will be made for the transition approach:<br>
+1.APC Medical Clinic Nurse can take part in the transition and get knowledge transfer on-site and online meetings.<br>
+2.To promote knowledge transfer, the project team will give the clinic personnel all required paperwork, instruction, and training materials.<br>
+3.APC will give the APC Medical Clinic all required hardware and software licenses to support the system.<br>
+4.After the transition is over, the APC Medical Clinic employees will be equipped with the skills and knowledge required to support the system.<br>
+</p>
+
+==Transition Team Organization==
+<p>Roles and Responsibilities:<br>
+1.Project Manager: Overall in charge of the transition's success. The Project Manager will oversee the transition team, make sure that all tasks related to the transition are finished on schedule, work with the customer, and guarantee adherence to the transition strategy.<br>
+2.Developers: In charge of contributing technical knowledge to the project. To comprehend the system and create a plan for the transfer, the developers and technical lead will collaborate closely with the project team. The developers will also oversee liaising with the new contractor to facilitate a seamless transfer of technical expertise. In charge of offering subject knowledge expertise on project areas. To guarantee a seamless transfer of knowledge and skills, the Developers will collaborate closely with the QA and Clinic staff.<br>
+3.Quality Assurance Analyst: It is their responsibility to make sure all deliverables adhere to the transition plan's quality requirements. To provide quality measurements and make sure that all transition operations are finished to a high standard, the QA will collaborate closely with the Project Manager.<br>
+4.Project Team Members: Accountable for helping by utilizing their system-specific knowledge and expertise. To ensure a seamless transfer of knowledge and skills, they will collaborate closely with the TPM, developers, SME, and Clinic staff members.<br>
+</p>
+
+<table border="1" width="70%" align="center">
+    <tr>
+       <td>Roles</td>
+       <td>Responsibilities</td>
+    </tr>
+    <tr>
+       <td>1.Project Manager:</td>
+       <td>Overall, in charge of the transition's success. The Project manager will oversee the transition team, make sure that all tasks related to the transition are finished on schedule, work with the customer, and guarantee adherence to the transition strategy.</td>
+    </tr>
+    <tr>
+       <td>2.Developers</td>
+       <td>In charge of contributing technical knowledge to the project. To comprehend the system and create a plan for the transfer, the developers and technical lead will collaborate closely with the project team. The developers will also oversee liaising with the new contractor to facilitate a seamless transfer of technical expertise. In charge of offering subject knowledge expertise on project areas. To guarantee a seamless transfer of knowledge and skills, the Developers will collaborate closely with the QA and Clinic staff.</td>
+    </tr>
+    <tr>
+       <td>3. Quality Assurance Analyst:</td>
+       <td>It is their responsibility to make sure all deliverables adhere to the transition plan's quality requirements. To provide quality measurements and make sure that all transition operations are finished to a high standard, the QA will collaborate closely with the Project Manager.</td>
+    </tr>
+    <tr>
+       <td>4. Project Team Members:</td>
+       <td>Accountable for helping by utilizing their system-specific knowledge and expertise. To ensure a seamless transfer of knowledge and skills, they will collaborate closely with the TPM, developers, SME, and Clinic staff members.</td>
+    </tr>
+</table>
+
+==Workforce Transition==
+<p>A crucial component of the E-Cliniq project's transition out plan is staff transformation. Determining and sharing the workforce plan of time is crucial for a seamless and effective transition. To decide the best course of action for the workforce, the Transition Project Manager will collaborate closely with the customer, the existing and new contractors, and the transition team.
+<br><br>
+This can entail keeping on with the existing workforce, transferring them to the new contractor, or hiring whole new personnel. The workforce must be notified of any changes in a timely and polite manner; therefore, communication will be crucial in this process.
+<br><br>
+To ensure that all personnel are aware of their options and are given the appropriate support throughout the transition process, the Transition Project Manager will closely collaborate with HR and management. The employees will also get the necessary training or retraining to ensure that they are fully prepared to continue offering high-quality services both during and after the transition phase. To guarantee that the project is successfully finished on time and within budget, the workforce transition strategy will be constantly evaluated and amended as required.
+</p>
+
+==Workforce Execution During Transition==
+<p>During the transition period of the E-Cliniq project, work will still need to be performed they are as follows: <br><br>
+•User Training: This will entail creating and distributing training materials to inform users of the new system. The training sessions will probably last three days and include both classroom and hands-on instruction.<br>
+•Go Live: This will be the new system's official launch. Before releasing the system to users, the team must make sure that all systems are set up and operating properly. Final system testing and confirming that all data has migrated properly will probably be required for this.<br>
+•Document Lessons Learned: The lessons learned throughout the project will be documented during this phase. This includes determining the team's strengths and weaknesses as well as the areas for growth. The document will be used to ensure that best practices are adopted moving forward and to provide guidance for future initiatives.<br>
+•Update Files/Records: The team will oversee updating all pertinent files and records to indicate the project's completion during this phase. This can entail keeping old copies of specific papers or adding new information to contracts and agreements.<br>
+•Gain Formal Acceptance: Obtaining the customer's formal approval that the transition has been successfully completed is part of this phase. The team will have to guarantee that all deliverables have been made and that the client is happy with the new system.<br>
+•Archive Files/Documents: Archiving all project-related files and papers is part of this phase. Contracts, agreements, project plans, and other pertinent documents may be included.<br>
+•Project Close Out Meeting: A project close out meeting with all stakeholders will take place during the transition's final stage. This will be a chance to talk about the project, as well as any accomplishments or areas that could be used better, and to make sure that any lingering problems have been fixed.<br>
+</p>
+
+==Subcontracts==
+<p>There are presently no contracts or subcontract agreements relating to this project, hence no transfer, transition, or related agreements are required.</p>
+
+==Property Transition==
+===Government Furnished Equipment (GFE)===
+<p>This element of the transition plan is not applicable because Government Furnished Equipment (GFE) is not involved in the E-Cliniq project.</p>
+===Incumbent Owned Equipment===
+<p>The equipment that the incumbent owns and will keep is something that needs to be made very clear. The strategy should include whether the new contractor or customer will have the choice to purchase or utilize any equipment required to support the client's applications and services. The strategy should also outline a timetable for ownership transfer as well as any supporting paperwork, including purchase agreements or bills of sale.
+<br><br>
+If APC can offer the appropriate equipment upon transition in the instance of the E-Cliniq project, the project team might not be required to transfer the equipment to the APC Medical Clinic. To facilitate a smooth transition and prevent any potential conflicts or misunderstandings, it is still crucial to explicitly define which equipment is owned by the incumbent and which will be supplied by APC. To make sure that all necessary equipment is available and appropriately transported, the project team should closely collaborate with APC and APC Clinic.
+</p>
+
+===Intellectual Property===
+<p>To ensure a smooth transfer of all pertinent data, supplier and subcontractor information, service agreements, original drawings, or plans, it is crucial to take IP (Intellectual Property) handling into account during the transition phase of the E-Cliniq project. Non-disclosure agreements (NDAs) between the incumbent and the client are one of the many legal issues that arise from IP.
+<br><br>
+The following steps will be taken to ensure proper handling of intellectual property during the transition:
+</p>
+
+<ol>
+    <li><b>Identification of all relevant intellectual property:</b>The project's entire intellectual property portfolio, including but not limited to design documents, patents, trademarks, copyrights, software code, and any proprietary data or trade secrets, will be identified.</li>
+    <li><b>Evaluation of contractual agreements:</b>To ensure compliance during the transition, the current contractual agreements regarding intellectual property ownership and transfer will be reviewed and evaluated.</li>
+    <li><b>Negotiation of new agreements:</b>To ensure the right ownership and transfer of any intellectual property, new agreements will be written between the incumbent, new contractor, and customer if there are any conflicts or shortcomings in the existing ones.</li>
+    <li><b>Protection of intellectual property:</b>Adequate safeguards, including nondisclosure agreements (NDAs) and other legal procedures, shall be put in place to guarantee the preservation of any intellectual property during the transition time.</li>
+    <li><b>Transfer of intellectual property:</b>All relevant intellectual property will be transferred once the transition process is complete in accordance with the current contract arrangements. Depending on the conditions outlined in the agreements, the intellectual property will either be transferred to the new contractor, the client, or retained by the incumbent.</li>
+</ol>
+
+<p>By following these steps, E-Cliniq can ensure a smooth and secure transition of all intellectual property related to the project.</p>
+
+===User Accounts and Passwords===
+<p>As part of the transition plan for the E-Cliniq project, it is important to address the transition of user accounts and passwords. The following details the steps and considerations for this aspect of the property transition:</p>
+<ol>
+   <li><b>User Account Inventory</b>•	It is crucial to compile an exhaustive inventory of all user accounts and their associated privileges. System administrators, outside vendors, and end users should all be included in this inventory of internal and external users. The inventory should also make it abundantly clear which accounts are inactive or no longer necessary for the system.</li>
+   <li><b>Password Security</b>•	Security must be maintained during the transfer, and this can be done by resetting or deactivating all user passwords. This action will stop unauthorized users from accessing the system and its data. Users should be told to change their passwords to a temporary one issued to them before the changeover takes place. As a result, all users should be required to create new, secure passwords throughout the transition by the new contractor or system owner.</li>
+   <li><b>Account Transition and Disablement</b>•	The next duty is to decide which accounts will go through the transition process and which accounts will be terminated after taking care of the inventory and password security measures. To ensure a smooth transition, the transition strategy should specify in detail who is responsible for managing the transfer of accounts and passwords.
+•	If it becomes necessary to disable accounts, the transition plan should provide detailed instructions on how to do so. This is essential to guarantee that access privileges for fired workers, independent contractors, or third-party vendors are swiftly canceled.
+</li>
+   <li><b>Table of User Accounts</b>A table listing all user accounts that will either go through the transition or be disabled must be included in the transition plan. This table needs to list each account's username, associated email address, and applicable access rights. The table should also state if the account will be transitioned or disabled, along with any transition instructions.</li>
+</ol>
+<p>Finally, it should be noted that transferring user accounts and passwords is a crucial part of E-Cliniq’s transitioning its property. A seamless and safe transfer can be achieved by following account transition and disablement processes, adhering to a complete inventory, implementing password security measures, providing a user account table, and following the account transition and disablement procedures.</p>
+
+==Knowledge Transfer==
+<p>Documentation/Manuals: </p>
+<ul>
+    <li>The APC Medical Clinic will receive instructions and documentation from the project team and senior developer.</li>
+    <li>A project overview, system architecture, functional requirements, technical specifications, and other pertinent information will be included in the documentation to aid clinic employees in understanding the system and how it functions.</li>
+    <li>Step-by-step instructions on how to carry out system-related tasks are provided in the manuals.</li>
+</ul>
+
+<p>Training: </p>
+<ul>
+    <li>To guarantee that they completely comprehend the system and its procedures, the APC Medical Clinic personnel will receive individualized training from the project team and senior developer.</li>
+    <li>The personnel at the APC Medical Clinic will also have access to online training materials and tools that can assist them advance their system-related knowledge and abilities.</li>
+</ul>
+
+<p>To make sure that the knowledge transfer is successful and that any concerns or problems are dealt with as soon as possible, regular check-ins and meetings will be organized between the project team, senior developer, and APC Clinic as part of the Knowledge Transfer Plan. To make sure the clinic staff has access to the most recent information, any modifications or changes to the system will be documented and communicated to them.</p>
+
+==Schedule==
+
+![image_2023-06-22_084958572](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/122800822/cd6a3346-af69-40b7-8739-65826d0cbc34)
+
+![image_2023-06-22_085041520](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/122800822/44f61e7d-b437-4eb8-bd61-5f539521dbda)
+
+==Handover and Acceptance==
+<p>The transition plan's completion, which will contain all necessary deliverables and documentation, will signal the start of the handover and acceptance procedure. To examine the transition plan and make sure that all requirements have been completed, the project team will subsequently arrange a formal handover meeting with the project sponsor and other pertinent stakeholders.</p>
+<p>The project team will give the project sponsor and other important stakeholders a presentation of the finished transition plan as well as all necessary paperwork and deliverables at the handover meeting. After reviewing the information, the project sponsor and other involved parties will talk about any unresolved problems or issues.</p>
+<p>The project sponsor and other stakeholders will sign the formal acceptance document, which will serve as proof that the handover was successfully completed once all issues have been resolved. Along with the signatures of all parties who have examined and accepted the materials, the acceptance document will also include a checklist of all necessary deliverables and paperwork.</p>
+<p>The process for resolving any unresolved issues or worries that may come up after the handover is finished will also be described in the handover and acceptance section. This can entail using a formal dispute resolution procedure or putting corrective measures in place to deal with any flaws found.</p>
+<p>Overall, the contract transitions out plan's handover and acceptance section will offer a precise and thorough roadmap for finishing the handover process and guaranteeing that all stakeholders are happy with the results.</p>
+
+
+
+
