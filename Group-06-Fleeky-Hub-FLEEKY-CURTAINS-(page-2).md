@@ -798,7 +798,7 @@ Obtain formal acceptance from the client that the project deliverables meet thei
       <td>100%</td>
     </tr>
     <tr>
-      <td>Customer Satisfaction/td>
+      <td>Customer Satisfaction</td>
       <td>Measures the satisfaction of the customer with the project</td>
       <td>Surveys, customer feedback, or other means</td>
       <td>High</td>
