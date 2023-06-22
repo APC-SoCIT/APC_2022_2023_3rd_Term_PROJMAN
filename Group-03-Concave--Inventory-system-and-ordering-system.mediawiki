@@ -152,3 +152,35 @@ The following assumptions will be considered during the project's development: <
 The following constraints will be considered during the project's development: <br>
 •	The project will be constrained by Torrecamps' budget and timeline <br>
 •	The project will be developed to work within Torrecamps' existing business processes and constraints</p>
+<h4>4.5 Major Project Milestones</h4>
+<table width = "60%" align = "center">
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Phase </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Date </font></th>   
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Project Start </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> 08/15/2022 </font></th> 
+<tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Planning </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> 08/15/2022 - 11/09/2022 </font></th> 
+</tr>  
+<tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Analysis and Design </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> 11/26/2022 - 03/8/2023 </font></th> 
+</tr>  
+<tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Coding </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> 03/23/2023 - Present </font></th> 
+</tr> 
+<tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Beta Testing </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> 2023 </font></th> 
+</tr> 
+<tr>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> Project Complete </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = " #000000"> 2023 </font></th> 
+</tr> 
+</tr>
+<br>
+</table>
