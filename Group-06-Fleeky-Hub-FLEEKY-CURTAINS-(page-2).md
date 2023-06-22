@@ -1360,7 +1360,7 @@ Signed authorizations
   </tr>
 </table>
 
-table>
+<table>
   <tr>
     <th>Total Hours</th>
     <th>Name</th>
