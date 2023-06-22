@@ -900,3 +900,140 @@ Signed authorizations
 </li>
 </ul>
 
+<h1>Schedule Management Plan</h1>
+<h2>Introduction</h2>
+<p>Fleeky Hub scheduling management plan. Business success requires time management in today's fast-paced environment. To provide our goods and services on time, Fleeky Hub effectively manages our timetables.</p>
+<br>The schedule management plan describes the teams methods for operating the company of fleeky curtains smoothly. The group wants to maximize production, minimize downtime, and optimize resources. This approach ensures that the group will address client needs while preserving quality and efficiency.
+<br>The document will be tackling the schedule management approach, schedule control, schedule changes/thresholds, and scope change. To ensure all of the members of the group is on the same page, we will discuss our internal and customer communication processes. Since the main goal of the business is to satisfy the customers’ needs, we are dedicated to using the finest schedule management strategies to attain this aim.
+
+<h2>Schedule Management Approach</h2>
+<p>In this section of the paper, the team will be discussing what approaches the group will use in terms of managing the schedule of tasks that were previously tackled in the Work Breakdown Structure (WBS). The team has decided that ProjectLibre will be used as our scheduling tool, due to the nature of the software being open-source and user-friendly. ProjectLibre will be used by the group to create schedules or timeframes for the group to accomplish in order to schedule all activities that relate to the project, deadlines, as well as project milestones.</p>
+<br>The following are the milestones for the project schedule:
+
+  <table>
+    <tr>
+      <th>Milestone</th>
+      <th>Timeframe</th>
+    </tr>
+    <tr>
+      <td>Plan proposal</td>
+      <td>30 days (1 month/1st month)</td>
+    </tr>
+    <tr>
+      <td>Approval for proposal</td>
+      <td>14 days (2 weeks/2nd month)</td>
+    </tr>
+    <tr>
+      <td>Development of project</td>
+      <td>90 days (4 months 2nd month – 5th month)</td>
+    </tr>
+    <tr>
+      <td>Finalization of documentation</td>
+      <td>14 days (2 weeks – 5th month)</td>
+    </tr>
+    <tr>
+      <td>Complete project testing</td>
+      <td>7 days (1 week – 6th month)</td>
+    </tr>
+    <tr>
+      <td>Completion of project</td>
+      <td>7th month</td>
+    </tr>
+  </table>
+
+<p>The following are the roles and responsibilities of the members involved during the development of the schedule</p>
+  <table>
+    <tr>
+      <th>Roles</th>
+      <th>Responsibilities</th>
+    </tr>
+    <tr>
+      <td>Project Client</td>
+      <td>Handles the business and final say of the project itself</td>
+    </tr>
+    <tr>
+      <td>Project Manager</td>
+      <td>Responsible for dividing the tasks and coordinates to all of the members involved in the project.</td>
+    </tr>
+    <tr>
+      <td>Project Adviser</td>
+      <td>Gives the group professional advice and supplementary knowledge to the project and leaves resources that can help in completing the output.</td>
+    </tr>
+    <tr>
+      <td>Project Quality Assurance</td>
+      <td>Responsible for providing resources to the developers/researchers in making the project in quality.</td>
+    </tr>
+    <tr>
+      <td>Developers/team members</td>
+      <td>Develop the website and deliver the output to the client based on what they are finding.</td>
+    </tr>
+  </table>
+
+
+<h2>Schedule Control</h2>
+<p>In this section of the paper, the team must provide enough time to research, outline and revise the paper and the project. This is to ensure that the project will be up to trend for maximum capability and possibility of sales.</p>
+
+  <table>
+    <tr>
+      <th>Time</th>
+      <th>Task</th>
+    </tr>
+    <tr>
+      <td>1 day</td>
+      <td>Review and research top e-commerce websites with similar items</td>
+    </tr>
+    <tr>
+      <td>3 days</td>
+      <td>Analyze customer feedback and reviews</td>
+    </tr>
+    <tr>
+      <td>2 days</td>
+      <td>Team discussion for the current website’s design and layout and if there are certain revisions to be made</td>
+    </tr>
+    <tr>
+      <td>3 days</td>
+      <td>Analyze shopping experience for customers</td>
+    </tr>
+    <tr>
+      <td>2 days</td>
+      <td>Discuss pricing strategy</td>
+    </tr>
+    <tr>
+      <td>1 day</td>
+      <td>Review and finalize revisions done</td>
+    </tr>
+    <tr>
+      <td>1 day</td>
+      <td>Roll out updates</td>
+    </tr>
+  </table>
+
+
+<h2>Schedule Changes and Thresholds</h2>
+<p>The table shows the schedule changes and thresholds for each type of appointment (consultation, measurement, and installation). The "Change" column indicates how much notice is required to make a change to the appointment date. The "Threshold" column indicates the maximum delay that is allowed for each type of appointment.</p>
+
+  <table>
+    <tr>
+      <th>Schedule</th>
+      <th>Change</th>
+      <th>Threshold</th>
+    </tr>
+    <tr>
+      <td>Consultation</td>
+      <td>24 hours before appointment</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Measurement</td>
+      <td>48 hours before appointment</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Development</td>
+      <td>72 hours before appointment</td>
+      <td>1-hour delay max</td>
+    </tr>
+  </table>
+
+<h2>Sope Change</h2>
+<p>In this section of the paper, as the team proceeds with the changes, they must first recognize the effects and impact it can and will make the current project schedule and resources. The team must also consider the current project schedule and how the scope change will affect the schedules and availability of resources when the project moves forward.</p>
