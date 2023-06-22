@@ -113,3 +113,42 @@ An Inventory System and Ordering System for Torrecamps Company is necessary to a
      <th text-align = "left" width="220" height = "40"><font color = " #000000"> <p align=" justify">Oversee the project`s process improvement</font></th>
 <br>
 </table>
+<h1>Problem Definition</h1>
+<h4>3.1 Problem Statement</h4>
+<p align=" justify">
+Since 2017, Torrecamps Marketing has been in business and has been selling essentials. They began selling "Pandemic Essentials" including alcohol and tissues during the pandemic. As a result, they gained more customers and stock, began working with other businesses, and expanded their selection of products. Their system remained static while their inventory and client base grew, making it challenging for them to keep up with the increase in orders that needed to be handled.</p>
+<h4>3.2 Organizational Impact</h4>
+<p align=" justify">
+Having this project developed by the group can have a lot of impact if it's approved. The first one is Torrecamps Marketing. The impact this system will have on Torrecamps Marketing will be that the clients can serve customers more quickly and effectively when it comes to producing printable and digital receipts for every transaction. Next is the impact of this system on the customers. In the customers’ side, the proposed system will now produce printed receipts. This is crucial since printed receipts cannot be changed. </p>
+<h4>3.3 Technology Migration</h4>
+<p align=" justify">
+Torrecamps Marketing currently uses desktop computers, laptops and printers for their main hardware. They also use Facebook messenger, Microsoft Excel and a 25 MBPS Converge internet provider as their main network. These tools provide a lot of things going for the client. Like facebook they post pictures with prices to advertise them. Next is customers can order their desired items using facebook messenger. And lastly there will be Microsoft Excel. Excel provides the client with a lot of things like listing customer information and listing orders. Next is printing receipts and fixing orders. Lastly there is the inventory and total sales per day. 
+
+Now that the group is tasked to create a system that helps the clients. The proposed solution of the team that will be implemented is an inventory and an ordering system. The website will be able to present the items that the client is selling. Then every order of the customer will be recorded into the inventory and the ordering system.  The team will use Bootstrap studio, Visual Studio Code and XAMPP to develop the project. The website will intergrate CAMSS. The system will have a cloud-based database server. Next is tye project will have an inventory and ordering system where they can create, edit, or delete all items and information that are needed to change on the website. 3rd will be that the team plans to integrate the system in both desktop and mobile devices. The Facebook part will not be removed since it is used for their advertisement. Lastly the team will continue monitoring the website and install anti-malware software on the computer to ensure their security.  
+</p>
+<br>
+<h1>Project Overview</h1>
+<p align=" justify">
+The Inventory System and Ordering System project is a software solution designed for Torrecamps Company to efficiently manage their inventory and ordering processes. The project will be customized to meet Torrecamps' specific business requirements and will be developed to ensure seamless integration with their existing business processes. </p>
+<h4>4.1 Goals and Objectives</h4>
+<p align=" justify">
+The number of clients and the volume of stock increase together with the company's growth. Torrecamps Marketing has assigned the group the duty of developing an inventory system and an ordering system for them since keeping up with the quantity of additional work that comes with growing is not a simple task. This will significantly increase the company's ability to automate its transactional and inventory processes.</p>
+<h4>4.2 Project Performance</h4>
+<p align=" justify">
+To ensure that the project meets Torrecamps' expectations, the following performance criteria will be used: <br>
+•	The system should be able to track inventory levels accurately and provide real-time updates<br> 
+•	The system should generate inventory reports that are easy to understand and interpret <br>
+•	The system should have a clean and intuitive interface that is easy to navigate <br>
+•	The system should allow customers to place orders seamlessly and receive real-time inventory information <br>
+•	The system should be able to handle a large volume of orders and transactions </p>
+<h4>4.3 Project Assumption</h4>
+<p align=" justify">
+The following assumptions will be considered during the project's development: <br>
+•	Torrecamps has an existing IT infrastructure that can support the new system  <br>
+•	Torrecamps' staff members are adequately trained to use the new system  <br>
+•	The project team has access to all the necessary data and resources required to develop the system</p>
+<h4>4.4 Project Constraints</h4>
+<p align=" justify">
+The following constraints will be considered during the project's development: <br>
+•	The project will be constrained by Torrecamps' budget and timeline <br>
+•	The project will be developed to work within Torrecamps' existing business processes and constraints</p>
