@@ -859,3 +859,33 @@ to set achievable performance goals and track their progress  </td>
     <th>PHP 251,519.212</th>
   </tr>
 </table>
+
+<h1>Risk Management Plan </h1>
+<h5>Introduction   </h5>
+<p align=" justify">
+The Project Team conducted a Risk Management Plan which includes all possible risk that can be mitigated with various steps. <br><br>
+
+To further develop a risk management plan for IO System, the following information should be considered:   <br><br>
+   
+Risk Identification:  The team will be identifying potential risks that are connected to all operations of the IO System. These potential risks include data breaches, system failures, supplier disruptions, inaccurate inventory tracking, and insufficient user training.  <br>
+ 
+Risk Assessment: The team will evaluate the identified potential risks for its occurrence and potential impact. These risks will be assigned based on rating of the risk, considering factors such as severity, frequency, and detectability.  <br>
+
+Risk Mitigation Strategies: The team will develop strategies to mitigate the identified risks. It can be preventive, detective, and corrective measures. Example: 
+ Providing comprehensive user training and documentation to minimize errors resulting from insufficient user knowledge.  
+Establishing alternative supplier options or maintaining safety stock to mitigate the risk of supplier disruptions. <br><br>
+
+ 
+
+Contingency Planning: The team will develop contingency plans for high-risk events that cannot be eliminated. For example, prepare backup systems or backup computers to maintain operations during system outages. 
+</p>
+
+<h5> Top Three Risks  </h5>
+<p align=" justify">
+1. Data Breaches and Security Threats: The risk is having unauthorized access to sensitive data, customer information, or financial records can lead to data breaches, identity theft and/or reputational damage. The mitigation of this is implement security measures such as encryption and secure authentication mechanisms such as MFAs. Moreover, conduct regular security testing to identify vulnerabilities. <br> <br>
+ 
+2. Performance Issues: The risks are system failures, unplanned downtime, and/or slow performance. It can impact the customer experience and can lead to revenue loss. The mitigation is to regularly monitor system performance, optimize code, and database queries for efficiency. Moreover, implement a scalable infrastructure to handle increased traffic during peak periods. <br> <br>
+
+3. Inventory Management Issues: The risk is dependencies on suppliers for inventory, raw materials, or product availability can lead to disruptions in the supply chain, delay of orders, and customer dissatisfaction. The mitigation is to establish strong relationships with suppliers and maintain alternative supplier options. Implement effective inventory management practices such as real-time tracking, and demand forecasting to ensure optimal stock levels. <br> <br>
+
+ 
