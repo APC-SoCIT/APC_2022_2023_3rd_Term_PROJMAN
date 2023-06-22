@@ -2810,10 +2810,10 @@ Upon resolving all outstanding issues, the project sponsor will proceed to sign 
 The handover and acceptance section will also include a delineation of the procedure for addressing and resolving any remaining issues or concerns that may emerge following the handover's completion.
 
 <span id="appendices"></span>
-= '''9. Appendices''' =
+= '''8. Appendices''' =
 
 <span id="project-cost-summary"></span>
-== '''9.1 Project Cost Summary''' ==
+== '''8.1 Project Cost Summary''' ==
 
 {| class="wikitable"
 |-
@@ -2854,15 +2854,15 @@ The handover and acceptance section will also include a delineation of the proce
 Table :Project Cost Summary
 
 <span id="project-methodology"></span>
-= '''9.2 Project Methodology''' =
+= '''8.2 Project Methodology''' =
 
 <img src=https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/e5be4242-7507-4eb2-aa7d-067a3589d2fa>
 
 <span id="system-requirements-specification"></span>
-= '''9.3 System Requirements Specification''' =
+= '''8.3 System Requirements Specification''' =
 
 <span id="system-requirements-for-development"></span>
-=== '''9.3.1 System Requirements for Development''' ===
+=== '''8.3.1 System Requirements for Development''' ===
 
 {| class="wikitable"
 |-
@@ -2898,7 +2898,7 @@ Internet Explorer (Windows 10* version: 11.0, Windows version: 8.1, Windows RT v
 |}
 
 <span id="system-requirements-for-deployment"></span>
-== '''9.3.2 System Requirements for Deployment''' ==
+== '''8.3.2 System Requirements for Deployment''' ==
 
 {| class="wikitable"
 |-
@@ -2920,10 +2920,10 @@ Internet Explorer (Windows 10* version: 11.0, Windows version: 8.1, Windows RT v
 |}
 
 <span id="development-tools-specification"></span>
-== '''9.4 Development Tools Specification''' ==
+== '''8.4 Development Tools Specification''' ==
 
 <span id="development-tools-specification-1"></span>
-=== '''9.4.1 Development Tools Specification''' ===
+=== '''8.4.1 Development Tools Specification''' ===
 
 {| class="wikitable"
 |-
@@ -2950,7 +2950,7 @@ Internet Explorer (Windows 10* version: 11.0, Windows version: 8.1, Windows RT v
 |}
 
 <span id="deployment-tools-specification"></span>
-=== '''9.4.2 Deployment Tools Specification''' ===
+=== '''8.4.2 Deployment Tools Specification''' ===
 
 {| class="wikitable"
 |-
@@ -2980,7 +2980,7 @@ Internet Explorer (Windows 10* version: 11.0, Windows version: 8.1, Windows RT v
 |}
 
 <span id="wbs-dictionary"></span>
-== '''9.5 WBS Dictionary''' ==
+== '''8.5 WBS Dictionary''' ==
 
 <img src=https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/a1cae41f-765c-462a-a582-4dff6c2a32ab>
 
