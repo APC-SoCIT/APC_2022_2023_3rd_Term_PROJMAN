@@ -1264,6 +1264,7 @@ Signed authorizations
 <p>The budget for this project is detailed below.  Costs for this project are presented in various categories are the following:</p>
 <table>
   <tr>
+    <th>Item</th>
     <th>Description</th>
     <th>Unit Cost PHP</th>
     <th>Total Cost PHP</th>
