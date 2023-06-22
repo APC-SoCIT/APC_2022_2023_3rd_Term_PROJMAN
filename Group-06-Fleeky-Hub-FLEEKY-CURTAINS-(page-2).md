@@ -1064,3 +1064,300 @@ Signed authorizations
 <p>Overall, the Cost Management Plan for the Fleeky Hub project is designed to ensure that all costs associated with the project are effectively managed and controlled, so that the project can be completed within the approved budget. This will help ensure that the project is completed successfully and on time.</p>
 
 <h2>Cost Management Approach</h2>
+<h3>The Cost Management approach for the dispatch directory system project will be based on the following principles:</h3>
+  
+  <h3>a) Clear definitions of costs:</h3>
+  <ul>
+    <li>The project team will work closely with stakeholders to clearly define and document the cost associated with the project, including development, materials, tools, API, and other expenses that are included within the project development contract agreement.</li>
+  </ul>
+  
+  <h3>b) Budget development tracking:</h3>
+  <ul>
+    <li>A detailed project budget will be developed and regularly updated throughout the project, with costs tracked and reported in real time.</li>
+  </ul>
+  
+  <h3>c) Cost estimates:</h3>
+  <ul>
+    <li>The project team will use a variety of cost estimation techniques to ensure that the project budget is accurate and realistic.</li>
+  </ul>
+  
+  <h3>d) Cost variance analysis:</h3>
+  <ul>
+    <li>The project team will closely monitor costs throughout the project and perform variance analysis to identify and address any cost overruns or savings.</li>
+  </ul>
+  
+  <h3>e) Cost management roles and responsibilities:</h3>
+  <ul>
+    <li>Clear roles and responsibilities for cost management will be defined and communicated to all project team members.</li>
+  </ul>
+  
+  <h3>f) Approval process for changes:</h3>
+  <ul>
+    <li>A formal process for approving changes to the project or its budget will be established and implemented.</li>
+  </ul>
+  
+  <h3>g) Reporting and communication:</h3>
+  <ul>
+    <li>Regular cost reports will be prepared and shared with stakeholders, including the project sponsor, project team, and management.</li>
+  </ul>
+  
+  <p>By following these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
+
+  <h2>Measuring Project Costs</h2>
+  <h3>1. Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV)</h3>
+  <p>These measures the budgeted costs of the work that was planned to be completed at a specific point of time.</p>
+  <p>Example:</p>
+  <p>To calculate the BCWS or Planned Value, we need to multiply the total labor cost of the TESTING WBS by its percentage of completion:</p>
+  <p>BCWS = Total labor cost of TESTING WBS x Percentage of completion</p>
+  <p>= (PHP 25,000) x 33.71%</p>
+  <p>= PHP 8,427.50</p>
+  <p>Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 8,427.50</p>
+
+  <h2>2. Budgeted Cost of Work Performed (BCWP) or Earned Value (EV)</h2>
+  <p>This measures the budgeted costs of the work that has actually been completed at a specific point in time.</p>
+  <p>Example:</p>
+  <p>To calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV), we need to know the percentage of work completed for each task or WBS element. Assuming that the percentage of completion for each of the Testing Phase tasks are as follows:</p>
+  <p>Week 26: Testing Phase 1 - 100%</p>
+  <p>Week 27: Testing Phase 2 - 75%</p>
+  <p>Week 28: Testing Phase 3 - 50%</p>
+  <p>Week 29: Testing Phase 4 - 25%</p>
+  <p>Then, we can calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) as follows:</p>
+  <p>EV = BCWS x % of work completed</p>
+  <p>EV = (₱25,000 x 33.71%) + (₱2,5000 x 8.43% x 0.75) + (₱2,500 x 8.43% x 0.50) + (₱2,500 x 8.43% x 0.25)</p>
+  <p>EV = ₱8,427.50 + ₱15,806.25 + ₱10,537.50 + ₱5,268,75</p>
+  <p>EV = ₱40,040.00</p>
+  <p>Therefore, the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) is ₱40,040.00.</p>
+
+  <h2>3. Actual Cost of Work Performed (ACWP) or Actual Cost (AC)</h2>
+  <p>This measures the actual costs incurred for the work that has been completed at a specific point in time.</p>
+  <p>Example:</p>
+  <p>Assuming that the Actual Cost for the TESTING WBS is PHP 10,000, then:</p>
+  <p>AC = PHP 10,000</p>
+  <p>Therefore, the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) is PHP 10,000.</p>
+
+  <p>These metrics will be used to perform cost variance analysis (CV), schedule performance index (SPI), and cost performance index (CPI) to measure the project's cost performance over time.</p>
+  <p>To assist in capturing these metrics, the project team will use project management software that is capable of tracking and reporting on EVM metrics. This software will also be used to forecast future project costs, and to review cost performance over time, across work packages or schedule activities.</p>
+
+  <h3>a) Cost Variance (CV)</h3>
+  <p>Cost Variance measures the difference between the actual cost and the planned cost of the project. It is calculated by subtracting the actual cost from the planned cost. A negative CV indicates that the project is over budget, while a positive CV indicates that the project is under budget.</p>
+  <p>Example:</p>
+  <p>To compute the Cost Variance (CV), we need to subtract the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) from the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV). From the previous example, the BCWP or EV is ₱110,595, and the ACWP or AC is ₱120,000.</p>
+  <p>CV = EV - AC</p>
+  <p>CV = ₱8,427.50 - ₱10,000</p>
+  <p>CV = -₱1,572.5</p>
+  <p>Therefore, the Cost Variance (CV) for the Testing WBS is -₱1,572.50. A negative CV means that the project is over budget.</p>
+
+  <h3>b) Schedule Performance Index (SPI)</h3>
+  <p>Schedule Performance Index measures the project's schedule performance by comparing the planned schedule to the actual schedule. This index is calculated as the ratio of the BCWP to the BCWS. It is calculated by dividing the earned value by the planned value. A value of 1 indicates that the project is on schedule, while a value less than 1 indicates that the project is behind schedule, and a value greater than 1 indicates that the project is ahead of schedule.</p>
+  <p>Example:</p>
+  <p>From the previous computations, we have:</p>
+  <p>Earned Value (EV) = ₱40,040.00</p>
+  <p>Planned Value (PV) = ₱40,000.00</p>
+  <p>Plugging these values into the formula, we get:</p>
+  <p>SPI = EV / PV</p>
+  <p>SPI = ₱40,040.00 / ₱39,000.00</p>
+  <p>SPI = 1.027</p>
+  <p>Therefore, the Schedule Performance Index (SPI) is 1.027. This indicates that the project is ahead of schedule, as the SPI is greater than 1.</p>
+
+  <h3>c) Cost Performance Index (CPI)</h3>
+  <p>Cost Performance Index measures the project's cost performance by comparing the actual cost to the planned cost. This index is calculated as the ratio of the BCWP to the ACWP. It is calculated by dividing the earned value by the actual cost. A value of 1 indicates that the project is on budget, while a value less than 1 indicates that the project is over budget, and a value greater than 1 indicates that the project is under budget.</p>
+  <p>Example:</p>
+  <p>To calculate the Cost Performance Index (CPI), we need to use the following formula:</p>
+  <p>CPI = EV / AC</p>
+  <p>where:</p>
+  <p>EV = Earned Value (BCWP)</p>
+  <p>AC = Actual Cost (ACWP)</p>
+  <p>From the previous computations, we have:</p>
+  <p>EV = ₱40,040.00</p>
+  <p>AC = ₱10,000.00</p>
+  <p>CPI = EV / AC</p>
+  <p>CPI = ₱40,040 / ₱10,000</p>
+  <p>CPI = 4</p>
+  <p>Therefore, the Cost Performance Index (CPI) is 4. This means that for every one peso spent, the project has earned 4 pesos in value. This indicates that the project is on budget and may continue to bring the costs sustainable within the planned budget.</p>
+
+  <p>In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.</p>
+
+  <h2>Reporting Format</h2>
+  <h3>START TABLE HE ????</h3>
+<p>•	The budgeted amount for the website development is higher than the actual amount just to be safe whenever possible improvement or modification will be added.
+</p>•	The domain name and hosting for the website is to be subscribed to Linode for two dollars per month and we increased the allotted budget for the whole year.
+<p>•	The testing amount is greater than from the allotted budget for the action made since there are functions that needed to address to complete the whole website itself.
+</p>  
+<h2>Cost Variance Response Process</h2>
+<h3>The Cost Variance Response process for Fleeky Hub project will be as follows:</h3>
+
+<ol>
+  <li>
+    <h3>Control Thresholds:</h3>
+    <ul>
+      <li>Several control criteria for cost variation will be specified for the project.</li>
+      <li>These limits will be 3%, 7%, and 10% of the project's overall budget.</li>
+      <li>The project will be deemed to have a cost variance if any of these criteria are reached.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Identification of Variance:</h3>
+    <ul>
+      <li>The Project Manager oversees locating any cost variations and informing the Project Sponsor about them.</li>
+      <li>To find and monitor any variations, the project manager will make use of earned value metrics and other cost management tools.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Analysis of Variance:</h3>
+    <ul>
+      <li>To pinpoint the source of the issue and provide choices for remedial action, the project manager will examine the deviation.</li>
+      <li>The project manager will also take into account how the deviation may affect the project's scope and timeline.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Presentation of Options:</h3>
+    <ul>
+      <li>The project manager will give the project sponsor a presentation on the possibilities for remedial action.</li>
+      <li>The choices will depend on the underlying reason for the deviation and how it affects the project's scope and timeline.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Approval of Corrective Action:</h3>
+    <ul>
+      <li>After considering the available choices, the project sponsor will decide on a course of action to get the project back on track.</li>
+      <li>This can entail raising the budget, lowering the scope or quality, or taking other remedial measures.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Implementation of Corrective Action:</h3>
+    <ul>
+      <li>The project manager will put the agreed corrective action into practice and keep an eye on the outcomes.</li>
+      <li>The project manager will also make the necessary updates to the budget and timeline.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Reporting:</h3>
+    <ul>
+      <li>In the monthly project status report, the project manager will note any cost variances, remedial actions performed, and their outcomes.</li>
+      <li>The project manager will also give updates on the budget and timeline for the project.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Throughout the course of the project, the Cost Variance Response procedure will be active. The Project Sponsor will oversee authorizing any necessary remedial steps, while the Project Manager will be in charge of monitoring and regulating the project expenditures.</p>
+
+<h2>Cost Change Control Process</h2>
+
+<h3>The cost change control process</h3>
+<p>The cost change control process will follow the established project change request process. Approvals for project budget/cost changes must be approved by the project sponsor.</p>
+
+<p>In Fleeky Hub, there are several processes to be followed:</p>
+
+<ol>
+  <li>Identify the change: The curtain business identifies a cost change related to the development of their website.</li>
+  <li>Analyze the impact: The impact of the cost change is assessed, including its effect on project timelines, resource requirements, and budgetary constraints.</li>
+  <li>Evaluate alternatives: The business considers different solutions to address the cost change, such as increasing the budget, reprioritizing features, or delaying the website launch.</li>
+  <li>Obtain approval: The proposed solution is presented to the project sponsor for approval.</li>
+  <li>Communicate the change: The cost change is communicated to all relevant stakeholders, including the development team, project manager, and finance department.</li>
+  <li>Implement the change: The chosen solution is implemented promptly and effectively.</li>
+  <li>Monitor the results: The project manager and finance department monitor the actual costs against the revised budget and track the impact of the change on the project timeline.</li>
+</ol>
+
+<p>By following this process, the curtain business can successfully manage cost changes related to the development of their website, ensuring that the project remains within budget and on schedule.</p>
+
+<h2>Project Budget</h2>
+<p>The budget for this project is detailed below.  Costs for this project are presented in various categories are the following:</p>
+<table>
+  <tr>
+    <th>Description</th>
+    <th>Unit Cost (₱)</th>
+    <th>Total Cost (₱)</th>
+  </tr>
+  <tr>
+    <td>Electricity</td>
+    <td>1 unit = 1 month</td>
+    <td>5,000</td>
+    <td>1,260,000.00</td>
+  </tr>
+  <tr>
+    <td>Internet Monthly Subscription 1K</td>
+    <td>12 unit = 1 user [(12 X 1,000) X5]</td>
+    <td>12,000</td>
+    <td>60,000.00</td>
+  </tr>
+  <tr>
+    <td>Hardware</td>
+    <td>Computer for Full-Stack Developer - (ROG GL5315)</td>
+    <td>55,000.00</td>
+    <td>55,000.00</td>
+  </tr>
+  <tr>
+    <td>Hardware</td>
+    <td>Computer for UI/UX Design - (OMEN 16)</td>
+    <td>80,000.00</td>
+    <td>80,000.00</td>
+  </tr>
+  <tr>
+    <td>Hardware</td>
+    <td>Computer for Project Leader / Quality Assurance (MacBook)</td>
+    <td>75,000.00</td>
+    <td>75,000.00</td>
+  </tr>
+  <tr>
+    <td>Hardware</td>
+    <td>Computer for Project Manager - (Acer Swift)</td>
+    <td>40,000.00</td>
+    <td>40,000.00</td>
+  </tr>
+  <tr>
+    <td>Hardware</td>
+    <td>Computer for Front end Developer - (Desktop)</td>
+    <td>80,145.00</td>
+    <td>80,145.00</td>
+  </tr>
+  <tr>
+    <td>Food Allowance</td>
+    <td>12 Months</td>
+    <td></td>
+    <td>450,000.00</td>
+  </tr>
+  <tr>
+    <td>Office Space Monthly Rent</td>
+    <td>1 unit = 1 month</td>
+    <td></td>
+    <td>12,000.00</td>
+  </tr>
+  <tr>
+    <td>Utilities</td>
+    <td>Web Hosting (12 months)</td>
+    <td>250</td>
+    <td>3,000.00</td>
+  </tr>
+  <tr>
+    <td>Utilities</td>
+    <td>Cloud Hosting (12 months)</td>
+    <td>1,000</td>
+    <td>12,000.00</td>
+  </tr>
+  <tr>
+    <td>Software</td>
+    <td>Windows 11 Home (5 Users)</td>
+    <td>10,000</td>
+    <td>50,000.00</td>
+  </tr>
+  <tr>
+    <td>Software</td>
+    <td>Microsoft 365 (15 Devices) Lifetime</td>
+    <td>1,880.00</td>
+    <td>1,880.00</td>
+  </tr>
+  <tr>
+    <td>Transportation</td>
+    <td>12 Unit = 12 months</td>
+    <td></td>
+    <td>1,200.00</td>
+  </tr>
+  <tr>
+    <td><strong>TOTAL:</strong></td>
+    <td></td>
+    <td></td>
+    <td><strong>2,180,225.00</strong></td>
+  </tr>
+</table>
+
+<p>The various elements and related expenses for creating the Fleeky Hub are broken down in this table, including web development, graphic design, hosting, domain registration, marketing, and contingency charges. The overall project cost, which in this case is 19,500 PHP, is also included in the table. This budget table can assist in managing the expenditures connected with the website development project and helping the business plan.</p>
