@@ -1367,6 +1367,12 @@ Signed authorizations
   </tr>
 </table>
 
+<p>
+The figure provides a detailed breakdown of the costs involved in running a development project or team, amounting to a total of ₱1,444,025.00. Major expenses include electricity at ₱105,000 and water at ₱300,000 for a year. Hardware costs for specific team roles total ₱410,145.00. Food allowance amounts to ₱450,000.00 for the entire year. Office space monthly rent is ₱12,000.00. Software expenses include Windows 11 Home at ₱50,000 for five users and a one-time payment of ₱1,880.00 for Microsoft 365 on 15 devices. Transportation costs reach ₱120,000. The figure provides a comprehensive overview, highlighting significant expenses in areas such as utilities, hardware, and food allowance, while also considering software licenses, office rent, and transportation.
+</p>
+
+
+
 <table>
   <tr>
     <th>Total Hours</th>
@@ -1413,6 +1419,6 @@ Signed authorizations
 </table>
 
 
-<p>The various elements and related expenses for creating the Fleeky Hub are broken down in this table, including web development, graphic design, hosting, domain registration, marketing, and contingency charges. The overall project cost, which in this case is 19,500 PHP, is also included in the table. This budget table can assist in managing the expenditures connected with the website development project and helping the business plan.</p>
+<p>The figure provided showcases the team composition, hours worked, roles, and allocated budget for a project. The total number of hours worked by the team amounts to 8,800 hours, with Bryan Gel Fabellore, the Full Stack Developer, contributing the highest with 2,500 hours, while Neil Albert Garcia, the Project Manager, worked the least with 1,350 hours. The team comprises of Bryan Gel Fabellore, Gabriel Luis Antonio Perez, Joshua Roxas, Pallas Dale Fontiveros, and Neil Albert Garcia, each fulfilling their respective roles as a Full Stack Developer, Front End Developer, UI/UX Developer, Project Leader / Quality Assurance, and Project Manager. The allocated budget for the project is PHP 1,585,200.00, with Bryan Gel Fabellore having the highest allocation of PHP 600,000.00, followed by Pallas Dale Fontiveros with PHP 403,200.00, Gabriel Luis Antonio Perez with PHP 300,000.00, Joshua Roxas with PHP 249,600.00, and Neil Albert Garcia with PHP 32,400.00. This figure provides valuable insights into the team's efforts, resource distribution, and associated costs for the project.</p>
 
 
