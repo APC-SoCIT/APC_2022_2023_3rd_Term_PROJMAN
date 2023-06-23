@@ -1752,14 +1752,6 @@ Implement lessons learned from previous projects to enhance communication practi
     <li>Updates on any changes or incidents that may impact regulatory compliance.</li>
   </ul>
 
-  <h4>Community and Public:</h4>
-  <ul>
-    <li>Transparent communication on the company's social and environmental initiatives.</li>
-    <li>Opportunities for community engagement, feedback, and involvement.</li>
-    <li>Communication regarding any community events, sponsorships, or partnerships.</li>
-    <li>Channels for addressing concerns or inquiries from the public.</li>
-  </ul>
-
   <p>Understanding and managing these communication constraints will enable the project team of Fleeky Curtains to proactively address challenges, adapt their communication approach, and ensure effective and efficient communication among team members and stakeholders throughout the project lifecycle.</p>
 
 <p>Understanding and fulfilling these stakeholder communication requirements will help ensure effective engagement, alignment, and satisfaction among the various stakeholders involved in the Fleeky Curtains project. Regular and tailored communication efforts will contribute to building strong relationships, managing expectations, and maximizing the project's overall success.</p>
@@ -1787,7 +1779,7 @@ Implement lessons learned from previous projects to enhance communication practi
       <td>Customers: Provide feedback and requirements, test the website, and provide insights to improve the user experience. Fleeky Curtains Management: Provide guidance, approve project decisions, and ensure the project aligns with business goals. Employees: Utilize and provide feedback on the website, actively participate in testing, and contribute to the project's success. Investors: Provide financial support and expect a return on investment. Suppliers: Coordinate with the project team to ensure the smooth integration of their products/services into the website.</td>
     </tr>
     <tr>
-      <td>Development Team</td>
+      <td>Developers</td>
       <td>Designs, develops, and maintains the Fleeky Hub website. Collaborates with the project manager to define technical requirements and specifications. Translates design mock-ups and user stories into functional code. Conducts unit testing and debugging of the website. Integrates third-party services and APIs as required. Implements security measures and ensures data protection. Works closely with the QA team to resolve any identified issues or bugs. Maintains documentation of the codebase and provides support for future enhancements or updates.</td>
     </tr>
   </table>
@@ -2673,7 +2665,6 @@ The following are the roles and duties for the quality management plan: </p>
   <li>Reviewing Customer Feedback</li>
   <p>The project team will regularly review customer feedback to identify any issues or areas for improvement. This feedback will be used to inform the continuous improvement process and ensure that the product meets customer needs and expectations.</p>
 
-  <li>Quality Assurance Metrics</li>
   <p>The quality assurance metrics will be closely monitored, tracked, and reported on a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and implement improvements. The goal is to ensure that the Fleeky Hub meets the highest quality standards, and that all quality assurance metrics are closely monitored to ensure the project's success.</p>
 </ul>
 
