@@ -83,7 +83,7 @@
 
 <p> In this table, each checklist item is listed in the first column. The second column has a checkbox for "Yes" to indicate that the item meets the quality standard, the third column has a checkbox for "No" to indicate that the item does not meet the quality standard, and the fourth column has a checkbox for "N/A" to indicate that the item is not applicable to the website being evaluated. The evaluator can mark the appropriate checkbox for each checklist item as they go through the evaluation process. </p>
 
-<table border="1" align="center">
+<table>
   <tr>
     <th>Checklist Item</th>
     <th>Yes</th>
@@ -92,65 +92,48 @@
   </tr>
   <tr>
     <td>Navigation is easy to use and logical</td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Content is of high quality and relevant</td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Visual design is professional and visually appealing</td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Website loads quickly and is responsive</td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Website is optimized for mobile devices</td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Website is secure and protected against hacks or breaches</td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Website is optimized for search engines</td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
-|-
-! Checklist Item !! Yes !! No !! N/A
-|-
-| Navigation is easy to use and logical || || || 
-|-
-| Content is of high quality and relevant || || || 
-|-
-| Visual design is professional and visually appealing || || || 
-|-
-| Website loads quickly and is responsive || || || 
-|-
-| Website is optimized for mobile devices || || || 
-|-
-| Website is secure and protected against hacks or breaches || || || 
-|-
-| Website is optimized for search engines || || || 
-|-
 
 <h2> Scope Verification </h2>
 
