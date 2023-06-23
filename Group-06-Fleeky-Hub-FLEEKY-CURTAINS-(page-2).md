@@ -1360,9 +1360,9 @@ Signed authorizations
     <td>120,000</td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
     <td>TOTAL:</td>
-    <td></td>
-    <td></td>
     <td>1,444,025.00</td>
   </tr>
 </table>
