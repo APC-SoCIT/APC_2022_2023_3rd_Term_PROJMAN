@@ -1104,7 +1104,7 @@ Signed authorizations
   <p>By following these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
 
   <h2>Measuring Project Costs</h2>
-  <h2>The Cost Management Plan</h2>
+  <h3>The Cost Management Plan</h3>
 <p>The Cost Management Plan for the Fleeky Hub project will include a detailed approach for measuring project cost using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:</p>
 
 <ol>
