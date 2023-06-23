@@ -2694,21 +2694,6 @@ The following are the roles and duties for the quality management plan: </p>
   <li>Continuous Monitoring:</li>
   <p>After deployment, the project team will monitor the effectiveness of the Fleeky Hub. This will involve keeping an eye on important performance measures including user happiness, response time, and system uptime. This will provide essential information to aid with any system upgrades and identify any problems or bottlenecks.</p>
 </ul>
-  <h2>Quality Metrics for Monitoring</h2>
-
-  <p>The following quality metrics will be used to monitor and assess the system's performance:</p>
-
-  <ul>
-    <li>Defect Density: The number of defects found per unit of measure (e.g., per KLOC)</li>
-    <li>Defect Severity: The classification of defects based on their impact on the system.</li>
-    <li>Test Coverage: The percentage of the system that has been tested.</li>
-    <li>Test Case Pass Rate: The percentage of test cases that have been passed.</li>
-    <li>User Happiness: Measured through surveys and feedback from users.</li>
-    <li>Response Time: The time taken for the system to respond to user requests.</li>
-    <li>System Uptime: The percentage of time the system is available and functioning as expected.</li>
-    <li>Tracking and Documenting Quality Evaluations: The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.</li>
-    <li>Continuous Improvement: The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.</li>
-  </ul>
 
   <h2>Quality Control Measurements</h2>
 
