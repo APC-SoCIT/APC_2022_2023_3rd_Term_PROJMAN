@@ -1104,78 +1104,91 @@ Signed authorizations
   <p>By following these principles and practices, the project team will be able to effectively manage costs and ensure that the project stays on budget.</p>
 
   <h2>Measuring Project Costs</h2>
-  <h3>1. Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV)</h3>
-  <p>These measures the budgeted costs of the work that was planned to be completed at a specific point of time.</p>
-  <p>Example:</p>
-  <p>To calculate the BCWS or Planned Value, we need to multiply the total labor cost of the TESTING WBS by its percentage of completion:</p>
-  <p>BCWS = Total labor cost of TESTING WBS x Percentage of completion</p>
-  <p>= (PHP 25,000) x 33.71%</p>
-  <p>= PHP 8,427.50</p>
-  <p>Therefore, the Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV) for the TESTING WBS is PHP 8,427.50</p>
+  <h2>The Cost Management Plan</h2>
+<p>The Cost Management Plan for the Fleeky Hub project will include a detailed approach for measuring project cost using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:</p>
 
-  <h2>2. Budgeted Cost of Work Performed (BCWP) or Earned Value (EV)</h2>
-  <p>This measures the budgeted costs of the work that has actually been completed at a specific point in time.</p>
-  <p>Example:</p>
-  <p>To calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV), we need to know the percentage of work completed for each task or WBS element. Assuming that the percentage of completion for each of the Testing Phase tasks are as follows:</p>
-  <p>Week 26: Testing Phase 1 - 100%</p>
-  <p>Week 27: Testing Phase 2 - 75%</p>
-  <p>Week 28: Testing Phase 3 - 50%</p>
-  <p>Week 29: Testing Phase 4 - 25%</p>
-  <p>Then, we can calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) as follows:</p>
-  <p>EV = BCWS x % of work completed</p>
-  <p>EV = (₱25,000 x 33.71%) + (₱2,5000 x 8.43% x 0.75) + (₱2,500 x 8.43% x 0.50) + (₱2,500 x 8.43% x 0.25)</p>
-  <p>EV = ₱8,427.50 + ₱15,806.25 + ₱10,537.50 + ₱5,268,75</p>
-  <p>EV = ₱40,040.00</p>
-  <p>Therefore, the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) is ₱40,040.00.</p>
+<ol>
+  <li>
+    <strong>Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV):</strong> These measures the budgeted costs of the work that was planned to be completed at a specific point of time.
+  </li>
+  <li>
+    <strong>Budgeted Cost of Work Performed (BCWP) or Earned Value (EV):</strong> These measures the budgeted costs of the work that has been completed at a specific point in time.
+  </li>
+</ol>
 
-  <h2>3. Actual Cost of Work Performed (ACWP) or Actual Cost (AC)</h2>
-  <p>This measures the actual costs incurred for the work that has been completed at a specific point in time.</p>
-  <p>Example:</p>
-  <p>Assuming that the Actual Cost for the TESTING WBS is PHP 10,000, then:</p>
-  <p>AC = PHP 10,000</p>
-  <p>Therefore, the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) is PHP 10,000.</p>
+<p>Example:</p>
 
-  <p>These metrics will be used to perform cost variance analysis (CV), schedule performance index (SPI), and cost performance index (CPI) to measure the project's cost performance over time.</p>
-  <p>To assist in capturing these metrics, the project team will use project management software that is capable of tracking and reporting on EVM metrics. This software will also be used to forecast future project costs, and to review cost performance over time, across work packages or schedule activities.</p>
+<p>To calculate the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV), we need to know the percentage of work completed for each task or WBS element. Assuming that the percentage of completion for each of the Testing Phase tasks are as follows:</p>
 
-  <h3>a) Cost Variance (CV)</h3>
-  <p>Cost Variance measures the difference between the actual cost and the planned cost of the project. It is calculated by subtracting the actual cost from the planned cost. A negative CV indicates that the project is over budget, while a positive CV indicates that the project is under budget.</p>
-  <p>Example:</p>
-  <p>To compute the Cost Variance (CV), we need to subtract the Actual Cost of Work Performed (ACWP) or Actual Cost (AC) from the Budgeted Cost of Work Performed (BCWP) or Earned Value (EV). From the previous example, the BCWP or EV is ₱110,595, and the ACWP or AC is ₱120,000.</p>
-  <p>CV = EV - AC</p>
-  <p>CV = ₱8,427.50 - ₱10,000</p>
-  <p>CV = -₱1,572.5</p>
-  <p>Therefore, the Cost Variance (CV) for the Testing WBS is -₱1,572.50. A negative CV means that the project is over budget.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Task</th>
+      <th>Percentage of Completion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>26</td>
+      <td>Testing Phase 1</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Testing Phase 2</td>
+      <td>75%</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Testing Phase 3</td>
+      <td>50%</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Testing Phase 4</td>
+      <td>25%</td>
+    </tr>
+  </tbody>
+</table>
 
-  <h3>b) Schedule Performance Index (SPI)</h3>
-  <p>Schedule Performance Index measures the project's schedule performance by comparing the planned schedule to the actual schedule. This index is calculated as the ratio of the BCWP to the BCWS. It is calculated by dividing the earned value by the planned value. A value of 1 indicates that the project is on schedule, while a value less than 1 indicates that the project is behind schedule, and a value greater than 1 indicates that the project is ahead of schedule.</p>
-  <p>Example:</p>
-  <p>From the previous computations, we have:</p>
-  <p>Earned Value (EV) = ₱40,040.00</p>
-  <p>Planned Value (PV) = ₱40,000.00</p>
-  <p>Plugging these values into the formula, we get:</p>
-  <p>SPI = EV / PV</p>
-  <p>SPI = ₱40,040.00 / ₱39,000.00</p>
-  <p>SPI = 1.027</p>
-  <p>Therefore, the Schedule Performance Index (SPI) is 1.027. This indicates that the project is ahead of schedule, as the SPI is greater than 1.</p>
+<p>
+  <strong>Actual Cost of Work Performed (ACWP) or Actual Cost (AC):</strong> These measures the actual costs incurred for the work that has been completed at a specific point in time.
+</p>
 
-  <h3>c) Cost Performance Index (CPI)</h3>
-  <p>Cost Performance Index measures the project's cost performance by comparing the actual cost to the planned cost. This index is calculated as the ratio of the BCWP to the ACWP. It is calculated by dividing the earned value by the actual cost. A value of 1 indicates that the project is on budget, while a value less than 1 indicates that the project is over budget, and a value greater than 1 indicates that the project is under budget.</p>
-  <p>Example:</p>
-  <p>To calculate the Cost Performance Index (CPI), we need to use the following formula:</p>
-  <p>CPI = EV / AC</p>
-  <p>where:</p>
-  <p>EV = Earned Value (BCWP)</p>
-  <p>AC = Actual Cost (ACWP)</p>
-  <p>From the previous computations, we have:</p>
-  <p>EV = ₱40,040.00</p>
-  <p>AC = ₱10,000.00</p>
-  <p>CPI = EV / AC</p>
-  <p>CPI = ₱40,040 / ₱10,000</p>
-  <p>CPI = 4</p>
-  <p>Therefore, the Cost Performance Index (CPI) is 4. This means that for every one peso spent, the project has earned 4 pesos in value. This indicates that the project is on budget and may continue to bring the costs sustainable within the planned budget.</p>
+<p>
+  These metrics will be used to perform cost variance analysis (CV), schedule performance index (SPI), and cost performance index (CPI) to measure the project's cost performance over time. To assist in capturing these metrics, the project team will use project management software that is capable of tracking and reporting on EVM metrics. This software will also be used to forecast future project costs and to review cost performance over time, across work packages or schedule activities.
+</p>
 
-  <p>In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.</p>
+<p>
+  <strong>a. Cost Variance (CV):</strong> Measures the difference between the actual cost and the planned cost of the project. It is calculated by subtracting the actual cost from the planned cost. A negative CV indicates that the project is over budget, while a positive CV indicates that the project is under budget.
+</p>
+
+<p>
+  <strong>b. Schedule Performance Index (SPI):</strong> Measures the project's schedule performance by comparing the planned schedule to the actual schedule. This index is calculated as the ratio of the BCWP to the BCWS. It is calculated by dividing the earned value by the planned value. A value of 1 indicates that the project is on schedule, while a value less than 1 indicates that the project is behind schedule, and a value greater than 1 indicates that the project is ahead of schedule.
+</p>
+
+<p>
+  <strong>c. Cost Performance Index (CPI):</strong> Measures the project's cost performance by comparing the actual cost to the planned cost. This index is calculated as the ratio of the BCWP to the ACWP. It is calculated by dividing the value earned by the actual cost. A value of 1 indicates that the project is on budget, while a value less than 1 indicates that the project is over budget, and a value greater than 1 indicates that the project is under budget.
+</p>
+
+<p>Example:</p>
+
+<p>
+  To calculate the Cost Performance Index (CPI), we need to use the following formula:<br>
+  CPI = EV / AC<br>
+  where:<br>
+  EV = Earned Value (BCWP)<br>
+  AC = Actual Cost (ACWP)
+</p>
+
+<p>
+  Therefore, the Cost Performance Index (CPI) is 4. This means that for every one peso spent, the project has earned 4 pesos in value. This indicates that the project is on budget and may continue to bring the costs sustainable within the planned budget.
+</p>
+
+<p>
+  In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.
+</p>
 
 <h2>Cost Variance Response Process</h2>
 <h3>The Cost Variance Response process for Fleeky Hub project will be as follows:</h3>
