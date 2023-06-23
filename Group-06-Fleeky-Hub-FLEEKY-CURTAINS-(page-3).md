@@ -1861,70 +1861,71 @@ Implement lessons learned from previous projects to enhance communication practi
 <h3>Communications Matrix</h3>
 
 <table>
-    <tr>
-      <th>Channel</th>
-      <th>From</th>
-      <th>To</th>
-      <th>Type</th>
-      <th>Frequency</th>
-      <th>Format Used</th>
-      <th>Delivery Media</th>
-    </tr>
-    <tr>
-      <td>Project Updates</td>
-      <td>Project Manager</td>
-      <td>Development Team</td>
-      <td>Meeting</td>
-      <td>Once every week</td>
-      <td>Informal</td>
-      <td>Team Meetings - MS Teams</td>
-    </tr>
-    <tr>
-      <td>Requirements Gathering</td>
-      <td>Project Manager</td>
-      <td>QA Team</td>
-      <td>Meeting</td>
-      <td>As needed</td>
-      <td>Formal</td>
-      <td>In-person/Video Calls - MS Teams</td>
-    </tr>
-    <tr>
-      <td>Progress Reports</td>
-      <td>Development Team</td>
-      <td>Project Manager</td>
-      <td>Artifact</td>
-      <td>Once every sprint</td>
-      <td>Written Document</td>
-      <td>Project Management Tool (e.g. Trello)</td>
-    </tr>
-    <tr>
-      <td>Bug Reports</td>
-      <td>QA Team</td>
-      <td>Development Team</td>
-      <td>Artifact</td>
-      <td>As discovered</td>
-      <td>Written Document</td>
-      <td>Bug Tracking Tool (e.g. Bugzilla)</td>
-    </tr>
-    <tr>
-      <td>Stakeholder Updates</td>
-      <td>Project Manager</td>
-      <td>Key Stakeholders</td>
-      <td>Meeting</td>
-      <td>As needed</td>
-      <td>Formal</td>
-      <td>Email - Outlook</td>
-    </tr>
-    <tr>
-      <td>User Feedback</td>
-      <td>Key Stakeholders</td>
-      <td>Project Manager</td>
-      <td>Artifact</td>
-      <td>As provided</td>
-      <td>Written Document</td>
-      <td>Email - Outlook</td>
-    </tr>
-  </table>
+  <tr>
+    <th>Channel</th>
+    <th>From</th>
+    <th>To</th>
+    <th>Type</th>
+    <th>Frequency</th>
+    <th>Format Used</th>
+    <th>Delivery Media</th>
+  </tr>
+  <tr>
+    <td>Project Planning</td>
+    <td>Project Manager</td>
+    <td>Stakeholders</td>
+    <td>Meeting</td>
+    <td>Once Before the start of the project</td>
+    <td>Formal</td>
+    <td>Email</td>
+  </tr>
+  <tr>
+    <td>Release Planning</td>
+    <td>Project Manager, Project team</td>
+    <td>Stakeholders</td>
+    <td>Meeting</td>
+    <td>Once before start of the project<br>Updated when necessary</td>
+    <td>Formal</td>
+    <td>Email</td>
+  </tr>
+  <tr>
+    <td>Sprint Planning</td>
+    <td>Project Manager</td>
+    <td>Project team</td>
+    <td>Meeting</td>
+    <td>Once every week</td>
+    <td>Informal</td>
+    <td>Google Spaces</td>
+  </tr>
+  <tr>
+    <td>Management processes</td>
+    <td>Project Manager, Project team</td>
+    <td>Stakeholders</td>
+    <td>Artifact</td>
+    <td>Once Before start of the project<br>Updated when necessary</td>
+    <td>Written Document</td>
+    <td>Email, Google Spaces</td>
+  </tr>
+  <tr>
+    <td>Product backlog</td>
+    <td>Project Manager</td>
+    <td>Project team</td>
+    <td>Artifact</td>
+    <td>Once every week</td>
+    <td>Written Document</td>
+    <td>Google Spaces</td>
+  </tr>
+  <tr>
+    <td>Project update</td>
+    <td>Project Manager</td>
+    <td>Project team</td>
+    <td>Meeting</td>
+    <td>Once every week</td>
+    <td>Informal</td>
+    <td>Google Spaces</td>
+  </tr>
+</table>
+
 
 <h3>Communication Flowchart</h3>
 ![image](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002947/ff7e97be-940c-4aa1-87d5-2e4ce135794f)
