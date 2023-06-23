@@ -1,132 +1,67 @@
-'''RAMS E-CAF: A WEB-BASED CAFETERIA MANAGEMENT SYSTEM FOR THEE ASIA PACIFIC COLLEGE'''
+
+=Project Title=
+<b><font size="5"><p style="text-align:center">Rams E-Caf: RAMS E-CAF: A WEB-BASED CAFETERIA MANAGEMENT SYSTEM FOR THE ASIA PACIFIC COLLEGE</p></font></b>
+
+=Project Members=
+==Project Professor==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="blue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="blue"><p style="text-align:center;">POSITION</p></td>
+		<td bgcolor="blue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Jose Eugenio Quesada</p></td>
+<td><p style="text-align:center;">PROJMAN Professor</p></td>
+		<td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
+	</tr>
+</table>
 
 
-'''Asia Pacific College Cafeteria'''
+==Project Adviser==
 
-'''Humabon 3'''
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="blue"><p style="text-align:center;">NAME</p></td>
+<td bgcolor="blue"><p style="text-align:center;">POSITION</p></td>
+		<td bgcolor="blue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Doc Manuel Calimlim Jr.</p></td>
+<td><p style="text-align:center;">PROJMAN Adviser</p></td>
+		<td><p style="text-align:center;">manuelc@apc.edu.ph</p></td>
+	</tr>
+</table>
 
-'''Makati City, Kalakhang Maynila'''
+==Project Team==
+<table border="1" width="70%" align="center">
+	<tr>
+		<td bgcolor="blue"><p style="text-align:center;">NAME</p></td>
+		<td bgcolor="blue"><p style="text-align:center;">EMAIL</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Corneliani Jon Melo</p></td>
+		<td><p style="text-align:center;">cgmelo@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Nathan Allen Sinaguinan</p></td>
+		<td><p style="text-align:center;">nbsinaguinan@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Isiah Jade Tutor</p></td>
+		<td><p style="text-align:center;">imtutor@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Jamir Sia</p></td>
+		<td><p style="text-align:center;">jzsia@student.apc.edu.ph</p></td>
+	</tr>
+	<tr>
+		<td><p style="text-align:center;">Joshua Cudal</p></td>
+		<td><p style="text-align:center;">jpcudal@student.apc.edu.ph</p></td>
+	</tr>
+</table>
+<br/>
 
-'''June 2023'''
-
-Dispatch Directory System
-
-<blockquote>TABLE OF CONTENTS
-</blockquote>
-<ol style="list-style-type: decimal;">
-<li><blockquote><p>[[#_bookmark0|Company Profile 5]]</p></blockquote></li>
-<li><blockquote><p>[[#business-case|Business Case 7]]</p></blockquote>
-<ol style="list-style-type: decimal;">
-<li><blockquote><p>[[#2.1._Problem_Definition|Problem Definition 7]]</p></blockquote>
-<ol style="list-style-type: decimal;">
-<li><p>[[#2.1.1._Problem_Statement|Problem Statement 7]]</p></li>
-<li><p>[[#_bookmark4|Organizational Impact 8]]</p></li>
-<li><p>[[#2.1.3._Technology_Migration|Technology Migration 8]]</p></li></ol>
-</li>
-<li><p>[[#project-overview|Project Overview 8]]</p>
-<ol style="list-style-type: decimal;">
-<li><p>[[#2.2.1._Project_Description|Project Description 8]]</p></li>
-<li><p>[[#2.2.2._Goals_and_Objectives|Goals and Objectives 9]]</p></li>
-<li><p>[[#2.2.3._Project_Performance|Project Performance 10]]</p></li>
-<li><p>[[#2.2.4._Project_Assumptions|Project Assumptions 10]]</p></li>
-<li><p>[[#2.2.5._Project_Constraints|Project Constraints 11]]</p></li>
-<li><p>[[#2.2.6._Major_Project_Milestones|Major Project Milestones 11]]</p></li></ol>
-</li>
-<li><p>[[#strategic-alignment|Strategic Alignment 12]]</p></li>
-<li><p>[[#_bookmark14|Cost and Benefit Analysis 14]]</p></li></ol>
-</li>
-<li><blockquote><p>[[#project-charter|Project Charter 16]]</p></blockquote>
-<ol style="list-style-type: decimal;">
-<li><p>[[#project-purposejustification|Project Purpose/Justification 16]]</p>
-<ol style="list-style-type: decimal;">
-<li><p>[[#3.1.1._Business_Need|Business Need 16]]</p></li>
-<li><p>[[#3.1.2._Business_Objectives|Business Objectives 17]]</p></li></ol>
-</li>
-<li><p>[[#project-description|Project Description 17]]</p>
-<ol style="list-style-type: decimal;">
-<li><p>[[#_bookmark20|Project Objectives 18]]</p></li>
-<li><p>[[#_bookmark21|Success Criteria 18]]</p></li>
-<li><p>[[#3.2.3._Requirements|Requirements 18]]</p></li>
-<li><p>[[#3.2.4._Constraints|Constraints 19]]</p></li>
-<li><p>[[#3.2.5._Assumptions|Assumptions 19]]</p></li>
-<li><p>[[#3.2.6._Preliminary_Scope_Statement|Preliminary Scope Statement 20]]</p></li></ol>
-</li>
-<li><p>[[#risks|Risks 20]]</p></li>
-<li><p>[[#project-key-deliverables|Project Key Deliverables 21]]</p></li></ol>
-</li></ol>
-
-Dispatch Directory System
-
-<ol start="5" style="list-style-type: decimal;">
-<li><p>[[#summary-milestone-schedule|Summary Milestone Schedule 21]]</p></li>
-<li><p>[[#budget-summary|Budget Summary 22]]</p></li>
-<li><p>[[#project-approval-requirements|Project Approval Requirements 22]]</p></li></ol>
-
-<ol start="4" style="list-style-type: decimal;">
-<li><blockquote><p>[[#_bookmark31|Project Management Approach 23]]</p></blockquote></li>
-<li><blockquote><p>[[#project-technical-approach|Project Technical Approach 23]]</p></blockquote>
-<ol style="list-style-type: decimal;">
-<li><p>[[#product-development-methodology|Product Development Methodology 23]]</p></li>
-<li><p>[[#technical-architecture|Technical Architecture 24]]</p></li></ol>
-</li>
-<li><blockquote><p>[[#project-management-plans|Project Management Plans 25]]</p></blockquote>
-<ol style="list-style-type: decimal;">
-<li><p>[[#stakeholders-strategy-management-plan|Stakeholders Strategy Management Plan 25]]</p>
-<ol style="list-style-type: decimal;">
-<li><p>[[#6.1.1._Introduction|Introduction 25]]</p></li>
-<li><p>[[#6.1.2._Identify_Stakeholders|Identify Stakeholders 26]]</p></li>
-<li><p>[[#_bookmark39|Key Stakeholders 27]]</p></li>
-<li><p>[[#6.1.4.__Stakeholder_Analysis|Stakeholder Analysis 28]]</p></li></ol>
-</li>
-<li><p>[[#scope-management-plan|Scope Management Plan 30]]</p>
-<ol style="list-style-type: decimal;">
-<li><p>[[#6.2.1._Introduction|Introduction 30]]</p></li>
-<li><p>[[#6.2.2._Scope_Management_Approach|Scope Management Approach 31]]</p></li>
-<li><p>[[#6.2.3._Roles_and_Responsibilities|Roles and Responsibilities 32]]</p></li>
-<li><p>[[#_bookmark45|Scope Definition 33]]</p></li>
-<li><p>[[#6.2.5._Project_Scope_Statement|Project Scope Statement 33]]</p></li>
-<li><p>[[#6.2.6._Work_Breakdown_Structure|Work Breakdown Structure 35]]</p></li>
-<li><p>[[#6.2.7._Scope_Verification|Scope Verification 36]]</p></li>
-<li><p>[[#6.2.8._Scope_Control|Scope Control 37]]</p></li></ol>
-</li>
-<li><p>[[#cost-management-plan|Cost Management Plan 38]]</p>
-<ol style="list-style-type: decimal;">
-<li><p>[[#6.3.1._Cost_Management_Approach|Cost Management Approach 39]]</p></li>
-<li><p>[[#_bookmark52|Measuring Project Costs 40]]</p></li></ol>
-</li>
-<li><p>[[#_bookmark53|Schedule Management Plan 50]]</p></li>
-<li><p>[[#staffing-management-plan|Staffing Management Plan 55]]</p></li>
-<li><p>[[#change-management-plan|Change Management Plan 63]]</p></li>
-<li><p>[[#_bookmark56|Communications Management Plan 71]]</p></li>
-<li><p>[[#quality-management-plan|Quality Management Plan 82]]</p></li>
-<li><blockquote><p>[[#risk-management-plan|Risk Management Plan 90]]</p></blockquote></li>
-<li><p>[[#procurement-plan|Procurement Plan 99]]</p></li></ol>
-</li></ol>
-
-Dispatch Directory System
-
-<ol start="11" style="list-style-type: decimal;">
-<li><p>[[#implementation-plan|Implementation Plan 106]]</p></li></ol>
-
-<ol start="7" style="list-style-type: decimal;">
-<li><blockquote><p>[[#sponsor-acceptance|Sponsor Acceptance 117]]</p></blockquote></li>
-<li><blockquote><p>[[#list-of-tables|List of Tables 117]]</p></blockquote></li>
-<li><blockquote><p>[[#list-of-figures|List of Figures 118]]</p></blockquote></li>
-<li><p>[[#appendices|Appendices 118]]</p>
-<ol style="list-style-type: decimal;">
-<li><p>[[#project-cost-and-benefit-analysis|Project Cost and Benefit Analysis 118]]</p></li>
-<li><p>[[#project-methodology|Project Methodology 119]]</p></li>
-<li><p>[[#10.3.__System_Requirements_Specification|System Requirements Specifications 120]]</p></li>
-<li><p>[[
-![image1](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002745/46614788-23d6-4c22-9a77-2dc27e6625f5)
-#development-tools-specification|Development Tools Specification 121]]</p></li>
-<li><p>[[#wbs-dictionary|WBS
-![image1](https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97002745/772f583f-1f60-462c-916e-865b5c589a00)
- Dictionary 122]]</p></li>
-<li><p>.....Detailed Schedule 114</p></li>
-<li><p>.....Detailed Cost Estimates 115</p></li>
-<li><p>.....Handle Time 116</p></li></ol>
-</li></ol>
 
 <span id="company-profile"></span>
 = Company Profile =
@@ -229,9 +164,7 @@ The proposed solution, Rams E-Caf, aimed to address these issues by implementing
 * To reduce operational costs.
 * To enhance the customer experience by providing a user-friendly online ordering system.
 
-<blockquote>The proposed system would modify the current organizational processes by substituting the traditional paper-based system with an automated web-based system. This would require the
-
-installation of new hardware and software, including computers and servers, as well as the development of a custom software application for the cafeteria management system.
+<blockquote>The proposed system would modify the current organizational processes by substituting the traditional paper-based system with an automated web-based system. This would require the installation of new hardware and software, including computers and servers, as well as the development of a custom software application for the cafeteria management system.
 
 The new system would also create new roles, including system administrators, software developers, and technical support staff. Existing roles, such as cafeteria staff, would also change as they adapt to the new system and receive training on its use. Overall, the objective is to streamline and optimize the cafeteria's operations, resulting in improved efficiency and customer satisfaction.
 </blockquote>
@@ -400,24 +333,26 @@ By meeting these success criteria, the Rams E-Caf project will achieve its objec
 
 # <span id="3.2.3._Requirements" class="anchor"></span>Requirements
 
-<blockquote>This project must meet the following list of requirements to achieve success.
-</blockquote>
-* The new dispatch system must have a user-friendly interface that is easy for CREST team members to navigate.
-* The system must allow for the integration of all current dispatch tools, including the COID Tracking System, the Area of Responsibility Tracker, and the OOO Alert System.
-* The system must have the ability to track and manage customer and technician schedules, as well as job assignments and tasks.
-* The system must be able to generate reports and analytics to help managers track the performance of their teams.
-* The system must be developed using PHP and SQL and must be compatible with the company's licensed Google Suite tools.
-* The system can be deployed within TELUS’ VDI environment.
-* The project must be completed within a specified timeframe and budget.
+To achieve success for the Rams E-Caf project, the system should fulfill the following key requirements:
 
-<blockquote>Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward.
-</blockquote>
-<ol start="2" style="list-style-type: decimal;">
-<li><p><span id="3.2.4._Constraints" class="anchor"></span>Constraints</p></li></ol>
+* User-Friendly Interface: The system should have an intuitive and user-friendly interface, making it easy for both employees and customers to navigate, place orders, make payments, and access relevant information.
+* Menu Management: The system should provide a comprehensive menu management feature that allows cafeteria administrators to easily create, update, and customize menus based on offerings, pricing, and availability.
+* Order Management: The system should support efficient order management, including order placement, order tracking, and order modification. It should provide real-time notifications to users regarding the status of their orders.
+* Payment Processing: The system should integrate secure payment processing capabilities, allowing users to make payments through various methods such as cash, credit/debit cards, mobile wallets, or other electronic payment options.
+* Inventory Management: The system should enable effective inventory management, allowing administrators to track ingredient availability, monitor stock levels, and generate alerts when items need to be restocked. It should also support automated reordering processes to ensure continuous availability of menu items.
+* Reporting and Analytics: The system should have robust reporting and analytics capabilities, providing insights into sales data, popular menu items, customer preferences, and other relevant metrics. It should generate comprehensive reports and visualizations to assist administrators in making data-driven decisions.
+* Integration with Existing Systems: The system should be capable of integrating with other relevant systems within the organization, such as accounting software, HR systems, or inventory management tools, to streamline data sharing and enhance operational efficiency.
+* Security and Privacy: The system should prioritize data security and privacy, implementing appropriate measures to protect user information, financial transactions, and other sensitive data. It should comply with relevant data protection regulations and employ encryption, access controls, and secure authentication methods.
+* Scalability and Performance: The system should be designed to handle increasing user loads and accommodate future growth. It should demonstrate high performance, responsiveness, and scalability to ensure a smooth user experience even during peak usage periods.
+* Mobile Accessibility: The system should have mobile accessibility, allowing users to access and interact with the Rams E-Caf platform through mobile devices, such as smartphones or tablets, ensuring convenience and flexibility.
+
+By fulfilling these system requirements, the Rams E-Caf project can effectively meet user needs, optimize cafeteria operations, and contribute to the overall success of the project.
+
+# <span id="3.2.4._Constraints" class="anchor"></span>Constraints
 
 <blockquote>The project is subject to time, budget, resource, and regulatory constraints. These constraints will need to be carefully managed throughout the project to ensure that the project is completed on time, within budget, and in compliance with all applicable laws and regulations.
 </blockquote>
-<ol start="3" style="list-style-type: decimal;">
+<ol start="2" style="list-style-type: decimal;">
 <li><p><span id="3.2.5._Assumptions" class="anchor"></span>Assumptions</p></li></ol>
 
 The following assumptions are made for the transition approach of Rams E-Caf:
@@ -445,8 +380,8 @@ The successful completion of the project is based on shared assumptions between 
 <span id="section-1"></span>
 =  =
 
-The Rams E-Caf project encompasses various high-level risks that have been identified by the project team. The project manager will employ appropriate risk mitigation and avoidance strategies to minimize the likelihood of these risks materializing:
-
+<blockquote>The Rams E-Caf project encompasses various high-level risks that have been identified by the project team. The project manager will employ appropriate risk mitigation and avoidance strategies to minimize the likelihood of these risks materializing:
+</blockquote>
 * The Rams E-Caf will not be accessed by the customers if the customers have no internet connection.
 
 * The risk of connection interruption in the middle of payment process done with the use of payment gateways inside the Rams E-Caf web application.
@@ -470,13 +405,13 @@ The following key deliverables are expected upon successful completion of the Ra
 # User Training: The project should deliver comprehensive training. Training sessions or workshops may also be conducted to facilitate smooth adoption and user satisfaction.
 # Cost Savings and Benefits Report: A report will be prepared detailing the cost savings and benefits achieved through the implementation of the Rams E-Caf project. It will outline the efficiency gains, reduction in manual errors, financial savings, and customer satisfaction improvements resulting from the adoption of the online ordering system.
 
-These deliverables may be subject to the approval of the project sponsor and any necessary adjustments or refinements based on specific project requirements.
-
+<blockquote>These deliverables may be subject to the approval of the project sponsor and any necessary adjustments or refinements based on specific project requirements.
+</blockquote>
 <span id="summary-milestone-schedule"></span>
 = Summary Milestone Schedule =
 
-The project Summary Milestone Schedule is presented below. As requirements are more clearly defined this schedule may be modified. Any changes will be communicated through project status meetings by the project manager.
-
+<blockquote>The project Summary Milestone Schedule is presented below. As requirements are more clearly defined this schedule may be modified. Any changes will be communicated through project status meetings by the project manager.
+</blockquote>
 {| class="wikitable"
 |-
 | colspan="2"| '''Summary Milestone Schedule – List key project milestones relative to project start.'''
@@ -538,10 +473,14 @@ The project Summary Milestone Schedule is presented below. As requirements are m
 |-
 | * Labor Cost
 
-| PHP 57, 096.00
+| PHP 60,048
+|-
+| * Development Cost
+
+| PHP 54,559
 |-
 | '''Total'''
-| ₱93,739.94
+| ₱151,250.94
 |}
 
 <blockquote>''Figure 3.6—1: Budget Summary''
@@ -551,6 +490,7 @@ Price Reference:
 * https://aws.amazon.com/ec2/pricing/
 * https://www.amazon.com/Microsoft-Sufrace-QL2-00015-i5-4300U-Keyboard/dp/B071VXYBJH
 * https://paynamics.biz/
+* https://www.asus.com/ph/laptops/for-gaming/tuf-gaming/2021-asus-tuf-dash-f15/
 
 <span id="project-approval-requirements"></span>
 = Project Approval Requirements =
@@ -577,7 +517,7 @@ By establishing a robust project management approach, with the Project Sponsor�
 <span id="section-2"></span>
 =  =
 
-<blockquote>The Rams E-Caf project will adopt a comprehensive product development methodology that combines elements of agile and traditional project management frameworks. This hybrid approach will facilitate rapid iterations and continuous feedback from stakeholders, while also ensuring adherence to project timelines and budgetary constraints. The methodology encompasses key phases including project initiation, planning, execution, monitoring and controlling, and closure.
+<blockquote>The The Rams E-Caf project will adopt a comprehensive product development methodology that combines elements of agile and traditional project management frameworks. This hybrid approach will facilitate rapid iterations and continuous feedback from stakeholders, while also ensuring adherence to project timelines and budgetary constraints. The methodology encompasses key phases including project initiation, planning, execution, monitoring and controlling, and closure.
 
 Throughout the product development life cycle, the team will maintain ongoing communication channels with the client to ensure alignment with their requirements and objectives. Emphasizing user experience and design, the technical approach will prioritize the development of an intuitive and user-friendly online ordering system. By leveraging a blend of agile practices and traditional project management methods, the team aims to deliver the Rams E-Caf project on time, within budget, and to the satisfaction of Asia Pacific College and its community.
 </blockquote>
@@ -722,16 +662,16 @@ The content above outlines the roles and responsibilities of the key individuals
 | The project manager is responsible for leading and managing the project team to achieve the project objectives within the constraints of time, budget, and scope.
 |-
 | Full Stack Developer – Jamir Sia
-| The responsibility of a full stack developer is to write, test, and maintain code that meets the project's requirements and is of high quality.
+| The responsibility of a full-stack developer is to write, test, and maintain code that meets the project's requirements and is of high quality.
 |-
-| UI/UX Designer/Marketing Head – Nathan Allen Sinaguinan
+| UI/UX Designer – Nathan Allen Sinaguinan
 | Responsible for creating intuitive and visually appealing interfaces for digital products that meet user needs and business objectives.
 |-
 | QA Tester – Isiah Jade Tutor and Joshua Cudal
 | The responsibility of a QA tester for the Rams E-Caf project is to ensure the quality and reliability of the web-based cafeteria management system by developing comprehensive test plans, creating detailed test cases, executing tests to validate system functionality, usability, and performance, identifying and documenting defects, collaborating with the development team to resolve issues, and providing feedback to improve the overall quality of the software.
 |-
 | Stakeholders – Customers, Food Concessionaires, Client
-| Responsible for providing input, feedback, and making critical decisions related to the project to ensure its success.
+| Responsible for providing input, and feedback, and making critical decisions related to the project to ensure its success.
 |}
 
 <ol start="3" style="list-style-type: decimal;">
@@ -836,8 +776,15 @@ Scope management is a critical aspect of project management that involves defini
 <li><p>Acquire Hardware Requirements</p></li>
 <li><p>System Testing</p></li>
 <li><p>Project Deployment</p></li>
-<li><p>Project Hand out</p></li>
-<li><p>Project Closure</p></li></ol>
+<li><p>Project Hand out</p></li></ol>
+</li>
+<li><p>Closure</p>
+<ol style="list-style-type: decimal;">
+<li><p>Audit Procurement</p></li>
+<li><p>Document Lessons Learned</p></li>
+<li><p>Update Files/Records</p></li>
+<li><p>Gain Formal Acceptance</p></li>
+<li><p>Archive Files/Documents</p></li></ol>
 
 <ol style="list-style-type: decimal;">
 <li><p><span id="6.2.7._Scope_Verification" class="anchor"></span>Scope Verification</p></li></ol>
@@ -1020,18 +967,16 @@ The Budgeted Cost of Work Performed (BCWP) or Earned Value (EV) can then be dete
 
 EV = BCWP (*) % of work completed
 
-EV = (₱93,739.94 x 0.25 (25%)) + (₱ 93,739.94 x 0.25 (50%)) + (₱ 93,739.94 x 0.25 (75%)) + (₱ 93,739.94 x 0.25 (100%))<br />
-EV = ₱ 23,434.99 + ₱ 23,434.99 + ₱ 23,434.99 + ₱ 23,434.99
+EV = (₱60,048.00 x 0.25 (25%)) + (₱60,048.00 x 0.25 (50%)) + (₱60,048.00 x 0.25 (75%)) + (₱60,048.00 x 0.25 (100%))<br />
+EV = ₱15,012 + ₱15,012 + ₱15,012 + ₱15,012
 
-EV = ₱ 93,739.94
+EV = ₱60,048.00
 
 As a result, the Earned Value (EV) or Budgeted Cost of Work Performed (BCWP) is ₱93,739.94
 
 # Reporting Format
 
-A thorough spreadsheet or table would likely be the best reporting format for the expense management strategy of the Rams E-Caf service project. The project's budget, actual costs incurred, expected costs, and any variations or inconsistencies ought to all be included in this format.
-
-The project team, stakeholders, and management should all be able to access the format and understand it without difficulty. To give the expense information a visual representation, a bar chart or Gantt chart can also be used. The following components would be part of the reporting format for the Rams E-Caf project's cost management plan:
+A thorough spreadsheet or table would likely be the best reporting format for the expense management strategy of the Rams E-Caf service project. The project's budget, actual costs incurred, expected costs, and any variations or inconsistencies ought to all be included in this format. The project team, stakeholders, and management should all be able to access the format and understand it without difficulty. To give the expense information a visual representation, a bar chart or Gantt chart can also be used. The following components would be part of the reporting format for the Rams E-Caf project's cost management plan:
 
 * Executive Summary:
 
@@ -1105,17 +1050,18 @@ Hosting Costs PHP 894.9 per month~<br />
 Payment Gateway PHP 0.00 (Registration Fee)<br />
 Electricity Cost PHP 11.3168 kwh / 3395.04 per month
 
-Labor Cost PHP 57, 096.00
+Labor Cost PHP 60,048.00
 
-(Hourly Rate)
+Deployment Cost PHP 54,559
 
-Total Project Cost PHP 93,739.94
+Total Project Cost PHP 151,250.94
 
  Price Reference:
 
 * https://aws.amazon.com/ec2/pricing/
 * https://www.amazon.com/Microsoft-Sufrace-QL2-00015-i5-4300U-Keyboard/dp/B071VXYBJH
 * https://paynamics.biz/
+* https://www.asus.com/ph/laptops/for-gaming/tuf-gaming/2021-asus-tuf-dash-f15/
 
 <span id="section-3"></span>
 =  =
@@ -1274,6 +1220,11 @@ Rams E-Caf, values the integral contribution our staff members have when it come
 ! <blockquote>'''Competency'''
 </blockquote>
 |-
+|
+|
+|
+|
+|-
 | <blockquote>Project Sponsor
 
 (Ms. Bernadette Sison)
@@ -1304,7 +1255,7 @@ Rams E-Caf, values the integral contribution our staff members have when it come
 
 | Authority within project boundaries
 | * Overall project management
-* Create project plan
+* Create project plan.
 * Resource allocation
 * Risk management
 
@@ -1382,8 +1333,6 @@ Ability to interpret and analyze system data for decision-making.
 </blockquote>
 |}
 
-<blockquote>''Table 6.5—1: Staffing Management Roles and Responsibilities''
-</blockquote>
 # Project Organizational Charts
 
 <blockquote>The project organization chart for Rams E-Caf provides a visual representation of the hierarchical structure and roles within the project team, establishing clear lines of communication, defining authority levels, and facilitating efficient decision-making. It ensures that team members understand their responsibilities and how they fit into the overall project structure, promoting accountability, coordination, and collaboration. By streamlining communication channels and clarifying roles, the organization chart enhances transparency, resource alignment, and effective project governance, contributing to the successful execution of the project.
@@ -1630,7 +1579,7 @@ The following table presents contact information for all persons identified in t
 | <blockquote>Student
 </blockquote>
 | Internal
-| Project Team Leader
+| UI/UX Designer
 | [mailto:nbsinaguinan@student.apc.edu.ph nbsinaguinan@student.apc.edu.ph]
 |-
 | Isiah Tutor
@@ -1646,84 +1595,6 @@ The following table presents contact information for all persons identified in t
 | Internal
 | QA Tester
 | [mailto:jpcudal@student.apc.edu.ph jpcudal@student.apc.edu.ph]
-|-
-|
-| <blockquote>Members of Operations
-</blockquote>
-|
-|
-|
-|-
-| <blockquote>TELUS
-
-Technicians
-</blockquote>
-| Technicians, Customers
-| <blockquote>External
-</blockquote>
-| <blockquote>External user of the system
-</blockquote>
-| <blockquote>[mailto:Cablerepair@telus.com <u>Cablerepair@telus.com</u>]
-</blockquote>
-|-
-| <blockquote>TELUS
-
-Managers
-</blockquote>
-| <blockquote>Managers, Customers
-</blockquote>
-| <blockquote>External
-</blockquote>
-| <blockquote>External user of the system
-</blockquote>
-| <blockquote>[mailto:cnoemanagers@telus.com <u>cnoemanagers@telus.com</u>]
-</blockquote>
-|-
-| rowspan="2"| <blockquote>Roselyn Angeles
-</blockquote>
-| rowspan="2"| <blockquote>Consultant
-</blockquote>
-| rowspan="2"| <blockquote>External
-</blockquote>
-| rowspan="2"| <blockquote>Project Manager
-</blockquote>
-| <blockquote>[mailto:roselyn.angeles@telusinternational.com roselyn.angeles@telusinternational.com]
-</blockquote>
-|-
-|
-|-
-| <blockquote>-
-</blockquote>
-| <blockquote>Junior Developer
-</blockquote>
-| <blockquote>Internal
-</blockquote>
-| <blockquote>Development Team
-</blockquote>
-| <blockquote>-
-</blockquote>
-|-
-| <blockquote>-
-</blockquote>
-| <blockquote>Senior Developer
-</blockquote>
-| <blockquote>Internal
-</blockquote>
-| <blockquote>Development Team
-</blockquote>
-| <blockquote>-
-</blockquote>
-|-
-| <blockquote>-
-</blockquote>
-| <blockquote>Quality Assurance Analyst
-</blockquote>
-| <blockquote>Internal
-</blockquote>
-| <blockquote>Development Team
-</blockquote>
-| <blockquote>-
-</blockquote>
 |}
 
 <blockquote>''Table 6.7—2: Project Team Directory''
@@ -2074,9 +1945,6 @@ By adhering to these communication standards, Rams E-Caf can establish a framewo
 | <blockquote>Tools and platforms used for communication, such as SharePoint, message boards, and video teleconferencing.
 </blockquote>
 |-
-|
-|
-|-
 | <blockquote>'''Communication Escalation Process'''
 </blockquote>
 | <blockquote>A process for escalating communication-based issues or conflicts that cannot be resolved within the project team.
@@ -2163,7 +2031,7 @@ The Rams E-Caf Quality Management Approach will place a strong priority on using
 * Rams E-Caf will be fully operational and adhere to the product backlog’s technical requirements.
 * The interface shall be user-friendly to all the stakeholders and its users. This project comes with instruction manuals and training for the users/stakeholders.
 * The project system would work with the clients’ requests and Asia Pacific College’s current technological infrastructure.
-* The system working on different devices if the devices are connected to the internet.
+* The system works on different devices if the devices are connected to the internet.
 
 <blockquote>'''Requirements for ensuring quality of process.'''
 </blockquote>
@@ -2204,18 +2072,15 @@ To guarantee that the project delivers a high-quality result, the quality assura
 
 # Quality Control
 
-<blockquote>In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Dispatch Directory System project will involve the following steps:
+<blockquote>In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Rams E-Caf project will involve the following steps:
 </blockquote>
-* '''Continuous testing and feedback:''' The project team will perform continuous testing to identify defects and ensure that the product is meeting customer requirements. The testing will be automated wherever possible, and the results will be tracked in a continuous integration/continuous delivery (CI/CD) system.
-* '''User Acceptance Testing (UAT):''' A representative group of end users will test the system to ensure it satisfies their needs and expectations. The UAT will be performed at the end of each sprint, and any necessary modifications will be made based on feedback from the users.
-* '''Compatibility Testing:''' The Dispatch Directory System will be tested on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any difficulties that may arise when the system is used in various settings.
-* '''Continuous Monitoring:''' After deployment, the project team will monitor the effectiveness of the Dispatch Directory system. This will involve keeping an eye on important performance measures including user happiness, response time, and system uptime. This will provide essential information to aid with any system upgrades and identify any problems or bottlenecks.
+<ul>
+<li><blockquote><p>Continuous testing and feedback: The project team will carry out continuous testing to find flaws and make sure the product satisfies consumer expectations. Wherever it is practical, the testing will be automated.</p></blockquote></li>
+<li><blockquote><p>User Acceptance Testing (UAT): A sample of the system's users will test it to see if it meets their needs and expectations. At the conclusion of each sprint, the UAT will be conducted, and any adjustments needed will be made in response to user feedback.</p></blockquote></li>
+<li><blockquote><p>Compatibility Testing: To ensure compatibility and address any issues that may come up when the system is utilized in diverse contexts, the Rams E-Caf will be tested on a variety of platforms, including mobile devices and browsers.</p></blockquote></li>
+<li><blockquote><p>Continuous Monitoring: Following deployment, the project team will assess the Rams E-Caf’s performance. This will entail monitoring crucial performance indicators including customer satisfaction, response speed, and system uptime. This will give crucial data to support any system improvements and help find any issues or bottlenecks.</p></blockquote></li></ul>
 
 <blockquote>The following quality metrics will be used to monitor and assess the system's performance:
-</blockquote>
-* Defect Density: The number of defects found per unit of measure (e.g., per KLOC) o Defect Severity: The classification of defects based on their
-
-<blockquote>impact on the system.
 </blockquote>
 * Test Coverage: The percentage of the system that has been tested.
 * Test Case Pass Rate: The percentage of test cases that have been passed.
@@ -2223,13 +2088,12 @@ To guarantee that the project delivers a high-quality result, the quality assura
 * Response Time: The time taken for the system to respond to user requests.
 * System Uptime: The percentage of time the system is available and functioning as expected.
 
-* '''Tracking and Documenting Quality Evaluations:''' The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.
-* '''Continuous Improvement:''' The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.
+<ul>
+<li><blockquote><p>Tracking and Documenting Quality Evaluations: The project team will monitor and record the results of the quality control process, which will be used to assess the success of any corrective measures that are implemented as well as the project's progress.</p></blockquote></li></ul>
 
-<blockquote>In conclusion, the Quality Control process for the Dispatch Directory System project will be an integral part of the development process, with a focus on continuous testing, user feedback, and performance monitoring. The project team will continuously monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the required quality standards and customer requirements.
+<blockquote>In conclusion, the quality control process for Rams E-Caf will be an integral part of the development process, with a focus on continuous testing, user feedback, and performance monitoring. The project team will continuously monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the required quality standards and customer requirements.
 </blockquote>
-<ol start="2" style="list-style-type: decimal;">
-<li><p>Quality Control Measurements</p></li></ol>
+# Quality Control Measurements
 
 <blockquote>The Agile and Scrum techniques will be employed to promote continuous inspection and modification throughout the project lifecycle for the Rams E-Caf project, which will adopt a transparent and collaborative approach to quality control.
 
@@ -2399,11 +2263,7 @@ Based on the risk prioritization, the focus will be on developing mitigation str
 </blockquote>
 # Risk Monitoring
 
-<blockquote>The Rams E-Caf Agile Risk Management Plan offers a framework for actively tracking risks throughout the project. To do this, it is crucial to closely document the process, including defining the circumstances that might set off risks, and to regularly monitor risks during the project.
-
-The high-scoring risks will be incorporated into the project schedule, and the risk manager will be given responsibility for their monitoring. This will make it easier for the project manager to decide when hazards need to be closely monitored and when the risk manager should provide project team meetings with updates. The risk manager will oversee monitoring the risk trigger circumstances. The project manager will also make sure that the project team is informed of the risks that have been identified and their potential effects on the project. Any new risks or modifications to existing risks should be reported to the risk management by the project team so that they can be evaluated and given the appropriate level of priority.
-
-The project team will employ the agile risk management technique, which places an emphasis on adaptability and continuous development. The effectiveness of the risk management plan will be reevaluated as needed to ensure that the project's objectives and quality requirements are satisfied.
+<blockquote>The Rams E-Caf Agile Risk Management Plan offers a framework for actively tracking risks throughout the project. To do this, it is crucial to closely document the process, including defining the circumstances that might set off risks, and to regularly monitor risks during the project. The high-scoring risks will be incorporated into the project schedule, and the risk manager will be given responsibility for their monitoring. This will make it easier for the project manager to decide when hazards need to be closely monitored and when the risk manager should provide project team meetings with updates. The risk manager will oversee monitoring the risk trigger circumstances. The project manager will also make sure that the project team is informed of the risks that have been identified and their potential effects on the project. Any new risks or modifications to existing risks should be reported to the risk management by the project team so that they can be evaluated and given the appropriate level of priority. The project team will employ the agile risk management technique, which places an emphasis on adaptability and continuous development. The effectiveness of the risk management plan will be reevaluated as needed to ensure that the project's objectives and quality requirements are satisfied.
 </blockquote>
 <ol start="2" style="list-style-type: decimal;">
 <li><p>Risk Mitigation and Avoidance</p></li></ol>
@@ -2417,9 +2277,7 @@ The project team will employ the agile risk management technique, which places a
 * '''Communication:''' The project manager must encourage open and transparent communication between the project team, clients, and stakeholders to reduce risks and avoid misunderstandings.
 *# Risk Register
 
-<blockquote>The risk registry, which will be kept up to date throughout the project, will include comprehensive explanations of each risk, its likelihood, potential effects, and any mitigating measures. To ensure that it appropriately reflects the project's current situation, the risk register will be constantly reviewed and updated. All interested parties will have access to the risk registry, which will be kept in a centralized location.
-
-This risk management approach emphasizes early and frequent risk discovery, collaborative risk management, and ongoing risk monitoring, which is frequently in line with the Agile methodology. The Rams E-Caf project team, Coderist, can lessen the effects and raise the possibility that the project will be successful by anticipating and resolving any hazards. The following criteria will serve as the basis for the risk register:
+<blockquote>The risk registry, which will be kept up to date throughout the project, will include comprehensive explanations of each risk, its likelihood, potential effects, and any mitigating measures. To ensure that it appropriately reflects the project's current situation, the risk register will be constantly reviewed and updated. All interested parties will have access to the risk registry, which will be kept in a centralized location. This risk management approach emphasizes early and frequent risk discovery, collaborative risk management, and ongoing risk monitoring, which is frequently in line with the Agile methodology. The Rams E-Caf project team, Coderist, can lessen the effects and raise the possibility that the project will be successful by anticipating and resolving any hazards. The following criteria will serve as the basis for the risk register:
 </blockquote>
 * Risk ID - Each risk will receive a special unique number.
 * Risk Description - The risk event will be clearly and concisely described.
@@ -2441,16 +2299,6 @@ OWNER
 ! PROBABILITY
 ! IMPACT
 ! STATUS
-|-
-|
-|
-|
-|
-|
-|
-|
-|
-|
 |-
 | RID 001
 | 1
@@ -2599,11 +2447,9 @@ The cost determination section of our procurement management plan will play a cr
 
 <blockquote>The following constraint must be considered as part of the Rams E-Caf project’s procurement management process:
 </blockquote>
-* Regulatory Compliance Constraints: The procurement process for the Rams E-Caf project must adhere to relevant regulatory requirements and compliance standards. This includes considerations such as data privacy laws, security regulations, and any specific industry regulations applicable to the online ordering system. Concessionaires must demonstrate their ability to meet these compliance requirements to ensure the project’s legal and ethical adherence.
+* Regulatory Compliance Constraints: The procurement process for the Rams E-Caf project must adhere to relevant regulatory requirements and compliance standards. This includes considerations such as data privacy laws, security regulations, and any specific industry regulations applicable to the online ordering system. Concessionaires must demonstrate their ability to meet these compliance requirements to ensure the project’s legal and ethical adherence. These constraints related to regulatory compliance must be carefully incorporated into the procurement process to safeguard customer data, protect the organization’s reputation, and ensure the project aligns with all applicable laws and regulations.
 
-<blockquote>These constraints related to regulatory compliance must be carefully incorporated into the procurement process to safeguard customer data, protect the organization’s reputation, and ensure the project aligns with all applicable laws and regulations.
-
-By addressing regulatory compliance constraints during the procurement process, the Rams E-Caf project can mitigate potential risks, avoid legal complications, and build a trustworthy and secure online ordering system that complies with all necessary regulations.
+<blockquote>By addressing regulatory compliance constraints during the procurement process, the Rams E-Caf project can mitigate potential risks, avoid legal complications, and build a trustworthy and secure online ordering system that complies with all necessary regulations.
 </blockquote>
 # Contract Approval Process
 
@@ -2704,19 +2550,19 @@ Corneliani Melo
 
 | The project manager is responsible for leading and managing the project team to achieve the project objectives within the constraints of time, budget, and scope. 
 |-
-| Developer/IT Head
+| Full Stack Developer
 
 Jamir Sia
 
 | The responsibility of a developer is to write, test, and maintain code that meets the project's requirements and is of high quality. 
 |-
-| UI/UX Designer/Marketing Head
+| UI/UX Designer
 
 Nathan Allen Sinaguinan
 
 | Responsible for creating intuitive and visually appealing interfaces for digital products that meet user needs and business objectives. 
 |-
-| Documentation
+| QA Tester
 
 Joshua Cudal
 
@@ -2733,9 +2579,7 @@ Isiah Jade Tutor
 <ol start="2" style="list-style-type: decimal;">
 <li><p>Workforce Transition</p></li></ol>
 
-A crucial component of Rams E-Caf: A Web-Based Cafeteria Management System's transition plan is the workforce transition.
-
-A smooth and efficient transition is necessary; hence it is vital to determining and communicating the workforce's timetable is crucial. The Transition Project Manager, a transition team member, will collaborate closely with both to decide the appropriate course of action by consulting the customer, the existing and new contractors, and both. for the employees to take. This can entail keeping present employees and transferring employees to either employing new personnel or a new contractor. Communication will be crucial in this process because the workforce must be informed of any modifications in a polite and timely manner. Working with the Transition Project Manager to ensure that all employees are aware of their alternatives and work closely with management and HR to be given appropriate assistance during the transfer process. Additionally, all required instruction or re-education will be supplied to guarantee that the workforce has everything necessary to continue offering top-notch services throughout and after the transition period. Regular reviews of the workforce transformation strategy will be conducted, and updated as required to make sure the project is successfully finished on schedule and within the confines of the budget.
+A crucial component of Rams E-Caf: A Web-Based Cafeteria Management System's transition plan is the workforce transition. A smooth and efficient transition is necessary; hence it is vital to determining and communicating the workforce's timetable is crucial. The Transition Project Manager, a transition team member, will collaborate closely with both to decide the appropriate course of action by consulting the customer, the existing and new contractors, and both. for the employees to take. This can entail keeping present employees and transferring employees to either employing new personnel or a new contractor. Communication will be crucial in this process because the workforce must be informed of any modifications in a polite and timely manner. Working with the Transition Project Manager to ensure that all employees are aware of their alternatives and work closely with management and HR to be given appropriate assistance during the transfer process. Additionally, all required instruction or re-education will be supplied to guarantee that the workforce has everything necessary to continue offering top-notch services throughout and after the transition period. Regular reviews of the workforce transformation strategy will be conducted, and updated as required to make sure the project is successfully finished on schedule and within the confines of the budget.
 
 <ol start="3" style="list-style-type: decimal;">
 <li><p>Workforce Execution During Transition</p></li></ol>
@@ -2762,24 +2606,36 @@ Collaboration between the project team and relevant stakeholders is key in guara
 <ol start="2" style="list-style-type: decimal;">
 <li><p>Intellectual Property</p></li></ol>
 
-<blockquote>During the transition process of the Dispatch Directory System Project, it is important to consider the handling of intellectual property (IP) to ensure a smooth transfer of all relevant documentation, supplier and subcontractor information, service agreements, or original designs or plans. IP generates many legal considerations and may include the completion of non-disclosure agreements (NDAs) between the incumbent and the customer.
+During the transition process of the Rams E-Caf project’s, careful attention must be given to the handling of intellectual property (IP) to ensure a seamless transfer of all pertinent documentation, supplier and subcontractor information, service agreements, and original designs or plans. Intellectual property entails various legal considerations and may involve the completion of non-disclosure agreements (NDAs) between the incumbent and the customer.
 
-The following steps will be taken to ensure proper handling of intellectual property during the transition:
-</blockquote>
+To ensure the proper handling of intellectual property during the transition, the following steps will be undertaken:
+
 # Identification of all relevant intellectual property:
 
-* All intellectual property related to the project will be identified, including but not limited to design documents, patents, trademarks, copyrights, software code, and any proprietary information or trade secrets.
-*# Evaluation of contractual agreements:
-* Existing contractual agreements related to intellectual property ownership and transfer will be reviewed and evaluated to ensure compliance during the transition.
-*# Negotiation of new agreements:
-* In case of any gaps or inconsistencies in the existing agreements, new agreements will be negotiated between the incumbent, new contractor, and the customer to ensure proper ownership and transfer of all intellectual property.
-*# Protection of intellectual property:
-* During the transition period, all intellectual property will be protected through the use of non-disclosure agreements (NDAs) and other legal measures.
-*# Transfer of intellectual property:
-* Upon completion of the transition process, all relevant intellectual property will be transferred to the new contractor, the customer, or retained by the incumbent based on the contractual agreements in place.
+A comprehensive identification of all intellectual property associated with the project will be conducted. This encompasses design documents, patents, trademarks, copyrights, software code, and any proprietary information or trade secrets.
 
-<blockquote>By following these steps, the Dispatch Directory System Project can ensure a smooth and secure transition of all intellectual property related to the project.
-</blockquote>
+<ol start="2" style="list-style-type: decimal;">
+<li><p>Evaluation of contractual agreements:</p></li></ol>
+
+Existing contractual agreements pertaining to intellectual property ownership and transfer will be carefully reviewed and assessed to ensure compliance throughout the transition.
+
+<ol start="3" style="list-style-type: decimal;">
+<li><p>Negotiation of new agreements:</p></li></ol>
+
+If any gaps or inconsistencies are identified in the existing agreements, new agreements will be negotiated among the incumbent, new contractor, and the customer to ensure proper ownership and transfer of all intellectual property.
+
+<ol start="4" style="list-style-type: decimal;">
+<li><p>Protection of intellectual property:</p></li></ol>
+
+During the transition period, all necessary measures, such as non-disclosure agreements (NDAs) and other legal safeguards, will be implemented to safeguard intellectual property from unauthorized disclosure or use.
+
+<ol start="5" style="list-style-type: decimal;">
+<li><p>Transfer of intellectual property:</p></li></ol>
+
+Upon the successful completion of the transition process, all relevant intellectual property will be transferred in accordance with the contractual agreements in place. This may involve transferring the intellectual property to the new contractor, the customer, or retaining it with the incumbent, as specified in the contracts.
+
+By following these steps, the Rams E-Caf Project can ensure a smooth and secure transition of all intellectual property related to the project.
+
 # User Accounts and Passwords
 
 As part of our transition plan for the Rams E-Caf project, we recognize the importance of ensuring a seamless transfer of user accounts and passwords. The following steps and considerations outline how we will handle this aspect of the transition:
@@ -2823,18 +2679,20 @@ Documentation/Manuals:
 <ol start="2" style="list-style-type: decimal;">
 <li><p>Schedule</p></li></ol>
 
-[[File:.m/media/image4.png|700x351px]]
+[[File:.m/media/image4.png|701x406px|A screenshot of a computer Description automatically generated with low confidence]]
 
-[[File:.m/media/image5.png|701x351px]]
+[[File:.m/media/image5.png|701x337px|A screenshot of a computer Description automatically generated with low confidence]]
 
-[[File:.m/media/image6.png|700x339px]]
+[[File:.m/media/image6.png|701x321px|A screenshot of a computer Description automatically generated with low confidence]]
+
+[[File:.m/media/image7.png|701x308px|A screenshot of a computer Description automatically generated with low confidence]]
 
 <blockquote>''Figure 6.11—1: Transition Out Plan Schedule''
 </blockquote>
 <ol start="3" style="list-style-type: decimal;">
 <li><p>Handover and Acceptance</p></li></ol>
 
-The handover and acceptance process for the Rams E-Caf project will be conducted in a systematic and structured manner to ensure a smooth transition and satisfaction of all stakeholders involved. It will follow a clear roadmap that includes the completion of a comprehensive transition plan, scheduling a formal handover meeting, and addressing any outstanding issues or concerns.
+<blockquote>The handover and acceptance process for the Rams E-Caf project will be conducted in a systematic and structured manner to ensure a smooth transition and satisfaction of all stakeholders involved. It will follow a clear roadmap that includes the completion of a comprehensive transition plan, scheduling a formal handover meeting, and addressing any outstanding issues or concerns.
 
 Once the transition plan is finalized, encompassing all necessary documentation and deliverables, the project team will proceed to schedule a formal handover meeting. This meeting will involve the project sponsor and other relevant stakeholders who have a vested interest in the project's success. The purpose of this meeting will be to present the completed transition plan along with all the required documentation and deliverables.
 
@@ -2845,22 +2703,9 @@ Upon the resolution of any outstanding issues, the project sponsor and stakehold
 Additionally, the handover and acceptance section of the contract transition out plan will outline the procedures for managing any outstanding issues or concerns that may arise post-handover. This section may include a formal dispute resolution process or the implementation of corrective actions to address any identified deficiencies. The objective is to ensure that all stakeholders remain satisfied and that any ongoing challenges are appropriately managed and resolved.
 
 By following this structured handover and acceptance process, the Rams E-Caf project team aims to provide a clear roadmap for the completion of the handover phase. This approach emphasizes effective communication, comprehensive review, and proactive resolution of any outstanding matters, ultimately contributing to a successful transition and stakeholder satisfaction.
-
-<span id="sponsor-acceptance"></span>
-= Sponsor Acceptance =
-
-<blockquote>This project acceptance document establishes formal acceptance of all the deliverables for the Dispatch Directory System project. The Dispatch Directory System project has met all the acceptance criteria as defined in the requirements document and project scope statement.
-
-Sponsor Acceptance
-
-[[File:.m/media/image7.png|154x61px]]Approved by the Project Sponsor:
-
-Date: March 2023 Mirman
-
-Tolentino
-
-Project Manager, Incident Management Division
 </blockquote>
+<span id="7._Sponsor_Acceptance" class="anchor"></span>
+
 <span id="list-of-tables"></span>
 = List of Tables =
 
@@ -2874,7 +2719,7 @@ Table 6.6—2: Change Request Roles and Responsibilities Table 6.6—3: Change R
 
 Table 6.6—4: Change Request Status Description
 
-Table 6.7—1:Communication Management Roles and Responsibilities Table 6.7—2: Project Team Directory
+Table 6.7—1: Communication Management Roles and Responsibilities Table 6.7—2: Project Team Directory
 
 Table 6.7—3: Communication Matrix
 
@@ -2897,1747 +2742,371 @@ Figure 6.5—1: Project Organizational Chart
 
 Figure 6.11—1: Transition Out Plan Schedule
 </blockquote>
-<span id="appendices"></span>
-= Appendices =
-
-<span id="project-cost-and-benefit-analysis"></span>
-= Project Cost and Benefit Analysis =
-
-[[File:.m/media/image8.png|605x183px|A picture containing text Description automatically generated]]
-
 <span id="project-methodology"></span>
 = Project Methodology =
 
-[[File:.m/media/image9.jpeg|552x265px|Diagram Description automatically generated]]
+[[File:.m/media/image8.jpeg|701x345px|Agile Methodology in System Development source: Okeke(2021), retrieved... | Download Scientific Diagram]]
 
 # <span id="10.3.__System_Requirements_Specification" class="anchor"></span>System Requirements Specifications
 ## System Requirements for Development
 
-[[File:.m/media/image10.jpeg|476x524px|Table Description automatically generated]]
+[[File:.m/media/image9.jpeg|476x524px|Table Description automatically generated]]
 
 <ol start="2" style="list-style-type: decimal;">
 <li><p>System Requirements for Deployment</p></li></ol>
 
-[[File:.m/media/image11.jpeg|518x437px|Graphical user interface Description automatically generated with medium confidence]]
+[[File:.m/media/image10.jpeg|518x437px|Graphical user interface Description automatically generated with medium confidence]]
 
 <span id="development-tools-specification"></span>
 = Development Tools Specification =
 
 <ol start="3" style="list-style-type: decimal;">
-<li><p>[[File:.m/media/image12.jpeg|583x200px|Table Description automatically generated]]Development Tools Specification</p></li>
-<li><p>[[File:.m/media/image13.jpeg|584x224px|Table Description automatically generated]]Deployment Tools Specifications</p></li></ol>
+<li><p>[[File:.m/media/image11.jpeg|583x200px|Table Description automatically generated]]Development Tools Specification</p></li></ol>
+
+<span id="10.5.__WBS_Dictionary" class="anchor"></span>
 
 <span id="wbs-dictionary"></span>
 = WBS Dictionary =
 
 {| class="wikitable"
 |-
-! <blockquote>'''Level'''
-</blockquote>
-! <blockquote>'''WBS'''
-
-'''Code'''
-</blockquote>
-! <blockquote>'''Element Name'''
-</blockquote>
-! <blockquote>'''Definition'''
-</blockquote>
-! <blockquote>'''Estimated Duration'''
-</blockquote>
-|-
-| <blockquote>1
-</blockquote>
-| <blockquote>1
-</blockquote>
-| <blockquote>Dispatch Directory System
-</blockquote>
-| <blockquote>All work to implement a new Dispatch Directory System.
-</blockquote>
-| <blockquote>-
-</blockquote>
-|-
-| <blockquote>'''2'''
-</blockquote>
-| <blockquote>'''1.1'''
-</blockquote>
-| <blockquote>'''Initiation'''
-</blockquote>
-| <blockquote>'''The work to initiate the project.'''
-</blockquote>
-| <blockquote>'''44 days'''
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.1.1
-</blockquote>
-| <blockquote>Evaluation &amp; Recommendations
-</blockquote>
-| <blockquote>Working group to evaluate solution sets and make recommendations.
-</blockquote>
-| <blockquote>5 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.1.2
-</blockquote>
-| <blockquote>Develop Project Charter
-</blockquote>
-| <blockquote>Project Manager to develop the Project Charter.
-</blockquote>
-| <blockquote>35 days
-</blockquote>
-|}
-
-{| class="wikitable"
-|-
-! <blockquote>3
-</blockquote>
-! <blockquote>1.1.3
-</blockquote>
-! <blockquote>Deliverable: Submit Project Charter
-</blockquote>
-! <blockquote>Project Charter is delivered to the Project Sponsor.
-</blockquote>
-! <blockquote>1 day
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.1.4
-</blockquote>
-| <blockquote>Project Sponsor Reviews Project Charter
-</blockquote>
-| <blockquote>Project sponsor reviews the Project Charter.
-</blockquote>
-| <blockquote>2 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.1.5
-</blockquote>
-| <blockquote>Project Charter Signed/Approved
-</blockquote>
-| <blockquote>The Project Sponsor signs the Project Charter which authorizes the Project Manager to move to the
-
-Planning Process.
-</blockquote>
-| <blockquote>1 day
-</blockquote>
-|}
-
-{| class="wikitable"
-|-
-! <blockquote>'''2'''
-</blockquote>
-! <blockquote>'''1.2'''
-</blockquote>
-! <blockquote>'''Planning'''
-</blockquote>
-! <blockquote>'''The work for the planning process for the project.'''
-</blockquote>
-! <blockquote>'''19 days'''
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.2.1
-</blockquote>
-| <blockquote>Create Preliminary Scope Statement
-</blockquote>
-| <blockquote>Project Manager creates a Preliminary Scope Statement.
-</blockquote>
-| <blockquote>4 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.2.2
-</blockquote>
-| <blockquote>Determine Project Team
-</blockquote>
-| <blockquote>The Project Manager determines the project team and requests the resources.
-</blockquote>
-| <blockquote>5 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.2.3
-</blockquote>
-| <blockquote>Project Team Kickoff Meeting
-</blockquote>
-| <blockquote>The planning process is officially started with a project kickoff meeting which includes the Project Manager, Project Team, and Project
-
-Sponsor (optional).
-</blockquote>
-| <blockquote>1 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.2.4
-</blockquote>
-| <blockquote>Develop Project Plan
-</blockquote>
-| <blockquote>Under the direction of the Project Manager the team develops the project plan.
-</blockquote>
-| <blockquote>7 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.2.5
-</blockquote>
-| <blockquote>Submit Project Plan
-</blockquote>
-| <blockquote>Project Manager submits the project plan for approval.
-</blockquote>
-| <blockquote>1 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.2.6
-</blockquote>
-| <blockquote>Milestone: Project Plan Approval
-</blockquote>
-| <blockquote>The project plan is approved, and the Project Manager has permission to proceed to execute the project according
-
-to the project plan.
-</blockquote>
-| <blockquote>1 days
-</blockquote>
-|-
-| <blockquote>'''2'''
-</blockquote>
-| <blockquote>'''1.3'''
-</blockquote>
-| <blockquote>'''Execution'''
-</blockquote>
-| <blockquote>'''Work involved to execute the project.'''
-</blockquote>
-| <blockquote>'''122 days'''
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.3.1
-</blockquote>
-| <blockquote>Project Kickoff Meeting
-</blockquote>
-| <blockquote>Project Manager conducts a formal kick off meeting with the project team, project stakeholders and project
-
-sponsor.
-</blockquote>
-| <blockquote>1 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.3.2
-</blockquote>
-| <blockquote>Verify &amp; Validate User Requirements
-</blockquote>
-| <blockquote>The original user requirements are reviewed by the project manager and
-
-team, then validated with the
-</blockquote>
-| <blockquote>9 days
-</blockquote>
-|}
-
-{| class="wikitable"
-|-
-!
-!
-!
-! <blockquote>users/stakeholders. This is
-
-where additional clarification may be needed.
-</blockquote>
-!
-|}
-
-{| class="wikitable"
-|-
-! <blockquote>3
-</blockquote>
-! <blockquote>1.3.3
-</blockquote>
-! <blockquote>Design and Develop System
-</blockquote>
-! <blockquote>The technical resources design the new Dispatch Directory System and install a
-
-development system for testing and customizations of
-
-user interfaces.
-</blockquote>
-! <blockquote>74 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.3.4
-</blockquote>
-| <blockquote>Testing Phase
-</blockquote>
-| <blockquote>The system is tested with a select set of users.
-</blockquote>
-| <blockquote>25 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.3.5
-</blockquote>
-| <blockquote>Install Live System
-</blockquote>
-| <blockquote>The actual system is installed and configured.
-</blockquote>
-| <blockquote>9 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.3.6
-</blockquote>
-| <blockquote>User Training
-</blockquote>
-| <blockquote>All users are provided with job
-
-aides to understand how the new system works
-</blockquote>
-| <blockquote>3 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.3.7
-</blockquote>
-| <blockquote>Go Live
-</blockquote>
-| <blockquote>System goes live with all users.
-</blockquote>
-| <blockquote>1 day
-</blockquote>
-|-
-| <blockquote>'''2'''
-</blockquote>
-| <blockquote>'''1.4'''
-</blockquote>
-| <blockquote>'''Control'''
-</blockquote>
-| <blockquote>'''The work involved for the control process of the'''
-
-'''project.'''
-</blockquote>
-| <blockquote>'''Throughout the project'''
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.4.1
-</blockquote>
-| <blockquote>Project Management
-</blockquote>
-| <blockquote>Overall project management for the project.
-</blockquote>
-| <blockquote>Throughout the project
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.4.2
-</blockquote>
-| <blockquote>Project Status Meetings
-</blockquote>
-| <blockquote>Weekly team status meetings.
-</blockquote>
-| <blockquote>Weekly, every
-
-Monday
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.4.3
-</blockquote>
-| <blockquote>Risk Management
-</blockquote>
-| <blockquote>Risk management efforts as defined in the Risk
-
-Management Plan.
-</blockquote>
-| <blockquote>Throughout the project
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.4.4
-</blockquote>
-| <blockquote>Update Project Management Plan
-</blockquote>
-| <blockquote>Project Manager updates the Project Management Plan as the project progresses.
-</blockquote>
-| <blockquote>Throughout the project
-</blockquote>
-|-
-| <blockquote>'''2'''
-</blockquote>
-| <blockquote>'''1.5'''
-</blockquote>
-| <blockquote>'''Closeout'''
-</blockquote>
-| <blockquote>'''The work to close-out the project.'''
-</blockquote>
-| <blockquote>'''22 days'''
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.5.1
-</blockquote>
-| <blockquote>Document Lessons Learned
-</blockquote>
-| <blockquote>Project Manager along with the project team performs a lesson learned meeting and documents the lessons
-
-learned for the project.
-</blockquote>
-| <blockquote>7 days
-</blockquote>
-|}
-
-{| class="wikitable"
-|-
-! <blockquote>3
-</blockquote>
-! <blockquote>1.5.2
-</blockquote>
-! <blockquote>Update Files/Records
-</blockquote>
-! <blockquote>All files and records are updated to reflect the widget management system.
-</blockquote>
-! <blockquote>5 days
-</blockquote>
-|-
-| <blockquote>3
-</blockquote>
-| <blockquote>1.5.4
-</blockquote>
-| <blockquote>Gain Formal Acceptance
-</blockquote>
-| <blockquote>The Project Sponsor formally accepts the project by signing
-</blockquote>
-| <blockquote>1 day
-</blockquote>
-|-
-|
-|
-|
-| <blockquote>the acceptance document included in the project plan.
-</blockquote>
-|
-|-
-| 3
-| <blockquote>1.5.4
-</blockquote>
-| <blockquote>Archive Files/Documents
-</blockquote>
-| <blockquote>All project related files and documents are formally archived.
-</blockquote>
-| <blockquote>8 days
-</blockquote>
-|-
-| 3
-| <blockquote>1.5.5
-</blockquote>
-| <blockquote>Project Close Out Meeting
-</blockquote>
-| <blockquote>Project Manager conducts a formal close out meeting with the project team, project stakeholders and project
-
-sponsor.
-</blockquote>
-| <blockquote>1 day
-</blockquote>
-|}
-
-<ol start="6" style="list-style-type: decimal;">
-<li><p>Detailed Schedule</p></li></ol>
-
-{| class="wikitable"
-|-
-! <blockquote>'''TASK'''
-</blockquote>
-! <blockquote>'''START'''
-</blockquote>
-! <blockquote>'''END'''
-</blockquote>
-|-
-| colspan="3"| <blockquote>'''Dispatch Directory System'''
-</blockquote>
-|-
-| colspan="3"| <blockquote>'''Initiation'''
-</blockquote>
-|-
-| <blockquote>Evaluation &amp; Recommendations
-</blockquote>
-| <blockquote>12/7/22
-</blockquote>
-| <blockquote>12/14/22
-</blockquote>
-|-
-| Develop Project Charter
-| <blockquote>12/15/22
-</blockquote>
-| <blockquote>2/2/23
-</blockquote>
-|-
-| Submit Project Charter
-| <blockquote>2/3/23
-</blockquote>
-| <blockquote>2/3/23
-</blockquote>
-|-
-| <blockquote>Project Sponsor Reviews Project Charter
-</blockquote>
-| <blockquote>2/3/23
-</blockquote>
-| <blockquote>2/6/23
-</blockquote>
-|-
-| <blockquote>Project Charter Signed/Approved
-</blockquote>
-| <blockquote>2/6/23
-</blockquote>
-| <blockquote>2/6/23
-</blockquote>
-|-
-| colspan="3"| <blockquote>'''Planning'''
-</blockquote>
-|-
-| <blockquote>Create Preliminary Scope Statement
-</blockquote>
-| <blockquote>2/7/23
-</blockquote>
-| <blockquote>2/10/23
-</blockquote>
-|-
-| Determine Project Team
-| <blockquote>2/13/23
-</blockquote>
-| <blockquote>2/17/23
-</blockquote>
-|-
-| Project Team Kickoff Meeting
-| <blockquote>2/20/23
-</blockquote>
-| <blockquote>2/20/23
-</blockquote>
-|-
-| Develop Project Plan
-| <blockquote>2/21/23
-</blockquote>
-| <blockquote>3/1/23
-</blockquote>
-|-
-| Submit Project Plan
-| <blockquote>3/2/23
-</blockquote>
-| <blockquote>3/2/23
-</blockquote>
-|-
-| '''Project Plan Approval'''
-| <blockquote>3/3/23
-</blockquote>
-| <blockquote>3/3/23
-</blockquote>
-|-
-| colspan="3"| <blockquote>'''Execution'''
-</blockquote>
-|-
-| Project Kickoff Meeting
-| <blockquote>3/6/23
-</blockquote>
-| <blockquote>3/6/23
-</blockquote>
-|-
-| <blockquote>Verify &amp; Validate User Requirements
-</blockquote>
-| <blockquote>3/7/23
-</blockquote>
-| <blockquote>3/17/23
-</blockquote>
-|-
-| Design System
-| <blockquote>3/20/23
-</blockquote>
-| <blockquote>7/7/23
-</blockquote>
-|-
-| Testing Phase
-| <blockquote>7/10/23
-</blockquote>
-| <blockquote>8/11/23
-</blockquote>
-|-
-| Install Live System
-| <blockquote>8/14/23
-</blockquote>
-| <blockquote>8/25/23
-</blockquote>
-|-
-| User Training
-| <blockquote>8/28/23
-</blockquote>
-| <blockquote>8/30/23
-</blockquote>
-|-
-| Go Live
-| <blockquote>8/31/23
-</blockquote>
-| <blockquote>8/31/23
-</blockquote>
-|-
-| colspan="3"| <blockquote>'''Control'''
-</blockquote>
-|}
-
-{| class="wikitable"
-|-
-! Project Management
-! 12/7/22
-! <blockquote>9/29/23
-</blockquote>
-|-
-| Risk Management
-| 12/7/22
-| <blockquote>9/29/23
-</blockquote>
-|-
-| Project Status Meetings
-| colspan="2"| <blockquote>Weekly (every Monday)
-</blockquote>
-|-
-| <blockquote>Update Project Management Plan
-</blockquote>
-| 12/7/22
-| <blockquote>9/29/23
-</blockquote>
-|-
-| colspan="3"| <blockquote>'''Closeout'''
-</blockquote>
-|-
-| Document Lessons Learned
-| 9/1/23
-| <blockquote>9/8/23
-</blockquote>
-|-
-| Update Files/Records
-| 9/11/23
-| <blockquote>9/15/23
-</blockquote>
-|-
-| Gain Formal Acceptance
-| 9/18/23
-| <blockquote>9/18/23
-</blockquote>
-|-
-| Archive Files/Documents
-| 9/19/23
-| <blockquote>9/28/23
-</blockquote>
-|-
-| Project Close Out meeting
-| 9/29/23
-| <blockquote>9/29/23
-</blockquote>
-|}
-
-<span id="detailed-cost-estimates"></span>
-= Detailed Cost Estimates =
-
-[[File:.m/media/image14.png|598x319px|Graphical user interface, text, application Description automatically generated]]
-
-<ol start="7" style="list-style-type: decimal;">
-<li><p>Handle Time</p></li></ol>
-
-{| class="wikitable"
-|-
-! <blockquote>'''Outage #'''
-</blockquote>
-! <blockquote>'''Start'''
-</blockquote>
-! <blockquote>'''End'''
-</blockquote>
-! <blockquote>'''Duration'''
-</blockquote>
-|-
-| 1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-<blockquote>10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-26
-
-27
-
-28
-
-29
-
-30
-
-31
-
-32
-
-33
-
-34
-
-35
-
-36
-
-37
-
-38
-
-39
-
-40
-
-41
-
-42
-
-43
-
-44
-
-45
-
-46
-
-47
-
-48
-
-49
-
-50
-</blockquote>
-| <blockquote>11:50:08 AM
-
-12:20:59 PM
-
-1:58:08 PM
-
-2:43:17 PM
-
-3:28:24 PM
-
-4:20:33 PM
-
-5:03:45 PM
-
-5:28:34 PM
-
-5:45:23 AM
-
-6:12:54 AM
-
-6:47:51 AM
-
-6:54:25 AM
-
-8:21:12 AM
-
-9:56:51 AM
-
-10:00:47 AM
-
-11:12:56 AM
-
-12:14:50 PM
-
-12:20:32 PM
-
-12:25:17 PM
-
-12:30:52 PM
-
-1:01:32 PM
-
-1:33:00 PM
-
-1:48:26 PM
-
-2:03:18 PM
-
-4:31:06 PM
-
-5:01:46 PM
-
-4:57:40 AM
-
-5:57:15 AM
-
-9:00:46 AM
-
-10:05:35 AM
-
-10:43:55 AM
-
-1:23:31 PM
-
-1:40:12 PM
-
-2:04:09 PM
-
-2:41:54 PM
-
-3:06:18 PM
-
-3:22:31 PM
-
-3:44:23 PM
-
-4:32:13 PM
-
-4:55:05 PM
-
-5:05:45 PM
-
-5:33:56 PM
-
-12:46:10 AM
-
-1:12:40 AM
-
-1:59:55 AM
-
-6:16:03 AM
-
-7:09:29 AM
-
-8:17:40 AM
-
-8:21:10 AM
-
-9:30:15 AM
-</blockquote>
-| <blockquote>1:20:53 PM
-
-1:20:53 PM
-
-2:38:06 PM
-
-3:22:59 PM
-
-3:37:21 PM
-
-4:22:21 PM
-
-5:19:45 PM
-
-5:33:20 PM
-
-5:47:36 AM
-
-6:14:21 AM
-
-6:50:15 AM
-
-6:55:03 AM
-
-8:32:53 AM
-
-10:13:35 AM
-
-10:03:49 AM
-
-11:17:13 AM
-
-12:28:39 PM
-
-12:23:15 PM
-
-12:32:44 PM
-
-12:37:40 PM
-
-1:01:53 PM
-
-1:47:24 PM
-
-2:13:12 PM
-
-2:21:59 PM
-
-4:35:49 PM
-
-5:06:35 PM
-
-4:58:37 AM
-
-6:00:35 AM
-
-9:02:08 AM
-
-10:07:51 AM
-
-10:47:02 AM
-
-1:34:51 PM
-
-1:54:27 PM
-
-2:21:49 PM
-
-2:44:24 PM
-
-3:48:19 PM
-
-3:27:20 PM
-
-3:53:04 PM
-
-4:46:54 PM
-
-5:04:26 PM
-
-5:17:00 PM
-
-5:44:05 PM
-
-12:48:13 AM
-
-1:15:09 AM
-
-2:08:58 AM
-
-6:17:06 AM
-
-7:10:47 AM
-
-8:22:54 AM
-
-8:24:59 AM
-
-9:33:18 AM
-</blockquote>
-| <blockquote>1:30
-
-0:59
-
-0:39
-
-0:39
-
-0:08
-
-0:01
-
-0:16
-
-0:04
-
-0:02
-
-0:01
-
-0:02
-
-0:00
-
-0:11
-
-0:16
-
-0:03
-
-0:04
-
-0:13
-
-0:02
-
-0:07
-
-0:06
-
-0:00
-
-0:14
-
-0:24
-
-0:18
-
-0:04
-
-0:04
-
-0:00
-
-0:03
-
-0:01
-
-0:02
-
-0:03
-
-0:11
-
-0:14
-
-0:17
-
-0:02
-
-0:42
-
-0:04
-
-0:08
-
-0:14
-
-0:09
-
-0:11
-
-0:10
-
-0:02
-
-0:02
-
-0:09
-
-0:01
-
-0:01
-
-0:05
-
-0:03
-
-0:03
-</blockquote>
-|}
-
-{| class="wikitable"
-|-
-! <blockquote>'''Outage #'''
-</blockquote>
-! <blockquote>'''Start'''
-</blockquote>
-! <blockquote>'''End'''
-</blockquote>
-! <blockquote>'''Duration'''
-</blockquote>
-|}
-
-{| class="wikitable"
-|-
-! <blockquote>51
-
-52
-
-53
-
-54
-
-55
-
-56
-
-57
-
-58
-
-59
-
-60
-
-61
-
-62
-
-63
-
-64
-
-65
-
-66
-
-67
-
-68
-
-69
-
-70
-
-71
-
-72
-
-73
-
-74
-
-75
-
-76
-
-77
-
-78
-
-79
-
-80
-
-81
-
-82
-
-83
-
-84
-
-85
-
-86
-
-87
-
-88
-
-89
-
-90
-
-91
-
-92
-
-93
-
-94
-
-95
-
-96
-
-97
-
-98
-
-99
-
-100
-</blockquote>
-! <blockquote>9:59:24 AM
-
-10:03:16 AM
-
-11:58:20 AM
-
-10:16:34 AM
-
-10:30:39 AM
-
-10:57:18 AM
-
-11:02:01 AM
-
-11:14:09 AM
-
-12:08:32 PM
-
-12:30:44 PM
-
-12:45:07 PM
-
-1:28:31 PM
-
-1:48:33 PM
-
-2:29:49 PM
-
-3:16:00 PM
-
-4:22:49 PM
-
-4:32:47 PM
-
-4:52:27 PM
-
-5:01:05 PM
-
-5:06:42 PM
-
-5:09:13 PM
-
-5:11:46 PM
-
-5:15:11 PM
-
-5:20:30 PM
-
-5:24:11 PM
-
-5:31:14 PM
-
-5:37:15 PM
-
-5:43:14 PM
-
-5:48:22 PM
-
-5:52:47 PM
-
-6:14:21 PM
-
-6:19:15 PM
-
-6:42:00 PM
-
-6:52:02 PM
-
-6:54:12 PM
-
-6:54:16 PM
-
-7:03:08 PM
-
-8:55:41 PM
-
-9:01:08 PM
-
-9:44:07 PM
-
-7:24:52 AM
-
-8:16:22 AM
-
-8:32:51 AM
-
-8:45:17 AM
-
-9:33:19 AM
-
-9:39:34 AM
-
-10:38:35 AM
-
-10:48:22 AM
-
-1:10:44 PM
-
-1:21:10 PM
-</blockquote>
-! <blockquote>10:05:56 AM
-
-10:04:37 AM
-
-11:58:27 AM
-
-10:44:31 AM
-
-10:33:32 AM
-
-10:58:49 AM
-
-11:04:55 AM
-
-11:21:12 AM
-
-12:17:45 PM
-
-12:35:40 PM
-
-12:46:16 PM
-
-1:34:26 PM
-
-1:51:44 PM
-
-2:40:48 PM
-
-3:21:48 PM
-
-4:27:11 PM
-
-4:35:35 PM
-
-4:56:18 PM
-
-5:03:45 PM
-
-5:16:47 PM
-
-5:11:34 PM
-
-5:16:12 PM
-
-5:17:29 PM
-
-5:32:17 PM
-
-5:28:13 PM
-
-5:35:34 PM
-
-5:47:13 PM
-
-6:02:34 PM
-
-5:56:15 PM
-
-5:55:40 PM
-
-6:16:54 PM
-
-6:22:13 PM
-
-6:44:54 PM
-
-7:14:41 PM
-
-6:58:25 PM
-
-7:00:43 PM
-
-7:06:46 PM
-
-8:58:55 PM
-
-9:05:38 PM
-
-9:48:07 PM
-
-7:33:30 AM
-
-8:24:32 AM
-
-8:41:20 AM
-
-8:49:05 AM
-
-9:37:03 AM
-
-9:57:33 AM
-
-10:40:06 AM
-
-10:50:41 AM
-
-1:12:46 PM
-
-1:22:48 PM
-</blockquote>
-! <blockquote>0:06
-
-0:01
-
-0:00
-
-0:27
-
-0:02
-
-0:01
-
-0:02
-
-0:07
-
-0:09
-
-0:04
-
-0:01
-
-0:05
-
-0:03
-
-0:10
-
-0:05
-
-0:04
-
-0:02
-
-0:03
-
-0:02
-
-0:10
-
-0:02
-
-0:04
-
-0:02
-
-0:11
-
-0:04
-
-0:04
-
-0:09
-
-0:19
-
-0:07
-
-0:02
-
-0:02
-
-0:02
-
-0:02
-
-0:22
-
-0:04
-
-0:06
-
-0:03
-
-0:03
-
-0:04
-
-0:04
-
-0:08
-
-0:08
-
-0:08
-
-0:03
-
-0:03
-
-0:17
-
-0:01
-
-0:02
-
-0:02
-
-0:01
-</blockquote>
-|}
-
-{| class="wikitable"
-|-
-! <blockquote>'''Outage #'''
-</blockquote>
-! <blockquote>'''Start'''
-</blockquote>
-! <blockquote>'''End'''
-</blockquote>
-! <blockquote>'''Duration'''
-</blockquote>
-|-
-| <blockquote>101
-
-102
-
-103
-
-104
-
-105
-
-106
-
-107
-
-108
-
-109
-
-110
-
-111
-
-112
-
-113
-
-114
-
-115
-
-116
-
-117
-
-118
-
-119
-
-120
-
-121
-
-122
-
-123
-
-124
-
-125
-
-126
-
-127
-
-128
-
-129
-</blockquote>
-| <blockquote>2:26:50 PM
-
-3:39:15 PM
-
-3:50:02 PM
-
-4:01:06 PM
-
-4:14:53 PM
-
-4:51:23 PM
-
-4:59:42 PM
-
-8:51:03 PM
-
-7:37:54 AM
-
-8:14:44 AM
-
-9:29:13 AM
-
-10:21:00 AM
-
-10:30:51 AM
-
-10:46:23 AM
-
-11:06:27 AM
-
-11:50:42 AM
-
-12:35:24 PM
-
-1:18:01 PM
-
-2:02:54 PM
-
-4:17:21 PM
-
-4:41:06 PM
-
-5:39:09 PM
-
-5:58:32 PM
-
-10:18:37 AM
-
-10:51:21 AM
-
-11:40:10 AM
-
-12:50:26 PM
-
-4:13:44 PM
-
-6:29:12 PM
-</blockquote>
-| <blockquote>2:31:53 PM
-
-3:42:41 PM
-
-3:59:39 PM
-
-4:04:40 PM
-
-4:20:32 PM
-
-4:58:07 PM
-
-5:05:36 PM
-
-8:57:22 PM
-
-7:41:27 AM
-
-8:22:40 AM
-
-10:20:55 AM
-
-10:23:14 AM
-
-10:32:38 AM
-
-10:53:15 AM
-
-11:08:28 AM
-
-12:12:34 PM
-
-12:40:07 PM
-
-1:50:53 PM
-
-2:14:44 PM
-
-4:32:26 PM
-
-4:48:24 PM
-
-5:42:58 PM
-
-6:00:39 PM
-
-10:27:28 AM
-
-10:53:24 AM
-
-11:41:51 AM
-
-1:10:49 PM
-
-4:31:49 PM
-
-6:55:35 PM
-
-'''Average'''
-</blockquote>
-| <blockquote>0:05
-
-0:03
-
-0:09
-
-0:03
-
-0:05
-
-0:06
-
-0:05
-
-0:06
-
-0:03
-
-0:07
-
-0:51
-
-0:02
-
-0:01
-
-0:06
-
-0:02
-
-0:21
-
-0:04
-
-0:32
-
-0:11
-
-0:15
-
-0:07
-
-0:03
-
-0:02
-
-0:08
-
-0:02
-
-0:01
-
-0:20
-
-0:18
-
-0:26
-
-'''0:09'''
-</blockquote>
+! Level
+! WBS Code
+! Definition
+! WBS Code
+|-
+! 1
+! 1
+! Rams E-Caf, Cafeteria Management System
+! All work to implement a new Cafeteria Management System
+|-
+! 2
+! 1.1
+! Initiation
+! The work to initiate the project.
+|-
+! 3
+! 1.1.1
+! Creating Project Team
+! Working group to evaluate solution sets and make recommendations.
+|-
+! 3
+! 1.1.2
+! Brainstorming
+! Project Team discuss different problems that needs to be addressed
+|-
+! 3
+! 1.1.3
+! Search for Client
+! Search for a client that preceded over the problem
+|-
+! 3
+! 1.1.4
+! Draft of Proposal
+! Develop project proposal addressing problem and proposed solution
+|-
+! 3
+! 1.1.5
+! Deliverable: Project Proposal
+! Presentation of the project proposal is a requirement for the SNTSDEV Course
+|-
+! 3
+! 1.1.6
+! Approval of Project Draft
+! Project Draft got approved by course instructor
+|-
+! 3
+! 1.1.7
+! Revision of Project Proposal
+! Project team revises project proposal according to comments
+|-
+! 3
+! 1.1.8
+! Project Adviser Request
+! Project manager searches for a project adviser that fits the project
+|-
+! 3
+! 1.1.9
+! Final Presentation
+! Presentation of the final project proposal to ensure quality of project
+|-
+! 3
+! 1.1.10
+! Milestone: Project Proposal Approval
+! After revisions according to new comments, approval will start the planning phase for the project team
+|-
+! 2
+! 1.2
+! Planning
+! The work needed to design the system
+|-
+! 3
+! 1.2.1
+! Design Thinking Stage 1 Empathize
+! Project team will interview stakeholders
+|-
+! 3
+! 1.2.2
+! Design Thinking Stage 2 Define
+! Project team will determine the root cause
+|-
+! 3
+! 1.2.3
+! Design Thinking Stage 3 Ideate
+! Project team works on a solution for the problem
+|-
+! 3
+! 1.2.4
+! Design Thinking Stage 4 Prototype
+! Project team works on a basic prototype for designing functions
+|-
+! 3
+! 1.2.5
+! Design Thinking Stage 5 Test
+! Project team will have the stakeholders test the prototype
+|-
+! 3
+! 1.2.6
+! Draft of Data Flow Diagram (DFD)
+! Project team works on the DFD
+|-
+! 3
+! 1.2.7
+! Draft of Entity Relationship Diagram (ERD)
+! Project team works on the ERD
+|-
+! 3
+! 1.2.8
+! Draft of Use Case Diagram
+! Project team works on the Use Case Diagram
+|-
+! 3
+! 1.2.9
+! Project Presentation
+! Project team led by the project manager presents results of Design thinking and diagrams
+|-
+! 2
+! 1.3
+! Execution
+! The work needed for building, revision of designs, and documentations of the project
+|-
+! 3
+! 1.3.1
+! Revision of DFD
+! Project Team revises DFD
+|-
+! 3
+! 1.3.2
+! Revision of ERD
+! Project Team finalizes ERD
+|-
+! 3
+! 1.3.3
+! Revision of Use Case Diagram
+! Project Team finalizes Use Case Diagram
+|-
+! 3
+! 1.3.4
+! Milestone: Website Prototype
+! Project team, programmer designs basic website prototype
+|-
+! 3
+! 1.3.5
+! Adviser Meeting 1
+! Project team Meets with Project Adviser to better align project goals
+|-
+! 3
+! 1.3.6
+! Face to Face Client Meeting
+! Project team Meets with project client/sponsor and provide demo of the basic prototype for comments on functions
+|-
+! 3
+! 1.3.7
+! Midterm Presentation
+! Project team led by the project manager will present Diagrams and Documents
+|-
+! 3
+! 1.3.8
+! Project Revision
+! Project team will revise the diagrams and document, and website according to comments
+|-
+! 3
+! 1.3.9
+! Development of Manage Accounts Function
+! Work needed to provide the admin all access to everyone’s accounts
+|-
+! 3
+! 1.3.10
+! Development of Select Vendor Function
+! Work needed to provide customers vendor selection
+|-
+! 3
+! 1.3.11
+! Work needed for customers to view their profile on the website
+! The developer created a profile dashboard system.
+|-
+! 3
+! 1.3.12
+! Work needed for food concessionaires to better manage their online orders
+! The developer created an interface for managing orders in the Rams E-Caf.
+|-
+! 3
+! 1.3.13
+! Work needed for the food concessionaires to better view reports
+! The developer created an interface to view reports
+|-
+! 3
+! 1.3.14
+! Work needed for the food concessionaires to better manage their food stocks
+! The developer created an interface for concessionaires to check and manage food stocks.
+|-
+! 3
+! 1.3.15
+! Work needed for the admin and food concessionaires to view feedback given by customers
+! The developer created an interface for admins to view feedback given by customers.
+|-
+! 3
+! 1.3.16
+! Working Web Application is a deliverable for the SCSPROJ course
+! The system was completed, and it was presented to the panelists.
+|-
+! 3
+! 1.3.17
+! Project Team meets with the project adviser for constructive criticism before the final defense.
+! The project advisor suggests what to emphasize during the defense.
+|-
+! 3
+! 1.3.18
+! Project Team led by the Project Manager will defend the project in front of a panel
+! The project was defended in front of the panelists.
+|-
+! 3
+! 1.3.19
+! Project team produced a working Cafeteria Management System
+! Project team presented a working system.
+|-
+! 4
+! 1.4
+! Work needed to complete all of the documentations
+! Project team is undergoing completion of documents.
+|-
+! 4
+! 1.4.1
+! Project team works on the Project Charter
+! Project team is undergoing completion of Project Charter.
+|-
+! 4
+! 1.4.2
+! Project team works on the Stakeholder Management Strategy
+! Project team is undergoing completion of Stakeholder Management Strategy.
+|-
+! 4
+! 1.4.3
+! Project Team works on the Business Case
+! Project team is undergoing completion of Business Case.
+|-
+! 4
+! 1.4.4
+! All documents are to be submitted to the project sponsor to be reviewed and approved
+! All document tags have been presented to sponsor for review.
+|-
+! 4
+! 1.4.5
+! Project Sponsor/Client reviews the documents mentioned
+! The project team presented the documents for review and verification of the project sponsor.
+|-
+! 4
+! 1.4.6
+! Milestone: Documents Signed/Approved
+! The project team’s documents were approved by the project sponsor.
+|-
+! 4
+! 1.4.7
+! Deliverable: Submit Scope Management Plan, Cost Management Plan, Time Management Plan, Work Breakdown Structure, Work Packages Based
+! The team submitted the Scope Management Plan, Scope Management Plan, Cost Management Plan, Time Management Plan, Work Breakdown Structure, and Work Packages.
+|-
+! 4
+! 1.4.8
+! Project Sponsor Reviews Documents
+! The project sponsor reviews the documents for approval.
+|-
+! 4
+! 1.4.9
+! Milestone: Documents Signed/Approved
+! The project sponsors approved the project documents created by the team.
+|-
+! 4
+! 1.4.10
+! Deliverable: Submit Communications Management Plan, Implementation Management Plan, Risk Management Plan, Change Management Plan, Procurement Management Plan, Quality Management Plan
+! The project team submitted the required deliverables for the week 4 to 6 for the project management papers.
+|-
+! 4
+! 1.4.11
+! Project Sponsor Reviews Documents
+! The project sponsors review the documents for approval.
+|-
+! 4
+! 1.4.12
+! Milestone: Documents Signed/Approved
+! The project sponsors approved the project documents created by the team.
+|-
+! 4
+! 1.4.13
+! Project Defense
+! The team presented the project management papers to the panelists.
+|-
+! 5
+! 1.5
+! Deployment
+! The project team starts to deploy the Rams E-Caf system.
+|-
+! 5
+! 1.5.1
+! Acquire Hardware Requirements
+! The team will find the needed hardware required for the system testing.
+|-
+! 5
+! 1.5.2
+! System Testing
+! The project team will have the ITRO of APC test the system for the project deployment.
+|-
+! 5
+! 1.5.3
+! Project Deployment
+! The project team completely deployed the system.
+|-
+! 5
+! 1.5.4
+! Project Hand out
+! The project team will hand out the project system to the client.
+|-
+! 6
+! 1.6
+! Closure
+! The project team starts for the closure stage of Rams E-Caf system.
+|-
+! 6
+! 1.6.1
+! Audit Procurement
+! The project team starts to procure the hardware requirements.
+|-
+! 6
+! 1.6.2
+! Document Lessons Learned
+! The project team starts to document the lessons that have learned from the whole project.
+|-
+! 6
+! 1.6.3
+! Update Files/Records
+! The team starts to update the files and records of Rams E-Caf.
+|-
+! 6
+! 1.6.4
+! Gain Formal Acceptance
+! The team starts to request formal acceptance from the client.
+|-
+! 6
+! 1.6.5
+! Archive Files/Documents
+! The team starts to archive files and documents of the project.
 |}
