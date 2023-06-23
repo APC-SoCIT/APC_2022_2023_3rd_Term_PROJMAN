@@ -134,6 +134,24 @@
   </tr>
 </table>
 
+|-
+! Checklist Item !! Yes !! No !! N/A
+|-
+| Navigation is easy to use and logical || || || 
+|-
+| Content is of high quality and relevant || || || 
+|-
+| Visual design is professional and visually appealing || || || 
+|-
+| Website loads quickly and is responsive || || || 
+|-
+| Website is optimized for mobile devices || || || 
+|-
+| Website is secure and protected against hacks or breaches || || || 
+|-
+| Website is optimized for search engines || || || 
+|-
+
 <h2> Scope Verification </h2>
 
 <p>Scope verification is the process of reviewing the project deliverables to ensure that they meet the requirements specified in the project scope statement. To verify the scope of the Fleeky Hub e-commerce website project, the project team will conduct the following activities: </p>
