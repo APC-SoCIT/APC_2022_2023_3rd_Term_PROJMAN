@@ -1177,12 +1177,6 @@ Signed authorizations
 
   <p>In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index. These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project back on track.</p>
 
-  <h2>Reporting Format</h2>
-  <h3>START TABLE HE ????</h3>
-<p>•	The budgeted amount for the website development is higher than the actual amount just to be safe whenever possible improvement or modification will be added.
-</p>•	The domain name and hosting for the website is to be subscribed to Linode for two dollars per month and we increased the allotted budget for the whole year.
-<p>•	The testing amount is greater than from the allotted budget for the action made since there are functions that needed to address to complete the whole website itself.
-</p>  
 <h2>Cost Variance Response Process</h2>
 <h3>The Cost Variance Response process for Fleeky Hub project will be as follows:</h3>
 
