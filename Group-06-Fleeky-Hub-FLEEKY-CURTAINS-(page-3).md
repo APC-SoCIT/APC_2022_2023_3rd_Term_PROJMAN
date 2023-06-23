@@ -2730,13 +2730,11 @@ The following are the roles and duties for the quality management plan: </p>
     <li>Team member in charge of carrying out corrective measures</li>
   </ul>
 
-  <p>Visual tools will be used to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. It draws attention to patterns and problem areas so that the team can act fast and make the necessary adjustments.</p>
+<p>Visual tools will be used to track the quality control measurements in real-time so that all team members can readily access and comprehend the data. It draws attention to patterns and problem areas so that the team can act fast and make the necessary adjustments.</p>
 
-  <p>The quality control metrics will be reviewed, and the method will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the group will pinpoint potential improvement areas and put any found problems into practice.</p>
+<p>The quality control metrics will be reviewed, and the method will be adjusted as necessary during routine team reviews such as sprint reviews and retrospectives. Together, the group will pinpoint potential improvement areas and put any found problems into practice.</p>
 
-  <h2>Conclusion</h2>
-
-  <p>In conclusion, the Fleeky Hub project will use Agile and Scrum approaches to implement a collaborative and dynamic quality control strategy. To make sure the product satisfies the standards and needs, the team will regularly assess the product's quality and make the required improvements. On a common platform, all quality control measurements will be collected and tracked in real time. The team will collaborate to address any problems and implement any necessary improvements.</p>
+<p>In conclusion, the Fleeky Hub project will use Agile and Scrum approaches to implement a collaborative and dynamic quality control strategy. To make sure the product satisfies the standards and needs, the team will regularly assess the product's quality and make the required improvements. On a common platform, all quality control measurements will be collected and tracked in real time. The team will collaborate to address any problems and implement any necessary improvements.</p>
 
 
 <h1>Change Management Plan</h1>
