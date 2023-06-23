@@ -607,39 +607,40 @@ Technical limits: Fleeky Curtains may suffer technological constraints such as r
 	</tr>
 </table>
 
-<h2>Summary Budget</h2>
+<h2>Budget Summary</h2>
 
 <p>The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project. However, since the project is only done at in-house development and hosting the site online will be pushed for future development, this is the summary budget estimated for the deployment.  </p>
 
-<table border="1" align="center">
-      <thead>
-        <tr>
-          <th colspan="2">Summary Budget -  List Component Costs</th>
-        </tr>
-        <tr>
-          <th>Project Component</th>
-          <th>Component Cost</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Personnel Resources</td>
-          <td>₱5,000</td>
-        </tr>
-        <tr>
-          <td>Hardware</td>
-          <td>₱1,000</td>
-        </tr>
-        <tr>
-          <td>Software and Licensing</td>
-          <td>₱20,000</td>
-        </tr>
-        <tr>
-          <td>Total</td>
-          <td>₱26,000</td>
-        </tr>
-      </tbody>
-    </table>
+<table>
+  <tr>
+    <th>Project Component</th>
+    <th>Component Cost</th>
+  </tr>
+  <tr>
+    <td>Utilities (Water, Electricity)</td>
+    <td>PHP 405,000</td>
+  </tr>
+  <tr>
+    <td>Hardware</td>
+    <td>PHP 330,145</td>
+  </tr>
+  <tr>
+    <td>Softwares &amp; Subscriptions (Internet, Web, and Cloud Hosting, OS, Microsoft 365)</td>
+    <td>PHP 126,880</td>
+  </tr>
+  <tr>
+    <td>Necessities (Food Allowance, Transportation)</td>
+    <td>PHP 570,000</td>
+  </tr>
+  <tr>
+    <td>Space Rent</td>
+    <td>PHP 12,000</td>
+  </tr>
+  <tr>
+    <th>TOTAL</th>
+    <th>PHP 1,444,025</th>
+  </tr>
+</table>
 
 
 
