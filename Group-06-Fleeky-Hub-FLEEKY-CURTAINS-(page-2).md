@@ -1266,14 +1266,20 @@ Signed authorizations
   <tr>
     <th>Item</th>
     <th>Description</th>
-    <th>Unit Cost PHP</th>
-    <th>Total Cost PHP</th>
+    <th>Unit Cost (₱)</th>
+    <th>Total Cost (₱)</th>
   </tr>
   <tr>
     <td>Electricity</td>
     <td>1 unit = 1 month</td>
+    <td>21,000</td>
+    <td>105,000</td>
+  </tr>
+  <tr>
+    <td>Water</td>
+    <td>1 unit = 1 month</td>
     <td>5,000</td>
-    <td>1,260,000.00</td>
+    <td>300,000</td>
   </tr>
   <tr>
     <td>Internet Monthly Subscription 1K</td>
@@ -1314,13 +1320,13 @@ Signed authorizations
   <tr>
     <td>Food Allowance</td>
     <td>12 Months</td>
-    <td></td>
+    <td>7,500</td>
     <td>450,000.00</td>
   </tr>
   <tr>
     <td>Office Space Monthly Rent</td>
     <td>1 unit = 1 month</td>
-    <td></td>
+    <td>1,000</td>
     <td>12,000.00</td>
   </tr>
   <tr>
@@ -1350,14 +1356,14 @@ Signed authorizations
   <tr>
     <td>Transportation</td>
     <td>12 Unit = 12 months</td>
-    <td></td>
-    <td>1,200.00</td>
+    <td>2,000</td>
+    <td>120,000</td>
   </tr>
   <tr>
+    <td>TOTAL:</td>
     <td></td>
     <td></td>
-    <td><strong>TOTAL:</strong></td>
-    <td><strong>2,180,225.00</strong></td>
+    <td>1,444,025.00</td>
   </tr>
 </table>
 
