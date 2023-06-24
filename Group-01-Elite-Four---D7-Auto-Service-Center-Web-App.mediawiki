@@ -258,15 +258,15 @@ Below are the major milestones of the project:
 ==4.5. Strategic Alignment==
 The D7 Auto Service Center project’s strategic alignment will adhere to the objectives set for the company. We can ensure that the project contributes to the long-term success of the organization. 
 
-D7 Auto Service Center aims to become a trusted and leading provider of automotive repair and maintenance services in the local market. 
+<b> D7 Auto Service Center aims to become a trusted and leading provider of automotive repair and maintenance services in the local market. </b>
 
 By leveraging the additional platform through effective procedures that will accelerate the operations of the service center, increase customer service, and raise overall service quality, the project is in line with this objective. The project will assist D7 Auto Service Center build a reputation for reliability, professionalism, and high-quality service by streamlining the service delivery process and assuring prompt and accurate contact with clients, which will help the business achieve long-term success. 
 
-Furthermore, D7 Auto Service Center aims to continually innovate and adapt to the evolving needs of customers and the automotive industry.
+<b> Furthermore, D7 Auto Service Center aims to continually innovate and adapt to the evolving needs of customers and the automotive industry. </b>
 
 Advanced diagnostic tools, effective appointment scheduling, and digital record-keeping systems are all implemented as part of the project to boost the capabilities and productivity of the service center. The project will help D7 Auto Service Center remain competitive in the fast-paced automotive service sector and meet changing client expectations by keeping up with the most recent advancements in automotive technology and service trends.  
 
-In addition, D7 Auto Service Center is committed to achieving high customer satisfaction and loyalty through exceptional service and support. 
+<b> In addition, D7 Auto Service Center is committed to achieving high customer satisfaction and loyalty through exceptional service and support. </b>
 
 By introducing effective workflow procedures, cutting down on service wait times, and enhancing customer communication regarding service status and price estimates, the project is in line with this objective. The project will boost customer satisfaction and loyalty by providing exceptional customer service and fostering long-lasting connections with customers. This will lead to repeat business and helpful recommendations from others. 
 
@@ -434,7 +434,7 @@ The project Summary Milestone Schedule is presented below. As requirements are m
   </tr>
 </table>
 
-===5.6.1 Summary Milestones Schedule===
+===5.6.1 Budget Summary ===
 The budget for the D7 Auto Service Center Web-App project is detailed below:
 <b> The approved budget: ₱363,600.00 </b>
 
@@ -735,6 +735,26 @@ The roles and responsibilities of the team are as follows:
     <td>Anne Sydney Simpelo</td>
     <td>In charge of providing the necessary resources for the project, defining the project's objectives, monitoring its advancement, and ensuring its success in achieving its objectives and delivering business value.</td>
   </tr>
+  <tr>
+    <td> Product Owner (Classified as external team member </td>
+    <td> Francesca Erin Camino </td>
+    <td> Reports and communicates with the project sponsor about important updates, changes, and milestones of  the project. </td>
+  </tr>
+ <tr>
+    <td> Project Consultant 
+(Classified as 
+external team 
+member)  </td>
+    <td> Roselle Wednesday 
+Gardon  </td>
+    <td> Will be in-charge of checking and overseeing documents of the project, and its system, and feature implementation consultations </td>
+  </tr>
+ <tr>
+    <td> Project Adviser (Classified as external team member </td>
+    <td> Jo Anne M. de la Cuesta </td>
+    <td>Will be in-charge of checking and overseeing of documents of the project, and its system, and feature implementation suggestions.</td>
+  </tr>
+
 </table>
 
 ==7.4 Scope Definition==
@@ -749,7 +769,7 @@ The project’s scope definition will be comprised of where the project is limit
 The scope is subject to change if either the team or the project sponsor made agreements regarding changes, as the project follows an Agile methodology, which may have or pose changes during the project’s development phase and/or its entire cycle.
 
 ==7.5 Project Scope Statement==
-===7.5.1 Project Scope Description===
+===7.5.1 Product Scope Description===
 The D7 Auto Service Center Web-app project will be limited to creation of an additional platform for D7 that will extend their online presence, as well as creation of a booking system that allows D7 and their customers to manage and make reservations, respectively.
 
 ===7.5.2 Product Acceptance Criteria===
@@ -765,7 +785,7 @@ The Product Acceptance Criteria for the client’s receivable project are as fol
 
 5.	The personnel of D7 Auto Service Center including that of the owner and the project sponsor is taught of how the web-app is and will be used for the business itself.  <br>
 
-===7.5.3 Project Deliverables===
+===7.5.3 Product Scope Deliverables===
 The deliverables of the project will be as follows: 
 
 1.	A fully working web-app for D7 Auto Service Center
@@ -1360,7 +1380,7 @@ The Change Control Board (CCB) is the approval authority for all proposed change
   <tr>
     <td>Change Control Board Member</td>
     <td>Product Owner</td>
-    <td>Dan Michael C. Alfaras</td>
+    <td> Francesca Erin Camino</td>
     <td>dcalfaras@student.apc.edu.ph</td>
     <td>• Ensure changes are followed through<br>• Appeal to decision turnovers</td>
   </tr>
@@ -2873,7 +2893,8 @@ The Work Breakdown Structure presented here represents all the work required to 
      [[https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G01_Elite_Four/blob/c3bdbd2802af39fa3e9d4b10f4692f6828dde02a/documentation/archive/Elite%20Four%20Work%20Breakdown%20Structure.png]]
 </p>
 <br>
-==18.6 WBS Dictionary==
+=19. Appendices=
+==19.1 WBS Dictionary==
 <table border="1" width="70%" align="center">
     <tr>
         <td>Level</td>
