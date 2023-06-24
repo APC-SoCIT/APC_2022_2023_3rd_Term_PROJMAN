@@ -1883,6 +1883,76 @@ Continuous improvement is a vital aspect for the success of the Bregghan POS sys
 <li>Status: Current state or condition of the risk.</li>
 </ul>
 
+<table border="1" width="70%" align="center">
+        <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">RiskID</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Risk Rank</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Risk</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Description</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Category</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Destination/Owner</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Probability</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Impact</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Status</p></td>
+	</tr>
+        <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Hardware Failure</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Hardwares like barcode scanner,printer may not 
+                 work</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Technology</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">System Developer</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+	</tr>
+        <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">2</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Software Failure</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">There is a risk of software failure refers to potential malfunction in the system that could lead to lose track of sales/inventory</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Operational Risk</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">System Developer</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+	</tr>
+        <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">3</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Potential Departure of Team Member</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">There is a risk that a team member may leave the project.</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Human Resource</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+	</tr>
+        <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">4</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Limited Resources</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">There is a risk of insufficient resources that could affect the completion of the project</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Resource Allocation</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Project Team</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+	</tr>
+        <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">5</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">2</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Human Error/p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">There might be a risk of mistakes made by the project developers which can affect the project's completion.</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Workplace</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">User</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+	</tr>
+</table>
+
 =Procurement Management Plan=
 ==Introduction==
 <p>This project's Procurement plan plays a vital role in succeeding the following deliverables as this shows the plans that will be taken as part of the planning process for the program or service. The main idea behind procurement is that proactive scheduling, planning, and bulk buying lead to financial savings, effective corporate operations, and improved value for money.</p>
