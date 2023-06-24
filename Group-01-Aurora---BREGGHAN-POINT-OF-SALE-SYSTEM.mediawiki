@@ -1962,7 +1962,17 @@ Continuous improvement is a vital aspect for the success of the Bregghan POS sys
                 <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
                 <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
 	</tr>
-
+        <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">7</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">3</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Dependencies on other parties</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">The project may depend on the performance and capabilities of external parties that can lead to other issues like backlogs</p></td>
+		<td bgcolor="lightblue"><p style="text-align:center;">Partnership Risk</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
+                <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
+	</tr>
 
 
 </table>
