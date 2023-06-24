@@ -426,19 +426,427 @@ The image below pertains to the detailed summary of the budget allotted for the 
 == 5.7 Project Approvals Requirements ==
 RAMS Corner Ticketing System’s success will be achieved when fully fleshed-out software is published and is installed within the devices of the ITRO Office and their clientele within the time and cost constraints indicated in this charter. To further assess the success of the project, post-deployment surveys would be done in order to gauge the effectivity of the solution, along with any other possible recommendations or suggestions that might be useful for the betterment of the system which would be determined by the Project’s Beneficiary, Mr. Jojo Castillo, the ITRO Head, who will authorize the completion of the project.
 
-= 6. Project Management Approach = 
+= 6. PROJECT MANAGEMENT APPROACH = 
 The Project Sponsor is the one responsible for the initiation and the funding of the whole project. Meanwhile, the responsibility of the Project Manager is the overall planning, execution, and project delivery, all according to how the project should run based on the Project Management Plan. The Scrum Master will be the one to facilitate the execution of the Agile methodology used in the Project Lifecycle. Lastly, the documentation team is the group responsible for maintaining the project documentation – which includes the meeting minutes, plans, technical documentation, and any other relevant records. 
 Documentation Team, together with the Project Sponsor, Project Manager, and Scrum Master must ensure that all documentation is up to date, organized, and accessible by all the Stakeholders. Any changes, updates, and approvals should be included in the writings and be signed mainly by the Project Sponsor and Project Manager.
 
 
-= 7. Project Technical Approach =
+= 7. PROJECT TECHINICAL APPROACH =
 == 7.1 Product Development Methodology ==
+The lifecycle approach that the team is using for this project is the hybrid of Waterfall Methodology and Agile Methodology. Waterfall Methodology is utilized to make sure that the project development follows specific steps that are within the budget all through out until the project completion. On the other hand, Agile is utilized to make sure that the completion of steps from Waterfall will be iterated and discussed with the stakeholders by two-week sprints. In this way, the team will have visible deliverables where the stakeholders can give periodic suggestions or recommendations for alterations and approvals,  thus, will help a more efficient and effective use of resources available. 
+
+This methodology will follow these steps: 
+*Initiating the Project
+*Planning 
+*Systems Analysis and Detailed Designing
+*System Prototyping and Development
+*Testing
+*Deployment and Control
+*Closeout
+
 == 5.2 Technical Architecture == 
+*The web-app is built using Laravel framework.
+*The web-app utilized MySQL for the database to store and retrieve data from user profiles and ticket contents. 
+*The accounts would be pulled from the pre-existing pool of credentials of the Asia Pacific College through their Microsoft APC email accounts.
+*Microsoft Outlook would be the primary email service used by the system’s emailing notification feature.
+*The web-app is built upon a Microsoft Windows-based system but can be run and accessed on any desktop or mobile device with any operating system.
+*The data processed within the system include—but are not limited to—user credentials, ticket contents, KB contents, and messages sent within each ticket per update.
+*The web-app serves as an extension of the ITRO to promote digitalizing their processes.
+*There are no specific implementation constraints identified.
+*The data will be held privately by the ITRO and could only be shared within the premises and authorization of their office.
 
-= 8. COST MANAGEMENT PLAN =
+= 8. PROJECT MANAGEMENT PLAN =
+== 8.1 Stakeholders Strategy Management Plan==
+=== 8.1.1 Introduction ===
+The Stakeholder Management Strategy for the project is a crucial aspect of effective project management. It involves identifying and engaging with all relevant stakeholders to ensure their interests, concerns, and expectations are considered and addressed throughout the project's lifecycle. In this section, we will discuss the goals and objectives of the Stakeholder Management Strategy and highlight its significance in project success.
 
-== 8.1 Introduction == 
-The purpose of the Cost Management Plan for the Rams Corner Ticketing Service System is to efficiently manage all expenses related to the project from start to finish. The plan establishes guidelines and criteria for measuring, reporting, and regulating the project's costs. 
+Proper stakeholder management is essential as it helps in gaining support and buy-in from stakeholders, while also proactively addressing any potential resistance, conflict, or competing objectives. By actively involving stakeholders, we can minimize risks and maximize project success by aligning their interests with the project's objectives.
+
+In this section, we will outline the key goals and objectives of the Stakeholder Management Strategy, which will serve as a guiding framework for effectively managing stakeholders throughout the project's duration.
+
+Strategies that could be implemented to improve the stakeholder management for the RAMS Corner: ITRO Ticketing Service System:
+*'''Communicate regularly and transparently:''' The team Nacor Industries will establish an open and transparent communication channel with stakeholders. Provide regular updates on project progress, risks, and changes. Be clear, honest, and consistent in communication to build trust and maintain positive relationships with the stakeholders.
+
+*'''Involve stakeholders in decision-making:''' Involving stakeholders in the decision-making of the project RAMS Corner can foster their ownership and commitment to the project. Seek their input, feedback, and suggestions when making important decisions, and incorporate their perspectives as appropriate.
+
+By implementing these strategies, our team can improve stakeholder management and cultivate positive relationships with stakeholders, leading to greater project success and organizational effectiveness for the Project RAMS Corner.
+
+=== 8.1.1 Identify Stakeholders ===
+By implementing these strategies, our team can improve stakeholder management and cultivate positive relationships with stakeholders, leading to greater project success and organizational effectiveness for the Project RAMS Corner.
+
+Identified Stakeholders:
+
+1. Project Sponsor
+Mr. Jose Castillo, as the head of the ITRO department office, facilitates discussions among the project team providing the necessary technical aspects needed for system development. He is also identified as the project sponsor.
+
+2. APC ITRO
+APC ITRO is identified as a project stakeholder since they provide continuous feedbacks upon the accessibility and usability of the Ticketing System, which they fill a big role as the staff who will use the system as the development team will turnover the full working system for the ITRO Department Office specific use case.
+
+3. APC Students and Faculties and Staffs
+Students and faculties are identified as project stakeholders since they are the specific users of the Ticketing System, in which they will utilize to further communicate with ITRO customer service using the Ticketing System and using the application will be their greatest contribution as they provide with the feedback and usability of the system.
+
+=== 8.1.3 Key Stakeholders ===
+Identified Key Stakeholders:
+1. ITRO Department Office of Asia Pacific College Headed by Mr. Jose Castillo
+
+*One of the key stakeholders in the Project entitled RAMS Corner Ticketing System is the ITRO Department Office. Especially since the department office happens to be the project's client, which is under the supervision of Mr. Jose Castillo. After the whole project development is complete, the ticketing software as the byproduct of the project will be utilized by the ITRO. The head of the ITRO Department Office, Mr. Jose Castillo, is the representative of the department that facilitates communication between the project team including all the discussions, meetings, and updates. With his great knowledge in the technical field of information technology, he managed to bring great impact and influence towards the decision making with regards to the development during the course of the project.
+
+=== 8.1.4 Stakeholder Analysis ===
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/821469f9e9939151c7b309a9ca398112124c33ee/wikihub%20photos/keystk.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+''Figure 6: Stakeholder Analysis''
+
+== 8.2 Scope Management Plan==
+=== 8.2.1 Introduction ===
+Towards the start of the project, the team, Nacor Industries has already set a list of scope and limitations that would enable the group to focus on the tasks at hand and not be swayed nor distracted by minor issues nor inconveniences prior, during and after the development phase. This Scope Management Plan aims to identify and elaborate the necessary processes used to define, control, approach, delegate, and verify the project’s scope which involves—but are not limited to—the following: 
+
+1. '''Requirement Collection;'''
+*This process would be done through collective and regular meetings with the group and the client through a Scrum-Fall methodology-based workflow. This ensures that the needed data and resources would be gathered and verified simultaneously while also allowing freedom for the team in case of revision, as referenced in the figure below:
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/b55adb18a2137577e9338df07a4bbeeedf9e4bab/wikihub%20photos/stk%20analysis.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+''Figure 7: Scrum Fall Methodology''
+
+2. '''Scope Definition;'''
+*Involves the checking of all the necessary documents such as contracts, agreements, and statements of work to ensure that they align with the project's goals, objectives, and constraints.
+
+3. '''Work Breakdown Structure (WBS) Creation;'''
+*The WBS is comprehensive and accurate visual representation of the tasks and goals that the team came up with through various sessions and meetings which entails all the work packages required to complete the project.
+
+4. '''Scope Verification and;'''
+*This would be done through performing a walkthrough of the project deliverables with stakeholders to ensure that they meet their needs and expectations. Furthermore, it will allow stakeholders to provide feedback and make suggestions for improvement as indicated accordingly through the team’s Scrum-Fall Methodology.
+
+5. '''Scope Control'''
+*Controlling the project’s scope is needed to reflect any changes in the project's goals, objectives, or constraints. Prior to any changes the team would make sure that the stakeholders are aware of the project's scope.
+
+=== 8.2.2 Scope Management Approach ===
+The scope of the web application, RAMS Corner: Ticketing System is pre-determined in Scope Definition, Project Scope Statement, Work Breakdown Structure (WBS) and WBS dictionary. The primary objective of the project is to develop the said application for the client, APC-ITRO, and provide a platform for them to use in lieu of their current email-based reporting system. The scope of the project revolves mainly around the main project documentation and the creation phase would include the planning of the system’s functionalities, design, actual development, test cases for usability and performance, along with the provision of user manuals, training, and support for the stakeholders and clients.
+
+=== 8.2.3 Roles and Responsibilities ===
+In order to promote organizational harmony and present a systematic and effective development procedure, each member of the team, Nacor Industries, along with other stakeholders has been assigned with roles according to their interests and areas of expertise, with the roles being listed below:
+<table>
+<thead>
+<tr>
+<th>Roles</th>
+<th>Responsibilities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Project Manager</td>
+<td>
+<ul>
+<li>Assigns work to all team members</li>
+<li>Ensures that project deliverables are done on time</li>
+<li>Facilitates team meetings with project client and project advisor for possible change requests within the system and project documentation</li>
+<li>Executes scope change requests from project client and advisor if changes will be necessary as discussed in consultations</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Product Owner</td>
+<td>
+<ul>
+<li>Defines and prioritizes the project requirements and ensures that the final product meets the needs of the stakeholders</li>
+<li>Works closely with the Project Manager and Scrum Team to ensure that the project deliverables align with the scope</li>
+<li>Represents the stakeholders and clients' best interests during meetings</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Scrum Master</td>
+<td>
+<ul>
+<li>Facilitates the Agile Development process with regards to the Scrum framework</li>
+<li>Works closely with the Project Manager and Product Owner to ensure that the project is progressing according to the defined scope</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Documentation Team</td>
+<td>
+<ul>
+<li>Oversees the project documentation deliverables and ensures that the documents are presentable and free from errors</li>
+<li>Ensures that the project documents are adjusted and updated according to what the project client and advisor discussed on change requests</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>QA Tester</td>
+<td>
+<ul>
+<li>Ensures that the system is free of bugs and is usable</li>
+<li>Oversees the development to assess the quality of the system prior to its deployment</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Junior Developer</td>
+<td>
+<ul>
+<li>Responsible for testing the source code to identify and fix any issues or bugs. They collaborate with quality assurance (QA) engineers to ensure the software meets the desired functionality and quality standards.</li>
+</ul>
+ </td>
+ </tr>
+<tr>
+<td>Project Sponsor</td>
+<td>
+<ul>
+<li>As a key stakeholder, the client provides all the necessary information needed by the project team in their work organization, if necessary, in the project development </li>
+<li>Suggests changes in the system according to their work organization that should ensure the system is properly developed before deployment</li>
+</ul>
+ </td>
+ </tr>
+</tbody>
+</table>
+''Table 4: Scope Management - Roles and Responsibilities''
+
+=== 8.2.4 Scope Definition ===
+The project, RAMS Corner: ITRO Ticketing Service System, is designed for the use of the (1) APC organization; (2) APC staff and faculty members, (3) APC students, will help the ITRO in their workflow in identifying problems within the building. This ticketing system that the team is developing allows the ITRO Admins to have more control over how it tracks and resolves the ITRO Client complaints. The team’s ticketing software has a set of processes that enable the ITRO to efficiently oversee incidents and service requests logged or reported by its ITRO clients which involves—and is specifically limited to—the following: 
+:-Infrastructure-Based
+:-Desktop Support
+:-Server/Cloud Services Support
+:-Audio/Video Equipment Support
+:-Software-Based
+:-Backend Development Support
+:-Business Analysis/QA
+:-Data Analysis
+:-Software Development Support
+
+The flexible ticketing solution increases IT service delivery and overall ITRO Client satisfaction by integrating native IT service management modules such as IT problem management and asset management. But this ticketing system will not cover the management of the requests to ITRO that are raised via phone calls. This application serves only as Ticket Management and does not include ITRO’s Problem Management and User Management. This project will be used and be made available only to the APC staff, personnel, and students.  
+
+=== 8.2.5 Project Scope Statement=== 
+'''Product Scope Description'''
+<br>
+The project team's goal is to develop a deployable IT ticketing system that will be complete and functional as a  requirement for the team’s Project-Based Learning (PBL) course with the following features stated below:
+
+*'''Dashboard'''
+**The dashboard is meant to provide information and updates at a glance, customized to each user and user type.
+***'''ITRO Client:'''
+****A simpler version which aims to give ample information about the possible concerns of the client at a glance which includes ticket status, number of tickets sent, and KB shortcuts.
+***'''ITRO Admin/ITRO Staff:'''
+****The admin and staff dashboard has a more technical and professional look but has the same functions related to their concerns that involves—but are not limited to—the following: received tickets, assigned tickets, statuses of tickets concerning them, ticket summary, active clients, and agents, etc.
+
+*'''Notifications'''
+**The notifications pane would be available to every user type and would provide them with the latest updates regarding their tickets and other issues that may be of concern to them.
+
+*'''Ticket Table'''
+*&*The ticket table lists all of the tickets received by the ITRO, along with their current status and details which entail the date and time it is created, along with its prioritization, assignment, etc.
+
+*'''Knowledge Base'''
+**The Knowledge Base is a collection of common IT problems and their resolutions that would aim to empower the users and give them the ability to troubleshoot their problems by themselves.
+*** '''ITRO Admin:'''
+**** Could view, add, modify, hide, and approve KB entries to be viewed by the ITRO Clients.
+*** '''ITRO Staff:'''
+**** Could view, add, modify, or hide KB entries from the ITRO Clients.
+*** '''ITRO Client:'''
+**** Could view the knowledge base for self-troubleshooting.
+
+*'''Generate Reports'''
+**This feature was made exclusively for the ITRO Admin/Staff interface so that they may be able to view the data regarding the tickets sent depending on their choice of date frame that could be downloaded in PDF format.
+
+*'''Tags'''
+**This feature allows the users tagged through the CC section of the tickets to be notified about any updates and progress made to the tickets.
+
+*'''My Personal Tickets'''
+**This pane allows the users to see the tickets that they’ve sent personally.
+
+The project team also aims to hand over the said deployable IT Ticketing System for the ITRO Department of Asia Pacific College at the end of the semester since they are the main project beneficiaries as well as their respective clients (APC community.) 
+
+'''Acceptance Criteria'''
+
+Success for the project will be measured on three factors: deliverables, quality of work and deployment, if these three would be deemed to be complete by the stakeholders, project client, project advisor, and class advisor, then the project would be considered a success.
+
+'''Project Deliverables'''
+
+Upon successful project completion, the team would be able to provide the fully-functional and finished system, along with the source code through GitHub with the Software Requirement Specification along with several other project documentations which include—but are not limited to the following:
+
+*User Manual 
+*Business Case 
+*Stakeholders Management Strategy Plan 
+*Scope Management Plan 
+*Cost Management Plan 
+*Time Management Plan 
+*Human Resource Management Plan 
+*Communication Management Plan 
+*Procurement Management Plan  
+*Project Status Reports Distribution plan 
+*Change Request Documentation 
+*Project Execution Monitoring Report 
+*Implementation Plan 
+*Change Management Plan 
+*Project Status Reports 
+*Transition-Out Plan 
+*Project Turn-Over Plan 
+*Post Project Review Plan 
+
+'''Project Exclusions'''
+The limitations and exclusions that the team found out has been compounded and listed below and were limited to the design and implementation constraints that the RAMS Corner web application will encounter:
+*'''Data Privacy'''
+**Upon takeover, the ITRO would be the one fully responsible for the web-application, and any other authorization regarding the APC faculty and the user’s credentials.
+*Deployment Budget
+**The development team would not ask for any form of payment, and the ITRO would be the ones in charge of the system’s deployment within their budget, along with any other preceding financial needs that the app might incur.
+*Manpower / Workforce
+*The web-application has been made with the limited manpower that the ITRO currently has, however, their lack of workforce should be dealt with in order to have more hands-on deck to ensure that there would always be an eye out to see the updates within the system.
+*Training / System Migration
+**The ITRO staff are bound to learn and familiarize themselves with the new system to utilize it to its fullest extent along with its features and functionalities.
+
+'''Project Assumptions:'''
+
+#The ITRO, as well as their clients have access to the internet through APC Rams Wi-Fi (or personal data/ISP) along with the necessary devices to use the web application.
+#The ITRO Staff would be trained in using the new web application.
+#The web application will be developed without any major technical issues or roadblocks.
+#The web-app will be deployed by the client using their resources with sufficient processing power, memory, and storage.
+#The web application will be developed within the given timeline (the entirety of PBL1).
+#The APC faculty and students would utilize the new system instead of the email-based reporting system.
+#The ITRO would properly launch and promote the new system.
+#The email notification system will work without any issues.
+
+'''Project Dependencies:'''
+#The team will use Laravel, an open-source PHP web framework for developing web applications.
+#The team will use MySQL as their database for the web application.
+#The ITRO would provide the developers with accurate information about their office and services.
+#The users need access to the internet and the necessary devices to use the web application.
+#The web application needs to be hosted on a reliable and secure server provided by ITRO.
+#The web application should have access to a reliable and fast internet connection.
+#The email notification system should have access to a reliable and fast internet connection.
+#Microsoft Outlook should function accordingly in order to send the email-based notifications.
+#The web browser/s upon which the application would be opened should be free of viruses or malware and is reliable.
+
+=== 8.2.6 Work Breakdown Structure ===
+<br>
+1. RAMS Corner : ITRO Ticketing System
+   1.1 Initiation
+      1.1.1 Initial Planning/Brainstorming
+      1.1.2 Client Selection
+      1.1.3 Project Kick-off meeting
+      1.1.4 Milestone: Project Idea
+   1.2 Planning
+      1.2.1 First Project Meeting with Members
+      1.2.2 First Project Meeting with Client
+      1.2.3 Project Proposal Initial Creation
+      1.2.4 Second Project Meeting with Members
+      1.2.5 Second Project Meeting with Client
+      1.2.6 Initial Project Proposal Editing
+      1.2.7 Initial Project Proposal Proofreading
+      1.2.8 Third Meeting with Members
+      1.2.9 Third Meeting with Client
+      1.2.10 Deliverable: Project Proposal
+      1.2.11 Project Proposal Revision
+      1.2.12 Fourth Meeting with Members
+      1.2.13 Fourth Meeting with Client
+      1.2.14 Milestone: Project Proposal Approval
+      1.2.15 Kick-off meeting for project management planning
+      1.2.16 Project Management Plan Drafting
+         1.2.16.1 Business Case
+         1.2.16.2 Project Charter
+         1.2.16.3 Stakeholder Analysis
+         1.2.16.4 Stakeholder Management Analysis
+         1.2.16.5 Cost Management Analysis
+         1.2.16.6 Cost Management Plan
+         1.2.16.7 Schedule Management Plan
+         1.2.16.8 Scope Management Plan
+         1.2.16.9 Work Breakdown Structure
+         1.2.16.10 Work Packages
+         1.2.16.11 Human Resource Management Plan
+         1.2.16.12 Quality Management Plan
+         1.2.16.13 Risk Management Plan
+         1.2.16.14 Communications Management Plan
+         1.2.16.15 Procurement Management Plan
+         1.2.16.16 Implementation Plan
+         1.2.16.17 Change Management Plan
+      1.2.17 Project Management Plan Editing/Proofreading
+      1.2.18 Fifth Meeting with Members
+      1.2.19 Fifth Meeting with Client
+      1.2.20 Deliverable: Project Management Plan
+      1.2.21 Project Management Plan Revision
+      1.2.22 Sixth Meeting with Members
+      1.2.23 Sixth Meeting with Client
+      1.2.24 Milestone: Project Management Plan Approval
+      1.2.25 Milestone: Sponsor Acceptance
+   1.3 System analysis and Detailed Design
+      1.3.1 Kick-off meeting for System analysis and Detailed Design
+      1.3.2 System Analysis and Detailed Design Drafting
+         1.3.2.1 Event Table
+         1.3.2.2 Use Case Diagram
+         1.3.2.3 Use Case Full Description
+         1.3.2.4 Context Diagram
+         1.3.2.5 Data Flow Diagram
+         1.3.2.6 Entity Relationship Diagram
+         1.3.2.7 Activity Diagram
+         1.3.2.8 Object Diagram
+         1.3.2.9 Class Diagram
+         1.3.2.10 Sequence Diagram
+         1.3.2.11 State Transition Diagram
+         1.3.2.12 Package diagram
+         1.3.2.13 Component Diagram
+         1.3.2.14 Deployment Diagram
+      1.3.3 Seventh Meeting with Members
+      1.3.4 System Analysis and Detailed Design Editing/Proofreading
+      1.3.5 Seventh Meeting with Client
+      1.3.6 Deliverable: System Analysis and Detailed Design
+      1.3.7 System Analysis and Detailed Design Revision
+      1.3.8 Eighth Meeting with Members
+      1.3.9 Eighth Meeting with Client
+      1.3.10 Milestone: System Design Approval
+   1.4 System Prototyping and Development
+      1.4.1 Kick-off meeting for development
+      1.4.2 Deliverable: Low fidelity wireframe
+      1.4.3 Ninth Meeting with member
+      1.4.4 Ninth Meeting with Client
+      1.4.5 Deliverable: High Fidelity Wireframe
+      1.4.6 Tenth meeting with member
+      1.4.7 Tenth meeting with client
+      1.4.8 Milestone: Wireframe Approval
+      1.4.9 UI/UX Design
+      1.4.10 UI/UX Evaluation
+      1.4.11 11th meeting with members
+      1.4.12 Backend Development
+      1.4.13 Milestone: Verified Use Case Requirements
+      1.4.14 11th Meeting with the client
+   1.5 Testing
+      1.5.1 Unit Testing for Release 1
+         1.5.1.1 Milestone: Successful Testing for Release 1
+      1.5.2 Unit Testing for Release 2
+         1.5.2.1 Milestone: Successful Testing for Release 2
+      1.5.3 Unit Testing for Release 3
+         1.5.3.1 Milestone: Successful Testing for Release 3
+      1.5.4 12th meeting with members
+      1.5.5 Integration Testing
+         1.5.5.1 Milestone: Successful Integration Testing
+      1.5.6 User Acceptance Testing
+         1.5.6.1 Milestone: Successful User Acceptance Testing
+      1.5.7 Performance Testing
+         1.5.7.1 Milestone: Successful Performance Testing
+      1.5.8 Production Readiness Testing
+         1.5.8.1 Milestone: Successful Production Readiness Testing
+      1.5.9 Parallel Testing
+         1.5.9.10 Milestone: Successful Parallel Testing
+      1.5.10 13th Meeting with Members
+      1.5.11 12th Meeting with Client
+   1.6 Deployment and Control
+      1.6.1 Deployment and Control Kickoff meeting
+      1.6.2 Train General Users
+      1.6.3 Set up Kiosk for Localize Deployment
+      1.6.4 Deploy the hosted app
+      1.6.5 Milestone: Discovery and Feedback
+      1.6.6 14th Meeting with Members
+      1.6.7 13th Meeting with Client
+      1.6.8 Promotion and Advertisement
+      1.6.9 Update Documentations
+   1.7 Closeout
+      1.7.1 Auditing
+      1.7.2 Reports and Documentations Handover
+      1.7.3 Gain Formal Acceptance
+      1.7.4 Archive Files/Documents
+      1.7.5 Closeout Meeting with Members
+
+=== 8.2.7 Scope Verification ===
+The project team, Nacor Industries, will conduct scope verification upon each meeting with the client to ensure that the deliverables are in line with the original scope. In accordance with the scrum-fall methodology (see Figure 7 for reference), this will guarantee that the deliverables are accepted by the client to ensure that the project will be finished on time and within the scope and budget.
+
+===8.2.8 Scope Control===
+Prior to any pivotal changes that may occur within the project’s development, the team ensures that each decision would need to first be approved by the stakeholders, especially the client: APC-ITRO, before getting greenlit. This process would be documented accordingly.
+
+== 8.3 Cost Management Plan ==
+The purpose of the Cost Management Plan for the RAMS Corner Ticketing Service System is to efficiently manage all expenses related to the project from start to finish. The plan establishes guidelines and criteria for measuring, reporting, and regulating the project's costs.
+
 1. Cost Management Responsibilities
 *In addition to overseeing the project's cost management, the Project Manager will collaborate with the project team and stakeholders to establish cost management objectives, develop cost estimates, and monitor and control project expenses to ensure that the project stays within budget. 
 
@@ -455,27 +863,33 @@ The purpose of the Cost Management Plan for the Rams Corner Ticketing Service Sy
 
 In essence, the Cost Management Plan devised for the RAMS Corner Ticketing Service System aims to guarantee that every expense related to the project is efficiently handled and regulated, thus enabling the project to be executed within the agreed-upon budget. Such a plan would contribute to the successful and timely completion of the project. 
 
-== 8.2 Cost Management Approach ==
-The Cost Management Approach of the RAMS Corner Ticketing Service System will be based upon the following. 
-=== Planning ===
-*The team will monitor project expenses, regularly report on deviations from the budget, and take corrective action when necessary, ensuring transparency and accountability throughout the project's lifecycle. 
+=== 8.3.1 Cost Management Approach ===
+The Cost Management Approach of the RAMS Corner: ITRO Ticketing Service System will be based upon the following.
 
-=== Cost Estimation ===
-*The cost estimate will be regularly updated to reflect any changes in the project's scope or budget and will serve as a baseline against which all project costs will be measured. This will enable the team to track and manage project costs effectively, adjusting as needed to ensure that the project is completed within budget and on schedule. 
+*Planning
 
-=== Budgeting ===
-*The budget will serve as a guide for managing project expenses, and it will be regularly monitored and adjusted as necessary to ensure that the project remains on track. The project team will use the budget to prioritize expenditures, allocate resources effectively, and make informed decisions that maximize the value delivered to the community. 
+The team will monitor project expenses, regularly report on deviations from the budget, and take corrective action when necessary, ensuring transparency and accountability throughout the project's lifecycle.
 
-=== Cost Reporting ===
-*These reports will be reviewed by project stakeholders to ensure that everyone is aware of the project's financial status and can take appropriate action if necessary. The team will use the reports to identify trends and patterns in project costs, allowing them to adjust their cost management strategies accordingly. In addition, these reports will provide transparency and accountability, ensuring that stakeholders can make informed decisions based on accurate and up-to-date information. 
+*Cost Estimation
 
-=== Risk Management ===
-*The project team will conduct ongoing risk assessments to identify potential risks that may impact project costs and develop strategies to mitigate these risks. The team will also regularly monitor the effectiveness of these strategies and maintain a risk register to document all identified risks and their corresponding mitigation plans. 
+The cost estimate will be regularly updated to reflect any changes in the project's scope or budget and will serve as a baseline against which all project costs will be measured. This will enable the team to track and manage project costs effectively, adjusting as needed to ensure that the project is completed within budget and on schedule.
 
-The Cost Management Approach we have devised intends to guarantee that the RAMS Corner Ticketing Service System is executed within the authorized budget, adheres to project objectives, and provides a product of superior quality that caters to the community's requirements. 
+*Budgeting
 
-== 8.3 Measuring Project Cost ==
-Measuring cost performance is a crucial aspect of controlling project costs, and there are several techniques that can be used for this purpose. These techniques include methods such as cost variance, earned value management (EVM), cost performance index, and the Schedule Performance Index.  
+The budget will serve as a guide for managing project expenses, and it will be regularly monitored and adjusted as necessary to ensure that the project remains on track. The project team will use the budget to prioritize expenditures, allocate resources effectively, and make informed decisions that maximize the value delivered to the community.
+
+*Cost Reporting
+
+These reports will be reviewed by project stakeholders to ensure that everyone is aware of the project's financial status and can take appropriate action if necessary. The team will use the reports to identify trends and patterns in project costs, allowing them to adjust their cost management strategies accordingly. In addition, these reports will provide transparency and accountability, ensuring that stakeholders can make informed decisions based on accurate and up-to-date information.
+
+*Risk Management
+
+The project team will conduct ongoing risk assessments to identify potential risks that may impact project costs and develop strategies to mitigate these risks. The team will also regularly monitor the effectiveness of these strategies and maintain a risk register to document all identified risks and their corresponding mitigation plans.
+
+The Cost Management Approach we have devised intends to guarantee that the RAMS Corner Ticketing Service System is executed within the authorized budget, adheres to project objectives, and provides a product of superior quality that caters to the community's requirements.
+
+=== 8.3.2 Measuring Project Costs === 
+Measuring cost performance is a crucial aspect of controlling project costs, and there are several techniques that can be used for this purpose. These techniques include methods such as cost variance, earned value management (EVM), cost performance index, and the Schedule Performance Index.
 
 Below, we'll provide more information about each of these methods for measuring cost performance. 
 === Cost Variance ===
@@ -498,34 +912,81 @@ CV = EV - AC
 
 (SPI) = EV / PV
 
-== 8.4 Reporting Format ==
-The stakeholders will receive a progress report on a weekly basis to update them on the cost status of the project. The report will have a section called "Cost Management" which will provide information on the Earned Value Metrics (EVM), including Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI), for evaluating the project's progress and cost performance. If the project's cost goes beyond the predefined limits, the report will include details of the issue and the corrective actions planned. The report will also monitor change requests resulting from cost overruns to ensure they align with the project budget. These updates will be shared with stakeholders weekly to ensure timely decision-making and maintain transparency. 
+=== 8.3.3 Reporting Format === 
+The stakeholders will receive a progress report on a weekly basis to update them on the cost status of the project. The report will have a section called "Cost Management" which will provide information on the Earned Value Metrics (EVM), including Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI), for evaluating the project's progress and cost performance. If the project's cost goes beyond the predefined limits, the report will include details of the issue and the corrective actions planned. The report will also monitor change requests resulting from cost overruns to ensure they align with the project budget. These updates will be shared with stakeholders weekly to ensure timely decision-making and maintain transparency.
 
-== 8.5 Cost Variance Response Process ==
-The process for responding to cost variances involves identifying the root causes of the variance, assessing its impact on the project, and developing a plan to address it. First, the project team will investigate the causes of the cost variance, which could be due to changes in scope, resource allocation, or unexpected expenses. Once the causes have been identified, the team will assess the impact of the variance on the project's budget and schedule to determine the severity of the situation. 
+=== 8.3.4 Cost Variance Response Process ===
+The process for responding to cost variances involves identifying the root causes of the variance, assessing its impact on the project, and developing a plan to address it. First, the project team will investigate the causes of the cost variance, which could be due to changes in scope, resource allocation, or unexpected expenses. Once the causes have been identified, the team will assess the impact of the variance on the project's budget and schedule to determine the severity of the situation.
+Based on this assessment, the team will develop a plan to address the cost variance. This plan may involve cutting costs in other areas of the project, renegotiating contracts with vendors, or requesting additional funding from stakeholders. The plan will be presented to the project sponsor or steering committee for approval before any action is taken. Once the plan has been approved, the team will implement it and monitor its effectiveness to ensure that the project stays on track.
 
-Based on this assessment, the team will develop a plan to address the cost variance. This plan may involve cutting costs in other areas of the project, renegotiating contracts with vendors, or requesting additional funding from stakeholders. The plan will be presented to the project sponsor or steering committee for approval before any action is taken. Once the plan has been approved, the team will implement it and monitor its effectiveness to ensure that the project stays on track. 
+The Control Thresholds for this project are a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget along with how the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance + Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions.
 
-The Control Thresholds for this project is a CPI or SPI of less than 0.8 or greater than 1.2.  If the project reaches one of these Control Thresholds a Cost Variance Corrective Action Plan is required.  The Project Manager will present the Project Sponsor with options for corrective actions within five business days from when the cost variance is first reported.  Within three business days from when the Project Sponsor selects a corrective action option, the Project Manager will present the Project Sponsor with a formal Cost Variance Corrective Action Plan.  The Cost Variance Corrective Action Plan will detail the actions necessary to bring the project back within budget and the means by which the effectiveness of the actions in the plan will be measured.  Upon acceptance of the Cost Variance+ Corrective Action Plan it will become a part of the project plan and the project will be updated to reflect the corrective actions. 
+=== 8.3.5 Cost Change Control Process===
+The RAMS Corner Ticketing Service System aims to provide APC Staffs, Faculty, and Students to have an easier access to the ITRO, to create a single software application that receives and automatically sorts out and manage tickets of clients’ requests and queries received by the ITRO.  
 
-== 8.6 Cost Change Control Process ==
-== 8.7 Project Budget ==
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/420bc52d5a8d2cf8619c9f04507b19d357797e4e/wikihub%20photos/CMP%20budget.png" alt="Image description" style="display:block; margin:0 auto;">
+*Identification for Change
+**The initial phase of the Cost Change Control Process is the Identification for Change, which entails identifying and documenting potential changes that could affect project costs. For a RAMS Corner Ticketing System Service project, potential changes may involve additional features, hardware or software upgrades, or changes in scope that could necessitate additional resources.
+*Asses the Change Request
+**In evaluating a change request, it is crucial to use objective measures such as the project's goals, objectives, and requirements. Furthermore, the project team must consider the potential risks associated with the proposed changes and determine whether additional mitigation strategies are necessary.
+**If the change request is deemed necessary and feasible, the project manager should seek approval from the project sponsor or other appropriate stakeholders before proceeding with the change. If the change request is not approved, it should be documented and the reasons for the rejection should be communicated to the requester.
 
-= 9. Schedule Management Plan =
-== 9.1 Introduction ==
-The schedule management plan plays a vital role towards the accomplishment and documentation of each task so that the team may be able to work as efficiently as possible. By going through this section, readers can appreciate the approach of the team to finish their project from scratch along with their milestones done within the timeframe of the project and how the team was able to develop the software and thought process whilst developing the project. 
-== 9.2 Schedule Management Approach ==
+*Analyze the Change Request 
+**In this phase, the project team must collect all relevant information to assess the scope of the change request's impact. This includes identifying which areas of the project will be affected by the change, evaluating the resources necessary to implement the change, and analyzing the potential risks linked with the change.
+**Once the analysis is complete, the project team should provide a detailed report that includes an estimate of the cost and schedule impact of the change. The report should also include any recommendations for alternative solutions or mitigation strategies to minimize the impact of the change.
+*Implement the Change Request
+**It's important to note that implementing a change request may have implications beyond just cost, including impacts on project scope, schedule, and quality. The project team should carefully consider all of these factors and communicate any potential impacts to stakeholders as part of the implementation process.
+**Once the change has been implemented, the project manager should review the results and update any relevant documentation to reflect the change. This may include updating project budgets, schedules, and status reports to reflect the impact of the change on project costs.
+*Change Request Closure
+**During the Change Request Closure step, the project team should conduct a final review of the change log to ensure that all approved changes have been properly implemented and that their impact on the project's cost baseline has been accurately reflected in the project's financial records.
+
+=== 8.3.6 Project Budget ===
+The budget for this project, together with the other possible expenses for this project are presented in various categories in detail through the Budget Summary. 
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/7d8c4c376704e344f2120488c9aa41077a44cd79/wikihub%20photos/budgsum1.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+<br>''Figure 3:  RAMS Corner Budget Summary – Laptop Depreciation Cost''
+
+== 8.4 Schedule Management Plan ==
+
+=== 8.4.1 Introduction ===
+The schedule management plan plays a vital role towards the accomplishment and documentation of each task so that the team may be able to work as efficiently as possible. By going through this section, readers can appreciate the approach of the team to finish their project from scratch along with their milestones done within the timeframe of the project and how the team was able to develop the software and thought process whilst developing the project.
+
+=== 8.4.2 Schedule Management Approach ===
 Throughout the project’s lifetime, the team is able to submit all deliverables needed. Each work that was assigned to each member has a specific deadline to help the team estimate how many resources will be needed to finish all the needed tasks before proceeding.  
 
 To create the project schedule, the team used software named ‘Project Libre’ to create a Gantt Chart. In this Gantt Chart, all the activities and deliverables are listed and recorded. In this way, it is much easier to monitor the project’s growth over time. 
 
 See reference below of the start and end date of deliverables for project schedule: 
 
-<img src="https://github.com/rth-rm/Nacor-Industries/blob/f04ef2e48dcaf69710882a85dd8fe8f18fe063d3/MicrosoftTeams-image%20(4).png?raw=true"display:block; margin:0 auto;">
-<img src="https://github.com/rth-rm/Nacor-Industries/blob/master/MicrosoftTeams-image%20(3).png?raw=true"display:block; margin:0 auto;">
-<img src="https://github.com/rth-rm/Nacor-Industries/blob/f04ef2e48dcaf69710882a85dd8fe8f18fe063d3/MicrosoftTeams-image%20(1).png"display:block; margin:0 auto;">
-<img src="https://github.com/rth-rm/Nacor-Industries/blob/f04ef2e48dcaf69710882a85dd8fe8f18fe063d3/MicrosoftTeams-image%20(2).png"display:block; margin:0 auto;">
+''' Initiation Phase:'''<br>
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2e680bf530fcadcb5909e6cc9181907eca098542/wikihub%20photos/initiation.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+'' Figure 8: Gantt Chart - Initiation Phase''
+
+''' Planning Phase:'''<br>
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2e680bf530fcadcb5909e6cc9181907eca098542/wikihub%20photos/planning.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+'' Figure 9: Gantt Chart - Planning Phase''
+
+''' System Analysis and Detailed Design Phase: '''<br>
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2e680bf530fcadcb5909e6cc9181907eca098542/wikihub%20photos/sysAnalysis.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+'' Figure 10: Gantt Chart - System Analysis and Detailed Design Phase''
+
+''' System Prototyping and Development Phase:'''<br>
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2e680bf530fcadcb5909e6cc9181907eca098542/wikihub%20photos/sysProto.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+'' Figure 11: Gantt Chart - System Prototyping and Development Phase''
+
+''' Testing Phase:'''<br>
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2e680bf530fcadcb5909e6cc9181907eca098542/wikihub%20photos/Testing.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+'' Figure 12: Gantt Chart - Testing Phase''
+
+''' Deployment and Control Phase:'''<br>
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2e680bf530fcadcb5909e6cc9181907eca098542/wikihub%20photos/deployment.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+'' Figure 13: Gantt Chart - Deployment and Control Phase''
+
+''' Closeout Phase:'''<br>
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2e680bf530fcadcb5909e6cc9181907eca098542/wikihub%20photos/Closeout.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+'' Figure 14: Gantt Chart - Closeout Phase''
+
+One of the benefits of finishing the activities first is that it may reveal changes that are overlooked and need immediate revisions. In this case, this may slow down the progression of the project. When this happens, the team needs to weigh which changes that can have a significant impact. If changes happen, the project manager is consulted before implementing the changes. In the roles and responsibilities section, you can determine here the scope of work of the people who are assigned to the roles.
+
 
 <table border="1" width="100%">
     <thead>
@@ -536,16 +997,7 @@ See reference below of the start and end date of deliverables for project schedu
     </thead>
     <tbody>
       <tr>
-        <td>Project Adviser</td>
-        <td>
-          <ul>
-            <li>Responsible for guiding the team</li>
-            <li>Oversees that the changes and updates are aligned to the scope of work</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Project Leader</td>
+        <td>Project Manager</td>
         <td>
           <ul>
             <li>Spearheads the project</li>
@@ -572,19 +1024,9 @@ See reference below of the start and end date of deliverables for project schedu
           </ul>
         </td>
       </tr>
-      <tr>
-        <td>Scrum Member</td>
-        <td>
-          <ul>
-            <li>Helps the scrum master on the deliverables</li>
-          </ul>
-        </td>
-      </tr>
     </tbody>
   </table>
-
-One of the benefits of finishing the activities first is that it may reveal changes that are overlooked and need immediate revisions. In this case, this may slow down the progression of the project. When this happens, the team needs to weigh which changes that can have a significant impact. If changes happen, the project adviser is consulted before implementing the changes. In the roles and responsibilities section, you can determine here the scope of work of the people who are assigned to the roles. 
-
+''Table 5: Schedule Management - Roles and Responsibilities''
 ==9.3 Schedule Control==
 Throughout the project lifetime. Updating, deleting, and revising information are bound to happen. Changes within the project are monitored in case the changes are getting slightly off the scope of work. The team would collaborate with the project adviser if the request change were significant to the project.  
 
