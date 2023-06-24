@@ -1027,14 +1027,15 @@ One of the benefits of finishing the activities first is that it may reveal chan
     </tbody>
   </table>
 ''Table 5: Schedule Management - Roles and Responsibilities''
-==9.3 Schedule Control==
+
+===8.4.3 Schedule Control===
 Throughout the project lifetime. Updating, deleting, and revising information are bound to happen. Changes within the project are monitored in case the changes are getting slightly off the scope of work. The team would collaborate with the project adviser if the request change were significant to the project.  
 
 The project manager will lead the meeting together with the team to discuss the ideas that were added to the equation. The project manager will be managing the schedule of the meetings, updates made within the project, and identifying which tasks are to be done first. 
 
 Upon successful compliance, the rest of the team would collaborate to brainstorm and present their ideas since the team’s communication is one of the keys to the success of the project.
 
-==9.4 Schedule Changes and Thresholds==
+===8.4.4 Schedule Changes and Thresholds===
 When developing a project, it is common to have some delays throughout the duration of the project, when the team feels the project will be delayed and it will require more time to finish. Setting a limit or parameter is important so that in case the project is delayed, less resources are to be used to make up for the loss of time.  
 
 If the team requests an extension, the project manager should submit a schedule change request. The person who is responsible for approving the request would be the project sponsor. The project sponsor would review the request and have the power to grant the request under his/her authority.  
@@ -1043,132 +1044,9 @@ If the change request is approved. The team would then set up a meeting and begi
 
 The product owner, product adviser, and project client must have a meeting and discuss which part of the project will be affected by the potential change. It would then be reviewed to gauge how much resources it would require to finish the project, and most importantly, how it will affect the project scope. It is also important to take note that the project schedule will also be affected by the changes. Finding alternatives is also crucial as it may help to resolve the problems. 
 
-==9.5 Scope Changes==
+===8.4.5 Scope Changes===
 If an issue is overlooked and immediate change is needed. Revising or updating the project scope is the best option there is. Throughout the project's lifetime, changes are inevitable. It is always to be expected that changes might happen from time to time.
 
-= 10. Work Breakdown Structure = 
-== 10. 1 Introduction ==
-The Work Breakdown Structure presented here represents all the work required to complete this project.
-== 10.2 Outline View == 
-=== 1.	RAMs Corner : ITRO Ticketing System ===
-<dl>
-<dt>1.1	Initiation</dt>
-<dd>1.1.1	Initial Planning/Brainstorming </dd>
-<dd>1.1.2	Client Selection </dd>
-<dd>1.1.3	Advisor Selection </dd>
-<dd>1.1.4	Advisor/Consultant/Client Signed Forms </dd>
-<dd>1.1.5	Deliverable: Project Idea </dd>
 
-<dt>1.2	Planning </dt>
-<dd>1.2.1	Project Meeting with Members </dd>
-<dd>1.2.2	Project Meeting with Advisor </dd>
-<dd>1.2.3	Project Meeting with Client </dd>
-<dd>1.2.4	Project Proposal Drafting </dd>
-<dd>1.2.5	SOP Progression </dd>
-<dd>1.2.6	Objective Progression </dd>
-<dd>1.2.7	Wireframe Progression </dd>
-<dd>1.2.8	Project Proposal Editing </dd>
-<dd>1.2.9	Deliverable: Project Proposal Submission </dd>
-<dd>1.2.10	Project Proposal Revision </dd>
-<dd>1.2.11	Milestone: Project Proposal Approval </dd>
-
-<dt>1.3	Systems Analysis and Design</dt>
-<dd>1.3.1	Project Meeting with Members </dd>
-<dd>1.3.2	Project Meeting with Advisor </dd>
-<dd>1.3.3	Project Meeting with Client </dd>
-<dd>1.3.4	Deliverable: System Design </dd>
-<dd>1.3.5	System Design Editing </dd>
-<dd>1.3.6	System Design Submission </dd>
-<dd>1.3.7	System Prototype Design </dd>
-<dd>1.3.8	Milestone: System Design Approval </dd>
-
-<dt>1.4	Project Development </dt>
-<dd>1.4.1	Project Meeting with Members </dd>
-<dd>1.4.2	Project Meeting with Advisor </dd>
-<dd>1.4.3	Project Meeting with Client </dd>
-<dd>1.4.4	Deliverable: Working Prototype </dd>
-<dd>1.4.5	Initial Prototype UI/UX </dd>
-<dd>1.4.6	Milestone 1: Release 1 of Working Prototype </dd>
-<dd>1.4.7	Backend Development </dd>
-<dd>1.4.8	Milestone 2: Release 2 of Working Prototype </dd>
-<dd>1.4.9	Working Prototype Revision </dd>
-<dd>1.4.10	Milestone 3: Release 3 of Working Prototype </dd>
-
-<dt>1.5	Execution</dt>
-<dd>1.5.1	Project Meeting with Members</dd>
-<dd>1.5.2	Project Meeting with Advisor</dd>
-<dd>1.5.3	Project Meeting with Client</dd>
-<dd>1.5.4	Verify Use Case Requirements</dd>
-<dd>1.5.5	Procure Hardware/Software Materials</dd>
-<dd>1.5.6	Run the system on browser</dd>
-<dd>1.5.7	Isolated Testing</dd>
-<dd>1.5.8	Promotion/Advertisement</dd>
-<dd>1.5.9	Set up Kiosk for localize deployment</dd>
-<dd>1.5.10	Deploy running system to internal users (ITRO)</dd>
-<dd>1.5.11	Train general users</dd>
-<dd>1.5.12	Deploy whole running system (ITRO/Clients)</dd>
-
-<dt>1.6	Control  </dt>
-<dd>1.6.1	Project Management </dd>
-<dd>1.6.2	Project Meeting with Members</dd>
-<dd>1.6.3	Project Meeting with Advisor</dd>
-<dd>1.6.4	Project Meeting with Client</dd>
-<dd>1.6.5	Risk Management</dd>
-<dd>1.6.6	Project Maintenance</dd>
-<dd>1.6.7	Update Project Management</dd>
-<dt>1.7	Closeout</dt>
-<dd>1.7.1	Auditing</dd>
-<dd>1.7.2	Narrative Reports </dd>
-<dd>1.7.3	Update Reports </dd>
-<dd>1.7.4	Gain Formal Acceptance </dd>
-<dd>1.7.5	Archive Files/Documents </dd>
-</dl>
-== 10.3 Hierarchical Structure == 
-<table border="1" width="70%" align="center">
- <tr>
-  <td> Level </td>
-  <td> WBS Code </td>
-  <td> Element Name </td>
- </tr>
- <tr>
-  <td>1</td>
-  <td>1</td>
-  <td>RAMs Corner : ITRO Ticketing System</td>
- </tr>
- <tr>
-  <td>2</td>
-  <td>1.1</td>
-  <td>Initiation</td>
- </tr>
- <tr>
-  <td>3</td>
-  <td>1.1.1</td>
-  <td>Initial Planning/Brainstorming</td>
- </tr>
- <tr>
-  <td>3</td>
-  <td>1.1.2</td>
-  <td>Client Selection</td>
- </tr>
- <tr>
-  <td>3</td>
-  <td>1.1.3</td>
-  <td>Advisor Selection</td>
- </tr>
- <tr>
-  <td>3</td>
-  <td>1.1.4</td>
-  <td>Advisor/Consultant/Client Signed Forms</td>
- </tr>
- <tr>
-  <td>3</td>
-  <td>1.1.5</td>
-  <td>Deliverable: Project Idea</td>
- </tr>
-</table>
-
-<br>
-<br>
-<br>
 =Continuation=
 [[Nacor Industries RAMS Corner Ticketing Service System Part 2 | https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Group-04-Nacor-Industries---RAMS-Corner-Ticketing-Service-System-Part-2|target=_blank]]
