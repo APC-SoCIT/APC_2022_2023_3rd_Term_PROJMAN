@@ -1453,8 +1453,8 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
              <td><p style="text-align:center;">Responsibilities</p></td>
       </tr>
       <tr>
-	     <td><p style="text-align:center;">Name</p></td>
-             <td><p style="text-align:center;">Project Role</p></td>
+	     <td><p style="text-align:center;">Ms. Devilyn C. Ligligen</p></td>
+             <td><p style="text-align:center;">Project Sponsor</p></td>
              <td><p style="text-align:center;">
                  <ul>
                      <li>Communicate the change message effectively to all stakeholders.</li>
@@ -1462,19 +1462,130 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
                      <li>Identify, assess, and manage risks associated with the change effort.</li>
                 </ul></p></td>
       </tr>
+      <tr>
+	     <td><p style="text-align:center;">Store Manager</p></td>
+             <td><p style="text-align:center;">Internal user of the system</p></td>
+             <td><p style="text-align:center;">
+                 <ul>
+                     <li>Test and quality assurance.</li>
+                     <li>Monitor the system performance and gather feedback.</li>
+                </ul></p></td>
+      </tr>
+      <tr>
+	     <td><p style="text-align:center;">Cashier Staff</p></td>
+             <td><p style="text-align:center;">Internal user of the system</p></td>
+             <td><p style="text-align:center;">
+                 <ul>
+                     <li>Test and quality assurance.</li>
+                     <li>Monitor the system performance and gather feedback.</li>
+                </ul></p></td>
+      </tr>
+       <tr>
+	     <td><p style="text-align:center;">Ramon Benedict V. Elloso</p></td>
+             <td><p style="text-align:center;">Project Manager</p></td>
+             <td><p style="text-align:center;">
+                 <ul>
+                     <li>Assess the impact of proposed changes on various aspects such as processes, systems, and personnel.</li>
+                     <li>Coordinate the implementation of changes, ensuring that they are executed according to plan and within specified timelines.</li>
+                     <li>Manage the entire change request process in collaboration with the Change Coordinator.</li>
+                </ul></p></td>
+      </tr>
+      <tr>
+	     <td><p style="text-align:center;">Carlos C. Ligligen</p></td>
+             <td><p style="text-align:center;">Back-End Developer</p></td>
+             <td><p style="text-align:center;">
+                 <ul>
+                     <li>Review and understand proposed changes to the back-end systems.</li>
+                     <li>Collaborate with the project team to plan and implement back-end changes.</li>
+                </ul></p></td>
+      </tr>
+      <tr>
+	     <td><p style="text-align:center;">Andrei Gabriel B. Palma</p></td>
+             <td><p style="text-align:center;">QA (Quality Assurance) Tester</p></td>
+             <td><p style="text-align:center;">
+                 <ul>
+                     <li>Review and understand proposed changes and their impact on the system.</li>
+                </ul></p></td>
+      </tr>
+      <tr>
+	     <td><p style="text-align:center;">Donne Paolo Y. Tarinay</p></td>
+             <td><p style="text-align:center;">Front-End Developer</p></td>
+             <td><p style="text-align:center;">
+                 <ul>
+                     <li>Review and understand proposed changes to the back-end systems.</li>
+                     <li>Collaborate with the project team to plan and implement front-end changes.</li>
+                </ul></p></td>
+      </tr>
+</table>
+==Change Control Process==
+<p>The process of change control for a document encompasses a sequence of steps and protocols to effectively handle alterations, revisions, and updates to the document. It guarantees thorough review, approval, implementation, and communication of changes. Below is an outline of the change control process for a document:</p>
 
+<table border="1" width="70%" align="center">
+      <tr>
+             <td><p style="text-align:center;">Process step</p></td>
+             <td><p style="text-align:center;">Description</p></td>
+             <td><p style="text-align:center;">Change Log Status</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Change Request Initiation </p></td>
+             <td><p style="text-align:center;">Any stakeholder who identifies the need for a change in the document will initiate a change request. This can be done by communicating through a meeting.</p></td>
+             <td><p style="text-align:center;">Submitted</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Change Request Review </p></td>
+             <td><p style="text-align:center;">The change request will be reviewed by the project team. They evaluate the characteristics, consequences, and practicality of the suggested modifications.</p></td>
+             <td><p style="text-align:center;">In Review</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Change Impact Assessment</p></td>
+             <td><p style="text-align:center;">A comprehensive evaluation is conducted to analyze how the proposed changes will affect the document. This assessment encompasses an examination of their potential impact on the project schedule.</p></td>
+             <td><p style="text-align:center;">In Review</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Approval</p></td>
+             <td><p style="text-align:center;">Change control board reviews and grants approval for the change request, ensuring that the proposed modifications are in accordance with organizational standards, regulatory obligations, and document management policies.</p></td>
+             <td><p style="text-align:center;">Approved or Denied</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Change Implementation</p></td>
+             <td><p style="text-align:center;">After receiving approval for the change request, the document undergoes the necessary modifications.</p></td>
+             <td><p style="text-align:center;">Ready for Implementation</p></td>
+      </tr>
+</table>
 
+<p>To monitor the progress of change requests, each step is associated with a specific status, as indicated in the table provided below: </p>
 
+<table border="1" width="70%" align="center">
+      <tr>
+             <td><p style="text-align:center;">Status</p></td>
+             <td><p style="text-align:center;">Description</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Submitted</p></td>
+             <td><p style="text-align:center;">A change request log submitted by a member of the project team or key stakeholders awaits review by the Change Control Board to perform an impact analysis.</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">In Review </p></td>
+             <td><p style="text-align:center;">An analysis is being conducted to assess the potential impact </p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Status</p></td>
+             <td><p style="text-align:center;">Description</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Approved</p></td>
+             <td><p style="text-align:center;">The change request has received approval and is now ready for implementation </p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Denied</p></td>
+             <td><p style="text-align:center;">The change request has been rejected.</p></td>
+      </tr>
+      <tr>
+             <td><p style="text-align:center;">Ready for Implementation  </p></td>
+             <td><p style="text-align:center;">The change request is prepared and ready to be implemented.</p></td>
+      </tr>
 
-
-
-
-
-
-
-
-
-
+</table>
 
 =Communications Management Plan=
 ==Introduction==
