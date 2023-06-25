@@ -893,22 +893,22 @@ The Cost Management Approach we have devised intends to guarantee that the RAMS 
 Measuring cost performance is a crucial aspect of controlling project costs, and there are several techniques that can be used for this purpose. These techniques include methods such as cost variance, earned value management (EVM), cost performance index, and the Schedule Performance Index.
 
 Below, we'll provide more information about each of these methods for measuring cost performance. 
-=== Cost Variance ===
+''' Cost Variance '''
 *Cost variance (CV) is a technique used for measuring the difference between the earned value (EV) and the actual cost (AC) of the work completed. It provides an indication of whether the project is under budget or over budget. CV is calculated by subtracting the actual cost (AC) from the earned value (EV). 
 
 CV = EV - AC 
 
-=== Earned Value Management ===
+''' Earned Value Management '''
 *Earned Value Management (EVM) is a widely accepted and effective technique for measuring project performance in project management. The technique integrates the three key elements of scope, time, and cost, providing a holistic view of the project's progress and performance. 
 
 (SV) = EV – PV 
 
-=== Cost Performance Index ===
+ Cost Performance Index '''
 *The CPI provides a measurement of the value of work accomplished in relation to the actual cost of the work completed. It is calculated by dividing the earned value (EV) by the actual cost (AC). 
 
 (CPI) = EV / AC 
 
-=== Schedule Performance Index ===
+ Schedule Performance Index '''
 *The Schedule Performance Index (SPI) is a technique used to measure the project's schedule performance. The SPI provides a measurement of the progress achieved in relation to the work scheduled. It is calculated by dividing the earned value (EV) by the planned value (PV). The SPI value greater than 1 indicates that the project is ahead of schedule, while an SPI value less than 1 indicates that the project is behind schedule. 
 
 (SPI) = EV / PV
