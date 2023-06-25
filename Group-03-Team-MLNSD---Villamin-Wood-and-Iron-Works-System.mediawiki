@@ -272,7 +272,7 @@
 ==Cost Benefit Analysis==
 <p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those customers purchased a product, we could safely say that there will be a 50% increase in sales. This table is not final, and this is introduced for the client’s approval: </p>
 
-<table border="1" width="100%" allign="center">
+<table border="1" width="100%" align="center">
 <thead>
 <tr>
 <th>Benefit</th>
@@ -281,17 +281,20 @@
 </thead>
 <tbody>
 <tr>
-<td> Functional System
-<td> $485.87
+<td>Functional System</td>
+<td>$485.87</td>
 </tr>
 <tr>
-<td> Website Platform 
+<td>Website Platform</td>
+<td></td>
 </tr>
 <tr>
-<td> Storage Accounts
+<td>Storage Accounts</td>
+<td></td>
 </tr>
 <tr>
-<td> SQL Database
+<td>SQL Database</td>
+<td></td>
 </tr>
 </tbody>
 </table>
