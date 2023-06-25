@@ -286,11 +286,11 @@ By following these steps, this will ensure that the RAMs Corner will run smoothl
 Top three Risk in RAMs Corner Ticketing Service System
 After identifying the risk, they are categorized intro three major types, these are: 
 
-1.'''Vulnerabilities in System Security''' – as a ticketing system, this application will typically handle sensitive information of its customers such as their personal details. A weak authentication system may not be able to withstand data breaches, that will probably cause not only operational losses for the ITRO, but also reputational damage with its clients.
+1. '''Vulnerabilities in System Security''' – as a ticketing system, this application will typically handle sensitive information of its customers such as their personal details. A weak authentication system may not be able to withstand data breaches, that will probably cause not only operational losses for the ITRO, but also reputational damage with its clients.
 
-2.'''System Failure''' – since a ticketing system acts mainly as a customer support channel, it is very crucial for the RAMs Corner service to be up all the time, especially if it is within school hours. In the instances where the system is down, maybe due to some technical problems or external problems, the inability to cater to the client’s tickets will have a negative impact on the ITRO services as a whole.
+2. '''System Failure''' – since a ticketing system acts mainly as a customer support channel, it is very crucial for the RAMs Corner service to be up all the time, especially if it is within school hours. In the instances where the system is down, maybe due to some technical problems or external problems, the inability to cater to the client’s tickets will have a negative impact on the ITRO services as a whole.
 
-3.'''Performance Issue''' – this is both true for the hardware and peopleware. A  ticketing system is expected to handle a large volume of tickets, maybe not every day, but to a certain point in time. In that instance, it is possible to have performance issues both with the hardware that is being used (be it crashes, slow response time, etc.), and peopleware issues such as taking a long time resolving one ticket. If the ticketing system and its staff were not able to handle a surge of requests and incidents from their customers, there is the operational and reputational risk for the ITRO. 
+3. '''Performance Issue''' – this is both true for the hardware and peopleware. A  ticketing system is expected to handle a large volume of tickets, maybe not every day, but to a certain point in time. In that instance, it is possible to have performance issues both with the hardware that is being used (be it crashes, slow response time, etc.), and peopleware issues such as taking a long time resolving one ticket. If the ticketing system and its staff were not able to handle a surge of requests and incidents from their customers, there is the operational and reputational risk for the ITRO. 
 
 To be specific, here are the possible risks that are identified for the RAMs Corner: 
 
@@ -302,15 +302,9 @@ To be specific, here are the possible risks that are identified for the RAMs Cor
 
 4.'''Lack of Integration''' – since RAMs Corner will be adapted by the ITRO, it is expected to be able to integrate well with the current software and hardware equipment that is used by the ITRO, as well as the Asia Pacific College Residents being the clients. Inability to integrate means a decrease in productivity, that will therefore cause operational damage.
 
-5.'''Insufficient Reporting and Analytics''' – it is important to have a comprehensive analytical report for a ticketing system to measure whether the organization was able to uphold their service satisfactorily. If there is no available data, the performance of the staffs will not be monitored, the customer engagement will not be properly reviewed, therefore, ITRO will miss out on a bunch of important details that can help them in deriving a data-driven decision in the future.
-
-6.'''Ticket Mishandling''' -  human errors are also a possible occurrence when handling tickets, this can be misrouting of tickets to unrelated staff/division/department or maybe failure in prioritizing of tickets. These errors will cause client dissatisfaction that will  greatly affect the trust given to the ITRO.
-
-7.'''Poor User Experience''' – as a ticketing system, it is expected to be using technical terms at some point. But a very technical user interface is highly likely to overwhelm ordinary users, especially if they are non-IT people. A confusing interface will not only affect the client, but also the satisfaction rate for the ITRO service.
-
 To mitigate these aforementioned risks, the team developed a contingency plan that will allow the ITRO to address these issues in a considerable amount of time. Training before deployment is also a necessary step to familiarize the staff with how they are going to navigate the system. A regular reporting of the progress in risk mitigation will also be held in one-week sprints so that the system can remain up to date to the growing risk potentials and the possible ways to minimize it. 
 
-==13.4 Risk Assessment==
+==13.4 Risk Qualification and Prioritization ==
 After Identifying the risk for the ITRO Ticketing Service System, we are able to categorize them based on how likely these risks will occur, and how much are its impact both on the ITRO and their client. We have come-up with an impact-probability matrix that can help in prioritizing which type of risk needs a focused mitigation strategy.
 
 In the matrix, the probability of risk occurring, and its impact is described as below:
@@ -326,19 +320,10 @@ The table below depicts the matrix of impact-probability of the risk identified:
 
 The identified risks are prioritized as follows: 
 
-1. '''Ticket Mishandling''' – High probability with significant impact
-
-2. '''Lack of Integration''' – Medium probability with significant impact
-
-3. '''Poor User Experience''' – Medium probability with significant impact
-
-4. '''Downtime''' – medium probability with disastrous impact
-
-5. '''Insufficient Reporting and Analytics''' – medium probability with disastrous impact 
-
-6. '''Inadequate Scalability and Elasticity''' – medium probability with catastrophic impact
-
-7. '''Security Breaches''' – medium probability with catastrophic impact
+1. '''Lack of Integration''' – Medium probability with significant impact
+2. '''Downtime''' – medium probability with disastrous impact
+3. '''Inadequate Scalability and Elasticity''' – medium probability with disastrous impact
+4. '''Security Breaches''' – medium probability with disastrous impact
 
 After the assessment, we will focus on developing solutions for the risks that are considered in extreme and high priority. The risks on the low to medium priority will be constantly monitored as well, and there are no negligible risks since we firmly believe that all risks must be considered and should have a minimum possible solution whenever they occur.
 
@@ -348,11 +333,12 @@ This risk assessment is subject to revisions after reviews and monitoring. This 
 
 Risk monitoring is a very important step in risk management of the RAMs Corner. It will allow the team, as well as the stakeholders, to be involved in the ongoing risk management process that could impact the achievement of the long-term goals of the project. This is also to ensure that the identified and assessed risks are being reviewed and monitored thoroughly so that the ITRO can make informed decisions to make timely actions in preventing or minimizing a risk potential. 
 
-In this step, the project manager will assign a team member to be the overseer for the risk management or to be the risk manager. The risk manager will be the one responsible for overseeing the ongoing risk mitigation process, continuously monitoring the system logs, security alerts, and performance metrics. They will also provide the team with reviews for user feedback, support ticket, bug reports, and implement Key Performance Indicators to measure how effective is the current risk mitigation. 
+In this step, the project manager and the development team will be the overseer for the risk management. They will be the one responsible for overseeing the ongoing risk mitigation process, continuously monitoring the system logs, security alerts, and performance metrics. They will also provide the team with reviews for user feedback, support ticket, bug reports, and implement Key Performance Indicators to measure how effective is the current risk mitigation. 
 
-The risk manager is expected to report on the status of the ongoing risk management regularly in every sprint meeting. After the assessment from the report, the team will then collaborate for further reviews if there are risk mitigation plans that should be changed, should be added, or should be maintained.
+They are expected to report on the status of ongoing risk management regularly in every sprint meeting. After the assessment from the report, the team will then collaborate for further reviews if there are risk mitigation plans that should be changed, should be added, or should be maintained.
 
 To sum it all up, having an effective risk monitoring that incorporates the agile methodology, the ITRO can have an early risk detection, which will lead onto improved decision-making when dealing with potential risks, that can also therefore improve the operational efficiency of the system in servicing its clients, and continuous improvement of the system as a whole.
+
 
 ==13.6 Risk Mitigation==
 
@@ -386,7 +372,7 @@ The following are the list of elements in the Risk Register
 *'''Status''' – historical status of the risk. It can be Open, Ongoing, or Closed.
 *'''Target Resolution Date''' – date for the resolution of the listed risk.
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/Risk%20ID.png" alt="Image description" style="display:center; margin:0 auto;">
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/risk-register.png" alt="Image description" style="display:center; margin:0 auto;">
 
 =14. Communication Management Plan=
 ==14.1 Introduction==
