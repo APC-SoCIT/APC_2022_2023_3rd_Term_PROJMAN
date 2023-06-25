@@ -85,10 +85,25 @@
 <br />
 
 =3. COMPANY PROFILE=
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/e9f963be-9a04-4bd7-963d-4eac37f443ed" alt="Image description" style="display:block; margin:0 auto; width:30%;">
 
-Brief Background:
-Asia Pacific College's security
-personnel and other departments conduct their processes manually, and the former records all reports and other activities in a logbook. The team provides a solution by developing a mobile application, SurveiRams, that will automate the manual documentation process to alleviate the problems caused by the manual management of security personnel, BMO, and ITRO departments. By digitizing the manual operations of security personnel and concerned departments using the SurveiRams application in Asia Pacific College, they can efficiently address any concerns or incident reports that have occurred within the school, and departments such as BMO and ITRO can effectively track, manage, and respond to incidents.</p>
+'''Introduction:'''
+Innovative software development firm KAYVI Byte focuses on offering innovative solutions for companies of all sizes. KAYVI byte provides our customers with high-quality, reliable, and effective software products that enable them to improve their operations, streamline procedures, and accomplish their business goals. With a team of highly skilled professionals and a customer-centric approach, KAYVI Byte is dedicated to transforming ideas into reality and driving digital success for our clients.
+
+The vision, mission, and values of KAYVI byte:   
+
+'''Vision:'''
+Our mission at KAYVI Byte is to revolutionize the digital environment by creating software solutions, providing organizations with technology that foster growth, efficiency, and outstanding user experiences, KAYVI Byte aims to establish ourselves as a reliable partner.
+
+'''Mission:'''
+Our mission at KAYVI Byte is to leverage our expertise in software development to create custom solutions that cater to the unique needs of our clients. KAYVI Byte strives to build long-term relationships by delivering exceptional products that exceed expectations, maximize efficiency, and drive growth for businesses across industries.
+
+'''Values:'''
+* Adaptable: KAYVI byte is adaptable to change, technology is evolving fast, and the company is also adapting to the trends of the technological world.
+* Growth: KAYVI byte has a passion for growth, KAYVI byte is striving that everyone of us is growing even in the workplace.
+* Excellency: KAYVI byte strives for excellency which surpass expectations.
+* Innovation: KAYVI byte fosters a culture of innovation constantly exploring recent technologies.
+* Continuous Learning: KAYVI byte is committed to continues learning even in the professional setting.
 
 =4. BUSINESS CASE=
 
@@ -159,11 +174,11 @@ This section describes the roles of the team members who developed the business 
 </table>
 <br />
 
-==4.3.1 Problem Definition==
+==4.3. Problem Definition==
 
 ===4.3.1 Problem Statement===
 
-The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to important information for stakeholders such as managers and other employees who require accurate data in a timely manner. The current system also has unnecessary steps that could be eliminated when digitized such as rewriting the information from the logbook onto an incident report to be submitted to the Information Technology Resource Office (ITRO) or Building Maintenance Office (BMO).
+The process of handwritten reports can be tedious and time-consuming, leading to inefficiency and errors in the documentation process. This can result in a lack of clarity and accessibility to vital information for stakeholders such as managers and other employees who require accurate data in a timely manner. The current system also has unnecessary steps that could be eliminated when digitized such as rewriting the information from the logbook onto an incident report to be submitted to the Information Technology Resource Office (ITRO) or Building Maintenance Office (BMO). 
 
 ===4.3.2 Organizational Impact===
 
@@ -171,7 +186,7 @@ SurveiRams facilitate the digitization of work processes by reducing the use of 
 
 ===4.3.3 Technology Migration===
 
-In order to address the issues brought on by the manual administration of security personnel, BMO, and ITRO, the team will develop a mobile application called SurveiRams that automates the manual documentation procedure. The migration from manual administration to SurveiRams will improve the overall efficiency and accuracy of the security personnel reporting process. As the data will be securely stored and easily accessible to the cloud, it will enable faster decision-making and reduce the risk of errors or discrepancies in reporting.
+To address the issues brought on by the manual administration of security personnel, BMO, and ITRO, the team will develop a mobile application called SurveiRams that automates the manual documentation procedure. The migration from manual administration to SurveiRams will improve the overall efficiency and accuracy of the security personnel reporting process. As the data will be securely stored and easily accessible to the cloud, it will enable faster decision-making and reduce the risk of errors or discrepancies in reporting.
 
 ==4.4 Project Overview==
 
@@ -181,7 +196,7 @@ This project will be concerned with the creation of a mobile application for the
 
 ===4.4.2 Goals and Objectives===
 
-The main goal of this project is to create SurveiRams, a ticketing mobile application for APC’s security personnel, ITRO, and BMO. 
+The main goal of this project is to create SurveiRams, a ticketing mobile application for APC’s security personnel, ITRO, and BMO.  
 
 Specifically, said application should:
 *Serve as a centralized location that the guards will log their patrols on
@@ -192,10 +207,10 @@ Specifically, said application should:
 
 The mobile application SurveiRams must have the following features for the project to be successful:
 
-#A repository wherein the user has the ability to create, read, and update incident report and logs.
-#A dashboard where an administrator is able to view insights drawn from the stored data from the reports. The following information should be seen on the dashboard:
+#A repository where the user can create, read, and update incident reports and logs.
+#A dashboard where an administrator can view insights drawn from the stored data from the reports. The following information should be seen on the dashboard:
 **How many resolved and unresolved incident reports there are
-**The department and floor that ranks highest with regard to the number of incidents that occurred
+**The department and floor that ranks highest regarding the number of incidents that occurred
 **What kind of incident occurred the most
 **How many incidents occurred per floor
 **How many incidents are reported per office
@@ -208,7 +223,7 @@ Below are the initial expectations about the proposed system:
 2.	The project team have the skills required to complete the project
 3.	Stakeholders will provide necessary information to the project team regarding their current system and business needs.
 4.	Relevant stakeholders will cooperate with the team during training and implementation.
-5.	The project team is using a Hybrid Methodology ( Agile mixed with Waterfall). 
+The project team is using a Hybrid Methodology ( Agile mixed with Waterfall). 
 
 
 ===4.4.5 Project Contstraints===
@@ -220,46 +235,13 @@ The initial limitations for the proposed project are listed as follows:
 
 ===4.4.6 Major Project Milestones===
 
-In order to facilitate the team's advancement towards project completion, the subsequent milestones and deliverables have been recognized for this project.
+To facilitate the team's advancement towards project completion, the subsequent milestones and deliverables have been recognized for this project. 
 
-<table class="wikitable">
-  <tr>
-    <th>Project Milestones</th>
-    <th>Target Date</th>
-  </tr>
-  <tr>
-    <td>Initiation</td>
-    <td>04/11/2023 – 05/12/2023</td>
-  </tr>
-  <tr>
-    <td>Develop a Project Plan</td>
-    <td>05/15/2023 – 09/12/2023</td>
-  </tr>
-  <tr>
-    <td>Analysis</td>
-    <td>09/13/2023 – 10/10/2023</td>
-  </tr>
-  <tr>
-    <td>Design</td>
-    <td>10/11/2023 – 04/01/2024</td>
-  </tr>
-  <tr>
-    <td>Testing</td>
-    <td>04/02/2024 – 04/25/2024</td>
-  </tr>
-  <tr>
-    <td>Implementation</td>
-    <td>04/18/2024 – 06/26/2024</td>
-  </tr>
-  <tr>
-    <td>Close Project</td>
-    <td>07/27/2024 – 08/12/2024</td>
-  </tr>
-</table>
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/222d2050-b9ff-4a69-b683-fe5cf15a4b7c" alt="Image description" style="display:block; margin:0 auto; width:30%;">
 
 ==4.5 Strategic Alignments ==
 
-SurveiRams has the same goal as BMO, and ITRO in enhancing and refining the manual verification system into a mobile application that serves as a patrolling assistant focusing on its reporting system aspect to develop a more digitalized, efficient, and sustainable method of keeping up with the security personnel’s daily operations. That also improves employees' productivity by creating a more effective and efficient environment. Overall, this strategic alliance is expected to result in a sustainable and innovative solution to revolutionize security personnel's operations while improving business productivity simultaneously. 
+SurveiRams has the same goal as BMO, and ITRO in enhancing and refining the manual verification system into a mobile application that serves as a patrolling assistant focusing on its reporting system aspect to develop a more digitalized, efficient, and sustainable method of keeping up with the security personnel’s daily operations. That also improves employees' productivity by creating a more effective and efficient environment. Overall, this strategic alliance is expected to result in a sustainable and innovative solution to revolutionize security personnel's operations while improving business productivity simultaneously.
 
 ==4.6 Cost Benefit Analysis==
 
@@ -269,92 +251,84 @@ The process of cost-benefit analysis will assist in evaluating the relative adva
 
 The SurveiRams project can provide several benefits, including: 
 
-*Improved efficiency and productivity: The implementation of a digitalized system can optimize reviewing system reports by reducing paper documents, which can result in more efficient and effective work by allowing employees to focus more on higher value tasks. 
+*Improved efficiency and productivity: The implementation of a digitalized system can optimize reviewing system reports by reducing paper documents, which can result in more efficient and effective work by allowing employees to focus more on higher value tasks.
 
-*Enhanced accuracy: The automated system can help reduce human error, providing a more accurate method of determining whether the security personnel have completed their assigned tasks. 
+*Enhanced accuracy: The automated system can help reduce human error, providing a more accurate method of determining whether the security personnel have completed their assigned tasks.
 
-*Better decision-making: The application can provide analytical insights that can help the stakeholders interpret data reports and patterns, making decision-making more informed and strategic. 
+*Better decision-making: The application can provide analytical insights that can help the stakeholders interpret data reports and patterns, making decision-making more informed and strategic.
 
-*Increased security: The SurveiRams can help ensure building security by identifying anomalies or incident reports, aiding in monitoring and preventing future security breaches. 
+*Increased security: The SurveiRams can help ensure building security by identifying anomalies or incident reports, aiding in monitoring and preventing future security breaches.
 
-*More sustainable and cost-effective: By digitizing the current system, the project can eliminate the need for excessive paperwork, making the entire process more sustainable and cheaper in the long run.
+*More sustainable and cost-effective: By digitizing the current system, the project can eliminate the need for excessive paperwork, making the entire process more sustainable and cheaper eventually.
 
 ''' COST '''
 
 *Cost Savings: SurveiRams reduces the use of paper. This also results in cost savings and increased productivity. Paperless documentation increases the efficiency of data transmission by reducing paperwork and physical contact like couriers and printers.
-*For more details regarding the project costs, see the Appendix.
-==4.7 Alternatives Analysis==
-
-*'''Status Quo''' – One alternative to this project is keeping the current system. This means that no changes in personnel or materials will occur. Sticking to the status quo was rejected as an option, as this system proved to be tedious and time-consuming. 
-*'''Modification of Current System''' – Another alternative for SurveiRams is simply adding some minor changes to their current system, but will not be digitized. An example of this is removing the logbook from the process and having the guards directly log their reports on an Incident Report form. This is also not a viable option because it is still going to be time-consuming. The forms will still be then digitized by the concerned office. 
+For more details regarding the project costs, see Cost Management Plan.  
 
 =5. PROJECT CHARTER=
 
-==5.1 Executive Summary==
+==5.1 Project Purpose/Justification==
+===5.1.1 Business Need===
 
-Asia Pacific College (APC) has been using a manual process for recording incident reports and other activities using a logbook. This proved to be time-consuming as well as tedious due to its repetitiveness. SurveiRams is a mobile application that would address these concerns. It will automate the manual documentation process, as well as provide insights based on the data collected.
+The SurveiRams project has been created to improve the incident reporting process. The APC employees involved will be more productive, make fewer errors, as well as spend less time on one report using the mobile application. 
 
-==5.2 Project Purpose/Justification==
-
-===5.2.1 Business Need/Case===
-The SurveiRams project has been created to improve the incident reporting process. The APC employees involved will be more productive, make less errors, as well as spend less time on one report using the mobile application.  
-
-===5.2.2 Business Objectives===
+===5.1.2 Business Objectives===
 The general business objective is to develop SurveiRams, a ticketing system for APC’s security personnel, ITRO, and BMO to record incident reports and logs. It will provide insights into the security personnel’s routes to ensure they have completed their assigned tasks.
 
-Specifically, the SurveiRams mobile application should act as the centralized location of the guards’ patrol logs, automate the log documentations, and provide analytics to help stakeholders in their decision-making. Development is expected to be finished by August 2023 with a budget of PHP 314,881.60.
+Specifically, the SurveiRams mobile application should act as the centralized location of the guards’ patrol logs, automate the log documentations, and provide analytics to help stakeholders in their decision-making. Development is expected to be finished by August 2023 with a budget of PHP 314,881.60. 
 
 
-==5.3 Project Description==
+==5.2 Project Description==
 This section discusses a high-level description of the SurveiRams Ticketing System project. 
 
 This project will be concerned with the creation of a mobile application for the security 
 personnel and several offices of APC, wherein they can log and view incident reports.
 This is to digitize the security personnel’s recording process, as well as boost them 
 productivity. There will be different accessible features available depending on the 
-user, which is based on what office or department they are from.
+user, which is based on what office or department they are from.  
 
-===5.3.1 Project Objectives and Success Criteria===
-The objectives which mutually support the milestones and deliverables for this project have been identified. To achieve success on the SurveiRams project, the following objectives must be met within the designated time and budget allocations:
+===5.2.1 Project Objectives===
+The objectives which mutually support the milestones and deliverables for this project have been identified.  To achieve success on the SurveiRams project, the following objectives must be met within the designated time and budget allocations:
 
-*Develop proposal about features to present to the client, project sponsor, and stakeholders within 3 days. 
-*Complete list of required hardware/software which meets budget allocation within a day.
-*Create the SurveiRams ticketing system within 4 months and 13 days.
-*Complete the testing phase within 6 days.
-*Complete the required documentation for this project.
-*Implement the solution across the APC organization within 14 days.
+*Develop proposal about features to present to the client, project sponsor, and stakeholders within 3 days.  
+*Complete list of required hardware/software which meets budget allocation within a day. 
+*Create the SurveiRams ticketing system within 4 months and 13 days. 
+*Complete the testing phase within 6 days. 
+*Complete the required documentation for this project. 
+*Implement the solution across the APC organization within 14 days. 
 
-===5.3.2 Requirements===
+===5.2.2 Requirements===
 
-This project must meet the following list of requirements to achieve success.    
+This project must meet the following list of requirements to achieve success.  
 
 *The application must be tested and approved by the client, project sponsor, and other relevant stakeholders prior to deployment.
 *All documentation must be approved by the Project Manager and Project Sponsor before confirming project completion.
 
 Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward.
 
-===5.3.3 Constraints===
+===5.2.3 Constraints===
 
 The following constraints pertain to the SurveiRams project:
 
-*All mobile devices to be used by the security personnel are exclusive of the allocated budget.
+*All mobile devices to be used by the security personnel are exclusive of the allocated budget. 
 *The entire project timeline will last for 4 months and 13 days. 
 *Two software developers, one documentation specialist, one software tester and a project manager will be provided as resources for this project.
 
-===5.3.4 Assumptions===
+===5.2.4 Assumptions===
 
 The following is a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:
 
 *This project has the full support of the client, project sponsor, stakeholders, and project adviser.
-*The purpose of this project will be communicated throughout the company prior to deployment.
-*The project adviser and project sponsor will provide additional resources if necessary. 
+*This project's purpose will be communicated throughout the company before deployment.
+*The project adviser and project sponsor will provide additional resources if necessary.
 
-===5.3.5 Preliminary Scope Statement===
+===5.2.5 Preliminary Scope Statement===
 
 The SurveiRams project aims to create a more robust ticketing system for the entire organization. The project team will handle all aspects of the project, including administering personnel, hardware, and software resources, and all necessary testing will be conducted independently of daily operations. The Project Manager is responsible for securing project funding as outlined in this document. Additional funding must be approved by the project sponsor. The project will be considered complete once the SurveiRams system is tested and deployed throughout the organization, the final report is submitted within 33 days (about 5 weeks), and technical documentation is distributed to appropriate personnel. 
 
-==5.4 Risks==
-The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of the following risks:   
+==5.3 Risks==
+The following risks for the SurveiRams project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of the following risks:  
 
 * Data Loss
 * System Bugs
@@ -363,7 +337,7 @@ The following risks for the SurveiRams project have been identified.  The projec
 * The project goes over budget
 
 
-==5.5 Project Deliverables==
+==5.4 Project Key Deliverables==
 
 The following deliverables must be met upon the successful completion of the SurveiRams project.  Any changes to these deliverables must be approved by the project sponsor.
 
@@ -424,7 +398,7 @@ The project Summary Milestone Schedule is presented below.  As requirements are 
   </tr>
 </table>
 
-==5.7 Summary Budget==
+==5.6 Budget Summary==
 
 The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project.
 
@@ -445,263 +419,128 @@ The following table contains a summary budget based on the planned cost componen
 
 
 
-==5.8 Project Approval Requirements==
-The ultimate objective of the SurveiRams project is to deploy a fully tested and well-documented ticketing system within the time and budget limitations specified in this charter. The project's success criteria will include a list of recommended future enhancements, as the solution is expected to evolve to accommodate future changes. The project sponsors, Mr. Jojo F. Castillo and Mr. Jose Manuel Garcia, who will authorize its completion, will ultimately determine whether the project has met the success criteria.
+==5.7 Project Approval Requirements==
+The ultimate objective of the SurveiRams project is to deploy a fully tested and well-documented ticketing system within the time and budget limitations specified in this charter. The project's success criteria will include a list of recommended future enhancements, as the solution is expected to evolve to accommodate future changes. The project sponsors, Mr. Jojo F. Castillo and Mr. Jose Manuel Garcia, who will authorize its completion, will determine whether the project has met the success criteria.
 
-==5.9 Project Manager==
+==6 Project Manager==
 Ian Onrubia has been designated as the Project Manager for the SurveiRams project. As the Project Manager, Mr. Onrubia will be responsible for overseeing the project's scope management, which includes collaborating with Mr. Jojo Castillo and Mr. Jose Manuel Garcia, the project sponsor, and other key stakeholders to define and effectively manage the project scope.
 
- The Project Manager will oversee the fulfillment of all project requirements, ensuring that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders. Furthermore, he will have the authority to make decisions related to personnel, project expenditures, and scheduling, as determined by the organization and scope of the project. Throughout the project lifecycle, he will be responsible for ensuring that the project is completed successfully, and all deliverables are accepted, and any outstanding issues are resolved.     
+The Project Manager will oversee the fulfillment of all project requirements, ensuring that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders. Furthermore, he will have the authority to make decisions related to personnel, project expenditures, and scheduling, as determined by the organization and scope of the project. Throughout the project lifecycle, he will be responsible for ensuring that the project is completed successfully, and all deliverables are accepted, and any outstanding issues are resolved.  
 
+=7. Project Management Plans= 
 
-=6. STAKEHOLDER STRATEGY MANAGEMENT PLAN=
+==7.1 STAKEHOLDERS STRATEGY MANAGEMENT PLAN==
 
-==6.1 Introduction==
+===7.1.1 Introduction===
 
 This document stands as the guidelines on how the team will approach the stakeholders and their needs. Addressing their concerns and requirements is important, as they are the people affected by the outcome of this project. The list of the stakeholders and their information relative to the deliverables can be found here. In doing so, the team can manage them well and be one step closer to the success of SurveiRams.
 
-==6.2 Identify Stakeholders==
+==7.1.2 Identify Stakeholders==
 
 The Stakeholder Management Strategy aims to identify and engage all individuals or groups with a personal interest in the project and who will be impacted by its implementation or success. To achieve this, the project team will use a structured methodology that involves interviews, document review, and consultation meetings. The methodology includes identifying all potential stakeholders through a stakeholder analysis, prioritizing stakeholders based on their influence and impact on the project, which all aid in developing a stakeholder management plan. Ongoing communication with stakeholders is also essential to ensure that their needs and concerns are addressed and that the project stays on track.
 
-==6.3 Key Stakeholders==
+==7.1.3 Key Stakeholders==
 
-The security personnel, Building Maintenance Office (BMO), and Information Technology Resource Office (ITRO) are key stakeholders in ensuring the safety and proper functioning of the building and its technology systems. Allowing employees to use SurveiRams as an automated ticketing system, employees can streamline communication and task assignment between these stakeholders to ensure efficient resolution of any security, maintenance, or technology-related issues within the building. Additionally, this enables the stakeholders to maintain and keep incident reports, streamline cross-functional processes, and increase the organization’s dependability, all of which contribute to the organization’s overall efficiency. 
+The security personnel, Building Maintenance Office (BMO), and Information Technology Resource Office (ITRO) are key stakeholders in ensuring the safety and proper functioning of the building and its technology systems. Allowing employees to use SurveiRams as an automated ticketing system, employees can streamline communication and task assignment between these stakeholders to ensure efficient resolution of any security, maintenance, or technology-related issues within the building. Additionally, this enables the stakeholders to maintain and keep incident reports, streamline cross-functional processes, and increase the organization’s dependability, all of which contribute to the organization’s overall efficiency.
 
 
-==6.4 Stakeholder Analysis==
+==7.1.4 Stakeholder Analysis==
 
-<table border="1" width="70%" align="center">
-<tr>
-<td width="400" bgcolor="lightblue">
-<p><strong>Stakeholder</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>Role</strong></p>
-</td>
-<td width="190" bgcolor="lightblue">
-<p><strong>Impact</strong></p>
-</td>
-<td width="220" bgcolor="lightblue">
-<p><strong>Influence</strong></p>
-</td>
-<td width="420" bgcolor="lightblue">
-<p><strong>What is important to the stakeholder?</strong></p>
-</td>
-<td width="420" bgcolor="lightblue">
-<p><strong>How could the stakeholder contribute to the project?</strong></p>
-</td>
-<td width="394" bgcolor="lightblue">
-<p><strong>Strategy on engaging the stakeholder</strong></p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Jojo Castillo</p>
-</td>
-<td width="190">
-<p>ITRO Head</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Directly receive reports</p>
-</td>
-<td width="420">
-<p>Project Approval and use of the application</p>
-</td>
-<td width="394">
-<p>Set a meeting</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Marr Bringas</p>
-</td>
-<td width="190">
-<p>BMO Head</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Directly send reports</p>
-</td>
-<td width="420">
-<p>Use of the application</p>
-</td>
-<td width="394">
-<p>Interview</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Mervin Quilang</p>
-</td>
-<td width="190">
-<p>Head Guard</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Directly send reports</p>
-</td>
-<td width="420">
-<p>Use of the application</p>
-</td>
-<td width="394">
-<p>Interview</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Jose Manuel Garcia</p>
-</td>
-<td width="190">
-<p>Campus Architect</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Directly Receive reports, upload their physical files to the system</p>
-</td>
-<td width="420">
-<p>Project Approval and use of the application</p>
-</td>
-<td width="394">
-<p>Set a meeting</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Ian Christopher Onrubia</p>
-</td>
-<td width="190">
-<p>Project Manager</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Project Team and System</p>
-</td>
-<td width="420">
-<p>Manage the project team</p>
-</td>
-<td width="394">
-<p>Set a meeting</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Alexis Martin</p>
-</td>
-<td width="190">
-<p>Front-end Developer</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Front-end System</p>
-</td>
-<td width="420">
-<p>Develop Front-end System</p>
-</td>
-<td width="394">
-<p>Set a meeting</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Jan Karlo Boongaling</p>
-</td>
-<td width="190">
-<p>Documentation Specialist</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Deliverables</p>
-</td>
-<td width="420">
-<p>Document the whole process of the system</p>
-</td>
-<td width="394">
-<p>Set a meeting</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Yuan Serafico</p>
-</td>
-<td width="190">
-<p>Software Tester</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Completed System</p>
-</td>
-<td width="420">
-<p>Test the software</p>
-</td>
-<td width="394">
-<p>Set a meeting</p>
-</td>
-</tr>
-<tr>
-<td width="394">
-<p>Vladimir Perez</p>
-</td>
-<td width="190">
-<p>Back-end Developer</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="190">
-<p>High</p>
-</td>
-<td width="420">
-<p>Back-end System</p>
-</td>
-<td width="420">
-<p>Develop Back-end of the system</p>
-</td>
-<td width="394">
-<p>Set a meeting</p>
-</td>
-</tr>
+<table>
+  <thead>
+    <tr>
+      <th>Stakeholder</th>
+      <th>Role</th>
+      <th>Impact</th>
+      <th>Influence</th>
+      <th>What is important to the stakeholder?</th>
+      <th>How could the stakeholder contribute to the project?</th>
+      <th>Strategy on engaging the stakeholder</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jojo Castillo</td>
+      <td>ITRO Head</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Directly receive reports</td>
+      <td>Project approval and use of the application</td>
+      <td>Set a meeting</td>
+    </tr>
+    <tr>
+      <td>Jose Manuel Garcia</td>
+      <td>Campus Architect</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Directly receive reports, upload their physical files to the system</td>
+      <td>Project approval and use of the application</td>
+      <td>Set a meeting</td>
+    </tr>
+    <tr>
+      <td>Marr Bringas</td>
+      <td>BMO Head</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Directly send reports</td>
+      <td>Use of the application</td>
+      <td>Interview</td>
+    </tr>
+    <tr>
+      <td>Mervin Quilang</td>
+      <td>Head Guard</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Directly send reports</td>
+      <td>Use of the application</td>
+      <td>Interview</td>
+    </tr>
+    <tr>
+      <td>Ian Christopher Onrubia</td>
+      <td>Project Manager</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Project Team and System</td>
+      <td>Manage the project team</td>
+      <td>Set a meeting</td>
+    </tr>
+    <tr>
+      <td>Alexis Martin</td>
+      <td>Front-end Developer</td>
+      <td>Medium</td>
+      <td>High</td>
+      <td>Front-end System</td>
+      <td>Develop front-end system</td>
+      <td>Set a meeting</td>
+    </tr>
+    <tr>
+      <td>Jan Karlo Boongaling</td>
+      <td>Documentation Specialist</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Deliverables</td>
+      <td>Document the entire process of the system</td>
+      <td>Set a meeting</td>
+    </tr>
+    <tr>
+      <td>Yuan Serafico</td>
+      <td>Software Tester</td>
+      <td>Low</td>
+      <td>High</td>
+      <td>Completed System</td>
+      <td>Test the software</td>
+      <td>Set a meeting</td>
+    </tr>
+    <tr>
+      <td>Vladimir Perez</td>
+      <td>Back-end Developer</td>
+      <td>Medium</td>
+      <td>High</td>
+      <td>Back-end System</td>
+      <td>Develop back-end of the system</td>
+      <td>Set a meeting</td>
+    </tr>
+  </tbody>
 </table>
 
 
