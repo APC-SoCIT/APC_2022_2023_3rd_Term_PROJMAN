@@ -1,15 +1,15 @@
 =First Part=
 [[Nacor Industries RAMS Corner Ticketing Service System Part 1 | https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Group-04-Nacor-Industries---RAMS-Corner-Ticketing-Service-System|target=_blank]]
 
-=11. HR Management Plan=
+== 8.5 Staffing Management Plan==
 
-==11.1 Introduction== 
+==8.5.1 Introduction== 
 
 The staff or team serves as a model for how the project will be led and organized, and it helps to guarantee that the correct individuals, with the necessary credentials, are there at the appropriate time. The strategy includes metrics for performance management as well as roles and responsibilities and communication procedures because the success of the project depends on a solid human resource management plan.
 
 The project manager and project team can successfully manage the project by making sure that everyone on the team is aware of their duties and responsibilities, that communication is clear and efficient, and that performance is tracked and managed in a way that supports the project's success.
 
-==11.2 Roles and Responsibilities==
+===8.5.2 Roles and Responsibilities===
 
 	A project must have a team that has a strategy in place in order to succeed as it clarifies the duties and responsibilities of each member of the project team and the client, and to make sure that everyone in the team is aware of their own contributions.
 
@@ -25,7 +25,7 @@ Overall, the project team is guided toward effective project execution and deliv
   <td> Competency </td>
  </tr>
  <tr>
-  <td>Project Client</td>
+  <td>Project Sponsor</td>
   <td>One that provides the ideas and asks for help for the project team to fulfill. the one who also approves the project’s business case and budget.
 able to assign project resources and give high-impact approval for modifications to the project's scope, timeline, and budget.
 </td>
@@ -43,27 +43,26 @@ Profound comprehension of the organization's mission, objectives, and values. Po
   <td> Solid understanding of the project, leadership skills, communicating skills, and project management skills, risk management skills, team management and can learn continuously and develop their knowledge.</td>
  </tr>
  <tr>
-  <td>Internal Users of the system (Programmers)</td>
+  <td>Internal Users of the system (Developers)</td>
   <td>Has access to the system and the power to improve and decode errors when necessary. </td>
   <td>In charge of coding the software and UI/UX of the project and handles the system.</td>
   <td>Has the technical expertise, background, talents, and experience necessary to build software solutions successfully. </td>
  </tr>
  <tr>
-  <td>External users of the system (Project Documentator)</td>
+  <td>External users of the system (Documentation)</td>
   <td>Handles the paper and documents the process of the project from start to end.</td>
   <td>In charge of the documentations and the deliverables of the project.</td>
   <td>The ability to efficiently develop and manage project documentation is possessed by a documentation specialist, who possesses a range of abilities, expertise, traits, and skills.</td>
  </tr>
 </table>
 
-==11.3 Project Organizational Charts==
+===8.5.3 Project Organizational Charts===
+Project organizational chart of APC ITRO Ticketing System provides a visual representation of the project team and the relationships between the key stakeholders. Where the client of the project is in the top, followed by the project adviser who is responsible for giving the team guidance and insights. Then The project manager, who oversees overseeing the project's resources, scope, and timeline, is often listed above the project sponsor on the organizational chart. Lastly the team projects members, who are responsible for the success of the project and fulfilling the request of the client.
 
-	Project organizational chart of APC ITRO Ticketing System provides a visual representation of the project team and the relationships between the key stakeholders. Where the client of the project is in the top, followed by the project adviser who is responsible for giving the team guidance and insights. Then The project manager, who oversees overseeing the project's resources, scope, and timeline, is often listed above the project sponsor on the organizational chart. Lastly the team projects members, who are responsible for the success of the project and fulfilling the request of the client.
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2d378d6f4e631a0dc3bdea5eb27cbb4f0796fcf2/wikihub%20photos/orgchart.png" alt="Image description" style="display:center; margin:0 auto;">
+''Figure 15: Project Organizational chart''
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/orgcharttt.PNG" alt="Image description" style="display:center; margin:0 auto;">
-
-==11.4 Staffing Management==
-
+===8.5.4 Staffing Management===
 A vital element in guaranteeing the APC ITRO Ticketing System project's effective execution is the staff management plan. Throughout the project lifetime, it describes the tactics and procedures for recruiting, supervising, and releasing human resources.
 
 *To guarantee that the required skills and knowledge are available when needed, human resource acquisition will be completed promptly. This can entail using internal workers or engaging contractors in addition to existing employees. To guarantee that resources are accessible when required, the acquisition timeframe will be coordinated with the project schedule.
@@ -75,317 +74,140 @@ A vital element in guaranteeing the APC ITRO Ticketing System project's effectiv
 The project's goals and requirements will be taken into consideration when the Staffing Management Plan is periodically reviewed and amended as appropriate. To ascertain if any extra things need to be included in the staffing management plan, it is critical that the project manager perform a comprehensive examination of the project's unique requirements and rules.
 
 <table border="1" width="70%" align="left">
- <tr>
+<tr>
   <td> Role </td>
   <td> Project Responsibility </td>
   <td> Skills Required </td>
   <td> Number of Staff </td>
   <td> Performance Reviews </td>
   <td> Performance Reviews </td>
- </tr>
- 
- <tr> 
+</tr>
+<tr> 
  <td> Project Manager</td>
   <td> Is the project team leader and oversees efficient planning of the project and its execution. Create a thorough project strategy and establish a project goal. Communicates or conveys the project status and progress to the client.</td>
-  <td> Leadership Communication Problem Solving Analytical Skills Adaptability Technical Knowledge </td>
-  <td> Depending on the project's size and complexity.formulated in cooperation with other stakeholders </td>
+  <td> Leadership, Communication, Problem Solving, Analytical Skills, Adaptability, Technical Knowledge </td>
+  <td> Depending on the project's size and complexity. formulated in cooperation with other stakeholders </td>
   <td> The project manager will collaborate with team members to establish realistic performance targets and monitor their advancement. </td>
   <td> The project manager will implement a recognition and rewards system to motivate team members and encourage high performance. </td>
- </tr>
-  <tr> 
+</tr>
+<tr> 
  <td> Project Team Members</td>
-  <td> Executing the tasks and duties given by the project manager and implement the project adviser’s idea. To guarantee that project activities are finished on schedule and within budget, people must properly manage their time and work.  
-Inform the project manager or leader of the progress and status. Participate in project meetings and discussion by contributing ideas. </td>
-  <td> Time management Communication Collaboration & Cooperation Technical Skills Problem-solving</td>
-  <td> Depending on the project's size and complexity.formulated in cooperation with other stakeholders </td>
-  <td> Evaluations will be based and determined from the performance of the team members and reporting regarding the project’s progress. 
-according to the demands of the project and the rules of the business. </td>
+  <td>Execute the tasks and duties given by the project manager and implement the voted idea.
+
+Guarantee that project activities are finished on schedule and within the budget while properly managing their time and Inform the project manager or leader of the progress and status.
+
+Participate in project meetings and discussion by contributing ideas.
+ </td>
+  <td> Time management, Communication, Collaboration & Cooperation, Technical Skills, Problem-solving</td>
+  <td> Depending on the project's size and complexity. formulated in cooperation with other stakeholders </td>
+  <td> Evaluations will be based and determined from the performance of the team members and reporting regarding the project’s progress. according to the demands of the project and the rules of the business. </td>
   <td> The project manager or adviser will implement a recognition and rewards system to motivate team members and encourage high performance.</td>
- </tr>
- <td> Project Client</td>
-  <td> Following up on project developments and giving the project team direction and assistance Ensure that the project is in line with the objectives and vision of the company. Give the project strategic leadership and direction. </td>
-  <td> Leadership Strategic Thinking Communication Risk Management Budget Managemen</td>
-  <td> The client is a top executive or board of directors’ member. Possibly assisted by project management office or other support personnel.</td>
-  <td> The client may assess the recipient's performance by to make sure they are adhering to the standards and objectives of the company for the project. The client could also receive updates regarding the project’s progression from the project manager  </td>
-  <td> The client may recognize and reward the project team for their achievements and progress towards the project's goals.</td>
- </tr>
-
+</tr>
+<tr>
+  <td> Project Sponsor</td>
+  <td> Following up on project developments and giving the project team direction and assistance. Ensure that the project is in line with the objectives and vision of the company. Give the project strategic leadership and direction.
+</td>
+  <td> Leadership, Strategic Thinking, Communication, Risk Management, Budget Management
+ </td>
+  <td> The client is a top executive or board of directors’ member. Possibly assisted by project management office or other support personnel.
+ </td>
+  <td> The client may assess the recipient's performance by to make sure they are adhering to the standards and objectives of the company for the project. The client could also receive updates regarding the project’s progression from the project manager 
+ </td>
+  <td>The client may recognize and reward the project team for their achievements and progress towards the project's goals. </td>
+</tr>
 </table>
+''Table 7: Staffing Management - Roles and Responsibilities 2''
 
-=12. QUALITY MANAGEMENT PLAN=
+== 8.6 Change Management Plan ==
+=== 8.6.1 Introduction ===
+The Change Management Plan was created for the RAMS Corner: Ticketing Service to monitor the targeted goals and expectations on how the changes will be dealt with, what features are added and removed, the purpose and the why’s that the said feature was added and removed, and the overall changes made in the process until the project is complete. The Project Beneficiary (ITRO Department) will be expected to submit or require changes to the Project to furthermore cater for the needs of the said department. In accordance with this Change Management Plan, the department will be expecting an explanation and the submission for the request will be processed. 
 
-==12.1 Introduction==
-In order to maintain quality throughout the project the team, Nacor Industries opted to follow the hybrid Scrum-Fall methodology. This Quality Management Plan will define the quality standards that will be used to evaluate the RAMS Corner: ITRO Ticketing Service System. Furthermore, the plan provides a framework for resolving quality concerns and specifying the roles and duties of team members in addition to outlining quality principles and procedures from the development, through the deployment of RAMS Corner: ITRO Ticketing Service System, with the following goals in mind:
+'''CHANGE MANAGEMENT APPROACH'''
 
-* Make sure the project satisfies or exceeds the expectations of the client and stakeholders, (APC-ITRO and their clientele)
-* List the criteria for quality that will be used to assess the project.
-* In order to meet the required standards of quality, it is important to define the specific roles and responsibilities of each team member.
-* Identify and resolve any possible quality issues that may arise.
-* Create a framework to effectively oversee and maintain project quality throughout its duration.
+The Change Management approach for the RAMS Corner: ITRO Ticketing Service System will guarantee that all proposed changes are detailed, fully analyzed, and acknowledged upon making the changes so that they are properly implemented throughout the project. And before applying the changes, it is to be certain that the team and the Project Beneficiary had a meeting and agreed on the changes. In this way, the changes made in the system are verified by the Project beneficiary and it is still in the scope of the project.
 
-RAMS Corner: Ticketing Service System will be a completely functional web-based application to be used by the ITRO in lieu of their aging email-based system as the Quality Management Plan will contain both the product and process quality standards. The strategy will include detailed procedures to be followed as well as tools and methods to manage and document industry-standard quality which includes the following tools:
+*The changes are only within the scope of project
+*Find an efficient way to implement the changes
+*Record the changes that was and being made throughout the project
 
-* Definition of Done: A concise and clear description of the conditions that determine the completion of a product increment.
-* Acceptance Criteria: Specific requirements that a product increment must meet in order to receive approval from the product owner.
-* Continuous Integration: A method used to frequently merge code updates into a shared repository to ensure that the final product is consistently ready for release—which would be done through GitHub.
+The Change Management process has been designed to make sure this approach is followed for all changes. By using this approach methodology, the RAMS Corner: ITRO Ticketing Service System will prevent unnecessary or unappropriated changes from happening and will only focus its time and effort on the necessary updates and such.
 
-In summary, this Quality Management Plan will offer a comprehensive structure to effectively manage and sustain the quality of the project from start to finish. It guarantees that the project will meet or surpass the expectations of all parties involved. Additionally, the plan outlines specific processes, tools, and roles and responsibilities for identifying and resolving any potential quality concerns. It is essential for all stakeholders to be acquainted with this plan and understand their contributions towards its successful implementation.
+'''DEFINITIONS OF CHANGE'''
+Changes should be applied in the project depending on the circumstances that will encounter by the project team, all the significant changes will be consulted first directly to the Project beneficiary which is ITRO Department Office through Mr. Jojo Castillo the ITRO Head, this is to ensure that proposed changes for both system and project documentation should still be correlated in the scope of their work. Also, the weekly team consultation and collaboration will provide necessary details to guide the project team to plan and apply appropriate changes in the system and project documentation, this is to ensure that changes applied will still be accepted in an industry standard approach
 
-==12.2 Quality Management Approach==
+These changes may include:
 
-The Quality Management Plan for the RAMS Corner: ITRO Ticketing Service System project will utilize the hybrid Scrum-Fall methodology to ensure that the project meets or exceeds all stakeholders' quality expectations. This approach would promote flexibility as they would be directly involved within each step of the way from the development, through the deployment stage as referenced in the diagram below:
+*Documentation Changes, as the Project Beneficiary thorough examine that project documentation, system design, and prototypes allowing them to point out the changes needed for both project documentation and system. All the recommended changes from the panelist will be optional in such circumstances as the Project Beneficiary will confirm if the recommended changes will be certain for the project. As said, if these recommended changes should take place, extra time for work should be rendered by the project team in order to fill the gaps whether it’s minor or major adjustments.
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/c2a9e9b575b3facf7896111f63853343f375ecbe/image_2023-06-03_134301758.png?raw=true"display:block; margin:0 auto;">
+*Consultation Schedule Changes, the project team consults with the Project beneficiary as well as the project manager to ensure that the project keeps on the right track of development. Both the development team and the ITRO head have tentative schedules due to their nature of work, that is why project consultation schedules might change anytime thus making the team delay on a specific task in the project waiting for clarifications before changing anything in the documentation and the system.
 
-The following are the roles and duties for the quality management plan:
+===8.6.2 Change Control Board ===
+<table border="1" width="70%" align="center">
+<tr>
+<td bgcolor="lightblue"><p style="text-align:center;">Name</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">Position</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">CCB Role</p></td>
+</tr>
+<tr>
+<td><p style="text-align:center;">Mr. Jose F. Castillo</p></td>
+<td><p style="text-align:center;">ITRO Head</p></td>
+<td><p style="text-align:center;">Project Beneficiary</p></td>
+</tr>
+<tr>
+<td><p style="text-align:center;">Kieyl Ponce</p></td>
+<td><p style="text-align:center;">UI/UX Designer</p></td>
+<td><p style="text-align:center;">Product Owner</p></td>
+</tr>
+</table>
+''Table 8: Change Control Board''
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/qmp.png?raw=true"display:block; margin:0 auto;">
+===8.6.3 Roles and Responsibilities===
+The following are the roles and responsibilities for all change management efforts related to the  RAMS Corner: ITRO Ticketing Service System
 
-Quality management will be integrated into every aspect of the project and will be handled by the entire team—each being a part of the quality management team. Nacor Industries will strive to deliver a Minimum Viable Product (MVP) and will continuously incorporate customer feedback to refine and improve the product.
+Project Manager 
+*Works on both project Documentation and System Development
+*Leads the project team 
+*Assign and distribute work to the team
 
-The approach will include the following steps:
+Frontend/Backend Developer
+*Develops the Backend and Frontend of the System
+*Tests and maintains the system development
 
-1. '''Establishing Quality Standards:''' The project team will define precise quality standards aligned with Agile and Scrum methodologies, emphasizing the delivery of value to the customer.
+UI/UX Designer
+*Designs the UI/UX of the System
+*Implement System Design 
 
-2. '''Quality Planning:''' Working closely with stakeholders, the team will identify project requirements and prioritize essential features. They will create a Product Backlog and set quality objectives to ensure that each product iteration provides value and meets the defined quality standards.
+Project team role
 
-3. '''Quality Control:''' Throughout the sprint, the team will implement quality control measures to ensure compliance with established requirements and quality goals. This will involve conducting testing and reviews during each sprint to identify and address any defects or issues.
+*List down the comments and suggestions for all the changes in the system 
+*Consult with the ITRO Department Head about the request changes on the system to be made
+*Provide all applicable information and detail on change request from the ITRO Department Head 
+*Consult the team to list all information on what standard processes and execution should be done appropriately before applying the changes in the system.
+*Be prepared to address questions regarding any submitted changes in the system
 
-4. '''Continuous Improvement:''' The team will continuously monitor and evaluate the project's performance and adjust as necessary. This will involve collecting and analyzing feedback from stakeholders, identifying areas for improvement, and implementing changes to improve the project's overall quality.
+===8.6.4. Change Control Process===
+The Change Control Process for the RAMS Corner: ITRO Ticketing Service System will follow the organizational standard change process for the ongoing project.  The project manager has overall responsibility for executing the change management process for each change request.
 
-5. '''Communication:''' The team will maintain constant communication with stakeholders to ensure that they are aware of the product's quality status and can provide feedback as needed.
+1. Identify the need for a change (Stakeholders) - apply the necessary revisions based on the panelist's comments. 
 
-Throughout the span of this project, the team will incorporate Agile and Scrum practices, including user stories, sprints, and retrospectives, to ensure that quality is built-in throughout the project's lifecycle and meets the organization's quality standards and the needs of the project stakeholders. In addition, a risk management plan will be developed to proactively identify and mitigate potential quality risks throughout the project's lifecycle.
+2. Log change in the change request register (Project Manager) - list’s and records the comments. The team would then conduct a meeting with the client.
 
-Overall, the Quality Management Approach for the RAMS Corner: Ticketing Service System project will prioritize delivering a high-quality product that meets customer requirements through an Agile and Scrum method. The approach will be flexible and continuously refined to ensure that the project meets or exceeds all quality expectations.
+3. Evaluate the change (Project Manager, Team, Requestor) – before applying the necessary changes, a meeting should be held by the team and the project beneficiary analyzing and reviewing the change requests.
 
-==12.3 Quality Requirements / Standards==
+4. Submit a change request to CCB (Project Manager) – upon a careful review, the team would then list the important points made by the project beneficiary that would help to deliver a quality system.
 
-The RAMS Corner: Ticketing Service System project places a high focus on quality, and the team will cooperate to create and record quality requirements and standards. Client comments, testing, and assessments will be used to guarantee adherence to these criteria. The following requirements and standards for quality will be followed by the RAMS Corner: Ticketing Service System. 
+5. Obtain Decision on change request (CCB) – together with the project manager, the CCB would discuss if the proposed changes would still be in the scope of the project. 
 
-'''Requirements for Product Quality:'''
+6. Implement change (Project Manager) – If a change is approved by the CCB and the project sponsor. The necessary changes would then be applied and added to the paper. 
 
-*The RAMS Corner: Ticketing Service System will be fully operational and adhere to the product backlog's technical requirements.
-*The interface shall be simple to use, with prompts and instructions that are obvious to users.
-*The solution will work and be compatible with the company's current technological infrastructure.
-*The system will have a layer of data security to safeguard the customer's private information through password authorization.
-
-'''Requirements for Ensuring Quality of Processes:'''
-
-*The product owner and development team will review and approve all project deliverables prior to being provided to the client.
-*The development team will implement an ongoing process of testing and quality assurance to ensure that the system meets all technical specifications and requirements.
-*A version control tool will be used by the development team to ensure that any modifications to the system are properly documented, reviewed, and authorized.
-*Regular sprint reviews will be conducted by the development team to identify and promptly address any quality issues.
-*The development team will follow a defined configuration management process to ensure consistent development, testing, and deployment of the system.
-
-'''Compliance Demonstration:'''
-
-*The Ticketing Service System will be tested and evaluated against the established quality requirements and standards before being deployed to the client.
-*The development team will maintain comprehensive documentation of all testing and quality assurance activities, which will be made available to the client upon request.
-*The development team will conduct a formal acceptance test with the client to ensure that the system meets their requirements and expectations.
-*The development team will provide ongoing support and maintenance services to ensure that the system continues to meet the established quality standards over time.
-
-'''Continual Improvement:'''
-The development team will design a method for continual improvement by routinely gathering and analyzing client feedback, monitoring system performance, and carrying out internal audits to spot potential improvement areas. A procedure for identifying and resolving any non-conformities that may emerge throughout the project should be established by the development team. This may entail recording the non-conformity, figuring out the underlying cause, taking corrective action, and assessing how well it works. These procedures can be incorporated into the project to guarantee that the Ticketing Service System is not only adhering to set quality standards but must also be actively working to fulfill customers' changing needs.
-
-==12.4 Quality Assurance==
-The QA process for RAMS Corner: Ticketing Service System project will be integrated into the Agile and Scrum method to ensure that quality is achieved through collaborative effort and continuous improvement. The following steps will be undertaken:
-
-*'''Defining Quality Standards:''' The project team will collaborate with stakeholders to define and document the quality standards for the project in the Quality Management Plan. The quality standards will be communicated to all stakeholders.
-*'''Agile Quality Auditing:''' The project team will conduct regular quality audits with the project adviser using Agile practices such as peer reviews, test-driven development, and continuous integration to make sure that quality standards are being met and identify areas for improvement.
-*'''Quality Metrics:''' The project team will use quality metrics to track and report on the project's performance against the quality standards.
-
-To monitor the quality process, the following metrics will be used:
-
-**Agile Metrics such as Velocity, Burn-Down Charts, and Sprint Reviews 
-**Defect Density: The number of defects found per unit of measure.
-**Defect Severity: The classification of defects based on their impact on the system.
-**Test Coverage: The percentage of the system that has been tested.
-**Test Case Pass Rate: The percentage of test cases that have been passed.
-**Root Cause Analysis Effectiveness: The percentage of issues that have been resolved at the root cause level.
-
-*'''Continuous Improvement:''' The project team will use the feedback received from quality audits and quality metrics to continuously improve the product and the quality process. The project team will work with stakeholders to identify opportunities for improvement and implement changes.
-
-*'''Compliance with Industry Standards:''' The project team will ensure that the Ticketing Service System adheres to relevant industry standards such as accessibility standards, security standards, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
-
-*'''Reviewing Customer Feedback:''' The project team will regularly review customer feedback to identify any issues or areas for improvement. This feedback will be used to inform the continuous improvement process and ensure that the product meets customer needs and expectations.
-
-The quality assurance metrics will be closely monitored, tracked, and reported on a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and implement improvements. The goal is to ensure that the Ticketing Service System meets the highest quality standards, and that all quality assurance metrics are closely monitored to ensure the project's success.
-
-==12.5 Quality Control==
-In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Ticketing Service System project will involve the following steps:
-
-*'''Continuous testing and feedback:''' The project team will perform continuous testing to identify defects and ensure that the product is meeting customer requirements. The testing will be automated wherever possible, and the results will be tracked in a continuous integration/continuous delivery (CI/CD) system.
-
-*'''User Acceptance Testing (UAT):''' A representative group of end users will test the system to ensure it satisfies their needs and expectations. The UAT will be performed at the end of each sprint, and any necessary modifications will be made based on feedback from the users.
-
-*'''Compatibility Testing:''' The Ticketing Service System will be tested on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any difficulties that may arise when the system is used in various settings.
-
-The following quality metrics will be used to monitor and assess the system's performance:
-
-**Defect Density: The number of defects found per unit of measure (e.g., per KLOC) 
-**Defect Severity: The classification of defects based on their impact on the system.
-**Test Coverage: The percentage of the system that has been tested.
-**Test Case Pass Rate: The percentage of test cases that have been passed.
-**User Satisfaction: Measured through surveys and feedback from users.
-**Response Time: The time taken for the system to respond to user requests.
-**System Uptime: The percentage of time the system is available and functioning as expected.
-
-*'''Tracking and Documenting Quality Evaluations:''' The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.
-*'''Continuous Improvement:''' The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.
-
-In conclusion, the Quality Control process for RAMS Corner: Ticketing Service System project will be an integral part of the development process, with a focus on continuous testing, user feedback, and performance monitoring. The project team will continuously monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the required quality standards and customer requirements.
-
-==12.6 Quality Control Measurements==
-The Agile and Scrum techniques will be employed to promote continuous inspection and modification throughout the project lifecycle for the project, which will adopt a transparent and collaborative approach to quality control.
-
-To guarantee that the product fulfills the standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table.
-
-The following details will be on the platform:
-*Measurement date
-*Measurement type (e.g., automated testing, code review, peer review, user story acceptance)
-*The measurement's findings (such as passed/failed, the number of flaws discovered, and the percentage of code coverage)
-*Requirements and standards for comparison
-*Member of the team in charge of measuring
-*Team member responsible for assessing the measurement results
-*Taking any required corrective actions
-*The date that the remedial measures were finished
-*Team member in charge of carrying out corrective measures
-
-To track quality control measurements in real-time, the team, Nacor Industries, will utilize software applications such as Microsoft Teams, GitHub, and OpenProject as collaborative platforms. These tools will enable all team members to easily access and comprehend the data related to quality control. Using these, the team would be able to monitor each update that would be made within the span of the project. The dashboards provided by these tools will highlight patterns and areas of concern, allowing the team to promptly identify issues and take appropriate actions. This proactive approach will facilitate quick adjustments and ensure that the necessary measures are implemented to maintain and improve the project's quality standards.
-
-During regular team reviews, such as sprint reviews and retrospectives, the quality control metrics will be thoroughly assessed and reviewed. If necessary, adjustments will be made to the methodology to ensure its effectiveness. The team will collaborate to identify areas for improvement and actively implement solutions for any identified issues. This iterative process will enable the team to continuously enhance the quality control methods and ensure the project's overall success.
-
-To summarize, the RAMS Corner: Ticketing Service System project will employ Agile and Scrum methodologies to establish a collaborative and adaptable quality control strategy. The team will consistently evaluate the product's quality and make necessary enhancements to meet the established standards and requirements. All quality control measurements will be collected and monitored in real-time on a shared platform. The team will work together to address any issues that arise and implement improvements as needed.
-
-=13. Risk Management Plan=
-
-==13.1 Introduction==
-
-RAMS Corner Ticketing System aims to modernize and introduce a more efficient and manageable workflow for the Information Technology Resource Office of Asia Pacific College by replacing their current email-based reporting system into a more organized ticketing system that addresses all inquiries or incidents that needs the ITRO expertise.
-
-By following a hybrid model of project lifecycle, this risk management plan will follow specific steps that will be consolidated upon sprints. This includes identifying potential risks, developing quick risk response techniques, controlling, and monitoring the potential risks, that will help the entirety of project to adhere to the allotted time and budget, as well as to mitigate the risk whilst continuing to provide the solution aimed by the project.
-
-This risk management plan will include the risk assessment, risk response, risk control, risk monitoring, while having all these details further reviewed and revised based on the recent technology advancements and how they will affect the execution of the application that will enable us to mitigate, or minimize  the risk involved in a ticketing system.
-
-==13.2 Risk Management Approach==
-
-This risk management plan will follow these steps:
-* '''Risk Identification''' – this is a crucial step to be able to analyze the potential risks that will affect the deployment of RAMs Corner Ticketing System greatly. This can include technical problems, Staff problems, customer management problems, or the security problems.
-* '''Risk Assessment''' – during this step, the prioritization of risk-handling will occur. After identifying the risk, they will be analyzed to see which is most likely to occur. In this sense, the focus of the allotted time and budget can be given to a risk with higher potential. 
-* '''Risk Analysis''' – after having put the risks in hierarchy, analysis of the possible root causes for these potential risks will undergo this process. This will help in assessing the possible impacts of certain risk factors and update the existing control measures or create a new plan.
-* '''Risk Treatment''' – once the risks are analyzed one-by-one, an appropriate contingency plan will be created based on the risk factors.
-* '''Risk Monitoring and Review''' – it is important to keep the risk under control, so the monitoring and review will help in further improving the risk mitigation strategies or the contingency plan based on the different circumstances 
-* '''Communication with the Team and the Stakeholders''' – regular reporting of progress in risk mitigation will be held so that each and every one of the team members as well as the stakeholders will be informed of what is going on within the system, and what to expect upon the existing risk mitigation procedures.  
-* '''Documentation''' – lastly is to document all the risk mitigation processes that the project has undergone. It is important to have historical data as a reference if the risk management plan adhered to the rules set to the project.
-
-By following these steps, this will ensure that the RAMs Corner will run smoothly and efficiently, with less-to-no potential risk, and produce a satisfactory result for customer service  that is one of the aims of the project.
-
-==13.3 Risk Identification==
-
-Top three Risk in RAMs Corner Ticketing Service System
-After identifying the risk, they are categorized intro three major types, these are: 
-
-1. '''Vulnerabilities in System Security''' – as a ticketing system, this application will typically handle sensitive information of its customers such as their personal details. A weak authentication system may not be able to withstand data breaches, that will probably cause not only operational losses for the ITRO, but also reputational damage with its clients.
-
-2. '''System Failure''' – since a ticketing system acts mainly as a customer support channel, it is very crucial for the RAMs Corner service to be up all the time, especially if it is within school hours. In the instances where the system is down, maybe due to some technical problems or external problems, the inability to cater to the client’s tickets will have a negative impact on the ITRO services as a whole.
-
-3. '''Performance Issue''' – this is both true for the hardware and peopleware. A  ticketing system is expected to handle a large volume of tickets, maybe not every day, but to a certain point in time. In that instance, it is possible to have performance issues both with the hardware that is being used (be it crashes, slow response time, etc.), and peopleware issues such as taking a long time resolving one ticket. If the ticketing system and its staff were not able to handle a surge of requests and incidents from their customers, there is the operational and reputational risk for the ITRO. 
-
-To be specific, here are the possible risks that are identified for the RAMs Corner: 
-
-1. '''Security Breaches''' – personal information that are stored and is being used in a ticketing system is at risk when there is a weak security for the system.
-
-2. '''Downtime''' – system downtime can greatly reduce the trust of the client to the ITRO because they will not be able to raise their concerns timely. 
-
-3. '''Inadequate Scalability and Elasticity''' – a ticketing system is expected to handle customer support efficiently. If the system is not scalable or elastic enough that it will not be able to handle the increase or decrease in the volume of tickets received daily, the system is bound to produce customer dissatisfaction.
-
-4. '''Lack of Integration''' – since RAMs Corner will be adapted by the ITRO, it is expected to be able to integrate well with the current software and hardware equipment that is used by the ITRO, as well as the Asia Pacific College Residents being the clients. Inability to integrate means a decrease in productivity, that will therefore cause operational damage.
-
-To mitigate these aforementioned risks, the team developed a contingency plan that will allow the ITRO to address these issues in a considerable amount of time. Training before deployment is also a necessary step to familiarize the staff with how they are going to navigate the system. A regular reporting of the progress in risk mitigation will also be held in one-week sprints so that the system can remain up to date to the growing risk potentials and the possible ways to minimize it. 
-
-==13.4 Risk Qualification and Prioritization ==
-After Identifying the risk for the ITRO Ticketing Service System, we are able to categorize them based on how likely these risks will occur, and how much are its impact both on the ITRO and their client. We have come-up with an impact-probability matrix that can help in prioritizing which type of risk needs a focused mitigation strategy.
-
-In the matrix, the probability of risk occurring, and its impact is described as below:
-*Extreme: these are the risks that pose highest level with highly likely to occur and has catastrophic impacts for the ITRO.
-*High: these are the risks that pose substantial risk that can lead to disastrous outcomes.
-*Medium: these are the risks that has a moderate likelihood of occurrence and can result to negative impacts within the ITRO
-*Low: these are the risks that has a lower likelihood of occurrence, but there is still noticeable impact to the ITRO
-*Negligible: these are the risks that are not likely to occur and have insignificant impact on the ITRO if it were to happen.
-
-The table below depicts the matrix of impact-probability of the risk identified:
-
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/0647cf12b40e9ae740917112d1442a44750c97aa/risk%20assessment.png" alt="Image description" style="display:block; margin:0 auto;">
-
-The identified risks are prioritized as follows: 
-
-1. '''Lack of Integration''' – Medium probability with significant impact
-
-2. '''Downtime''' – medium probability with disastrous impact
-
-3. '''Inadequate Scalability and Elasticity''' – medium probability with disastrous impact
-
-4. '''Security Breaches''' – medium probability with disastrous impact
-
-After the assessment, we will focus on developing solutions for the risks that are considered in extreme and high priority. The risks on the low to medium priority will be constantly monitored as well, and there are no negligible risks since we firmly believe that all risks must be considered and should have a minimum possible solution whenever they occur.
-
-This risk assessment is subject to revisions after reviews and monitoring. This process will happen during sprint meetings so that all the team members and the stakeholders are up to date with the current risk management plan should there be any changes to be made.
-
-==13.5 Risk Monitoring==
-
-Risk monitoring is a very important step in risk management of the RAMs Corner. It will allow the team, as well as the stakeholders, to be involved in the ongoing risk management process that could impact the achievement of the long-term goals of the project. This is also to ensure that the identified and assessed risks are being reviewed and monitored thoroughly so that the ITRO can make informed decisions to make timely actions in preventing or minimizing a risk potential. 
-
-In this step, the project manager and the development team will be the overseer for the risk management. They will be the one responsible for overseeing the ongoing risk mitigation process, continuously monitoring the system logs, security alerts, and performance metrics. They will also provide the team with reviews for user feedback, support ticket, bug reports, and implement Key Performance Indicators to measure how effective is the current risk mitigation. 
-
-They are expected to report on the status of ongoing risk management regularly in every sprint meeting. After the assessment from the report, the team will then collaborate for further reviews if there are risk mitigation plans that should be changed, should be added, or should be maintained.
-
-To sum it all up, having an effective risk monitoring that incorporates the agile methodology, the ITRO can have an early risk detection, which will lead onto improved decision-making when dealing with potential risks, that can also therefore improve the operational efficiency of the system in servicing its clients, and continuous improvement of the system as a whole.
-
-
-==13.6 Risk Mitigation==
-
-As mentioned in the previous risk management plan sections, the risk mitigation will be based upon the identified risk and their prioritization as described in the hierarchy from the risk assessment. The risks labeled as Extreme will be given the highest priority when allocating resources, down until the risks labeled Low. This step will allow the  team to have an overview of the suitable mitigation plan per assessed risks while continuing to improve, monitor, and review the overall health of the system.
-
-The following are the available mitigation plan that is ongoing or to be implemented: 
-*'''Contingency Plan''' – It is important to develop contingency plans that outline the steps that should be taken should there be any security mishaps or some kind of operational disturbance within the system. To make sure that there is an effective contingency plan, the project manager will supervise all of the development and execution phase of the project. 
-*'''Regular Assessments and Audits''' – It is also absolutely crucial that there is a periodic review of the current plans. This will be attained by applying the Hybrid(Waterfall-Agile) Methodology, wherein the team must follow the specific steps in risk management while also submitting reports regarding monitoring and reviewing of currently implemented actions every sprint meeting.
-*'''Implement robust access controls''' – while the users are already defined for the RAMs Corner, it is still imperative to have a definite access control to ensure that there would be no unauthorized access to the ticketing system. This will include user authentication, requiring using strong passwords, role-based access controls, and periodic access reviews by the assigned ITRO Staff.
-*'''System Backups''' – consistency in backing up the RAMs Corner data must be implemented to ensure that there will be no information and data loss in an event of system failure, data corruption, and some unforeseen circumstances should occur. Reviewing the restoration process and verifying integrity of the back-up data must also be included in the regular assessments.
-*'''Employee Training''' – provide a detailed training plan for the employees regarding the use and management of the RAMs Corner Ticketing Service System so that the staffs are educated on the proper handling of tickets, as well as providing them the details for the risk mitigation should there be any threats occur within the system or when using the system.
-*'''Regular Communication''' – while all other technical aspects are important, communication within the team is also important to ensure that every stakeholder is informed regarding the ongoing plans, especially when tackling about the risk that the system is facing. This is to make sure that no resources are lost while still maintaining the efficacy of the system.
-*'''Change Management Plan''' – there must be a distinct change management plan for when there are any changes that need to be made to the system. It is important to document and gain the approval of every stakeholder when applying changes within the project. This will allow the team to handle potential risks without creating any ambivalence within the project stakeholders’ ideas.
-
-==13.7 Risk Register==
-In the risk register section, the risk management plan that will be intended for the top categories of identified risks will be constantly revised throughout the project. This will include all necessary details such as the probability of these risks occurring, their impacts, and the mitigation and avoidance procedures.
-
-The risk registry will be available for viewing for all the stakeholders to make sure that there is transparency when it comes to risk management. This file will be kept in a shared location where all the stakeholders can access it. 
-
-The aim for this risk register is to allow the stakeholders, especially the team, to have an overview of the history of risk management planning for comparison and improvement basis, as well as the ongoing measures taken for risk mitigation. In this way, the RAMs Corner project team will be able to manage the potential risks in a timely and efficient manner. 
-
-The following are the list of elements in the Risk Register
-*'''Risk ID''' – each risk identified will have their own unique identifier
-*'''Risk Description''' – brief and concise description of the identified risk
-*'''Risk Category''' – classify the type of risk as Vulnerability in Security, System Failure, and Performance Issues
-*'''Risk Owner''' – project team member that is responsible for monitoring and reviewing current potential risks
-*'''Probability''' – probability of risk occurrence scaling from 1 – 4, 1 indicating Very Low Probability and 5 indicating High probability
-*'''Impact''' – impact of the potential risk scaling from 1-5, 1 having Insignificant impact, and 5 having the Catastrophic impact
-*'''Risk Score''' – product of probability and impact score
-*'''Mitigation Procedure''' – specific measures intended for the listed potential risk
-*'''Status''' – historical status of the risk. It can be Open, Ongoing, or Closed.
-*'''Target Resolution Date''' – date for the resolution of the listed risk.
-
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/risk-register.png" alt="Image description" style="display:center; margin:0 auto;">
-
-=14. Communication Management Plan=
-==14.1 Introduction==
-The Communication Management Plan (CMP) is an essential tool for ensuring that the Rams Corner Ticketing Service System project is successful. It provides a framework for effective communication between the project team and stakeholders, which is essential for ensuring that the project stays on track and meets its objectives.
-
+==8.7 Communications Management Plan==
+===8.7.1. Introduction===
+The Communication Management Plan (CMP) is an essential tool for ensuring that the RAMS Corner: ITRO Ticketing Service System project is successful. It provides a framework for effective communication between the project team and stakeholders, which is essential for ensuring that the project stays on track and meets its objectives.
 Here are some additional details about the CMP:
 
 1.The type of information that will be communicated, such as project updates, progress reports, risks, and issues.
 
-2.The plan outlines the ways we will communicate, such as meetings, emails, phone calls, and web portals, so that everyone stays informed on time.
+2.The plan outlines the ways we will communicate, such as meetings, emails, phone calls, and web portals, so that everyone stays informed on time. 
 
 3.The plan establishes a schedule for project communications, encompassing both formal and informal methods, to regularly update stakeholders and keep them well-informed.
 
@@ -407,195 +229,501 @@ Here are some additional details about the CMP:
 
 12.The strategy includes a process for escalating conflicts or communication problems that can come up throughout the project. By doing this, it is ensured that any communication-related problems are quickly addressed and fixed.
 
-In conclusion, the Communications Management Plan is an essential tool for ensuring that the Rams Corner Ticketing Service System project's stakeholders are fully informed, and that communication is effective and efficient.
+In conclusion, the Communications Management Plan is an essential tool for ensuring that the RAMS Corner Ticketing Service System project's stakeholders are fully informed, and that communication is effective and efficient.
 
-==14.2 Communications Management Approach==
+===8.7.2 Communications Management Approach ===
 As a Project Manager, it is crucial to have an effective communications management approach to ensure smooth project execution and minimize potential problems. Here is an overview of a comprehensive communications management approach:
 
-1.'''Clear Project Objectives:''' 
+'''1.Clear Project Objectives:'''<br>
 Make sure that all stakeholders are informed of the project's goals and expectations. In addition to facilitating efficient communication throughout the project lifetime, this clarity helps bring everyone's understanding of the project goals into alignment.
 
-2.''' Two-way Communication:''' 
+'''2.Two-way Communication:'''<br>
 By cultivating a culture where team members feel comfortable sharing their thoughts, worries, and updates on progress, you can promote open and honest communication. Give stakeholders a chance to voice their opinions and offer forums for discussion.
 
-3.''' Regular Reporting:''' 
+'''3.Regular Reporting:'''<br>
 Implement a reporting structure that gives all stakeholders regular information on the status, milestones, and hazards of the project. Based on the requirements and preferences of the stakeholders, decide on the reporting schedule and format.
 
 Project managers may encourage effective cooperation, reduce risks, deal with problems quickly, and make sure that project stakeholders are informed and involved throughout the project lifecycle by putting this communications management method into practice.
 
-==14.3 Communication Management Constraints==
-The Rams Corner Ticketing Service System's communications management constraints play a critical role in the detailed project management plan. The limitations and boundaries that may impact the project's communication processes and tactics are established with the help of these constraints. The project team can take proactive steps to address potential difficulties by being aware of and addressing these limits, enabling a smooth flow of information throughout the project.
-When implementing The Rams Corner Ticketing Service System, it is important to consider the communications management constraints mentioned. 
+===8.7.3 Communications Management Constraints ===
+The RAMS Corner's communications management constraints play a critical role in the detailed project management plan. The limitations and boundaries that may impact the project's communication processes and tactics are established with the help of these constraints. The project team can take proactive steps to address potential difficulties by being aware of and addressing these limits, enabling a smooth flow of information throughout the project.
+When implementing the RAMS Corner, it is important to consider the communications management constraints mentioned. 
 
-1.'''Time Constraints:'''
-Time-sensitive deliverables and deadlines are a common feature of projects, which can make communication difficult. The whole flow of communication may be impacted by the limited time available for meetings, decision-making, and delivering feedback.
+'''1.Time Constraints:'''<br>
+Time-sensitive deliverables and deadlines are a common feature of projects, which can make communication difficult. The whole flow of communication may be compromised by the limited time available for meetings, decision-making, and delivering feedback.
 
-2.'''Language barriers:'''
+'''2.Language Barriers:'''<br>
 If team members or stakeholders communicate in different languages, there might arise a necessity for translation services or supplementary resources to enable effective communication.
 
-3.'''Technology limitations:''' 
+'''3.Technology Limitations: '''<br>
 The sorts of communication that can be employed and the population that can be reached may be constrained by the accessibility and capabilities of communication technology. It could be challenging to organize live videoconferences, for instance, if a project team is dispersed across several time zones.
 
-4.'''Technical difficulties:'''
+'''4.Technical Difficulties: '''<br>
 Problems with network connections, power interruptions, hardware failures can disrupt communication channels, leading to delays or interruptions in transmitting information. This can hinder real-time communication and affect the overall efficiency of communication management.
 
 
-==14.4 Stakeholder Communication Requirements==
-
-The Stakeholder Communication Requirements play a vital role in the Rams Corner Ticketing Service System by defining the unique communication needs of stakeholders and the project team. By understanding and addressing the communication requirements of various stakeholders, project teams can ensure that project information is disseminated efficiently, and that stakeholder interests and expectations are properly managed. 
+===8.7.4. Stakeholder Communication Requirements===
+The Stakeholder Communication Requirements play a vital role in the RAMS Corner: ITRO Ticketing Service System by defining the unique communication needs of stakeholders and the project team. By understanding and addressing the communication requirements of various stakeholders, project teams can ensure that project information is disseminated efficiently, and that stakeholder interests and expectations are properly managed. 
 
 Here are some steps to develop a stakeholder communication management plan:
 
-1.'''Communication Channels:'''
+'''1.Communication Channels:'''<br>
 The team should identify the most suitable communication channels and methods for reaching each stakeholder group. This can be achieved by considering a combination of communication tools such as email, meetings, newsletters, website updates, social media, and dedicated customer support lines.
 
-2.'''Transparency:'''
+'''2.Transparency:'''<br>
 Establishing transparent and open communication builds trust and credibility among stakeholders as it involves sharing information regarding the project's progress, goals, objectives, and expected outcomes.
 
-3.'''Feedback mechanisms:'''
+'''3.Feedback Mechanisms:'''<br>
 Establish channels for stakeholders to provide feedback, ask questions, or raise concerns. This can be in the form of dedicated feedback sessions, surveys, email addresses, or designated contact persons. Ensure that stakeholders have a means to express their opinions and that their feedback is actively solicited and acknowledged.
 
-4.'''Document and archive:'''
+
+'''4.Document and Archive:'''<br>
 The plan should be a living document that is regularly updated to reflect any changes in stakeholders, objectives, or communication requirements. Share the plan with the project team and stakeholders to ensure alignment and understanding.
 
-==14.5 Roles==
-
-1.'''Stakeholders'''
+===8.7.5. Roles ===
+'''1.	Stakeholders'''<br>
 Stakeholders have the responsibility to contribute their input regarding the project's scope, including requirements and expectations. Additionally, they are accountable for accepting the project deliverables as outlined within the project's scope. Maintaining regular communication between the Project Manager and stakeholders is crucial to ensure ongoing alignment of the project with their needs and expectations.
 
-2.'''Project Manager'''
+'''2.	Project Manager'''<br>
 The role of a project manager is essential in effectively planning, executing, and delivering projects. Project managers are responsible for overseeing the entire project lifecycle and coordinating various aspects to achieve project objectives.
 
-3.'''Scrum Master'''
+'''3.	Scrum Master'''<br>
 The Scrum Master facilitates the Scrum process by organizing and leading various Scrum events, such as daily stand-up meetings, sprint planning sessions, sprint reviews, and sprint retrospectives. They ensure that these events are conducted efficiently and that all team members actively participate.
 
-4.'''Scrum Members'''
+'''4.	Scrum Members'''<br>
 The Scrum Team is responsible for delivering value incrementally and iteratively, working in short timeframes called sprints. The team collectively decides how to accomplish the work, collaborates closely, and shares accountability for the success of the project. The roles within the Scrum Team are complementary, with each role bringing its unique focus and expertise to achieve the project's goals and deliver a high-quality product.
 
-5.'''Documentation Team'''
-The Documentation Team has the crucial task of supervising the project documentation to ensure its thoroughness and accuracy. They work closely with the Project Manager and the team to ensure that all project documentation aligns smoothly with the project's scope.
+'''5.	Documentation Team'''<br>
+The Documentation Team  has the crucial task of supervising the project documentation to ensure its thoroughness and accuracy. They work closely with the Project Manager and the team to ensure that all project documentation aligns smoothly with the project's scope.
 
-==14.6 Project Team Directory==
-The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
+===8.7.6. Project Team Directory===
+<table border="1" width="70%" align="center">
+<tr>
+<td bgcolor="lightblue"><p style="text-align:center;">Role</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">Name</p></td>
+<td bgcolor="lightblue"><p style="text-align:center;">Email</p></td>
+</tr>
+<tr>
+<td><p style="text-align:center;">Stakeholder</p></td>
+<td><p style="text-align:center;">Jose F. Castillo</p></td>
+<td><p style="text-align:center;">jojoc@apc.edu.ph</p></td>
+</tr>
+<tr>
+<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Allan Vincent Nefalar</p></td>
+<td><p style="text-align:center;">aonefalar2@student.apc.edu.ph</p></td>
+</tr>
+<tr>
+<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">Ruth Morallos</p></td>
+<td><p style="text-align:center;">rrmorallos@student.apc.edu.ph</p></td>
+</tr>
+<tr>
+<td><p style="text-align:center;">Scrum Members</p></td>
+<td><p style="text-align:center;">Kieyl Ponce
+<br>
+Patrick Cortez
+<br>
+Vincent Nacor
+<br>
+Bryan Geneta
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/main/wikihub%20photos/ptd.png" alt="Image description" style="display:block; margin:0 auto;">
+</p></td>
+<td><p style="text-align:center;">kdponce@student.apc.edu.ph <br>
 
+pacortez@student.apc.edu.ph
+<br>
+vanacor@student.apc.edu.ph
+<br>
+bmgeneta@student.apc.edu.ph
 
-==14.7 Communications Methods and Technologies==
-A comprehensive grasp of diverse communication methods and technologies is essential for the successful implementation of the Rams Corner Ticketing Service System, enabling effective communication with all stakeholders. It is crucial to consider the capabilities and limitations of each communication method and technology to ensure the timely and efficient dissemination of information. This involves selecting suitable methods for delivering project updates, progress reports, risks, issues, and other pertinent information to stakeholders.
+</p></td>
+</tr>
+</table>
+''Table 9: Project Team Directory''
 
-When evaluating the most suitable communication methods and technologies for the Rams Corner Ticketing Service System, the following factors should be taken into consideration:
+===8.7.7. Communication Methods and Technologies===
+A comprehensive grasp of diverse communication methods and technologies is essential for the successful implementation of the RAMS Corner Ticketing Service System, enabling effective communication with all stakeholders. It is crucial to consider the capabilities and limitations of each communication method and technology to ensure the timely and efficient dissemination of information. This involves selecting suitable methods for delivering project updates, progress reports, risks, issues, and other pertinent information to stakeholders.
 
-1. '''Cost and Resources'''
+When evaluating the most suitable communication methods and technologies for the RAMS Corner: ITRO Ticketing Service System, the following factors should be taken into consideration:
+
+'''1.	Cost and Resources'''<br>
 Assess the cost implications and resource requirements associated with the chosen communication methods and technologies. Consider factors such as equipment, software licenses, maintenance, and training needed for effective implementation.
 
-2. '''Time Sensitivity:'''
+'''2.	Time Sensitivity:'''<br>
 Consider the urgency and time sensitivity of the information being shared. If real-time communication is crucial, options like instant messaging, video conferencing, or collaborative platforms may be more suitable. For less time-sensitive communication, email or project documentation systems may suffice.
 
-3. '''Accessibility and Availability:'''
+'''3.	Accessibility and Availability:'''<br>
 Consider the accessibility and availability of the chosen communication methods and technologies for all stakeholders. Ensure that everyone has the necessary tools and resources to participate in the communication process effectively.
 
-4. '''Complexity of Information:'''
+'''4.	Complexity of Information:'''<br>
 Evaluate the complexity of the information that needs to be communicated. Some concepts may require visual aids, diagrams, or presentations to ensure clarity and understanding. Assess whether the chosen communication methods and technologies can support such visual elements.
 
-Based on these considerations, it is advisable for the Rams Corner Ticketing Service System to employ a blend of communication methods and technologies, which may include:
 
-5. '''Meetings:'''
+Based on these considerations, it is advisable for the RAMS Corner to employ a blend of communication methods and technologies, which may include:
+
+'''5.Meetings:'''<br>
 Face-to-face meetings, either in person or through video conferencing, are an effective way to facilitate communication among project team members. Meetings can be used for project kick-offs, progress updates, issue resolution, and decision-making.
 
-6. '''Video Conferencing:'''
+'''6.Video Conferencing:'''<br>
 Video conferencing tools like Zoom, WebEx, or Microsoft Teams enable remote team members to have virtual face-to-face meetings, discussions, and presentations. Video conferencing helps maintain a personal connection and can be particularly useful for distributed or global teams.
 
-7. '''Email:'''
+'''7.Email:'''<br>
 Email is accessible to most stakeholders, as it is a common method of communication in professional settings. It can be accessed from various devices, including computers, smartphones, and tablets.
 
-8. '''Telephone:'''
+'''8.Telephone:'''<br>
 Utilize telephone calls for direct and prompt communication, especially when engaging with stakeholders in proximity or within the same geographical area.
 
-Effective communication with all stakeholders is vital for the successful implementation of the Rams Corner Ticketing Service System. By considering factors such as cost, time sensitivity, accessibility, and complexity of information, a combination of communication methods and technologies can be utilized, including meetings, video conferencing, email, and telephone calls. This ensures efficient and seamless communication, fostering collaboration and project success.
+Effective communication with all stakeholders is vital for the successful implementation of the RAMS Corner Ticketing Service System. By considering factors such as cost, time sensitivity, accessibility, and complexity of information, a combination of communication methods and technologies can be utilized, including meetings, video conferencing, email, and telephone calls. This ensures efficient and seamless communication, fostering collaboration and project success.
 
-==14.8 Communications Matrix==
+===8.7.8. Communications Matrix===
 The following table identifies the communications requirements for this project.
 
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2d378d6f4e631a0dc3bdea5eb27cbb4f0796fcf2/wikihub%20photos/Communications%20Management%20Plan.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+''Table 10: Communications Matrix''
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/107228fa04bad621f83ae761b20ba6697edf4200/wikihub%20photos/Communications%20Management%20Plan.png" alt="Image description" style="display:block; margin:0 auto;">
+===8.7.9. Communication Flowchart===
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/2d378d6f4e631a0dc3bdea5eb27cbb4f0796fcf2/wikihub%20photos/Communication%20Flowchart.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+''Figure 16: Communication Flowchart''
 
+===8.7.10. Guidelines for Meetings===
 
-==14.9 Communication Flowchart==
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/6da8cbb25b1d11d9903b83795c4e48481e840c3a/wikihub%20photos/Communication%20Flowchart.png" alt="Image description" style="display:block; margin:0 auto;">
-
-Flowcharts provide a visual representation of a process or processes which often allow a better understanding of how the process is intended to work.  Project communications may be extremely complex depending on the size and scope of the project and the number of stakeholders.  A flowchart provides all stakeholders with a better understanding of the steps involved with the distribution of all project communications. 
-
-==14.10 Guidelines for Meetings==
-
-Here are some general guidelines to help you conduct effective and productive meetings for the implementation of the Rams Corner Ticketing Service System:
-
-1. '''Objectives'''
+Here are some general guidelines to help conduct effective and productive meetings for the implementation of the RAMS Corner:
+'''1.Objectives'''<br>
 Determine the specific objectives of each meeting within the context of the project. Is it to provide updates, make decisions, gather feedback, or solve problems? Clearly define the purpose to ensure focused discussions.
 
-2. '''Agenda'''
+'''2.Agenda'''<br>
 It is essential to have a pre-meeting discussion to establish the meeting agenda, including its purpose, discussion topics, and desired outcomes. This enables team members to adequately prepare for the meeting and ensures productive and focused discussions.
 
-3. '''Attendance'''
+'''3.Attendance'''<br>
 Only invite individuals who are essential to achieving the meeting's objectives. Keeping the number of participants reasonable ensures a more focused and efficient discussion.
 
-4. '''Discussion'''
+'''4.Discussion'''<br>
 Ensure that discussions are focused and productive. Keep the conversation on topic and prevent it from devolving into unrelated or lengthy tangents. Use techniques like round-robin style or go-around to ensure everyone has an opportunity to contribute.
-
-5. '''Time'''
+'''5.Time'''<br>
 Determine the duration of the meeting and stick to it. Time management is crucial for maintaining participants' engagement and ensuring that discussions do not go off track. Begin the meeting promptly as scheduled, even if some participants are still joining. This encourages punctuality and demonstrates respect for everyone's time.
 
-==14.11 Communication Standards==
+===8.7.11. Communication Standards===
 Creating well-defined guidelines and protocols is crucial for facilitating effective and efficient communication within a team and among stakeholders. It is important to foster open channels of communication, allowing team members to freely express their thoughts and ideas. Encouraging active participation and providing opportunities for input from all team members can lead to more collaborative and innovative outcomes. Additionally, it is essential to ensure that the established communication standards are consistently adhered to throughout the entire web application development process. By maintaining clear guidelines and protocols, teams can minimize miscommunication, streamline workflows, and promote successful project outcomes.
 
 Here are some common communication standards that can be established to promote effective communication within a team during web application development:
 
-1. '''Responsive Communication:'''
+'''1.Responsive Communication: '''<br>
 Encourage team members to respond promptly to messages and requests, ensuring that communication is timely and avoids unnecessary delays.
 
-2. '''Regular Project Updates:'''
+'''2.Regular Project Updates:'''<br>
 Set expectations for regular project updates, such as status reports or progress meetings, to keep all stakeholders informed about the project's progress, milestones, and any potential challenges.
 
-3. '''Active Listening:'''
+'''3.Active Listening:'''<br>
 Promote active listening skills among team members, encouraging them to attentively listen to others, ask questions for clarification, and paraphrase to ensure understanding.
 
-4. '''Collaboration:'''
+'''4.Collaboration:'''<br>
 Encourage collaborative communication practices, such as sharing ideas, soliciting input from team members, and fostering a supportive environment that values teamwork.
 
-5. '''Documentation:'''
+'''5.Documentation:'''<br>
 Emphasize the importance of documenting key decisions, discussions, and actions taken during the project. This ensures transparency, facilitates knowledge sharing, and serves as a reference for future communication.
 
-6. '''Feedback:'''
+'''6.Feedback:'''<br>
 Encourage regular feedback and provide opportunities for team members to share their thoughts and suggestions on improving communication processes. Foster a culture of continuous improvement to enhance communication practices over time.
 
 Remember that these standards can be tailored to fit the specific needs and dynamics for the development team.
 
-==14.12 Communication Escalation Process==
-When establishing a communication escalation process for the Rams Corner Ticketing Service System, it's important to have a clear and documented procedure that outlines the steps and guidelines for escalating issues when resolution cannot be achieved within the project team. Here is a general framework for a communication escalation process:
+===6.7.12. Communication Escalation Process===
+When establishing a communication escalation process for the RAMS Corner Ticketing Service System, it's important to have a clear and documented procedure that outlines the steps and guidelines for escalating issues when resolution cannot be achieved within the project team. Here is a general framework for a communication escalation process:
 
-1. '''Identify the Issue:'''
+'''1.Identify the Issue:'''<br>
 The first step is to clearly identify the issue or complication that has arisen in project communications. This could be a breakdown in communication, unresolved conflicts, stakeholder disagreements, or any other communication-related problem.
 
-2. '''Review Documentation:'''
+'''2.Review Documentation:'''<br>
 Collect all relevant documentation, communication records, and any other evidence related to the issue. This will provide a clear understanding of the problem and help in the escalation process.
 
-3. '''Define Communication Channels:'''
+'''3.Define Communication Channels:'''<br>
 The development team must determine and establish the main methods of communication to be utilized for their project, such as email, project management software, or specific communication tools. It is essential for every team member to be knowledgeable about and could utilize these communication channels.
 
-4. '''Escalation Criteria:'''
+'''4.Escalation Criteria: '''<br>
 Define specific criteria that determine when an issue should be escalated. For example, if the issue has been ongoing for a certain period, or if it involves key stakeholders and significantly impacts project progress or objectives.
 
-5. '''Identify Escalation Points:'''
+'''5.Identify Escalation Points: '''<br>
 Determine who should be involved in the escalation process. This may include project managers, senior management, or specific stakeholders depending on the nature of the issue. Clearly identify the roles and responsibilities of each escalation point.
 
+==8.8 Quality Management Plan==
+===8.8.1. Introduction===
+In order to maintain quality throughout the project the team, Nacor Industries opted to follow the hybrid Scrum-Fall methodology. This Quality Management Plan will define the quality standards that will be used to evaluate the RAMS Corner: ITRO Ticketing Service System. Furthermore, the plan provides a framework for resolving quality concerns and specifying the roles and duties of team members in addition to outlining quality principles and procedures from the development, through the deployment of RAMS Corner: ITRO Ticketing Service System, with the following goals in mind:
 
-=15. PROCUREMENT MANAGEMENT PLAN=
-==15.1 Introduction ==
+*Make sure the project satisfies or exceeds the expectations of the client and 
+stakeholders, (APC-ITRO and their clientele)
+
+*List the criteria for quality that will be used to assess the project.
+
+*In order to meet the required standards of quality, it is important to define the 
+specific roles and responsibilities of each team member.
+
+*Identify and resolve any possible quality issues that may arise.
+
+*Create a framework to effectively oversee and maintain project quality throughout
+its duration.
+
+RAMS Corner: Ticketing Service System RAMS Corner: Ticketing Service System will be a completely functional web-based application to be used by the ITRO in lieu of their aging email-based system as the Quality Management Plan will contain both the product and process quality standards. The strategy will include detailed procedures to be followed as well as tools and methods to manage and document industry-standard quality which includes the following tools:
+
+*Definition of Done: A concise and clear description of the conditions that determine the completion of a product increment.
+
+*Acceptance Criteria: Specific requirements that a product increment must meet in order to receive approval from the product owner.
+
+*Continuous Integration: A method used to frequently merge code updates into a shared repository to ensure that the final product is consistently ready for release—which would be done through GitHub.
+
+In summary, this Quality Management Plan will offer a comprehensive structure to effectively manage and sustain the quality of the project from start to finish. It guarantees that the project will meet or surpass the expectations of all parties involved. Additionally, the plan outlines specific processes, tools, and roles and responsibilities for identifying and resolving any potential quality concerns. It is essential for all stakeholders to be acquainted with this plan and understand their contributions towards its successful implementation.
+
+===6.8.2. Quality Management Approach===
+
+The Quality Management Plan for the RAMS Corner: ITRO Ticketing Service System project will utilize the hybrid Scrum-Fall methodology to ensure that the project meets or exceeds all stakeholders' quality expectations. This approach would promote flexibility as they would be directly involved within each step of the way from the development, through the deployment stage as referenced in Figure 7.
+
+The following are the roles and duties for the quality management plan:
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/7067ce2faa21725eebaed7bcc743afdc4b35b429/wikihub%20photos/image_2023-06-25_212736037.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+''Table 11: Quality Management Roles and Responsibilities''
+
+Quality management will be integrated into every aspect of the project and will be handled by the entire team—each being a part of the quality management team. Nacor Industries will strive to deliver a Minimum Viable Product (MVP) and will continuously incorporate customer feedback to refine and improve the product.
+
+The approach will include the following steps:
+
+'''1.Establishing Quality Standards:''' The project team will define precise quality standards aligned with Agile and Scrum methodologies, emphasizing the delivery of value to the customer.
+
+'''2.Quality Planning:''' Working closely with stakeholders, the team will identify project requirements and prioritize essential features. They will create a Product Backlog and set quality objectives to ensure that each product iteration provides value and meets the defined quality standards.
+
+'''3.Quality Control:''' Throughout the sprint, the team will implement quality control measures to ensure compliance with established requirements and quality goals. This will involve conducting testing and reviews during each sprint to identify and address any defects or issues.
+
+'''4.Continuous Improvement:''' The team will continuously monitor and evaluate the project's performance and adjust as necessary. This will involve collecting and analyzing feedback from stakeholders, identifying areas for improvement, and implementing changes to improve the project's overall quality.
+
+'''5.Communication:''' The team will maintain constant communication with stakeholders to ensure that they are aware of the product's quality status and can provide feedback as needed.
+
+Throughout the span of this project, the team will incorporate Agile and Scrum practices, including user stories, sprints, and retrospectives, to ensure that quality is built-in throughout the project's lifecycle and meets the organization's quality standards and the needs of the project stakeholders. In addition, a risk management plan will be developed to proactively identify and mitigate potential quality risks throughout the project's lifecycle.
+
+Overall, the Quality Management Approach for the RAMS Corner: ITRO Ticketing Service System project will prioritize delivering a high-quality product that meets customer requirements through an Agile and Scrum method. The approach will be flexible and continuously refined to ensure that the project meets or exceeds all quality expectations.
+
+===8.8.3. Quality Requirements / Standards===
+The RAMS Corner: ITRO Ticketing Service System project places a high focus on quality, and the team will cooperate to create and record quality requirements and standards. Client comments, testing, and assessments will be used to guarantee adherence to these criteria. The following requirements and standards for quality will be followed by the RAMS Corner: Ticketing Service System. 
+
+Requirements for Product Quality:
+
+*The RAMS Corner: Ticketing Service System will be fully operational and adhere to the product backlog's technical requirements.
+*The interface shall be simple to use, with prompts and instructions that are obvious to users.
+*The solution will work and be compatible with the company's current technological infrastructure.
+*The system will have a layer of data security to safeguard the customer's private information through password authorization.
+
+Requirements for Ensuring Quality of Processes:
+
+*The product owner and development team will review and approve all project deliverables prior to being provided to the client.
+*The development team will implement an ongoing process of testing and quality assurance to ensure that the system meets all technical specifications and requirements.
+*A version control tool will be used by the development team to ensure that any modifications to the system are properly documented, reviewed, and authorized.
+*Regular sprint reviews will be conducted by the development team to identify and promptly address any quality issues.
+*The development team will follow a defined configuration management process to ensure consistent development, testing, and deployment of the system.
+
+Compliance Demonstration:
+
+*The Ticketing Service System will be tested and evaluated against the established quality requirements and standards before being deployed to the client.
+*The development team will maintain comprehensive documentation of all testing and quality assurance activities, which will be made available to the client upon request.
+*The development team will conduct a formal acceptance test with the client to ensure that the system meets their requirements and expectations.
+*The development team will provide ongoing support and maintenance services to ensure that the system continues to meet the established quality standards over time.
+
+Continual Improvement:
+
+The development team will design a method for continual improvement by routinely gathering and analyzing client feedback, monitoring system performance, and carrying out internal audits to spot potential improvement areas. A procedure for identifying and resolving any non-conformities that may emerge throughout the project should be established by the development team. This may entail recording the non-conformity, figuring out the underlying cause, taking corrective action, and assessing how well it works. These procedures can be incorporated into the project to guarantee that the Ticketing Service System is not only adhering to set quality standards but must also be actively working to fulfill customers' changing needs.
+
+===8.8.4. Quality Assurance===
+The QA process for RAMS Corner: Ticketing Service System project will be integrated into the Agile and Scrum method to ensure that quality is achieved through collaborative effort and continuous improvement. The following steps will be undertaken:
+*Defining Quality Standards: The project team will collaborate with stakeholders to define and document the quality standards for the project in the Quality Management Plan. The quality standards will be communicated to all stakeholders.
+*Agile Quality Auditing: The project team will conduct regular quality audits with the project manager using Agile practices such as peer reviews, test-driven development, and continuous integration to make sure that quality standards are being met and identify areas for improvement.
+*Quality Metrics: The project team will use quality metrics to track and report on the project's performance against the quality standards.
+
+To monitor the quality process, the following metrics will be used:
+
+**Agile Metrics such as Velocity, Burn-Down Charts, and Sprint Reviews 
+**Defect Density: The number of defects found per unit of measure 
+**Defect Severity: The classification of defects based on their impact on the system.
+**Test Coverage: The percentage of the system that has been tested 
+**Test Case Pass Rate: The percentage of test cases that have been passed 
+**Root Cause Analysis Effectiveness: The percentage of issues that have been resolved at the root cause level.
+
+*Continuous Improvement: The project team will use the feedback received from quality audits and quality metrics to continuously improve the product and the quality process. The project team will work with stakeholders to identify opportunities for improvement and implement changes.
+*Compliance with Industry Standards: The project team will ensure that the Ticketing Service System adheres to relevant industry standards such as accessibility standards, security standards, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
+*Reviewing Customer Feedback: The project team will regularly review customer feedback to identify any issues or areas for improvement. This feedback will be used to inform the continuous improvement process and ensure that the product meets customer needs and expectations.
+
+The quality assurance metrics will be closely monitored, tracked, and reported on a regular basis to ensure that the project produces a high-quality outcome. Any violations of these standards will be swiftly reviewed and corrected. The project team will receive regular reports from the software application that will be utilized to gather data on these parameters. The quality assurance procedure will also be reviewed frequently to find and implement improvements. The goal is to ensure that the Ticketing Service System meets the highest quality standards, and that all quality assurance metrics are closely monitored to ensure the project's success.
+
+===8.8.5. Quality Control===
+In Agile and Scrum methodology, quality control is embedded into the development process, and the focus is on continuous testing and quality feedback. The Quality Control process for the Ticketing Service System project will involve the following steps:
+
+*Unit Testing: The project team will perform continuous testing to identify defects and ensure that the product is meeting customer requirements. The testing will be automated wherever possible, and the results will be tracked in a continuous integration/continuous delivery (CI/CD) system.
+*User Acceptance Testing (UAT): A representative group of end users will test the system to ensure it satisfies their needs and expectations. The UAT will be performed at the end of each sprint, and any necessary modifications will be made based on feedback from the users.
+*Compatibility Testing: The Ticketing Service System will be tested on multiple platforms, including mobile devices and browsers, to ensure compatibility and address any difficulties that may arise when the system is used in various settings.
+
+The following quality metrics will be used to monitor and assess the system's performance:
+
+**Defect Density: The number of defects found per unit of measure (e.g., per KLOC) o Defect Severity: The classification of defects based on their
+impact on the system.
+**Test Coverage: The percentage of the system that has been tested.
+**Test Case Pass Rate: The percentage of test cases that have been passed.
+**User Satisfaction: Measured through surveys and feedback from users.
+**Response Time: The time taken for the system to respond to user requests.
+**System Uptime: The percentage of time the system is available and functioning as expected.
+
+*Tracking and Documenting Quality Evaluations: The project team will track and document the outcomes of the Quality Control process, which will be used to monitor the project's progress and the effectiveness of any remedial actions that are taken.
+*Continuous Improvement: The Quality Control process will be reviewed frequently, seeking opportunities for improvement, and implementing them as necessary.
+
+In conclusion, the Quality Control process for RAMS Corner: ITRO Ticketing Service System project will be an integral part of the development process, with a focus on continuous testing, user feedback, and performance monitoring. The project team will continuously monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the required quality standards and customer requirements.
+
+===8.8.6. Quality Control Measurements===
+The Agile and Scrum techniques will be employed to promote continuous inspection and modification throughout the project lifecycle for the project, which will adopt a transparent and collaborative approach to quality control.
+
+To guarantee that the product fulfills the standards and criteria, quality control measures will be made at each stage of the development process and documented on a shared, viewable platform, such as a project management tool, as opposed to a static spreadsheet or table.
+
+The following details will be on the platform:
+
+*Measurement date
+*Measurement type (e.g., QA testing, source code review, peer review, user story acceptance)
+*The measurement's findings (such as passed/failed, the number of flaws discovered, and the percentage of code coverage)
+*Requirements and standards for comparison
+*Member of the team in charge of measuring
+*Team member responsible for assessing the measurement results
+*Taking any required corrective actions
+*The date that the remedial measures were finished
+*Team member in charge of carrying out corrective measures
+
+To track quality control measurements in real-time, the team, Nacor Industries, will utilize software applications such as Microsoft Teams, GitHub, and Open Project as collaborative platforms. These tools will enable all team members to easily access and comprehend the data related to quality control. Through the use of these, the team would be able to monitor each and every update that would be made within the span of the project. The dashboards provided by these tools will highlight patterns and areas of concern, allowing the team to promptly identify issues and take appropriate actions. This proactive approach will facilitate quick adjustments and ensure that the necessary measures are implemented to maintain and improve the project's quality standards.
+
+During regular team reviews, such as sprint reviews and retrospectives, the quality control metrics will be thoroughly assessed and reviewed. If necessary, adjustments will be made to the methodology to ensure its effectiveness— even though no adjustment has been made prior to deployment thus far. The team will also collaborate to identify areas for improvement and actively implement solutions for any identified issues. This iterative process will enable the team to continuously enhance the quality control methods and ensure the project's overall success.
+
+To summarize, the RAMS Corner: ITRO Ticketing Service System project will employ Agile and Scrum methodologies to establish a collaborative and adaptable quality control strategy. The team will consistently evaluate the product's quality and make necessary enhancements to meet the imposed standards and requirements set by the team and the client. All quality control measurements will be collected and monitored in real-time on a shared platform. The team will work together to address any issues that arise and implement improvements as needed.
+
+==8.9 Risk Management Plan==
+===8.9.1. Introduction===
+RAMS Corner Ticketing System aims to modernize and introduce a more efficient and manageable workflow for the Information Technology Resource Office of Asia Pacific College by replacing their current email-based reporting system into a more organized ticketing system that addresses all inquiries or incidents that needs the ITRO expertise.
+
+By following a hybrid model of project lifecycle, this risk management plan will follow specific steps that will be consolidated upon sprints. This includes identifying potential risks, developing quick risk response techniques, controlling, and monitoring the potential risks, that will help the entirety of project to adhere to the allotted time and budget, as well as to mitigate the risk whilst continuing to provide the solution aimed by the project.
+
+This risk management plan will include the risk assessment, risk response, risk control, risk monitoring, while having all these details further reviewed and revised based on the recent technology advancements and how they will affect the execution of the application that will enable the team to mitigate, or minimize  the risk involved in a ticketing system.
+
+===6.9.2. Risk Management Approach===
+This risk management plan will follow these steps:
+
+*Risk Identification – this is the first, and most crucial step to be able to analyze the potential risks that will affect the deployment of RAMS Corner Ticketing System greatly. This can include technical problems, Staff problems, customer management problems, or the security problems.
+
+*Risk Assessment – during this step, the prioritization of risk-handling will occur. After identifying the risk, they will be analyzed to see which is most likely to occur. In this sense, the focus of the allotted time and budget can be given to a risk with higher potential. 
+
+*Risk Analysis – after having put the risks in hierarchy, analysis of the possible root causes for these potential risks will undergo this process. This will help in assessing the possible impacts of certain risk factors and update the existing control measures or create a new plan.
+
+*Risk Treatment – once the risks are analyzed one-by-one, an appropriate contingency plan will be created based on the risk factors.
+
+*Risk Monitoring and Review – it is important to keep the risk under control, so the monitoring and review will help in further improving the risk mitigation strategies or the contingency plan based on the different circumstances 
+
+*Communication with the Team and the Stakeholders – regular reporting of progress in risk mitigation will be held so that each and every one of the team members as well as the stakeholders will be informed of what is going on within the system, and what to expect upon the existing risk mitigation procedures.  
+
+*Documentation – lastly is to document all the risk mitigation processes that the project has undergone. It is important to have historical data as a reference if the risk management plan adhered to the rules set to the project.
+
+By following these steps, this will ensure that the RAMS Corner will run smoothly and efficiently, with less-to-no potential risk, and produce a satisfactory result for customer service  that is one of the aims of the project.
+
+===8.9.3. Risk Identification===
+Top three Risk in RAMS Corner Ticketing Service System
+After identifying the risk, they are categorized intro three major types, these are: 
+1.Vulnerabilities in System Security – as a ticketing system, this application will typically handle sensitive information of its customers such as their personal details. A weak authentication system may not be able to withstand data breaches, that will probably cause not only operational losses for the ITRO, but also reputational damage with its clients.
+
+2.System Failure – since a ticketing system acts mainly as a customer support channel, it is very crucial for the RAMS Corner service to be up all the time, especially if it is within school hours. In the instances where the system is down, maybe due to some technical problems or external problems, the inability to cater to the client’s tickets will have a negative impact on the ITRO services as a whole.
+
+3.Performance Issue – this is both true for the hardware and peopleware. A  ticketing system is expected to handle a large volume of tickets, maybe not every day, but to a certain point in time. In that instance, it is possible to have performance issues both with the hardware that is being used (be it crashes, slow response time, etc.), and peopleware issues such as taking a long time resolving one ticket. If the ticketing system and its staff were not able to handle a surge of requests and incidents from their customers, there is the operational and reputational risk for the ITRO. 
+
+To be specific, here are the possible risks that are identified for the RAMS Corner: 
+
+1.Security Breaches – personal information that are stored and is being used in a ticketing system is at risk when there is weak security for the system. 
+
+2.Downtime – system downtime can greatly reduce the trust of the client to the ITRO because they will not be able to raise their concerns timely.
+
+3.Inadequate Scalability and Elasticity – a ticketing system is expected to handle customer support efficiently. If the system is not scalable or elastic enough that it will not be able to handle the increase or decrease in the volume of tickets received daily, the system is bound to produce customer dissatisfaction.
+
+4.Lack of Integration – since RAMS Corner will be adapted by the ITRO, it is expected to be able to integrate well with the current software and hardware equipment that is used by the ITRO, as well as the Asia Pacific College Residents being the clients. Inability to integrate means a decrease in productivity, that will therefore cause operational damage.
+
+To mitigate these aforementioned risks, the team developed a contingency plan that will allow the ITRO to address these issues in a considerable amount of time. Training before deployment is also a necessary step to familiarize the staff with how they are going to navigate the system. A regular reporting of the progress in risk mitigation will also be held in one-week sprints so that the system can remain up to date to the growing risk potentials and the possible ways to minimize it.
+
+===8.9.4. Risk Qualification and Prioritization===
+After Identifying the risk for the RAMs Corner, we are able to categorize them based on how likely these risks will occur, and how much are its impact both on the ITRO and their client. We have come up with an impact-probability matrix that can help in prioritizing which type of risk needs a focused mitigation strategy.
+
+In the matrix, the probability of risk occurring, and its impact is described as below:
+
+*Extreme: these are the risks that pose highest level with highly likely to occur and has catastrophic impacts for the ITRO.
+
+*High: these are the risks that pose substantial risk that can lead to disastrous outcomes.
+
+*Medium: these are the risks that has a moderate likelihood of occurrence and can result to negative impacts within the ITRO
+
+*Low: these are the risks that has a lower likelihood of occurrence, but there is still noticeable impact to the ITRO
+
+*Negligible: these are the risks that are not likely to occur and have insignificant impact on the ITRO if it were to happen.
+
+The table below depicts the matrix of impact-probability of the risk identified: 
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/7067ce2faa21725eebaed7bcc743afdc4b35b429/wikihub%20photos/risk%20assessment.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+''Table 12: Risk Assessment - Impact-Probability Matrix''
+
+The identified risks are prioritized as follows: 
+1.Lack of Integration – Medium probability with significant impact
+2.Downtime – medium probability with disastrous impact
+3.Inadequate Scalability and Elasticity – medium probability with disastrous impact
+4.Security Breaches – medium probability with disastrous impact
+
+After the assessment, we will focus on developing solutions for the risks that are considered in extreme and high priority. The risks on the low to medium priority will be constantly monitored as well, and there are no negligible risks since we firmly believe that all risks must be considered and should have a minimum possible solution whenever they occur.
+
+This risk assessment is subject to revisions after reviews and monitoring. This process will happen during sprint meetings so that all the team members and the stakeholders are up to date with the current risk management plan should there be any changes to be made.
+
+===8.9.5 Risk Monitoring===
+
+Risk monitoring is a very important step in risk management of the RAMs Corner. It will allow the team, as well as the stakeholders, to be involved in the ongoing risk management process that could impact the achievement of the long-term goals of the project. This is also to ensure that the identified and assessed risks are being reviewed and monitored thoroughly so that the ITRO can make informed decisions to make timely actions in preventing or minimizing a risk potential. 
+
+In this step, the project manager and the development team will be the overseer for the risk management. They will be the one responsible for overseeing the ongoing risk mitigation process, continuously monitoring the system logs, security alerts, and performance metrics. They will also provide the team with reviews for user feedback, support ticket, bug reports, and implement Key Performance Indicators to measure how effective is the current risk mitigation. 
+
+They are expected to report on the status of ongoing risk management regularly in every sprint meeting. After the assessment from the report, the team will then collaborate for further reviews if there are risk mitigation plans that should be changed, should be added, or should be maintained.
+
+To sum it all up, having an effective risk monitoring that incorporates the agile methodology, the ITRO can have an early risk detection, which will lead onto improved decision-making when dealing with potential risks, that can also therefore improve the operational efficiency of the system in servicing its clients, and continuous improvement of the system as a whole.
+
+===6.9.6. Risk Mitigation and Avoidance===
+As mentioned in the previous risk management plan sections, the risk mitigation will be based upon the identified risk and their prioritization as described in the hierarchy from the risk assessment. The risks labeled as Extreme will be given the highest priority when allocating resources, down until the risks labeled Low. This step will allow the  team to have an overview of the suitable mitigation plan per assessed risks while continuing to improve, monitor, and review the overall health of the system.
+
+The following are the available mitigation plan that is ongoing or to be implemented: 
+*Contingency Plan – It is important to develop contingency plans that outline the steps that should be taken should there be any security mishaps or some kind of operational disturbance within the system. To make sure that there is an effective contingency plan, the project manager will supervise all of the development and execution phase of the project. 
+*Regular Assessments and Audits – It is also absolutely crucial that there is a periodic review of the current plans. This will be attained by applying the Hybrid(Waterfall-Agile) Methodology, wherein the team must follow the specific steps in risk management while also submitting reports regarding monitoring and reviewing of currently implemented actions every sprint meeting.
+*Implement robust access controls – while the users are already defined for the RAMS Corner, it is still imperative to have a definite access control to ensure that there would be no unauthorized access to the ticketing system. This will include user authentication, requiring using strong passwords, role-based access controls, and periodic access reviews by the assigned ITRO Staff.
+*System Backups – consistency in backing up the RAMS Corner data must be implemented to ensure that there will be no information and data loss in an event of system failure, data corruption, and some unforeseen circumstances should occur. Reviewing the restoration process and verifying integrity of the back-up data must also be included in the regular assessments.
+*Employee Training – provide a detailed training plan for the employees regarding the use and management of the RAMS Corner Ticketing Service System so that the staffs are educated on the proper handling of tickets, as well as providing them the details for the risk mitigation should there be any threats occur within the system or when using the system.
+*Regular Communication – while all other technical aspects are important, communication within the team is also important to ensure that every stakeholder is informed regarding the ongoing plans, especially when tackling about the risk that the system is facing. This is to make sure that no resources are lost while still maintaining the efficacy of the system.
+*Change Management Plan – there must be a distinct change management plan for when there are any changes that need to be made to the system. It is important to document and gain the approval of every stakeholder when applying changes within the project. This will allow the team to handle potential risks without creating any ambivalence within the project stakeholders’ ideas.
+
+===6.9.7. Risk Register===
+In the risk register section, the risk management plan that will be intended for the top categories of identified risks will be constantly revised throughout the project. This will include all necessary details such as the probability of these risks occurring, their impacts, and the mitigation and avoidance procedures.
+
+The risk registry will be available for viewing for all the stakeholders to make sure that there is transparency when it comes to risk management. This file will be kept in a shared location where all the stakeholders can access it. 
+
+The aim for this risk register is to allow the stakeholders, especially the team, to have an overview of the history of risk management planning for comparison and improvement basis, as well as the ongoing measures taken for risk mitigation. In this way, the RAMS Corner project team will be able to manage the potential risks in a timely and efficient manner. 
+
+The following are the list of elements in the Risk Register
+*Risk ID – each risk identified will have their own unique identifier
+*Risk Description – brief and concise description of the identified risk
+*Risk Category – classify the type of risk as Vulnerability in Security, System Failure, and Performance Issues
+*Risk Owner – project team member that is responsible for monitoring and reviewing current potential risks
+*Probability – probability of risk occurrence scaling from 1 – 4, 1 indicating Very Low Probability and 5 indicating High probability
+*Impact – impact of the potential risk scaling from 1-5, 1 having Insignificant impact, and 5 having the Catastrophic impact
+*Risk Score – product of probability and impact score
+*Mitigation Procedure – specific measures intended for the listed potential risk
+*Status – historical status of the risk. It can be Open, Ongoing, or Closed.
+*Target Resolution Date – date for the resolution of the listed risk.
+
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/54d2c59b7173b40d0149c86c1f81ac5152a1f347/wikihub%20photos/image_2023-06-25_223210582.png?raw=true" alt="Image description" style="display:center; margin:0 auto;"><br>
+''Table 13: Risk Register''
+
+==8.10 Procurement Plan==
+===8.10.1. Introduction===
 The procurement management plan plays a vital role in the making of RAMs Corner: ITRO Ticketing Service System. It serves as a guide and outlines to make all the things needed to make the software run smoothly. It will justify why using up to date technologies are needed. The procurement management plan will be revised or updated from time to time in case there has been a change in obtaining the necessary materials. Along with this paper, it will also include all the possible risks and will layout its mitigation plan, different types of contracts that will be used, and cost determination.
 
 The procurement management plan outlines all the critical scenarios that are relevant to make the project successful. It will help align all the necessary deliverables to avoid delaying things and keep them on track.
 
-==15.2 Procurement Risk ==
+===8.10.2. Procurement Risks===
 All activities have their own risks. This includes procuring all the materials needed, goods, or any services that would be vital in making the project successful and deployable.
 The Nacor Industries should plan ahead how to avoid or mitigate the damage a possible risk can cause. The team identified all the possible scenarios that should be considered when procuring all the necessary materials. The list below shows all the possible angles that can happen but not limited to:  
 1. Failure to deliver all the materials within the project timeline causing delays and higher cost of budget.
@@ -606,238 +734,41 @@ The Nacor Industries should plan ahead how to avoid or mitigate the damage a pos
 
 This part of the paper is simultaneously updated to keep track of the updated possible risks that can have an impact on the project. This will be updated from time to time throughout the project’s lifetime to ensure quality output when launching the finished project.
 
+===6.10.3. Procurement Risk Management===
+1.Identification of procurement risks
+For the company to plan out and mitigate the risk. The company should first take the risk. The possible procurement management risk for the Nacor Industries is below but not limited to:
+*Delayed delivery of materials
+*Having sub-standard materials
+*Lack of materials coming from the same vendor
+*Sudden inflation of materials causing higher costs
+
+2. Risk mitigation strategies 
+After listing all the possible scenarios that can happen when procuring the materials. It is important to establish how to apply certain strategies and how to implement them. 
+*Have the deliveries advanced for a few days so that there is an ample amount of time in case of delays.
+*After looking for a specific product. Look for an alternative without sacrificing the quality to avoid unexpected breakdown of the material/s. 
+*Look for a back-up vendor that also provides the same resources in case the other vendor is out of products
+*Increase the budget by a few percentages to cover for the materials in case the prices increase. 
+
+3. Assignment of Responsibilities
+Everyone will have their own responsibilities when managing the procuring risks. Specific individuals will be assigned to pinpoint the procuring risks and others will be assigned to determine a possible risk that has been overlooked. Further to that information, the project manager and people who are assigned those responsibilities will be providing feedback on the status of the procurement risk management plans.
+
+4. Communication and Reporting
+Proper communication within the team or group is the key essential to success of the project. Regular status reports will be provided by the Project manager and the project team, Procurement risks and risk mitigation will be constantly updated, and the stakeholders would be informed when changes or developments happen in procuring risk management activities.
+
+5. Continuous Improvement 
+Since procurement risk management is continuously updated, the documents will be saved and used as a future reference when dealing with a certain risk. This would greatly help the future projects to improve on how they will execute their tasks and provide even more quality outputs.  
+Regular analysis of the procurement risk will also be conducted in case a certain risk has been overlooked by the project manager and the project team.
+
+===8.10.4. Cost Determination===
+Just like any project, Cost determination is also a crucial part of the project when procuring the essential materials. The project needs to have a high-quality product and be cost effective at the same time. To guarantee this situation, the company may bid on vendors who offers the best deal that would benefit the project.
+
+The project team must review all the costs surrounding the procurement process. This goes from delivery of items to the installation of the said items, and the maintenance costs to keep the materials up and running. During this time around, the team would thoroughly review any potential cost overruns so that they might look for an alternative so that the budget for procuring materials cannot be affected that much and mitigate the possible risks that can happen.
+	
+Stakeholders, project manager, procurement manager would then collaborate to guarantee that the budget would be utilized and no resources in making the project successful would go to waste. The procurement budget is also constantly monitored and kept on track to avoid going over the budget.
+
+To make things fast and efficient, the project team will use standardized procurement templates. This would greatly help the team to be constant on the method they are using when calculating costs on different angles of procurement activities.
+Cost determination plays a huge role in procurement management plans as it serves as a guide to make sure the budget for the project is correct and utilized well. 
 
-==15.3 Procurement Risk Management==
-1. '''Identification of procurement risks '''
-
-For the company to plan out and mitigate the risk. The company should first the risk. The possible procurement management risk for the Nacor industries is below but not limited to: 
-
-*Delayed delivery of materials 
-
-*Having sub-standard materials 
-
-*Lack of materials coming from the same vendor 
-
-*Sudden inflation of materials causing higher costs 
-
-2. '''Risk mitigation strategies''' 
-
-After listing all the possible scenarios that can happen when procuring the materials. It is important to establish how to apply certain strategies and how to implement them.  
-
-*Have the deliveries advance for a few days so the there is an ample amount of time in case of the delays. 
-
-*After looking for a specific product. Look for its alternative without sacrificing the quality to avoid unexpected breakdown of the material/s.  
-
-*Look for a back-up vendor that also provides the same resources in case the other vendor is out of products 
-
-*Increase the budget for a few percentages to cover for the materials in case the prices increase.  
-
-3. '''Assignment of Responsibilitie'''
-
-Everyone will have their own responsibilities when managing the procuring risks. Specific individuals will be assigned to pinpoint the procuring risks and others would be assigned to determine a possible risk that has been overlooked. Further to that information, the project manager and people who are assigned those responsibilities will be providing feedback on the status of the procurement risk management plans. 
-
-4. '''Communication and Reporting'''
-
-Proper communication within the team or group is the key essential to success of the project. Regular status reports will be provided by the Project manager and the project team, Procurement risks and risk mitigation will be constantly updated and the stakeholders would be informed when changes or developments happen in procuring risk management activities. 
-
-5. '''Continuous Improvement'''
-
-Since procurement risk management is continuously updated, the documents will be saved and used as a future reference when dealing with a certain risk. This would greatly help the future projects to improve on how they will execute their tasks and provide even more quality outputs.   
-
-Regular analysis of the procurement risk will also be conducted in case a certain risk has been overlooked by the project manager and the project team. 
-
-==15.4 Cost Determination ==
-Just like any project, Cost determination is also a crucial part of the project when procuring the essential materials. The project needs to have a high-quality product and cost effective at the same time. To guarantee this situation, the company may bid vendors who offers the best deal that would benefit the project. 
-
-The project team must review all the costs surrounding the procurement process. This goes from delivery of items to the installation of the said items, and the maintenance costs to keep the materials up and running. During this time around, the team would thoroughly review any potential cost overruns so that they might look for an alternative so that the budget for procuring materials cannot be affected that much and mitigate the possible risks that can happen. 
-
-Stakeholders, project manager, procurement manager would then collaborate to guarantee that the budget would be utilized and no resources in making the project successful would go to waste. The procurement budget is also constantly monitored and kept on track to avoid going over the budget. 
-
-To make things fast and efficient, the project team will use standardized procurement templates. This would greatly help the team to be constant on the method they are using when calculating costs on different angles of procurement activities. 
-
-Cost determination plays a huge role in procurement management plan as it serves as a guide to make sure the budget for the project is correct and utilized well.
-
-==15.5 Procurement Constraints==
-The constraints below should be considered as a part of Ram’s Corner: Ticketing Software project.  
-
-1. '''Schedule constraints:''' Every project has a strict deadline including the Ram’s Corner: Ticketing Software project. The deliverables should be made based on its deadline or planned schedule. It is important that individuals pass their deliverables on time to avoid any delays to the project and to ensure the team stays on the right track. Any delays within the deliverables might cause the problem to snowball into bigger issues that can affect the project itself. 
-
-2. '''Budget constraints:''' the project has an allotted budget for the project.
-
-3. '''Technology Constraints:''' The software that the Nacor industries makes (RAMs Corner: ITRO Ticketing Service System) does not demand a higher specification for it to run. A typical office computer/desktop can suffice for the software to run smoothly. 
-
-4. '''Resource constraints:''' The personnel of the office should be knowledgeable of how to operate or use the newly made software for them. 
-
-==15.6 Contract Approval Process==
-The contract approval process for the ITRO will be formally handled by the director of the office. The team will formally conduct a meeting with the director and present the idea. The team and the director would then start the process of conducting the contract and make sure no policies are bypassed. 
-
-1. '''Contract initiation:''' the project manager would 1st pitch the idea to the head of the ITRO.  
-
-2. '''Contract planning:''' The director of the ITRO would then make suggestions or customized features that would personally cater to the needs of the office. 
-
-3. '''Contract development:''' once the contract is set and ready. The team would develop the software and would have a meeting with the client regarding about the status of the software 
-
-4. '''Contract Review:''' the director and the team would review the software to make sure the project is still within the scope 
-
-==15.7 Decision Criteria==
-The following decision criteria for the Nacor Industries are the following: 
-
-'''Technical capabilities:''' the vendor must an experience handling any similar projects like this. This is important for the project to success. It is also important to take note that the vendor is knowledgeable in today’s technology  
-
-'''Price:''' The price is one of the deciding factors whether a company would buy the vendor’s product or not. If the vendor would set its prices high. The materials should meet the quality and certain specifications for it to be reasonable. 
-
-'''Schedule:''' The vendor should be able to deliver its  
-
-'''Quality:''' The vendor should be able to meet the specifications and quality of the materials. The vendor should also be able to consistently provide customer service. 
-
-'''Risk management:''' the vendor should have a plan on every risk possible to the project. It should have a plan on how to mitigate all the possible problems the project might encounter 
-
-'''Sustainability:''' the vendor should be able to sustain the product he/she sells. The materials should also be economic making it easier to build and sustain the products 
-
-'''Compliance:''' the vendor should abide the laws and have no past issues that possibly taint the project’s name and the company’s name 
-
-==15.8 Performance metrics for procurement Activities==
-1. '''Vendor performance rating'''
-
-A. The project manager and the project would thoroughly review the product of the vendor's product. In this way, this gives the team a much better point of view since there are people vouching for the product of the vendor. 
-
-2. '''Procurement cycle time'''   
-
-A. These measures the vendor’s capabilities or how fast and efficient it is when delivering the items. This starts from the initial ordering of the materials to finishing the project from installing the delivered goods. 
-
-3. '''Cost variance.'''
-
-A. This metric serves as a purpose to scout the market on the lowest price possible on certain materials. This gives the company a lot of choices settling between couples of vendors who have the best deal possible. 
-
-4. '''Purchase Order Accuracy:'''
-
-A. This metric tests the vendor’s accuracy when delivering the materials in a large quantity. One wrong item can possibly cause a delay in a project. 
-
-==15.9 Procurement Management Approach==
-The project manager will handle and manage all the things needed to be obtained for the project. The project manager will brainstorm together with the team to discuss all the recent technologies on the market that would potentially help the software to run smoothly. The project manager and the team would then review the materials that are listed for further inspection and look for some alternatives to save budget without sacrificing the quality of the materials. After the meeting, the project manager would then decide if the lists were valid and reasonable to buy.  
-
-After making the list of necessary materials for the project, the project would then look for a suitable supplier to either buy or start having a contract with the store. 
-
-=16. IMPLEMENTATION PLAN=
-==16.1 Executive Summary==
-The RAMs Corner: ITRO Ticketing Service System is complete, and as a part of the project closeout, a transition plan is being developed to ensure that when the project team handover the system to its project client, it will be a seamless system turnover. The purpose of this is to provide an overview of the transition phases, which includes the system current state or to check if it is under the minimum viable product, and how it is planned to transition from project team to the project client.
-
-RAMs Corner: ITRO Ticketing Service System was developed by Nacor Industries in collaboration with Mr. Jose Castillo of the ITRO department office, the project client. The system has been ongoing and under development for the past 5 months, starting from December for UI/UX Designing, and expected to finish in July, which finalizes the overall project from providing a working and deployable Ticketing Service System.
-The project client will receive a deployable system that is stable and operational, all the functionalities and features have been validated and undergone various test cases. As the team transition the system to the client, the team aims to provide them with necessary documentation of the Ticketing Service System to ensure that the client will manage the system properly.
-
-The project team will provide all the technical documentation, user manuals, and source code to ensure that the project client will have a comprehensive understanding of the system once it has been turned over to them. The project client will oversee the maintenance and troubleshooting as their scope of work encompasses these things. 
-
-Overall, once the transition phase of the system from project team to the project client is done, the project client will be receiving a fully operational Ticketing Service System, and that project team completed all the objectives and requirements set before the development and deployment of the application.
-
-==16.2 Transition Approach==
-The approach for the transition of the system will require definite and systematic transfer of knowledge, resources, and responsibility to the new owners of the system, to avoid service interruption. 
-The transition approach will include the following steps: 
-
-a.	'''Communication Plan:''' The project team together with the project client is fully aware of the transition plan, timelines, and what results the transition should accomplish, emergency meetings will be held if necessary.
-
-b.	'''Transition Planning:''' the transition plan will be developed and coordinated by the Nacor Industries project team which will include timelines of all the tasks that are needed to be accomplished during the transition.
-
-c.	'''Knowledge Transfer:''' ITRO Department is packed by IT professionals that are knowledgeable when it comes to technological field including software, that is why it is going to be easy for them to understand the instructions manuals, technical documentation, and the Ticketing Service System itself once they receive and operate the functional system. 
-
-d.	'''System Deployment:''' The project team will hand over the functional Ticketing Service System to the project client.
-
-==16.3 Transition Team Organization==
-'''Timeline'''
-
-The Transition out plan for this project involves a schedule of activities that will be necessary steps to fulfill until the time of handing over the functional and deployable system to the project client. There are two phases of the transition out plan execution from the project team and closeout from the project client, in this way, the project team will coordinate with the head of the ITRO Department and Mr. Jose Castillo himself will be the one to closeout once the system is handed over to their team.
-
-The handover schedule will take place after all the project team completes all the necessary deliverables for the entire project, including documentation. This is to ensure that the project team have complied with the criteria of the project completion and proceed to the deployment of the system in the platform of the client.
-
-
-'''Assumptions'''
-
-The following Assumptions will be made for the transition approach: 
-
-a.	NACOR INDUSTRIES project team members will be able onsite or via online meetings to participate and facilitate handover of the system.
-
-b.	The project team will provide all necessary documentation, instruction, and user manuals to the project client.
-
-c.	ITRO Department will provide the necessary equipment and software license if necessary to support the handover of the system. 
-
-d.	The NACOR INDUSTRIES project team is equipped with knowledge on the the system works and will be able to transfer knowledge to the project client and its team.
-
-e.	The ITRO department office of Asia Pacific College is packed with IT Professionals that is knowledgeable in the technological which makes it easy for their team to navigate and understand the Ticketing Service System that they will receive.
-
-'''Roles and Responsibilities'''
-
-# '''Transition Project Manager:''' is the overall in-charge for the success of the transition, is also the one responsible to manage the team involved in the transition team and will check transition task and its compliance.
-# '''Developers/Technical Lead:''' InCharge of providing all the technical expertise in the technological field and of course the project itself. Also, in charge of providing technical expertise to the project client and its team, if necessary, since the client’s team is knowledgeable enough to understand how the system works as it encompasses their scope of work.
-# '''Quality Assurance Lead:''' Responsible for ensuring that the system is functional, tested and passed the quality standards before handing over to the project client, also will lead the quality assurance that the deliverables for the transition tasks and plan is meets the quality standards.
-# '''Project Team Members:''' Overall assist and facilitate the transition plan, coordinate with the relevant people that have roles in the transition plan and will provide expertise towards their knowledge transfer about the whole project itself.
-
-<table border="1" width="70%" align="center">
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">Transition Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">is the overall in-charge for the success of the transition, is also the one responsible to manage the team involved in the transition team and will check transition task and its compliance.</p></td>
- </tr>
- <tr>
-  <td><p style="text-align:center;">Developers/Technical Lead </p></td>
-  <td><p style="text-align:center;">In-charge of providing all the technical expertise in the technological field and of course the project itself. Also, in charge of providing technical expertise to the project client and its team, if necessary, since the client’s team is knowledgeable enough to understand how the system works as it encompasses their scope of work. </p></td>
- </tr>
- <tr>
-  <td><p style="text-align:center;">Quality Assurance Lead </p></td>
-  <td><p style="text-align:center;">Responsible for ensuring that the system is functional, tested and passed the quality standards before handing over to the project client, also will lead the quality assurance that the deliverables for the transition tasks and plan is meets the quality standards</p></td>
- </tr>
- <tr>
-  <td><p style="text-align:center;">Project Team Members </p></td>
-  <td><p style="text-align:center;">Overall assist and facilitate the transition plan, coordinate with the relevant people that have roles in the transition plan and will provide expertise towards their knowledge transfer about the whole project itself. </p></td>
- </tr>
-
-</table>
-
-==16.4 Workforce Transition==
-Workforce transition is still important even if we already know that the project client team the ITRO Department would easily have the knowledge and background to use the system, it is critical that everything will be a seamless transition from the project team system deployment to the project clients work platform, an essential communication between project team and client should still be established as the transition of the overall system takes place.
-
-The Transition Project Manager will be working on assigning and retaining current staff or hiring a new one whichever is fit to handle the Ticketing Service System once it has been handed over to them. It is critical for the overall transition to determine the people who will handle and maintain the system, to ensure that it will be utilized as it should be.
-
-In addition, the necessary training or re-training will be on the side of the project client, since their department office is packed with IT professionals, the budget for training or hiring new staff will come under the department’s office budgets.
-
-==16.5 Workforce Execution During Transition==
-'''User briefing:''' this will involve a short introduction to the Ticketing Service System to the side of the project client’s team, this will include discussions on how the system works and its functionality. Proper user briefing will allow the new user of the system to understand the system and execute it properly.
-
-'''Update Documentations:''' The project team will record the latest and relevant files which include The lessons learned in the entire project, where the team improves the most and the areas needed to improve as well.
-
-'''Update Files/Records:''' The project team is still responsible for recording relevant files and information that reflects the completion of the project, it may involve things such as archiving all project-related files and relevant documents.
-
-'''Project Closeout Meeting:''' The project team will facilitate the meeting with the project client either onsite or online. This will discuss the project together with a closure meeting with the relevant stakeholders of the project. After a successful transition of the system to the client open discussions about the areas needed to improve will take place to ensure that all outstanding issues have been resolved.
-
-
-==16.6 Subcontracts==
-There are no existing contracts or subcontract agreements related to this project. Therefore, no transition of contracts related agreements is required aside from the signed official documents and scope of the project that has been pre-determined and agreed upon by the client and the project team.
-
-==16.7 Property Transition==
-
-'''Incumbent Owned Equipment'''
-
-In this case of the Ticketing Service System, If the project client and their team ITRO department office can provide the necessary equipment upon transition, there may not be a need for the project team to transition the equipment to project client, however, it is still important to clearly identify which equipment is incumbent-owned and which will be provided by the project client and its team to ensure a smooth transition and avoid any possible conflicts or misunderstandings.
-
-'''User Accounts and Passwords'''
-
-As part of the transition plan for the Ticketing Service System project, it is also important to take note of how the user accounts and passwords transition. The following steps would be:
-
-1. User Account Inventory
-*A comprehensive inventory of all user accounts and their associated privileges. This includes.
-**Ticketing Service System Administrator 
-**ITRO Staff 
-**APC Students
-2. Passwords and security access 
-*Once the Ticketing Service System is handed over to the project client, the project client as the new owner of the system should create new or add user accounts depending on the situation if they will hire new staff to use the system or retain the old accounts which are already listed by the project team and secure passwords.
-
-'''Intellectual Property'''
-During the transition process of the Ticketing Service System, it is important to consider the handling of intellectual property to ensure a smoother transfer of al the necessary documentation, original design and plans and preserve the system as it where is.
-
-'''Schedule'''
-
-==16.8 Knowledge Transfer==
-Within the span of development, the team, Nacor Industries have created several documentations and manuals for the product along with user manuals, test cases, risk management, etc. to inform the stakeholders of the various features and capabilities that the user would have to bring to the table, along with various assets that was developed and would be deemed beneficial upon the product’s deployment.
-
-==16.9 Handover and Acceptance==
-Upon the project’s completion—that would be decided by the team and the client, through the criteria of done—the complete handover of the system would be given onto the APC-ITRO, along with all other resources and assets that have been used or would prove to be beneficial for them to continuously deploy and run the product, together with any other documentation that may prove to be useful and vital for the exchange.
 
 
 
