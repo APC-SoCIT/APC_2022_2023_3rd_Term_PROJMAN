@@ -14,61 +14,64 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 <table border="1" width="70%" align="center">
  <tr>
- <td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">AUTHORITY</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
- <td bgcolor="lightblue"><p style="text-align:center;">COMPETENCY</p></td>
+   <td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
+   <td bgcolor="lightblue"><p style="text-align:center;">AUTHORITY</p></td>
+   <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITY</p></td>
+   <td bgcolor="lightblue"><p style="text-align:center;">COMPETENCY</p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Project Sponsor</p></td>
- <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. Provides 
+   <td><p style="text-align:center;">Project Sponsor</p></td>
+   <td><p style="text-align:center;">Approves the needed deliverables and budget of the project. Provides 
      feedback and comments on what can be improved. Able to allot project resources and consent to project 
      scope changes, schedule, and budgeting plan with significant effects. </p></td>
- <td><p style="text-align:center;">Ensures that the project delivers the anticipated benefits and value and is 
+   <td><p style="text-align:center;">Ensures that the project delivers the anticipated benefits and value and is 
      in line with the organization's strategic goals and objectives. Provide guidance to the project and 
-     project manager. Communicate with the stakeholder and project manager for the progress of the project and 
+     project manager. Communicate with the stakeholders and project manager for the progress of the project and 
      team. </p></td>
- <td><p style="text-align:center;">Communicating effectively with the team. Strong leadership and strategic 
+   <td><p style="text-align:center;">Communicating effectively with the team. Strong leadership and strategic 
      thinking skills. Understands the team’s goal for the project. Ability to support the project. </p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Project Owner</p></td>
- <td><p style="text-align:center;">Make choices about the growth and direction of a product. They have the power to establish requirements, set priorities for the product backlog, and make critical decisions on the features, functionalities, and release timelines. </p></td>
- <td><p style="text-align:center;">Responsible of representing the interests of the stakeholders, working with the development team, and making sure the product satisfies consumer needs and accomplishes business objectives. Throughout the course of the product's lifecycle, they are responsible for maximizing its value and making strategic decisions. </p></td>
- <td><p style="text-align:center;">Stakeholder Management, Leadership and Collaboration Skills, Communication Skills, and Continuous Learning and Adaptability. </p></td>
+   <td><p style="text-align:center;">Project Owner</p></td>
+   <td><p style="text-align:center;">Make choices about the growth and direction of a product. They have the power to establish requirements, set priorities for the product backlog, and make critical decisions on the features, functionalities, and release timelines. </p></td>
+   <td><p style="text-align:center;">Responsible for representing the interests of the stakeholders, working with the development team, and making sure the product satisfies consumer needs and accomplishes business objectives. Throughout the course of the product's lifecycle, they are responsible for maximizing its value and making strategic decisions. </p></td>
+   <td><p style="text-align:center;">Stakeholder Management, Leadership and Collaboration Skills, Communication Skills, and Continuous Learning and Adaptability. </p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Project Manager</p></td>
- <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve  
+   <td><p style="text-align:center;">Project Manager</p></td>
+   <td><p style="text-align:center;">Authority to make decisions regarding the project. Approve  
      project scope, schedule, and budget changes that have low change effect. </p></td>
- <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitors 
+   <td><p style="text-align:center;">Control and help execute a solution to a problem in the project and monitor 
      the work of the team members. </p></td>
- <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
+   <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
      Knowledge of the company for precise information. </p></td>
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Developer</p></td>
- <td><p style="text-align:center;">Designing, creating, and implementing software solutions in accordance with project needs and technical specifications are the domain of a developer. To guarantee the successful delivery of the software product, they have the authority to develop and edit code, create, and maintain software components, and work with team members. </p></td>
- <td><p style="text-align:center;">Responsible to convert conceptual designs and specifications into useful software programs. They must write clear, effective, and well-documented code, perform unit tests to ensure functionality, and debug and fix software bugs. Work closely with the product owner and project manager. </p></td>
- <td><p style="text-align:center;">Programming Languages, Problem-Solving Skills, Technical Knowledge, Coding and Debugging, Collaboration and Teamwork, Time Management, and Continuous Learning. </p></td>
-</tr>
- <tr>
- <td><p style="text-align:center;">Quality Assurance (Internal User) </p></td>
- <td><p style="text-align:center;">Ensures that products and deliverables fulfill its quality standards. Develop and implement quality processes, conduct testing, and checks the quality of the system and deliverables. </p></td>
- <td><p style="text-align:center;">Ensures that the entire project deliverables and product are consistently meeting its quality standards. Ensure that the overall quality of the product and deliverables are met by establishing quality criteria, developing processes, and implementing corrective actions. </p></td>
- <td><p style="text-align:center;">Technical Skills, Communication skills, Problem-solving skills, Collaboration, and Time Management. </p></td>
+   <td><p style="text-align:center;">Developer</p></td>
+   <td><p style="text-align:center;">Designing, creating, and implementing software solutions in accordance with project needs and technical specifications are the domain of a developer. To guarantee the successful delivery of the software product, they have the authority to develop and edit code, create and maintain software components, and work with team members. </p></td>
+   <td><p style="text-align:center;">Responsible for converting conceptual designs and specifications into useful software programs. They must write clear, effective, and well-documented code, perform unit tests to ensure functionality, and debug and fix software bugs. Work closely with the product owner and project manager. </p></td>
+   <td><p style="text-align:center;">Programming Languages, Problem-Solving Skills, Technical Knowledge, Coding and Debugging, Collaboration and Teamwork, Time Management, and Continuous Learning. </p></td>
  </tr>
+
  <tr>
- <td><p style="text-align:center;">Project/System Tester (Internal User) </p></td>
- <td><p style="text-align:center;">Evaluate and validates the performance and functioning of a system or software program. Authority to find and report errors or problems, work with stakeholders and developers to fix them, and make improved suggestions. </p></td>
- <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for designing and executing test cases, identifying, and reporting defects, and verifying that the system meets the specified requirements. </p></td>
- <td><p style="text-align:center;">Technical Skills, Communication Skills, Time Management, Analytic and Problem-Solving Abilities. </p></td>
- </tr
+   <td><p style="text-align:center;">Quality Assurance (Internal User)</p></td>
+   <td><p style="text-align:center;">Ensures that products and deliverables fulfill its quality standards. Develop and implement quality processes, conduct testing, and check the quality of the system and deliverables. </p></td>
+   <td><p style="text-align:center;">Ensures that the entire project deliverables and product consistently meet its quality standards. Ensure that the overall quality of the product and deliverables is met by establishing quality criteria, developing processes, and implementing corrective actions. </p></td>
+   <td><p style="text-align:center;">Technical Skills, Communication skills, Problem-solving skills, Collaboration, and Time Management. </p></td>
+ </tr>
+
+ <tr>
+   <td><p style="text-align:center;">Project/System Tester (Internal User)</p></td>
+   <td><p style="text-align:center;">Evaluate and validate the performance and functioning of a system or software program. Authority to find and report errors or problems, work with stakeholders and developers to fix them, and make improved suggestions. </p></td>
+   <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for designing and executing test cases, identifying and reporting defects, and verifying that the system meets the specified requirements. </p></td>
+   <td><p style="text-align:center;">Technical Skills, Communication Skills, Time Management, Analytic and Problem-Solving Abilities. </p></td>
+ </tr>
 </table>
+
 
 ==Project Organizational Charts==
 <p>Project organizational chart is a visual representation of the relationship between the team and the key stakeholders. At the top of the chart comes the project sponsor, followed by the project stakeholder as they are responsible for communicating between the project sponsor and the rest of the team, and then followed by the project manager who is responsible for managing the project team, send approval requests for the deliverables, and schedules. The project team members are responsible for completing the deliverables and making sure that there’s progress on the tasks at hand. </p>
