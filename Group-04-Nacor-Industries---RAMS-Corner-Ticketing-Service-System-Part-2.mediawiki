@@ -271,13 +271,13 @@ This risk management plan will include the risk assessment, risk response, risk 
 ==13.2 Risk Management Approach==
 
 This risk management plan will follow these steps:
-*'''Risk Identification''' – this is a crucial step to be able to analyze the potential risks that will affect the deployment of RAMs Corner Ticketing System greatly. This can include technical problems, Staff problems, customer management problems, or the security problems.
-*'''Risk Assessment''' – during this step, the prioritization of risk-handling will occur. After identifying the risk, they will be analyzed to see which is most likely to occur. In this sense, the focus of the allotted time and budget can be given to a risk with higher potential. 
-*'''Risk Analysis''' – after having put the risks in hierarchy, analysis of the possible root causes for these potential risks will undergo this process. This will help in assessing the possible impacts of certain risk factors and update the existing control measures or create a new plan.
-*'''Risk Treatment''' – once the risks are analyzed one-by-one, an appropriate contingency plan will be created based on the risk factors.
-*'''Risk Monitoring and Review''' – it is important to keep the risk under control, so the monitoring and review will help in further improving the risk mitigation strategies or the contingency plan based on the different circumstances 
-*'''Communication with the Team and the Stakeholders''' – regular reporting of progress in risk mitigation will be held so that each and every one of the team members as well as the stakeholders will be informed of what is going on within the system, and what to expect upon the existing risk mitigation procedures.  
-*'''Documentation''' – lastly is to document all the risk mitigation processes that the project has undergone. It is important to have historical data as a reference if the risk management plan adhered to the rules set to the project.
+* '''Risk Identification''' – this is a crucial step to be able to analyze the potential risks that will affect the deployment of RAMs Corner Ticketing System greatly. This can include technical problems, Staff problems, customer management problems, or the security problems.
+* '''Risk Assessment''' – during this step, the prioritization of risk-handling will occur. After identifying the risk, they will be analyzed to see which is most likely to occur. In this sense, the focus of the allotted time and budget can be given to a risk with higher potential. 
+* '''Risk Analysis''' – after having put the risks in hierarchy, analysis of the possible root causes for these potential risks will undergo this process. This will help in assessing the possible impacts of certain risk factors and update the existing control measures or create a new plan.
+* '''Risk Treatment''' – once the risks are analyzed one-by-one, an appropriate contingency plan will be created based on the risk factors.
+* '''Risk Monitoring and Review''' – it is important to keep the risk under control, so the monitoring and review will help in further improving the risk mitigation strategies or the contingency plan based on the different circumstances 
+* '''Communication with the Team and the Stakeholders''' – regular reporting of progress in risk mitigation will be held so that each and every one of the team members as well as the stakeholders will be informed of what is going on within the system, and what to expect upon the existing risk mitigation procedures.  
+* '''Documentation''' – lastly is to document all the risk mitigation processes that the project has undergone. It is important to have historical data as a reference if the risk management plan adhered to the rules set to the project.
 
 By following these steps, this will ensure that the RAMs Corner will run smoothly and efficiently, with less-to-no potential risk, and produce a satisfactory result for customer service  that is one of the aims of the project.
 
@@ -294,13 +294,13 @@ After identifying the risk, they are categorized intro three major types, these 
 
 To be specific, here are the possible risks that are identified for the RAMs Corner: 
 
-1.'''Security Breaches''' – personal information that are stored and is being used in a ticketing system is at risk when there is a weak security for the system.
+1. '''Security Breaches''' – personal information that are stored and is being used in a ticketing system is at risk when there is a weak security for the system.
 
-2.'''Downtime''' – system downtime can greatly reduce the trust of the client to the ITRO because they will not be able to raise their concerns timely. 
+2. '''Downtime''' – system downtime can greatly reduce the trust of the client to the ITRO because they will not be able to raise their concerns timely. 
 
 3. '''Inadequate Scalability and Elasticity''' – a ticketing system is expected to handle customer support efficiently. If the system is not scalable or elastic enough that it will not be able to handle the increase or decrease in the volume of tickets received daily, the system is bound to produce customer dissatisfaction.
 
-4.'''Lack of Integration''' – since RAMs Corner will be adapted by the ITRO, it is expected to be able to integrate well with the current software and hardware equipment that is used by the ITRO, as well as the Asia Pacific College Residents being the clients. Inability to integrate means a decrease in productivity, that will therefore cause operational damage.
+4. '''Lack of Integration''' – since RAMs Corner will be adapted by the ITRO, it is expected to be able to integrate well with the current software and hardware equipment that is used by the ITRO, as well as the Asia Pacific College Residents being the clients. Inability to integrate means a decrease in productivity, that will therefore cause operational damage.
 
 To mitigate these aforementioned risks, the team developed a contingency plan that will allow the ITRO to address these issues in a considerable amount of time. Training before deployment is also a necessary step to familiarize the staff with how they are going to navigate the system. A regular reporting of the progress in risk mitigation will also be held in one-week sprints so that the system can remain up to date to the growing risk potentials and the possible ways to minimize it. 
 
@@ -321,8 +321,11 @@ The table below depicts the matrix of impact-probability of the risk identified:
 The identified risks are prioritized as follows: 
 
 1. '''Lack of Integration''' – Medium probability with significant impact
+
 2. '''Downtime''' – medium probability with disastrous impact
+
 3. '''Inadequate Scalability and Elasticity''' – medium probability with disastrous impact
+
 4. '''Security Breaches''' – medium probability with disastrous impact
 
 After the assessment, we will focus on developing solutions for the risks that are considered in extreme and high priority. The risks on the low to medium priority will be constantly monitored as well, and there are no negligible risks since we firmly believe that all risks must be considered and should have a minimum possible solution whenever they occur.
