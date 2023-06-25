@@ -1,3 +1,6 @@
+=Second Part=
+Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Villamin-Wood-and-Iron-Works-System-Part-2/_edit
+
 =6.10. Procurement Management Plan=
 ==6.10.1. Introduction==
 <p>A procurement plan is a vital component of any organization's strategic planning process, as it outlines the approach and strategy for acquiring goods, services, or works from external sources. It serves as a roadmap that guides procurement activities, ensuring that the organization obtains the necessary resources efficiently, effectively, and in compliance with relevant regulations and policies. </p>
