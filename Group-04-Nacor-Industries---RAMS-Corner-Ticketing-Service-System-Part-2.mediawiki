@@ -591,26 +591,21 @@ Determine who should be involved in the escalation process. This may include pro
 
 =15. PROCUREMENT MANAGEMENT PLAN=
 ==15.1 Introduction ==
-The procurement management plan plays a vital role in the making of RAMS’ Corner: Ticketing service system. It serves as a guide and outlines to make all the things needed to make the software run smoothly. It will justify why using up to date technologies are needed. The procurement management plan will be revised or updated from time to time in case there has been a change in obtaining the necessary materials. Along with this paper, it will also include all the possible risks and will layout its mitigation plan, different types of contracts that will be used, and cost determination. 
+The procurement management plan plays a vital role in the making of RAMs Corner: ITRO Ticketing Service System. It serves as a guide and outlines to make all the things needed to make the software run smoothly. It will justify why using up to date technologies are needed. The procurement management plan will be revised or updated from time to time in case there has been a change in obtaining the necessary materials. Along with this paper, it will also include all the possible risks and will layout its mitigation plan, different types of contracts that will be used, and cost determination.
 
-The procurement management plan outlines all the critical scenarios that are relevant to make the project successful. It will help align all the necessary deliverables to avoid delaying things and keep them on track. 
+The procurement management plan outlines all the critical scenarios that are relevant to make the project successful. It will help align all the necessary deliverables to avoid delaying things and keep them on track.
 
 ==15.2 Procurement Risk ==
-All activities have their own risks. This includes procuring all the materials needed, goods, or any services that would be vital in making the project successful 
+All activities have their own risks. This includes procuring all the materials needed, goods, or any services that would be vital in making the project successful and deployable.
+The Nacor Industries should plan ahead how to avoid or mitigate the damage a possible risk can cause. The team identified all the possible scenarios that should be considered when procuring all the necessary materials. The list below shows all the possible angles that can happen but not limited to:  
+1. Failure to deliver all the materials within the project timeline causing delays and higher cost of budget.
+2. Receiving not properly integrated hardware resulting in frequent maintenance and poor customer service.
+3. Incorrect or lack of research about certain products which may lead to buying wrong materials which can also cause to increase budget.
+4. Having a contract with a vendor that doesn’t meet the industry standard may impact not only the project’s reputation, but also the company.
+5. Having poor communication between the team and the vendor acquiring more than enough resources which can cause higher cost of budget without fully utilizing all the materials bought. 
 
-The Nacor industries should plan out ahead on how to avoid or mitigate the damage a possible risk can cause. The team identified all the possible scenarios that should be considered when procuring all the necessary materials. The list below shows all the possible angles that can happen but not limited to:   
+This part of the paper is simultaneously updated to keep track of the updated possible risks that can have an impact on the project. This will be updated from time to time throughout the project’s lifetime to ensure quality output when launching the finished project.
 
-1. Failure to deliver all the materials within the project timeline causing delays and higher cost of budget. 
-
-2. Receiving not properly integrated hardware causing resulting in frequent maintenance and poor customer service. 
-
-3. Incorrect or lack of research about certain products which may lead into buying wrong materials which can also cause to increase budget. 
-
-4. Having a contract with a vendor that doesn’t meet the industry standard which may impact not only the project’s reputation, but also the company. 
-
-5. having a poor communication between the team and the vendor acquiring more than enough resources which can cause higher cost of budget without fully utilizing all the materials bought.  
-
-This part of the paper is simultaneously updated to keep track of the updated possible risks that can have an impact on the project. This will be updated from time to time throughout the project’s lifetime to ensure quality output when launching the finished project. 
 
 ==15.3 Procurement Risk Management==
 1. '''Identification of procurement risks '''
@@ -667,9 +662,9 @@ The constraints below should be considered as a part of Ram’s Corner: Ticketin
 
 1. '''Schedule constraints:''' Every project has a strict deadline including the Ram’s Corner: Ticketing Software project. The deliverables should be made based on its deadline or planned schedule. It is important that individuals pass their deliverables on time to avoid any delays to the project and to ensure the team stays on the right track. Any delays within the deliverables might cause the problem to snowball into bigger issues that can affect the project itself. 
 
-2. '''Budget constraints:''' the project has an allotted budget for the project. The company  
+2. '''Budget constraints:''' the project has an allotted budget for the project.
 
-3. '''Technology Constraints:''' The software that the Nacor’s industries made (Ram’s Corner: Ticketing Software) doesn’t demand a higher specification for it to run. A typical office computer/desktop can suffice for the software to run smoothly. 
+3. '''Technology Constraints:''' The software that the Nacor industries makes (RAMs Corner: ITRO Ticketing Service System) does not demand a higher specification for it to run. A typical office computer/desktop can suffice for the software to run smoothly. 
 
 4. '''Resource constraints:''' The personnel of the office should be knowledgeable of how to operate or use the newly made software for them. 
 
