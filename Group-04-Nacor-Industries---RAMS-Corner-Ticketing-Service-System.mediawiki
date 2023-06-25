@@ -445,7 +445,7 @@ This methodology will follow these steps:
 *Deployment and Control
 *Closeout
 
-== 5.2 Technical Architecture == 
+== 7.2 Technical Architecture == 
 *The web-app is built using Laravel framework.
 *The web-app utilized MySQL for the database to store and retrieve data from user profiles and ticket contents. 
 *The accounts would be pulled from the pre-existing pool of credentials of the Asia Pacific College through their Microsoft APC email accounts.
