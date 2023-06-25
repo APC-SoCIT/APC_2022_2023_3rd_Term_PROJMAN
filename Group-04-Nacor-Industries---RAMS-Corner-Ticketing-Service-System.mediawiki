@@ -511,7 +511,7 @@ Towards the start of the project, the team, Nacor Industries has already set a l
 3. '''Work Breakdown Structure (WBS) Creation;'''
 *The WBS is comprehensive and accurate visual representation of the tasks and goals that the team came up with through various sessions and meetings which entails all the work packages required to complete the project.
 
-4. '''Scope Verification and;'''
+4. '''Scope Verification'''
 *This would be done through performing a walkthrough of the project deliverables with stakeholders to ensure that they meet their needs and expectations. Furthermore, it will allow stakeholders to provide feedback and make suggestions for improvement as indicated accordingly through the team’s Scrum-Fall Methodology.
 
 5. '''Scope Control'''
@@ -601,15 +601,15 @@ In order to promote organizational harmony and present a systematic and effectiv
 
 === 8.2.4 Scope Definition ===
 The project, RAMS Corner: ITRO Ticketing Service System, is designed for the use of the (1) APC organization; (2) APC staff and faculty members, (3) APC students, will help the ITRO in their workflow in identifying problems within the building. This ticketing system that the team is developing allows the ITRO Admins to have more control over how it tracks and resolves the ITRO Client complaints. The team’s ticketing software has a set of processes that enable the ITRO to efficiently oversee incidents and service requests logged or reported by its ITRO clients which involves—and is specifically limited to—the following: 
-:-Infrastructure-Based
-:-Desktop Support
-:-Server/Cloud Services Support
-:-Audio/Video Equipment Support
-:-Software-Based
-:-Backend Development Support
-:-Business Analysis/QA
-:-Data Analysis
-:-Software Development Support
+:- Infrastructure-Based
+:- Desktop Support
+:- Server/Cloud Services Support
+:- Audio/Video Equipment Support
+:- Software-Based
+:- Backend Development Support
+:- Business Analysis/QA
+:- Data Analysis
+:- Software Development Support
 
 The flexible ticketing solution increases IT service delivery and overall ITRO Client satisfaction by integrating native IT service management modules such as IT problem management and asset management. But this ticketing system will not cover the management of the requests to ITRO that are raised via phone calls. This application serves only as Ticket Management and does not include ITRO’s Problem Management and User Management. This project will be used and be made available only to the APC staff, personnel, and students.  
 
@@ -629,7 +629,7 @@ The project team's goal is to develop a deployable IT ticketing system that will
 **The notifications pane would be available to every user type and would provide them with the latest updates regarding their tickets and other issues that may be of concern to them.
 
 *'''Ticket Table'''
-*&*The ticket table lists all of the tickets received by the ITRO, along with their current status and details which entail the date and time it is created, along with its prioritization, assignment, etc.
+**The ticket table lists all of the tickets received by the ITRO, along with their current status and details which entail the date and time it is created, along with its prioritization, assignment, etc.
 
 *'''Knowledge Base'''
 **The Knowledge Base is a collection of common IT problems and their resolutions that would aim to empower the users and give them the ability to troubleshoot their problems by themselves.
@@ -659,24 +659,24 @@ Success for the project will be measured on three factors: deliverables, quality
 
 Upon successful project completion, the team would be able to provide the fully-functional and finished system, along with the source code through GitHub with the Software Requirement Specification along with several other project documentations which include—but are not limited to the following:
 
-*User Manual 
-*Business Case 
-*Stakeholders Management Strategy Plan 
-*Scope Management Plan 
-*Cost Management Plan 
-*Time Management Plan 
-*Human Resource Management Plan 
-*Communication Management Plan 
-*Procurement Management Plan  
-*Project Status Reports Distribution plan 
-*Change Request Documentation 
-*Project Execution Monitoring Report 
-*Implementation Plan 
-*Change Management Plan 
-*Project Status Reports 
-*Transition-Out Plan 
-*Project Turn-Over Plan 
-*Post Project Review Plan 
+* User Manual 
+* Business Case 
+* Stakeholders Management Strategy Plan 
+* Scope Management Plan 
+* Cost Management Plan 
+* Time Management Plan 
+* Human Resource Management Plan 
+* Communication Management Plan 
+* Procurement Management Plan  
+* Project Status Reports Distribution plan 
+* Change Request Documentation 
+* Project Execution Monitoring Report 
+* Implementation Plan 
+* Change Management Plan 
+* Project Status Reports 
+* Transition-Out Plan 
+* Project Turn-Over Plan 
+* Post Project Review Plan 
 
 '''Project Exclusions'''
 The limitations and exclusions that the team found out has been compounded and listed below and were limited to the design and implementation constraints that the RAMS Corner web application will encounter:
@@ -713,7 +713,7 @@ The limitations and exclusions that the team found out has been compounded and l
 
 === 8.2.6 Work Breakdown Structure ===
 <br>
-1. RAMS Corner : ITRO Ticketing System
+1. RAMS Corner : ITRO Ticketing Service System
    1.1 Initiation
       1.1.1 Initial Planning/Brainstorming
       1.1.2 Client Selection
@@ -943,7 +943,7 @@ The RAMS Corner Ticketing Service System aims to provide APC Staffs, Faculty, an
 === 8.3.6 Project Budget ===
 The budget for this project, together with the other possible expenses for this project are presented in various categories in detail through the Budget Summary. 
 
-<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/7d8c4c376704e344f2120488c9aa41077a44cd79/wikihub%20photos/budgsum1.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
+<img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G04_Nacor_Industries/blob/7d8c4c376704e344f2120488c9aa41077a44cd79/wikihub%20photos/image_2023-06-24_233548011.png?raw=true" alt="Image description" style="display:center; margin:0 auto;">
 <br>''Figure 3:  RAMS Corner Budget Summary – Laptop Depreciation Cost''
 
 == 8.4 Schedule Management Plan ==
