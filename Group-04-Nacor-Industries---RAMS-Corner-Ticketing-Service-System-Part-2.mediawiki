@@ -83,14 +83,7 @@ The project's goals and requirements will be taken into consideration when the S
   <td> Performance Reviews </td>
   <td> Performance Reviews </td>
  </tr>
- <tr>
-  <td> Project Avdiver</td>
-  <td> Provides insights to the project manager and the project members. Gives details on how the project should progress and be made.</td>
-  <td> Communication Problem Solving Technical Knowledge for the team’s project </td>
-  <td> Depending on the project's size and complexity. formulated in cooperation with other stakeholders </td>
-  <td> To evaluate team members' work, offer comments, and handle any problems, the project adviser will hold frequent meetings regarding the progression of the project. </td>
-  <td>The project adviser will implement a recognition and rewards system to motivate team members and encourage high performance </td>
- </tr>
+ 
  <tr> 
  <td> Project Manager</td>
   <td> Is the project team leader and oversees efficient planning of the project and its execution. Create a thorough project strategy and establish a project goal. Communicates or conveys the project status and progress to the client.</td>
@@ -124,8 +117,7 @@ according to the demands of the project and the rules of the business. </td>
 ==12.1 Introduction==
 In order to maintain quality throughout the project the team, Nacor Industries, opted to follow the hybrid Scrum-Fall methodology. This Quality Management Plan will define the quality standards that will be used to evaluate the RAMS Corner: Ticketing Service System. Furthermore, the plan provides a framework for resolving quality concerns and specifying the roles and duties of team members in addition to outlining quality principles and procedures from the development, through the deployment of RAMS Corner: Ticketing Service System, with the following goals in mind:
 
-*Make sure the project satisfies or exceeds the expectations of the client and 
-stakeholders, (APC-ITRO and their clientele)
+*Make sure the project satisfies or exceeds the expectations of the client and stakeholders, (APC-ITRO and their clientele)
 
 *List the criteria for quality that will be used to assess the project.
 
