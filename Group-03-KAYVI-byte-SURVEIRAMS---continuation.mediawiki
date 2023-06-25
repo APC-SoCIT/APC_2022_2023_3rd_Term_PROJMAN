@@ -166,7 +166,7 @@ Goals of the quality management plan
 * Indicate the quality standards that will be applied for evaluating the project.
 * Clarify the roles and responsibilities of team members to meet quality standards.
 * Identify and fix any potential quality issues.
-* Make a plan for efficiently managing and upholding project quality over the length of the project.
+* Decide for efficiently managing and upholding project quality over the length of the project.
 
 The SurveiRams System will operate completely functionally, have a user-friendly interface, and be compatible with the organization's existing technology infrastructure. The Quality Management Plan will cover both the system and process quality standards. The plan will outline specific procedures, tools, and techniques for monitoring and reporting quality performance.
    
@@ -248,7 +248,7 @@ The approach will include the following steps:
     </tr>
     <tr>
       <td>'''Continuous Improvement'''</td>
-      <td>To ensure continuous functionality of the project, the team will regularly monitor and assess its performance. They will gather feedback from stakeholders, identify areas that require improvement, and make necessary adjustments to enhance the overall quality of the project.</td>
+      <td>To ensure continuous functionality of the project, the team will regularly monitor and assess its performance. They will gather feedback from stakeholders, identify areas that require improvement, and make necessary adjustments to enhance the project's overall quality.</td>
     </tr>
     <tr>
       <td>'''Communication'''</td>
@@ -260,52 +260,52 @@ The approach will include the following steps:
 A risk management strategy will be created to detect and mitigate any potential quality issues that may arise throughout the course of the project. Overall, the SurveiRams system's quality management approach will prioritize using Hybrid Project Management to provide a high-quality product that satisfies the intended client's criteria. To guarantee that the project meets or exceeds all quality requirements, the methodology will be adaptable and continually improved.
 
 ==12.3 Quality Requirements / Standards==
-The SurveiRams System places an emphasis on high-quality requirements and standards; thus, the team will collaborate to develop and document them. The client's feedback, tests, and assessments will make sure that these criteria are followed. The following criteria and standards will be followed by the SurveiRams System project:   
+The SurveiRams System places an emphasis on high-quality requirements and standards; thus, the team will collaborate to develop and document them. The client's feedback, tests, and assessments will make sure that these criteria are followed. The following criteria and standards will be followed by the SurveiRams System project:       
   
 '''Requirements for Product Quality:'''
 * Functionality: The SurveiRams System should fulfill its intended purpose and meet functional requirements specified by the Stakeholders and users. It should perform the task in an efficient manner.
-* Reliability: The SurveiRams System should work consistently without issues, breakdowns or failures over sa specified period. 
-* Performance: The SurveiRams System should meet optimal performance and or exceed the expected standards.  
+* Reliability: The SurveiRams System should work consistently without issues, breakdowns, or failures over a specified period.
+* Performance: The SurveiRams System should meet optimal performance and or exceed the expected standards.
 * Design: The SurveiRams System should have an intuitive UI/UX where the users will have an easy time using the application.
 * Compatibility: The SurveiRams System should be compatible with the existing devices of APC and its users. It should also be compatible with newer devices.
 * Control: A control version of the system must always be available in case of issues.
 
 '''Requirements for Ensuring Quality of Processes:'''   
-* Standardization: All processes must be well-defined and documented in a standardized manner to ensure consistency.
-* Clear Roles and Responsibilities: Each individual should understand their roles and specific responsibilities.
-* Continuous Improvement: Processes should be ongoing and always have room for improvement. The development team will apply feedback mechanisms and testing to figure out what parts of the project can be improved and what parts has issues.
-* Monitoring: All proccesses must be monitored by the Project Manager, this will ensure the quality of the deliverables.
+* Standardization: All processes must be well-defined and documented in a standardized manner to ensure consistency. 
+* Clear Roles and Responsibilities: Each should understand their roles and specific responsibilities.
+* Continuous Improvement: Processes should be ongoing and always have room for improvement. The development team will apply feedback mechanisms and testing to figure out what parts of the project can be improved and what parts have issues.
+* Monitoring: All processes must be monitored by the Project Manager; this will ensure the quality of the deliverables.
 
 '''Compliance Demonstration:'''     
 * Before being delivered to the client, the SurveiRams System will go through extensive testing and evaluation to make sure it satisfies the necessary quality requirements.
 * The development team will keep thorough records of all testing and quality assurance procedures, which the client can request.
-* The customer will participate in a formal acceptance test to make sure the system satisfies their particular needs and expectations.
-* To guarantee that the system continually complies with the defined quality requirements in the long run, the development team will offer ongoing support and maintenance services.  
+* The customer will participate in a formal acceptance test to ensure the system satisfies their needs and expectations.
+* To guarantee that the system continually complies with the defined quality requirements eventually, the development team will offer ongoing support and maintenance services. 
 
 '''Continual Improvement:'''
-The development team will set up a strategy for continuous improvement by routinely collecting and reviewing client feedback, monitoring system performance, and conducting internal reviews to identify potential improvement opportunities. They will also create a procedure for identifying and addressing any issues that may arise throughout the project. This comprises locating the issue, figuring out why it exists, coming up with a solution, and then evaluating how well it worked. These procedures will be used in the project to ensure that the SurveiRams System actively adapts to meet shifting client needs while maintaining the required level of quality.
+The development team will set up a strategy for continuous improvement by routinely collecting and reviewing client feedback, monitoring system performance, and conducting internal reviews to identify potential improvement opportunities. They will also create a procedure for identifying and addressing any issues that may arise throughout the project. This comprises locating the issue, figuring out why it exists, producing a solution, and then evaluating how well it worked. These procedures will be used in the project to ensure that the SurveiRams System actively adapts to meet shifting client needs while maintaining the required level of quality.
 
 ==12.4 Quality Assurance==
 To ensure quality is achieved through collaboration and continuous improvement, the SurveiRams Ticketing System project will integrate the QA process into the Agile and Scrum methodology. The following steps will be taken:
 
 * '''Defining Quality Standards:''' The project team, in collaboration with stakeholders, will establish and document the quality standards in the Quality Management Plan. These standards will be effectively communicated to all stakeholders involved.
-* '''Agile Quality Auditing:''' The project team will conduct quality audits on a regular basis utilizing Agile techniques including peer reviews, test-driven development, and continuous integration. These procedures will be used to determine whether the quality criteria have been met and to pinpoint areas that need improvement.
+* '''Agile Quality Auditing:''' The project team will conduct quality audits using Agile techniques including peer reviews, test-driven development, and continuous integration. These procedures will be used to determine whether the quality criteria have been met and to pinpoint areas that need improvement.
 * '''Quality Metrics:''' The project team will employ quality metrics to monitor and report on the project's adherence to the defined quality standards. To effectively monitor the quality process, the following metrics will be utilized: <br> 
 **Performance Metrics: Application Load time, Server Response time.
 **Usability Metrics: User Satisfaction, Task Completion Time, Error Rate.
 **Design Metrics: User feedback, UI/UX design feedback.
-**Scalability Metrics: Response Time under load, Resource Utilization (eg. RAM allocation, CPU Usage)
+**Scalability Metrics: Response Time under load, Resource Utilization (eg. RAM allocation, CPU (Central Processing Unit) Usage)
 * '''Continuous Improvement:''' To promote continuous improvement in both the product and the quality process, the project team will make use of feedback from metrics and quality audits. Stakeholder participation will be used to identify areas for improvement, and the necessary adjustments will be made.
 * '''Compliance with Industry Standards:''' The project team will ensure adherence to relevant industry standards, including accessibility, security, and data privacy regulations. Regular audits will be conducted to verify compliance with these standards.
 * '''Reviewing Customer Feedback:''' Regular reviews of customer feedback will be conducted to identify any issues or areas requiring improvement. This feedback will play a crucial role in informing the continuous improvement efforts and ensuring that the product aligns with customer needs and expectations.
 
-The project will implement rigorous monitoring, tracking, and reporting of quality assurance metrics to ensure the delivery of a high-quality outcome. Any deviations from the established standards will be promptly reviewed and fixed. The project team will receive regular reports from the software application, which will capture relevant data for these metrics. The quality assurance process will undergo frequent reviews to identify opportunities for enhancement and implement necessary improvements. The objective is to ensure that the SurveiRams System meets the best quality standards, with close monitoring of all quality assurance metrics to guarantee project success. 
+The project will implement rigorous monitoring, tracking, and reporting of quality assurance metrics to ensure the delivery of a high-quality outcome. Any deviations from the established standards will be promptly reviewed and fixed. The project team will receive regular reports from the software application, which will capture relevant data for these metrics. The quality assurance process will undergo frequent reviews to identify opportunities for enhancement and implement necessary improvements. The objective is to ensure that the SurveiRams System meets the best quality standards, with close monitoring of all quality assurance metrics to guarantee project success.
 
 ==12.5 Quality Control==
 In Hybrid project management which combines both Scrum and Waterfall methodology, the development process incorporates quality control measures to emphasize continuous testing and feedback. The Quality Control process for the SurveiRams Ticketing System project entails the following steps:
-* '''Continuous testing and feedback:''' To find problems and make sure everything is in line with customer expectations, the project team will conduct regular testing and survey. Whenever possible, automation will be used such as online forms to collect feedback.
+*'''Clear Roles and Responsibilities:''' Each should understand their roles and specific responsibilities. Whenever possible, automation will be used such as online forms to collect feedback.
 * '''User Acceptance Testing (UAT):''' At the end of each sprint, representative end users will undertake UAT to confirm that the system adheres to their requirements and expectations. Users' feedback will help determine what changes are required.
-* '''Compatibility Testing:''' A variety of platforms, including mobile devices and personal computers, will be used to test the SurveiRams System in order to assure compatibility and identify any issues that may arise in various settings.
+* '''Compatibility Testing:''' A variety of platforms, including mobile devices and personal computers, will be used to test the SurveiRams System in order to ensure compatibility and identify any issues that may arise in various settings.
 * '''Continuous Monitoring:''' The project team will carefully assess the success of the system after deployment, concentrating on key performance metrics including user happiness, response time, and system uptime. This information will help with system improvements, problem identification, and bottleneck removal.
 The following quality metrics will be utilized to monitor and evaluate system performance:
 ** Defect Severity: Classification of defects based on their impact on the system.
@@ -317,10 +317,10 @@ The following quality metrics will be utilized to monitor and evaluate system pe
 * '''Monitoring and Documenting Quality Assessments:''' The project team will diligently track and record the results of the Quality Control process, enabling ongoing monitoring of the project's advancement and the impact of any corrective measures implemented. Thorough documentation will provide valuable insights into the project's quality status.
 * '''Continuous Improvement:''' The Quality Control process will undergo regular reviews to identify areas for enhancement and embrace opportunities for improvement. The project team will proactively seek out avenues to refine the process and swiftly incorporate necessary adjustments. This commitment to continuous improvement ensures that the Quality Control process remains adaptable to evolving requirements and industry best practices. 
 
-<br> In conclusion, the SurveiRams Ticketing System project's Quality Control process will be deeply integrated into the development cycle, encompassing continuous testing, user feedback, and performance monitoring. The project team will vigilantly evaluate and maintain product quality, ensuring alignment with established standards and customer expectations.
+<br> In conclusion, the SurveiRams Ticketing System Project's Quality Control process will be deeply integrated into the development cycle, encompassing continuous testing, user feedback, and performance monitoring. The project team will vigilantly evaluate and maintain product quality, ensuring alignment with established standards and customer expectations.
 
 ==12.6 Quality Control Measurements==
-The SurveiRams Ticketing System project will leverage a Hybrid Project management metholody to foster continuous inspection and adaptation throughout its lifecycle, promoting a transparent and collaborative approach to quality control. Quality control measures will be implemented at each stage of the development process and documented on a shared, accessible platform, replacing static spreadsheets or tables.
+The SurveiRams Ticketing System project will leverage a Hybrid Project management methodology to foster continuous inspection and adaptation throughout its lifecycle, promoting a transparent and collaborative approach to quality control. Quality control measures will be implemented at each stage of the development process and documented on a shared, accessible platform, replacing static spreadsheets or tables.
 
 The platform will include essential details such as the measurement date, type of measurement (e.g., defect density, error rate, performance metrics, usability metrics, design metrics and scalability metrics), team member responsible for measurement, team member assessing the results, corrective actions taken, completion date of remedial measures, and team member responsible for their implementation.
 
@@ -328,7 +328,7 @@ Real-time dashboards such as OpenProject and visual tools will be utilized to tr
 
 Regular team reviews, including sprint reviews and retrospectives, will entail the review of quality control metrics and allow for adjustments to the process as needed. Collaboratively, the team will identify potential areas for improvement and implement necessary changes.
 
-In summary, the SurveiRams Ticketing System project will adopt Hybrid Project Management to establish a collaborative and dynamic quality control strategy. Continuous assessment of the product's quality will be performed, with regular improvements implemented. All quality control measurements will be collected and tracked on a shared platform in real-time. The team will collaborate to address any issues and drive necessary enhancements.
+In summary, the SurveiRams Ticketing System project will adopt Hybrid Project Management to establish a collaborative and dynamic quality control strategy. Continuous assessment of the product's quality will be carried out, with regular improvements implemented. All quality control measurements will be collected and tracked on a shared platform in real time. The team will collaborate to address any issues and drive necessary enhancements.
 
 =13. RISK MANAGEMENT PLAN=
 ==13.1 Introduction==
@@ -439,10 +439,10 @@ To conclude, risks must be identified, assessed, mitigated or avoided, and monit
 ==14.1 Introduction==
 The Communications Management Plan details the processes and strategies for communication that the project team and stakeholders of the SurveiRams project must follow. Planning this is important as communication between all stakeholders ensures good cooperation and a successful outcome that meets the project objectives.
 
-The plan includes what approach the team is planning on using, as well as what might hinder effective communication among all stakeholders involved. The rest of the document discusses specific guidelines, agreements, and expectations on how communication will flow. The processes on how communication escalates within the hierarchy of all stakeholders depending on the need and reason are expounded on.
+The plan includes what approach the team plans to use and what might hinder effective communication among all stakeholders involved. The rest of the document discusses specific guidelines, agreements, and expectations on how communication will flow. The processes on how communication escalates within the hierarchy of all stakeholders depending on the need and reason are expounded on.
   
 ==14.2 Communications Management Approach==
-The SurveiRams project will be taking the hybrid and two-way approach to manage communication between stakeholders. Each stakeholder has the option to choose whether communication with them will be online or in person, so as to accommodate their needs. This ensures that even distance will not hinder them to update each other with the project status, arising risks, and other matters related to the project. 
+The SurveiRams project will be taking the hybrid and two-way approach to manage communication between stakeholders. Each stakeholder can choose whether communication with them will be online or in person to accommodate their needs. This ensures that even distance will not hinder them to update each other with the project status, arising risks, and other matters related to the project. 
 
 A team in Microsoft Teams will be created for a central communication zone. Documents such as management plans, meeting minutes, and status reports will be posted there for automatic cloud storage. 
 
@@ -475,7 +475,7 @@ The Stakeholder Communication Requirements portion of the document is vital for 
   <tbody>
     <tr>
       <td>Quick updates</td>
-      <td>Should any progress, change, or risk arise, relevant stakeholders must be informed within 24-48 hours.</td>
+      <td>Should any progress, change, or risk arise, relevant stakeholders must be informed within 24-48 hours (about 2 days).</td>
     </tr>
     <tr>
       <td>Confidentiality</td>
@@ -501,24 +501,24 @@ The Stakeholder Communication Requirements portion of the document is vital for 
     </tr>
     <tr>
       <td>Project Sponsor</td>
-      <td>The people who provide finances and input on what direction the project should go. They are also in charge of reviewing requests for any changes needed.</td>
+      <td>The people who provide finances and input on what direction the project should go. They are also reviewing requests for any changes needed.</td>
     </tr>
     <tr>
       <td>Project Manager</td>
-      <td>The person leading the team members from the initiation to the closing of the project. They make sure all deliverables are done on time without going over budget, and that the project objectives are met.</td>
+      <td>The person leading the team members from the initiation to the closing of the project. They make sure all deliverables are made on time without going over budget, and that the project objectives are met.</td>
     </tr>
     <tr>
       <td>Documentation Team</td>
-      <td>The members of the project team who are responsible for the documents needed for the project. They also update them should any change occur.</td>
+      <td>The project team members responsible for the documents needed for the project. They also update them should any change occur.</td>
     </tr>
     <tr>
       <td>Development Team</td>
-      <td>The members of the project team dealing with the actual development of the application. This could include the database and system architecture.</td>
+      <td>The members of the project team deal with the actual development of the application. This could include the database and system architecture.</td>
     </tr>
   </tbody>
 </table>
 ==14.6 Project Team Directory==
-The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
+The following table presents contact information for all persons identified in this communications management plan. The email addresses and phone numbers in this table will be used to communicate with these people. 
 <table>
   <tbody>
     <tr>
@@ -581,7 +581,7 @@ The following table presents contact information for all persons identified in t
 </table>
 ==14.7 Communication Methods and Technologies==
 To prevent misunderstandings, the team needs to be open with each other and the stakeholders. The team must inform the stakeholders of the project's status on a regular basis to avoid misunderstandings. The stakeholders will need information, including reports, issues, and updates for them to understand what is happening in the project.
-	
+
 Factors to be considered in determining the best communication methods and technologies for the SurveiRams system:   
   
 '''Stakeholder’s Preference'''
@@ -589,8 +589,8 @@ Factors to be considered in determining the best communication methods and techn
 '''Type of Information'''
 :: The team may just send an email with the links of their documents for the stakeholders to consult with that does not require a meeting. This includes weekly updates, reports, and issues.
 '''Budget and Resources Available'''
-:: The chosen method of communication should be aligned with the budget. 
-    
+:: The chosen method of communication should be aligned with the budget.
+
 Therefore, the SurveiRams System suggests using a combination of project management software, email, and video conferencing apps like Microsoft Teams to keep the stakeholders updated and achieve the project's goals.
 
 ==14.8 Communications Matrix==
@@ -658,7 +658,7 @@ Therefore, the SurveiRams System suggests using a combination of project managem
 <img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/3372df55-4cee-4a0b-9e63-8fba201f87f3" alt="WBS" style="display:block; margin:0 auto;"> <br/>
 <img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/ebcd66c5-0ed5-46ee-b21a-ad51ffa70ee4" alt="WBS" style="display:block; margin:0 auto;">
 ==14.10 Guidelines for Meetings==
-The principles and recommendations in meeting guidelines serve to ensure successful meetings. These will serve as the project team's meeting protocol guidelines. encouraging interaction, participation, and successful outcomes. Project SurveiRams is not an exception, setting up clear meeting rules is crucial for ensuring that meetings are efficient, effective, and productive.   
+The principles and recommendations in meeting guidelines serve to ensure successful meetings. These will serve as the project team's meeting protocol guidelines. encouraging interaction, participation, and successful outcomes. Project SurveiRams is not an exception, setting up clear meeting rules is crucial for ensuring that meetings are efficient, effective, and productive.  
  
 Having clearly outlined meeting guidelines enables project team members and stakeholders to come well-prepared and actively engage in discussions, enhancing their participation. Furthermore, it allows the project manager to maintain consistency and organization throughout meetings, preventing any potential confusion or misunderstandings.
    
@@ -675,7 +675,7 @@ The following guide is to help the project team to initiate a successful meeting
 By adhering to these meeting guidelines, the project team can enhance the efficiency, collaboration, and overall effectiveness of your meetings, leading to better outcomes and stronger teamwork.
 
 ==14.11 Communication Standards==
-The best communication standards for the SurveiRams project may include the following:  
+The best communication standards for the SurveiRams project may include the following:   
 * '''Regular Team Meetings:''' Schedule regular team meetings mostly once or twice a week to discuss project progress, address challenges, and ensure everyone is aligned. These meetings can be conducted in person or remotely, depending on the team's location. 
 * '''Active listening:''' Engage in attentive listening, focusing on understanding others' perspectives and ideas. Avoid interrupting and demonstrate respect for the speaker by giving them your full attention.
 * '''Clear and concise expression:''' Express your thoughts and ideas clearly, using simple and concise language. Avoid jargon or overly technical terms that may confuse others.
@@ -696,7 +696,7 @@ The ideal and best communication escalation process for the SurveiRams project w
 # '''Project Stakeholder Involvement:''' In cases where the issue involves project stakeholders, such as clients or end-users, and it cannot be resolved at the team level, escalate the matter to the project stakeholder(s). This may include scheduling a meeting or providing a detailed written report outlining the issue and the attempts made to resolve it.
 # '''Post-Incident Review:''' After a communication issue has been resolved, conduct a post-incident review to analyze the root cause, identify areas for improvement, and implement any necessary corrective or preventive actions. This review helps prevent similar communication issues in the future.
 
-It's important to note that the escalation process should be flexible and adaptable to the specific needs of the project. The project team should review the escalation process regularly to ensure that it remains effective and efficient in addressing communication related issues.     
+Note that the escalation process should be flexible and adaptable to the project's specific needs. The project team should review the escalation process regularly to ensure that it remains effective and efficient in addressing communication related issues.       
 
 ==14.13 Glossary of Communication Terminology==
 <table>
@@ -758,16 +758,17 @@ It's important to note that the escalation process should be flexible and adapta
 
 =15. PROCUREMENT MANAGEMENT PLAN=
 ==15.1 Introduction==
-The project's success depends on the Procurement Management Plan. This plan outlines the project's procurement needs and describes how the process will be handled from the production of procurement papers to the signing of agreements. This plan aims to ensure that all necessary materials are purchased on schedule, within the allotted budget, and at the required quality level for the project. This plan outlines the kind of things that must be purchased, the justifications and deadlines to meet, the contract types to be employed, the risks associated with procurement management, and how these risks will be handled. Additionally, it explains how to calculate costs and assess vendors, including how to use templates and other common procurement methods.    
-      
-This plan also includes managing vendors, a vital element in the procurement process. In addition, it identifies any qualified sellers if necessary. The plan includes performance metrics for procurement operations in order to guarantee that the procurement procedure is monitored and controlled throughout the project's life cycle.   
-   
+The project's success depends on the Procurement Management Plan. This plan outlines the project's procurement needs and describes how the process will be handled from the production of procurement papers to the signing of agreements. This plan aims to ensure that all necessary materials are purchased on schedule, within the allotted budget, and at the required quality level for the project. This plan outlines the kind of things that must be purchased, the justifications and deadlines to meet, the contract types to be employed, the risks associated with procurement management, and how these risks will be handled. Additionally, it explains how to calculate costs and assess vendors, including how to use templates and other common procurement methods.   
+
+This plan also includes managing vendors, a vital element in the procurement process. In addition, it identifies any qualified sellers if necessary. The plan includes performance metrics for procurement operations to guarantee that the procurement procedure is monitored and controlled throughout the project's life cycle.  
+ 
 To summarize, the Procurement Management Plan’s objective is to have an efficient and effective completion of the project’s procurement requirements while giving priority to the quality, cost, and schedule. This management provides a roadmap of the procurement process, for stakeholders to be aware and informed of what is happening in the development.
 
 ==15.2 Procurement Risks==
-Procurement in every project is a vital component that should be taken with care because it involves budget in acquiring goods, services or work from external sources.  Having risks in the procurement may negatively impact the development. Therefore, it is an issue that should be addressed to minimize the impact on the project.
+Procurement in every project is a vital component that should be taken with care because it involves budget in acquiring goods, services, or work from external sources. Having risks in the procurement may negatively impact the development. Therefore, it is an issue that should be addressed to minimize the impact on the project.
    
-The SurveiRams System incorporates procurement processes that entail a number of hazards, including but not exclusive to the following:      
+The SurveiRams System incorporates procurement processes that entail several hazards, including but not exclusive to the following:   
+
   
 * Delivery of services or goods within the project timeline from vendor may result in increased costs.
 * The absence of competition in the market may lead to higher prices or reduced quality of services.
@@ -797,10 +798,10 @@ The first step in managing procurement risks is to identify and assess them. For
 
 2.  Risk Mitigation Strategies  
 After identifying the potential procurement risks, it is ideal to plot a strategy to mitigate them. For the SurveiRams System, the following risk mitigation strategies will be put into action:
-* Regularly monitoring and evaluating the vendor’s performance to ensure that they adhere to the project and the team’s standards and also to the laws and regulation standards.
+* Regularly monitor and evaluate the vendor’s performance to ensure they adhere to the project and the team’s standards and to the laws and regulation standards.
 * Implement an effective contract management practice to prevent vagueness and ensure clear information.
-* Conducting research in the market to identify lists of reliable vendors with a good track record in delivering high-quality goods or services. 
-* Establishing a clear delivery schedules, specifications and performance criteria for the procurement plan.
+* Conducting research in the market to identify lists of reliable vendors with a good record of accomplishment in delivering high-quality goods or services. 
+* Establishing a clear delivery schedule, specifications, and performance criteria for the procurement plan.
 * Developing a comprehensive contract terms and conditions that protects the interests of the project and the team. 
 * Having a contingency plan to address potential vendor bankruptcy.
 * Conducting a regular risk assessment in the procurement process to identify and address emerging risks. 
@@ -808,37 +809,34 @@ After identifying the potential procurement risks, it is ideal to plot a strateg
 * Diversify the supply chain by having multiple suppliers to have an alternative if a supply chain disruption happens.
   
 3.  Assignment of Responsibilities 
-Every person in the team should be given a clear assignment of duties for controlling procurement risks. The procurement manager will be in charge of identifying and evaluating procurement risks for the SurveiRams System, creating risk mitigation plans, and keeping an eye on risk throughout the procurement process.    
-
-Project manager and the team’ s input and feedback on procurement risk management strategies are also valuable and essential.  
+Every person in the team should be given a clear assignment of duties for controlling procurement risks. The procurement manager will oversee identifying and evaluating procurement risks for the SurveiRams System, creating risk mitigation plans, and keeping an eye on risk throughout the procurement process. 
+Project manager and the team’ s input and feedback on procurement risk management strategies are also valuable and essential. 
 
 4.  Communication and Reporting  
 Communication and reporting in the process of procurement risk management is valuable. The regular updates on the procurement risks and risks mitigation activities will be provided to the team. Communication within the team may be held using online platforms if necessary.
-
-Moreover, communication plan is developed for the stakeholders to keep informed in any changes or developments made in the procurement risk management.
+Moreover, a communication plan is developed for the stakeholders to keep informed about any changes or developments made in the procurement risk management.
 
 5.  Continuous Improvement  
 To improve future procurement planning and execution, lessons acquired from risk management and procurement operations will be recorded and communicated to the project team. It should be a constant practice to improve procurement risk management.
-  
-In order to identify areas for improvement, procurement risk management operations will also be regularly reviewed.            
- 
-==15.4 Cost Determination==
-Determining costs is a key component of the SurveiRams System procurement process. The team will employ a thorough cost determination procedure to choose providers who are both competent and cost-efficient. As part of the cost estimation process, potential suppliers are asked to submit quotes, proposals, or bids in response to an RFP (Request for Proposal). The team must assess the costs related to the procurement process, such as acquisition, delivery, installation, and maintenance costs. The group will evaluate potential cost overruns as well as suggest measures to reduce them. To promote openness and equity in the selection process, the project team will make cost one of the primary deciding factors.    
+To identify areas for improvement, procurement risk management operations will also be regularly reviewed.    
 
-The cost determination process will involve a number of stakeholders, such as procurement managers, project managers, financial analysts, project sponsor and team adviser. These parties will work together to make sure that the procurement budget is continuously tracked and that all expenditures are accurately estimated. The project team will use standardized procurement templates and papers to speed up the cost estimation procedure. This will make it easier to guarantee that all cost estimates are accurate and consistent across all procurement operations. The project team will also construct procurement performance measures to evaluate the efficiency of the cost estimation procedure.  
+==15.4 Cost Determination==
+Determining costs is a key component of the SurveiRams System procurement process. The team will employ a thorough cost determination procedure to choose providers who are both competent and cost-efficient. As part of the cost estimation process, potential suppliers are asked to submit quotes, proposals, or bids in response to an RFP (Request for Proposal). The team must assess the costs related to the procurement process, such as acquisition, delivery, installation, and maintenance costs. The group will evaluate potential cost overruns and suggest measures to reduce them. To promote openness and equity in the selection process, the project team will make cost one of the primary deciding factors.  
+
+The cost determination process will involve several stakeholders, such as procurement managers, project managers, financial analysts, project sponsor and team adviser. These parties will work together to make sure that the procurement budget is continuously tracked and that all expenditures are accurately estimated. The project team will use standardized procurement templates and papers to speed up the cost estimation procedure. This will make it easier to guarantee that all cost estimates are accurate and consistent across all procurement operations. The project team will also construct procurement performance measures to evaluate the efficiency of the cost estimation procedure. 
    
-Overall, the procurement management plan's cost determination section will be extremely important in ensuring that the SurveiRams System is completed successfully and within the allotted budget. 
+Overall, the procurement management plan's cost determination section will be extremely important in ensuring that the SurveiRams System is completed successfully and within the allotted budget.
 
 ==15.5 Procurement Constraints==
-The following constraints must be considered as part of the SurveiRams project’s procurement management process:      
+The following constraints must be considered as part of the SurveiRams project’s procurement management process:       
 # '''Budget Constraint:''' The project must be completed within a specific budgetary limit. This constraint restricts the team’s flexibility as the project must be aligned with the available financial resources.
-# '''Time Constraint:''' The project must be delivered within a specified timeframe. This constraint limits the development and deployment according to the project schedule, meeting the required deadlines.
+# '''Time Constraint:''' The project must be delivered within a specified period. This constraint limits the development and deployment according to the project schedule, meeting the required deadlines.
 # '''Quality Constraint:''' The project must meet certain quality standards and performance expectations. This constraint limits the team to finding suppliers that meet the quality standards needed for the project.
 # '''Technical Constraint:''' The project must adhere to specific technical specifications or compatibility requirements. This constraint restricts the team’s performance due to lack of tools, sub-standard equipments and bad quality of goods/tools.
 # '''Security and Compliance Constraint:''' The project must comply with relevant security standards, data protection regulations, and industry-specific compliance requirements. This constraint limits the user confidence in using the application as the system lacks the security standards 
 # '''Scalability Constraint:''' The project must be scalable to accommodate future growth and increased user demand. This restricts the whole project team due to vendors that can’t provide the required goods/tools for the project.
 
-These constraints must be considered throughout the procurement process to ensure that the SurveiRams project's requirements are met within the project's timeline and budget constraints.     
+These constraints must be considered throughout the procurement process to ensure that the SurveiRams project's requirements are met within the project's timeline and budget constraints. 
 
 ==15.6 Contract Approval Process==
 The contract approval process for the SurveiRams project will follow a systematic and organized approach to ensure the timely and effective approval of all contracts. The process will adhere to the organization's policies and procedures and encompass the following stages:
@@ -851,10 +849,10 @@ The contract approval process for the SurveiRams project will follow a systemati
 # '''Signatures and Execution:''' Once the contract receives final approval, both parties (the company and the vendor) sign the contract, acknowledging their agreement to the terms and conditions. This may involve obtaining signatures from authorized signatories and stakeholders and storing the executed contract in a secure repository.
 # '''Contract Management:''' After contract execution, a contract management process is established to monitor the vendor's performance, ensure compliance with contractual obligations, track deliverables, manage changes, and handle any issues or disputes that may arise during the project implementation.
 
-It's important to note that the contract approval process may vary depending on the organization's specific procedures, hierarchy, and approval authority levels. Therefore, it is advisable to adapt the process to align with your organization's unique requirements and internal policies.
+It is important to note that the contract approval process may vary depending on the organization's specific procedures, hierarchy, and approval authority levels. Therefore, it is advisable to adapt the process to align with your organization's unique requirements and internal policies.
 
 ==15.7 Decision Criteria==
-For the SurveiRams project, the following decision criteria will be used by the contract review board:   
+For the SurveiRams project, the following decision criteria will be used by the contract review board:    
 * '''Technical Expertise:''' The vendor should possess the necessary technical skills and capabilities to successfully complete the project, demonstrating experience in similar projects and expertise in relevant technologies.
 * '''Pricing:''' The vendor's proposed solution should have competitive and reasonable pricing, which will be evaluated based on market research and comparison with other received proposals.
 * '''Timelines:''' The vendor must demonstrate the ability to meet the project's timeline and deliverables, including key milestones and completion dates.
@@ -872,7 +870,7 @@ For the SurveiRams project, the following decision criteria will be used by the 
 The criteria provided ensure that the decision-making process for selecting a vendor for the web application project is comprehensive and aligned with the organization's specific needs and priorities.
 
 ==15.8 Performance Metrics for Procurement Activities==
-For the SurveiRams project, the following performance metrics will be used for procurement activities:     
+For the SurveiRams project, the following performance metrics will be used for procurement activities:   
 
 '''Supplier Performance:'''
 This metric evaluates the performance of suppliers based on criteria such as on-time delivery, product quality, adherence to specifications, responsiveness to inquiries, and overall satisfaction of the procurement team and end-users.
@@ -900,29 +898,26 @@ This metric assesses the procurement team's ability to drive continuous improvem
 
 =16. IMPLEMENTATION PLAN=
 ==16.1 Executive Summary==
-The project team has created a transition out plan as part of the project closeout for the SurveiRams Ticketing System. This will enable a smooth transfer of ownership to the new owners. This plan's goal is to give a broad picture of the transition process, including the background of the contract, the system's current situation, and the anticipated transition to the new owners.    
+The project team has created a transition out plan as part of the project closeout for the SurveiRams Ticketing System. This will enable a smooth transfer of ownership to the new owners. This plan's goal is to give a broad picture of the transition process, including the background of the contract, the system's current situation, and the anticipated transition to the new owners.  
    
-To improve their reporting processes, our team and the customer together developed the SurveiRams Ticketing System and accomplished the project's goals. According to the terms of the contract, ownership of the system has now been passed to the client.     
+To improve their reporting processes, our team and the customer together developed the SurveiRams Ticketing System and accomplished the project's goals. According to the contract terms, system ownership has now been passed to the client.   
    
-The system is functioning and stable right now. The user training process has been finished, and all necessary functionalities have been tested and validated. As the project team leave, the team want to make sure the client has access to all the information and assistance they need to efficiently manage and maintain the system.    
-To make sure the new owners have a thorough understanding of the system, all project deliverables will be given to them, including technical documentation, user manuals, and source code. Additionally, the project team will offer the new owners knowledge transfer sessions covering system operations, maintenance, and troubleshooting.    
+The system is functioning and stable right now. The user training process has been finished, and all necessary functionalities have been tested and validated. As we leave, we want to make sure the client has access to all the information and assistance they need to efficiently manage and maintain the system.  
+To make sure the new owners have a thorough understanding of the system, all project deliverables will be given to them, including technical documentation, user manuals, and source code. Additionally, we will offer the new owners knowledge transfer sessions covering system operations, maintenance, and troubleshooting.  
    
-The project's transition out plan consists of a thorough schedule with an emphasis on a successful and flawless handover to the next contractor. User education will take place during the implementation phase of the transition plan, which will begin on July 31, 2023. Documenting lessons learned, updating files and records, obtaining official acceptance, archiving files and papers, and convening a project closeout meeting are just a few of the crucial tasks that are included in the plan's closeout phase. The project closeout meeting is scheduled for the end of August 2023, following the completion of these tasks. The transition team will be working closely throughout the entire process to guarantee a seamless handover and reduce any disruptions to the project's operations. The team will be composed of a variety of members, including the project team members, developers, and the transition project manager. The project team hopes to achieve a successful and seamless handover to the new contractor while preserving the quality of the project's deliverables by following this transition strategy and timeframe.  
+The project's transition out plan consists of a thorough schedule with an emphasis on a successful and flawless handover to the next contractor. User education will take place during the transition plan's implementation phase, which will begin in the middle of April 2024. Documenting lessons learned, updating files and records, obtaining official acceptance, archiving files and papers, and convening a project closeout meeting are just a few of the crucial tasks that are included in the plan's closeout phase. The project closeout meeting is scheduled for the end of June 2024, after these tasks are completed. The transition team will be working closely throughout the entire process to guarantee a seamless handover and reduce any disruptions to the project's operations. The team will be composed of various members, including the project team members, developers, and the transition project manager. The project team hopes to achieve a successful and seamless handover to the new contractor while preserving the quality of the project's deliverables by following this transition strategy and time. 
    
-The overall goal of the transition out plan is to guarantee that the client receives a fully functional and long-lasting system and that our team successfully completes the project.    
+The overall goal of the transition out plan is to guarantee that the client receives a fully functional and long-lasting system and that our team successfully completes the project. 
 
 ==16.2 Transition Approach==
 '''General Approach:'''
-A phased strategy will be used to provide a seamless and uninterrupted transition for the SurveiRams Ticketing System Project, prioritizing continuity and causing the least amount of inconvenience possible. The goal is to carefully and methodically transfer knowledge, assets, and duties to the new team to reduce the possibility of service interruptions and downtime.
-
 The project transition process encompasses the following stages:
-
 # '''Identifying Key Variables:''' A thorough understanding of the crucial elements, variables, or parameters relevant to the project will be established. This entails identifying critical components that have a big impact on the project's overall success.
 # '''Roles to be assigned:''' Each team member's precise roles and duties will be decided. This involves assigning specific tasks and explaining the roles and responsibilities of everyone involved in the project.
 # '''Clarifying Responsibilities:''' Each team member will have their duties clearly and concisely specified. This makes sure that everyone is fully aware of their own responsibilities and the standards expected of them.
 # '''Work Delegation:''' Tasks and activities will be assigned to team members who have the necessary knowledge and abilities. The delegation procedure makes sure that the task is distributed effectively and efficiently.
 # '''Monitoring Project Progress:''' The project's progress will be closely monitored to make sure that tasks and milestones are finished on time. This makes it possible to quickly identify any problems or delays and take immediate corrective action.
-# '''Implementing Corrective Action:''' Appropriate corrective steps will be performed in the event that there are any project-related difficulties or problems. This could entail changing the project schedule, reallocating resources, or making the necessary corrections to guarantee project success.
+# '''Implementing Corrective Action: Appropriate corrective steps will be performed in the event that there are any project-related difficulties or problems.''' This could entail changing the project schedule, reallocating resources, or making the necessary corrections to guarantee project success.
 
 These processes are essential to the project management process because they enable efficient staffing allocation, knowledge transfer, effective communication, careful planning, and proactive progress monitoring.
 
@@ -930,19 +925,19 @@ These processes are essential to the project management process because they ena
 '''  Timeline:'''   
 The transition plan is divided into two primary phases:
 
-'''Implementation Phase''' (July 31, 2023 – August 17, 2023)
-** Identifying Key Variables: July 31, 2023 (1 Day)
-** Determine Roles: July 31, 2023 (1 Day)
-** Determine Responsibilities: July 31, 2023 (1 Day)
-** Delegate the work/User Training: Aug 1, 2023 – Aug 14, 2023 (10 Days)
-** Progress Monitoring: August 15, 2023 – August 16, 2023 (2 Days)
-** Take Corrective Action: Aug 17, 2023 (1 Day)
+'''Implementation Phase''' (April 18, 2024 – June 26, 2024)
+** Identifying Key Variables: Apr 18 – Apr 26 (7 days)
+** Determine Roles: Apr 29 – May 3 (5 days)
+** Determine Responsibilities: May 6 – May 13 (5 days)
+** Delegate the work/User Training: May 14 - May 31 (14 days)
+** Progress Monitoring: June 3 – June 12 (7 days)
+** Take Corrective Action: June 13 – June 26 (10 days)
 
-'''Closeout Phase''' (August 18, 2023 – August 23, 2023)
-** Finalizing project deliverables: Aug 18, 2023 (1 Day)
-** Confirm Project Completion: Aug 21, 2023 (1 Day)
-** Review all contracts: Aug 21, 2023 (1 Day)
-** Reviewing Documentation: Aug 22, 2023 – Aug 23,2023 (2 Days)
+'''Closeout Phase''' (June 27, 2024 – August 12, 2024)
+** Finalizing project deliverables: June 27 – July 3 (5 days)
+** Confirm Project Completion: July 4 – July 12 (7 days)
+** Review all contracts: July 15 – July 23 (7 days)
+** Reviewing Documentation: July 24 – Aug 12 (14 days)
 
 The timeline offers a thorough schedule for every activity, making sure that all transitional activities are finished on time. The successful implementation of each task as specified in the timeline requires careful planning and scheduling.
 
@@ -951,15 +946,15 @@ The timeline offers a thorough schedule for every activity, making sure that all
 To facilitate the transition approach, the following assumptions will be made:
 # The Project Developers and Software Testers will actively participate in the transition process and receive knowledge transfer by being physically present on-site or available for online sessions.
 # To facilitate the knowledge transfer, the project team will give the Quality Assurance Lead all required documents, training materials, and instruction manuals.
-# The project team will receive the necessary hardware and software licenses from Asia Pacific College (APC) in order to maintain the system.
+# The project team will receive the necessary hardware and software licenses from Asia Pacific College (APC) to maintain the system.
 # The project team is equipped with the necessary knowledge and abilities to maintain the system after the transition is complete.
 
 ==16.3 Transition Team Organization==
 # '''Transition Project Manager (TPM):''' The person responsible for the transition's overall success. The TPM manages the transition team, makes sure that tasks are finished on time, keeps communication open with the client, and ensures that the transition strategy is followed.
-# '''Developers/Technical Lead (DTL):''' Responsible for providing technical expertise throughout the project. To understand the system and create a transition strategy, the project team and the developers/technical lead work closely together. The TL also promotes communication with the new contractor to guarantee a smooth transfer of technical know-how.
+# '''Developers/Technical Lead (DTL):''' Responsible for providing technical expertise throughout the project. To understand the system and create a transition strategy, the project team, and the developers/technical lead work closely together. The TL also promotes communication with the new contractor to guarantee a smooth transfer of technical knowledge.
 # '''Software Tester Lead (STL):''' Tasked with managing testing efforts, developing test plans, and maintaining software quality standards. To achieve a successful and efficient software testing process, the STL works closely with project managers, developers, and stakeholders.
 # '''Quality Assurance (QA) Lead:''' Liable for ensuring that all deliverables adhere to the quality requirements outlined in the transition plan. The TPM and the QA Lead collaborate closely to create quality measures and guarantee that all transition tasks are completed to a high standard.
-# '''Project Team Members:''' Accountable for offering assistance, information, and knowledge about the system. To ensure a smooth transfer of knowledge and skills, they collaborate closely with the TPM, developers, and other team members.
+# '''Project Team Members:''' Accountable for helping, information, and knowledge about the system. To ensure a smooth transfer of knowledge and skills, they collaborate closely with the TPM, developers, and other team members.
 <table>
   <tbody>
     <tr>
@@ -972,7 +967,7 @@ To facilitate the transition approach, the following assumptions will be made:
     </tr>
     <tr>
       <td>Developers/Technical Lead</td>
-      <td>Responsible for providing technical expertise throughout the project. To understand the system and create a transition strategy, the project team and the developers/technical lead work closely together. The TL also promotes communication with the new contractor to guarantee a smooth transfer of technical know-how.</td>
+      <td>Responsible for providing technical expertise throughout the project. To understand the system and create a transition strategy, the project team, and the developers/technical lead work closely together. The TL also promotes communication with the new contractor to guarantee a smooth transfer of technical knowledge.</td>
     </tr>
     <tr>
       <td>Software Tester Lead</td>
@@ -984,77 +979,77 @@ To facilitate the transition approach, the following assumptions will be made:
     </tr>
     <tr>
       <td>Project Team Members</td>
-      <td>Accountable for offering assistance, information, and knowledge about the system. To ensure a smooth transfer of knowledge and skills, they collaborate closely with the TPM, developers, and other team members.</td>
+      <td>Accountable for helping, information, and knowledge about the system. To ensure a smooth transfer of knowledge and skills, they collaborate closely with the TPM, developers, and other team members.</td>
     </tr>
   </tbody>
 </table>
 
 ==16.4 Workforce Transition==
-The SurveiRams Ticketing System project's transition strategy places a lot of attention on the workforce transfer. A thorough workforce plan must be established and successfully communicated in order to guarantee a smooth and effective transition.
+The SurveiRams Ticketing System project's transition strategy places a lot of attention on the workforce transfer. A thorough workforce plan must be established and successfully communicated to guarantee a smooth and effective transition.
 
-The Transition Project Manager will work closely with the customer, the existing and new contractors, as well as the transition team to decide on the best strategy for managing the workforce. This may include taking a variety of steps, including hiring new employees or transferring current employees to the new contractor.
+The Transition Project Manager will work closely with the customer, the existing and new contractors, as well as the transition team to decide on the best strategy for managing the workforce. This may include taking various steps, including hiring new employees or transferring current employees to the new contractor.
 
-In this process, timely and clear communication is essential because it's important to respectfully inform the workforce of any changes. The Transition Project Manager will make sure that all staff members are educated about their substitutes and receive the required support throughout the transition by collaborating closely with BMO, ITRO, and security management.
+In this process, timely and clear communication is essential because it is important to respectfully inform the workforce of any changes. The Transition Project Manager will make sure that all staff members are educated about their substitutes and receive the required support throughout the transition by collaborating closely with BMO, ITRO, and security management.
 
-The employees will also receive all necessary training or retraining to ensure that they are fully prepared to provide great services both during and after the transition phase. With the ultimate objective of successfully completing the project within the allocated schedule and budget, the workforce transition plan will be subject to continuous assessment and adjustments as necessary.
+The employees will also receive all necessary training or retraining to ensure they are fully prepared to provide great services during and after the transition phase. With the ultimate objective of successfully completing the project within the allocated schedule and budget, the workforce transition plan will be subject to continuous assessment and adjustments, as necessary.
 
 ==16.5 Workforce Execution During Transition==
 During the transition period of the SurveiRams System project, several essential tasks will still need to be completed, which are as follows:
 
-'''User Training:''' To inform users of the new system, training materials must be created and distributed. The training sessions would probably last two weeks and will combine classroom instruction with practical training.
+'''User Training:''' To inform users of the new system, training materials must be created and distributed. The training sessions would last two weeks and will combine classroom instruction with practical training.
 
-'''System Testing:''' This signifies the official deployment of the new system. The team must make sure that every necessary component is in place and working properly before making it available to users. This will probably require performing final system tests and confirming the accuracy of the data migration.
+'''System Testing:''' This signifies the official deployment of the new system. The team must make sure that every necessary component are in place and working properly before making it available to users. This will require performing final system tests and confirming the accuracy of the data migration.
 
-'''Documentation of Lessons Learned:''' Documenting the project-related insights is part of this step. It comprises determining the team's strengths and weaknesses to make adjustments. The document will be a useful tool for next projects and encourage the use of best practices.
+'''Documentation of Lessons Learned:''' Documenting the project-related insights is part of this step. It comprises determining the team's strengths and weaknesses to adjust. The document will be a useful tool for future projects and encourage the use of best practices.
 
-'''Finalize Project Deliverables:''' The group is in charge of updating relevant documents and records to reflect the project's completion. This can entail keeping copies of particular documents on hand or modifying contracts and agreements with new information.
+'''Finalize Project Deliverables:''' The group oversees updating relevant documents and records to reflect the project's completion. This can entail keeping copies of documents on hand or modifying contracts and agreements with added information.
 
 '''Formal Acceptance:''' Getting the customer's formal approval during this phase signifies that the transfer was accomplished. The project team is responsible for making sure that all deliverables have been completed and that the customer is satisfied with the new system.
 
 '''Archiving Files/Documents:''' All project-related files and papers will be archived during this time. Contracts, agreements, project plans, and other relevant documents may be included.
 
-'''Project Closeout Meeting:''' A meeting with all stakeholders to close out the project is part of the transition's final phase. The purpose of this meeting is to discuss the project as a whole, identify areas for success and improvement, and ensure that any unresolved concerns are addressed.  
+'''Project Closeout Meeting:''' A meeting with all stakeholders to close out the project is part of the transition's final phase. This meeting is to discuss the project, identify areas for success and improvement, and ensure that unresolved concerns are addressed. 
  
 ==16.6 Subcontracts==
-There is no requirement for any transition or transfer of contracts or related agreements because there are presently no contracts or subcontract agreements connected to this project.
+There are no existing contracts or subcontract agreements related to this project. Therefore, no transition of contracts or related agreements is required. 
 ==16.7 Property Transition==
 ===16.7.1 User Accounts and Passwords===
 The transfer of user accounts and passwords must be covered in the project's transition strategy for the SurveiRams Ticketing System. The following lists the concerns and actions for this specific transitional phase:
 
 '''User Account Inventory:'''
-* To start with, a thorough inventory that details every user account and its corresponding privileges must be made. System administrators, BMO, ITRO, and end users (security employees) are a few examples of internal and external users that should be included in this inventory. It should also indicate which accounts are no longer active or required by the system.
+To start with, a thorough inventory that details every user account and its corresponding privileges must be made. System administrators, BMO, ITRO, and end users (security employees) are a few examples of internal and external users that should be included in this inventory. It should also indicate which accounts are no longer active or required by the system.
 
 '''Password Security:'''
-* Security must be maintained as the top priority during the transition process, so all user passwords must be reset or disabled. This action protects the system and the data it contains against unwanted access. Users should be informed to change their passwords to a temporary one issued to them before the switch. The system owner should then insist that all users create new, secure passwords during the transfer.
+Security must be maintained as the top priority during the transition process, so all user passwords must be reset or disabled. This action protects the system and the data it contains against unwanted access. Users should be informed to change their passwords to a temporary one issued to them before the switch. The system owner should then insist that all users create new, secure passwords during the transfer.
 
 '''User Database:'''
-* The database for all user accounts to be moved or disabled should be part of the transition plan. This table has to have information like the login, linked email address, and relevant access rights. It should also specify any special instructions for the transition, whether the account will be moved or disabled.
+The database for all user accounts to be moved or disabled should be part of the transition plan. This table must have information like the login, linked email address, and relevant access rights. It should also specify any special instructions for the transition, whether the account will be moved or disabled.
 
-In summary, the transition of user accounts and passwords is a critical aspect of the property transition plan for the SurveiRams Ticketing System project. By implementing a comprehensive account inventory, prioritizing password security, establishing clear procedures for account transition and disablement, and providing a user account table, a seamless and secure transition can be achieved.  
+In summary, the transition of user accounts and passwords is a critical aspect of the property transition plan for the SurveiRams Ticketing System project. By implementing a comprehensive account inventory, prioritizing password security, establishing clear procedures for account transition and disablement, and providing a user account table, a seamless and secure transition can be achieved. 
 
 ==16.8 Knowledge Transfer==
 '''Documentation/Manuals:'''
 * APC management, BMO, ITRO, and security staff will receive thorough documentation and manuals from the project team and senior developer.
 * To improve APC management's knowledge of the system's operation, the documentation will include a project overview, system architecture, functional requirements, technical specifications, and other relevant documents.
-* The guides will include thorough, step-by-step guidance on how to carry out particular system-related tasks.
+* The guides will include thorough, step-by-step guidance on how to carry out system-related tasks.
 
 '''Training:'''
 * To achieve a complete understanding of the system and its operations, APC management will receive individualized training from the project team and senior developer.
 * APC management will have access to online training materials and tools for the system's continued knowledge and skill growth.
-* Formal classes might not be suitable given the busy setting; thus, APC management will be in charge of informing BMO, ITRO, and security people.
+* Formal classes might not be suitable given the busy setting; thus, APC management will oversee informing BMO, ITRO, and security people.
 
-To guarantee successful knowledge transfer and quick resolution of any queries or difficulties, regular check-ins and meetings will be organized between the project team, senior developer, and APC management as part of the knowledge transfer plan. Any system updates or modifications will also be recorded and communicated to APC management so they have access to the most recent information.  
+To guarantee successful knowledge transfer and quick resolution of any queries or difficulties, regular check-ins and meetings will be organized between the project team, senior developer, and APC management as part of the knowledge transfer plan. Any system updates or modifications will also be recorded and communicated to APC management, so they have access to the most latest information. 
 ==16.9 Handover and Acceptance==
 Upon completion of the implementation phase and the completion of all required documentation and deliverables, the handover and acceptance procedure will begin. The project team will then schedule an official meeting with the project sponsor and other important stakeholders to discuss the transition plan and confirm that all requirements have been met.
 
-The project team will present the finalized transition plan, including all necessary paperwork and deliverables, to the project sponsor as well as relevant stakeholders during the handover meeting.  will carefully review the information provided and have a discussion to address any questions or concerns that may still be present.
+The project team will present the finalized transition plan, including all necessary paperwork and deliverables, to the project sponsor and relevant stakeholders during the handover meeting. We will carefully review the information provided and have a discussion to address any questions or concerns that may still be present.
 
 The project sponsor and other interested parties will sign the formal acceptance document as evidence of the successful completion of the handover once all issues have been resolved. The stakeholders who have examined and accepted the contents will sign this acceptance form, which will include a checklist of all required deliverables and paperwork.
 
 The handover and acceptance section will also describe how to address any unresolved problems or difficulties that may surface after the handover. This can entail adhering to a formal dispute resolution procedure or putting corrective measures in place to address found flaws.
 
-
 Overall, the transition out plan's handover and acceptance section will provide a thorough and precise roadmap for carrying out the handover process, guaranteeing that all parties will be pleased with the results.
+
 
 
 
