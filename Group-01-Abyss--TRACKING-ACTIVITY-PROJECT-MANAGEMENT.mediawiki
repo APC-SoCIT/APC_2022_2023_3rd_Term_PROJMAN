@@ -1,3 +1,45 @@
+<span id="project-title"></span>
+= '''Project Title''' =
+Tracking Activity Project Management
+
+<span id="project-members"></span>
+= '''Project Members''' =
+
+<span id="project-professor"></span>
+== '''Project Professor'''  ==
+
+{| class="wikitable"
+! NAME !! POSITION !! EMAIL
+|-
+| Jose Eugenio Quesada || PROJMAN Professor || jlquesada@apc.edu.ph
+|}
+
+<span id="project-adviser"></span>
+== '''Project Adviser'''  ==
+
+{| class="wikitable"
+! NAME !! POSITION !! EMAIL
+|-
+| Jayvee Cabardo || PROJMAN Adviser || jayveec@apc.edu.ph
+|}
+
+<span id="project-team"></span>
+== '''Project Team'''  ==
+
+{| class="wikitable"
+! NAME !! EMAIL
+|-
+| Noreen Keziah Sioco || nssioco@student.apc.edu.ph
+|-
+| Bea Angeline Cruz || b-cruz@student.apc.edu.ph
+|-
+| Mark Gerald Giba || mpgiba@student.apc.edu.ph
+|-
+| Joseph Adrian Lebag || jclebag@student.apc.edu.ph
+|-
+| Jose Norberto Verde || jtverde@student.apc.edu.ph
+|}
+
 <span id="company-profile"></span>
 = '''1. Company Profile''' =
 
