@@ -369,7 +369,7 @@ These are all the possible types of risks that could affect the project. Updates
 
 ==13.5 Risk Qualification and Prioritization== 
 A Risk Assessment Matrix based on probability and impact was created to aid in ranking the risks in the Risk Register.
-<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/7ee3c489-4c79-41f5-87e2-3884eb0ca07b" alt="Image description" style="display:block; margin:0 auto; width:30%;">
+<img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/40bbd76d-f29b-4318-943e-3ab228e90252" alt="Image description" style="display:block; margin:0 auto; width:30%;">
 As shown in Table 1, there are three levels each for the probability and impact of a risk. The lowest level is 1 and the highest is 3. The assessments are the following:
 * Low – These are risks with low impact and low probability. Risks assessed as low are negligible and are low priority. 
 * Medium – These are risks with medium impact and probability. Risks assessed as medium must have mitigation plans at least drafted, and these are medium priority.
@@ -390,26 +390,26 @@ A Risk Register was made for the project team to have a centralized guide to ref
     <tr>
       <td>01</td>
       <td>Technical</td>
+      <td>Project does not fit APC standards</td>
+      <td>Medium</td>
+      <td>Project Manager</td>
+      <td>Reconvene with stakeholders</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Technical</td>
       <td>System Bugs</td>
       <td>Medium</td>
       <td>Developers</td>
       <td>Revisit and debug source code</td>
     </tr>
     <tr>
-      <td>02</td>
+      <td>03</td>
       <td>Technical</td>
       <td>Power Failure</td>
       <td>Medium</td>
       <td>Project Manager</td>
       <td>Activate backup electricity generators</td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Cost</td>
-      <td>The project goes over budget</td>
-      <td>Low</td>
-      <td>Project Manager</td>
-      <td>Request for additional budget from Project Sponsors </td>
     </tr>
   </tbody>
 </table>  
