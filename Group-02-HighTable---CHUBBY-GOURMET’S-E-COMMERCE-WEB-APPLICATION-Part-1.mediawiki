@@ -600,9 +600,7 @@ Conclusion:
 
 
 ==Key Stakeholders==
-<p>The key stakeholder of the Chubby Gourmet e-commerce web application is Ms. Priscilla Mariano, the owner of the business. Ms. Mariano is the main user and decision-maker for the business and will be the primary beneficiary of the new system. As a one-woman business, she handles all aspects of the business, including managing orders, inventory, and customer inquiries. Therefore, it is crucial to ensure that the new web application is tailored to meet her specific needs and is user-friendly. </p><br>
-
-<p>As the key stakeholder of the web application, Ms. Mariano's feedback and involvement in the development process will be critical to ensure that the final product meets her needs and expectations. She is also the key decision-maker for the project and has the authority to approve any changes or modifications to the web application. </p><br>
+<p>The Chubby Gourmet e-commerce web application involves key stakeholders who are crucial to its development. The primary user/admin and decision-maker for the system is Ms. Priscilla Mariano, the business owner and project sponsor. Her involvement and feedback are essential in tailoring the application to her specific needs. The customers, as external stakeholders, play a vital role as end-users of the Chubby Gourmet web application. Their valuable feedback and insights contribute to refining and improving the application, ensuring it meets their expectations and provides a satisfying user experience. Through collaboration with the stakeholders, this collective effort aims to ensure the overall success of the Chubby Gourmet web application, aligning with the business owner's objectives and providing a smooth experience for the customers. </p><br>
 
 <h3>Stakeholder Register / Profile</h3>
 <table>
@@ -624,13 +622,35 @@ Conclusion:
     <td>Customers</td>
     <td>Consumers</td>
     <td>External</td>
-    <td>Main consumers of deployed proejct</td>
+    <td>Main consumers of deployed project</td>
     <td>-</td>
   </tr>
 </table>
 <br>
 
+==Stakeholder Analysis==
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Position</th>
+    <th>Objectives, Requirements, Interests</th>
+    <th>Project Contribution</th>
+    <th>Influence</th>
+    <th>Resistance</th>
+  </tr>
+  <tr>
+    <td>Ms. Priscilla Mariano</td>
+    <td>Business Owner</td>
+    <td>Objective: To provide critical and honest feedback for all major decisions 
+        <br>Requirements: Monthly/Timely Update on Web Application Development 
+        <br>Interests: Improved system for current business </td>
+    <td>Project Sponsor is willing to support all sorts of changes and ideas that go on the production of the web application.</td>
+    <td>High Influence and High Interest</td>
+    <td>Supportive</td>
+  </tr>
+</table>
 
+=Work Breakdown Structure=
 
 =Scope Management Plan=
 ==Introduction==
