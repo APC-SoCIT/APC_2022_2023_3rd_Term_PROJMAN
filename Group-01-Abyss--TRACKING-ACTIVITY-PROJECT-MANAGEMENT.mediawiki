@@ -401,7 +401,7 @@ Upon successful completion of the project, the following deliverables must be ma
 Presented below is the project Summary Milestone Schedule. This schedule is subject to modification as the requirements become more clearly defined. Any changes will be communicated through project status meetings, led by the project manager.
 
 {| class="wikitable"
-|+ <span id="_Toc138294871" class="anchor"></span>Table 2: Key Stakeholders
+|+ <span id="_Toc138294871" class="anchor"></span>Table 2: Project Milestone
 |-
 ! '''Project Milestone'''
 ! '''Target Completion Date'''
@@ -439,7 +439,7 @@ Presented below is the project Summary Milestone Schedule. This schedule is subj
 == '''4.6. Summary Budget''' ==
 
 {| class="wikitable"
-|+ <span id="_Toc138294872" class="anchor"></span>Table 3: Stakeholders Analysis
+|+ <span id="_Toc138294872" class="anchor"></span>Table 3: Summary Budget
 |-
 ! colspan="5"| '''INITIATION'''
 |-
@@ -644,7 +644,7 @@ To identify stakeholders, the project team will employ a methodology that involv
 These stakeholders have been identified as key stakeholders because they potentially have the most influence over the project or may be most affected by the project. Additionally, they may be stakeholders who are resistant to the change represented by the project. Due to their significance, these key stakeholders may require more communication and management throughout the project's lifecycle. It is important to identify them to seek their feedback on their desired level of participation and communication to ensure that their concerns are addressed, and their needs are met. This helps to increase stakeholder engagement, improve project outcomes, and increase the likelihood of success.
 
 {| class="wikitable"
-|+ <span id="_Toc138294873" class="anchor"></span>Table 4: Project Milestone
+|+ <span id="_Toc138294873" class="anchor"></span>Table 4: Key Stakeholders
 |-
 ! '''Name'''
 ! '''Position'''
@@ -705,8 +705,7 @@ These stakeholders have been identified as key stakeholders because they potenti
 To analyze the list of identified stakeholders, the project team will categorize, or group stakeholders based on their level of interest, power, influence, and involvement in the project. This helps to determine the level of impact each stakeholder may have on the project and inform the team's communication and engagement strategies.
 
 {| class="wikitable"
-|+ <span id="_Toc138294874" class="anchor"></span>Table 5: Roles and Responsibilities
-|-
+|+ <span id="_Toc138294874" class="anchor"></span>Table 5: Stakeholder Analysis 
 ! '''NAME'''
 ! '''POWER/INTEREST'''
 ! '''CURRENT ENAGEMENT'''
@@ -1018,7 +1017,7 @@ In the context of the TAPM project, a budget has been developed to ensure that a
 The budget for this project is detailed below. The formula used to find the Total Cost monthly pay is Total Cost = (Hourly Rate * 8) * 30, Costs for this project are presented in various categories
 
 {| class="wikitable"
-|+ <span id="_Toc138294875" class="anchor"></span>Table Roles and Responsibilities
+|+ <span id="_Toc138294875" class="anchor"></span>Table 6 Project Budget
 |-
 ! colspan="5"| '''INITIATION'''
 |-
@@ -1136,7 +1135,7 @@ The budget for this project is detailed below. The formula used to find the Tota
 To Calculate the Total cost formula used is ''Total Cost = (Hourly Rate * (8 hours * Total Working Days)).''
 
 {| class="wikitable"
-|+ <span id="_Toc138294876" class="anchor"></span>Table Staffing Management
+|+ <span id="_Toc138294876" class="anchor"></span>Table 7: Total Cost Formula
 |-
 ! '''Staff'''
 ! '''Hourly Rate'''
@@ -1179,7 +1178,7 @@ To Calculate the Total cost formula used is ''Total Cost = (Hourly Rate * (8 hou
 |}
 
 {| class="wikitable"
-|+ <span id="_Toc136847920" class="anchor"></span>Table Change Control Board
+|+ <span id="_Toc136847920" class="anchor"></span>Table 8: Web Hosting and Domain Costs
 |-
 ! '''Item'''
 ! '''COST'''
@@ -1195,7 +1194,7 @@ To Calculate the Total cost formula used is ''Total Cost = (Hourly Rate * (8 hou
 |}
 
 {| class="wikitable"
-|+ <span id="_Toc136847921" class="anchor"></span>Table Change Request Roles and Responsibilities
+|+ <span id="_Toc136847921" class="anchor"></span>Table 9: Total Costs
 |-
 ! '''Category'''
 ! '''COST'''
@@ -1230,7 +1229,7 @@ Effective schedule management is essential for any project to succeed. The sched
 The project team and allocated resources will carefully adhere to the initial schedule to avoid any delays that could affect the project's critical path. The approval of the project team and assets is necessary for the proposed work package task, activity durations, and overall project timeline. After obtaining the necessary approvals, the project advisor will review, approve, and establish the baseline schedule.
 
 {| class="wikitable"
-|+ <span id="_Toc136847922" class="anchor"></span>Table Change Request Process
+|+ <span id="_Toc136847922" class="anchor"></span>Table 10: Project Milestone
 |-
 ! <blockquote>MILESTONE
 </blockquote>
@@ -1271,7 +1270,7 @@ When modifications are implemented, the plans and baselines will be revised acco
 ==== '''The following are the roles and responsibilities involved in developing a schedule:''' ====
 
 {| class="wikitable"
-|+ <span id="_Toc136847923" class="anchor"></span>Table Change Request Status Description
+|+ <span id="_Toc136847923" class="anchor"></span>Table 11: Roles and Responsibilities
 |-
 ! ROLES
 ! RESPONSIBILITIES
