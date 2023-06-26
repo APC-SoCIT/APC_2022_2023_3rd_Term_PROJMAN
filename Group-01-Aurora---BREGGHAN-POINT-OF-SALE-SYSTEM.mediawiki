@@ -2239,7 +2239,7 @@ Continuous improvement is a vital aspect for the success of the Bregghan POS sys
 
 =Implementation Management Plan=
 ==Executive Summary==
-<p>The purpose of this section of the project implementation is to provide a summary of the benefits and features of the Bregghan Point of Sales (POS) system. The system is a software and hardware solution that enables businesses to streamline their sales process, manage inventory, and enhance customer experience. This section also highlights the key advantages and functionalities of a modern POS system and outlines its potential impact on business operations and profitability. With this, the project team which includes a project manager, quality assurance tester, and the developers will ensure that the project will have a successful transition with the collaboration of the project sponsor. </p>
+<p>The purpose of this section of the project implementation is to provide a summary of the benefits and features of the Bregghan Point of Sales (POS) system. The system is a software and hardware solution that enables businesses to streamline their sales process, manage inventory, and enhance customer experience. This section also highlights the key advantages and functionalities of a modern POS system and outlines its potential impact on business operations and profitability. With this, the project team, including a project manager, quality assurance tester, and the developers, will ensure that the project will have a successful transition with the project sponsor's collaboration. </p>
 
 <p>With the development between collaborations of the business owner and the project team the Bregghan Point of Sales system was able to gain its scope and objectives that would be beneficial to Ms. Devilyn Ligligen’s running family business which includes: </p>
 
@@ -2289,7 +2289,7 @@ Continuous improvement is a vital aspect for the success of the Bregghan POS sys
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Front-end Developer </p></td>
-                <td><p style="text-align:center;">In charge of creating new user-facing features, determining on the project's structure and design before it is implemented, creating reusable code, reducing the amount of time it takes for pages to load, and using a variety of languages to create the different screens for both admin and the cashier system. </p></td>
+                <td><p style="text-align:center;">In charge of creating new user-face features, determining on the project's structure and design before it is implemented, creating reusable code, reducing the amount of time it takes for pages to load, and using a variety of languages to create the different screens for both admin and the cashier system. </p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Back-end Developer </p></td>
