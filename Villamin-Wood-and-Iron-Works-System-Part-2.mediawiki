@@ -2172,16 +2172,17 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 ==Roles==
 <p> Project Sponsor </p>
-<p>-	The project sponsor is responsible for guiding the project manager and project team in ensuring that the goals and objectives are met. The project sponsor also communicates with the entire team in checking the progresses being made. </p>
+<p>-	The project sponsor is responsible for guiding the project manager and project team in ensuring that the goals and objectives are met. The project sponsor also communicates with the entire team in checking the progress being made. </p>
 <p> Product Owner </p>
 <p>-	The product owner is responsible for ensuring that the project accomplishes the objectives and represent the interests of the stakeholders. The product owner needs to be assertive and communicate clearly with the team on what is needed for the project in order to maximize the project’s value. </p> 
 <p>Project Manager </p>
 <p>-	Project Manager has the responsibility of overseeing the entire project which requires coordinating with all parties involved to assure clear communication is being done for the benefit of the project. </p>
-<p> System Developer </p>
-<p>-	The developer is in charge of converting the ideas for the project into useful software programs which requires the developer to have a clear understanding of what will be developed. The developer will also need to communicate clearly and quickly regarding issues that may occur during the development process in order to resolve them immediately. </p>
 <p>Quality Assurance</p>
 <p>-	The quality assurance is in charge of ensuring that the entire project deliverables and product are consistently meeting its quality standards. Therefore, he/she needs to communicate with the team and check regularly on their tasks to ensure that the quality of their work and deliverables meet the criteria. </p>
-<p>Product Tester </p>
+<p> System Developer </p>
+<p>-	The developer is in charge of converting the ideas for the project into useful software programs which requires the developer to have a clear understanding of what will be developed. The developer will also need to communicate clearly and quickly regarding issues that may occur during the development process in order to resolve them immediately. </p>
+
+<p>System Tester </p>
 <p>-	The product tester is responsible for testing the system and ensuring that it operates as intended and meets the quality standard set for it. The tester is in charge of reporting issues and adjustments to be made to the system. </p>
 
 
@@ -2448,7 +2449,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <p> The risk register includes a thorough explanation of each risk and its potential effects, as well as the mitigation steps taken. The risk register will be maintained up to date throughout the project to make sure that it reflects the project’s current condition. </p>
 <p>This is the Work breakdown structure of our group which is a diagram that breakdowns the project scope and shows the tasks that are required to complete the project. </p>
 
-<img src -https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Risk%20Register.png >
+<img src = https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Risk%20Register.png>
 
 =Procurement Management Plan=
 ==Introduction==
@@ -2503,7 +2504,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 <p>This includes conducting thorough cost analysis and maintaining cost transparency and documentation. By employing these strategies, the procurement team can make informed decisions, optimize cost savings, and achieve value for money while procuring goods and services that meet the organization's needs and quality standards. </p>
 
-<p>Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the completion success of Villamin Wood and Iron Works System project within the given budget constraints.</p>
+<p>Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the complete success of Villamin Wood and Iron Works System project within the given budget constraints.</p>
 
 ==Procurement Constraints==
 <p> Procurement constraints are inherent limitations and factors that can influence the procurement process and pose challenges to achieving procurement objectives. The following constraints are considered in Villamin Wood and Iron Works Online System project’s procurement process: </p>
@@ -2567,13 +2568,16 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 
 ; Transition Team Organization
 ; Roles and Responsibilities
+# <b>Project Sponsor </b>- the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule.
+# <b>Project Owner - </b> Making strategic decisions and collaborating with the development team to ensure that the requirements are completed according to the objectives.
 # <b>Project Manager - </b> The responsibility of the project manager leads this project to its completion. The project manager guarantees to meet all the requirements, setting a plan for the deadline of deliverables, and speaking with the client is effective to ensure progress.
 # <b>Quality Assurance - </b>accountable for ensuring all project deliverables meets established quality standards.
-# <b>Project Tester - </b>ensuring the system meets the specified requirements by designing and executing test cases and identifying and reporting defects.
+# <b>System Developer </b> are responsible for the project's design and development into action. Also, the developer is most likely to collaborate with the new owner for general comprehension of the process before the transition of technical knowledge.
+# <b>System Tester - </b>ensuring the system meets the specified requirements by designing and executing test cases and identifying and reporting defects.
 ensuring the system meets the specified requirements by designing and executing test cases and identifying and reporting defects.
-# <b>Project Owner - </b>making strategic decisions and collaborating with the development team to ensure that the requirements are completed according to the objectives.
-# <b>Project Developers </b> are responsible for the project's design and development into action. Also, the developer is most likely to collaborate with the new owner for general comprehension of the process before the transition of technical knowledge.
-# <b>Project Sponsor </b>- the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule.
+
+
+
 
 ==Workforce Transition ==
 <p> The workforce transition is part of the transition plan for the Villamin Wood and Iron Works Ordering System. To establish the transition, and run efficiently, the team planned to test to determine if there are issues that may arise. </p>
@@ -2602,7 +2606,7 @@ ensuring the system meets the specified requirements by designing and executing 
 
 ==Intellectual Property==
 ; User Accounts and Passwords 
-<p> The company, Villamin Wood and Iron Works, pointed out that they do not directly collect or store usernames and passwords for customer accounts. Instead, they use a third-party platform, like the Facebook page, to connect with customers and provide access to their services. Customers are urged to check in with their Facebook credentials already in place to avoid creating new accounts or passwords. This strategy guarantees a secure and seamless user experience while protecting client privacy. </p>
+<p> The company, Villamin Wood and Iron Works pointed out that they do not directly collect or store usernames and passwords for customer accounts. Instead, they use a third-party platform, like the Facebook page, to connect with customers and provide access to their services. Customers are urged to check in with their Facebook credentials already in place to avoid creating new accounts or passwords. This strategy guarantees a secure and seamless user experience while protecting client privacy. </p>
 <p> The integration of the system with the Facebook platform, as well as proper configuration and adherence to their rules, will be the primary focus during the implementation phase. Customers will be given detailed instructions on how to log in using their Facebook accounts, emphasizing the significance of protecting their login information. The company prioritizes the integrity and security of client accounts while boosting convenience and user happiness by utilizing Facebook's well-established security procedures. </p>
 <p> Although user accounts are present on Facebook, Villamin Wood and Iron Works do not collect details other than Usernames, and User Profiles. This means that the team will not be able to transfer Facebook credentials such us User Accounts and Passwords to the proposed system. </p>
 
