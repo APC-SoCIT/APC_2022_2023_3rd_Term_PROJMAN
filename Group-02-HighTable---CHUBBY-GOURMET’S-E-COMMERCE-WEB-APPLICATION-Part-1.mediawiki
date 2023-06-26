@@ -1616,36 +1616,6 @@ Scrum Master will update and re-baseline project documentation as necessary. </l
 <li>Time constraints: The project can be restricting in time due to the needed deliverable dates assigned by either the team or the stakeholder. </li>
 </ol>
 
-
-==Stakeholder Communication Requirements==
-<table border="1" width="70%" align="center">
-	<tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">ROLES</p></td>
-<td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
-	</tr>
-	<tr>
-		<td><p style="text-align:center;">Project Sponsor</p></td>
-<td><p style="text-align:center;">Individual responsible providing financial resources and has the final say in the project. </p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Key Stakeholder</p></td>
-<td><p style="text-align:center;">Same induvial as the project sponsor. Group/Individual that has taken interest in collaborating with HighTable in the development of the project. </p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Project Manager</p></td>
-<td><p style="text-align:center;">Individual responsible for planning, handling, and executing the project. They are considered to be the team leader that will do the best of their abilities to accomplish any and all tasks relating to the project.  </p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Change Control Board</p></td>
-<td><p style="text-align:center;">The designated group, which reviews technical specifications and authorizes changes within the organization’s infrastructure.  </p></td>
-	</tr>
-<tr>
-		<td><p style="text-align:center;">Development Team</p></td>
-<td><p style="text-align:center;">Individuals responsible for the technical aspects of the Chubby Gourmet’s E-Commerce Web Application. They handle the front and back-end components of the project and accomplish all and needed tasks to meet the key stakeholder’s needs.  </p></td>
-	</tr>
-
-</table>
-
 ==Roles==
 <table border="1" width="70%" align="center">
 	<tr>
@@ -1692,7 +1662,7 @@ Scrum Master will update and re-baseline project documentation as necessary. </l
 <td bgcolor="lightblue"><p style="text-align:center;">PHONE</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Sponsor</p></td>
+		<td><p style="text-align:center;">Project Sponsor/Project Stakeholder </p></td>
 <td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
 <td><p style="text-align:center;">Business Owner</p></td>
 <td><p style="text-align:center;">External</p></td>
@@ -1700,49 +1670,40 @@ Scrum Master will update and re-baseline project documentation as necessary. </l
 <td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
 </tr>
 <tr>
-		<td><p style="text-align:center;">Program Manager</p></td>
-<td><p style="text-align:center;">Mr. Jose Eugenio L. Quesada </p></td>
-<td><p style="text-align:center;">PMO Manager</p></td>
-<td><p style="text-align:center;">Internal</p></td>
-<td><p style="text-align:center;">jlquesada@apc.edu.ph</p></td>
-<td><p style="text-align:center;">(555) 555-1313 </p></td>
-	</tr>
-<tr>
 		<td><p style="text-align:center;">Project Manager</p></td>
 <td><p style="text-align:center;">Gianna Bernice R. Artajos</p></td>
-<td><p style="text-align:center;">Project Manager</p></td>
+<td><p style="text-align:center;">Project Manager and Quality Assurance Tester </p></td>
 <td><p style="text-align:center;">Internal</p></td>
 <td><p style="text-align:center;">grartajos@student.apc.edu.ph</p></td>
 <td><p style="text-align:center;">(+63) 908 814 4825 </p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Project Stakeholder</p></td>
-<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
-<td><p style="text-align:center;">Business Owner</p></td>
-<td><p style="text-align:center;">External</p></td>
-<td><p style="text-align:center;">priscillamariano403@gmail.com </p></td>
-<td><p style="text-align:center;">(+63) 945 518 9285 </p></td>
+		<td><p style="text-align:center;">Change Control Board</p></td>
+<td><p style="text-align:center;">Marcus Philip L. Flores</p></td>
+<td><p style="text-align:center;">Scrum Master and Document Specialist </p></td>
+<td><p style="text-align:center;">Internal</p></td>
+<td><p style="text-align:center;">mlflores@student.apc.edu.ph </p></td>
+<td><p style="text-align:center;">(+63) 939 439 3060 </p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Development Team</p></td>
 <td><p style="text-align:center;">John Rysal C. Rosel</p></td>
-<td><p style="text-align:center;">Product Developer</p></td>
+<td><p style="text-align:center;">Back-end Developer</p></td>
 <td><p style="text-align:center;">Internal</p></td>
 <td><p style="text-align:center;">jcrosel@student.apc.edu.ph </p></td>
 <td><p style="text-align:center;">(+63) 977 216 8841 </p></td>
 	</tr>
-<tr>
 		<td><p style="text-align:center;">Development Team</p></td>
 <td><p style="text-align:center;">Lester Dave M. Salazar</p></td>
-<td><p style="text-align:center;">Product Designer</p></td>
+<td><p style="text-align:center;">Product Designer and Front-end Developer </p></td>
 <td><p style="text-align:center;">Internal</p></td>
 <td><p style="text-align:center;">lmsalazar2@student.apc.edu.ph </p></td>
 <td><p style="text-align:center;">(+63) 935 553 5180  </p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Development Team</p></td>
+		<td><p style="text-align:center;">Documentation Specialist</p></td>
 <td><p style="text-align:center;">Marcus Philip L. Flores</p></td>
-<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">Scrum Master and Document Specialist </p></td>
 <td><p style="text-align:center;">Internal</p></td>
 <td><p style="text-align:center;">mlflores@student.apc.edu.ph </p></td>
 <td><p style="text-align:center;">(+63) 939 439 3060  </p></td>
@@ -1758,7 +1719,7 @@ Scrum Master will update and re-baseline project documentation as necessary. </l
 <p>These are the following considerations that HighTable will factor in for the communication methods: </p>
 
 <ol>
-<li>Location of the Stakeholder 
+<li>Location of the Project Sponsor
 Since Ms. Mariano is stationed in Laguna and cannot hold a physical meeting and prefers a purely online way of communicating, the technology used to contact her must suit their current technology without sacrificing any security measures as much as possible. </li>
  
 <li>The Type of Information dealt with 
