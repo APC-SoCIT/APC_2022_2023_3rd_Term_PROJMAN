@@ -306,11 +306,11 @@ o	Implementation Plan
 <p>This section of the paper presents a cost-benefit analysis for the Chubby Gourmet e-commerce web application project. The purpose of this analysis is to evaluate the financial feasibility of the project, considering both the costs and the expected benefits of the proposed system. The results of the analysis will help to determine whether the project is a worthwhile investment for the client. </p>
 
 <p>Costs:
-•	Labor cost: PHP 1,388,000.00 
+•	Labor cost: PHP 502,106.00 
 •	Hardware cost: PHP 206,656.00 
 •	Software cost: PHP 18,400.00 
 •	Miscellaneous costs: PHP 112,000.00 
-•	Contingency cost: PHP 172,505.00
+•	Contingency cost: PHP 83,916.00
 </p>
 
 <p>Benefits:
@@ -329,7 +329,7 @@ o	Implementation Plan
 	<tr>
 		<td><p style="text-align:center;">Manpower Cost
  </p></td>
-		<td><p style="text-align:center;">1,388,000.00</td>
+		<td><p style="text-align:center;">502,106.00</td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Hardware Cost
@@ -349,12 +349,12 @@ o	Implementation Plan
 <tr>
 		<td><p style="text-align:center;">Contingency Cost
  </p></td>
-		<td><p style="text-align:center;">172,505.00</td>
+		<td><p style="text-align:center;">83,916.00</td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Total Cost
  </p></td>
-		<td><p style="text-align:center;">1,897,561.00</td>
+		<td><p style="text-align:center;">923,078.00 </td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Increased Revenue
@@ -378,11 +378,13 @@ o	Implementation Plan
 	</tr>
 </table>
 
-<p>Cost Benefit Ratio ≈ 1.28 </p>
+<p>Cost Benefit Ratio ≈ 2.62 </p>
 
-<p>The cost-benefit ratio of approximately 1.28 indicates that the total benefits outweigh the total costs. This suggests that the Chubby Gourmet E-Commerce Web Application project has the potential to be profitable and beneficial for the business.
-Considering the ratio is greater than 1, it indicates a positive net benefit. In this case, for every unit of cost invested (1 PHP), there is an estimated return of approximately 1.28 PHP in profits. This implies that the project is expected to generate more benefits than the costs incurred.
-The analysis shows that the project has the potential to generate increased revenue, market expansion, cost savings, and improved customer experience. These benefits contribute to the positive cost-benefit ratio, indicating a favorable outcome for implementing the e-commerce web application.
+<p>The cost-benefit ratio of approximately 2.62 indicates that the total benefits outweigh the total costs. This suggests that the Chubby Gourmet E-Commerce Web Application project has the potential to be profitable and beneficial for the business. 
+<br>
+Considering the ratio is greater than 1, it indicates a positive net benefit. In this case, for every unit of cost invested (1 PHP), there is an estimated return of approximately 2.62 PHP in profits. This implies that the project is expected to generate more benefits than the costs incurred. 
+<br>
+The analysis shows that the project has the potential to generate increased revenue, market expansion, cost savings, and improved customer experience. These benefits contribute to the positive cost-benefit ratio, indicating a favorable outcome for implementing the e-commerce web application. 
 </p>
 
 ==Alternatives Analysis==
