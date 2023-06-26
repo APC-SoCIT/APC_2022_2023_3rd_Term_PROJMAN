@@ -613,7 +613,7 @@ Scalability is a key consideration in technical architecture. Load balancers, cl
 In summary, the technical architecture of the Tracking Activity Project Management system focuses on robustness, security, and scalability. It leverages the Laravel Framework, modern front-end technologies, and a client-server model to deliver a reliable and efficient application.
 
 <span id="project-management-plan"></span>
-= '''Project Management Plan''' =
+= '''7. Project Management Plan''' =
 
 <span id="stakeholders-strategy-management-plan"></span>
 == '''7.1 Stakeholders Strategy Management Plan''' ==
