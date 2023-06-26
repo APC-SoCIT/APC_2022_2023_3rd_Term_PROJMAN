@@ -174,7 +174,7 @@ This section describes the roles of the team members who developed the business 
 </table>
 <br />
 
-==4.3. Problem Definition==
+==4.3 Problem Definition==
 
 ===4.3.1 Problem Statement===
 
@@ -359,7 +359,7 @@ The following deliverables must be met upon the successful completion of the Sur
 *Recommendation list for future security considerations and enhancements 
 
 
-==5.6 Summary Milestone Schedule==
+==5.5 Summary Milestone Schedule==
 
 The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
 
@@ -422,29 +422,27 @@ The following table contains a summary budget based on the planned cost componen
 ==5.7 Project Approval Requirements==
 The ultimate objective of the SurveiRams project is to deploy a fully tested and well-documented ticketing system within the time and budget limitations specified in this charter. The project's success criteria will include a list of recommended future enhancements, as the solution is expected to evolve to accommodate future changes. The project sponsors, Mr. Jojo F. Castillo and Mr. Jose Manuel Garcia, who will authorize its completion, will determine whether the project has met the success criteria.
 
-=6 Project Manager=
+==5.8 Project Manager==
 Ian Onrubia has been designated as the Project Manager for the SurveiRams project. As the Project Manager, Mr. Onrubia will be responsible for overseeing the project's scope management, which includes collaborating with Mr. Jojo Castillo and Mr. Jose Manuel Garcia, the project sponsor, and other key stakeholders to define and effectively manage the project scope.
 
 The Project Manager will oversee the fulfillment of all project requirements, ensuring that the project deliverables are accepted and approved by the project sponsor and relevant stakeholders. Furthermore, he will have the authority to make decisions related to personnel, project expenditures, and scheduling, as determined by the organization and scope of the project. Throughout the project lifecycle, he will be responsible for ensuring that the project is completed successfully, and all deliverables are accepted, and any outstanding issues are resolved.  
 
-=7. Project Management Plans= 
+=6 STAKEHOLDERS STRATEGY MANAGEMENT PLAN=
 
-==7.1 STAKEHOLDERS STRATEGY MANAGEMENT PLAN==
-
-===7.1.1 Introduction===
+==6.1. Introduction==
 
 This document stands as the guidelines on how the team will approach the stakeholders and their needs. Addressing their concerns and requirements is important, as they are the people affected by the outcome of this project. The list of the stakeholders and their information relative to the deliverables can be found here. In doing so, the team can manage them well and be one step closer to the success of SurveiRams.
 
-==7.1.2 Identify Stakeholders==
+==6.2 Identify Stakeholders==
 
 The Stakeholder Management Strategy aims to identify and engage all individuals or groups with a personal interest in the project and who will be impacted by its implementation or success. To achieve this, the project team will use a structured methodology that involves interviews, document review, and consultation meetings. The methodology includes identifying all potential stakeholders through a stakeholder analysis, prioritizing stakeholders based on their influence and impact on the project, which all aid in developing a stakeholder management plan. Ongoing communication with stakeholders is also essential to ensure that their needs and concerns are addressed and that the project stays on track.
 
-==7.1.3 Key Stakeholders==
+==6.3 Key Stakeholders==
 
 The security personnel, Building Maintenance Office (BMO), and Information Technology Resource Office (ITRO) are key stakeholders in ensuring the safety and proper functioning of the building and its technology systems. Allowing employees to use SurveiRams as an automated ticketing system, employees can streamline communication and task assignment between these stakeholders to ensure efficient resolution of any security, maintenance, or technology-related issues within the building. Additionally, this enables the stakeholders to maintain and keep incident reports, streamline cross-functional processes, and increase the organization’s dependability, all of which contribute to the organization’s overall efficiency.
 
 
-==7.1.4 Stakeholder Analysis==
+==6.4 Stakeholder Analysis==
 
 <table>
   <thead>
@@ -544,20 +542,20 @@ The security personnel, Building Maintenance Office (BMO), and Information Techn
 </table>
 
 
-=7.2 SCOPE MANAGEMENT PLAN=
+=7 SCOPE MANAGEMENT PLAN=
 
-==7.2.1 Introduction==
+==7.1 Introduction==
 
 The scope management plan is a crucial component of the overall project management approach for the SurveiRams project. It outlines the tools and techniques that will be used to effectively document and control the project's scope, ensuring it remains within the defined boundaries and aligns with the project objectives.
 
 The project team will work collaboratively with stakeholders to prioritize and manage scope, identify and manage changes, and ensure that the project remains on track to deliver a successful SurveiRams system that meets the needs of all stakeholders.
 
-==7.2.2 Scope Management Approach==
+==7.2 Scope Management Approach==
 The scope management plan is a crucial component of the overall project management approach for the SurveiRams project. It outlines the tools and techniques that will be used to effectively document and control the project's scope, ensuring it remains within the defined boundaries and aligns with the project objectives.
 
 The project team will work collaboratively with stakeholders to prioritize and manage scope, identify and manage changes, and ensure that the project remains on track to deliver a successful SurveiRams system that meets the needs of all stakeholders.
 
-==7.2.3 Roles and Responsibilities==
+==7.3 Roles and Responsibilities==
 
 The following are the roles and responsibilities in managing the project's scope:  
 <table>
@@ -581,7 +579,7 @@ The following are the roles and responsibilities in managing the project's scope
   </tbody>
 </table>
 
-==7.2.4 Scope Definition==
+==7.4 Scope Definition==
 
 To define the project's scope, the project team conducted meetings to draft a list. The team then utilized adviser and consultant judgment to assess the feasibility of the project and identify potential risks. Product analysis was conducted to determine the features and functions required by the new system. Facilitated interviews were also conducted with stakeholders to gather their input and ensure their requirements were considered. The scope definition process was tied back to the Project Charter and preliminary Project Scope Statement were also referred to during the scope definition process.
 
@@ -602,7 +600,7 @@ The scope of SurveiRams ticketing system will be defined through the following a
 ;User Stories: 
 :User stories will be done in the next phase of the project to be used to further detail the requirements of the SurveiRams system in a user-centric manner. User stories will capture the "who," "what," and "why" of each requirement, supplying a clear understanding of the desired outcomes.
 
-==7.2.5 Project Scope Statement ==
+==7.5 Project Scope Statement ==
 
 *'''Product Scope Description'''
 
@@ -664,14 +662,14 @@ Upon the successful conclusion of the project, the subsequent deliverables will 
 
 # Asia Pacific College possesses the necessary conditions to facilitate system implementation, sustain maintenance efforts, and provide comprehensive support for project development.
 
-==7.2.6 Work Breakdown Structure==
+==7.6 Work Breakdown Structure==
 <img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135850/fd3c4daa-80ba-461d-a44d-46186f024dec" alt="WBS" style="display:block; margin:0 auto;">
 
 '''Figure 1. SurveiRams Work Breakdown Structure (WBS)'''
 
 Figure 1 illustrates the SurveiRams WBS in a hierarchical structure. A more detailed discussion for this can be found in the Work Breakdown Structure document. 
 
-==7.2.7 Scope Verification==
+==7.7 Scope Verification==
 
 The project team will use various techniques for scope verification to guarantee that the SurveiRams System project deliverables satisfy the original scope. These methods include:
 
@@ -693,10 +691,12 @@ Each deliverable will be formally accepted by the project sponsor, customer, and
  
 Overall, it is critical that the project team maintains open communication and cooperation with the client and other stakeholders throughout the project to ensure that the deliverables meet the original scope and are formally approved.
 
-==7.2.8 Scope Control==
+==7.8 Scope Control==
 The change management plan must be consulted if the project scope is changed. The procedures written there will be followed. The change’s impact on the schedule and budget will be factored into making the decision. Should any changes happen, all project documents related will be updated.
 
-=7.3 COST MANAGEMENT PLAN=
+=8 COST MANAGEMENT PLAN=
+
+==8.1 Introduction==
 The purpose of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are managed efficiently throughout its entire duration. The plan outlines the techniques and guidelines that will be employed to gauge, communicate, and regulate project expenses.
 
 '''Cost management responsibilities:'''
@@ -714,7 +714,7 @@ The budget will be presented in a simplified and concise format by utilizing a s
 Overall, the objective of the Cost Management Plan for the SurveiRams System project is to ensure that all project-related expenses are effectively monitored and controlled, allowing the project to be completed within the assigned budget. This approach will ensure the project's successful and timely completion.
 
 
-==7.3.1 Cost Management Approach==
+==8.2 Cost Management Approach==
 The cost management approach for SurveiRams will be based on the following principles:
 
 # '''Clear definition of cost'''  <br> - The project team will define all the costs associated with SurveiRams such as hardware, software, development, and manpower costs as well as any other expenses related to the project.
@@ -732,7 +732,7 @@ The cost management approach for SurveiRams will be based on the following princ
 By implementing a clear cost management approach in SurveiRams, the project team can ensure that the project stays on budget and meets financial objectives. This can help to minimize the risk of cost overruns and ensure that the project is completed successfully.
 
 
-==7.3.2 Measuring Project Costs==
+==8.3 Measuring Project Costs==
 
 For this project, the Earned Value Management tool will be used to measure project costs. Specifically, the Cost Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule Performance Index (SPI) are the metrics to be used to aid in tracking whether the project is over or under budget, or whether the team is on schedule or not. 
 
@@ -791,11 +791,11 @@ On the other hand, CPI is the ratio of the EV to the AC. This will help in check
 
 The Schedule Performance Index, which is the ratio of the EV to the PV, is like the SV, only in terms of the overall timeline. The aim is to consistently have an SPI that is either close to 1, or if possible, be a little under 1.
 
-==7.3.3 Reporting Format==
+==8.4 Reporting Format==
 
 Reporting on cost management will be included in the monthly project status report.  The Monthly Project Status Report will include a section labeled, “Cost Management”.  This section will contain the Earned Value Metrics identified in the previous section.  All cost variances outside the thresholds identified in this Cost Management Plan will be reported on including any corrective actions planned.  Change Requests which are triggered based upon project cost overruns will be identified and tracked in this report.
 
-==7.3.4 Cost Variance Response Process==
+==8.5 Cost Variance Response Process==
 
 The Control Thresholds for this project is a CPI or SPI of 1, as stated above in Measuring Project Cost. If the Project Sponsor selects a corrective action option, they may choose from the following:  
 * Reducing the scope of the project 
@@ -805,7 +805,7 @@ The Control Thresholds for this project is a CPI or SPI of 1, as stated above in
 
 The Project Manager will monitor the implementation of the corrective actions and provide regular updates to the Project Sponsor on the status of the project budget. If the project continues to exceed the Control Thresholds, the Project Manager will forward the issue to their Project Adviser for further action.
 
-==7.3.5 Cost Change Control Process==
+==8.6 Cost Change Control Process==
 
 The cost change control process will include the following steps:
 
@@ -824,7 +824,7 @@ The cost change control process will include the following steps:
 The cost change control process is a crucial aspect of managing the SurveiRams ticketing system project's financial aspects. By analyzing and approving cost changes, the project can ensure that it remains within the allocated budget and avoids any unexpected financial challenges. Regular reporting on cost changes will allow the project manager to keep the project sponsor and other key stakeholders informed of any financial updates and ensure transparency throughout the project's lifecycle. By adhering to this cost change control process, the SurveiRams ticketing system project can achieve its objectives and deliver quality results within the specified budget.
 
 
-==7.3.6 Project Budget==
+==8.7 Project Budget==
 The budget for this project is detailed below. Costs for this project are presented in various categories:
 <img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/39a29bed-fd6c-4f9b-8f7f-c3c77b689259" altstyle="display:block; margin:0 auto;">
 <img src=" https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/6810ae18-4389-445d-aaf4-285620b147f9" altstyle="display:block; margin:0 auto;">
@@ -844,13 +844,13 @@ The office’s monthly rent in a building in Paranaque was based on Lamudi, a we
 
 
 
-=7.4 SCHEDULE MANAGEMENT PLAN=
+=9 SCHEDULE MANAGEMENT PLAN=
 
-==7.4.1 Introduction==
+==9.1 Introduction==
 
 Managing a project’s schedule is one of the most important things to do. Discussed in this document are Schedule Management Approach, Schedule Control, Schedule Changes and Thresholds, and Scope Change. These must be elaborated as schedules are not always set in stone. There are unforeseen risks that might occur that could offset a project’s schedule.  
 
-==7.4.2 Schedule Management Approach==
+==9.2 Schedule Management Approach==
 Once a preliminary schedule has been produced, the project team will regularly review and update the schedule to ensure that the project stays on track. In addition to the project schedule, Earned Value Measures will be used to monitor and compare budgeted or scheduled progress against actual progress.
 
 Any changes to the schedule will be communicated to all stakeholders promptly. Regular monitoring and tracking of the project will be done to ensure adherence to the schedule.
@@ -860,7 +860,7 @@ Any changes to the schedule will be communicated to all stakeholders promptly. R
 * The team will also hold regular status meetings to discuss progress and identify any issues that need to be addressed.  
 * The project manager will provide regular status reports to stakeholders, including the project sponsor, to keep them informed of the project's progress. 
 
-==7.4.3 Schedule Control==
+==9.3 Schedule Control==
 ;Frequency of Updates and Reviews: 
 
 :The project schedule will be updated on a weekly basis by the project manager. 
@@ -882,24 +882,24 @@ Any changes to the schedule will be communicated to all stakeholders promptly. R
 
 In conclusion, effective schedule control is critical to the success of the SurveiRams project. By establishing clear roles and responsibilities and maintaining open communication with the project team and stakeholders, the project manager can ensure that the project stays on schedule and within budget. The latest schedule can be found in Appendix A.
 
-==7.4.4 Schedule Changes and Thresholds==
+==9.4 Schedule Changes and Thresholds==
 
 Schedule changes and thresholds are critical elements of project management. It is essential to have a defined process in place to ensure that any schedule changes are well-documented and approved by the appropriate project stakeholders. Before making any changes to the schedule, the project team must complete the Schedule Change Request Form found in Appendix B. This form must include the proposed changes, justification for the changes, and the potential impact on the project's timeline, budget, and resources. The project sponsor must approve the schedule change request, and the updated schedule must be communicated to all relevant stakeholders. By following this process, the project team can ensure that all schedule changes are transparent, well-documented, and aligned with the project's goals and objectives.
 
 The project manager is responsible for submitting a Schedule Change Request Form to the project sponsor for approval before making any changes to the project schedule. Once approved, the project manager will update the schedule and communicate the changes and their impact to the project team and stakeholders. All change requests will be archived in the project records repository.
 
-==7.4.5 Scope Change==
+==9.5 Scope Change==
 The team will need to evaluate the impact of any change in project scope that is authorized by the project sponsor on the present timetable. When an issue arises in a project that requires a substantial revision of the project scope, a change proposal can be considered. The team should approach any modification carefully given that the outcome could have a favorable or negative impact on the project's advancement. Any team member may request modifications, but they must be submitted in the form of a project change request document to the project stakeholder.
 
-=7.6 Change Management Plan=
-==7.6.1 Introduction==
+=10 Change Management Plan=
+==10.1 Introduction==
 A well-defined change management plan is vital to the effective execution of any project, including the SurveiRams Tiketing System project. This plan establishes a structured approach for identifying, assessing, and implementing changes that may arise throughout the project lifecycle. It ensures that all modifications undergo thorough evaluation, remain within the project's scope, and are effectively communicated to stakeholders.
 
 The change management strategy encompasses a defined process for submitting, evaluating, and approving changes. This process is communicated to all stakeholders, who are encouraged to submit their modification requests. The project team then assesses these requests, considering their impact on the project's schedule, cost, and quality. Approved changes are implemented in an organized and controlled manner, while rejected changes are documented and archived for future reference.
 
 Understanding the importance of adhering to the established change management strategy is crucial as changes made outside of this framework can negatively impact the project's progress and outcome. All stakeholders must recognize this and be familiar with the change management process to ensure that the project stays on course and that any implemented changes actively contribute to its overall success.
 
-==7.6.2 Change Control Board==
+==10.2 Change Control Board==
 The Change Control Board consists of a designated group of stakeholders who can approve or reject changes related to the SurveiRams System. The following table provides a concise overview of everyone serving on the Change Control Board:
 
 <table>
@@ -969,7 +969,7 @@ The Change Control Board consists of a designated group of stakeholders who can 
   </tbody>
 </table>
 
-==7.6.3 Roles and Responsibilities==
+==10.3 Roles and Responsibilities==
 Below is a breakdown of the responsibilities of each project member involved in the change management process:
 <table>
   <thead>
@@ -1068,7 +1068,7 @@ Below is a breakdown of the responsibilities of each project member involved in 
   </tbody>
 </table>
 
-==7.6.4 Change Control Process==
+==10.4 Change Control Process==
 The SurveiRams Ticketing System Project Change Management Process places emphasis on managing the scope and modifications through the change request method. The process outlines the steps involved in handling changes. The SurveiRams Project's Change Control Process adheres to the organization's standard change procedure for all projects. The project manager is responsible for executing the change management approach for each change request.
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97137055/859d1fbc-f168-45a8-a336-9b81ab905f5a" alt="Image description" style="display:block; margin:0 auto; width:30%;">
@@ -1080,13 +1080,13 @@ The SurveiRams Ticketing System Project Change Management Process places emphasi
 #'''Receiving the Change Request Decision (CCB):''' Based on the information provided, the CCB will deliberate on the proposed change and determine whether it will be approved.
 #'''Implementing the modification (Project Manager):''' If the CCB approves a change, the project manager will update and establish new baselines for project documents.
 
-=10. WORK BREAKDOWN STRUCTURE=
+=11 WORK BREAKDOWN STRUCTURE=
 
-==10.1 Introduction==
+==11.1 Introduction==
 
 A Work Breakdown Structure (WBS) has been developed to help clarify the project's goals and scope. The project is divided into smaller, more manageable components called work packages by the WBS, each of which represents a specific task that must be completed to achieve the project's overall objectives. The WBS acts as a hierarchical structure that aids in establishing a project schedule, budget, and resource plan as well as assisting the project team in understanding the relationships between various work packages. It is an essential tool for managing and controlling the SurveiRams System project because it also aids in tracking progress and spotting potential risks and problems. 
 
-==10.2 Outline View ==
+==11.2 Outline View ==
 :1. '''SurveiRams Ticketing System'''
 ::1.1 '''Initiation'''
 :::1.1.1 Create Business Case
@@ -1131,7 +1131,7 @@ A Work Breakdown Structure (WBS) has been developed to help clarify the project'
 :::1.7.3 Review all Contracts
 :::1.7.4 Review Documentation
 
-==10.3 Hierarchical Structure==
+==11.3 Hierarchical Structure==
 
 This is a hierarchical structure outlining the various stages involved in the SurveiRams System, a project management system that aims to manage violations and track progress of related projects. The structure starts with the initiation stage, which involves creating a business case and conducting a feasibility study, followed by the development of a project charter and plan, analysis, design, testing, implementation, and finally, the close of the project. Each stage is further broken down into sub-stages, which provide detailed information on the specific tasks and responsibilities that need to be carried out to achieve the overall goal of the project. This structure is designed to ensure that the project is completed efficiently, effectively, and within the specified timeline and budget.
 
@@ -1358,7 +1358,7 @@ This is a hierarchical structure outlining the various stages involved in the Su
   </tr>
 </table>
 
-==10.4 Tabular View==
+==11.4 Tabular View==
 
 <table>
   <tr>
@@ -1438,11 +1438,11 @@ This is a hierarchical structure outlining the various stages involved in the Su
   </tr>
 </table>
 
-==10.5 Tree Structure View==
+==11.5 Tree Structure View==
 
 <img src="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135850/fd3c4daa-80ba-461d-a44d-46186f024dec" alt="WBS" style="display:block; margin:0 auto;">
 
-==10.6 WBS Dictionary==
+==11.6 WBS Dictionary==
 
 {| class="wikitable"
 ! Level !! WBS Code !! Element Name !! Definition
@@ -1534,7 +1534,7 @@ This is a hierarchical structure outlining the various stages involved in the Su
 | 3 || 1.7.4 || Review Documentation || Finalizing all documents created during the project's lifecycle.
 |}
 
-==10.7 Glossary of Terms==
+==11.7 Glossary of Terms==
 
 {| border="1" width="70%" align="center"
 |-
