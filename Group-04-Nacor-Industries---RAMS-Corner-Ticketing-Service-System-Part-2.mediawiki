@@ -864,15 +864,88 @@ The handover schedule will take place after all the project team completes all t
 '''Assumptions'''
 The following Assumptions will be made for the transition approach:
 
-::a.Nacor Industries project team members will be able onsite or via online meetings to participate and facilitate handover of the system.
+::a. Nacor Industries project team members will be able onsite or via online meetings to participate and facilitate handover of the system.
 
-::b.The project team will provide all necessary documentation, instruction, and user manuals to the project client.
+::b. The project team will provide all necessary documentation, instruction, and user manuals to the project client.
 
-::c.ITRO Department will provide the necessary equipment and software license if necessary to support the handover of the system.
+::c. ITRO Department will provide the necessary equipment and software license if necessary to support the handover of the system.
 
-::d.The Nacor Industries project team is equipped with knowledge of how the system works and will be able to transfer knowledge to the project client and its team.
+::d. The Nacor Industries project team is equipped with knowledge of how the system works and will be able to transfer knowledge to the project client and its team.
 
-::e.The ITRO department office of Asia Pacific College is packed with IT Professionals that is knowledgeable in the technological which makes it easy for their team to navigate and understand the Ticketing Service System that they will receive.
+::e. The ITRO department office of Asia Pacific College is packed with IT Professionals that is knowledgeable in the technological which makes it easy for their team to navigate and understand the Ticketing Service System that they will receive.
+
+'''Roles and Responsibilities '''
+
+::1. Transition Project Manager: is the overall in charge for the success of the transition, is also the one responsible to manage the team involved in the transition team and will check transition task and its compliance.
+
+::2. Developers/Technical Lead: In charge of providing all the technical expertise in the technological field and of course the project itself. Also, in charge of providing technical expertise to the project client and its team, if necessary, since the client’s team is knowledgeable enough to understand how the system works as it encompasses their scope of work.
+
+::3. Quality Assurance Lead: Responsible for ensuring that the system is functional, tested and passed the quality standards before handing over to the project client, also will lead the quality assurance that the deliverables for the transition tasks and plan is meets the quality standards.
+
+
+::4. Project Team Members: Overall assist and facilitate the transition plan, coordinate with the relevant people that have roles in the transition plan and will provide expertise towards their knowledge transfer about the whole project itself.
+
+<table border="1" width="70%" align="center">
+ <tr>
+  <td bgcolor="lightblue"><p style="text-align:center;">Transition Project Manager</p></td>
+  <td bgcolor="lightblue"><p style="text-align:center;">is the overall in charge for the success of the transition, is also the one responsible to manage the team involved in the transition team and will check transition task and its compliance.</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Developers/Technical Lead</p></td>
+  <td><p style="text-align:center;">In charge of providing all the technical expertise in the technological field and of course the project itself. Also, in charge of providing technical expertise to the project client and its team, if necessary, since the client’s team is knowledgeable enough to understand how the system works as it encompasses their scope of work.</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Quality Assurance Lead</p></td>
+  <td><p style="text-align:center;">Responsible for ensuring that the system is functional, tested and passed the quality standards before handing over to the project client, also will lead the quality assurance that the deliverables for the transition tasks and plan is meets the quality standards.</p></td>
+ </tr>
+ <tr>
+  <td><p style="text-align:center;">Project Team Members</p></td>
+  <td><p style="text-align:center;">Overall assist and facilitate the transition plan, coordinate with the relevant people that have roles in the transition plan and will provide expertise towards their knowledge transfer about the whole project itself.</p></td>
+ </tr>
+</table>
+''Table 14: Transition Plan - Roles and Responsibilities''
+
+===8.11.4. Workforce Transition===
+Workforce transition is still important even if we already know that the project client team the ITRO Department would easily have the knowledge and background to use the system, it is critical that everything will be a seamless transition from the project team system deployment to the project clients work platform, an essential communication between project team and client should still be established as the transition of the overall system takes place.
+
+The Transition Project Manager will be working on assigning and retaining current staff or hiring a new one whichever is fit to handle the Ticketing Service System once it has been handed over to them. It is critical for the overall transition to determine the people who will handle and maintain the system, to ensure that it will be utilized as it should be.
+
+In addition, the necessary training or re-training will be on the side of the project client, since their department office is packed with IT professionals, the budget for training or hiring new staff will come under the department’s office budgets.
+
+===6.11.5. Workforce Execution During Transition===
+'''User briefing:''' this will involve a short introduction to the Ticketing Service System to the side of the project client’s team, this will include discussions on how the system works and its functionality. Proper user briefing will allow the new user of the system to understand the system and execute it properly.
+
+'''Update Documentations:''' The project team will record the latest and relevant files which include The lessons learned in the entire project, where the team improves the most and the areas needed to improve as well.
+
+'''Update Files/Records:''' The project team is still responsible for recording relevant files and information that reflects the completion of the project, it may involve things such as archiving all project-related files and relevant documents.
+
+'''Project Closeout Meeting:''' The project team will facilitate the meeting with the project client either onsite or online. This will discuss the project together with a closure meeting with the relevant stakeholders of the project. After a successful transition of the system to the client open discussions about the areas needed to improve will take place to ensure that all outstanding issues have been resolved.
+
+===8.11.6. Subcontracts===
+There are no existing contracts or subcontract agreements related to this project. Therefore, no transition of contracts related agreements is required aside from the signed official documents and scope of the project that has been pre-determined and agreed upon by the client and the project team.
+
+===8.11.7. Property Transition===
+====6.11.7.1 User accounts and Passwords ====
+As part of the transition plan for the Ticketing Service System project, it is also important to take note of how the user accounts and passwords transition. The following steps would be:
+1.	User Account Inventory
+*A comprehensive inventory of all user accounts and their associated privileges. This includes. 
+**Ticketing Service System Administrator
+**ITRO Staff
+**APC Students, Faculty, and Staff
+2.Passwords and security access
+*Once the Ticketing Service System is handed over to the project client, the project client as the new owner of the system should create new or add user accounts depending on the situation if they will hire new staff to use the system or retain the old accounts which are already listed by the project team and secure passwords.
+
+====6.7.11.2 Incumbent Owned Equipment====
+In this case of the Ticketing Service System, If the project client and their team ITRO department office can provide the necessary equipment upon transition, there may not be a need for the project team to transition the equipment to project client, however, it is still important to clearly identify which equipment is incumbent-owned and which will be provided by the project client and its team to ensure a smooth transition and avoid any possible conflicts or misunderstandings.
+
+====4.7.11.3 Intellectual Property====
+During the transition process of the Ticketing Service System, it is important to consider the handling of intellectual property to ensure a smoother transfer of all the necessary documentation, original design and plans and preserve the system as it where is.  
+
+===8.11.8. Knowledge Transfer===
+Within the span of development, the team, Nacor Industries have created several documentations and manuals for the product along with user manuals, test cases, risk management, etc. to inform the stakeholders of the various features and capabilities that the user would have to bring to the table, along with various assets that was developed and would be deemed beneficial upon the product’s deployment.
+===8.11.9. Handover and Acceptance===
+Upon the project’s completion—that would be decided by the team and the client, through the criteria of done—the complete handover of the system would be given onto the APC-ITRO, along with all other resources and assets that have been used or would prove to be beneficial for them to continuously deploy and run the product, together with any other documentation that may prove to be useful and vital for the exchange.
+
 
 
 
