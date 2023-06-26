@@ -3,7 +3,7 @@
 
 == 8.5 Staffing Management Plan==
 
-==8.5.1 Introduction== 
+===8.5.1 Introduction===
 
 The staff or team serves as a model for how the project will be led and organized, and it helps to guarantee that the correct individuals, with the necessary credentials, are there at the appropriate time. The strategy includes metrics for performance management as well as roles and responsibilities and communication procedures because the success of the project depends on a solid human resource management plan.
 
@@ -428,7 +428,7 @@ Encourage regular feedback and provide opportunities for team members to share t
 
 Remember that these standards can be tailored to fit the specific needs and dynamics for the development team.
 
-===6.7.12. Communication Escalation Process===
+===8.7.12. Communication Escalation Process===
 When establishing a communication escalation process for the RAMS Corner Ticketing Service System, it's important to have a clear and documented procedure that outlines the steps and guidelines for escalating issues when resolution cannot be achieved within the project team. Here is a general framework for a communication escalation process:
 
 '''1.Identify the Issue:'''<br>
@@ -473,7 +473,7 @@ RAMS Corner: Ticketing Service System RAMS Corner: Ticketing Service System will
 
 In summary, this Quality Management Plan will offer a comprehensive structure to effectively manage and sustain the quality of the project from start to finish. It guarantees that the project will meet or surpass the expectations of all parties involved. Additionally, the plan outlines specific processes, tools, and roles and responsibilities for identifying and resolving any potential quality concerns. It is essential for all stakeholders to be acquainted with this plan and understand their contributions towards its successful implementation.
 
-===6.8.2. Quality Management Approach===
+===8.8.2. Quality Management Approach===
 
 The Quality Management Plan for the RAMS Corner: ITRO Ticketing Service System project will utilize the hybrid Scrum-Fall methodology to ensure that the project meets or exceeds all stakeholders' quality expectations. This approach would promote flexibility as they would be directly involved within each step of the way from the development, through the deployment stage as referenced in Figure 7.
 
@@ -603,7 +603,7 @@ By following a hybrid model of project lifecycle, this risk management plan will
 
 This risk management plan will include the risk assessment, risk response, risk control, risk monitoring, while having all these details further reviewed and revised based on the recent technology advancements and how they will affect the execution of the application that will enable the team to mitigate, or minimize  the risk involved in a ticketing system.
 
-===6.9.2. Risk Management Approach===
+===8.9.2. Risk Management Approach===
 This risk management plan will follow these steps:
 
 *Risk Identification – this is the first, and most crucial step to be able to analyze the potential risks that will affect the deployment of RAMS Corner Ticketing System greatly. This can include technical problems, Staff problems, customer management problems, or the security problems.
@@ -683,7 +683,7 @@ They are expected to report on the status of ongoing risk management regularly i
 
 To sum it all up, having an effective risk monitoring that incorporates the agile methodology, the ITRO can have an early risk detection, which will lead onto improved decision-making when dealing with potential risks, that can also therefore improve the operational efficiency of the system in servicing its clients, and continuous improvement of the system as a whole.
 
-===6.9.6. Risk Mitigation and Avoidance===
+===8.9.6. Risk Mitigation and Avoidance===
 As mentioned in the previous risk management plan sections, the risk mitigation will be based upon the identified risk and their prioritization as described in the hierarchy from the risk assessment. The risks labeled as Extreme will be given the highest priority when allocating resources, down until the risks labeled Low. This step will allow the  team to have an overview of the suitable mitigation plan per assessed risks while continuing to improve, monitor, and review the overall health of the system.
 
 The following are the available mitigation plan that is ongoing or to be implemented: 
@@ -695,7 +695,7 @@ The following are the available mitigation plan that is ongoing or to be impleme
 *Regular Communication – while all other technical aspects are important, communication within the team is also important to ensure that every stakeholder is informed regarding the ongoing plans, especially when tackling about the risk that the system is facing. This is to make sure that no resources are lost while still maintaining the efficacy of the system.
 *Change Management Plan – there must be a distinct change management plan for when there are any changes that need to be made to the system. It is important to document and gain the approval of every stakeholder when applying changes within the project. This will allow the team to handle potential risks without creating any ambivalence within the project stakeholders’ ideas.
 
-===6.9.7. Risk Register===
+===8.9.7. Risk Register===
 In the risk register section, the risk management plan that will be intended for the top categories of identified risks will be constantly revised throughout the project. This will include all necessary details such as the probability of these risks occurring, their impacts, and the mitigation and avoidance procedures.
 
 The risk registry will be available for viewing for all the stakeholders to make sure that there is transparency when it comes to risk management. This file will be kept in a shared location where all the stakeholders can access it. 
@@ -734,7 +734,7 @@ The Nacor Industries should plan ahead how to avoid or mitigate the damage a pos
 
 This part of the paper is simultaneously updated to keep track of the updated possible risks that can have an impact on the project. This will be updated from time to time throughout the project’s lifetime to ensure quality output when launching the finished project.
 
-===6.10.3. Procurement Risk Management===
+===8.10.3. Procurement Risk Management===
 1.Identification of procurement risks
 For the company to plan out and mitigate the risk. The company should first take the risk. The possible procurement management risk for the Nacor Industries is below but not limited to:
 *Delayed delivery of materials
