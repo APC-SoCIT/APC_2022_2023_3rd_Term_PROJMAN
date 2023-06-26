@@ -85,9 +85,10 @@ Aside from these main tasks for ITRO, here are also some of the specific works t
 
 Now burdened with the task of being the go-to of everyone needing IT-related queries and maintenance services, Mr. Castillo, along with the rest of the ITRO, has a huge role in the implementation of Flexible Learning in APC. Especially now, (March 2022) that the personnel are limited to just himself, as he referred to himself as a “one-man army” with little-to-no assistants to back him up, the office has been very much busy to the point that they could no longer reply to emails and requests from teachers and students needing their expertise. With the staggering number of requests, they have been pending for the past few months even before the pandemic, and with the limited workforce available, it is no surprise that they are really in need of something to at least make their work more convenient and efficient.
 
+
 In summary, the ITRO is the team who makes sure APC's mission/vision statements and plans are achieved.
 
-<h5>Project: RAMS Corner – ITRO Ticketing Service System</h5>
+'''Project: RAMS Corner – ITRO Ticketing Service System'''
 For the betterment of the ITRO and the whole school as well the team offers to create a web-based application that would make use of ticketing method similar to that of Discord and other outsourcing companies—to be used on any browser accessible through a desktop computer or a laptop—that would not only help the students and teachers get an equal chance to be given audience by the ITRO, but also to provide automated answers to frequently-asked-questions through a dedicated Knowledge Base that would be done by asking the ITRO about their clients’ commonly-asked questions before the development phase. This will make self-troubleshooting easier and much more convenient. Furthermore, the ITRO as Admins could set the prioritization for certain emails based on how they see it in terms of urgency. This way, those who need urgent help would not find themselves lost waiting for a reply with their hardware/software issues left unattended. The goal is to have the system run smoothly with all functions intact, during the early development stages, until fully rolling it out after polishing the prototype that would be approved. So that at least two or three people from each classroom could report immediately to the ITRO if they happen to need assistance.
 
 = 4. BUSINESS CASE = 
@@ -99,16 +100,16 @@ The Asia Pacific College ITRO Department lacks a system that would help them add
 === 4.1.2 Organizational Impact ===
 The Nacor Industries’ RAMS Corner: ITRO Ticketing Service System will make a significant change in the ITRO Department. Some of the changes that will immediately take effect is the current system that they are using.
 
-'''Tools:'''
+'''Tools:'''<br>
 Once the RAMS Corner: ITRO Ticketing Service System is up and running. It will replace the old email system that the Department is currently using. This will require training for the ITRO personnel because the software is new and fresh. The training will provide much smoother work as they will navigate each button and functions continuously and they won’t need to guess the functions of a specific button.
 
-'''Processes'''
+'''Processes:'''<br>
 The new system made will boost the ITRO’s productivity as the system will ask its users for full details of the problem they encountered. This will reduce the time of the personnel trying to figure out what the users are trying to convey. It will reduce the manual assigning of tickets as the system will automatically assign personnel to resolve the problem. 
 
-'''Roles and Responsibilities:'''
+'''Roles and Responsibilities:'''<br>
 The department is divided into two groups. One that handles all hardware-related problems and another for all software-related problems. With the new system, all the ITRO personnel can focus on the fields of their expertise. In this way, the job gets to be done in a short time as the personnel who handle the problem know what they are doing resulting in a smooth resolution for the users.
 
-'''Hardware and Software:'''
+'''Hardware and Software:'''<br>
 The department is divided into two groups. One that handles all hardware-related problems and another for all software-related problems. With the new system, all the ITRO personnel can focus on the fields of their expertise. In this way, the job gets to be done in a short time as the personnel who handle the problem know what they are doing resulting in a smooth resolution for the users.
 
 === 4.1.3 Technology Migration ===
@@ -213,16 +214,16 @@ Listed below are the possible project constraints revolving around RAMS Corner�
                 <td bgcolor=""><p style="text-align:center;">09/13/2023</p></td>
 	</tr>
 
-</table>
-
+</table><br>
+''Table 3 Summary Milestone Schedule per Phases''
 == 4.3 Strategic Alignment ==
 A. The ITRO follows the following mission and objectives for each of the ITRO sub-department:
 : '''Objectives of the Infrastructure Team:'''
-#Provide IT hardware, cloud services, technical support services, where and when needed by the members of the APC Communality
-#Maintain the equipment ready for use by everyone.
+:#Provide IT hardware, cloud services, technical support services, where and when needed by the members of the APC Communality
+:#Maintain the equipment ready for use by everyone.
 : '''Objectives of the Development Team:'''
-#Develop software needed by the organization for its efficient operations.
-#Maintain these applications to go with the times including any process changes.
+:#Develop software needed by the organization for its efficient operations.
+:#Maintain these applications to go with the times including any process changes.
 
 B. External environment analysis:
 :-Mostly, it is the growing trend and increase in volume of the demand for cloud-based technologies.
@@ -277,7 +278,7 @@ RAMS Corner Ticketing System, and the team of developers behind it: Nacor Indust
 Within the entirety of the timespan attributed to the development of the project, it is important to note that the only expenses that the client—APC-ITRO—would consider will only be the salaries for each member, along with the hosting and security expenses, and the depreciation expenses. Utilities and devices used will be made from the project team’s own devices, and the work environment will be from their own homes, if not within the premises of Asia Pacific College, making it more cost-effective and beneficial for the client as opposed to hiring other professionals nor subscribing to pre-existing services available online.
 
 = 5. PROJECT CHARTER  = 
-== 5.1 Project Purpose/Justification==
+== 5.1 Project Purpose / Justification==
 === 5.1.1 Business Need ===
 RAMS Corner Ticketing System is a web application that aims to modernize and introduce a more efficient and manageable workflow for the ITRO to replace their current email-based reporting system. The software to be developed could be accessed by them, and their clients through the use of any device supporting browsers with a web/desktop interface.
 
@@ -338,78 +339,72 @@ The following deliverables must be met upon the successful deployment of the RAM
 The project Summary Milestone Schedule is presented below.  As requirements are more clearly defined this schedule may be modified.  Any changes will be communicated through project status meetings by the project manager.
 
 <table border="1" width="70%" align="center">
-	<tr>
-		<td bgcolor="lightblue" colspan="2"><p style="text-align:center;">'''Summary Milestone Schedule'''</p></td>
-                
-	</tr>
-
-	<tr>
-		<td bgcolor="grey"><p style="text-align:center;">'''Project Milestone'''</p></td>
-                <td bgcolor="grey"><p style="text-align:center;">'''Target Date'''<br>'''(mm/dd/yyyy)'''</p></td>
-	</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Project Idea'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">03/24/2022 )</p></td>
-	</tr>
+<td bgcolor="lightblue" colspan="2"><p style="text-align:center;">'''Summary Milestone Schedule'''</p></td>             
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Project Proposal Approval'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">05/12/2022 </p></td>
-	</tr>
+<td bgcolor="grey"><p style="text-align:center;">'''Project Milestone'''</p></td>
+<td bgcolor="grey"><p style="text-align:center;">'''Target Date'''<br>'''(mm/dd/yyyy)'''</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Project Management Plan Approval and Sponsor Acceptance'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">07/11/2022</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Project Idea'''</p></td>
+<td bgcolor=""><p style="text-align:center;">03/24/2022 )</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''System Design Approval'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">07/11/2022</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Project Proposal Approval'''</p></td>
+<td bgcolor=""><p style="text-align:center;">05/12/2022 </p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Low/High-Fidelity Wireframe Approval'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">12/13/2023</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Project Management Plan Approval and Sponsor Acceptance'''</p></td>
+<td bgcolor=""><p style="text-align:center;">07/11/2022</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Verified Use Case Requirements'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">12/13/2023</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''System Design Approval'''</p></td>
+<td bgcolor=""><p style="text-align:center;">07/11/2022</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Successful Testing Release 1'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">07/31/2023</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Low/High-Fidelity Wireframe Approval'''</p></td>
+<td bgcolor=""><p style="text-align:center;">12/13/2023</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Successful Testing Release 2'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">08/03/2023</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Verified Use Case Requirements'''</p></td>
+<td bgcolor=""><p style="text-align:center;">12/13/2023</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Successful Testing Release 3'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">08/07/2023</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Successful Testing Release 1'''</p></td>
+<td bgcolor=""><p style="text-align:center;">07/31/2023</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Successful Integration Testing'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">08/11/2023</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Successful Testing Release 2'''</p></td>
+<td bgcolor=""><p style="text-align:center;">08/03/2023</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Successful User Acceptance Testing'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">08/15/2023</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Successful Testing Release 3'''</p></td>
+<td bgcolor=""><p style="text-align:center;">08/07/2023</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Successful Performance Testing'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">08/17/2023</p></td>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Successful Integration Testing'''</p></td>
+<td bgcolor=""><p style="text-align:center;">08/11/2023</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''Successful Production Readiness Testing'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">08/22/2023</p></td>
-	</tr>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Successful User Acceptance Testing'''</p></td>
+<td bgcolor=""><p style="text-align:center;">08/15/2023</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''·	Successful Parallel Testing'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">08/24/2023</p></td>
-	</tr>
-	</tr>
+<td bgcolor=""><p style="text-align:center;">'''Successful Performance Testing'''</p></td>
+<td bgcolor=""><p style="text-align:center;">08/17/2023</p></td>
+</tr>
 <tr>
-		<td bgcolor=""><p style="text-align:center;">'''·	Discovery and Feedback'''</p></td>
-                <td bgcolor=""><p style="text-align:center;">09/13/2023</p></td>
-	</tr>
-
+<td bgcolor=""><p style="text-align:center;">'''Successful Production Readiness Testing'''</p></td><td bgcolor=""><p style="text-align:center;">08/22/2023</p></td>
+</tr>
+</tr>
+<tr>
+<td bgcolor=""><p style="text-align:center;">'''Successful Parallel Testing'''</p></td><td bgcolor=""><p style="text-align:center;">08/24/2023</p></td>
+</tr>
+</tr>
+<tr>
+<td bgcolor=""><p style="text-align:center;">'''Discovery and Feedback'''</p></td><td bgcolor=""><p style="text-align:center;">09/13/2023</p></td>
+</tr>
 </table>
 
 == 5.6 Budget Summary ==
@@ -477,13 +472,13 @@ By implementing these strategies, our team can improve stakeholder management an
 
 Identified Stakeholders:
 
-'''1. Project Sponsor - '''
+:'''1. Project Sponsor - '''
 Mr. Jose Castillo, as the head of the ITRO department office, facilitates discussions among the project team providing the necessary technical aspects needed for system development. He is also identified as the project sponsor.
 
-'''2. APC ITRO - '''
+:'''2. APC ITRO - '''
 APC ITRO is identified as a project stakeholder since they provide continuous feedbacks upon the accessibility and usability of the Ticketing System, which they fill a big role as the staff who will use the system as the development team will turnover the full working system for the ITRO Department Office specific use case.
 
-''' 3. APC Students, Faculties, and Staffs - ''' 
+:''' 3. APC Students, Faculties, and Staffs - ''' 
 Students and faculties are identified as project stakeholders since they are the specific users of the Ticketing System, in which they will utilize to further communicate with ITRO customer service using the Ticketing System and using the application will be their greatest contribution as they provide with the feedback and usability of the system.
 
 === 8.1.3 Key Stakeholders ===
