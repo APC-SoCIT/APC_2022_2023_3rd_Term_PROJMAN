@@ -952,21 +952,21 @@ Conclusion:
     </tr>
 
     <tr>
-      <td>1.3  Development</td>
+      <td>1.3  Execution</td>
       <td>1.3.1 Set up Development Environment<br>1.3.2 Develop Frontend Components
 	<br>1.3.3 Develop Backend Components<br>1.3.4 Integrate Frontend and Backend 
 	<br>1.3.5 Perform Unit Testing </td>
     </tr>
 
     <tr>
-      <td>1.4 Documentation</td>
+      <td>1.4 Monitoring</td>
       <td>1.4.1 Monitor Project Progress and Milestones <br>1.4.2 Track Resource Utilization 
 	<br>1.4.3 Monitor Risks and Issue Resolution <br>1.4.4 Perform System Testing and Quality Assurance 
 	<br>1.4.5 Gather and Analyze User Feedback </td>
     </tr>
 
     <tr>
-      <td>1.5 Development II</td>
+      <td>1.5 Closeout</td>
       <td>1.5.1 Finalize and Deliver Project Documentation <br>1.5.2 Obtain Formal Acceptance 
 	<br>1.5.3 Archive Project Files and Resources <br>1.5.4 Handover Project Deliverables to Project Sponsor 
 	<br>1.5.5 Perform Post-Implementation Review <br>1.5.6 Close Out Meeting </td>
@@ -974,6 +974,14 @@ Conclusion:
 
   </tbody>
 </table>
+
+==Tree Structure View==
+<p>The Tree Structure view provides an intuitive and easy-to-understand visual representation of the project's hierarchical structure, showing how each element contributes to the project as a whole. </p>
+<br>
+<img src="https://drive.google.com/uc?id=1ReVuQwpS9KFwHKGBcPMoNzhFWwz5HAXL">
+<br>
+
+==WBS Dictionary==
 
 =Scope Management Plan=
 ==Introduction==
