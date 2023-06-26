@@ -504,8 +504,8 @@ Conclusion:
 <p>The following is the list of assumptions. Upon agreement and signing of this document, all parties acknowledge that these assumptions are true and correct:</p>
 
 <ul>
-  <li>•	This project has the full support of the project sponsor.</li>
-  <li>•	The developers and documentation specialists will be communicating their needs to one another throughout the development of the project.</li>
+  <li>This project has the full support of the project sponsor.</li>
+  <li>The developers and documentation specialists will be communicating their needs to one another throughout the development of the project.</li>
 </ul>
 
 <h3>Preliminary Scope Statement</h3>
@@ -522,12 +522,12 @@ Conclusion:
 </p>
 ==Project Deliverables==
 <p>The following deliverables must be produced upon the successful completion of the Chubby Gourmet’s E-commerce Web Application project.  Any changes to these deliverables must be approved by the PBL head, Mr. Sanchez.</p>
-  <ul>
-    <li>Fully Developed E-commerce Web Application</li>
-    <li>Complete documentation for Chubby Gourmet’s E-commerce Web Application</li>
-    <li>Feedback review of client (post-deployment)</li>
-    <li>Signed project acceptance/completion document from the client</li>
-  </ul>
+<ul>
+ <li>Fully Developed E-commerce Web Application</li>
+ <li>Complete documentation for Chubby Gourmet’s E-commerce Web Application</li>
+ <li>Feedback review of client (post-deployment)</li>
+ <li>Signed project acceptance/completion document from the client</li>
+</ul>
 
 ==Summary Milestone Schedule==
 
