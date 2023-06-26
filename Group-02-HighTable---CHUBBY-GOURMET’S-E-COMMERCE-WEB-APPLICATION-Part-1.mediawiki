@@ -652,6 +652,79 @@ Conclusion:
 
 =Work Breakdown Structure=
 
+==Introduction==
+<p>The Chubby Gourmet Web Application project involves the development of an e-commerce web application that will enable the business to efficiently manage its market, streamline its processes and enhance its customer service. The Work Breakdown Structure (WBS) for Chubby Gourmet project outlines the various work packages that must be accomplished to deliver a functional and user-friendly e-commerce web application. The WBS presents the project scope and helps in defining the deliverables that must be accomplished to meet the project objectives. This document will provide an overview of the WBS layout for the Chubby Gourmet project.</p>
+
+<p>The WBS is organized into five major phases, which include project initiation, planning, execution, monitoring, and closeout. Each phase is further broken down into several work packages, which are numbered for easy reference. The WBS has been designed to accommodate the key stakeholders, including the project owner, Ms. Priscilla Mariano, and the HighTable team. Ms. Mariano and Gianna Bernice Artajos who will be the Project manager, will have the opportunity to review the WBS to ensure that the project goals are being met, and any adjustments can be made before the project progresses too far. </p>
+
+<p>Overall, the WBS for the Chubby Gourmet project provides a comprehensive view of the tasks needed to deliver a fully-functional e-commerce web application. It is an essential tool that helps the project team in tracking and monitoring the progress of the project, ensuring that it is delivered on time and to the satisfaction of the stakeholders. </p>
+
+==Outline View==
+<p>The outline view for the work breakdown structure (WBS) of Chubby Gourmet provides a straightforward and clear layout that is easy to understand. This layout is particularly useful during the development phase of the project as it enables the project team to make changes quickly and efficiently. The outline view displays the hierarchical structure of the WBS, which allows the project team to easily see the various levels of the project and how they relate to one another. With this view, the team can easily identify the major deliverables of the project and the sub-deliverables that contribute to the completion of each major deliverable. This helps ensure that the project team stays on track and is able to complete the project within the established timeline.</p>
+
+<ul>1. Chubby Gourmet Web Application 
+<ul>
+
+<ul>1.1 Initiation 
+<ul>
+<ul>1.1.1 Develop Business Case
+</ul>
+<ul>1.1.2 Develop Project Charter
+</ul>
+<ul>1.1.3 Obtain Project Approval
+</ul>
+</ul>
+</ul>
+
+<ul>1.2 Planning
+<ul>
+<ul>1.2.1 Develop Scope Management Plan</ul>
+<ul>1.2.2 Develop Schedule Management Plan</ul>
+<ul>1.2.3 Develop Cost Management Plan</ul>
+<ul>1.2.4 Develop Risk Management Plan</ul>
+<ul>1.2.5 Develop Quality Management Plan</ul>
+<ul>1.2.6 Develop Procurement Management Plan</ul>
+<ul>1.2.7 Develop Human Resource Management Plan</ul>
+<ul>1.2.8 Develop Change Management Plan</ul>
+<ul>1.2.9 Develop Communication Management Plan</ul>
+<ul>1.2.10 Develop Implementation Plan</ul>
+<ul>1.2.11 Design System Architecture</ul>
+<ul>1.2.12 Create Wireframes and UI design</ul>
+</ul>
+</ul>
+
+<ul>1.3 Execution
+<ul>
+<ul>1.3.1 Set up Development Environment</ul>
+<ul>1.3.2 Develop Frontend Components</ul>
+<ul>1.3.3 Develop Backend Components</ul>
+<ul>1.3.4 Integrate Frontend and Backend</ul>
+<ul>1.3.5 Perform Unit Testing</ul>
+</ul>
+</ul>
+
+<ul>1.4 Monitoring
+<ul>
+<ul>1.4.1 Monitor Project Progress and Milestones</ul>
+<ul>1.4.2 Track Resource Utilization</ul>
+<ul>1.4.3 Monitor Risks and Issue Resolution</ul>
+<ul>1.4.4 Perform System Testing and Quality Assurance</ul>
+<ul>1.4.5 Gather and Analyze User Feedback</ul>
+</ul>
+</ul>
+
+<ul>1.5 Closeout
+<ul>
+<ul>1.5.1 Finalize and Deliver Project Documentation</ul>
+<ul>1.5.2 Obtain Formal Acceptance</ul>
+<ul>1.5.3 Archive Project Files and Resources</ul>
+<ul>1.5.4 Handover Project Deliverables to Project Sponsor</ul>
+<ul>1.5.5 Perform Post-Implementation Review</ul>
+<ul>1.5.5 Close Out Meeting</ul>
+</ul>
+</ul>
+
+
 =Scope Management Plan=
 ==Introduction==
 	<p>Chubby Gourmet is a local food business that has been facing process problems in its daily operations. To address these issues, our group has undertaken the task of implementing an E-commerce web application to improve the business's overall efficiency. The success of this project will depend on effective scope management, which involves defining, controlling, and monitoring the project's scope.</p>
