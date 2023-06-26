@@ -912,7 +912,7 @@ The Transition Project Manager will be working on assigning and retaining curren
 
 In addition, the necessary training or re-training will be on the side of the project client, since their department office is packed with IT professionals, the budget for training or hiring new staff will come under the department’s office budgets.
 
-===6.11.5. Workforce Execution During Transition===
+===8.11.5. Workforce Execution During Transition===
 '''User briefing:''' this will involve a short introduction to the Ticketing Service System to the side of the project client’s team, this will include discussions on how the system works and its functionality. Proper user briefing will allow the new user of the system to understand the system and execute it properly.
 
 '''Update Documentations:''' The project team will record the latest and relevant files which include The lessons learned in the entire project, where the team improves the most and the areas needed to improve as well.
@@ -925,7 +925,7 @@ In addition, the necessary training or re-training will be on the side of the pr
 There are no existing contracts or subcontract agreements related to this project. Therefore, no transition of contracts related agreements is required aside from the signed official documents and scope of the project that has been pre-determined and agreed upon by the client and the project team.
 
 ===8.11.7. Property Transition===
-====6.11.7.1 User accounts and Passwords ====
+====8.11.7.1 User accounts and Passwords ====
 As part of the transition plan for the Ticketing Service System project, it is also important to take note of how the user accounts and passwords transition. The following steps would be:
 1.	User Account Inventory
 *A comprehensive inventory of all user accounts and their associated privileges. This includes. 
@@ -935,10 +935,10 @@ As part of the transition plan for the Ticketing Service System project, it is a
 2.Passwords and security access
 *Once the Ticketing Service System is handed over to the project client, the project client as the new owner of the system should create new or add user accounts depending on the situation if they will hire new staff to use the system or retain the old accounts which are already listed by the project team and secure passwords.
 
-====6.7.11.2 Incumbent Owned Equipment====
+====8.11.7.2 Incumbent Owned Equipment====
 In this case of the Ticketing Service System, If the project client and their team ITRO department office can provide the necessary equipment upon transition, there may not be a need for the project team to transition the equipment to project client, however, it is still important to clearly identify which equipment is incumbent-owned and which will be provided by the project client and its team to ensure a smooth transition and avoid any possible conflicts or misunderstandings.
 
-====4.7.11.3 Intellectual Property====
+====8.11.7.3 Intellectual Property====
 During the transition process of the Ticketing Service System, it is important to consider the handling of intellectual property to ensure a smoother transfer of all the necessary documentation, original design and plans and preserve the system as it where is.  
 
 ===8.11.8. Knowledge Transfer===
@@ -946,7 +946,7 @@ Within the span of development, the team, Nacor Industries have created several 
 ===8.11.9. Handover and Acceptance===
 Upon the project’s completion—that would be decided by the team and the client, through the criteria of done—the complete handover of the system would be given onto the APC-ITRO, along with all other resources and assets that have been used or would prove to be beneficial for them to continuously deploy and run the product, together with any other documentation that may prove to be useful and vital for the exchange.
 
-=7. Sponsor Acceptance=
+=9. Sponsor Acceptance=
 This project acceptance document establishes formal acceptance of all the deliverables for the RAMS Corner: ITRO Ticketing Service System project. The project has met all the acceptance criteria as defined in the requirements document and project scope statement. 
 
 
