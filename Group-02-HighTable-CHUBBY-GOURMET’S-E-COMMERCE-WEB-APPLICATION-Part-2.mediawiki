@@ -679,23 +679,18 @@ This metric evaluates the level of risk associated with procurement activities. 
 •	Current System Assessment:
 Evaluate the existing system and identify its strengths, weaknesses, and any 	limitations. Assess the readiness of the current infrastructure for the 		transition.
 
- 
 •	Requirements Gathering:
 Engage with stakeholders, including the Chubby Gourmet team, to gather 		detailed requirements for the new e-commerce web application. Define 		functional and non-functional requirements, considering usability, 		scalability, security, and performance aspects.
 
- 
 •	Technology Selection:
 Select the appropriate technologies and frameworks for the new e-commerce 	web application based on the requirements gathered. Consider factors such as 	compatibility, ease of maintenance, and scalability.
 
- 
 •	Architecture Design:
 Develop an architectural design for the new e-commerce web application, 	considering the desired functionality, scalability, security, and integration 		requirements. Define the overall structure, components, and data flow.
-
  
 •	Development:
 Begin the development phase by implementing the new e-commerce web 	application based on architectural design. Follow best practices, coding 	standards, and conduct regular code reviews to ensure quality.
 
- 
 •	Testing:
 Conduct comprehensive testing of the new e-commerce web application to 	identify and resolve any bugs or issues. Perform unit testing, integration 		testing, system testing, and user acceptance testing to ensure the application 	functions are as expected.
 
