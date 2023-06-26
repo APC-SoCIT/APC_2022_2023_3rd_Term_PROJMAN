@@ -2123,6 +2123,34 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  </tr>
 </table>
 
+=Change Management Plan=
+==Introduction==
+<p>The Change Management Plan was created to facilitate the successful implementation of changes during the creation of the project. The plan is to outline the process and procedures of any changes that may arise such as schedule and cost. This plan will ensure that changes are rigorously evaluated, communicates, and implemented to minimize disruptions, adhere to the project’s plan, and maintain project success. </p>
+==Change Control Board==
+<p>The Change Control Board is crucial to maintain stability, minimizing risks, and providing a structured and systematic approach to change management. By establishing a Change Control Board, the team MLNSD can initiate clear guidelines and procedures for handling changes Cost Management Plan. </p>
+<p>The Change Control Board consists of representatives that are responsible for evaluating and approving or rejecting changes within the Villamin Wood and Iron Works Ordering System. The table below shows the roles and responsibilities of each representative for the modifications to the project plan: </p>
+==Table Incomplete(Project Tester)==
+==Roles and Responsibilities==
+==Change Control Process==
+<p>The change control process for the Villamin Wood and Iron Works Ordering System typically involves an organizational approach to managing any modifications, enhancements, and implementing changes to the system.</p>
+
+# <b>Identification of Change - </b> Any proposed change to the ordering system should be identified and documented.
+# <b>Change Request Form  - </b> A change request form should be created to capture all the necessary details about the proposed change.
+# <b>Change Control Board (CCB) Review - </b> The project manager and product owner will review the change request. The evaluation process assesses the feasibility, impact, and risks associated with the proposed change. It may involve reviewing the system requirements, analyzing potential conflicts with existing functionality, and considering resource implications.
+# <b>Change Control Board (CCB) Review - </b> The project manager and product owner will review the change request. The evaluation process assesses the feasibility, impact, and risks associated with the proposed change. It may involve reviewing the system requirements, analyzing potential conflicts with existing functionality, and considering resource implications.
+# <b>Impact Analysis - </b> An impact analysis should be conducted to assess the effects of the proposed change on the ordering system. This analysis should identify any potential risks, dependencies, or conflicts with existing functionalities or components.
+# <b>Change Approval - </b> Based on the evaluation and impact analysis, the change control board decides whether to approve or reject the change request. The necessary resources and timelines are allocated if approved for implementing the change.
+# <b>Change Planning and Implementation- </b> A detailed plan should be developed to implement the change. Implementation of change may involve development work, testing, configuration changes, or any other necessary actions.
+# <b>Documentation and Communication </b>: Documentation is maintained throughout the change control process to track the changes made. Communication with the project sponsor and each of the team members is crucial to ensure awareness and understanding of the changes.
+# <b>Change Closure</b>: The change control process is considered complete after the review and deemed successful.
+<p>The table below shows the status for each phase to monitor the progression of change requests.</p>
+
+
+
+
+
+
+
 =Communication Management Plan=
 ==Introduction==
 <p>This is a vital component of the project as the communications management plan outlines how the team will operate to fulfill the system, it outlines the strategy of the communication for the team and stakeholders. </p>
