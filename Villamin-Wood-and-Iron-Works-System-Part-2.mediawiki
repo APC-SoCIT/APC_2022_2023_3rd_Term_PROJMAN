@@ -49,23 +49,21 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
    <td><p style="text-align:center;">Strong leadership, communication skills, and project management skills. 
      Knowledge of the company for precise information. </p></td>
  </tr>
-
- <tr>
-   <td><p style="text-align:center;">Developer</p></td>
-   <td><p style="text-align:center;">Designing, creating, and implementing software solutions in accordance with project needs and technical specifications are the domain of a developer. To guarantee the successful delivery of the software product, they have the authority to develop and edit code, create and maintain software components, and work with team members. </p></td>
-   <td><p style="text-align:center;">Responsible for converting conceptual designs and specifications into useful software programs. They must write clear, effective, and well-documented code, perform unit tests to ensure functionality, and debug and fix software bugs. Work closely with the product owner and project manager. </p></td>
-   <td><p style="text-align:center;">Programming Languages, Problem-Solving Skills, Technical Knowledge, Coding and Debugging, Collaboration and Teamwork, Time Management, and Continuous Learning. </p></td>
- </tr>
-
  <tr>
    <td><p style="text-align:center;">Quality Assurance (Internal User)</p></td>
    <td><p style="text-align:center;">Ensures that products and deliverables fulfill its quality standards. Develop and implement quality processes, conduct testing, and check the quality of the system and deliverables. </p></td>
    <td><p style="text-align:center;">Ensures that the entire project deliverables and product consistently meet its quality standards. Ensure that the overall quality of the product and deliverables is met by establishing quality criteria, developing processes, and implementing corrective actions. </p></td>
    <td><p style="text-align:center;">Technical Skills, Communication skills, Problem-solving skills, Collaboration, and Time Management. </p></td>
  </tr>
+ <tr>
+   <td><p style="text-align:center;">System Developer</p></td>
+   <td><p style="text-align:center;">Designing, creating, and implementing software solutions in accordance with project needs and technical specifications are the domain of a developer. To guarantee the successful delivery of the software product, they have the authority to develop and edit code, create and maintain software components, and work with team members. </p></td>
+   <td><p style="text-align:center;">Responsible for converting conceptual designs and specifications into useful software programs. They must write clear, effective, and well-documented code, perform unit tests to ensure functionality, and debug and fix software bugs. Work closely with the product owner and project manager. </p></td>
+   <td><p style="text-align:center;">Programming Languages, Problem-Solving Skills, Technical Knowledge, Coding and Debugging, Collaboration and Teamwork, Time Management, and Continuous Learning. </p></td>
+ </tr>
 
  <tr>
-   <td><p style="text-align:center;">Project/System Tester (Internal User)</p></td>
+   <td><p style="text-align:center;">System Tester</p></td>
    <td><p style="text-align:center;">Evaluate and validate the performance and functioning of a system or software program. Authority to find and report errors or problems, work with stakeholders and developers to fix them, and make improved suggestions. </p></td>
    <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for designing and executing test cases, identifying and reporting defects, and verifying that the system meets the specified requirements. </p></td>
    <td><p style="text-align:center;">Technical Skills, Communication Skills, Time Management, Analytic and Problem-Solving Abilities. </p></td>
@@ -127,15 +125,6 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  </tr>
 
  <tr>
- <td><p style="text-align:center;"> Developer </p></td>
- <td><p style="text-align:center;">Responsible to convert conceptual designs and specifications into useful software programs.  Work closely with product owner and project manager </p></td>
- <td><p style="text-align:center;">Programming Languages, Problem-Solving Skills, Technical Knowledge, Coding and Debugging, Collaboration and Teamwork, Time Management, and Continuous Learning.  </p></td>
- <td><p style="text-align:center;"> 2 </p></td>
- <td><p style="text-align:center;"> Weekly or as needed </p></td>
- <td><p style="text-align:center;"> Salary Increase </p></td>
-</tr>
-
- <tr>
  <td><p style="text-align:center;"> Quality Assurance </p></td>
  <td><p style="text-align:center;">Ensures that the entire project deliverables and product are consistently meeting its quality standards. </p></td>
  <td><p style="text-align:center;">Technical Skills, Communication skills, Problem-solving skills, Collaboration, and Time Management. </p></td>
@@ -143,9 +132,17 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  <td><p style="text-align:center;"> Weekly or as needed </p></td>
  <td><p style="text-align:center;"> Salary Increase </p></td>
  </tr>
+<tr>
+ <td><p style="text-align:center;"> System Developer </p></td>
+ <td><p style="text-align:center;">Responsible to convert conceptual designs and specifications into useful software programs.  Work closely with product owner and project manager </p></td>
+ <td><p style="text-align:center;">Programming Languages, Problem-Solving Skills, Technical Knowledge, Coding and Debugging, Collaboration and Teamwork, Time Management, and Continuous Learning.  </p></td>
+ <td><p style="text-align:center;"> 2 </p></td>
+ <td><p style="text-align:center;"> Weekly or as needed </p></td>
+ <td><p style="text-align:center;"> Salary Increase </p></td>
+</tr>
  <tr>
- <td><p style="text-align:center;">Project Tester </p></td>
- <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for program. </p></td>
+ <td><p style="text-align:center;">System Tester </p></td>
+ <td><p style="text-align:center;">Ensure that the system operates as intended and meets the quality standard set for it. Responsible for the program. </p></td>
  <td><p style="text-align:center;">Technical Skills, Communication Skills, Time Management, Analytic and Problem-Solving Abilities. </p></td>
  <td><p style="text-align:center;"> 1 </p></td>
  <td><p style="text-align:center;"> Weekly or as needed </p></td>
@@ -2129,8 +2126,12 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 ==Change Control Board==
 <p>The Change Control Board is crucial to maintain stability, minimizing risks, and providing a structured and systematic approach to change management. By establishing a Change Control Board, the team MLNSD can initiate clear guidelines and procedures for handling changes Cost Management Plan. </p>
 <p>The Change Control Board consists of representatives that are responsible for evaluating and approving or rejecting changes within the Villamin Wood and Iron Works Ordering System. The table below shows the roles and responsibilities of each representative for the modifications to the project plan: </p>
+<p>Villamin Wood and Iron Works Ordering System. The table below shows the roles and responsibilities of each representative for the modifications to the project plan: </p>
 ==Table Incomplete(Project Tester)==
 ==Roles and Responsibilities==
+<p>The change management process involves various roles and responsibilities to ensure a smooth transition and successful implementation of changes within the Villamin Wood and Iron Works Ordering System. The roles and responsibilities are shown below:</p>
+<img src = https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Change%20Management%20Plan%20R%26P.png>
+
 ==Change Control Process==
 <p>The change control process for the Villamin Wood and Iron Works Ordering System typically involves an organizational approach to managing any modifications, enhancements, and implementing changes to the system.</p>
 
@@ -2144,12 +2145,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 # <b>Documentation and Communication </b>: Documentation is maintained throughout the change control process to track the changes made. Communication with the project sponsor and each of the team members is crucial to ensure awareness and understanding of the changes.
 # <b>Change Closure</b>: The change control process is considered complete after the review and deemed successful.
 <p>The table below shows the status for each phase to monitor the progression of change requests.</p>
-
-
-
-
-
-
+<img src = https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Change%20Control%20Process.png>
 
 =Communication Management Plan=
 ==Introduction==
@@ -2181,8 +2177,8 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <p>-	The product owner is responsible for ensuring that the project accomplishes the objectives and represent the interests of the stakeholders. The product owner needs to be assertive and communicate clearly with the team on what is needed for the project in order to maximize the project’s value. </p> 
 <p>Project Manager </p>
 <p>-	Project Manager has the responsibility of overseeing the entire project which requires coordinating with all parties involved to assure clear communication is being done for the benefit of the project. </p>
-<p> Developer </p>
-<p>-	The developer is in charge of converting the ideas for the project into useful software programs which requires the developer to have a clear understanding of what will be developed. The developer will also need to communicate clearly and quickly regarding issues which may occur during the development process in order to resolve it immediately. </p>
+<p> System Developer </p>
+<p>-	The developer is in charge of converting the ideas for the project into useful software programs which requires the developer to have a clear understanding of what will be developed. The developer will also need to communicate clearly and quickly regarding issues that may occur during the development process in order to resolve them immediately. </p>
 <p>Quality Assurance</p>
 <p>-	The quality assurance is in charge of ensuring that the entire project deliverables and product are consistently meeting its quality standards. Therefore, he/she needs to communicate with the team and check regularly on their tasks to ensure that the quality of their work and deliverables meet the criteria. </p>
 <p>Product Tester </p>
@@ -2215,7 +2211,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <td>RID 001</td>
 <td>1</td>
 <td>Technical Risks</td>
-<td>There is a risk that delays in development which leads to the risk of not finishing the project on time and other errors caused by the conflict.</td>
+<td>There is a risk that delays in development which lead to the risk of not finishing the project on time and other errors caused by the conflict.</td>
 <td>Technology</td>
 <td>Project Manager</td>
 <td>High</td>
@@ -2274,8 +2270,8 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <img src="https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Communication%20Flowchart.jpg" height="50px" width="50px">
 
 ==Guidelines for Meetings==
-<p> Meetings play an important role in facilitating effective communication. To guarantee productive, efficient and successful meetings, it is essential to set up meeting guidelines. These guidelines should elaborate on the details of the meeting’s purpose and the procedures to be followed in the meetings. </p>
-<p>Below are the meeting guidelines to help in conducting effective meetings: </p>
+<p> Meetings play an important role in facilitating effective communication. To guarantee productive, efficient, and successful meetings, it is essential to set up meeting guidelines. These guidelines should elaborate on the details of the meeting’s purpose and the procedures to be followed in the meetings. </p>
+<p>Below is the meeting guidelines to help in conducting effective meetings: </p>
 # <b>Purpose of the Meeting - </b> All meetings should define their purpose so that everyone understands what it is for and how important it is.
 # <b>Goal of the Meeting - </b> The goal should be defined clearly for everyone to know what should be accomplished during the meeting.
 # <b>Minutes - </b> Minutes of the meeting are essential and should be taken during the meeting and provided to all involved parties as it entails the summary of everything that occurred in the meeting.
@@ -2322,38 +2318,28 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
  </tr>
 
  <tr>
- <td><p style="text-align:center;">Quality Assurance (QA)</p></td>
- <td><p style="text-align:center;">accountable for ensuring that the deliverables and products meet its quality standards. Conduct testing, develop and implement quality processes, and evaluate the system's and deliverables' quality.</p></td>
+ <td><p style="text-align:center;">Project Sponsor</p></td>
+ <td><p style="text-align:center;">is responsible for supporting the project and allocating financial resources. </p></td>
  </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Tester</p></td>
- <td><p style="text-align:center;">specializes in reporting defects and issues during a project's testing phase and ensures the quality and functionality of a project or software application.</p></td>
- </tr>
-
- <tr>
- <td><p style="text-align:center;">Project Manager</p></td>
- <td><p style="text-align:center;">accountable for ensuring that all deliverables are completed on time and that all stakeholders are pleased with the product.</p></td>
- </tr>
-
  <tr>
  <td><p style="text-align:center;">Project Owner</p></td>
  <td><p style="text-align:center;">involved in representing the interests of stakeholders, collaborating with the development team, and ensuring that the product meets consumer requirements and achieves business goals. </p></td>
  </tr>
-
+ <tr>
+ <td><p style="text-align:center;">Project Manager</p></td>
+ <td><p style="text-align:center;">accountable for ensuring that all deliverables are completed on time and that all stakeholders are pleased with the product.</p></td>
+ </tr>
+ <tr>
+ <td><p style="text-align:center;">Quality Assurance (QA)</p></td>
+ <td><p style="text-align:center;">accountable for ensuring that the deliverables and products meet its quality standards. Conduct testing, develop and implement quality processes, and evaluate the system's and deliverables' quality.</p></td>
+ </tr>
 <tr>
- <td><p style="text-align:center;">Project Developer</p></td>
+ <td><p style="text-align:center;">System Developer</p></td>
  <td><p style="text-align:center;">responsible for ensuring that the project is complete and meets the requirements of the client, is finished on time, within budget, and satisfies the desired goals. </p></td>
  </tr>
-
  <tr>
- <td><p style="text-align:center;">Project Development Team</p></td>
- <td><p style="text-align:center;">contributions to accomplish the project objectives. ensuring that each deliverable is completed. Providing expertise and collaboration to define and satisfy business requirements to ensure the project's success. </p></td>
- </tr>
- 
- <tr>
- <td><p style="text-align:center;">Project Sponsor</p></td>
- <td><p style="text-align:center;">is responsible for supporting the project and allocating financial resources. </p></td>
+ <td><p style="text-align:center;">System Tester</p></td>
+ <td><p style="text-align:center;">specializes in reporting defects and issues during a project's testing phase and ensures the quality and functionality of a project or software application.</p></td>
  </tr>
 </table>
 
@@ -2430,10 +2416,8 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 ==Risk Identification==
 <p> The risks identified in the risk assessment were updated and regularly monitored to ensure that they are being managed effectively. Some of the potential risks identified in the risk assessment are listed below: </p>
 
-# <b> Technical Risks - </b> There is a risk that the project may be delayed due to technical reasons.
+
 # <b> Resource Risks - </b> There is a risk that the project may not have access to enough resources causing a stop of work or adjustments in budget or other delays.
-# <b> Security Risks - </b> There is a risk of being hacked and having a breach in the system.
-# <b> Changes in Technology </b>- There is a risk that a change in the industry of technology occurs which may require additional work or resources to adapt.
 # <b> Human Error - </b> There is a risk that a person may commit a mistake or error that could negatively affect the project.
 # <b> Unforeseen Circumstances - </b> There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.
 
@@ -2464,82 +2448,7 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <p> The risk register includes a thorough explanation of each risk and its potential effects, as well as the mitigation steps taken. The risk register will be maintained up to date throughout the project to make sure that it reflects the project’s current condition. </p>
 <p>This is the Work breakdown structure of our group which is a diagram that breakdowns the project scope and shows the tasks that are required to complete the project. </p>
 
-<table border="1" width="70%" align="center">
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RISK ID</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">RISK RANK</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">RISK</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">DESCRIPTION</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">CATEGORY</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">DESTINATION/OWNER</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">PROBABILITY</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">IMPACT</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">STATUS</p></td>
- </tr>
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 001</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">1</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Technical Risks</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that delays in development which leads to the risk of not finishing the project 
-  on time and other errors caused by the conflict. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Technology</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 002</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">2</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Resource Risks</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk of having insufficient resources which may be needed to accomplish the project on 
-  time. Thus, resulting in delays and a budget overrun. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Organizational</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 003</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">3</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Security Risks</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk of being hacked and compromising the data of the client. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Security</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">System Developer</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 004</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">4</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Changes in Technology</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that a change in the industry of technology occurs which may require additional 
-  work or resources to adapt. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Technology</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Medium</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-
- <tr>
-  <td bgcolor="lightblue"><p style="text-align:center;">RID 005</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">5</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Unforeseen Circumstances</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">There is a risk that circumstances such as natural disasters could cause disturbance and impact 
-  the project in an unexpected way. </p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Natural</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Project Manager</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">Low</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">High</p></td>
-  <td bgcolor="lightblue"><p style="text-align:center;">In Progress</p></td>
- </tr>
-</table>
+<img src -https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Risk%20Register.png >
 
 =Procurement Management Plan=
 ==Introduction==
