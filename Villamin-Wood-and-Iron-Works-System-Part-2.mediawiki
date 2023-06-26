@@ -2449,7 +2449,52 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <p> The risk register includes a thorough explanation of each risk and its potential effects, as well as the mitigation steps taken. The risk register will be maintained up to date throughout the project to make sure that it reflects the project’s current condition. </p>
 <p>This is the Work breakdown structure of our group which is a diagram that breakdowns the project scope and shows the tasks that are required to complete the project. </p>
 
-<img src = https://github.com/apcjlquesada/APC_2022_2023_T3_PROJMAN_MI201_MI203_G03_Team_MLNSD/blob/main/documentation/projman/Risk%20Register.png>
+<table>
+  <tr>
+    <th>RISK ID</th>
+    <th>RISK RANK</th>
+    <th>RISK</th>
+    <th>DESCRIPTION</th>
+    <th>CATEGORY</th>
+    <th>DESTINATION/OWNER</th>
+    <th>PROBABILITY</th>
+    <th>IMPACT</th>
+    <th>STATUS</th>
+  </tr>
+  <tr>
+    <td>RID 001</td>
+    <td>1</td>
+    <td>Resource Risks</td>
+    <td>There is a risk of having insufficient resources which may be needed to accomplish the project on time. Thus, resulting to delays and a budget overrun.</td>
+    <td>Organizational</td>
+    <td>Project Manager</td>
+    <td>High</td>
+    <td>High</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>RID 002</td>
+    <td>2</td>
+    <td>Human Error</td>
+    <td>There is risk that a person may commit a mistake or error that could negatively affect the project.</td>
+    <td>Technical</td>
+    <td>Project Manager</td>
+    <td>High</td>
+    <td>Medium</td>
+    <td>In Progress</td>
+  </tr>
+  <tr>
+    <td>RID 003</td>
+    <td>3</td>
+    <td>Unforeseen Circumstances</td>
+    <td>There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.</td>
+    <td>Natural</td>
+    <td>Project Manager</td>
+    <td>Low</td>
+    <td>High</td>
+    <td>In Progress</td>
+  </tr>
+</table>
 
 =Procurement Management Plan=
 ==Introduction==
