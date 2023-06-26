@@ -724,6 +724,205 @@ Conclusion:
 </ul>
 </ul>
 
+==Hierarchical Structure==
+<p>The hierarchical structure is an effective way to represent the Work Breakdown Structure (WBS) for the Chubby Gourmet project. It shows the breakdown of the project into smaller, manageable parts, with each level representing a more detailed and specific set of activities. This structure allows for a clear understanding of the dependencies between different tasks and deliverables and enables the project team to track progress and identify any potential issues at an early stage.</p>
+
+<table width="780" border="1" align="center">
+<thead>
+	<tr>
+		<td width="141" bgcolor="lightgreen"><p>Level</p></td>
+		<td width="64" bgcolor="lightgreen"><p>WBS Code</p></td>
+		<td width="228" bgcolor="lightgreen"><p>Element Name</p></td>
+	</tr>
+</thead>
+<tbody>
+        <tr>
+		<td width="141"><p>1</p></td>
+		<td width="64"><p>1</p></td>
+		<td width="228"><p>Chubby Gourmet E-Commerce Web Application</p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>2</p></td>
+		<td width="64"><p>1.1</p></td>
+		<td width="228"><p>Initiation</p></td>
+	</tr>
+        <tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.1</p></td>
+		<td width="228"><p>Develop Business Case</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.2</p></td>
+		<td width="228"><p>Develop Project Charter</p></td>
+	</tr>
+	<tr>
+		<td width="141"><p>3</p></td>
+		<td width="64"><p>1.1.3</p></td>
+		<td width="228"><p>Obtain Project Approval </p></td>
+	</tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>1.2</p></td>
+    <td width="228"><p>Planning</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.2.1</p></td>
+    <td width="228"><p>Develop Scope Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.2.2</p></td>
+    <td width="228"><p>Develop Schedule Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.2.3</p></td>
+    <td width="228"><p>Develop Cost Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.2.4</p></td>
+    <td width="228"><p>evelop Risk Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.2.5</p></td>
+    <td width="228"><p>Develop Quality Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.2.6</p></td>
+    <td width="228"><p>Develop Procurement Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>3</p></td>
+    <td width="64"><p>1.2.7</p></td>
+    <td width="228"><p>Develop Human Resource Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>3</p></td>
+    <td width="64"><p>1.2.8</p></td>
+    <td width="228"><p>Develop Change Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>3</p></td>
+    <td width="64"><p>1.2.9</p></td>
+    <td width="228"><p>Develop Communication Management Plan</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>3</p></td>
+    <td width="64"><p>1.2.10</p></td>
+    <td width="228"><p>Develop Implementation Plan</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>3</p></td>
+    <td width="64"><p>1.2.11</p></td>
+    <td width="228"><p>Design System Architecture</p></td>
+  </tr>
+  <tr>
+    <td width="4"><p>3</p></td>
+    <td width="64"><p>1.2.12</p></td>
+    <td width="228"><p>Create Wireframes and UI design</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>2</p></td>
+    <td width="50"><p>1.3</p></td>
+    <td width="150"><p>Execution</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="50"><p>1.3.1</p></td>
+    <td width="150"><p>Set up Development Environment</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="50"><p>1.3.2</p></td>
+    <td width="150"><p>Develop Frontend Components</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="50"><p>1.3.3</p></td>
+    <td width="150"><p>Develop Backend Components</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="50"><p>1.3.4</p></td>
+    <td width="150"><p>Integrate Frontend and Backend</p></td>
+  </tr>
+  <tr>
+    <td width="30"><p>3</p></td>
+    <td width="50"><p>1.3.5</p></td>
+    <td width="150"><p>Perform Unit Testing</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>1.4</p></td>
+    <td width="228"><p>Monitoring</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.4.1</p></td>
+    <td width="228"><p>Monitor Project Progress and Milestones</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.4.2</p></td>
+    <td width="228"><p>Track Resource Utilization</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.4.3</p></td>
+    <td width="228"><p>Monitor Risks and Issue Resolution</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.4.4</p></td>
+    <td width="228"><p>Perform System Testing and Quality Assurance</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.4.5</p></td>
+    <td width="228"><p>Gather and Analyze User Feedback</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>2</p></td>
+    <td width="64"><p>1.5</p></td>
+    <td width="228"><p>Closeout</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.5.1</p></td>
+    <td width="228"><p>Finalize and Deliver Project Documentation</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.5.2</p></td>
+    <td width="228"><p>Obtain Formal Acceptance</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.5.3</p></td>
+    <td width="228"><p>Archive Project Files and Resources</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.5.4</p></td>
+    <td width="228"><p>Handover Project Deliverables to Project Sponsor</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.5.5</p></td>
+    <td width="228"><p>Perform Post-Implementation Review</p></td>
+  </tr>
+  <tr>
+    <td width="141"><p>3</p></td>
+    <td width="64"><p>1.5.6</p></td>
+    <td width="228"><p>Close Out Meeting</p></td>
+  </tr>
+</tbody>
+</table>
 
 =Scope Management Plan=
 ==Introduction==
