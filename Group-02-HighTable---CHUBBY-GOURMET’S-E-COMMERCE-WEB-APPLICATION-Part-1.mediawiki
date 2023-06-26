@@ -991,11 +991,11 @@ Conclusion:
 <p>In this portion, we will discuss our approach to scope management for the production of Chubby Gourmet’s E-Commerce Web Application. Below is a summary of how the group will approach each aspect:</p>
 
 <ul>
-	<li>Authority and responsibility for scope management will be held by the Project Owner, Gianna Artajos, who will work closely with the project sponsor, Ms. Priscilla Mariano and work alongside with their advisor Ms. Jo Anne de la Cuesta.</li>
-	<li>The scope of the project will be defined through the creation of the Scope Statement, and the Statement of Work (SOW). These two documents will clearly define the project’s deliverables, purpose and requirements, which will be reviewed and approved by the project sponsor and adviser before development begins.</li>
-	<li>The scope of the project will be measured and verified with the use of work performance measurements, and regular review of the project's progress against the scope baseline. Any deviations from the scope baseline will be identified and addressed through the scope change process.</li>
-<li>The scope change process for the development of Chubby Gourmet’s E-Commerce Web Application, will involve the submission of a scope change request by the Project Owner, with final approval being granted by the project adviser. Any changes to the scope of the project must be carefully evaluated to ensure that they align with the project's goals and objectives and does not negatively impact the project schedule. </li>
-<li>The final project deliverables will be accepted and approved by the project sponsor and project adviser and the current PBL head Mr. Jose Eugenio Quesada with the Product Owner being responsible for ensuring that all project requirements have been met. The successful completion of the project will be confirmed once all deliverables have been accepted and no comments or revisions are no longer necessary. </li>
+	<li>Authority and responsibility for scope management will be held by the Project Manager, Gianna Artajos, who will work closely with the project sponsor, Ms. Priscilla Mariano</li>
+	<li>The scope of the project will be defined through the creation of the Scope Statement, and the Statement of Work (SOW). These two documents will clearly define the project’s deliverables, purpose and requirements, which will be reviewed and approved by the project sponsor. </li>
+	<li>The scope of the project will be measured and verified with the use of work performance measurements, and regular review of the project's progress against the scope baseline. Any deviations from the scope baseline will be identified and addressed through the scope change process. </li>
+<li>The scope change process for the development of Chubby Gourmet’s E-Commerce Web Application, will involve the submission of a scope change request by the Project Manger, with final approval being granted by the project adviser. Any changes to the scope of the project must be carefully evaluated to ensure that they align with the project's goals and objectives and does not negatively impact the project schedule. </li>
+<li>The final project deliverables will be accepted and approved by the project sponsor, Ms. Prisiclla Mariano with the Project Managerbeing responsible for ensuring that all project requirements have been met. The successful completion of the project will be confirmed once all deliverables have been accepted and no comments or revisions are no longer necessary. </li>
 </ul>
 
 ==Roles and Responsibilities==
@@ -1007,33 +1007,33 @@ Conclusion:
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Ms. Priscilla Mariano</p></td>
-<td><p style="text-align:center;">Client</p></td>
-		<td><p style="text-align:center;">Is responsible to define and prioritize the product backlog to maximize the value of the product being developed and ensure that it meets the needs of the customers and business. </p></td>
+<td><p style="text-align:center;">Project Stakeholder</p></td>
+		<td><p style="text-align:center;">Is responsible to define and prioritize the product backlog to maximize the value of the product being developed and ensure that it meets the needs of the customers and business.</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Gia Artajos</p></td>
-<td><p style="text-align:center;">Product Owner</p></td>
-		<td><p style="text-align:center;">Is responsible to ensure that the development team delivers a high-quality product that meets the needs of the customers and business while following the principles and practices of the chosen methodology. </p></td>
+<td><p style="text-align:center;">Project Manager & Quality Assurance Tester </p></td>
+		<td><p style="text-align:center;">Is responsible to ensure that the development team delivers a high-quality product that meets the needs of the customers and business while following the principles and practices of the chosen methodology.</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Marcus Flores</p></td>
-<td><p style="text-align:center;">Scrum Master</p></td>
+<td><p style="text-align:center;">Scrum Master & Documentation Specialist </p></td>
 		<td><p style="text-align:center;">Is responsible to facilitate and ensure the effective implementation of the Scrum framework, coach the team, remove impediments, protect the team, and encourage continuous improvement. </p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Rysal Rosel</p></td>
-<td><p style="text-align:center;">Product Developer</p></td>
-		<td><p style="text-align:center;">Is responsible to the development team to design, develop, and deliver high-quality products that meet the requirements and specifications defined by the Product Owner or client. They are responsible for translating the product backlog into working software and ensuring that the product is delivered on time and within budget while meeting the required quality standards. </p></td>
+<td><p style="text-align:center;">Back-end Developer </p></td>
+		<td><p style="text-align:center;">Is responsible to the development team to design, develop, and deliver high-quality products that meet the requirements and specifications defined by the Project Owner or Project Stakeholder. They are responsible for translating the product backlog into working software and ensuring that the product is delivered on time and within budget while meeting the required quality standards.</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Lester Salazar</p></td>
-<td><p style="text-align:center;">Product Designer</p></td>
-		<td><p style="text-align:center;">Is responsible to work with the development team to create intuitive and user-friendly designs that meet the needs of the users and align with the product vision defined by the Product Owner or client. They are responsible for researching user needs, creating user personas, designing wireframes and prototypes, and collaborating with the development team to ensure the final product meets the desired design standards. </p></td>
+<td><p style="text-align:center;">Product Designer & Front-End Developer </p></td>
+		<td><p style="text-align:center;">Is responsible to work with the development team to create intuitive and user-friendly designs that meet the needs of the users and align with the product vision defined by the Project Manager or Project Stakeholder. They are responsible for researching user needs, creating user personas, designing wireframes and prototypes, and collaborating with the development team to ensure the final product meets the desired design standards.</p></td>
 	</tr>
 </table>
 
 ==Scope Definition== 
-<p>The scope of this project is to implement an E-commerce web application for Chubby Gourmet, a local food business, to address its process problems and improve overall efficiency. The web application will include the following features: product catalog with detailed descriptions and images, online ordering system with secure payment processing, customer account management, order tracking, and reporting. The project will also involve integration with existing systems such as inventory management and accounting. The project team will consist of a Product Owner, Scrum Master, developers, designers, and testers, who will work together to deliver a high-quality product within the agreed-upon timeline and budget. </p>
+<p>The scope of this project is to implement an e-commerce web application for Chubby Gourmet, a local food business, to address its process problems and improve overall efficiency. The web application will include the following features: product catalog with detailed descriptions and images, online ordering system with secure payment processing, customer account management, order tracking, and generating of reports for the busines. The project will also involve integration with existing systems such as inventory management and accounting. The project team will consist of a Project Manager, Scrum Master, Quality Assurance Tester, Documentation Specialist, Product Designer, Front and Back End Developers, who will work together to deliver a high-quality product within the agreed-upon timeline and budget. </p>
 
 ==Project Scope Statement==
 <table border="1" width="70%" align="center">
