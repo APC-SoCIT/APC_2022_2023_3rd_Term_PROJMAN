@@ -769,6 +769,79 @@ Stakeholders, project manager, procurement manager would then collaborate to gua
 To make things fast and efficient, the project team will use standardized procurement templates. This would greatly help the team to be constant on the method they are using when calculating costs on different angles of procurement activities.
 Cost determination plays a huge role in procurement management plans as it serves as a guide to make sure the budget for the project is correct and utilized well. 
 
+===8.10.5. Procurement Constraints===
+The constraints below should be considered as a part of the RAMS Corner: Ticketing Service System project. 
 
+::1.Schedule constraints: Every project has a strict deadline including the RAMs Corner: Ticketing Service System project. The deliverables should be made based on their deadline or planned schedule. It is important that individuals pass their deliverables on time to avoid any delays to the project and to ensure the team stays on the right track. Any delays within the deliverables might cause the problem to snowball into bigger issues that can affect the project itself.
+
+::2.Budget constraints: the project has an allotted budget for the project. 
+
+::3.Technology Constraints: The software that Nacor Industries makes (RAMS Corner: ITRO Ticketing Service System) does not demand a higher specification for it to run. A typical office computer/desktop can suffice for the software to run smoothly.
+
+::4.Resource constraints: The personnel of the office should be knowledgeable of how to operate or use the newly made software for them.
+
+===8.10.6. Contract Approval Process===
+The contract approval process for the ITRO will be formally handled by the director of the office. The team will formally conduct a meeting with the director and present the idea. The team and the director would then start the process of conducting the contract and make sure no policies are bypassed.
+
+::1.Contract initiation: the project manager would first pitch the idea to the head of the ITRO. 
+
+::2.Contract planning. The director of the ITRO would then make suggestions or customized features that would personally cater to the needs of the office.
+
+::3.Contract development: once the contract is set and ready. The team would develop the software and would have a meeting with the client regarding about the status of the software
+
+::4.Contract Review: the director and the team would review the software to make sure the project is still within the scope
+
+===8.10.7. Decision Criteria===
+The following decision criteria for the Nacor Industries are the following:
+Technical capabilities: the vendor must have ample experience in handling any similar projects of the same nature. This is important for the project to succeed. It is also important to note that the vendor is knowledgeable in today’s technology
+
+Price: The price is one of the deciding factors whether a company would buy the vendor’s product or not. If the vendor would set its prices high. The materials should meet the quality and certain specifications for it to be reasonable.
+
+Schedule: The vendor should be able to deliver its expected quality output within the given schedule.
+Quality: The vendor should be able to meet the specifications and quality of the materials. The vendor should also be able to consistently provide customer service.
+
+Risk management: the vendor should have a plan to mitigate every risk that may be possibly encountered over the lifetime of the project.
+
+Sustainability: the vendor should be able to sustain the product he/she sells. The materials should also be economic making it easier to build and sustain the products
+
+Compliance: the vendor should abide the laws and have no past issues that possibly taint the project’s name and the company’s name
+
+===8.10.8. Performance Metrics for Procurement Activities===
+The following metrics that will be used for procurement activities are:
+
+:1.Vendor performance rating
+::A. The project manager and the project sponsor would thoroughly review the product of the vendor's product. In this way, this gives the team a much better point of view since there are people vouching for the product of the vendor.
+
+:2.Procurement cycle time  
+::A. These measures the vendor’s capabilities or how fast and efficient it is when delivering the items. This starts from the initial ordering of the materials to finishing the project from installing the delivered goods.
+
+:3.Cost variance.
+::A. This metric serves as a purpose to scout the market on the lowest price possible on certain materials. This gives the company a lot of choices settling between couples of vendors who have the best deal possible.
+
+:4.Purchase Order Accuracy: 
+::A. This metric tests the vendor’s accuracy when delivering the materials in a large quantity. One wrong item can possibly cause a delay in a project. 
+
+===8.10.9 Procurement Management Approach===
+The project manager will handle and manage all the things needed to be obtained for the project. The project manager will brainstorm together with the team to discuss all the recent technologies on the market that would potentially help the software to run smoothly. The project manager and the team would then review the materials that are listed for further inspection and look for some alternatives to save budget without sacrificing the quality of the materials. After the meeting, the project manager would then decide if the lists were valid and reasonable to buy. 
+After making the list of necessary materials for the project, the project would then look for a suitable supplier to either buy or start having a contract with the store. 
+
+==8.11 Implementation Plan==
+===8.11.9. Schedule===
+Throughout the project’s lifetime, the team is able to submit all deliverables needed. Each work that was assigned to each member has a specific deadline to help the team estimate how many resources will be needed to finish all the needed tasks before proceeding. 
+
+To create the project schedule, the team used software named ‘Open Project’ to create a Gantt Chart. In this Gantt Chart, all the activities and deliverables are listed and recorded. In this way, it is much easier to monitor the project’s growth over time.
+
+See Figures for reference of the start and end date of deliverables for project schedule.
+
+===8.11.1. Executive Summary===
+The RAMs Corner: ITRO Ticketing Service System is complete, and as a part of the project closeout, a transition plan is being developed to ensure that when the project team handover the system to its project client, it will be a seamless system turnover. The purpose of this is to provide an overview of the transition phases, which includes the system current state or to check if it is under the minimum viable product, and how it is planned to transition from project team to the project client.
+
+RAMs Corner: ITRO Ticketing Service System was developed by Nacor Industries in collaboration with Mr. Jose Castillo of the ITRO department office, the project client. The system has been ongoing and under development for the past 5 months, starting from December for UI/UX Designing, and expected to finish in July, which finalizes the overall project from providing a working and deployable Ticketing Service System.
+
+The project client will receive a deployable system that is stable and operational, all the functionalities and features have been validated and undergone various test cases. As the team transition the system to the client, the team aims to provide them with necessary documentation of the Ticketing Service System to ensure that the client will manage the system properly.
+
+The project team will provide all the technical documentation, user manuals, and source code to ensure that the project client will have a comprehensive understanding of the system once it has been turned over to them. The project client will oversee the maintenance and troubleshooting as their scope of work encompasses these things. 
+
+Overall, once the transition phase of the system from project team to the project client is done, the project client will be receiving a fully operational Ticketing Service System, and that project team completed all the objectives and requirements set before the development and deployment of the application.
 
 
