@@ -17,20 +17,32 @@
 <td bgcolor="lightblue"><p style="text-align:center;">RESPONSIBILITIES</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Product Owner</p></td>
-<td><p style="text-align:center;">The Product Owner will ensure that the final product satisfies the stakeholders' quality requirements. She will oversee the overall quality management process and work closely with the project team to address any quality-related issues. </p></td>
+		<td><p style="text-align:center;">Product Manager</p></td>
+<td><p style="text-align:center;">The Project Manager is responsible for ensuring that the final product meets the stakeholders' quality requirements by actively participating in the agile and Scrum processes, providing clear product vision and prioritizing quality-related tasks.</p></td>
+</tr>
+	<tr>
+		<td><p style="text-align:center;">Quality Assurance Tester</p></td>
+<td><p style="text-align:center;">The Quality Assurance Tester, also the Project Manager in this project, is responsible for implementing the agile and Scrum-based quality management approach by conducting thorough testing of the product, identifying and reporting any defects or deviations from quality standards, and collaborating with the development team to address and resolve issues.</p></td>
 </tr>
 <tr>
 		<td><p style="text-align:center;">Scrum Master</p></td>
 <td><p style="text-align:center;">The Scrum Master will be responsible for promoting and enforcing the adherence to the Scrum framework. He will facilitate team collaboration, remove any impediments, and ensure that quality is embedded within the Agile development process. </p></td>
 </tr>
 <tr>
-		<td><p style="text-align:center;">Product Developer</p></td>
-<td><p style="text-align:center;">The Product Developer will be responsible for producing high-quality code and ensuring that the developed features meet the specified requirements. </p></td>
+		<td><p style="text-align:center;">Documentation Specialist</p></td>
+<td><p style="text-align:center;">The Document Specialist supports the quality management approach by maintaining accurate and up-to-date documentation of processes, standards, and procedures. They ensure that documentation is easily accessible to team members, promoting consistent understanding and adherence to quality requirements.</p></td>
 </tr>
 <tr>
-		<td><p style="text-align:center;">Product Designer</p></td>
-<td><p style="text-align:center;">The Product Designer will ensure that the user interface and user experience of the Chubby Gourmet web application meet the highest quality standards. He will incorporate user-centered design principles, conduct usability testing, and iterate based on stakeholders’ feedback to optimize the product's usability and visual appeal. </p></td>
+		<td><p style="text-align:center;">Product Desginer</p></td>
+<td><p style="text-align:center;">The Product Designer contributes to the quality management approach by incorporating user-centered design principles and agile methodologies into the product development process. They collaborate with stakeholders and the development team to ensure that the design meets quality standards and delivers a seamless user experience.</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Front-End Developer</p></td>
+<td><p style="text-align:center;">The Front-End Developer is responsible for implementing the product design and ensuring its quality during the agile and scrum development process. They focus on creating visually appealing and user-friendly interfaces while adhering to coding standards and conducting regular testing to maintain quality.</p></td>
+</tr>
+<tr>
+		<td><p style="text-align:center;">Back-End Developer</p></td>
+<td><p style="text-align:center;">The Back-End Developer is responsible for implementing the server-side functionality of the product while following the agile and scrum-based quality management approach. They ensure that the back-end systems are robust, secure, and performant, collaborating with other team members to address any quality issues that may arise.</p></td>
 </tr>
 </table>
 
