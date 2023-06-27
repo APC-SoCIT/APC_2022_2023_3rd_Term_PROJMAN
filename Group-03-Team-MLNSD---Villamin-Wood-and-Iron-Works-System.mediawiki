@@ -723,8 +723,8 @@ the project manager alongside the team and stakeholders. The project manager wil
 <ul>Equipment usage is calculated similarly to renting the equipment used to accomplish the project. This is equated based on Depreciated Value, and Rental Rate. The Rental Rate is 10%, following the rate that the team has come up with to be received for rent.</ul>
 <ul> Rental=Depricated Value x Rental Rate
 	Example:
-	PhP20,000 * 0.1% = PhP20*5 hours=Php100 
-	Rental=Php100
+	<ul>PhP20,000 * 0.1% = PhP20*5 hours=Php100</ul>
+	<ul>Rental=Php100</ul>
 
 </ul>
 <p><b>Labor</b></p>
