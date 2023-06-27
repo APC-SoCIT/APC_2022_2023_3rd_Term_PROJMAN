@@ -1,8 +1,8 @@
 =Second Part=
 Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Villamin-Wood-and-Iron-Works-System-Part-2/_edit
 
-=6.10. Procurement Management Plan=
-==6.10.1. Introduction==
+=Procurement Management Plan=
+==Introduction==
 <p>A procurement plan is a vital component of any organization's strategic planning process, as it outlines the approach and strategy for acquiring goods, services, or works from external sources. It serves as a roadmap that guides procurement activities, ensuring that the organization obtains the necessary resources efficiently, effectively, and in compliance with relevant regulations and policies. </p>
 
 <p>Villamin Wood and Iron Works will only purchase subscriptions for the system. These subscriptions are for Web Hosting which provides the necessary infrastructure that makes a system accessible, SSL Security which ensures the secure communication between users and the system, and Domain Registration which establishes a unique online identity to the system. These elements will be coming from the platform GoDaddy, which will effectively contribute to the success of the system deployment, and ensure reliability, security, and accessibility for the users. </p>
@@ -47,18 +47,16 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Vill
 
 : The procurement plan will emphasize the commitment to continuous improvement as an integral part of the procurement lifecycle, ensuring that the organization remains adaptive, responsive, and proactive in meeting evolving needs and achieving excellence.
 
-==6.10.4. Cost Determination==
+==Cost Determination==
+<p> Villamin Wood and Iron Works System’s cost determination is a critical aspect of the procurement process, ensuring that the organization obtains goods or services at the most favorable price while maintaining quality and meeting requirements.  </p>
 
-<p> Villamin Wood and Iron Works Online System’s cost determination is a critical aspect of the procurement process, ensuring that the organization obtains goods or services at the most favorable price while maintaining quality and meeting requirements. When calculating the project's overall cost, it is important to take project management, development, integration, procurement, training, maintenance and support, contingency, and operating expenses into account. </p>
+<p>While integration costs cover the price of integrating the system with a subscription, development costs cover the cost of creating software, hardware, testing, and quality assurance. The costs associated with training personnel to use the system effectively are also covered. </p>
 
-<p> Project management-related expenses for personnel, hardware, and software are all included. While integration costs cover the price of integrating the system with other programs or third-party applications, development costs cover the cost of creating software, hardware, testing, and quality assurance. The price of purchasing the necessary tools, software, and services to design and put the system into use is included in the procurement costs. The costs associated with training personnel to use the system effectively are also covered. </p>
+<p>This includes conducting thorough cost analysis and maintaining cost transparency and documentation. By employing these strategies, the procurement team can make informed decisions, optimize cost savings, and achieve value for money while procuring goods and services that meet the organization's needs and quality standards. </p>
 
-<p> This includes conducting thorough cost analysis, considering the total cost of ownership, conducting market research and benchmarking, engaging in effective cost negotiation, and maintaining cost transparency and documentation. By employing these strategies, the procurement team can make informed decisions, optimize cost savings, and achieve value for money while procuring goods and services that meet the organization's needs and quality standards. </p>
-
-<p> Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the complete success of Villamin Wood and Iron Works Online System project within the given budget constraints. </p>
+<p>Overall, the procurement management plan's cost determination section will have a crucial role in ensuring the complete success of Villamin Wood and Iron Works System project within the given budget constraints.</p>
 
 ==Procurement Constraints==
-
 <p> Procurement constraints are inherent limitations and factors that can influence the procurement process and pose challenges to achieving procurement objectives. The following constraints are considered in Villamin Wood and Iron Works Online System project’s procurement process: </p>
 
 # <b>Budget constraint: </b> The project was given limited financial resources by the client. This requires careful budget planning and cost optimization strategies to ensure procurement objectives are met within the allocated budget.
@@ -120,13 +118,16 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Vill
 
 ; Transition Team Organization
 ; Roles and Responsibilities
+# <b>Project Sponsor </b>- the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule.
+# <b>Project Owner - </b> Making strategic decisions and collaborating with the development team to ensure that the requirements are completed according to the objectives.
 # <b>Project Manager - </b> The responsibility of the project manager leads this project to its completion. The project manager guarantees to meet all the requirements, setting a plan for the deadline of deliverables, and speaking with the client is effective to ensure progress.
 # <b>Quality Assurance - </b>accountable for ensuring all project deliverables meets established quality standards.
-# <b>Project Tester - </b>ensuring the system meets the specified requirements by designing and executing test cases and identifying and reporting defects.
+# <b>System Developer </b> are responsible for the project's design and development into action. Also, the developer is most likely to collaborate with the new owner for general comprehension of the process before the transition of technical knowledge.
+# <b>System Tester - </b>ensuring the system meets the specified requirements by designing and executing test cases and identifying and reporting defects.
 ensuring the system meets the specified requirements by designing and executing test cases and identifying and reporting defects.
-# <b>Project Owner - </b>making strategic decisions and collaborating with the development team to ensure that the requirements are completed according to the objectives.
-# <b>Project Developers </b> are responsible for the project's design and development into action. Also, the developer is most likely to collaborate with the new owner for general comprehension of the process before the transition of technical knowledge.
-# <b>Project Sponsor </b>- the project sponsor has the authority for the system's overall development process, including approval before changes, budget, project scope, and schedule.
+
+
+
 
 ==Workforce Transition ==
 <p> The workforce transition is part of the transition plan for the Villamin Wood and Iron Works Ordering System. To establish the transition, and run efficiently, the team planned to test to determine if there are issues that may arise. </p>
@@ -155,7 +156,7 @@ ensuring the system meets the specified requirements by designing and executing 
 
 ==Intellectual Property==
 ; User Accounts and Passwords 
-<p> The company, Villamin Wood and Iron Works, pointed out that they do not directly collect or store usernames and passwords for customer accounts. Instead, they use a third-party platform, like the Facebook page, to connect with customers and provide access to their services. Customers are urged to check in with their Facebook credentials already in place to avoid creating new accounts or passwords. This strategy guarantees a secure and seamless user experience while protecting client privacy. </p>
+<p> The company, Villamin Wood and Iron Works pointed out that they do not directly collect or store usernames and passwords for customer accounts. Instead, they use a third-party platform, like the Facebook page, to connect with customers and provide access to their services. Customers are urged to check in with their Facebook credentials already in place to avoid creating new accounts or passwords. This strategy guarantees a secure and seamless user experience while protecting client privacy. </p>
 <p> The integration of the system with the Facebook platform, as well as proper configuration and adherence to their rules, will be the primary focus during the implementation phase. Customers will be given detailed instructions on how to log in using their Facebook accounts, emphasizing the significance of protecting their login information. The company prioritizes the integrity and security of client accounts while boosting convenience and user happiness by utilizing Facebook's well-established security procedures. </p>
 <p> Although user accounts are present on Facebook, Villamin Wood and Iron Works do not collect details other than Usernames, and User Profiles. This means that the team will not be able to transfer Facebook credentials such us User Accounts and Passwords to the proposed system. </p>
 
@@ -165,7 +166,7 @@ ensuring the system meets the specified requirements by designing and executing 
 # The team will provide a manual that contains step-by-step instructions on how to perform operations regards to the system. This will allow the store owner or manager to easily operate the system.
 # The team will provide documentation and other relevant documentation for the company for a better understanding of the system and how it works.
 
-<p> As part of the Knowledge Transfer Plan, the project team and the store owner/manager will be scheduling a meeting to ensure that knowledge transfer is successful, and any questions or concerns will be addressed urgently. Any changes regard to the system, the company will inform you to ensure that they are updated. </p>
+<p> As part of the Knowledge Transfer Plan, the project team and the store owner/manager will be scheduling a meeting to ensure that knowledge transfer is successful, and that any questions or concerns will be addressed urgently. Any changes regard to the system, the company will inform you to ensure that they are updated. </p>
 
 ==Schedule==
 
