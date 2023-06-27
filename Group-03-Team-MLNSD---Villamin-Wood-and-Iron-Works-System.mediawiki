@@ -564,8 +564,8 @@
 # <b>Product Owner-</b> This person is responsible for making strategic decisions and collaborating with the development team and ensuring that the business objectives are achieved. 
 # <b>Project Manager-</b>It is the responsibility of the Project Manager to manage and authorize modifications to the project's scope, as well as to establish and record the project's scope.
 # <b>Quality Assurance (QA)- </b> responsible for ensuring the project outcome meets all the requirements consistently. It also visualizes the development process that needs to be improved to ensure deliverables are completed accordingly.
-# <b>Developer-</b>
-# <b>System Tester-</b>
+# <b>System Developer-</b> The person in charge of organizing a function does work related to the event that involves creating, programming, and evaluating software solutions in accordance with the given requirements and specifications.
+# <b>System Tester-</b> responsible to maintain extensive test documentation that includes test plans, cases, scripts, and results. Additionally, documentation should be kept current and easily accessible for future use.
 
 ==Scope Definition==
 <p>The team developed the project Villamin Wood and Iron Works System to build a system that resolves all the issues presented by the client and to meet their demands which include the following: </p>
