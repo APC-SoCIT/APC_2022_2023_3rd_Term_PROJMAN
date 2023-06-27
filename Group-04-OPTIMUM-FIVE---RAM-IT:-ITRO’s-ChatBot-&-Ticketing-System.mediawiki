@@ -1018,7 +1018,7 @@ It will be possible to establish the scope baseline by incorporating the scope d
 ==Cost Change Control Process==
 <p>The cost change control process will follow the established project change request process.  Approvals for project budget/cost changes must be approved by the project sponsor. </p>
 ==Project Budget==
-<p>The budget for this project is detailed below. The base monthly salaries are referenced from Glassdoor’s monthly salary rates (Glassdoor, n.d.). Costs for this project are presented in various categories...</p>
+<p>The budget for this project is detailed below. The base monthly salaries are referenced from Glassdoor’s monthly salary rates (Glassdoor, n.d.). Labor costs are based on the log hours (multiplied with the hourly rates) of each member per work package listed in OpenProject. Costs for this project are presented in various categories...</p>
 
 <table width="744" border="1" align="center">
             
@@ -1026,12 +1026,13 @@ It will be possible to establish the scope baseline by incorporating the scope d
 			<td style="height: 37px;" colspan="6" width="744" bgcolor="lightblue">
 				<p><strong>Manpower Cost Estimate</strong></p>
 			</td>
+		</tr>
                 <tr style="height: 37px;">
 			<td style="height: 37px;" colspan="6" width="744">
 				<p><strong>Initiation</strong></p>
 			</td>
 		</tr>
-		</tr>
+		
 		<tr style="height: 52px;">
 			<td style="height: 52px;" width="180" bgcolor="#04549B">
 				<p><strong>ROLE</strong></p>
@@ -1698,12 +1699,20 @@ It will be possible to establish the scope baseline by incorporating the scope d
 				<p>₱ 39,092.52</p>
 			</td>
 		</tr>
+               <tr style="height: 37px;">
+			<td style="height: 37px;" colspan="5" width="582">
+				<p><strong>Total Manpower Cost</strong></p>
+			</td>
+			<td style="height: 37px;" width="162">
+				<p>₱ 661,294.84</p>
+			</td>
+		</tr>
 </table>
 
 <table width="744" border="1" align="center">
-<tr style="height: 37px;">
-			<td style="height: 37px;" colspan="6" width="744" bgcolor="lightblue">
-				<p><strong>Manpower Cost Estimate</strong></p>
+                <tr style="height: 37px;">
+			<td style="height: 37px;" colspan="6" width="744" bgcolor="#50c5e7">
+				<p><strong>Contingency Cost</strong></p>
 			</td>
                 <tr style="height: 37px;">
 			<td style="height: 37px;" colspan="6" width="744">
