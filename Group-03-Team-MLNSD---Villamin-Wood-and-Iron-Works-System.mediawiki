@@ -272,31 +272,57 @@
 ==Cost Benefit Analysis==
 <p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those customers purchased a product, we could safely say that there will be a 50% increase in sales. This table is not final, and this is introduced for the client’s approval: </p>
 
-<table border="1" width="100%" align="center">
-<thead>
-<tr>
-<th>Benefit</th>
-<th>Cost</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Functional System</td>
-<td>$485.87</td>
-</tr>
-<tr>
-<td>Website Platform</td>
-<td></td>
-</tr>
-<tr>
-<td>Storage Accounts</td>
-<td></td>
-</tr>
-<tr>
-<td>SQL Database</td>
-<td></td>
-</tr>
-</tbody>
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Cost</th>
+    <th>Benefit</th>
+  </tr>
+  <tr>
+    <td>Year 1</td>
+    <td>-₱57,954.22</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Product</td>
+    <td>Duration</td>
+    <td>subtotal</td>
+  </tr>
+  <tr>
+    <td>Cost</td>
+    <td>₱147,954.22</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Benefit</td>
+    <td>Estimated Increase in Income</td>
+    <td>₱90,000.00</td>
+  </tr>
+  <tr>
+    <td>Labor Cost</td>
+    <td>544 hours</td>
+    <td>₱115,425.00</td>
+  </tr>
+  <tr>
+    <td>Unit Cost</td>
+    <td>544 hours</td>
+    <td>₱17,543.40</td>
+  </tr>
+  <tr>
+    <td>Web Hosting (GoDaddy)</td>
+    <td>1 Year</td>
+    <td>₱5,988.00</td>
+  </tr>
+  <tr>
+    <td>SSL Security (GoDaddy)</td>
+    <td>1 Year</td>
+    <td>₱7,999.00</td>
+  </tr>
+  <tr>
+    <td>Domain Registration (GoDaddy)</td>
+    <td>1 Year</td>
+    <td>₱998.82</td>
+  </tr>
 </table>
 
 ==Alternatives Analysis==
