@@ -275,7 +275,7 @@
 <table style="width: 100%;">
   <tr>
     <th>Year 1</th>
-    <th font="red">-₱57,954.22</th>
+    <th style="color:red;">-₱57,954.22</th>
   </tr>
   <tr>
     <th>Product</th>
