@@ -1,12 +1,12 @@
 <span id="project-title"></span>
-= '''Project Title''' =
+=Project Title=
 Tracking Activity Project Management
 
 <span id="project-members"></span>
-= '''Project Members''' =
+= Project Members =
 
 <span id="project-professor"></span>
-== '''Project Professor'''  ==
+== Project Professor  ==
 
 {| class="wikitable"
 ! NAME !! POSITION !! EMAIL
@@ -15,7 +15,7 @@ Tracking Activity Project Management
 |}
 
 <span id="project-adviser"></span>
-== '''Project Adviser'''  ==
+== Project Adviser  ==
 
 {| class="wikitable"
 ! NAME !! POSITION !! EMAIL
@@ -24,7 +24,7 @@ Tracking Activity Project Management
 |}
 
 <span id="project-team"></span>
-== '''Project Team'''  ==
+== Project Team  ==
 
 {| class="wikitable"
 ! NAME !! EMAIL
@@ -41,7 +41,7 @@ Tracking Activity Project Management
 |}
 
 <span id="company-profile"></span>
-= '''1. Company Profile''' =
+= 1. Company Profile =
 
 {| class="wikitable"
 |+ <span id="_Toc138294870" class="anchor"></span>Table 1 High-Level Company Information
@@ -75,10 +75,9 @@ Tracking Activity Project Management
 |}
 
 
-
 The College is devoted to advancing knowledge and educating students in information technology, commerce, engineering, accountancy, entrepreneurship, multimedia arts, and other areas of scholarship that will best serve the global community in the 21st century. Graduates of APC are now found in all sectors of businesses and industries. They translate their knowledge into products, services, and jobs.
 
-'''Project: Tracking Activity Project Management (TAPM) for Asia Pacific College’s Project Development Office'''
+Project: Tracking Activity Project Management (TAPM) for Asia Pacific College’s Project Development Office
 
 The Project Tracking Monitoring System is designed to streamline project management and improve collaboration among team members. The Work Bench Structure is organized according to the five phases of the Project Management Lifecycle, from Initiation to Closeout.
 
@@ -86,22 +85,22 @@ The system features a Project Dashboard, where users can see an overview of all 
 
 Communication features, including chat, video conferencing, and email integration, allow team members to stay connected and informed throughout the project. Reporting and Analytics features provide real-time data on project progress, resource utilization, and budget tracking, allowing for better decision-making and risk management.
 
-'''The vision, mission, and value of Asia Pacific College:'''
+The vision, mission, and value of Asia Pacific College:
 
-'''Vision:'''
+Vision:
 
 Asia Pacific College envisions itself to be the preferred Higher Education Institution bridging academe and industry with its programs founded on the concepts and applications of IT, guided by the core values of integrity, industry and innovation that works.
 
-'''Mission:'''
+Mission:
 
 Asia Pacific College, powered by education and industry professionals as faculty and a balanced curriculum, aims to provide business and the information and communications technology industry in the Philippines and in the global community lifelong learning graduates who are anchored on the principles of integrity and professionalism.
 
-'''Values:'''
+Values:
 
 APC aims to produce graduates with a keen sense of industry or hard work, integrity or honesty that is coupled with strong moral/ethical principles, and innovation or the consistent introduction of new and creative methods or ideas.
 
 <span id="executive-summary"></span>
-= '''2. Executive Summary'''  =
+= 2. Executive Summary  =
 
 The Tracking Activity Project Management system aims to address common issues and problems in project management by utilizing tools and techniques for tracking progress and task management. Through the implementation of tracking activity project management tools, project managers can gain better visibility into project status and identify potential bottlenecks or delays. This enables them to take action and make adjustments to ensure the project stays on track.
 
@@ -110,25 +109,25 @@ In addition to progress tracking, project management tools offer various other b
 Overall, the Tracking Activity Project Management system represents a valuable initiative aimed at improving project outcomes and enhancing efficiency in project management. By implementing these tools and techniques, organizations can improve their project management practices and achieve better results.
 
 <span id="issue"></span>
-== '''2.1. Issue'''  ==
+== 2.1. Issue  ==
 
 The Project Development Office of Asia Pacific is facing challenges in promptly monitoring the status of internal and external projects within the school. These challenges include a lack of visibility into project status, potential bottlenecks or delays, poor communication among team members, and difficulty aligning project objectives with overall business goals. These issues often result in missed deadlines, cost overruns, and poor-quality outcomes.
 
-<span id="_Toc138295475" class="anchor"></span>'''2.2. Anticipated Outcomes'''<br />
+<span id="_Toc138295475" class="anchor"></span>2.2. Anticipated Outcomes<br />
 The implementation of Tracking Activity Project Management can lead to improved project outcomes, including meeting project timelines, staying within budget, delivering quality products or services, improved communication among team members, better alignment of project objectives with overall business goals, and more effective task prioritization. These outcomes will benefit stakeholders by increasing efficiency and productivity for the organization and better utilization of resources.
 
 <span id="recommendation"></span>
-== '''2.3. Recommendation'''  ==
+== 2.3. Recommendation  ==
 
 It is recommended to implement a system that addresses the lack of supervision, such as a tool that improves project management practices and achieves better outcomes. The Tracking Activity Project Management system will provide real-time updates, task assignment, and progress tracking.
 
 <span id="justification"></span>
-== '''2.4. Justification'''  ==
+== 2.4. Justification  ==
 
 By implementing the Tracking Activity Project Management system, the focus will be on meeting market demands, improving project outcomes, and staying competitive in the marketplace. Additionally, this system can optimize resource allocation, enhance team collaboration, and increase efficiency, resulting in cost savings and improved IT security. Implementing these tools will enable organizations to establish best practices for project management and enhance overall efficiency and productivity.
 
 <span id="business-case-analysis-team"></span>
-== '''2.5 Business Case Analysis Team'''  ==
+== 2.5 Business Case Analysis Team  ==
 
 Noreen Keziah Sioco - Project Manager: Responsible for managing the entire business case analysis procedure, ensuring the project is completed on schedule and within budget. They will also oversee team meetings, task distribution, and stakeholder interaction.
 
@@ -137,40 +136,40 @@ Mark Gerald Giba and Bea Angeline Cruz - Business Analysts: Responsible for comp
 Jose Norberto Verde and Joseph Adrian Lebag - Operations Specialists: Responsible for examining the operational needs of the proposed solution and creating an implementation strategy. They will oversee the resources required for implementation, develop an implementation schedule, and identify potential risks and issues.
 
 <span id="business-case"></span>
-= '''3. Business Case''' =
+= 3. Business Case =
 
 <span id="problem-definition"></span>
-== '''3.1 Problem Definition''' ==
+== 3.1 Problem Definition ==
 
 <span id="problem-statement"></span>
-=== '''3.1.1. Problem Statement'''  ===
+=== 3.1.1. Problem Statement  ===
 
 The Project Development Office of Asia Pacific is having difficulty monitoring the status of the school's internal and external projects promptly. This includes the lack of visibility into project status, potential bottlenecks or delays, poor communication among team members, and difficulty aligning project objectives with overall business goals. These issues often result in missed deadlines, cost overruns, and poor-quality outcomes.
 
 <span id="organizational-impact"></span>
-=== '''3.1.2. Organizational Impact'''  ===
+=== 3.1.2. Organizational Impact  ===
 
 The implementation of an integrated project management system within the Project Development Office of Asia Pacific will have a significant impact on the organization. It will address existing challenges such as lack of visibility, poor communication, and difficulty aligning project objectives with business goals. By providing real-time project status updates, enabling efficient communication among team members, and ensuring alignment with business goals, the system will enhance project performance, reduce delays, and improve outcomes. This will lead to cost savings, increased efficiency, and higher customer satisfaction rates, driving overall organizational performance and profitability.
 
 Moreover, the integrated system will streamline processes by consolidating dispatch tools and reducing manual tasks. This will result in improved efficiency, faster response times, and reduced errors. The optimized process will enable team members to allocate resources effectively, resolve outages promptly, and enhance customer satisfaction. Additionally, the system will free up resources and savings that can be redirected towards other important initiatives, contributing to the organization's success, and fostering continuous improvement. Overall, the implementation of the integrated project management system will transform the Project Development Office, addressing existing issues, optimizing processes, and driving positive impacts on project delivery and overall organizational performance.
 
 <span id="technology-migration"></span>
-=== '''3.1.3. Technology Migration'''  ===
+=== 3.1.3. Technology Migration  ===
 
 The system will be built using Laravel Framework in which will use PHP syntax and SQL for database to create a web portal in order to be easily accessible for the users and stakeholders. In terms of data migration, all the past data such as user details and archived projects can be exported from the artifacts files that can be imported to the database, facilitating a seamless and efficient transition. Once the system is completed, it can be deployed through the APC network.
 
 <span id="project-overview"></span>
-== '''3.2. Project Overview''' ==
+== 3.2. Project Overview ==
 
 <span id="project-description"></span>
-=== '''3.2.1. Project Description'''  ===
+=== 3.2.1. Project Description  ===
 
 The goal of the project is to create a system that will address the need of a project development office with the problem of project tracking and management together with its students. As a function, the system will include a function that will visually show the progress to track the current flow of the project in which will allow the PDO to monitor everything that has been done to the project so far. With this, the stakeholders will be able to easily follow up the needs of the project development and will make it easier to continue past works that will be involve in the future.
 
 Doing this project will also improve the experience of the stakeholders involve in the project development by providing them with a single collaborative platform that provides tracking system, making it easier for them to track and manage their work. By implementing this system, the PDO will be able to track and monitor the on-going projects efficiently, allowing also the other stakeholders to track every progress made to the projects, from the system.
 
 <span id="goals-and-objectives"></span>
-=== '''3.2.2. Goals and Objectives'''  ===
+=== 3.2.2. Goals and Objectives  ===
 
 This project aims to improve the process of monitoring existing projects that the project development office handles, which includes the tracking of progress of the said projects. To achieve this, the project specifically addresses the following:
 
@@ -178,7 +177,7 @@ This project aims to improve the process of monitoring existing projects that th
 * Develop a single collaborative platform for accessing all the information for project development, to reduce the use of multiple platforms.
 
 <span id="project-performance"></span>
-=== '''3.2.3. Project Performance'''  ===
+=== 3.2.3. Project Performance  ===
 
 To evaluate the performance and outcomes of the proposed project for developing a Tracking Activity Project Management system for Asia Pacific College's Project Development Office, the following measures should be considered:
 
@@ -216,7 +215,7 @@ Process Improvement:
 By monitoring and evaluating these measures, the project team can assess the performance and outcomes of the Tracking Activity Project Management system. The data collected will provide insights into user adoption, satisfaction, time savings, data accuracy, cost savings, and process improvements. This information will be crucial for identifying areas of success and opportunities for further enhancement to meet the objectives and requirements of the Project Development Office at Asia Pacific College.
 
 <span id="project-assumptions"></span>
-=== '''3.2.4. Project Assumptions'''  ===
+=== 3.2.4. Project Assumptions  ===
 
 Here are the preliminary assumptions for the proposed project:
 
@@ -229,7 +228,7 @@ Here are the preliminary assumptions for the proposed project:
 * The Project Development Office will have the necessary skills and knowledge to adapt to the new system effectively as the Developers will only provide job-aides and documentation to the account’s SME during the transition/training phase.
 
 <span id="project-constraints"></span>
-=== '''3.2.5. Project Constraints'''  ===
+=== 3.2.5. Project Constraints  ===
 
 Below are the preliminary constraints for the proposed project:
 
@@ -238,7 +237,7 @@ Below are the preliminary constraints for the proposed project:
 * Stakeholder constraints, such as clients, must be considered to deliver the expected or desired outcome and address their needs.
 
 <span id="major-project-milestones"></span>
-=== '''3.2.6. Major Project Milestones'''  ===
+=== 3.2.6. Major Project Milestones  ===
 
 The project has identified the following milestones and deliverables to guide the team's progress:
 
@@ -250,20 +249,20 @@ The project has identified the following milestones and deliverables to guide th
 # Conduct a close out meeting and deliver hand-off documents to key stakeholders by June 26, 2023.
 
 <span id="strategic-alignment"></span>
-== '''3.3. Strategic Alignment'''  ==
+== 3.3. Strategic Alignment  ==
 
 By aligning the Tracking Activity Project Management system with the overall goals and objectives of Asia Pacific College’s Project Development Office, the organization will be able to maximize the value of the project and ensure that it is contributing to the success of the Project Development's Project-Based Learning.
 
-'''Project Development Office aims to improve the monitoring process of the existing projects.'''
+Project Development Office aims to improve the monitoring process of the existing projects.
 
 The system project aligns with this goal by improving the efficiency and effectiveness of the project monitoring and helping enhance the project tracking progress, task completion, and displaying project information. This will enhance the user experience for the faculty, PDO, teachers, and students involved in the projects. By aligning the Tracking Activity Project Management system, the organization will achieve greater efficiency, enhance academic performance, and improve the overall project monitoring and management process. This strategic alignment will lead to successful project outcomes.
 
-'''Project Development Office aims to enhance the user experience for the target users.'''
+Project Development Office aims to enhance the user experience for the target users.
 
 The system project aligns with this goal by facilitating the management and monitoring of PBL projects. It will provide a useful tool for taking on projects like PBL2, which are based on the principles of project-based learning. This alignment will contribute to the overall success of the Project Development's Project-Based Learning approach at Asia Pacific College. It supports the organization's objectives by providing a framework for effective project monitoring, facilitating better collaboration among stakeholders, and ensuring that projects are in line with the institution's vision and goals.
 
 <span id="cost-and-benefit-analysis"></span>
-== '''3.4 Cost and Benefit Analysis''' ==
+== 3.4 Cost and Benefit Analysis ==
 
 The project will mostly include the cost of developing the software, training, maintenance, contingency and the server that will be used. The benefit side of this project, upon forming the analysis it can improve the delivery of the project, increasing the satisfaction of the client, increasing efficiency, and saving the time on project tracking and reporting. Other benefits include better collaboration and communication with student groups and faculty/teachers, and security and privacy of project information.
 
@@ -282,13 +281,13 @@ Costs:
 * The cost for the Server and 12500 for both the Domain name and the Website Hosting annually.
 
 <span id="project-charter"></span>
-= '''4. Project Charter''' =
+= 4. Project Charter =
 
 <span id="project-purpose-justification"></span>
-== '''4.1. Project Purpose Justification''' ==
+== 4.1. Project Purpose Justification ==
 
 <span id="business-need"></span>
-=== '''4.1.1. Business Need''' ===
+=== 4.1.1. Business Need ===
 
 In today's fast-paced business environment, there is a growing demand for efficient and effective project management. The PDO needed to be able to deliver projects on time and within the period to remain concise. Tracking activity project management tools can help organizations meet this demand by improving project visibility, communication, and efficiency.
 
@@ -299,7 +298,7 @@ Advances in technology have made tracking activity project management tools more
 In summary, the Business Need/Case for tracking activity project management is driven by a combination of market demand, organizational need, customer request, and technological advance. By implementing these tools, organizations can improve their project management capabilities, meet customer demands, and stay competitive in the marketplace.
 
 <span id="business-objectives"></span>
-=== '''4.1.2. Business Objectives''' ===
+=== 4.1.2. Business Objectives ===
 
 The project's business goals directly contribute to the strategic plan of the Project Development Office to improve its capability of tracking internal and external projects and generate reports on time.
 
@@ -307,12 +306,12 @@ The project's business goals directly contribute to the strategic plan of the Pr
 * Implement a collaboration space that can help student groups and faculty members to disseminate files, documents, and ideas
 
 <span id="project-description-1"></span>
-== '''4.2. Project Description''' ==
+== 4.2. Project Description ==
 
 The Asia Pacific College's Project Development Office is facing difficulties in monitoring the status of their internal and external projects efficiently. The lack of a reliable system to track project progress and generate reports promptly has caused delays in project delivery and unmet expectations for industry partners. To address these issues, the project group will develop a website/system that can assist the PDO in monitoring the progress of their projects. The system will have the capacity to provide real-time updates on the status of projects under PBL2 and allow the PDO to manage project expectations efficiently.
 
 <span id="project-objectives"></span>
-=== '''4.2.1. Project Objectives''' ===
+=== 4.2.1. Project Objectives ===
 
 <blockquote>The project’s main objective is to develop a website/system that will keep the PDO up to date on the status of projects under the Asia Pacific College's Project Based Learning (PBL2).
 
@@ -322,7 +321,7 @@ To achieve this, the group will develop the system with the following intentions
 * Provide a well-suited collaboration space so that student groups and faculty can disseminate files, ideas, and information between PBL1 and PBL2, assisting in the timely completion of the project.
 
 <span id="success-criteria"></span>
-=== '''4.2.2. Success Criteria'''  ===
+=== 4.2.2. Success Criteria  ===
 
 <blockquote>To ensure the success of the project, the following objectives must be achieved within the designated time and budget allocations:
 </blockquote>
@@ -333,7 +332,7 @@ To achieve this, the group will develop the system with the following intentions
 * Timely and Within Budget Implementation: The new system should be completed and implemented as per the established timeline and budget specified in the project plan.
 
 <span id="requirements"></span>
-=== '''4.2.3. Requirements''' ===
+=== 4.2.3. Requirements ===
 
 <blockquote>This project must meet the following list of requirements to achieve success.
 </blockquote>
@@ -346,7 +345,7 @@ To achieve this, the group will develop the system with the following intentions
 <li><blockquote><p>The system should allow for customization to meet the PDO’s/faculty specific needs and workflows.</p></blockquote></li></ul>
 
 <span id="constraints"></span>
-=== '''4.2.4. Constraints''' ===
+=== 4.2.4. Constraints ===
 
 <blockquote>There are several constraints that the project manager must consider for this project:
 </blockquote>
@@ -356,7 +355,7 @@ To achieve this, the group will develop the system with the following intentions
 <li><blockquote><p>Stakeholders - The project manager must consider the expectations and requirements of various stakeholders, such as clients, customers, or regulatory bodies. To ensure that the project delivers the desired outcomes and addresses stakeholder needs.</p></blockquote></li></ul>
 
 <span id="assumptions"></span>
-=== '''4.2.5. Assumptions''' ===
+=== 4.2.5. Assumptions ===
 
 <blockquote>The following is a list of assumptions. Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:
 </blockquote>
@@ -368,22 +367,22 @@ To achieve this, the group will develop the system with the following intentions
 <li><blockquote><p>Security and privacy of project data will be prioritized. It will comply with relevant data protection regulations to ensure the confidentiality and integrity of information.</p></blockquote></li></ul>
 
 <span id="preliminary-scope-statement"></span>
-=== '''4.2.6. Preliminary Scope Statement'''  ===
+=== 4.2.6. Preliminary Scope Statement  ===
 
 <blockquote>The scope of this project is to develop and implement a Tracking Activity Project Management system for PDO, or faculty/teachers. This will involve identifying necessary metrics and tools, developing a project management plan, and implementing the tracking system. The project will require an advisor and team with expertise in project management and software development, as well as access to necessary software tools. The project will be considered complete when the tracking system is successfully implemented, users are able to use and accept the system, and improved project management processes and outcomes are demonstrated. This preliminary scope statement is subject to change as the project undergoes progressive elaboration and additional details are identified.
 </blockquote>
 <span id="risk"></span>
-== '''4.3. Risk''' ==
+== 4.3. Risk ==
 
 The project team has identified several high-level risks as being relevant to this project. The project manager will determine and implement the proper risk reduction and avoidance measures, to reduce the likelihood of these hazards:
 
-* '''Security Risks:''' Unauthorized access to critical project data runs the risk of causing data breaches or leaks.
-* '''User Adoption and Training:''' Users, especially team members and project managers, run the risk of having trouble adjusting to and accepting the new system. Inadequate training or resistance to change could lead to lower user acceptance and reduced efficiency.
-* '''Human Error:''' There is a chance that mistakes will be made by the project team. that might affect the project.
-* '''Integration Challenges:''' Integrating the new system with the current tools and systems may pose challenges such as compatibility issues, data migration issues, or trouble creating a seamless data flow across different platforms.
+* Security Risks: Unauthorized access to critical project data runs the risk of causing data breaches or leaks.
+* User Adoption and Training: Users, especially team members and project managers, run the risk of having trouble adjusting to and accepting the new system. Inadequate training or resistance to change could lead to lower user acceptance and reduced efficiency.
+* Human Error: There is a chance that mistakes will be made by the project team. that might affect the project.
+* Integration Challenges: Integrating the new system with the current tools and systems may pose challenges such as compatibility issues, data migration issues, or trouble creating a seamless data flow across different platforms.
 
 <span id="project-key-deliverables"></span>
-== '''4.4. Project Key Deliverables'''  ==
+== 4.4. Project Key Deliverables  ==
 
 Upon successful completion of the project, the following deliverables must be made. The project sponsor's approval is required for any changes to these deliverables:
 
@@ -396,15 +395,15 @@ Upon successful completion of the project, the following deliverables must be ma
 * Deploy the system to a production environment and provide ongoing technical support and maintenance to address any issues, bug fixes, and updates for the smooth operation of the system.
 
 <span id="summary-milestone-schedule"></span>
-== '''4.5. Summary Milestone Schedule''' ==
+== 4.5. Summary Milestone Schedule ==
 
 Presented below is the project Summary Milestone Schedule. This schedule is subject to modification as the requirements become more clearly defined. Any changes will be communicated through project status meetings, led by the project manager.
 
 {| class="wikitable"
 |+ <span id="_Toc138294871" class="anchor"></span>Table 2: Project Milestone
 |-
-! '''Project Milestone'''
-! '''Target Completion Date'''
+! Project Milestone
+! Target Completion Date
 |-
 | Project Initiation
 | <blockquote>March 30, 2022
@@ -436,38 +435,18 @@ Presented below is the project Summary Milestone Schedule. This schedule is subj
 |}
 
 <span id="summary-budget"></span>
-== '''4.6. Summary Budget''' ==
+== 4.6. Summary Budget ==
 
 {| class="wikitable"
 |+ <span id="_Toc138294872" class="anchor"></span>Table 3: Summary Budget
 |-
-! colspan="5"| '''INITIATION'''
+! colspan="5"| INITIATION
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
-|-
-| Project Manager
-| 228
-| 1824*30
-| 1
-| PHP 54,720
-|-
-| Business Analyst
-| 207
-| 1656*30
-| 1
-| PHP 49,680
-|-
-| colspan="5"| '''PLANNING'''
-|-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
@@ -481,13 +460,33 @@ Presented below is the project Summary Milestone Schedule. This schedule is subj
 | 1
 | PHP 49,680
 |-
-| colspan="5"| '''EXECUTION'''
+| colspan="5"| PLANNING
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
+|-
+| Project Manager
+| 228
+| 1824*30
+| 1
+| PHP 54,720
+|-
+| Business Analyst
+| 207
+| 1656*30
+| 1
+| PHP 49,680
+|-
+| colspan="5"| EXECUTION
+|-
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
@@ -507,13 +506,13 @@ Presented below is the project Summary Milestone Schedule. This schedule is subj
 | 1
 | PHP 51,360
 |-
-| colspan="5"| '''CONTROL'''
+| colspan="5"| CONTROL
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
@@ -533,13 +532,13 @@ Presented below is the project Summary Milestone Schedule. This schedule is subj
 | 1
 | PHP 51,360
 |-
-| colspan="5"| '''CLOSEOUT'''
+| colspan="5"| CLOSEOUT
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
@@ -555,29 +554,29 @@ Presented below is the project Summary Milestone Schedule. This schedule is subj
 |}
 
 <span id="project-approval-requirements"></span>
-== '''4.7. Project Approval Requirements''' ==
+== 4.7. Project Approval Requirements ==
 
 The Tracking Activity Project Management system will be considered successful when a working system, comprising at least 70% of its intended functionality, has been tested and deemed acceptable for implementation in the Asia Pacific Colleges’ Project Development Office. Once the 70% working system is achieved, the client will receive a recommendation list, enabling them to further enhance and refine the submitted system in terms of both system functionality and potential security threats. Ultimately, the client will evaluate and authorize the completion of the project, thereby determining its success.
 
 <span id="project-manager"></span>
-== '''4.8 Project Manager'''  ==
+== 4.8 Project Manager  ==
 
 Noreen Keziah Sioco has been appointed as the Project Manager for the Tracking Activity Project Management system. In this role, Ms. Sioco is accountable for overseeing all project tasks, scheduling, and communication related to the Tracking Activity Project Management system. She leads a team consisting of her fellow peers from school. Ms. Sioco will collaborate with the client to address their project requirements effectively. Additionally, she has the authority to approve budget expenditures within the allocated budget amounts. Ms. Sioco is responsible for providing weekly updates to both the Project Sponsor and the client, ensuring regular progress reports are shared.
 
 <span id="project-management-approach"></span>
-= '''5. Project Management Approach''' =
+= 5. Project Management Approach =
 
 The Project Sponsor possesses complete authority to authorize the implementation of plans and any necessary modifications. Conversely, the Project Manager is accountable for overseeing and executing the project in alignment with the established Project Plan. The project team will be composed of individuals from various departments, including administration, product development, and quality assurance.
 
 The Project Manager will collaborate with all available resources to conduct project planning. The project sponsor will thoroughly assess and endorse all project and subsidiary management plans. Additionally, the project sponsor will make all funding decisions. If approval authority is delegated to the project manager, a written agreement signed by both the project sponsor and project manager is required.
 
 <span id="project-technical-support"></span>
-= '''6. Project Technical Support''' =
+= 6. Project Technical Support =
 
 In implementing the Tracking Activity Project Management, our strategic approach is grounded in a comprehensive evaluation of the project's requisites and limitations. Our team will adhere to a meticulously planned and flexible product development methodology, specifically designed to guarantee the punctual delivery of an exceptional product that aligns with the client's envisioned outcomes.
 
 <span id="product-development-methodology"></span>
-== '''6.1. Product Development Methodology''' ==
+== 6.1. Product Development Methodology ==
 
 Our product management approach combines elements of both agile and traditional project management frameworks to optimize the development process. By leveraging agile methods like Scrum, we can achieve rapid iterations and incorporate continuous feedback from stakeholders.
 
@@ -596,7 +595,7 @@ Throughout the product development life cycle, we emphasize continuous communica
 By combining agile and traditional project management approaches, we can leverage the benefits of iterative development, stakeholder collaboration, and efficient project control. This hybrid methodology allows us to deliver high- quality products within specified timelines and budgetary constraints.
 
 <span id="technical-architecture"></span>
-== '''6.2. Technical Architecture''' ==
+== 6.2. Technical Architecture ==
 
 The Tracking Activity Project Management system will be developed using the Laravel Framework, which offers an expressive and elegant syntax and provides various features necessary for building modern web applications. This includes routing, validation, caching, queues, and file storage capabilities.
 
@@ -613,20 +612,20 @@ Scalability is a key consideration in technical architecture. Load balancers, cl
 In summary, the technical architecture of the Tracking Activity Project Management system focuses on robustness, security, and scalability. It leverages the Laravel Framework, modern front-end technologies, and a client-server model to deliver a reliable and efficient application.
 
 <span id="project-management-plan"></span>
-= '''7. Project Management Plan''' =
+= Project Management Plan =
 
 <span id="stakeholders-strategy-management-plan"></span>
-== '''7.1 Stakeholders Strategy Management Plan''' ==
+== 7.1 Stakeholders Strategy Management Plan ==
 
 <span id="introduction"></span>
-=== '''7.1.1 Introduction''' ===
+=== 7.1.1 Introduction ===
 
 A stakeholder management strategy serves as a cornerstone for project success. Within the context of the current project charter, which empowers the Project Development Office (PDO) of Asia Pacific College to establish a collaborative platform for monitoring, tracking, and generating reports on projects assigned to student groups in collaboration with industry partners, an encompassing stakeholder management strategy is crucial. The PDO endeavors to closely collaborate with project proponents to formulate a comprehensive project plan that encompasses various essential components, including provisions for effective stakeholder management. The overarching objective is to ensure that all stakeholders are not only adequately identified but also actively engaged and proficiently managed throughout the project's entire lifecycle.
 
 <span id="identify-stakeholders"></span>
-=== '''Identify Stakeholders''' ===
+=== Identify Stakeholders ===
 
-'''The stakeholders for the project include the following groups:'''
+The stakeholders for the project include the following groups:
 
 * Project Development Office (PDO) staff
 * Proponents of the project
@@ -639,21 +638,21 @@ A stakeholder management strategy serves as a cornerstone for project success. W
 To identify stakeholders, the project team will employ a methodology that involves analyzing the project's goals, objectives, and requirements, and then mapping these to potential stakeholders who may be impacted by the project. The project team will also consult with key stakeholders to identify additional stakeholders and obtain feedback on stakeholder identification. All stakeholders will be defined based on their level of interest, influence, and involvement in the project. Great care and effort will be dedicated to ensuring that all stakeholders are identified and engaged throughout the project's lifecycle.
 
 <span id="key-stakeholders"></span>
-=== '''Key Stakeholders''' ===
+=== Key Stakeholders ===
 
 These stakeholders have been identified as key stakeholders because they potentially have the most influence over the project or may be most affected by the project. Additionally, they may be stakeholders who are resistant to the change represented by the project. Due to their significance, these key stakeholders may require more communication and management throughout the project's lifecycle. It is important to identify them to seek their feedback on their desired level of participation and communication to ensure that their concerns are addressed, and their needs are met. This helps to increase stakeholder engagement, improve project outcomes, and increase the likelihood of success.
 
 {| class="wikitable"
 |+ <span id="_Toc138294873" class="anchor"></span>Table 4: Key Stakeholders
 |-
-! '''Name'''
-! '''Position'''
-! <blockquote>'''Internal/'''
+! Name
+! Position
+! <blockquote>Internal/
 
-'''External'''
+External
 </blockquote>
-! '''Project Role'''
-! '''Contact Information'''
+! Project Role
+! Contact Information
 |-
 | <blockquote>Jayvee Cabardo
 </blockquote>
@@ -700,16 +699,16 @@ These stakeholders have been identified as key stakeholders because they potenti
 
 
 <span id="stakeholders-analysis"></span>
-=== '''Stakeholders Analysis''' ===
+=== Stakeholders Analysis ===
 
 To analyze the list of identified stakeholders, the project team will categorize, or group stakeholders based on their level of interest, power, influence, and involvement in the project. This helps to determine the level of impact each stakeholder may have on the project and inform the team's communication and engagement strategies.
 
 {| class="wikitable"
 |+ <span id="_Toc138294874" class="anchor"></span>Table 5: Stakeholder Analysis 
-! '''NAME'''
-! '''POWER/INTEREST'''
-! '''CURRENT ENAGEMENT'''
-! '''POTENTIAL MANAGEMENT STRATEGIES'''
+! NAME
+! POWER/INTEREST
+! CURRENT ENAGEMENT
+! POTENTIAL MANAGEMENT STRATEGIES
 |-
 | Jayvee Cabardo
 | HIGH
@@ -747,34 +746,34 @@ is the project manager She promotes teamwork within the team, particularly since
 
 
 <span id="scope-management-plan"></span>
-== '''7.2 Scope Management Plan''' ==
+== 7.2 Scope Management Plan ==
 
 <span id="introduction-1"></span>
-=== '''7.2.1 Introduction''' ===
+=== 7.2.1 Introduction ===
 
 The success of any project depends on the effective management of its scope. The Tracking Activity Project Management team recognizes the significance of a comprehensive scope management plan in ensuring the project's success. Taking inspiration from the best practices and cutting-edge tools used in the Tracking Activity Project Management system, the team has created a Scope Management Plan that outlines the procedures and strategies that will be employed to define, document, and control the project's scope. By leveraging agile methodologies and real-time collaboration tools, the team aims to deliver a top-notch tracking activity management system that meets the needs and expectations of all stakeholders involved. This document serves as a guide for the team to execute the project successfully while maintaining the project's scope within the predefined limits.
 
-'''Scope Definition:''' To define the scope of the Tracking Activity Project Management, the team will undertake the following activities:
+Scope Definition: To define the scope of the Tracking Activity Project Management, the team will undertake the following activities:
 
 * Requirements gathering - A range of methods will be utilized to collect and document the requirements of the system. These will include interviewing stakeholders, organizing focus groups, and using online surveys.
 * User stories - The team will develop user stories that outline the system's required functionality from an end-user perspective. The stories will be prioritized according to their business value and will guide the project's development process.
 * Scope statement - The scope statement will be developed based on the user stories and requirements gathered. It will provide a high-level overview of the project scope, outlining the deliverables, exclusions, and constraints.
 * Scope baseline - The scope baseline will be developed by incorporating the scope statement and user stories into the project management plan. It will be regularly updated to reflect any changes in scope that may arise during the project's progress.
 
-'''Scope Documentation:''' To document the scope of the Tracking Activity Project Management, the team will undertake the following activities:
+Scope Documentation: To document the scope of the Tracking Activity Project Management, the team will undertake the following activities:
 
 * Requirements documentation - The requirements for the system will be documented in a requirements specification document that outlines the system's functional and non-functional requirements.
 * Project management plan - The project management plan will include details about the scope of the project, including the scope statement and the scope baseline. The plan will also cover any other relevant information about the project scope, such as deliverables, exclusions, and constraints.
 * Change log - A change log will be maintained to keep track of all changes made to the scope of the project. This log will document the details of the change, its impact on the project, and the required approvals. The change log will be regularly updated to ensure that all changes are captured and appropriately managed.
 
-'''Scope Control:''' To manage the scope of the Tracking Activity Project Management, the team will undertake the following activities:
+Scope Control: To manage the scope of the Tracking Activity Project Management, the team will undertake the following activities:
 
 * Scope verification - Agile testing techniques will be employed by the project team to verify that the project deliverables meet the requirements and are consistent with the scope statement.
 * Scope change control - Any changes to the project scope will be handled through a formal change control process that includes an assessment of the impact on the project schedule, budget, and quality. This process will ensure that all scope changes are appropriately evaluated and managed.
 * Scope change review - Each scope change request will undergo a scope change review to ensure that the proposed change is necessary, feasible, and aligned with the project objectives. This review will involve an evaluation of the change's impact on the project, as well as an assessment of any potential risks and benefits.
 
 <span id="scope-management-approach"></span>
-=== '''7.2.2 Scope Management Approach''' ===
+=== 7.2.2 Scope Management Approach ===
 
 # Authority and responsibility for scope management will be held by Noreen Keziah S. Sioco, the project manager of group Abyss. She will closely collaborate with the project sponsor, Mr. Jayvee Cabardo, and other key stakeholders to establish and manage the project's scope.
 # The scope of the project will be defined by creating a Scope Statement, Work Breakdown Structure (WBS), WBS Dictionary, and a detailed Statement of Work (SOW). These documents will comprehensively describe the project deliverables, tasks, and requirements, and will be reviewed and endorsed by the project sponsor and other stakeholders before the project work commences.
@@ -783,31 +782,31 @@ The success of any project depends on the effective management of its scope. The
 # The project's final deliverables will be accepted and approved by the project sponsor and other key stakeholders, with Mr. Jayvee Cabardo being responsible for verifying that all project requirements have been satisfied. Successful completion of the project will be confirmed once all deliverables have been accepted, and any unresolved issues have been resolved.
 
 <span id="roles-and-responsibilities"></span>
-=== '''7.2.3 Roles and Responsibilities''' ===
+=== 7.2.3 Roles and Responsibilities ===
 
 The following roles and responsibilities have been assigned to the team in relation to scope management:
 
-# '''Project Manager:''' Is responsible for defining and documenting the scope of the project, as well as controlling and approving scope changes.
-# '''Project team:''' The project team, consisting of developers, designers, testers, and other relevant personnel, is responsible for verifying the scope of the project, and for raising change requests if necessary.
-# '''Stakeholders:''' Stakeholders, including customers, end-users, and other interested parties, are responsible for providing input on the requirements and scope of the project, and for approving scope changes as needed.
+# Project Manager: Is responsible for defining and documenting the scope of the project, as well as controlling and approving scope changes.
+# Project team: The project team, consisting of developers, designers, testers, and other relevant personnel, is responsible for verifying the scope of the project, and for raising change requests if necessary.
+# Stakeholders: Stakeholders, including customers, end-users, and other interested parties, are responsible for providing input on the requirements and scope of the project, and for approving scope changes as needed.
 
 <span id="scope-definition"></span>
-=== '''7.2.4 Scope Definition''' ===
+=== 7.2.4 Scope Definition ===
 
 The scope of this project aims to address the issues faced by Mr. Jayvee Cabardo in using multiple tracking systems and checking various projects simultaneously. The project will focus on developing a system that enables Mr. Cabardo and other stakeholders, such as students, teachers, and consultants/advisors, to create and manage multiple student group projects simultaneously. The system will be implemented at Asia Pacific College (APC) and will ensure that projects are completed on time.
 
 <span id="project-scope-statement"></span>
-=== '''7.2.5 Project Scope Statement''' ===
+=== 7.2.5 Project Scope Statement ===
 
 The project scope statement for the Tracking Activity Project Management system will detail the project's deliverables and the work necessary to create these deliverables.
 
-'''Product Scope Description:'''
+Product Scope Description:
 
 The Tracking Activity Project Management System will be a comprehensive online tool that enables project managers to plan and track project activities, including task assignments, timelines, and resource allocation. It will also provide a centralized repository for project documentation and communication, including status reports, change requests, and issue logs. Additionally, the system will include robust reporting capabilities to facilitate progress monitoring and analysis of project performance.
 
 The system will have tools for managing tasks and a calendar feature, along with reporting and analysis capabilities to enable managers to monitor both their own and their team's performance.
 
-'''Product Acceptance Criteria:'''
+Product Acceptance Criteria:
 
 The Tracking Activity Project Management System will be considered complete and accepted by the customer when it meets the following criteria:
 
@@ -816,7 +815,7 @@ The Tracking Activity Project Management System will be considered complete and 
 # The system has received positive feedback from users during the User Acceptance Testing (UAT) phase.
 # The system has been thoroughly documented and user manuals have been created to provide clear instructions for system use and maintenance.
 
-'''Project Deliverables:'''
+Project Deliverables:
 
 The following deliverables will be provided upon successful completion of the project:
 
@@ -825,17 +824,17 @@ The following deliverables will be provided upon successful completion of the pr
 # Technical documentation to facilitate maintenance and future upgrades of the system.
 # Any additional deliverables specified in the Project Scope Description and agreed upon by the Project Sponsor.
 
-'''Project Exclusions:''' The following work is explicitly excluded from the scope of this project and will not be included:
+Project Exclusions: The following work is explicitly excluded from the scope of this project and will not be included:
 
 # Integration of any other system or software not explicitly mentioned in the project scope statement.
 # Customization or alteration of the system beyond the scope specified in the project scope statement.
 
-'''Project Constraints:''' The successful completion of the project will be affected by the following constraints:
+Project Constraints: The successful completion of the project will be affected by the following constraints:
 
 # A restricted budget that may limit the project's scope and scale.
 # Limited availability of resources, including a limited workforce, which may affect the project's timelines and the ability to deliver specific features.
 
-'''Project Assumptions:''' The following assumptions have been made regarding the Tracking Activity Project Management System:
+Project Assumptions: The following assumptions have been made regarding the Tracking Activity Project Management System:
 
 # The system will be implemented within the Asia Pacific College (APC) environment and will be accessible to authorized users within the network.
 # The developers who will work on this project are equipped with the necessary tools and resources to carry out the project's tasks.
@@ -847,21 +846,21 @@ The following deliverables will be provided upon successful completion of the pr
 # Users will have the necessary skills and knowledge to adapt to the new system effectively, and any required training and transition phase will be provided by the project team.
 
 <span id="work-breakdown-structure"></span>
-=== '''7.2.6 Work Breakdown Structure''' ===
+=== 7.2.6 Work Breakdown Structure ===
 
 The Work Breakdown Structure (WBS) is a tool that will be used to divide the project into smaller, more manageable components. This hierarchical representation of the project scope will start with a high-level view of the project and progressively move down to a more detailed view. A companion document to the WBS, known as the WBS Dictionary, will provide detailed information about each component, including deliverables, scope of work, responsibilities, and other relevant information.
 
 By using the WBS and WBS Dictionary, the project team will be able to assign responsibilities for each component of the project, track progress, and ensure that all aspects of the project are accounted for. The WBS and WBS Dictionary will also help to identify and resolve issues and keep the project on track and within scope. The project team recognizes that the WBS and WBS Dictionary are essential tools for managing the project scope and ensuring the project's success.
 
-'''TASKS:'''
+TASKS:
 
-# '''Initiation'''
+# Initiation
 ## Define project goals and objectives.
 ## Identify project stakeholders and team members.
 ## Determine project scope and requirements.
 ## Create project plan and timeline.
 ## Set up Project Tracking Monitoring System.
-# '''Planning'''
+# Planning
 ## Create detailed project plan.
 ## Define project tasks and milestones.
 ## Create task board and assign tasks to team members.
@@ -870,7 +869,7 @@ By using the WBS and WBS Dictionary, the project team will be able to assign res
 ## Identify potential risks and create risk management plan.
 ## Create communication plan.
 ## Set up features in Project Tracking Monitoring System.
-# '''Execution'''
+# Execution
 
 3.1 Implement project plan and complete project tasks.
 
@@ -880,7 +879,7 @@ By using the WBS and WBS Dictionary, the project team will be able to assign res
 
 3.4 Use Communication features to keep stakeholders informed of project status and progress.
 
-'''4. Control'''
+4. Control
 
 4.1 Monitor project progress and performance.
 
@@ -892,7 +891,7 @@ By using the WBS and WBS Dictionary, the project team will be able to assign res
 
 4.5 Use Communication to address conflicts or concerns among team members or stakeholders.
 
-'''5. Closeout'''
+5. Closeout
 
 5.1 Complete final project tasks and deliverables
 
@@ -907,7 +906,7 @@ By using the WBS and WBS Dictionary, the project team will be able to assign res
 5.6 Close out project in Project Tracking Monitoring System
 
 <span id="scope-verification"></span>
-=== '''7.2.7 Scope Verification''' ===
+=== 7.2.7 Scope Verification ===
 
 To ensure that the deliverables of the Tracking Activity Project Management System project align with the original project scope, the project team will employ various methods for scope verification. These methods will involve:
 
@@ -917,11 +916,11 @@ To ensure that the deliverables of the Tracking Activity Project Management Syst
 * Formal acceptance: The project sponsor, customer, and other stakeholders will formally accept each deliverable upon completion. This ensures that the project team meets the expectations of all relevant parties — allowing for any necessary feedback or changes to be made promptly.
 
 <span id="scope-control"></span>
-=== '''7.2.8 Scope Control''' ===
+=== 7.2.8 Scope Control ===
 
 The scope control process for the Tracking Activity Project Management System project will involve regular reviews of the project's deliverables and progress to ensure that they align with the original project scope as defined in the Project Scope Statement. Any deviations from the scope will be evaluated and, if necessary, changes to the scope will be documented and approved through the established scope change process. The Project Manager will be responsible for monitoring and controlling the project's scope, with assistance from the project team and stakeholders. Periodic reviews of the project's scope will be conducted to ensure that the project remains on track and within the defined boundaries. The project manager will also be responsible for ensuring that any scope changes are properly documented and that all impacted parties are notified of any changes.
 
-'''The scope control process for the Tracking Activity Project Management System project will involve the following steps for making changes to the scope baseline:'''
+The scope control process for the Tracking Activity Project Management System project will involve the following steps for making changes to the scope baseline:
 
 # A scope change request will be initiated by any stakeholder or team member who identifies a need for a change to the scope.
 # The scope change request will be reviewed by the Project manager and the Project Sponsor to assess the impact of the change on the project schedule, budget, and resources.
@@ -932,10 +931,10 @@ The scope control process for the Tracking Activity Project Management System pr
 <blockquote>It is important to have a formalized process for making changes to the scope baseline to ensure that the Tracking Activity Project Management System project stays on track and within budget. Any changes to the scope should be carefully assessed and approved to avoid scope creeps and keep the project on track.
 </blockquote>
 <span id="cost-management-plan"></span>
-= '''7.3 Cost Management Plan'''  =
+= 7.3 Cost Management Plan  =
 
 <span id="introduction-2"></span>
-== '''7.3.1 Introduction''' ==
+== 7.3.1 Introduction ==
 
 The Cost Management Plan for Tracking Activity Project Management (TAPM) is to outline the approach that the project team will take to manage costs throughout the project. The plan outlines the methods that will be used to monitor and manage costs, such as budgeting, cost reporting, and cost estimations.
 
@@ -953,7 +952,7 @@ Cost change approval:
 By adopting these approaches, the project team may efficiently manage expenses for a project that concentrates on TAPM by implementing these measures, ensuring that the project remains on track financially.
 
 <span id="measuring-project-cost"></span>
-== '''7.3.3 Measuring Project Cost''' ==
+== 7.3.3 Measuring Project Cost ==
 
 The Project Tracking Monitoring System (TAPM) cost almost nothing and involved the creation of software using Laravel and Visual Studio, as well as GitHub, we will use Man-hours and hourly rate to measure and control our project costs. To estimate the cost of the project based on the given information, you can use the following formula:
 
@@ -968,14 +967,14 @@ EXAMPLE:
 The Formula above calculates the overall cost the personnel in the duration of the project cycles. However, please note that this is only an estimate, and the actual cost may vary based on factors such as project complexity, resource utilization, and unforeseen events. To forecast future project costs, we will review cost performance over time and across work packages or schedule activities. This will help us identify any potential cost overruns or deviations from our project plan. By measuring and monitoring our project costs, we can ensure that we stay on track and deliver our project within budget.
 
 <span id="reporting-format"></span>
-== '''7.3.4 Reporting Format''' ==
+== 7.3.4 Reporting Format ==
 
 The ideal reporting format at the cost management plan for the Project TAPM would be a financial report using a spreadsheet, excel, or table. This will include all the technical, maintenance, and for the hourly work of each member, information for the project budget that will be incurred.
 
 In addition to that there are format that are easily understandable and helpful for the stakeholders and the project team, reporting is especially needed in seeing how much the expected cost and amount of a project, some helpful infographic can also be used upon reporting. The following formats would be used by TAPM, Executive Summary of the project cost and a Budget Overview of the total cost incurred it as well as infographics to make it presentable such as a bar chart.
 
 <span id="cost-variance-response-process"></span>
-== '''7.3.5 Cost Variance Response Process''' ==
+== 7.3.5 Cost Variance Response Process ==
 
 Cost variable response for project TAPM is in the following:
 
@@ -997,7 +996,7 @@ Cost variable response for project TAPM is in the following:
 *** A budget for the actions
 
 <span id="cost-change-control-process"></span>
-== '''7.3.6 Cost Change Control Process''' ==
+== 7.3.6 Cost Change Control Process ==
 
 The cost change control process for a project that focuses on TAPM includes:
 
@@ -1010,7 +1009,7 @@ The cost change control process for a project that focuses on TAPM includes:
 The cost change control process will be implemented to ensure that any changes that have an impact on the project’s cost are correctly assessed and documented by creating an effective cost change control approach. This can reduce the possibility of excess costs and guarantee that the project is completed within the budget.
 
 <span id="project-budget"></span>
-== '''7.3.7 Project Budget''' ==
+== 7.3.7 Project Budget ==
 
 In the context of the TAPM project, a budget has been developed to ensure that all project costs are accounted for and managed throughout the project's life cycle. This budget will serve as a baseline for monitoring the project's financial performance and ensuring that it remains on track to meet its objectives within the approved budget.
 
@@ -1019,117 +1018,117 @@ The budget for this project is detailed below. The formula used to find the Tota
 {| class="wikitable"
 |+ <span id="_Toc138294875" class="anchor"></span>Table 6 Project Budget
 |-
-! colspan="5"| '''INITIATION'''
+! colspan="5"| INITIATION
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
 | 1824*30
 | 1
-| '''PHP 54,720'''
+| PHP 54,720
 |-
 | Business Analyst
 | 207
 | 1656*30
 | 1
-| '''PHP 49,680'''
+| PHP 49,680
 |-
-| colspan="5"| '''PLANNING'''
+| colspan="5"| PLANNING
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
 | 1824*30
 | 1
-| '''PHP 54,720'''
+| PHP 54,720
 |-
 | Business Analyst
 | 207
 | 1656*30
 | 1
-| '''PHP 49,680'''
+| PHP 49,680
 |-
-| colspan="5"| '''EXECUTION'''
+| colspan="5"| EXECUTION
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
 | 1824*30
 | 1
-| '''PHP 54,720'''
+| PHP 54,720
 |-
 | Operation Analyst
 | 144
 | 1152*30
 | 1
-| '''PHP 34,560'''
+| PHP 34,560
 |-
 | System Developer
 | 214
 | 1712*30
 | 1
-| '''PHP 51,360'''
+| PHP 51,360
 |-
-| colspan="5"| '''CONTROL'''
+| colspan="5"| CONTROL
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
 | 1824*30
 | 1
-| '''PHP 54,720'''
+| PHP 54,720
 |-
 | Operation Analyst
 | 144
 | 1152*30
 | 1
-| '''PHP 34,560'''
+| PHP 34,560
 |-
 | System Developer
 | 214
 | 1712*30
 | 1
-| '''PHP 51,360'''
+| PHP 51,360
 |-
-| colspan="5"| '''CLOSEOUT'''
+| colspan="5"| CLOSEOUT
 |-
-| '''Role'''
-| '''Hourly rate'''
-| '''Salary * No. of Days'''
-| '''No. of People'''
-| '''COST'''
+| Role
+| Hourly rate
+| Salary * No. of Days
+| No. of People
+| COST
 |-
 | Project Manager
 | 228
 | 1824*30
 | 1
-| '''PHP 54,720'''
+| PHP 54,720
 |-
 | Operation Analyst
 | 144
 | 1152*30
 | 1
-| '''PHP 34,560'''
+| PHP 34,560
 |}
 
 To Calculate the Total cost formula used is ''Total Cost = (Hourly Rate * (8 hours * Total Working Days)).''
@@ -1137,14 +1136,14 @@ To Calculate the Total cost formula used is ''Total Cost = (Hourly Rate * (8 hou
 {| class="wikitable"
 |+ <span id="_Toc138294876" class="anchor"></span>Table 7: Total Cost Formula
 |-
-! '''Staff'''
-! '''Hourly Rate'''
-! '''8hours *'''
+! Staff
+! Hourly Rate
+! 8hours *
 
-'''Working Days'''
+Working Days
 
-! '''No. of People'''
-! '''COST'''
+! No. of People
+! COST
 |-
 | Project Manager
 | 228
@@ -1170,18 +1169,18 @@ To Calculate the Total cost formula used is ''Total Cost = (Hourly Rate * (8 hou
 | 1
 | PHP 102,720
 |-
-| '''Sub-total'''
-| '''PHP 793'''
-| '''360'''
-| '''5'''
-| '''PHP 579,360'''
+| Sub-total
+| PHP 793
+| 360
+| 5
+| PHP 579,360
 |}
 
 {| class="wikitable"
 |+ <span id="_Toc136847920" class="anchor"></span>Table 8: Web Hosting and Domain Costs
 |-
-! '''Item'''
-! '''COST'''
+! Item
+! COST
 |-
 | Web Hosting
 | PHP 10,000/yr.
@@ -1189,15 +1188,15 @@ To Calculate the Total cost formula used is ''Total Cost = (Hourly Rate * (8 hou
 | Domain Name
 | PHP 2,500/yr.
 |-
-| '''Sub-total'''
-| '''PHP 12,500'''
+| Sub-total
+| PHP 12,500
 |}
 
 {| class="wikitable"
 |+ <span id="_Toc136847921" class="anchor"></span>Table 9: Total Costs
 |-
-! '''Category'''
-! '''COST'''
+! Category
+! COST
 |-
 | Manpower
 | PHP 579,360
@@ -1211,20 +1210,20 @@ To Calculate the Total cost formula used is ''Total Cost = (Hourly Rate * (8 hou
 | Equipment
 | PHP 12,500
 |-
-| '''Sub-total'''
-| '''PHP 656,860'''
+| Sub-total
+| PHP 656,860
 |}
 
 <span id="schedule-management-plan"></span>
-== '''7.4 Schedule Management Plan''' ==
+== 7.4 Schedule Management Plan ==
 
 <span id="introduction-3"></span>
-=== '''7.4.1 Introduction''' ===
+=== 7.4.1 Introduction ===
 
 Effective schedule management is essential for any project to succeed. The schedule management plan serves as a critical tool for project managers to ensure that projects are completed on time, within budget, and with the required quality standards. The plan outlines the approach, methods, and tools that will be used to develop and manage the project schedule. It defines the roles and responsibilities of the project team members involved in schedule management, and it establishes the procedures for monitoring and controlling schedule progress. In this document, we will provide a general description of the items that should be included in the schedule management plan. These items will be described in more detail in subsequent sections of the plan, where we will outline specific procedures and techniques for managing the project schedule.
 
 <span id="schedule-management-approach"></span>
-=== '''7.4.2 Schedule Management Approach''' ===
+=== 7.4.2 Schedule Management Approach ===
 
 The project team and allocated resources will carefully adhere to the initial schedule to avoid any delays that could affect the project's critical path. The approval of the project team and assets is necessary for the proposed work package task, activity durations, and overall project timeline. After obtaining the necessary approvals, the project advisor will review, approve, and establish the baseline schedule.
 
@@ -1236,27 +1235,27 @@ The project team and allocated resources will carefully adhere to the initial sc
 ! <blockquote>TIMELINE
 </blockquote>
 |-
-| <blockquote>Initiation
+| <blockquote>Finished Documentation
 </blockquote>
 | <blockquote>1<sup>st</sup> to 2<sup>nd</sup> month
 </blockquote>
 |-
-| <blockquote>Planning
+| <blockquote>Created Framework For System
 </blockquote>
 | <blockquote>3<sup>rd</sup> to 4<sup>th</sup> month
 </blockquote>
 |-
-| <blockquote>Execution
+| <blockquote>Finished TAPM System
 </blockquote>
 | <blockquote>5<sup>th</sup> month
 </blockquote>
 |-
-| <blockquote>Control
+| <blockquote>Tested System in APC
 </blockquote>
 | <blockquote>5<sup>th</sup> to 6<sup>th</sup> month
 </blockquote>
 |-
-| <blockquote>Closeout
+| <blockquote>Finished Project Management Documentation
 </blockquote>
 | <blockquote>6<sup>th</sup> to 7<sup>th</sup> month
 </blockquote>
@@ -1267,7 +1266,7 @@ The project team and allocated resources will carefully adhere to the initial sc
 When modifications are implemented, the plans and baselines will be revised accordingly. Moreover, these revisions will be presented as outputs. The development strategy will have a significant influence on the scheduling approach, evaluation methods, tools, management, and control of the schedule.
 
 <span id="the-following-are-the-roles-and-responsibilities-involved-in-developing-a-schedule"></span>
-The following are the roles and responsibilities involved in developing a schedule:
+==== The following are the roles and responsibilities involved in developing a schedule: ====
 
 {| class="wikitable"
 |+ <span id="_Toc136847923" class="anchor"></span>Table 11: Roles and Responsibilities
@@ -1316,50 +1315,50 @@ The following are the roles and responsibilities involved in developing a schedu
 
 
 <span id="schedule-control"></span>
-=== '''7.4.3 Schedule Control''' ===
+=== 7.4.3 Schedule Control ===
 
 Throughout the project, it is essential to handle the schedule meticulously and efficiently. The project manager assumes the responsibility of overseeing meetings, schedules, project updates, as well as any alterations to the project schedule. Additionally, the project manager ensures that the project client is consistently informed about the project's progress.
 
 On the other hand, the project team is obligated to attend meetings where schedule updates are shared and collaborate on any necessary adjustments to the timetable. Each task completed by project team members should be accompanied by a discussion and presentation of the corresponding percentage of completion to the project team.
 
 <span id="schedule-changes-and-threshold"></span>
-=== '''7.4.4 Schedule Changes and Threshold'''  ===
+=== 7.4.4 Schedule Changes and Threshold  ===
 
 When creating the project schedule, it is crucial for the project sponsor to establish a deadline for project completion or operational readiness. This deadline serves to align the project client's objectives and expectations with the ongoing project. Poor schedule management is one factor that can lead to schedule changes, necessitating plan extensions or modifications. If circumstances arise that could potentially exceed the predetermined limits set by the project sponsor, it becomes necessary for the project manager to submit a schedule change request, which must obtain approval from the project sponsor before implementing the change.
 
-'''If any of the following situations occur, a schedule change request must be submitted for approval to either the project stakeholder or the project manager, depending on the specific circumstances:'''
+If any of the following situations occur, a schedule change request must be submitted for approval to either the project stakeholder or the project manager, depending on the specific circumstances:
 
 * If a proposed change aims to limit the length of deliverables within a given deadline during the project's development phase, it is important to emphasize that increasing the duration does not equate to extending the work across the entire duration.
 * Changes to the scope statement need to be carefully considered to prevent conflicts during the project's documentation phase. If these changes result in a work package expansion of 5% or more, reflecting the updates across all project documentation, a schedule change request must be submitted.
 * When an alternative approach suggests either reducing or extending the project's overall timetable by 10% or more, a schedule change request should be initiated.
 
 <span id="scope-change"></span>
-=== '''7.4.5 Scope Change''' ===
+=== 7.4.5 Scope Change ===
 
 When a significant problem occurs within the project that necessitates a substantial change in project scope, it is advisable to propose a change, exercising prudence during the process of suggesting and evaluating adjustments. Any member of the project team or the project client has the authority to request changes to the project's scope. To initiate a change request, a project change request document must be submitted to the project advisor, who will review the requested scope change. If the request does not align with the project's goals or schedule, the project advisor may reject it, or a meeting may be scheduled with the project client and team to discuss and assess its impact. Once the project client and advisor have initially approved the scope change, the project manager will communicate it to the entire team, who will then make necessary amendments to relevant paperwork, deliverables, and product backlogs in response to the change.
 
 <span id="staffing-management-plan"></span>
-= '''7.5 Staffing Management Plan''' =
+= 7.5 Staffing Management Plan =
 
 <span id="introduction-4"></span>
-== '''7.5.1. Introduction''' ==
+== 7.5.1. Introduction ==
 
 <blockquote>Any project's success depends on a solid management plan. It helps to ensure that the right people with the correct qualifications are in the right place at the right time and serves as a model for how the project team will be managed and organized. The strategy includes roles and responsibilities, communication procedures, and performance management standards. With the help of this plan, the project manager and project team can manage the project in an efficient manner, making sure that everyone on the team is aware of their duties and responsibilities, that communication is clear and effective, and that performance is tracked and managed in a way that supports the project's success as a whole.
 </blockquote>
 <span id="roles-and-responsibilities-1"></span>
-=== '''7.5.2. Roles and Responsibilities'''  ===
+=== 7.5.2. Roles and Responsibilities  ===
 
 <blockquote>Any project must have a strong management plan in place to be successful. To ensure that everyone is aware of their particular contributions and how they fit into the larger picture, it explains the roles and responsibilities of all project team members and stakeholders. The plan also specifies each team member's level of authority and decision-making capacity, ensuring that resources are distributed and used efficiently. The strategy guarantees that the right people are in the right roles to accomplish project success by explicitly identifying competences and skill needs.
 </blockquote>
 
 
 {| class="wikitable"
-|+ <span id="_Toc136847924" class="anchor"></span>Table Communication Management Roles and Responsibilities
+|+ <span id="_Toc136847924" class="anchor"></span>Table 12: Roles and Responsibilities
 |-
-! '''Role'''
-! '''Authority'''
-! '''Responsibility'''
-! '''Competency'''
+! Role
+! Authority
+! Responsibility
+! Competency
 |-
 | Project
 
@@ -1446,7 +1445,7 @@ Recognizing the significance of accurate and prompt reporting on the status and 
 |}
 
 <span id="project-organizational-charts"></span>
-=== '''7.5.3. Project Organizational Charts''' ===
+=== 7.5.3. Project Organizational Charts ===
 
 <blockquote>An organizational chart for a Tracking Activity Project Management system provides a visual representation of the project team's structure and the reporting relationships within the project. It outlines the roles and responsibilities of the team members involved in tracking and monitoring the progress of the project. The chart helps to establish clarity, define accountability, and facilitate effective communication within the project team. At the top of the organizational chart is typically the project sponsor, who serves as the overall champion and provides strategic guidance for the project. Reporting directly to the sponsor is the project manager, who is responsible for overseeing the entire project and ensuring its successful execution. Below the project manager, there may be various functional roles involved in the tracking and monitoring of the project.
 
@@ -1455,7 +1454,7 @@ https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/7
 Figure 1 Project Organizational Chart
 </blockquote>
 <span id="staffing-management"></span>
-=== '''7.5.4. Staffing Management''' ===
+=== 7.5.4. Staffing Management ===
 
 <blockquote>Staffing management for Tracking Activity Project Management system involves identifying, acquiring, and managing the right personnel with the necessary skills and expertise to develop, implement, and maintain the system.
 </blockquote>
@@ -1470,14 +1469,14 @@ Figure 1 Project Organizational Chart
 
 
 {| class="wikitable"
-|+ <span id="_Toc136847925" class="anchor"></span>Table Project Team Directory
+|+ <span id="_Toc136847925" class="anchor"></span>Table 13: Staffing Management
 |-
-! '''Role'''
-! '''Project responsibility'''
-! '''Skills Required'''
-! '''Number of Staff'''
-! '''Performance Reviews'''
-! '''Recognition and Awards'''
+! Role
+! Project responsibility
+! Skills Required
+! Number of Staff
+! Performance Reviews
+! Recognition and Awards
 |-
 | Project Manager
 | Overall accountability for project success, including meeting project objectives, delivering within budget and timeline, and ensuring stakeholder satisfaction.
@@ -1617,10 +1616,10 @@ Awards can be given based on exceptional leadership, successful project outcomes
 |}
 
 <span id="change-management-plan"></span>
-== '''7.6. Change Management Plan''' ==
+== 7.6. Change Management Plan ==
 
 <span id="introduction-5"></span>
-=== '''7.6.1. Introduction''' ===
+=== 7.6.1. Introduction ===
 
 <blockquote>A well-structured plan for managing changes is essential to ensure the successful implementation of any project, such as the Tracking Activity Project Management system. This plan provides a systematic approach to identify, assess, and implement changes that may arise throughout the project. It guarantees that any alterations are thoroughly evaluated, align with the project's scope, and effectively communicated to all stakeholders.
 
@@ -1629,25 +1628,25 @@ The change management strategy includes a clear process for submitting, evaluati
 It is crucial to note that making alterations outside of the change management strategy can negatively affect the project's progress and outcome. Therefore, it is essential for all stakeholders to understand and adhere to the change management process. This adherence guarantees that the project stays on track and that any adjustments made contribute to the overall success of the project.
 </blockquote>
 <span id="change-control-board"></span>
-=== '''7.6.2. Change Control Board''' ===
+=== 7.6.2. Change Control Board ===
 
 <blockquote>The Change Control Board comprises a specific group of stakeholders who are accountable for approving or rejecting changes related to the Tracking Activity Project Management System. The following table provides a concise overview of each individual who serves on the Change Control Board:
 </blockquote>
 {| class="wikitable"
-|+ <span id="_Toc136847926" class="anchor"></span>Table Communication Matrix
+|+ <span id="_Toc136847926" class="anchor"></span>Table 14: Change Control Board
 |-
-! '''Change'''
+! Change
 
-'''Control'''
+Control
 
-'''Board'''
+Board
 
-'''Role'''
+Role
 
-! '''Role'''
-! '''Name'''
-! '''Contact'''
-! '''Responsibilities'''
+! Role
+! Name
+! Contact
+! Responsibilities
 |-
 | Change
 
@@ -1711,16 +1710,16 @@ Generates a monthly report that provides an overview of the status of the items 
 
 
 <span id="roles-and-responsibilities-2"></span>
-=== '''7.6.3. Roles and Responsibilities''' ===
+=== 7.6.3. Roles and Responsibilities ===
 
 <blockquote>The table below shows the respective responsibilities of each member of the project that in the change management process:
 </blockquote>
 {| class="wikitable"
-|+ <span id="_Toc136847927" class="anchor"></span>Table Glossary of Communication Management Terminologies
+|+ <span id="_Toc136847927" class="anchor"></span>Table 15 Change Request Roles and Responsibilities
 |-
-! '''Name'''
-! '''Project Role'''
-! '''Responsibilities'''
+! Name
+! Project Role
+! Responsibilities
 |-
 | Jayvee Cabardo
 | Project Sponsor
@@ -1760,15 +1759,16 @@ Evaluate the change request log and reports to verify consistency with the imple
 
 
 <span id="change-control-process"></span>
-=== '''7.6.4. Change Control Process''' ===
+=== 7.6.4. Change Control Process ===
 
 <blockquote>The Change Management process sets forth a systematic and efficient method for managing the submission, coordination, review, evaluation, categorization, and approval of all changes to the project's baselines. The table provided below illustrate the agreed-upon process flow for change requests (CR) within the team.
 </blockquote>
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 16 Change Request Process
 |-
-! '''Process Step'''
-! '''Description'''
-! '''Change Log Status'''
+! Process Step
+! Description
+! Change Log Status
 |-
 | Change Request Submittal
 | 1. The individual requesting the change (Requestor) completes and submits the change request form to initiate the request. If the Requestor is unsure about how to properly fill out the form, the Project Manager provides guidance and assistance in completing the Change Request form.
@@ -1836,9 +1836,10 @@ For high-impact changes:
 <blockquote>In order to monitor the progress of change requests, each step is associated with a specific change request status, as illustrated in the table below:
 </blockquote>
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 17 Change Request Status Description
 |-
-! '''Status'''
-! '''Description'''
+! Status
+! Description
 |-
 | Submitted
 | A change request has been logged by a member of the project development team or key stakeholders and is awaiting review by the Project Manager for impact analysis.
@@ -1865,10 +1866,10 @@ For high-impact changes:
 
 
 <span id="communications-management-plan"></span>
-== '''7.7. Communications Management Plan''' ==
+== 7.7. Communications Management Plan ==
 
 <span id="introduction-6"></span>
-=== '''7.7.1. Introduction'''  ===
+=== 7.7.1. Introduction  ===
 
 The Communications Management Plan plays a vital role in the Tracking Activity Project Management System by outlining the communication strategy and protocols for the project team and stakeholders. The plan encompasses the following key aspects:
 
@@ -1888,7 +1889,7 @@ The Communications Management Plan plays a vital role in the Tracking Activity P
 Overall, the Communications Management Plan is a crucial tool that ensures stakeholders are well-informed and facilitates effective and efficient communication throughout the Tracking Activity Project Management System.
 
 <span id="communication-management-approach"></span>
-=== '''7.7.2. Communication Management Approach''' ===
+=== 7.7.2. Communication Management Approach ===
 
 The most effective communications management approach for the Tracking Activity Project Management System would involve a combination of proactive and reactive strategies.
 
@@ -1907,7 +1908,7 @@ In addition, a change control process will be implemented to manage any changes 
 By combining these proactive and reactive strategies, the approach ensures that stakeholders and the project team are well-informed, communication-based issues are addressed promptly, and any changes in communication are managed effectively. This approach contributes to efficient and effective project communication and overall project success.
 
 <span id="communication-management-constraints"></span>
-=== '''7.7.3. Communication Management Constraints''' ===
+=== 7.7.3. Communication Management Constraints ===
 
 The constraints related to communications management in the Tracking Activity Project Management system are essential considerations within the overall project management plan. These constraints outline the limitations and factors that can impact the project's communication processes and strategies. By recognizing and addressing these constraints, the project team can proactively develop solutions to mitigate potential challenges and ensure smooth information flow throughout the project.
 
@@ -1925,7 +1926,7 @@ The following are key constraints that may impact the project's communication pr
 By recognizing and addressing these constraints, the project team can develop strategies and contingency plans to mitigate their impact and ensure effective communication throughout the Tracking Activity Project Management system.
 
 <span id="stakeholder-communication-requirements"></span>
-=== '''7.7.4. Stakeholder Communication Requirements''' ===
+=== 7.7.4. Stakeholder Communication Requirements ===
 
 The stakeholder communication requirements for the Tracking Activity Project Management system are crucial for ensuring effective and efficient communication throughout the project. These requirements address the specific needs and expectations of stakeholders, enabling the project team to establish a successful communication strategy. The following stakeholder communication requirements can be identified:
 
@@ -1941,12 +1942,13 @@ The stakeholder communication requirements for the Tracking Activity Project Man
 By addressing these stakeholder communication requirements, the project team can foster effective collaboration, manage expectations, and ensure that stakeholders are well-informed and actively engaged throughout the project lifecycle.
 
 <span id="roles"></span>
-=== '''7.7.5. Roles''' ===
+=== 7.7.5. Roles ===
 
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 18 Communication Management Roles and Responsibilities
 |-
-! '''Roles'''
-! '''Responsibilities'''
+! Roles
+! Responsibilities
 |-
 | Project Sponsor
 | This role is held by a high-level executive who provides strategic direction for the project. The Project Sponsor ensures that the Tracking Activity Project Management System aligns with the organization's overall goals and objectives. They provide support, guidance, and decision-making authority throughout the project. They also oversee the system and ensures its alignment with other related projects within the organization. They are responsible for the overall success of the program and provide strategic direction and coordination. The Project Sponsor ensures that the project meets its objectives and delivers the intended benefits.
@@ -1964,20 +1966,21 @@ By addressing these stakeholder communication requirements, the project team can
 
 
 <span id="project-team-directory"></span>
-=== '''7.7.6. Project Team Directory''' ===
+=== 7.7.6. Project Team Directory ===
 
 <blockquote>The following table contains the contact details of individuals identified in the communications management plan. The provided email addresses and phone numbers will serve as the means to communicate with these individuals.
 </blockquote>
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 19 Project Team Directory
 |-
-! '''Name'''
-! '''Position'''
-! '''Internal/'''
+! Name
+! Position
+! Internal/
 
-'''External'''
+External
 
-! '''Project Role'''
-! '''Contact Information'''
+! Project Role
+! Contact Information
 |-
 | Jayvee Cabardo
 | Director of Project Development
@@ -2013,7 +2016,7 @@ By addressing these stakeholder communication requirements, the project team can
 
 
 <span id="communication-methods-and-technologies"></span>
-=== '''7.7.7. Communication Methods and Technologies''' ===
+=== 7.7.7. Communication Methods and Technologies ===
 
 To effectively communicate with stakeholders in the Tracking Activity Project Management System, it is crucial to have a comprehensive understanding of various communication methods and technologies. It is important to assess the capabilities and limitations of each method to ensure timely and efficient delivery of information to stakeholders. This involves selecting appropriate methods for sharing project updates, progress reports, risks, issues, and other relevant details. Consideration should also be given to the cost, feasibility, security, and privacy aspects of different communication technologies. By carefully choosing the most suitable methods and technologies, the project team can achieve their communication objectives and keep stakeholders well-informed.
 
@@ -2028,17 +2031,18 @@ When deciding on the most suitable communication methods and technologies for th
 Considering these factors, it is advisable for the Tracking Activity Project Management System to employ a combination of communication methods and technologies such as project management software, email, telephone, and video conferencing. This approach ensures that all stakeholders remain informed and that the project's communication objectives are successfully met.
 
 <span id="communications-matrix"></span>
-=== '''7.7.8. Communications Matrix''' ===
+=== 7.7.8. Communications Matrix ===
 
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 20 Communication Matrix
 |-
-! '''Channel'''
-! '''From'''
-! '''To'''
-! '''Type'''
-! '''Frequency'''
-! '''Format Used'''
-! '''Delivery Media'''
+! Channel
+! From
+! To
+! Type
+! Frequency
+! Format Used
+! Delivery Media
 |-
 | Project Planning
 | Project Manager
@@ -2098,14 +2102,14 @@ Updated when necessary
 
 
 <span id="communication-flowchart"></span>
-=== '''7.7.9. Communication Flowchart''' ===
+=== 7.7.9. Communication Flowchart ===
 
 https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/20871a82-8f33-4340-9ae5-d892306c8ba3
 
 Figure Communication Flowchart
 
 <span id="guidelines-for-meetings"></span>
-=== '''7.7.10. Guidelines for Meetings''' ===
+=== 7.7.10. Guidelines for Meetings ===
 
 Meetings play a crucial role in facilitating effective communication within the Tracking Activity Project Management System. To ensure their productivity, efficiency, and effectiveness, it is essential to establish clear guidelines for conducting meetings. These guidelines should encompass the following aspects:
 
@@ -2118,7 +2122,7 @@ Meetings play a crucial role in facilitating effective communication within the 
 By establishing these clear meeting guidelines, the project team and stakeholders can be better prepared, actively engage in discussions, and ensure that meetings are conducted in a consistent and organized manner. This fosters effective communication, minimizes confusion, and enhances the overall success of the Tracking Activity Project Management System.
 
 <span id="communication-standards"></span>
-=== '''7.7.11. Communication Standards''' ===
+=== 7.7.11. Communication Standards ===
 
 The recommended communication standards for the Tracking Activity Project Management system are as follows:
 
@@ -2131,7 +2135,7 @@ The recommended communication standards for the Tracking Activity Project Manage
 By implementing these communication standards, the Tracking Activity Project Management system can foster efficient and effective communication, enhance collaboration, and ensure the consistency and security of project-related information.
 
 <span id="communication-escalation-process"></span>
-=== '''7.7.12. Communication Escalation Process''' ===
+=== 7.7.12. Communication Escalation Process ===
 
 The recommended communication escalation process for the Tracking Activity Project Management system includes the following steps:
 
@@ -2145,63 +2149,64 @@ The recommended communication escalation process for the Tracking Activity Proje
 It is essential to note that the communication escalation process should be adaptable and tailored to the specific needs of the project. The project team should regularly evaluate and refine the process to ensure its ongoing effectiveness in addressing communication-related challenges.
 
 <span id="glossary-of-communication-terminology"></span>
-=== '''7.7.13. Glossary of Communication Terminology''' ===
+=== 7.7.13. Glossary of Communication Terminology ===
 
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 21 Glossary of Communication Management Terminologies
 |-
-! '''Term'''
-! '''Definition'''
+! Term
+! Definition
 |-
-| '''Communication Plan'''
+| Communication Plan
 | A document outlining the communication strategy and protocols for the project team and stakeholders.
 |-
-| '''Stakeholder'''
+| Stakeholder
 | An individual or organization that has an interest or concern in the project.
 |-
-| '''Communication Method'''
+| Communication Method
 | The means by which information is conveyed, such as meetings, email, telephone, or web portal.
 |-
-| '''Communication Frequency'''
+| Communication Frequency
 | The regularity with which project communications are distributed.
 |-
-| '''Communication Objective'''
+| Communication Objective
 | The desired outcome or goal of a particular communication.
 |-
-| '''Communication Flowchart'''
+| Communication Flowchart
 | A diagram showing the flow of information within a project.
 |-
-| '''Escalation Process'''
+| Escalation Process
 | A procedure for resolving communication-based conflicts or issues.
 |-
-| '''Communication Matrix'''
+| Communication Matrix
 | A table outlining the communication requirements for a project.
 |-
-| '''Communication Standards'''
+| Communication Standards
 | Standard templates, formats, or documents used for communicating within a project.
 |-
-| '''Communication Constraints'''
+| Communication Constraints
 | Factors that may limit or affect the effectiveness of project communications.
 |-
-| '''Communication Guidelines'''
+| Communication Guidelines
 | Protocols for conducting meetings, teleconferences, and other forms of communication.
 |-
-| '''Communication Technology'''
+| Communication Technology
 | Tools and platforms used for communication, such as SharePoint, message boards, and video teleconferencing.
 |-
-| '''Communication Escalation Process'''
+| Communication Escalation Process
 | A process for escalating communication-based issues or conflicts that cannot be resolved within the project team.
 |-
-| '''Communication Approaches'''
+| Communication Approaches
 | Different strategies and solutions implemented to address communication constraints, ensuring that all stakeholders are kept informed and that the project's communication objectives are met.
 |}
 
 
 
 <span id="quality-management-plan"></span>
-= '''7.8. Quality Management Plan''' =
+= 7.8. Quality Management Plan =
 
 <span id="introduction-7"></span>
-== '''7.8.1. Introduction''' ==
+== 7.8.1. Introduction ==
 
 A research TAPM plan is essential to ensure the successful execution of a research project. This plan will define the strategies, procedures, and tools that will be used to track the progress, manage resources, and ensure the quality of the research activities. It will provide a framework for resolving issues, specifying roles and responsibilities, and ensuring effective communication among team members.
 
@@ -2216,16 +2221,17 @@ Goals of the research TAPM plan:
 The research TAPM plan will include comprehensive guidelines for managing the research project, tracking activities, and reporting progress. It will outline the roles and responsibilities of team members, specify the research methodologies and tools to be used, and establish procedures for data collection, analysis, and dissemination.
 
 <span id="project-management-approach-1"></span>
-== '''7.8.2. Project Management Approach''' ==
+== 7.8.2. Project Management Approach ==
 
 The research project will adopt a project management approach that combines traditional project management principles with agile methodologies to ensure flexibility and adaptability.
 
 The following are the roles and duties for the TAPM:
 
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 22: Project Management Approach
 |-
-! '''Role'''
-! '''Description'''
+! Role
+! Description
 |-
 | Jayvee M. Cabardo
 | Project development director oversees the projects progress
@@ -2284,7 +2290,7 @@ Quality Assurance:
 * Seek feedback from stakeholders to continuously improve research quality.
 
 <span id="quality-requirements-standards"></span>
-== '''7.8.3. Quality Requirements / Standards''' ==
+== 7.8.3. Quality Requirements / Standards ==
 
 The research project will utilize various tools and techniques for tracking and managing project activities effectively. These include:
 
@@ -2313,7 +2319,7 @@ Collaboration and Communication:
 * Conduct regular team meetings, ensuring open communication and knowledge exchange.
 
 <span id="quality-assurance"></span>
-== '''7.8.4 Quality Assurance''' ==
+== 7.8.4 Quality Assurance ==
 
 The research project will implement quality control and assurance measures to ensure the validity and reliability of research findings. These include:
 
@@ -2338,47 +2344,47 @@ Continuous Improvement:
 By following this research TAPM plan, you will have a structured approach to effectively track and manage your research project, ensuring its successful completion and maintaining high-quality standards throughout the process.
 
 <span id="quality-control"></span>
-== '''7.8.5. Quality Control''' ==
+== 7.8.5. Quality Control ==
 
 To ensure the quality of the research project and adherence to quality standards, the following quality control measurement will be implemented:
 
-'''Data Accuracy'''
+Data Accuracy
 
 Validate data sources and ensure the accuracy of data collected for research. Perform data validation checks and cross-reference data from multiple sources. Implement data cleaning and verification procedures to minimize errors.
 
-'''Methodology Compliance:'''
+Methodology Compliance:
 
 Ensure that the research methodology is followed accurately and consistently. Conduct periodic reviews to ensure adherence to the planned methodology. Document any deviations from the original methodology and provide justifications.
 
-'''Peer Review:'''
+Peer Review:
 
 Implement a peer review process for critical research outputs, such as papers or reports. Engage subject matter experts and peers to review and provide feedback on the research. Incorporate suggestions and improvements from the peer review process.
 
-'''Quality Assurance Checks:'''
+Quality Assurance Checks:
 
-Conduct regular quality assurance checks to assess the quality of research outputs. Review research findings, analyses, and interpretations for accuracy and consistency. Verify the consistency of research methodologies and data analysis techniques used. '''Document Control:'''
+Conduct regular quality assurance checks to assess the quality of research outputs. Review research findings, analyses, and interpretations for accuracy and consistency. Verify the consistency of research methodologies and data analysis techniques used. Document Control:
 
 Establish a document control system to manage research documentation and versions. Ensure proper versioning, document access controls, and change management processes. Maintain a central repository for research materials and ensure proper organization.
 
-'''Stakeholder Feedback:'''
+Stakeholder Feedback:
 
-Seek feedback from stakeholders, such as advisors, sponsors, or collaborators. Encourage open communication channels to gather feedback on research progress. Incorporate stakeholder feedback to improve research quality and address concerns. '''Continuous Improvement:'''
+Seek feedback from stakeholders, such as advisors, sponsors, or collaborators. Encourage open communication channels to gather feedback on research progress. Incorporate stakeholder feedback to improve research quality and address concerns. Continuous Improvement:
 
 Regularly assess the research process to identify areas for improvement. Analyze past research projects to learn from successes and challenges. Implement lessons learned to enhance future research projects.
 
 By implementing these quality control measures, the research project will ensure the accuracy, reliability, and validity of research outcomes. Regular checks and feedback loops will help identify and address any potential issues, leading to improved research quality and increased stakeholder satisfaction.
 
 <span id="risk-management-plan"></span>
-= '''7.9. Risk Management Plan''' =
+= 7.9. Risk Management Plan =
 
 <span id="introduction-8"></span>
-== '''7.9.1. Introduction''' ==
+== 7.9.1. Introduction ==
 
 The Tracking Activity and Project Management (TAPM) project is aimed at implementing an efficient system for managing and tracking activities and projects within an organization. The project's goal is to streamline processes, improve collaboration, and enhance overall productivity. As an integral part of the TAPM project, the risk management plan aims to identify, assess, and mitigate potential risks that could impact the successful implementation and operation of the system. By proactively managing risks, the project team can ensure that potential obstacles are addressed, and the project objectives are achieved within the defined scope, budget, and timeline.
 
 This risk management plan will provide an overview of the risk management process, define the roles and responsibilities of the project team in risk management activities, and outline the approach for identifying and assessing risks. The plan will also detail the strategies for mitigating risks and the activities for monitoring and controlling risks throughout the project's life cycle. The success of the plan will be measured by the team's ability to identify and mitigate risks effectively, ensuring the smooth implementation and operation of the TAPM system.
 
-'''Cost management responsibilities:'''
+Cost management responsibilities:
 
 Before risk management begins it is imperative that a foundation is established for providing structured project information, thus, the following project elements were completed and defined prior to developing this Risk Management Plan:
 
@@ -2403,7 +2409,7 @@ Define Risk Management Roles and Responsibilities
 * Project Adviser may participate in risk assessment meetings.
 
 <span id="top-three-risk"></span>
-== '''7.9.2. Top three risk''' ==
+== 7.9.2. Top three risk ==
 
 The TAPM project's top three risks are:
 
@@ -2412,12 +2418,12 @@ The TAPM project's top three risks are:
 # System Integration: The TAPM system will have to be integrated with APC systems which may pose a risk such as compatibility issues, data migration issues, communication failures. These issues can lead to delays in project timelines, loss or corruption of data, and compromised system functionality.
 
 <span id="risk-management-approach"></span>
-== '''7.9.3. Risk Management Approach''' ==
+== 7.9.3. Risk Management Approach ==
 
 The risk analysis regarding information systems that Project Team have taken approach to manage risk for this project which the Project Management identified and ranked the various risks. The risk management process will involve all stakeholders and foster a collaborative environment by conductive scheduled meeting regularly. Before the completion of the project, during the closing process, the project manager will analyze the risk as well as the process to it. Based on the analysis, the project manager will identify any improvements that can be added to the risk management process for the Project Client to know.
 
 <span id="risk-identification"></span>
-== '''7.9.4. Risk Identification''' ==
+== 7.9.4. Risk Identification ==
 
 Through a comprehensive risk identification process, the potential risks associated with the TAPM project have been identified. The risk identification activities involved program security, User manual and training for the system, human error, and lastly system integration.
 
@@ -2438,12 +2444,12 @@ System Integration
 * Incompatibility and communication issues during system integration between APC systems and TAPM systems therefore testing is done by system developer.
 
 <span id="risk-qualification-and-prioritization"></span>
-== '''7.9.5. Risk Qualification and Prioritization''' ==
+== 7.9.5. Risk Qualification and Prioritization ==
 
 Each team leader must discuss the status of their members about work assigned to them, what are the issues that they encounter, what solutions they need to work on, and what they will do for the day.
 
 <span id="risk-monitoring"></span>
-== '''7.9.6. Risk Monitoring''' ==
+== 7.9.6. Risk Monitoring ==
 
 To implement this plan, the project manager will incorporate high-scoring risks into the project schedule and assign a risk manager responsible for their monitoring. The risk manager will assess when risks require close attention and provide updates at project team meetings. Tracking risk trigger conditions will also be the responsibility of the risk manager.
 
@@ -2454,29 +2460,30 @@ During weekly team meetings, the risk manager will report on the status of ident
 In conclusion, the project team will implement an agile risk management methodology that emphasizes ongoing improvement and flexibility. The effectiveness of the risk management plan will be regularly assessed and adjusted as needed to ensure the project's objectives and quality standards are achieved.
 
 <span id="risk-mitigation-and-avoidance"></span>
-== '''7.9.7. Risk Mitigation and Avoidance''' ==
+== 7.9.7. Risk Mitigation and Avoidance ==
 
 The project manager ensures to aid team leader in developing and improving responses to each identified risk. As more risks are identified, if the risk is qualified based on the metric established, the team must respond to develop avoidance and mitigation strategies to the risk. The identified risk will also be added to the risk register or in the table and the project plan to ensure that they are monitored when the work involves those risks.
 
 The risk for the TAPM will be managed and controlled within the constraints of schedule, authority, and budget cost. All identified risks will be analyzed to determine how the risk will impact the time, scope, cost. The project manager, with the assistance of the project team will determine the efficient way to deal with each risk to ensure that everything goes according to plan. There will be cases where it will be necessary to allow the project to extend its budget cost. If only necessary to allow the TAPM Project for more resources to meet the deadline and requirements of the stakeholders.
 
 <span id="risk-register"></span>
-== '''7.9.8. Risk Register''' ==
+== 7.9.8. Risk Register ==
 
 To effectively manage risks in the TAPM project, a comprehensive risk register will be maintained throughout the project. This register will include a detailed explanation of each risk, its likelihood, potential impacts, and any mitigation measures that have been implemented. Regular reviews and updates of the risk register will ensure its accuracy and relevance. Access to the risk register will be provided to all stakeholders and it will be stored in a centralized location.
 
 The identified risk in the risk register, each risk has been classified and added to the project plan. When the work module contains a risk—prior to when the risk is going to occur the project manager will assign a leader to ensure adherence to the agreed mitigation strategy. Each assigned leader will provide the status of the risk relevant to their group in their daily project meeting.
 
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 23: Risk Register
 |-
-! '''Risk ID'''
-! '''Risk Rank'''
-! '''Risk Description'''
-! '''Category'''
-! '''Destination/Owner'''
-! '''Probability'''
-! '''Impact'''
-! '''Status'''
+! Risk ID
+! Risk Rank
+! Risk Description
+! Category
+! Destination/Owner
+! Probability
+! Impact
+! Status
 |-
 | RID001
 | 1
@@ -2516,15 +2523,15 @@ The identified risk in the risk register, each risk has been classified and adde
 |}
 
 <span id="procurement-plan"></span>
-= '''7.10. Procurement Plan''' =
+= 7.10. Procurement Plan =
 
 <span id="introduction-9"></span>
-== '''7.10.1. Introduction''' ==
+== 7.10.1. Introduction ==
 
 The Procurement Management Plan for the TAPM project outlines the procurement requirements and processes, ensuring timely and cost-effective procurement of necessary items while maintaining quality standards. It includes procurement justification, contract types, risk mitigation strategies, supplier evaluation, and aligns procurement with project scope, budget, and schedule. The plan also establishes performance metrics and promotes stakeholder involvement for efficient procurement management.
 
 <span id="procurement-risk-management"></span>
-== '''7.10.2. Procurement Risk management''' ==
+== 7.10.2. Procurement Risk management ==
 
 # Identification of Procurement Risks for TAPM
 
@@ -2562,7 +2569,7 @@ The Procurement Management Plan for the TAPM project outlines the procurement re
 By actively managing procurement risks, the Tracking Activity and Project Management (TAPM) project aims to minimize potential disruptions, ensure timely and cost-effective procurement, and enhance overall project success.
 
 <span id="cost-determination"></span>
-== '''7.10.3. Cost Determination'''  ==
+== 7.10.3. Cost Determination  ==
 
 In the Track Activity Project Management (TAPM) project, the implementation of a cost determination process is crucial for effective project management. This process will be utilized to ensure the selection of competent and cost-effective solutions that align with the project's objectives. The cost determination process will involve gathering equipment price, hourly rate, or research about similar projects in response to the project requirements.
 
@@ -2575,7 +2582,7 @@ To streamline the cost determination process in TAPM, standardized procurement t
 The cost determination section within the TAPM project's management plan plays a pivotal role in achieving successful project completion within budgetary constraints. By consistently measuring and monitoring project costs, the team can identify any potential cost overruns or deviations from the project plan, enabling proactive decision-making and effective cost management.
 
 <span id="procurement-constraints"></span>
-== '''7.10.4. Procurement Constraints''' ==
+== 7.10.4. Procurement Constraints ==
 
 The following constraints must be considered as part of the Track Activity Project Management (TAPM) project's procurement management process:
 
@@ -2606,7 +2613,7 @@ The procurement process must consider the availability of internal resources, su
 These constraints must be considered throughout the procurement process to ensure that the TAPM project's requirements are met within the project's timeline and budgetary constraints. Adhering to these constraints will help maintain project efficiency, cost-effectiveness, and successful completion.
 
 <span id="contract-approval-process"></span>
-== '''7.10.5. Contract Approval Process''' ==
+== 7.10.5. Contract Approval Process ==
 
 The contract approval process for the Track Activity Project Management (TAPM) project will follow a formal and structured approach to ensure timely and efficient approval of all contracts. The process will be in line with the policies and procedures of the organization and will include the following steps:
 
@@ -2647,7 +2654,7 @@ Throughout the project's duration, the Project Manager will closely monitor the 
 The contract approval process will provide an objective evaluation of contracts, ensuring the selection of the best value option while complying with legal requirements. It will contribute to effective contract management and facilitate successful project execution within the defined constraints.
 
 <span id="decision-criteria"></span>
-== '''7.10.6. Decision Criteria''' ==
+== 7.10.6. Decision Criteria ==
 
 For the Track Activity Project Management (TAPM) project, the contract review board will use the following decision criteria to evaluate:
 
@@ -2661,21 +2668,21 @@ For the Track Activity Project Management (TAPM) project, the contract review bo
 The contract review board will carefully evaluate all proposals based on these decision criteria. They will consider the strengths and weaknesses of each and select the one that best meets the project's needs, objectives, and overall value proposition.
 
 <span id="performance-metrics-for-procurement-activities"></span>
-== '''7.10.7. Performance Metrics for Procurement Activities''' ==
+== 7.10.7. Performance Metrics for Procurement Activities ==
 
 The performance metrics for procurement activities in the TAPM project:
 
-* '''System Performance Rating''': Evaluate system based on effectiveness ease of use, quality, responsiveness, and communication, using a rating scale.
-* '''Procurement Cycle''' '''Time''': Measure the time taken to complete the procurement process from request to delivery by calculating the average time spent on each stage.
-* '''Cost Variance''': Compare actual procurement costs to planned costs and express the difference as a percentage.
+* System Performance Rating: Evaluate system based on effectiveness ease of use, quality, responsiveness, and communication, using a rating scale.
+* Procurement Cycle Time: Measure the time taken to complete the procurement process from request to delivery by calculating the average time spent on each stage.
+* Cost Variance: Compare actual procurement costs to planned costs and express the difference as a percentage.
 
 These metrics help evaluate system performance, measure procurement efficiency, assess cost variations, and ensure completion of project. Monitoring these metrics enables continuous improvement and informed decision-making in the procurement process.
 
 <span id="implementation-plan"></span>
-= '''7.11 Implementation Plan''' =
+= 7.11 Implementation Plan =
 
 <span id="executive-summary-1"></span>
-== '''7.11.1 Executive Summary''' ==
+== 7.11.1 Executive Summary ==
 
 The Tracking Activity Project Management System is nearing completion, and as part of wrapping up the project, a plan has been created to smoothly transfer the system to its new owner. This plan gives a general outline of the transition process, including the current state of the system, and how it will be handed over to the new owner. The goal is to provide a clear and concise summary of the transition, making it easier for everyone involved to understand and follow.
 
@@ -2690,7 +2697,7 @@ The project’s transition out plan contains a thorough timeline with an emphasi
 Overall, the goal of the transition plan is to guarantee that the client obtains a system that is fully operational and can be sustained successfully. Additionally, our group aims to conclude the project on a positive and satisfactory note.
 
 <span id="transition-approach"></span>
-== '''7.11.2 Transition Approach''' ==
+== 7.11.2 Transition Approach ==
 
 The approach for the Transition Out plan for the Tracking Activity System will be a phased transition approach, given the importance of maintaining continuity and minimizing disruptions to ongoing operations, it is crucial to ensure a smooth and seamless transition process. By adopting this approach, we enable a gradual and phased transfer of knowledge, resources, and responsibility to the new team. This helps reduce the potential for downtime and interruptions in service.
 
@@ -2715,20 +2722,21 @@ The following steps will be part of the transition strategy:
 <li><p>The project team will provide clients with all essential documentation, instruction, and source code to help in knowledge transfer.</p></li></ol>
 
 <span id="transition-team-organization"></span>
-== '''7.11.3 Transition Team Organization''' ==
+== 7.11.3 Transition Team Organization ==
 
 <span id="roles-and-responsibilities-3"></span>
 ==== Roles and Responsibilities: ====
 
-# '''Project Manager:''' Responsible for overseeing the transition team, ensuring that all transition activities are completed on time, maintaining effective communication and coordination with the client, and ensuring that the transition plan is followed.
-# '''Developers/Technical Lead:''' Responsible for offering their technical expertise for the project. They collaborate closely with the project team to comprehend the system. Accountable for coordinating with the new owner to facilitate a seamless transfer of technical knowledge and expertise during the transition process.
-# '''Project Team Members:''' Responsible for providing valuable support by sharing their knowledge and expertise regarding the system. They will closely collaborate with the project manager, developers, and client to facilitate a seamless transfer of knowledge and expertise during the transition.
-# '''Project Sponsor:''' Make decisions on whether to authorize or reject significant changes. Hold the authority to assess low-impact changes and can reverse decisions made by the Project Manager regarding change requests.
+# Project Manager: Responsible for overseeing the transition team, ensuring that all transition activities are completed on time, maintaining effective communication and coordination with the client, and ensuring that the transition plan is followed.
+# Developers/Technical Lead: Responsible for offering their technical expertise for the project. They collaborate closely with the project team to comprehend the system. Accountable for coordinating with the new owner to facilitate a seamless transfer of technical knowledge and expertise during the transition process.
+# Project Team Members: Responsible for providing valuable support by sharing their knowledge and expertise regarding the system. They will closely collaborate with the project manager, developers, and client to facilitate a seamless transfer of knowledge and expertise during the transition.
+# Project Sponsor: Make decisions on whether to authorize or reject significant changes. Hold the authority to assess low-impact changes and can reverse decisions made by the Project Manager regarding change requests.
 
 {| class="wikitable"
+|+ <span id="_Toc136847927" class="anchor"></span>Table 24: Transition Team Organization
 |-
-! '''Roles'''
-! '''Responsibilities'''
+! Roles
+! Responsibilities
 |-
 | Project Manager
 | Responsible for overseeing the transition team, ensuring that all transition activities are completed on time, maintaining effective communication and coordination with the client, and ensuring that the transition plan is followed.
@@ -2744,7 +2752,7 @@ The following steps will be part of the transition strategy:
 |}
 
 <span id="workforce-transition"></span>
-== '''7.11.4 Workforce Transition''' ==
+== 7.11.4 Workforce Transition ==
 
 The workforce plan is a crucial element of the transition strategy for the Tracking Activity Project Management System. To ensure a seamless and effective transition, it is vital to identify and communicate the plan for the workforce in a timely manner. The Project Manager will work closely with the client, who is the new owner, to determine the best course of action for the workforce.
 
@@ -2757,31 +2765,31 @@ Furthermore, appropriate training or re-training will be offered to guarantee th
 
 Throughout the transition phase of the Tracking Activity Project Management System, there are several tasks that will still need to be carried out. These tasks include:
 
-* '''User Training:''' During this period, it will be necessary to create and provide training materials to educate users about the system. The training sessions are anticipated to span three days and will incorporate a combination of classroom-based instruction and practical, hands-on training.
-* '''Go Live:''' This phase will mark the official implementation of the system. The team will be responsible for verifying the proper functioning of all systems before making the system accessible to users. This process will involve conducting final system tests and ensuring accurate migration of all data.
-* '''Document Lessons Learned:''' During this phase, the focus will be on documenting the valuable insights gained throughout the project. This includes identifying both successful aspects and areas that require improvement within the team’s performance.
-* '''Update Files:''' In this phase, the team will have the responsibility of ensuring that all relevant files are updated to reflect the project’s completion.
-* '''Project Close Out Meeting:''' The concluding phase of the transition will entail a project closeout meeting with the client. This meeting will provide a chance to review the project, areas for enhancement, and the resolution of pending issues.
+* User Training: During this period, it will be necessary to create and provide training materials to educate users about the system. The training sessions are anticipated to span three days and will incorporate a combination of classroom-based instruction and practical, hands-on training.
+* Go Live: This phase will mark the official implementation of the system. The team will be responsible for verifying the proper functioning of all systems before making the system accessible to users. This process will involve conducting final system tests and ensuring accurate migration of all data.
+* Document Lessons Learned: During this phase, the focus will be on documenting the valuable insights gained throughout the project. This includes identifying both successful aspects and areas that require improvement within the team’s performance.
+* Update Files: In this phase, the team will have the responsibility of ensuring that all relevant files are updated to reflect the project’s completion.
+* Project Close Out Meeting: The concluding phase of the transition will entail a project closeout meeting with the client. This meeting will provide a chance to review the project, areas for enhancement, and the resolution of pending issues.
 
 <span id="subcontracts"></span>
-== '''7.11.5 Subcontracts''' ==
+== 7.11.5 Subcontracts ==
 
 As there are no current contracts or subcontract agreements associated with this project, there is no need for a transition or transfer of any contractual obligations or related agreements.
 
 <span id="property-transition"></span>
 ==== Property Transition ====
 
-# '''Government Furnished Equipment (GFE)'''
+# Government Furnished Equipment (GFE)
 
 Given that there is no utilization of Government Furnished Equipment in the Tracking Activity Project Management System, this specific section of the transition does not apply.
 
 <ol start="2" style="list-style-type: decimal;">
-<li><p>'''Incumbent Owned Equipment'''</p></li></ol>
+<li><p>Incumbent Owned Equipment</p></li></ol>
 
 <blockquote>It is crucial to clearly specify the equipment that belongs to the current owner and will remain in their possession. In case any equipment is required to support the client’s applications and services, the plan should indicate whether the new owner has the choice to acquire or utilize it. Also, the plan should outline a schedule for the transfer of ownership and include any necessary documentation such as agreements for it.
 </blockquote>
 <ol start="3" style="list-style-type: decimal;">
-<li><p>'''Intellectual Property'''</p></li></ol>
+<li><p>Intellectual Property</p></li></ol>
 
 <blockquote>In the transition phase of the Tracking Activity Project Management System, it is vital to address the management of intellectual property to facilitate the seamless transfer of all relevant documents, original designs, or plans. The handling of intellectual property involves various legal considerations and may involve the implementation of non-disclosure agreements between the current owner and the client.
 
@@ -2806,7 +2814,7 @@ To ensure the appropriate management of intellectual property during the transit
 Adhering to these steps will enable the Tracking Activity Project Management System to achieve a seamless and secure transition of all intellectual property associated with the project.
 
 <ol start="4" style="list-style-type: decimal;">
-<li><p>'''User Accounts and Passwords'''</p></li></ol>
+<li><p>User Accounts and Passwords</p></li></ol>
 
 To effectively execute the transition plan for the Tracking Activity Project Management System, it is crucial to focus on the transfer of user accounts and passwords. The following outlines the steps and considerations involved in this aspect of the property transition:
 
@@ -2820,7 +2828,7 @@ To effectively execute the transition plan for the Tracking Activity Project Man
 * Safeguarding security throughout the transition is paramount, and this involves resetting or disabling all user passwords during the process. This measure prevents unauthorized access to the system and its data. Before the transition takes place, users should be informed to change their passwords to a temporary one that will be provided to them.
 
 <span id="knowledge-transfer"></span>
-== '''7.11.6 Knowledge Transfer''' ==
+== 7.11.6 Knowledge Transfer ==
 
 Documentation:
 
@@ -2833,14 +2841,14 @@ Training:
 * The client will be provided with access to materials and resources to support their ongoing development of knowledge and skills pertaining to the system.
 
 <span id="schedule"></span>
-== '''7.11.7 Schedule'''  ==
+== 7.11.7 Schedule  ==
 
 https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/5bf35d68-7711-497e-b023-a4e34c2bc411
 
 https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/ff734034-6129-4dee-884c-475a6b12016d
 
 <span id="handover-and-acceptance"></span>
-== '''7.11.8 Handover and Acceptance''' ==
+== 7.11.8 Handover and Acceptance ==
 
 The handover and acceptance process will commence once the transition plan is finalized, incorporating all essential documentation and deliverables. Subsequently, the project team will arrange a formal meeting with the project sponsor to conduct a thorough review of the transition plan, verifying the fulfillment of all requirements.
 
@@ -2851,15 +2859,15 @@ Upon resolving all outstanding issues, the project sponsor will proceed to sign 
 The handover and acceptance section will also include a delineation of the procedure for addressing and resolving any remaining issues or concerns that may emerge following the handover's completion.
 
 <span id="appendices"></span>
-= '''8. Appendices''' =
+= 8. Appendices =
 
 <span id="project-cost-summary"></span>
-== '''8.1 Project Cost Summary''' ==
+== 8.1 Project Cost Summary ==
 
 {| class="wikitable"
 |-
-! '''Item'''
-! '''COST'''
+! Item
+! COST
 |-
 | Web Hosting
 | PHP 10,000/yr.
@@ -2867,14 +2875,14 @@ The handover and acceptance section will also include a delineation of the proce
 | Domain Name
 | PHP 2,500/yr.
 |-
-| '''Sub-total'''
-| '''PHP 12,500'''
+| Sub-total
+| PHP 12,500
 |}
 
 {| class="wikitable"
 |-
-! '''Category'''
-! '''COST'''
+! Category
+! COST
 |-
 | Manpower
 | PHP 579,360
@@ -2888,27 +2896,27 @@ The handover and acceptance section will also include a delineation of the proce
 | Equipment
 | PHP 12,500
 |-
-| '''Sub-total'''
-| '''PHP 656,860'''
+| Sub-total
+| PHP 656,860
 |}
 
 Table :Project Cost Summary
 
 <span id="project-methodology"></span>
-= '''8.2 Project Methodology''' =
+= 8.2 Project Methodology =
 
 https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/e5be4242-7507-4eb2-aa7d-067a3589d2fa
 
 <span id="system-requirements-specification"></span>
-= '''8.3 System Requirements Specification''' =
+= 8.3 System Requirements Specification =
 
 <span id="system-requirements-for-development"></span>
-=== '''8.3.1 System Requirements for Development''' ===
+=== 8.3.1 System Requirements for Development ===
 
 {| class="wikitable"
 |-
-! '''SOFTWARE'''
-! '''SPECIFICATIONS'''
+! SOFTWARE
+! SPECIFICATIONS
 |-
 | Operating System
 | Windows 8 or later (32/64 bit)
@@ -2939,12 +2947,12 @@ Internet Explorer (Windows 10* version: 11.0, Windows version: 8.1, Windows RT v
 |}
 
 <span id="system-requirements-for-deployment"></span>
-== '''8.3.2 System Requirements for Deployment''' ==
+== 8.3.2 System Requirements for Deployment ==
 
 {| class="wikitable"
 |-
-! '''SOFTWARE'''
-! '''SPECIFICATIONS'''
+! SOFTWARE
+! SPECIFICATIONS
 |-
 | Operating System
 | Windows 7 or later (32/64 bit)
@@ -2961,15 +2969,15 @@ Internet Explorer (Windows 10* version: 11.0, Windows version: 8.1, Windows RT v
 |}
 
 <span id="development-tools-specification"></span>
-== '''8.4 Development Tools Specification''' ==
+== 8.4 Development Tools Specification ==
 
 <span id="development-tools-specification-1"></span>
-=== '''8.4.1 Development Tools Specification''' ===
+=== 8.4.1 Development Tools Specification ===
 
 {| class="wikitable"
 |-
-! '''HARDWARE'''
-! '''SPECIFICATIONS'''
+! HARDWARE
+! SPECIFICATIONS
 |-
 |
 | Processor – dual core @ 2.4 GHz (i5 or i7 Intel processor or equivalent AMD), 64 bits
@@ -2991,12 +2999,12 @@ Internet Explorer (Windows 10* version: 11.0, Windows version: 8.1, Windows RT v
 |}
 
 <span id="deployment-tools-specification"></span>
-=== '''8.4.2 Deployment Tools Specification''' ===
+=== 8.4.2 Deployment Tools Specification ===
 
 {| class="wikitable"
 |-
-! '''HARDWARE'''
-! '''SPECIFICATIONS'''
+! HARDWARE
+! SPECIFICATIONS
 |-
 | PC or laptop
 | Processor – dual core @ 2.4 GHz (i5 or i7 Intel processor or equivalent AMD), 64 bits
@@ -3021,28 +3029,28 @@ Internet Explorer (Windows 10* version: 11.0, Windows version: 8.1, Windows RT v
 |}
 
 <span id="wbs-dictionary"></span>
-== '''8.5 WBS Dictionary''' ==
+== 8.5 WBS Dictionary ==
 
 https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/a1cae41f-765c-462a-a582-4dff6c2a32ab
 
 {| class="wikitable"
 |-
-! '''Level'''
-! '''WBS Code'''
-! '''Element Name'''
-! '''Definition'''
+! Level
+! WBS Code
+! Element Name
+! Definition
 |-
 | 1
 | 1
 | Tracking Activity Project Management
 | All work to implement a Tracking Activity Management System
 |-
-| '''2'''
-| '''1.1'''
-| '''Initiation'''
-| '''The work to initiate the'''
+| 2
+| 1.1
+| Initiation
+| The work to initiate the
 
-'''project.'''
+project.
 
 |-
 | 3
@@ -3070,12 +3078,12 @@ https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/a
 | Set up Project Tracking Monitoring System
 | The team will start to gather all the needed documents, data, and tools to start developing Tracking Activity Project Management.
 |-
-| '''2'''
-| '''1.2'''
-| '''Planning'''
-| '''The work for the planning'''
+| 2
+| 1.2
+| Planning
+| The work for the planning
 
-'''process for the project'''
+process for the project
 
 |-
 | 3
@@ -3118,12 +3126,12 @@ https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/a
 | Set up features in Project Tracking Monitoring System
 | Configure and enable essential functionalities within the Project Tracking Monitoring System to accurately monitor project progress, track milestones, and effectively manage tasks and resources.
 |-
-| '''2'''
-| '''1.3'''
-| '''Execution'''
-| '''Work involved to execute the'''
+| 2
+| 1.3
+| Execution
+| Work involved to execute the
 
-'''project.'''
+project.
 
 |-
 | 3
@@ -3141,18 +3149,18 @@ https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/a
 | Use task board and file sharing features to collaborate and share information with team members
 | Utilizing task board and file sharing features within the collaboration platform to foster seamless communication, promote teamwork, and facilitate efficient information sharing among team members.
 |-
-| '''2'''
-| '''1.4'''
-| '''Control'''
-| '''The work involved for the'''
+| 2
+| 1.4
+| Control
+| The work involved for the
 
-'''control process of the'''
+control process of the
 
-'''project.'''
+project.
 
-'''Throughout the'''
+Throughout the
 
-'''project'''
+project
 
 |-
 | 3
@@ -3180,12 +3188,12 @@ https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97003583/a
 | Use communication to address conflicts or concerns among team members or stakeholders
 | Resolve conflicts and concerns among team members and stakeholders through effective communication.
 |-
-| '''2'''
-| '''1.5'''
-| '''Closeout'''
-| '''The work to close-out the'''
+| 2
+| 1.5
+| Closeout
+| The work to close-out the
 
-'''project.'''
+project.
 
 |-
 | 3
