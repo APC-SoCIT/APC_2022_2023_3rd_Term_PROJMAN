@@ -272,6 +272,10 @@
 ==Cost Benefit Analysis==
 <p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those customers purchased a product, we could safely say that there will be a 50% increase in sales. This table is not final, and this is introduced for the client’s approval: </p>
 
+<style>
+  table { width: 100%; }
+  th { width: 50%; }
+</style>
 <table>
   <tr>
     <th>Year 1</th>
@@ -326,8 +330,6 @@
     <td>₱90,000.00</td>
   </tr>
 </table>
-
-
 
 
 ==Alternatives Analysis==
