@@ -2130,78 +2130,44 @@ Cont. : https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Grou
 <p> Based on the stated factors, it is important for the team to utilize the use of technologies such as project management software, email, telephone, and video conferencing for meetings. </p>
 
 ==Communication Matrix==
-<table border="1" with ="100%" allign="center">
-<thead>
-<tr>
-<th>Risk ID</th>
-<th>Risk Rank</th>
-<th>Risk</th>
-<th>Description</th>
-<th>Category</th>
-<th>Destination/Owner</th>
-<th>Probability</th>
-<th>Impact</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>RID 001</td>
-<td>1</td>
-<td>Technical Risks</td>
-<td>There is a risk that delays in development which lead to the risk of not finishing the project on time and other errors caused by the conflict.</td>
-<td>Technology</td>
-<td>Project Manager</td>
-<td>High</td>
-<td>High</td>
-<td>In Progress</td>
-</tr>
-<tr>
-<td>RID 002</td>
-<td>2</td>
-<td>Resource Risks</td>
-<td>There is a risk of having insufficient resources which may be needed to accomplish the project on time. Thus, resulting to delays and a budget overrun.</td>
-<td>Organizational</td>
-<td>Project Manager</td>
-<td>High</td>
-<td>High</td>
-<td>In Progress</td>
-</tr>
-<tr>
-<td>RID 003</td>
-<td>3</td>
-<td>Security Risks</td>
-<td>There is a risk of being hacked and compromising the data of the client.</td>
-<td>Security</td>
-<td>System Developer</td>
-<td>Low</td>
-<td>High</td>
-<td>In Progress</td>
-</tr>
-<tr>
-<td>RID 004</td>
-<td>4</td>
-<td>Changes in Technology</td>
-<td>There is a risk that a change in the industry of technology occurs which may require additional work or resources to adapt.</td>
-<td>Technology</td>
-<td>Project Manager</td>
-<td>Medium</td>
-<td>Medium</td>
-<td>In Progress</td>
-</tr>
-<tr>
-<td>RID 005</td>
-<td>5</td>
-<td>Unforeseen Circumstances</td>
-<td>There is a risk that circumstances such as natural disasters could cause disturbance and impact the project in an unexpected way.</td>
-<td>Natural</td>
-<td>Project Manager</td>
-<td>Low</td>
-<td>High</td>
-<td>In Progress</td>
-</tr>
-</tbody>
+<table>
+  <tr>
+    <th>Communication Type</th>
+    <th>Purpose</th>
+    <th>Medium</th>
+    <th>Frequency</th>
+    <th>Audience</th>
+  </tr>
+  <tr>
+    <td>Initial Meeting</td>
+    <td>Introduction of the project team and the proposed project, presenting the objectives and the entire project plan.</td>
+    <td>Microsoft Teams</td>
+    <td>Once</td>
+    <td>Project Manager, Project Team Members, Client</td>
+  </tr>
+  <tr>
+    <td>Team Meetings</td>
+    <td>Discussing the tasks and working on the deliverables.</td>
+    <td>Microsoft Teams</td>
+    <td>Weekly</td>
+    <td>Project Manager, Project Team Members</td>
+  </tr>
+  <tr>
+    <td>Face-to-face Meetings</td>
+    <td>Updating progress with the project and its deliverables.</td>
+    <td>Microsoft Teams</td>
+    <td>Every other week</td>
+    <td>Project Manager, Project Team Members</td>
+  </tr>
+  <tr>
+    <td>Sprint Meeting</td>
+    <td>To discuss the works that need to be completed and plan on how to accomplish.</td>
+    <td>Microsoft Teams</td>
+    <td>Every other week</td>
+    <td>Project Manager, Project Team Members</td>
+  </tr>
 </table>
+
 
 ==Communication Flowchart==
 
