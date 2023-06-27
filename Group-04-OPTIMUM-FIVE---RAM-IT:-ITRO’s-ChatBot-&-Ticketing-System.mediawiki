@@ -1709,9 +1709,9 @@ It will be possible to establish the scope baseline by incorporating the scope d
 		</tr>
 </table>
 
-<table border="1" width="70%" align="center">
+<table border="1" width="744" align="center">
 	<tr>
-		<td bgcolor="lightblue"; colspan="5"><p style="text-align:center;">Contingency Cost</p></td> 
+		<td bgcolor="lightblue"; colspan="2"><p style="text-align:center;">Contingency Cost</p></td> 
 	</tr>
 	
         <tr>
@@ -1719,6 +1719,28 @@ It will be possible to establish the scope baseline by incorporating the scope d
                 <td bgcolor="lightblue"><p style="text-align:center;">66,129.484</p></td> 
 	</tr>
 </table>
+
+<table border="1" width="744" align="center">
+<tr>
+<td bgcolor="lightblue"; colspan="2"><p style="text-align:center;"> Project Cost Summary></p></td>
+</tr>
+ <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Approved Budget</p></td> 
+                <td bgcolor="lightblue"><p style="text-align:center;">₱ 1,500,000.00</p></td> 
+	</tr>
+ <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Manpower costs</p></td> 
+                <td bgcolor="lightblue"><p style="text-align:center;">₱ 661,294.84</p></td> 
+	</tr>
+ <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Contingency cost</p></td> 
+                <td bgcolor="lightblue"><p style="text-align:center;">₱ 66,129.484</p></td> 
+	</tr>
+ <tr>
+		<td bgcolor="lightblue"><p style="text-align:center;">Total Project Cost</p></td> 
+                <td bgcolor="lightblue"><p style="text-align:center;">₱ 727,424.324</p></td> 
+	</tr>
+</table
 
 =Schedule Management Plan=
 
