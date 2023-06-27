@@ -1,4 +1,4 @@
-=Quality Management Plan=
+<h1>Quality Management Plan</h1>
 ==Introduction==
 <p>The Quality Management Plan for the Bregghan Point of Sale (POS) system project outlines the strategies and processes to ensure that the project deliverables meet the required quality standards. This plan establishes a framework for identifying, assessing, and controlling quality throughout the project lifecycle. By prioritizing quality management, the project team aims to deliver a reliable, efficient, and user-friendly POS system that meets the expectations and satisfaction of stakeholders and end-users. </p>
 
