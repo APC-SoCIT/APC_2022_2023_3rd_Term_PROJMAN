@@ -240,11 +240,11 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Phase IV: Implementation </p></td>
-		<td><p style="text-align:center;">08/16/2023 - 10/19/2023 </p></td>
+		<td><p style="text-align:center;">08/16/2023 - 09/06/2023 </p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Closeout/Completion </p></td>
-		<td><p style="text-align:center;">10/20/2023 - 11/20/2023</p></td>
+		<td><p style="text-align:center;">09/07/2023 - 09/19/2023</p></td>
 	</tr>
 </table>
 
@@ -283,16 +283,12 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 		<td><p style="text-align:center;">₱ 3,654.00</p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Miscellaneous Cost </p></td>
-		<td><p style="text-align:center;">₱ 88,200.00</p></td>
-	</tr>
-<tr>
 		<td><p style="text-align:center;">Contingency Cost: </p></td>
-		<td><p style="text-align:center;">₱ 81,651.20</p></td>
+		<td><p style="text-align:center;">₱ 36,415.60</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Total Project Cost: </p></td>
-		<td><p style="text-align:center;">₱ 898,163.20</p></td>
+		<td><p style="text-align:center;">₱ 764,727.60</p></td>
 	</tr>
 </table>
 
@@ -439,7 +435,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Phase I: Analysis</p></td>
-		<td><p style="text-align:center;">May 01, 2023 </p></td>
+		<td><p style="text-align:center;">May 19, 2023 </p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Phase II: Design and Development </p></td>
@@ -455,7 +451,7 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Project Closeout/Completion </p></td>
-		<td><p style="text-align:center;">October 20, 2023 </p></td>
+		<td><p style="text-align:center;">September 07, 2023 </p></td>
 	</tr>
 </table>
 
@@ -652,13 +648,13 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 	
 	<tr>
 		<td><p style="text-align:center;">Project Scope Description </p></td>
-		<td><p style="text-align:center;">Bregghan Point of Sale System should accomplish a functional webapp that can track the Bregghan mini grocery storesales, transactions, Inventory and notifies the client or users whenever a product reaches a critical point in stocks.</p></td>
+		<td><p style="text-align:center;">•	To develop a responsive web application that digitizes the recording of stocks and sales, automates computation of sold items, and produces reports. By implementing this solution, the staff and manager of Bregghan mini grocery store will be able to monitor stocks and sales in real-time, reducing workload and minimizing human error. This will lead to more efficient inventory management and faster checkouts, resulting in improved customer satisfaction. The system will also provide alerts when stock levels reach a critical point, allowing the store to replenish inventory on time and avoid potential revenue loss due to out-of-stock items. Furthermore, the application's capability to produce detailed sales reports will provide useful insights to the business, allowing for data-driven decision-making to further optimize operations and profitability.</p></td>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Project Acceptance Criteria </p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>Functionality: The POS system should have a comprehensive set of features and capabilities to support various sales transactions, including inventory management, product catalog management, and reporting. It should accurately calculate prices, handle discounts and promotions, manage stock levels, and generate receipts. </li>
+  <li>•	Functionality: The POS system should have a comprehensive set of features and capabilities to support various sales transactions, including inventory management, product catalog management, and reporting. It should accurately calculate prices, handle discounts and promotions, manage stock levels, and generate receipts.</li>
   <li>Reliability: The POS system should consistently perform its intended functions without errors or disruptions. It should be available for use during store operating hours and should not encounter frequent system crashes or downtime that would impact business operations. The system should be designed to handle high transaction volumes without compromising its performance. </li>
   <li>Usability: The design of the POS system should prioritize a user-friendly interface and easy-to-use navigation. It should enable store employees to quickly grasp its operation and carry out their responsibilities with efficiency. The system should provide clear guidance, logical workflows, and visual cues that facilitate smooth navigation through its diverse functions. </li>
 <li>Performance: The POS system should ensure optimal performance, with quick response times for processing transactions, executing search queries, and generating reports. The system should be capable of handling high transaction volumes during peak periods without compromising its efficiency. </li>
@@ -680,8 +676,10 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 		<td><p style="text-align:center;">Project Exclusions</p></td>
 		<td><p style="text-align:center;">
 <ul>
-  <li>The Bregghan POS system are only limited to Bregghan Store.</li>
-
+  <li>The project cannot exceed a certain budget, which may limit the scope or timeline of the project. </li>
+  <li>The project must be completed within the designated timestamp of the subject course Project Management.</li>
+  <li>The project must comply with specific laws, regulations, or standards that may limit the project's scope or approach.  </li>
+  <li>The project may be limited by the available technology or infrastructure.</li>
 </ul>
 </p></td>
 	</tr>
@@ -900,16 +898,12 @@ Without a digital system, the staff at Bregghan mini grocery store are unable to
 		<td><p style="text-align:center;">₱ 3,654.00</p></td>
 	</tr>
 <tr>
-		<td><p style="text-align:center;">Miscellaneous Cost </p></td>
-		<td><p style="text-align:center;">₱ 88,200.00</p></td>
-	</tr>
-<tr>
 		<td><p style="text-align:center;">Contingency Cost: </p></td>
-		<td><p style="text-align:center;">₱ 81,651.20</p></td>
+		<td><p style="text-align:center;">₱ 36,415.60</p></td>
 	</tr>
 <tr>
 		<td><p style="text-align:center;">Total Project Cost: </p></td>
-		<td><p style="text-align:center;">₱ 898,163.20</p></td>
+		<td><p style="text-align:center;">₱ 764,727.60</p></td>
 	</tr>
 </table>
 
