@@ -274,26 +274,18 @@
 
 <table>
   <tr>
-    <th>Year</th>
-    <th>Cost</th>
+    <th>Year 1</th>
+    <th>-₱57,954.22</th>
+  </tr>
+  <tr>
+    <th>Product</th>
+    <th>Duration</th>
     <th>Benefit Description</th>
     <th>Benefit Amount</th>
   </tr>
   <tr>
-    <td>Year 1</td>
-    <td>-₱57,954.22</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Cost</td>
     <td>₱147,954.22</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Product</td>
-    <td>Duration</td>
     <td></td>
     <td></td>
   </tr>
@@ -334,6 +326,7 @@
     <td>₱90,000.00</td>
   </tr>
 </table>
+
 
 
 
