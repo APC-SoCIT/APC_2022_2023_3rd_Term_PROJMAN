@@ -276,59 +276,65 @@
   <tr>
     <th>Year</th>
     <th>Cost</th>
-    <th>Benefit</th>
+    <th>Benefit Description</th>
+    <th>Benefit Amount</th>
   </tr>
   <tr>
     <td>Year 1</td>
     <td>-₱57,954.22</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Cost</td>
     <td>₱147,954.22</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Product</td>
     <td>Duration</td>
     <td></td>
-  </tr>
-  <tr>
     <td></td>
-    <td></td>
-    <td>Estimated Increase in Income</td>
   </tr>
   <tr>
     <td>Labor Cost</td>
     <td>544 hours</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Unit Cost</td>
     <td>544 hours</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Web Hosting (GoDaddy)</td>
     <td>1 Year</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>SSL Security (GoDaddy)</td>
     <td>1 Year</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Domain Registration (GoDaddy)</td>
     <td>1 Year</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
+    <td>Estimated Increase in Income</td>
     <td>₱90,000.00</td>
   </tr>
 </table>
+
 
 
 ==Alternatives Analysis==
