@@ -1722,7 +1722,7 @@ It will be possible to establish the scope baseline by incorporating the scope d
 
 <table border="1" width="744" align="center">
 <tr>
-<td bgcolor="lightblue"; colspan="2"><p style="text-align:center;"> Project Cost Summary></p></td>
+<td bgcolor="lightblue"; colspan="2"><p style="text-align:center;"> Project Cost Summary</p></td>
 </tr>
  <tr>
 		<td bgcolor="lightblue"><p style="text-align:center;">Approved Budget</p></td> 
@@ -1737,7 +1737,7 @@ It will be possible to establish the scope baseline by incorporating the scope d
                 <td bgcolor="lightblue"><p style="text-align:center;">₱ 66,129.484</p></td> 
 	</tr>
  <tr>
-		<td bgcolor="lightblue"><p style="text-align:center;">Total Project Cost</p></td> 
+		<td bgcolor="blue"><p style="text-align:center;">Total Project Cost</p></td> 
                 <td bgcolor="lightblue"><p style="text-align:center;">₱ 727,424.324</p></td> 
 	</tr>
 </table>
