@@ -272,14 +272,10 @@
 ==Cost Benefit Analysis==
 <p> As the objective implies, 50% of customer reach is targeted for this project's success, if most of those customers purchased a product, we could safely say that there will be a 50% increase in sales. This table is not final, and this is introduced for the client’s approval: </p>
 
-<style>
-  table { width: 100%; }
-  th { width: 50%; }
-</style>
-<table>
+<table style="width: 100%;">
   <tr>
-    <th>Year 1</th>
-    <th>-₱57,954.22</th>
+    <th style="width: 50%;">Year 1</th>
+    <th style="width: 50%;">-₱57,954.22</th>
   </tr>
   <tr>
     <th>Product</th>
@@ -331,6 +327,10 @@
   </tr>
 </table>
 
+
+<br>
+
+<p>The 1st year of the project’s cost has exceeded the projected income (Benefit). This is to be expected as this is the implementation of the project, as this includes labor and other materials needed to create the project. If the project has functioned as intended and the Estimate Increase in Income has not changed, the following years will render positive returns, as indicated below:</p>
 
 ==Alternatives Analysis==
 <p>There are other alternatives that the team has put into consideration for the Business's concern. Listed are those alternative solutions alongside with why the team did not lean towards it: </p>
