@@ -889,107 +889,6 @@ The following criteria will be used for the risk register:
 | <br />In progress
 |}
 
-=Implementation Plan=
-==1.1.	Executive Summary==
-<p>A transition out plan has been created as part of the project closeout for the RAMIT: Ticketing System to enable a seamless transfer of ownership to its new owners as the project nears completion. This plan's goal is to give a broad picture of the transition process, including the background of the contract, the system's present situation, and the anticipated transfer to the new owners. Our company worked with the customer to enhance their inquiry system by creating the RAMIT: Ticketing System. after the project's goals have been effectively met and the system has been in operation for a year. The system is currently being transferred to the client's ownership in accordance with the contract agreement. The system is functioning and stable right now. The user training process has been finished, and all necessary features have been tested and verified. As we leave, we want to make sure the client has access to all the information and assistance they need to efficiently administer and maintain the system.</p>
-
-<p>To make sure the new owners have a thorough grasp of the system, all project deliverables will be given to them, including technical documentation, user manuals, and source code. Additionally, we will provide the new owners knowledge transfer seminars covering system operations, maintenance, and troubleshooting. The project's transition out plan comprises a thorough timetable with an emphasis on a successful and seamless handover to the next contractor. User training is a component of the transition plan's implementation phase, which will happen towards the end of August 2023. </p>
-
-<p>Documenting lessons learned, updating files and records, obtaining official acceptance, archiving files and papers, and convening a project closeout meeting are just a few of the crucial tasks that are included in the plan's closeout phase. The project closeout meeting is slated to take place at the end of September 2023, however these events will last the entire month. The transition team will collaborate closely throughout the process to guarantee a seamless transfer and reduce any interruptions to the project's operations.</p>
-
-<p>The team will be made up of a variety of positions, such as the Project Team Members, Technical Lead, Subject Matter Experts, and Lead for Quality Assurance. The project team hopes to achieve a smooth and seamless handover to the new owners while preserving the quality of the project's deliverables by adhering to this transition strategy and timeframe. The overall goal of the transition out plan is to guarantee that the customer obtains a fully functional and long-lasting system and that our company successfully completes the project.</p>
-
-==1.2.	Transition Approach==
- ===1.2.1.	Overall Approach:===
-<p>The approach for the Transition Out plan for the RAMIT: Ticketing System will be a phased transition approach since there is a need for continuity and minimal disruption to ongoing operations. This approach allows for a gradual and systematic transfer of knowledge, resources, and responsibility to the new team, minimizing the risk of downtime and service interruption.</p>
-<p>The transition approach will include the following steps: </p>
-<ul>a)	Communication Plan: The communication plan will make sure that everyone involved is informed about the transition strategy, deadlines, and expectations. </ul>
-<ul>b)	Transition Planning: A comprehensive timetable of all the tasks that must be accomplished during the transition will be included in the transition plan, which will be created in collaboration with the ITRO Staff. </ul>
-<ul>c)	Knowledge Transfer: To make sure that the ITRO Staff has the skills and knowledge required to support the system, knowledge transfer will take place through a variety of channels, including documentation, instruction manuals, as-built papers, and formal training programs.</ul>
-<ul>d)	 Staffing: The project team will reduce its workforce throughout the transition to the bare minimum needed to support knowledge transfer and transition operations. </ul>
-
- ===1.2.2.	Timeline:  ===
-<p>The project's transition out plan includes a detailed timetable of tasks required to effectively switch from the incumbent contractor to the ITRO Staff. Execution and closeout are the two primary stages of the transition strategy. User training and go-live activities are part of the execution phase and are scheduled for August 28 through August 31. Documenting lessons learned, updating files and records, receiving official approval, archiving files and documents, and holding a project closeout meeting are all part of the closeout phase. The dates of these events are September 1 through September 29. To guarantee that all transition tasks are completed on time, the timetable offers a precise plan for each action. The thorough preparation and execution of each task as specified in the timeframe will determine if the transition strategy is successful.</p>
-
- ===1.2.3.	Assumptions: ===
-<p>The following assumptions will be made for the transition approach: </p>
-<ul>a)	In order to assist with the transition and acquire knowledge transfer, the ITRO personnel will be present at the meeting.   </ul>
-<ul>b)	To support knowledge transfer, the project team will offer the essential training, documentation, and instruction manuals to the ITRO Staff. </ul>
-<ul>c)	The owner will give ITRO Staff the required hardware and software licenses to support the system.</ul>
-<ul>d)	After the transition is through, the ITRO Staff will be equipped with the required abilities and information to support the system.</ul>
-
-==1.3.	Transition Team Organization  ==
-===1.3.1.	Roles and Responsibilities: ===
-<p>#.	'''Transition Project Manager (TPM)''': overall in charge of the transition's success. The TPM will oversee the transition team, make sure that all tasks related to the transition are finished on schedule, work with the client, and guarantee adherence to the transition strategy.
-#	'''Developers/Technical Lead (TL)''': In charge of contributing technical knowledge to the project. To comprehend the system and create a plan for the transfer, the developers and technical lead will collaborate closely with the project team. The TL will also oversee liaising with the new contractor to facilitate a seamless transfer of technical know-how. 
-#	'''Subject Matter Experts (SMEs)''': In charge of offering subject knowledge expertise on project areas. To achieve a seamless transfer of knowledge and skills, the SMEs will collaborate closely with the project team, developers, and ITRO Staff.
-#	'''Quality Assurance (QA) Lead''': It is their responsibility to make sure all deliverables adhere to the transition plan's quality requirements. To provide quality measurements and make sure that all transition operations are finished to a high standard, the QA Lead will collaborate closely with the TPM. 
-#	'''Project Team Members''': accountable for helping by utilizing their system-specific knowledge and experience. To guarantee a seamless transfer of knowledge and skills, they will collaborate closely with the TPM, developers, SME, and ITRO Staff members. </p>
-
-==1.4.	Workforce Transition ==
-<p>A key component of the RAMIT: Ticketing System transition out plan is the personnel transition. To ensure a smooth and successful transition, the workforce plan of time must be established and communicated. The Transition Project Manager will work closely with the client, the current and new contractors, and the transition team to determine the best course of action for the workforce.
- This can entail keeping on with the existing workforce, transferring them to the new contractor, or employing whole new personnel. The workforce must be notified of any changes in a timely and polite way; therefore, communication will be crucial in this process. To ensure that all personnel are informed of their options and are given the appropriate assistance during the transition process, the Transition Project Manager will closely collaborate with HR and management.
-The employees will also get any required training or retraining to ensure that they are fully prepared to continue offering high-quality services both during and after the transition phase. To guarantee that the project is successfully finished on time and within budget, the workforce transfer strategy will be constantly evaluated and amended as required.
- </p>
-
-==1.5.	Workforce Execution During Transition==
-<p>During the transition period of RAMIT: Ticketing System, work will still need to be performed they are as follows: </p>
-<li>'''User Training''': This will entail creating and distributing training materials to inform users about the new system. The training sessions will probably last three days and include both classroom and hands-on instruction. </li>
-<li>'''Go Live''': This will be the new system's official launch. Before releasing the system to consumers, the team must make sure that all systems are set up and operating properly. Final system testing and confirming that all data has been successfully moved will probably be required for this. </li>
-<li>'''Document Lessons Learned''': The lessons learned from the project will be documented at this phase. This entails identifying the team's advantages and disadvantages as well as its areas for improvement. The paper will be used as a guide for upcoming efforts and to make sure best practices are used going ahead. </li>
-<li>'''Gain Formal Acceptance''': Obtaining the customer's formal approval that the transition has been successfully accomplished is part of this step. The team will have to guarantee that all deliverables have been met and that the client is happy with the new system. </li>
-<li>'''Archive Files/Documents''': Archiving all project-related data and papers is part of this step. Contracts, agreements, project plans, and other pertinent documents may be included.
- </li>
-<li>'''Project Close Out Meeting''': A project close out meeting with all stakeholders will be place at the transition's final stage. This will be a chance to talk about the project as a whole, as well as any accomplishments or areas that might use better, and to make sure that all lingering problems have been fixed.</li>
-
-==1.6.	Subcontracts ==
-<p>No contracts or subcontract agreements about this project currently exist, thus there is no need for any transfer or transition of contracts or related agreements.</p>
-===1.6.1.	Property Transition ===
-<p>#	'''Government Furnished Equipment (GFE)''': Since there is no involvement of Government Furnished Equipment (GFE) in RAMIT: Ticketing System, this section of the transition plan is not applicable.
-#	'''Incumbent Owned Equipment''': It is crucial to clearly specify the equipment owned by the current party and ensure it remains in their possession. In case there is any equipment required for supporting the customer's applications and services, the plan should indicate whether the new contractor or customer has the choice to buy or utilize it. Additionally, the plan should incorporate a schedule for the transfer of ownership and any essential paperwork, such as bills of sale or agreements for transferring ownership. If ITRO can provide the necessary equipment upon transition, there may not be a need for the project team to transition the equipment to OPTIMUM FIVE. However, it remains crucial to clearly distinguish between the equipment owned by the incumbent and the equipment that will be supplied by ITRO. This is necessary to facilitate a seamless transition and prevent any potential conflicts or misunderstandings. The project team should closely collaborate with ITRO and OPTIMUM FIVE to ensure that all required equipment is accessible and appropriately transferred. 
-#	'''Intellectual Property''': During the transition process of RAMIT: Ticketing System, it is crucial to give careful thought to the management of intellectual property (IP) to facilitate a seamless transfer of all pertinent documentation, supplier and subcontractor details, service agreements, as well as original designs or plans. Intellectual property entails various legal considerations and may involve the requirement of non-disclosure agreements (NDAs) between the current party and the customer. 
-The following steps will be taken to ensure proper handling of intellectual property during the transition:
-:##      '''Identification of all relevant intellectual property''': All intellectual property related to the project will be identified, including but not limited to design documents, patents, trademarks, copyrights, software code, and any proprietary information or trade secrets.
-:##      '''Evaluation of contractual agreements ''': The current contractual agreements about the ownership and transfer of intellectual property will be examined and assessed to guarantee adherence during the transition.
-:##      '''Negotiation of new agreements ''': If there are any discrepancies or inadequacies in the current agreements, new agreements will be negotiated among the incumbent, new contractor, and customer to ensure the appropriate ownership and transfer of all intellectual property.
-:##      '''Protection of intellectual property ''': Throughout the transition period, adequate safeguards, such as non-disclosure agreements (NDAs) and other legal measures, will be implemented to ensure the protection of all intellectual property.
-:##      '''Transfer of intellectual property ''': Once the transition process is finalized, the transfer of all pertinent intellectual property will be carried out by the contractual agreements in effect. The intellectual property will be transferred to the new contractor, the customer, or retained by the incumbent, depending on the terms specified in the agreements.
-#	'''User Accounts and Passwords''': As part of the transition plan for RAMIT: Ticketing System, it is important to address the transition of user accounts and passwords. The following details the steps and considerations for this aspect of the property transition:
-  </p>
-<p>
-:##	'''User Account Inventory'''
-*	Firstly, it is essential to create a detailed inventory that encompasses all user accounts and their corresponding privileges. This inventory should encompass both internal and external users, including system administrators, third-party vendors, and end users. Additionally, the inventory should clearly indicate which accounts are inactive or no longer required for the system.
-:##	'''Password Security'''
-*	Maintaining security during the transition is crucial, and this can be achieved by resetting or disabling all user passwords. By taking this step, unauthorized access to the system and its data can be prevented. Before the transition takes place, users should be informed to change their passwords to a temporary one provided to them. Subsequently, during the transition, the new contractor or system owner should enforce the creation of new, strong passwords by all users.
-:##	'''Account Transition and Disablement'''
-*	After addressing the inventory and password security measures, the subsequent task is to determine which accounts will undergo the transition process and which accounts will be deactivated. The transition plan should clearly outline the individuals entrusted with overseeing the transfer of accounts and passwords, ensuring a seamless transition.
-*	If there is a need to disable accounts, the transition plan should provide comprehensive information regarding the process and procedures for deactivating accounts. This is crucial to ensure that the access rights of terminated employees, contractors, or third-party vendors are promptly revoked.
-##	'''Table of User Accounts'''
-*	Within the transition plan, it is necessary to include a table comprising all user accounts that will either undergo the transition or be disabled. This table should encompass the username, associated email address, and corresponding privileges or access rights for each account. Additionally, the table should specify whether the account will be transitioned or disabled, accompanied by any specific instructions for the transition process.
-</p>
-<p>To conclude, the transfer of user accounts and passwords is a critical component of the ITRO project's property transition plan. By adhering to a thorough inventory, implementing password security measures, following account transition and disablement procedures, and furnishing a user account table, a seamless and secure transition can be accomplished.</p>
-
-==1.7.	Knowledge Transfer==
-<p>Documentation/Manuals:
-*	The project team and senior developer will provide documentation and manuals to the ITRO.
-*	The documentation package will encompass an overview of the project, system architecture details, functional requirements, technical specifications, and other pertinent information. This documentation will aid the ITRO staff in gaining a comprehensive understanding of the system and its functionality.
-*	The manuals will offer detailed, sequential guidance on executing specific tasks associated with the system.
-Training:
-*	The project team, along with a senior developer, will provide personalized training to the ITRO to ensure a comprehensive understanding of the system and its operational procedures.
-*	The ITRO will be granted access to online training materials and resources, which will assist them in enhancing their knowledge and skills about the system.
-*	The ITRO will take on the responsibility of disseminating the information to their staff members, as formal classroom training or scheduled sessions may not be feasible in their dynamic and fast-paced work environment.
-
-As an integral component of the Knowledge Transfer Plan, frequent check-ins and meetings will be arranged between the project team, senior developer, and ITRO. These interactions aim to facilitate a successful transfer of knowledge and address any questions or concerns promptly. Furthermore, any modifications or updates to the system will be documented and shared with the ITRO staff, ensuring that they have access to the latest information.
-</p>
-
-==1.9.	Handover and Acceptance==
-<p>The process of handover and acceptance will start after the transition plan has been finalized and includes all necessary paperwork and deliverables. To properly evaluate the transition plan and make sure that all required requirements have been completed, the project team will then set up a formal meeting with the project sponsor and other pertinent stakeholders.
-The project team will provide the project sponsor and other important stakeholders a presentation of the finished transition plan, including with all the required paperwork and deliverables, at the handover meeting. The project sponsor and stakeholders will next carefully review the documents and have a conversation about any issues or concerns that remain unresolved.
-The project sponsor and stakeholders will proceed to sign the official acceptance document once all outstanding issues have been resolved. This document demonstrates that the handover procedure was successfully finished. Along with the signatures of all parties who have examined and approved the contents, the acceptance document will also include a checklist of all required deliverables and paperwork.
-The processes for resolving any unresolved problems or concerns that may emerge after the transfer are also outlined in the handover and acceptance section. This can mean adhering to a formal dispute resolution procedure or carrying out corrective measures to address any found flaws.
-Overall, the contract transitions out plan's handover and acceptance section will provide a thorough and precise roadmap for carrying out the handover process, ensuring the satisfaction of all stakeholders with the results.
-</p>
-
 =Procurement Management Plan=
 
 ==Introduction==
@@ -1148,3 +1047,104 @@ The Procurement Management Plan establishes the framework for acquiring goods an
 <p>In addition to rating each vendor, actual values will be noted to build a past-performance database for selecting vendors for future procurement activities. </p>
 
 <a href="https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/wiki/Group-04-OPTIMUM-FIVE---RAM-IT:-ITRO%E2%80%99s-ChatBot-&-Ticketing-System">Page 1</a>
+
+=Implementation Plan=
+==1.1.	Executive Summary==
+<p>A transition out plan has been created as part of the project closeout for the RAMIT: Ticketing System to enable a seamless transfer of ownership to its new owners as the project nears completion. This plan's goal is to give a broad picture of the transition process, including the background of the contract, the system's present situation, and the anticipated transfer to the new owners. Our company worked with the customer to enhance their inquiry system by creating the RAMIT: Ticketing System. after the project's goals have been effectively met and the system has been in operation for a year. The system is currently being transferred to the client's ownership in accordance with the contract agreement. The system is functioning and stable right now. The user training process has been finished, and all necessary features have been tested and verified. As we leave, we want to make sure the client has access to all the information and assistance they need to efficiently administer and maintain the system.</p>
+
+<p>To make sure the new owners have a thorough grasp of the system, all project deliverables will be given to them, including technical documentation, user manuals, and source code. Additionally, we will provide the new owners knowledge transfer seminars covering system operations, maintenance, and troubleshooting. The project's transition out plan comprises a thorough timetable with an emphasis on a successful and seamless handover to the next contractor. User training is a component of the transition plan's implementation phase, which will happen towards the end of August 2023. </p>
+
+<p>Documenting lessons learned, updating files and records, obtaining official acceptance, archiving files and papers, and convening a project closeout meeting are just a few of the crucial tasks that are included in the plan's closeout phase. The project closeout meeting is slated to take place at the end of September 2023, however these events will last the entire month. The transition team will collaborate closely throughout the process to guarantee a seamless transfer and reduce any interruptions to the project's operations.</p>
+
+<p>The team will be made up of a variety of positions, such as the Project Team Members, Technical Lead, Subject Matter Experts, and Lead for Quality Assurance. The project team hopes to achieve a smooth and seamless handover to the new owners while preserving the quality of the project's deliverables by adhering to this transition strategy and timeframe. The overall goal of the transition out plan is to guarantee that the customer obtains a fully functional and long-lasting system and that our company successfully completes the project.</p>
+
+==1.2.	Transition Approach==
+ ===1.2.1.	Overall Approach:===
+<p>The approach for the Transition Out plan for the RAMIT: Ticketing System will be a phased transition approach since there is a need for continuity and minimal disruption to ongoing operations. This approach allows for a gradual and systematic transfer of knowledge, resources, and responsibility to the new team, minimizing the risk of downtime and service interruption.</p>
+<p>The transition approach will include the following steps: </p>
+<ul>a)	Communication Plan: The communication plan will make sure that everyone involved is informed about the transition strategy, deadlines, and expectations. </ul>
+<ul>b)	Transition Planning: A comprehensive timetable of all the tasks that must be accomplished during the transition will be included in the transition plan, which will be created in collaboration with the ITRO Staff. </ul>
+<ul>c)	Knowledge Transfer: To make sure that the ITRO Staff has the skills and knowledge required to support the system, knowledge transfer will take place through a variety of channels, including documentation, instruction manuals, as-built papers, and formal training programs.</ul>
+<ul>d)	 Staffing: The project team will reduce its workforce throughout the transition to the bare minimum needed to support knowledge transfer and transition operations. </ul>
+
+ ===1.2.2.	Timeline:  ===
+<p>The project's transition out plan includes a detailed timetable of tasks required to effectively switch from the incumbent contractor to the ITRO Staff. Execution and closeout are the two primary stages of the transition strategy. User training and go-live activities are part of the execution phase and are scheduled for August 28 through August 31. Documenting lessons learned, updating files and records, receiving official approval, archiving files and documents, and holding a project closeout meeting are all part of the closeout phase. The dates of these events are September 1 through September 29. To guarantee that all transition tasks are completed on time, the timetable offers a precise plan for each action. The thorough preparation and execution of each task as specified in the timeframe will determine if the transition strategy is successful.</p>
+
+ ===1.2.3.	Assumptions: ===
+<p>The following assumptions will be made for the transition approach: </p>
+<ul>a)	In order to assist with the transition and acquire knowledge transfer, the ITRO personnel will be present at the meeting.   </ul>
+<ul>b)	To support knowledge transfer, the project team will offer the essential training, documentation, and instruction manuals to the ITRO Staff. </ul>
+<ul>c)	The owner will give ITRO Staff the required hardware and software licenses to support the system.</ul>
+<ul>d)	After the transition is through, the ITRO Staff will be equipped with the required abilities and information to support the system.</ul>
+
+==1.3.	Transition Team Organization  ==
+===1.3.1.	Roles and Responsibilities: ===
+<p>#.	'''Transition Project Manager (TPM)''': overall in charge of the transition's success. The TPM will oversee the transition team, make sure that all tasks related to the transition are finished on schedule, work with the client, and guarantee adherence to the transition strategy.
+#	'''Developers/Technical Lead (TL)''': In charge of contributing technical knowledge to the project. To comprehend the system and create a plan for the transfer, the developers and technical lead will collaborate closely with the project team. The TL will also oversee liaising with the new contractor to facilitate a seamless transfer of technical know-how. 
+#	'''Subject Matter Experts (SMEs)''': In charge of offering subject knowledge expertise on project areas. To achieve a seamless transfer of knowledge and skills, the SMEs will collaborate closely with the project team, developers, and ITRO Staff.
+#	'''Quality Assurance (QA) Lead''': It is their responsibility to make sure all deliverables adhere to the transition plan's quality requirements. To provide quality measurements and make sure that all transition operations are finished to a high standard, the QA Lead will collaborate closely with the TPM. 
+#	'''Project Team Members''': accountable for helping by utilizing their system-specific knowledge and experience. To guarantee a seamless transfer of knowledge and skills, they will collaborate closely with the TPM, developers, SME, and ITRO Staff members. </p>
+
+==1.4.	Workforce Transition ==
+<p>A key component of the RAMIT: Ticketing System transition out plan is the personnel transition. To ensure a smooth and successful transition, the workforce plan of time must be established and communicated. The Transition Project Manager will work closely with the client, the current and new contractors, and the transition team to determine the best course of action for the workforce.
+ This can entail keeping on with the existing workforce, transferring them to the new contractor, or employing whole new personnel. The workforce must be notified of any changes in a timely and polite way; therefore, communication will be crucial in this process. To ensure that all personnel are informed of their options and are given the appropriate assistance during the transition process, the Transition Project Manager will closely collaborate with HR and management.
+The employees will also get any required training or retraining to ensure that they are fully prepared to continue offering high-quality services both during and after the transition phase. To guarantee that the project is successfully finished on time and within budget, the workforce transfer strategy will be constantly evaluated and amended as required.
+ </p>
+
+==1.5.	Workforce Execution During Transition==
+<p>During the transition period of RAMIT: Ticketing System, work will still need to be performed they are as follows: </p>
+<li>'''User Training''': This will entail creating and distributing training materials to inform users about the new system. The training sessions will probably last three days and include both classroom and hands-on instruction. </li>
+<li>'''Go Live''': This will be the new system's official launch. Before releasing the system to consumers, the team must make sure that all systems are set up and operating properly. Final system testing and confirming that all data has been successfully moved will probably be required for this. </li>
+<li>'''Document Lessons Learned''': The lessons learned from the project will be documented at this phase. This entails identifying the team's advantages and disadvantages as well as its areas for improvement. The paper will be used as a guide for upcoming efforts and to make sure best practices are used going ahead. </li>
+<li>'''Gain Formal Acceptance''': Obtaining the customer's formal approval that the transition has been successfully accomplished is part of this step. The team will have to guarantee that all deliverables have been met and that the client is happy with the new system. </li>
+<li>'''Archive Files/Documents''': Archiving all project-related data and papers is part of this step. Contracts, agreements, project plans, and other pertinent documents may be included.
+ </li>
+<li>'''Project Close Out Meeting''': A project close out meeting with all stakeholders will be place at the transition's final stage. This will be a chance to talk about the project as a whole, as well as any accomplishments or areas that might use better, and to make sure that all lingering problems have been fixed.</li>
+
+==1.6.	Subcontracts ==
+<p>No contracts or subcontract agreements about this project currently exist, thus there is no need for any transfer or transition of contracts or related agreements.</p>
+===1.6.1.	Property Transition ===
+<p>#	'''Government Furnished Equipment (GFE)''': Since there is no involvement of Government Furnished Equipment (GFE) in RAMIT: Ticketing System, this section of the transition plan is not applicable.
+#	'''Incumbent Owned Equipment''': It is crucial to clearly specify the equipment owned by the current party and ensure it remains in their possession. In case there is any equipment required for supporting the customer's applications and services, the plan should indicate whether the new contractor or customer has the choice to buy or utilize it. Additionally, the plan should incorporate a schedule for the transfer of ownership and any essential paperwork, such as bills of sale or agreements for transferring ownership. If ITRO can provide the necessary equipment upon transition, there may not be a need for the project team to transition the equipment to OPTIMUM FIVE. However, it remains crucial to clearly distinguish between the equipment owned by the incumbent and the equipment that will be supplied by ITRO. This is necessary to facilitate a seamless transition and prevent any potential conflicts or misunderstandings. The project team should closely collaborate with ITRO and OPTIMUM FIVE to ensure that all required equipment is accessible and appropriately transferred. 
+#	'''Intellectual Property''': During the transition process of RAMIT: Ticketing System, it is crucial to give careful thought to the management of intellectual property (IP) to facilitate a seamless transfer of all pertinent documentation, supplier and subcontractor details, service agreements, as well as original designs or plans. Intellectual property entails various legal considerations and may involve the requirement of non-disclosure agreements (NDAs) between the current party and the customer. 
+The following steps will be taken to ensure proper handling of intellectual property during the transition:
+:##      '''Identification of all relevant intellectual property''': All intellectual property related to the project will be identified, including but not limited to design documents, patents, trademarks, copyrights, software code, and any proprietary information or trade secrets.
+:##      '''Evaluation of contractual agreements ''': The current contractual agreements about the ownership and transfer of intellectual property will be examined and assessed to guarantee adherence during the transition.
+:##      '''Negotiation of new agreements ''': If there are any discrepancies or inadequacies in the current agreements, new agreements will be negotiated among the incumbent, new contractor, and customer to ensure the appropriate ownership and transfer of all intellectual property.
+:##      '''Protection of intellectual property ''': Throughout the transition period, adequate safeguards, such as non-disclosure agreements (NDAs) and other legal measures, will be implemented to ensure the protection of all intellectual property.
+:##      '''Transfer of intellectual property ''': Once the transition process is finalized, the transfer of all pertinent intellectual property will be carried out by the contractual agreements in effect. The intellectual property will be transferred to the new contractor, the customer, or retained by the incumbent, depending on the terms specified in the agreements.
+#	'''User Accounts and Passwords''': As part of the transition plan for RAMIT: Ticketing System, it is important to address the transition of user accounts and passwords. The following details the steps and considerations for this aspect of the property transition:
+  </p>
+<p>
+:##	'''User Account Inventory'''
+*	Firstly, it is essential to create a detailed inventory that encompasses all user accounts and their corresponding privileges. This inventory should encompass both internal and external users, including system administrators, third-party vendors, and end users. Additionally, the inventory should clearly indicate which accounts are inactive or no longer required for the system.
+:##	'''Password Security'''
+*	Maintaining security during the transition is crucial, and this can be achieved by resetting or disabling all user passwords. By taking this step, unauthorized access to the system and its data can be prevented. Before the transition takes place, users should be informed to change their passwords to a temporary one provided to them. Subsequently, during the transition, the new contractor or system owner should enforce the creation of new, strong passwords by all users.
+:##	'''Account Transition and Disablement'''
+*	After addressing the inventory and password security measures, the subsequent task is to determine which accounts will undergo the transition process and which accounts will be deactivated. The transition plan should clearly outline the individuals entrusted with overseeing the transfer of accounts and passwords, ensuring a seamless transition.
+*	If there is a need to disable accounts, the transition plan should provide comprehensive information regarding the process and procedures for deactivating accounts. This is crucial to ensure that the access rights of terminated employees, contractors, or third-party vendors are promptly revoked.
+##	'''Table of User Accounts'''
+*	Within the transition plan, it is necessary to include a table comprising all user accounts that will either undergo the transition or be disabled. This table should encompass the username, associated email address, and corresponding privileges or access rights for each account. Additionally, the table should specify whether the account will be transitioned or disabled, accompanied by any specific instructions for the transition process.
+</p>
+<p>To conclude, the transfer of user accounts and passwords is a critical component of the ITRO project's property transition plan. By adhering to a thorough inventory, implementing password security measures, following account transition and disablement procedures, and furnishing a user account table, a seamless and secure transition can be accomplished.</p>
+
+==1.7.	Knowledge Transfer==
+<p>Documentation/Manuals:
+*	The project team and senior developer will provide documentation and manuals to the ITRO.
+*	The documentation package will encompass an overview of the project, system architecture details, functional requirements, technical specifications, and other pertinent information. This documentation will aid the ITRO staff in gaining a comprehensive understanding of the system and its functionality.
+*	The manuals will offer detailed, sequential guidance on executing specific tasks associated with the system.
+Training:
+*	The project team, along with a senior developer, will provide personalized training to the ITRO to ensure a comprehensive understanding of the system and its operational procedures.
+*	The ITRO will be granted access to online training materials and resources, which will assist them in enhancing their knowledge and skills about the system.
+*	The ITRO will take on the responsibility of disseminating the information to their staff members, as formal classroom training or scheduled sessions may not be feasible in their dynamic and fast-paced work environment.
+
+As an integral component of the Knowledge Transfer Plan, frequent check-ins and meetings will be arranged between the project team, senior developer, and ITRO. These interactions aim to facilitate a successful transfer of knowledge and address any questions or concerns promptly. Furthermore, any modifications or updates to the system will be documented and shared with the ITRO staff, ensuring that they have access to the latest information.
+</p>
+
+==1.9.	Handover and Acceptance==
+<p>The process of handover and acceptance will start after the transition plan has been finalized and includes all necessary paperwork and deliverables. To properly evaluate the transition plan and make sure that all required requirements have been completed, the project team will then set up a formal meeting with the project sponsor and other pertinent stakeholders.
+The project team will provide the project sponsor and other important stakeholders a presentation of the finished transition plan, including with all the required paperwork and deliverables, at the handover meeting. The project sponsor and stakeholders will next carefully review the documents and have a conversation about any issues or concerns that remain unresolved.
+The project sponsor and stakeholders will proceed to sign the official acceptance document once all outstanding issues have been resolved. This document demonstrates that the handover procedure was successfully finished. Along with the signatures of all parties who have examined and approved the contents, the acceptance document will also include a checklist of all required deliverables and paperwork.
+The processes for resolving any unresolved problems or concerns that may emerge after the transfer are also outlined in the handover and acceptance section. This can mean adhering to a formal dispute resolution procedure or carrying out corrective measures to address any found flaws.
+Overall, the contract transitions out plan's handover and acceptance section will provide a thorough and precise roadmap for carrying out the handover process, ensuring the satisfaction of all stakeholders with the results.
+</p>
