@@ -2084,76 +2084,63 @@ It will be possible to establish the scope baseline by incorporating the scope d
 ==Outline View==
 <p>
 1.	RAM-IT: ITRO’s ChatBot & Ticketing System<br>
-&nbsp;&nbsp;1.1	Planning (MSYADD1)<br>
+&nbsp;&nbsp;1.1	Initiation<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.1.1	 Design Thinking<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.1.2	 Paper Documentation (1)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1	Executive Summary<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.2	Chapter 1: Project Context<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.3	Chapter 1: Statement of the Problem<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.4	Chapter 1: Objectives<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.5	Chapter 1: Significance of the Project<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.6	Chapter 1: Scope & Limitation<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.7	Chapter 2: Review of Related Literature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.8	Chapter 3: Technical Background: Current System<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.9	Chapter 3: Technical Background: Proposed System<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.10	Appendix A: Project Vision<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.11	Appendix B: Roles & Responsibilities<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.12	Appendix C: Product Roadmap<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.13	Appendix D: Teams Meeting<br>
-&nbsp;&nbsp;1.2	Analysis & Design (MSYADD1 & MCSPROJ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.1	 Paper Documentation (2)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.1	Chapter 4: User Stories with Acceptance Criteria<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.2	Chapter 4: Product Backlog<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.3	Chapter 4: Event Table<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.4	Chapter 4: Use Case Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.5	Chapter 4: Use Case Full Description<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.6	Chapter 4: Gap Analysis<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.7	Chapter 4: Context Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.8	Chapter 4: Data Flow Diagrams<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.9	Chapter 4: Entity-Relationship Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.10	Chapter 4: Activity Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.11	Chapter 4: Object Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.12	Chapter 4: Class Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.13	Chapter 4: Sequence Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.14	Chapter 4: Package Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.15	Chapter 4: Component Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.16	Chapter 4: Deployment Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.17	Chapter 4: Machine State Diagram<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.18	Chapter 5: Release Plan<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.19	Chapter 5: Mock-Up<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.20	Chapter 5: Use Classes & Characteristics<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.2	 Gantt Chart<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.3	 Project Charter<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.4	 Statement of Work<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.5	 Vision & Scope<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.6	 Work Breakdown Structure<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.7	 Change Management Plan<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.8	 Quality Plan<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.2.9	 Contingency Plan<br>
-&nbsp;&nbsp;1.3	Development (MCSPROJ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.3.1	 Prototype<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.1	Log-In Feature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.2	ChatBot Feature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.3	Ticket Feature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.4	Notification Feature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.5	Data Report Feature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.6	Filter Feature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.7	Ticket History Feature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.8	Chat Feature<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.9	Prototype UI<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.3.2	 Test Cases<br>
-&nbsp;&nbsp;1.4	Post-Development (PROJMAN & SOFTDEV)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.1	 Business Case<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.2	 Project Charter<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.3	 Stakeholder Management Plan<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.4	 Stakeholder Analysis<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.5	 Scope Management Plan<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.6	 Cost Management Plan<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.7	 Schedule Management Plan<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.8	 Get Documents Signed<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.9	 Train the ITRO on how to use the System<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.10	Install System<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.11	Deploy System<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.2	 Create Business Case<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.3	 Create Project Charter<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.4	 Project Sponsor Approval of Project<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.5	 Assign Project Team & Roles<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1.6	 Identify Stakeholders<br>
+&nbsp;&nbsp;1.2	Planning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.1	 First Meeting with Project Team<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.2	 Create Stakeholders Management Strategy Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.3	 Create Cost Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.4	 Create Scope Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.5	 Create Time Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.6	 Create Work Breakdown Structure<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.7	 Create Human Resource Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.8	 Create Quality Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.9	 Create Risk Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.10	 Create Communications Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.11	 Create Procurement Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.12	 Create Implementation Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.13	 Create Change Management Plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.14	 Meeting for Documents Development<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2.15	 Send Documents for Project Sponsor Approval<br>
+&nbsp;&nbsp;1.3	Execution<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.1	 Analysis & Design<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.1	Develop Requirements Analysis<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.2	Develop System Analysis<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.3	Create System Design<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.4	Create System Wireframe<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.5	Create System Mock-Up<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.2	 Development<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.1	Develop Log-In Feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.2	Develop Chat Bot Feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.3	Develop Ticketing Feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.4	Develop Notification Feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.5	Develop Data Report Feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.6	Develop Filter Feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.7	Develop Ticket History Feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.8	Develop Chat Feature
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.9	Implement UI
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.3	 Testing & Training
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.1	Install System
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.2	Perform Test Cases
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.3	Training the ITRO
+&nbsp;&nbsp;1.4	Monitoring & Control
+&nbsp;&nbsp;&nbsp;&nbsp;1.4.1	 Gather Feedback Data
+&nbsp;&nbsp;&nbsp;&nbsp;1.4.2	 Risk Manage
+&nbsp;&nbsp;&nbsp;&nbsp;1.4.3	 Monitor if Project Deliverables are complying to Project Documents
+&nbsp;&nbsp;&nbsp;&nbsp;1.4.4	 Weekly Status Report
+&nbsp;&nbsp;1.5	Completion/Closeout
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.1	 Transferring roles to ITRO
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.2	 Transferring deliverables to ITRO
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.3	 Archiving Documents
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.4	 Final Meeting
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.5	 Confirmation of User Acceptance
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.6	 Confirmation of Project Completion
+
 </p>
 
 ==Hierarchical Structure==
