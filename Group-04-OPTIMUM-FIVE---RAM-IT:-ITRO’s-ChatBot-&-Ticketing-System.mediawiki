@@ -251,7 +251,7 @@
 <p>Having automated delegation – When development was ongoing, the stakeholders proposed that the delegation feature of supervisor to IT specialist can be automated, it was considered by the project team, but it wasn’t aligned with the ITRO’s system of delegation, leading for the idea to be debunked but considered. </p>
 
 =Project Charter=
-<p>This Charter formally authorizes the RAM-IT: ITRO’s ChatBot & Ticketing System to develop and implement a better way for the ITRO to provide customer support to the APC Community. A project plan will be developed and submitted to the Project Sponsor for approval.  The project plan will include: scope statement; schedule; cost estimation; budget; and provisions for scope and limitations, resource, schedule, communications with stakeholders and the sponsor, quality assurance, risk analysis, procurement, and stakeholder management as well as project control. All resources will be assigned by the Project Sponsor, Mr. Jojo F. Castillo, Head of the ITRO.</p>  
+<p>This charter formally authorizes the RAM-IT: ITRO’s ChatBot & Ticketing System to develop and implement a better way for the ITRO to provide customer support to the APC Community. A project plan will be developed and submitted to the Project Sponsor for approval.  The project plan will include: scope statement; schedule; cost estimation; budget; and provisions for scope and limitations, resource, schedule, communications with stakeholders and the sponsor, quality assurance, risk analysis, procurement, and stakeholder management as well as project control. All resources will be assigned by the Project Sponsor, Mr. Jojo F. Castillo, Head of the ITRO.</p>  
 
 <p>RAM-IT: ITRO’s ChatBot and Ticketing System is being developed to assist the ITRO in terms of handling inquiries coming from the members of the APC community. The system will assist them by giving them features like, being able to delegate and track the inquiries in an organized manner, have information on what inquiry has the high priority, and have a ChatBot that can handle FAQs. Members of the APC community will also benefit from this system as they can get their answers immediately if their inquiry can be solved by the ChatBot, if not, they will be assured that the ITRO will see their inquiry with the ticketing system. RAM-IT will be a simple responsive website.</p>
 
@@ -259,43 +259,61 @@
 
 <p>The Project Sponsor must approve any schedule changes which may impact milestones. A detailed schedule will be included in the project plan.</p>
 
-<p>The high level milestone schedule is:</p>
-
 <table border="1" width="70%" align="center">
 	<tr>
 		<th bgcolor="lightblue"><p style="text-align:center;">Summary Milestone Schedule – List key project milestones relative to project start.</p></th>
 	</tr>
 	<tr>
 		<td><p style="text-align:center;">Project Milestone</p></td>
-		<th><p style="text-align:center;">Target Date<br>(06/26/2023)</p></th>
+		<th><p style="text-align:center;">Target Date<br>(05/28/2024)</p></th>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Project Start</p></td>
-		<td><p style="text-align:center;">04/26/2022</p></td>
+		<td><p style="text-align:center;">Design Thinking</p></td>
+		<td><p style="text-align:center;">04/05/2023</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Paper Documentation</p></td>
-		<td><p style="text-align:center;">06/20/2022</p></td>
+		<td><p style="text-align:center;">First Meeting with Project Team</p></td>
+		<td><p style="text-align:center;">05/18/2023</p></td>
 	</tr>
 	<tr>
-		<td><p style="text-align:center;">Prototype: ChatBot</p></td>
-		<td><p style="text-align:center;">10/05/2022</p></td>
+		<td><p style="text-align:center;">Send Documents for Project Sponsor Approval</p></td>
+		<td><p style="text-align:center;">09/01/2023</p></td>
 	</tr>
         <tr>
-		<td><p style="text-align:center;">Prototype: Ticketing System</p></td>
-		<td><p style="text-align:center;">10/05/2022</p></td>
+		<td><p style="text-align:center;">Create System Mock-Up</p></td>
+		<td><p style="text-align:center;">09/29/2023</p></td>
 	</tr>
         <tr>
-		<td><p style="text-align:center;">RAM-IT Sample Testing</p></td>
-		<td><p style="text-align:center;">03/03/2023</p></td>
+		<td><p style="text-align:center;">Develop Chat Bot Feature</p></td>
+		<td><p style="text-align:center;">11/01/2023</p></td>
 	</tr>
         <tr>
-		<td><p style="text-align:center;">Deploy Solution</p></td>
-		<td><p style="text-align:center;">06/26/2023</p></td>
+		<td><p style="text-align:center;">Develop Ticketing Feature</p></td>
+		<td><p style="text-align:center;">11/28/2023</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Implement UI</p></td>
+		<td><p style="text-align:center;">03/22/2024</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Training the ITRO</p></td>
+		<td><p style="text-align:center;">04/24/2024</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Transferring roles to ITRO</p></td>
+		<td><p style="text-align:center;">05/01/2024</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Transferring deliverables to ITRO</p></td>
+		<td><p style="text-align:center;">05/08/2024</p></td>
+	</tr>
+        <tr>
+		<td><p style="text-align:center;">Confirmation of Project Completion</p></td>
+		<td><p style="text-align:center;">05/28/2024</p></td>
 	</tr>
         <tr>
 		<td><p style="text-align:center;">Project Complete</p></td>
-		<td><p style="text-align:center;">06/26/2023</p></td>
+		<td><p style="text-align:center;">05/28/2024</p></td>
 	</tr>
 </table>
 
