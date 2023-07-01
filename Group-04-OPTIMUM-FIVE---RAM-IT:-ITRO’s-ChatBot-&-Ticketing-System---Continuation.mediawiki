@@ -536,15 +536,105 @@ The Communication Management Plan ensures the all team members and stakeholders 
    
 <br><br>The stakeholder communication requirements for RAM-IT: ITRO’s ChatBot & Ticketing System would include:   
    
-<br>1.	Project Updates:  Each stakeholder will be provided updates about the project that are necessary for them to know. This means that each update will be specially curated for each stakeholder.
-<br>2.	Accessibility of files: Files will be placed in repositories such as GitHub & Microsoft Teams. This places will be available to the stakeholders.
-<br>3.	Clear and direct communication:  Updates will be straight to the point, but will be detailed in a way that it is clear on what the information is trying to convey.   
-<br>4.	On time communication:  Information will not be sent when stakeholders are busy for this might lead for the information (such as files) to be buried in their email or the update might slip their minds. This will ensure stakeholder will get the information upon the time they agree on. 
-<br>5.	Confidentiality & Privacy: The project team values privacy and confidentiality. This ensures that the channels used follows the Data Privacy Act, and any information shared will be encrypted and safe.</p>
+<br><br>1.	Project Updates:  Each stakeholder will be provided updates about the project that are necessary for them to know. This means that each update will be specially curated for each stakeholder.
+<br><br>2.	Accessibility of files: Files will be placed in repositories such as GitHub & Microsoft Teams. This places will be available to the stakeholders.
+<br><br>3.	Clear and direct communication:  Updates will be straight to the point, but will be detailed in a way that it is clear on what the information is trying to convey.   
+<br><br>4.	On time communication:  Information will not be sent when stakeholders are busy for this might lead for the information (such as files) to be buried in their email or the update might slip their minds. This will ensure stakeholder will get the information upon the time they agree on. 
+<br><br>5.	Confidentiality & Privacy: The project team values privacy and confidentiality. This ensures that the channels used follows the Data Privacy Act, and any information shared will be encrypted and safe.</p>
 
 == Roles ==
+<table border="1" width="70%" align="center">
+   <tr>
+    <td>Roles</td>
+    <td>Responsibilities</td>
+   </tr>
+
+   <tr>
+    <td>Project Sponsor</td>
+    <td>An executive who provides financial support and direction for the project.</td>
+   </tr>
+
+   <tr>
+    <td>Project Manager</td>
+    <td>The project manager ensures that the plans are followed, and that the project team are on time and working hard for the project. They permit decisions, and lead the whole project to success.</td>
+   </tr>
+
+   <tr>
+    <td>Front-End Developer</td>
+    <td>Develops the UI for the project.</td>
+   </tr>
+
+   <tr>
+    <td>Back-End Developer</td>
+    <td>Developed the programming of UX of the project.</td>
+   </tr>
+
+   <tr>
+    <td>Documentation Specialists</td>
+    <td>Ensures that the documents are archived, followed, and quality assured.</td>
+   </tr>
+</table>
 
 == Project Team Directory ==
+<p>The table contains the project team members and stakeholder’s emails.</p>
+
+<table border="1" width="70%" align="center">
+<tr>
+ <td>Name</td>
+ <td>Position</td>
+ <td>Internal, External</td>
+ <td>Project Role</td>
+ <td>Contact Information</td>
+</tr>
+
+<tr>
+ <td>Jojo Castillo</td>
+ <td>Head of ITRO</td>
+ <td>Internal</td>
+ <td>Project Sponsor</td>
+ <td>jojoc@apc.edu.ph</td>
+</tr>
+
+<tr>
+ <td>Jayson Aloya</td>
+ <td>Team Member</td>
+ <td>Internal</td>
+ <td>Project Manager</td>
+ <td>jqaloya@student.apc.edu.ph</td>
+</tr>
+
+<tr>
+ <td>Marc Julian Sajul</td>
+ <td>Team Member</td>
+ <td>Internal</td>
+ <td>Front-End Developer</td>
+ <td>mdsajul@student.apc.edu.ph</td>
+</tr>
+
+<tr>
+ <td>Marc Zamora</td>
+ <td>Team Member</td>
+ <td>Internal</td>
+ <td>Back-End Developer</td>
+ <td>mezamora@student.apc.edu.ph</td>
+</tr>
+
+<tr>
+ <td>John Christopher Langcauon</td>
+ <td>Team Member</td>
+ <td>Internal</td>
+ <td>Documentation Specialist</td>
+ <td>jtlangcauon@student.apc.edu.ph</td>
+</tr>
+
+<tr>
+ <td>Jan Gabriel Prion</td>
+ <td>Team Member</td>
+ <td>Internal</td>
+ <td>Documentation Specialist</td>
+ <td>jbprion@student.apc.edu.ph</td>
+</tr>
+</table>
 
 == Communication Methods and Technologies ==
 <p>The Communication Methods that will be used for project communication will be weekly progress report with the stakeholders. The schedule will be every Wednesday during the Execution phase onwards.
@@ -552,9 +642,10 @@ The Communication Management Plan ensures the all team members and stakeholders 
 <br><br>The Communication Technology that will be used will be Microsoft Teams for online meetings and Outlook for sending of documents and other deliverables.</p>
 
 == Communication Matrix ==
+[[https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135986/3d5a3099-c767-4b98-8350-75a4b6403fa9.png|CM]]
 
 == Communication Flowchart ==
-[[https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135986/b8a981d3-9336-4c9f-b40b-1df501757bf7|CF]]
+[[https://github.com/apcjlquesada/APC_2022_2023_3rd_Term_PROJMAN/assets/97135986/b8a981d3-9336-4c9f-b40b-1df501757bf7.png|CF]]
 
 == Guidelines for Meetings ==
 <p>Meetings are important for direct and clear communication with stakeholders as this allows live back and forth communication. 
@@ -562,31 +653,77 @@ The Communication Management Plan ensures the all team members and stakeholders 
 <br><br>Below are the meeting guidelines that will be followed by the project:   
    
 <br><br>•	Clear Purpose of the Meeting: Each meeting will be clear with its purpose, so that the stakeholders know what the meeting is all about.   
-<br>•	Advanced Scheduling: Meetings will be scheduled five days before the actual meeting.   
-<br>•	Attendance & Timeliness: Every team member must attend each meeting (unless they have a valid reason why they are not able to) and must be on time or at least five minutes early.
-<br>•	Agenda of the meeting: At the start of the meeting, the agenda and flow of the meeting will be shown.
-<br>•	Minutes of the Meeting: Documentation of the meeting is necessary for future use.</p>
+<br><br>•	Advanced Scheduling: Meetings will be scheduled five days before the actual meeting.   
+<br><br>•	Attendance & Timeliness: Every team member must attend each meeting (unless they have a valid reason why they are not able to) and must be on time or at least five minutes early.
+<br><br>•	Agenda of the meeting: At the start of the meeting, the agenda and flow of the meeting will be shown.
+<br><br>•	Minutes of the Meeting: Documentation of the meeting is necessary for future use.</p>
 
 == Communication Standards ==
 <p>The Communication Standard for RAM-IT: ITRO’s ChatBot & Ticketing System includes the following:   
    
 <br><br>•	Consistent Templates: Templates for communication ensures that information will be delivered in a clear way that stakeholders are familiar with.   
-<br>•	File Naming: Aside from being visually appealing, this ensures that the name of the file dictates exactly what the file is about and for what project.
-<br>•	Communication Channels: Microsoft Teams will be used for online meetings while Outlook will be used for file sharing.
-<br>•	Communication Privacy: Valuing the privacy and confidentiality of varying levels of information.</p>
+<br><br>•	File Naming: Aside from being visually appealing, this ensures that the name of the file dictates exactly what the file is about and for what project.
+<br><br>•	Communication Channels: Microsoft Teams will be used for online meetings while Outlook will be used for file sharing.
+<br><br>•	Communication Privacy: Valuing the privacy and confidentiality of varying levels of information.</p>
 
 == Communication Escalation Process ==
 <p>The Communication Escalation Process for RAM-IT: ITRO’s ChatBot & Ticketing System would involve the following steps:   
   
 <br><br>1.	Identify the problem/issue: The project team should first find out the cause of the problem or issue. This will allow a better grasp on how to mitigate the problem at hand. 
-<br>2.	Come up with a solution: The project team should first come up with a solution that makes the most sense and less risky.
-<br>3.	Apply solution: The team then apply the solution that they came up with.
-<br>4.	Document both the issue and solution: This allows as a basis if ever any similar issues happen once again.   
-<br>5.	Revisit document and mitigate: After the escalation process, revisit the document so that the issue will be more unlikely to happen next time.
+<br><br>2.	Come up with a solution: The project team should first come up with a solution that makes the most sense and less risky.
+<br><br>3.	Apply solution: The team then apply the solution that they came up with.
+<br><br>4.	Document both the issue and solution: This allows as a basis if ever any similar issues happen once again.   
+<br><br>5.	Revisit document and mitigate: After the escalation process, revisit the document so that the issue will be more unlikely to happen next time.
    
 <br><br>The process might change depending on the situation, but the following steps shown will still be gone through in any problem.</p>
 
 == Glossary of Communication Terminology ==
+<table border="1" width="70%" align="center">
+<tr>
+ <td>Term</td>
+ <td>Definition</td>
+</tr>
+
+<tr>
+ <td>Communication Management Plan</td>
+ <td>The document that outlines and ensures smooth information flow between the project team members and the stakeholders.</td>
+</tr>
+
+<tr>
+ <td>Stakeholder</td>
+ <td>An individual or a group of people who are affected and connected to the project.</td>
+</tr>
+
+<tr>
+ <td>Communication Method</td>
+ <td>How the project team members communicate with the stakeholders and through what channel.</td>
+</tr>
+
+<tr>
+ <td>Communication Flowchart</td>
+ <td>A visual chart showing the flow of communication.</td>
+</tr>
+
+<tr>
+ <td>Communication Matrix</td>
+ <td>Outlines the requirements for communication within the project.</td>
+</tr>
+
+<tr>
+ <td>Communication Constraints</td>
+ <td>Limitations that might affect the quality and flow of communication.</td>
+</tr>
+
+<tr>
+ <td>Communication Guidelines</td>
+ <td>Need to follow for meetings and file sharing.</td>
+</tr>
+
+<tr>
+ <td>Communication Channel</td>
+ <td>Tools used for communication.</td>
+</tr>
+</table>
 
 
 =Quality Management Plan=
