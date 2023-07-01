@@ -2115,31 +2115,31 @@ It will be possible to establish the scope baseline by incorporating the scope d
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.4	Create System Wireframe<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1.5	Create System Mock-Up<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.3.2	 Development<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.1	Develop Log-In Feature
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.2	Develop Chat Bot Feature
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.3	Develop Ticketing Feature
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.4	Develop Notification Feature
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.5	Develop Data Report Feature
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.6	Develop Filter Feature
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.7	Develop Ticket History Feature
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.8	Develop Chat Feature
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.9	Implement UI
-&nbsp;&nbsp;&nbsp;&nbsp;1.3.3	 Testing & Training
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.1	Install System
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.2	Perform Test Cases
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.3	Training the ITRO
-&nbsp;&nbsp;1.4	Monitoring & Control
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.1	 Gather Feedback Data
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.2	 Risk Manage
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.3	 Monitor if Project Deliverables are complying to Project Documents
-&nbsp;&nbsp;&nbsp;&nbsp;1.4.4	 Weekly Status Report
-&nbsp;&nbsp;1.5	Completion/Closeout
-&nbsp;&nbsp;&nbsp;&nbsp;1.5.1	 Transferring roles to ITRO
-&nbsp;&nbsp;&nbsp;&nbsp;1.5.2	 Transferring deliverables to ITRO
-&nbsp;&nbsp;&nbsp;&nbsp;1.5.3	 Archiving Documents
-&nbsp;&nbsp;&nbsp;&nbsp;1.5.4	 Final Meeting
-&nbsp;&nbsp;&nbsp;&nbsp;1.5.5	 Confirmation of User Acceptance
-&nbsp;&nbsp;&nbsp;&nbsp;1.5.6	 Confirmation of Project Completion
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.1	Develop Log-In Feature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.2	Develop Chat Bot Feature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.3	Develop Ticketing Feature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.4	Develop Notification Feature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.5	Develop Data Report Feature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.6	Develop Filter Feature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.7	Develop Ticket History Feature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.8	Develop Chat Feature<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2.9	Implement UI<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.3	 Testing & Training<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.1	Install System<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.2	Perform Test Cases<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.3.3	Training the ITRO<br>
+&nbsp;&nbsp;1.4	Monitoring & Control<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.4.1	 Gather Feedback Data<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.4.2	 Risk Manage<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.4.3	 Monitor if Project Deliverables are complying to Project Documents<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.4.4	 Weekly Status Report<br>
+&nbsp;&nbsp;1.5	Completion/Closeout<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.1	 Transferring roles to ITRO<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.2	 Transferring deliverables to ITRO<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.3	 Archiving Documents<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.4	 Final Meeting<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.5	 Confirmation of User Acceptance<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.5.6	 Confirmation of Project Completion<br>
 
 </p>
 
@@ -2161,7 +2161,7 @@ It will be possible to establish the scope baseline by incorporating the scope d
 <tr>
    <td>2</td>
    <td>1.1</td>
-   <td>Planning (MSYADD1)</td>
+   <td>Initiation</td>
 </tr>
 
 <tr>
@@ -2173,412 +2173,254 @@ It will be possible to establish the scope baseline by incorporating the scope d
 <tr>
    <td>3</td>
    <td>1.1.2</td>
-   <td>Paper Documentation (1)</td>
+   <td>Create Business Case</td>
 </tr>
 
 <tr>
-   <td>4</td>
-   <td>1.1.2.1</td>
-   <td>Executive Summary</td>
+   <td>3</td>
+   <td>1.1.3</td>
+   <td>Project Charter</td>
 </tr>
 
 <tr>
-   <td>4</td>
-   <td>1.1.2.2</td>
-   <td>Chapter 1: Project Context</td>
+   <td>3</td>
+   <td>1.1.4</td>
+   <td>Project Sponsor Approval of Project</td>
 </tr>
 
 <tr>
-   <td>4</td>
-   <td>1.1.2.3</td>
-   <td>Chapter 1: Statement of the Problem</td>
+   <td>3</td>
+   <td>1.1.5</td>
+   <td>Assign Project Team & Roles</td>
 </tr>
 
 <tr>
-   <td>4</td>
-   <td>1.1.2.4</td>
-   <td>Chapter 1: Objectives</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.5</td>
-   <td>Chapter 1: Significance of the Project</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.6</td>
-   <td>Chapter 1: Scope & Limitation</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.7</td>
-   <td>Chapter 2: Review of Related Literature</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.8</td>
-   <td>Chapter 3: Technical Background: Current System</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.9</td>
-   <td>Chapter 3: Technical Background: Proposed System</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.10</td>
-   <td>Appendix A: Project Vision</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.11</td>
-   <td>Appendix B: Roles & Responsibilities</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.12</td>
-   <td>Appendix C: Product Roadmap</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.1.2.13</td>
-   <td>Appendix D: Teams Meeting</td>
+   <td>3</td>
+   <td>1.1.6</td>
+   <td>Identify Stakeholders</td>
 </tr>
 
 <tr>
    <td>2</td>
    <td>1.2</td>
-   <td>Analysis & Design (MSYADD1 & MCSPROJ)</td>
+   <td>Planning</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.1</td>
-   <td>Paper Documentation (2)</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.1</td>
-   <td>Chapter 4: User Stories & Acceptance Criteria</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.2</td>
-   <td>Chapter 4: Product Backlog</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.3</td>
-   <td>Chapter 4: Event Table</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.4</td>
-   <td>Chapter 4: Use Case Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.5</td>
-   <td>Chapter 4: Use Case Full Description</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.6</td>
-   <td>Chapter 4: Gap Analysis</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.7</td>
-   <td>Chapter 4: Context Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.8</td>
-   <td>Chapter 4: Data Flow Diagrams</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.9</td>
-   <td>Chapter 4: Entity-Relationship Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.10</td>
-   <td>Chapter 4: Activity Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.11</td>
-   <td>Object Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.12</td>
-   <td>Chapter 4: Class Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.13</td>
-   <td>Chapter 4: Sequence Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.14</td>
-   <td>Chapter 4: Package Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.15</td>
-   <td>Chapter 4: Component Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.16</td>
-   <td>Chapter 4: Deployment Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.17</td>
-   <td>Chapter 4: Machine State Diagram</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.18</td>
-   <td>Chapter 5: Release Plan</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.19</td>
-   <td>Chapter 5: Mock-Up</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.2.1.20</td>
-   <td>Chapter 5: Use Classes & Characteristics</td>
+   <td>First Meeting with Project Team</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.2</td>
-   <td>Gantt Chart</td>
+   <td>Create Stakeholders Management Strategy Plan</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.3</td>
-   <td>Project Charter</td>
+   <td>Create Cost Management Plan</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.4</td>
-   <td>Statement of Work</td>
+   <td>Create Scope Management Plan</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.5</td>
-   <td>Vision & Scope</td>
+   <td>Create Time Management Plan</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.6</td>
-   <td>Work Breakdown Structure</td>
+   <td>Create Work Breakdown Structure</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.7</td>
-   <td>Change Management Plan</td>
+   <td>Create Human Resource Management Plan</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.8</td>
-   <td>Quality Plan</td>
+   <td>Create Quality Management Plan</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.2.9</td>
-   <td>Contingency Plan</td>
+   <td>Create Risk Management Plan</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.10</td>
+   <td>Create Communications Management Plan</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.11</td>
+   <td>Create Procurement Management Plan</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.12</td>
+   <td>Create Implementation Plan</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.13</td>
+   <td>Create Change Management Plan</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.14</td>
+   <td>Meeting for Documents Development</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.2.15</td>
+   <td>Send Documents for Project Sponsosr Aprroval</td>
 </tr>
 
 <tr>
    <td>2</td>
    <td>1.3</td>
-   <td>Development (MCSPROJ)</td>
+   <td>Execution</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.3.1</td>
-   <td>Prototype</td>
+   <td>Analysis & Design</td>
 </tr>
 
 <tr>
    <td>4</td>
-   <td>1.3.1.1</td>
-   <td>Log-In Feature</td>
+   <td>1.3.1</td>
+   <td>Weekly Status Report</td>
 </tr>
 
 <tr>
    <td>4</td>
-   <td>1.3.1.2</td>
-   <td>ChatBot Feature</td>
+   <td>1.3.1</td>
+   <td>Weekly Status Report</td>
 </tr>
 
 <tr>
    <td>4</td>
-   <td>1.3.1.3</td>
-   <td>Ticket Feature</td>
+   <td>1.3.1</td>
+   <td>Weekly Status Report</td>
 </tr>
 
 <tr>
    <td>4</td>
-   <td>1.3.1.4</td>
-   <td>Notification Feature</td>
+   <td>1.3.1</td>
+   <td>Weekly Status Report</td>
 </tr>
 
 <tr>
    <td>4</td>
-   <td>1.3.1.5</td>
-   <td>Data Report Feature</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.3.1.6</td>
-   <td>Filter Feature</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.3.1.7</td>
-   <td>Ticket History Feature</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.3.1.8</td>
-   <td>Chat Feature</td>
-</tr>
-
-<tr>
-   <td>4</td>
-   <td>1.3.1.9</td>
-   <td>Prototype UI</td>
+   <td>1.3.1</td>
+   <td>Weekly Status Report</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.3.2</td>
-   <td>Test Cases</td>
+   <td>Development</td>
+</tr>
+
+<tr>
+   <td>3</td>
+   <td>1.3.3</td>
+   <td>Testing & Training</td>
 </tr>
 
 <tr>
    <td>2</td>
    <td>1.4</td>
-   <td>Post-Development (PROJMAN & SOFTDEV)</td>
+   <td>Monitoring & Control</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.4.1</td>
-   <td>Business Case</td>
+   <td>Gather Feedback Data</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.4.2</td>
-   <td>Project Charter</td>
+   <td>Risk Manage</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.4.3</td>
-   <td>Stakeholder Management Plan</td>
+   <td>Monitor if Project Deliverables are complying to Project Documents</td>
 </tr>
 
 <tr>
    <td>3</td>
    <td>1.4.4</td>
-   <td>Stakeholder Analysis</td>
+   <td>Weekly Status Report</td>
+</tr>
+
+<tr>
+   <td>2</td>
+   <td>1.5</td>
+   <td>Completion/Closeout</td>
 </tr>
 
 <tr>
    <td>3</td>
-   <td>1.4.5</td>
-   <td>Scope Management Plan</td>
+   <td>1.5.1</td>
+   <td>Transferring roles to ITRO</td>
 </tr>
 
 <tr>
    <td>3</td>
-   <td>1.4.6</td>
-   <td>Cost Management Plan</td>
+   <td>1.5.2</td>
+   <td>Transferring deliverables to ITRO</td>
 </tr>
 
 <tr>
    <td>3</td>
-   <td>1.4.7</td>
-   <td>Schedule Management Plan</td>
+   <td>1.5.3</td>
+   <td>Archiving Documents</td>
 </tr>
 
 <tr>
    <td>3</td>
-   <td>1.4.8</td>
-   <td>Get Documents Signed</td>
+   <td>1.5.4</td>
+   <td>Final Meeting</td>
 </tr>
 
 <tr>
    <td>3</td>
-   <td>1.4.9</td>
-   <td>Train the ITRO on how to use the System</td>
+   <td>1.5.5</td>
+   <td>Confirmation of User Acceptance</td>
 </tr>
 
 <tr>
    <td>3</td>
-   <td>1.4.10</td>
-   <td>Install System</td>
+   <td>1.5.6</td>
+   <td>Confirmation of Project Completion</td>
 </tr>
-
-<tr>
-   <td>3</td>
-   <td>1.4.11</td>
-   <td>Deploy System</td>
-</tr>
-
-</table>
 
 ==Tabular View==
 
