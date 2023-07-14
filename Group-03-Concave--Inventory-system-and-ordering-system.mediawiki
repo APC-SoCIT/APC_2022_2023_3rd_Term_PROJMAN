@@ -859,131 +859,7 @@ to set achievable performance goals and track their progress  </td>
     <th>PHP 251,519.212</th>
   </tr>
 </table>
-
-<h1>Risk Management Plan </h1>
-<h5>Introduction   </h5>
-<p align=" justify">
-The Project Team conducted a Risk Management Plan which includes all possible risk that can be mitigated with various steps. <br><br>
-
-To further develop a risk management plan for IO System, the following information should be considered:   <br><br>
-   
-Risk Identification:  The team will be identifying potential risks that are connected to all operations of the IO System. These potential risks include data breaches, system failures, supplier disruptions, inaccurate inventory tracking, and insufficient user training.  <br>
- 
-Risk Assessment: The team will evaluate the identified potential risks for its occurrence and potential impact. These risks will be assigned based on rating of the risk, considering factors such as severity, frequency, and detectability.  <br>
-
-Risk Mitigation Strategies: The team will develop strategies to mitigate the identified risks. It can be preventive, detective, and corrective measures. Example: 
- Providing comprehensive user training and documentation to minimize errors resulting from insufficient user knowledge.  
-Establishing alternative supplier options or maintaining safety stock to mitigate the risk of supplier disruptions. <br><br>
-
- 
-
-Contingency Planning: The team will develop contingency plans for high-risk events that cannot be eliminated. For example, prepare backup systems or backup computers to maintain operations during system outages. 
-</p>
-
-<h5> Top Three Risks  </h5>
-<p align=" justify">
-1. Data Breaches and Security Threats: The risk is having unauthorized access to sensitive data, customer information, or financial records can lead to data breaches, identity theft and/or reputational damage. The mitigation of this is implement security measures such as encryption and secure authentication mechanisms such as MFAs. Moreover, conduct regular security testing to identify vulnerabilities. <br> <br>
- 
-2. Performance Issues: The risks are system failures, unplanned downtime, and/or slow performance. It can impact the customer experience and can lead to revenue loss. The mitigation is to regularly monitor system performance, optimize code, and database queries for efficiency. Moreover, implement a scalable infrastructure to handle increased traffic during peak periods. <br> <br>
-
-3. Inventory Management Issues: The risk is dependencies on suppliers for inventory, raw materials, or product availability can lead to disruptions in the supply chain, delay of orders, and customer dissatisfaction. The mitigation is to establish strong relationships with suppliers and maintain alternative supplier options. Implement effective inventory management practices such as real-time tracking, and demand forecasting to ensure optimal stock levels. <br> <br>
-
-<h5>Risk Management Approach  </h5>
-<p align=" justify">
-
-The following steps will be taken to manage risks in the IO System project:    <br><br>
-
-- Risk Identification:  The team will be identifying potential risks that are connected to all operations of the IO System. These potential risks include data breaches, system failures, supplier disruptions, inaccurate inventory tracking, and insufficient user training. <br><br>
-
-- Risk Assessment: The team will evaluate the identified potential risks for its occurrence and potential impact. These risks will be assigned based on rating of the risk, considering factors such as severity, frequency, and detectability. <br><br>
-
-- Risk Prioritization: The team will prioritize risks based on their ratings to determine which ones are required to act on and identify mitigation. Focusing on higher risks can help the system to be more efficient and accurate. <br><br>
-
-- Risk Mitigation Strategies: The team will develop strategies to mitigate the identified risks. It can be preventive, detective, and corrective measures. Example: 
- Providing comprehensive user training and documentation to minimize errors resulting from insufficient user knowledge. Establishing alternative supplier options or maintaining safety stock to mitigate the risk of  supplier disruptions. <br><br>
-
-- Continuous Improvement: The team will regularly review and update the risk management approach based on changing circumstances, emerging risks, and lessons learned. This can help improve the system’s resilience and minimize risks over time. <br><br> </p>
-
-
-<h5>Risk Identification  </h5>
-<p align=" justify">
-
-Some of the potential risks identified for the IO System project include:   <br><br>
-
--Data Security 
- Risk of data breaches, unauthorized access, or theft of sensitive information such as customer data and financial information. <br><br>
-
-- System Availability and Performance 
- Risk of system failure, downtime, and/or slow performance that can disrupt operations and impact order processing or inventory management.  <br><br>
-
-- Inventory Accuracy and Management 
- Risk of inaccurate inventory tracking, leading to stockouts, overstocking, or inventory discrepancies. <br><br>
-
-- User Error and Training 
- Risk of human errors in order processing, inventory management, and/or data entry that can lead to incorrect orders, stock discrepancies, and/or system malfunctions. <br><br>
-
-- Change Management 
- Risk of resistance to system changes or updates, such as adding new categories, brands, products, and/or product quantities. <br><br> </p>
-
-<h4>Risk Registry</h4>
-<p align="justify">
-<table width = "60%" align = "center">
-   <tr bgcolor="#184376">
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Risk ID </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Risk Description </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Category </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Likelihood  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Impact</font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Mitigation   </font></th>    
-</tr>
-     <tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 1 </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> System security flaws lead to unauthorized access or data breaches.  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Strengthening security through encryption, access restrictions, and regular audits.</font></th>
-</tr>
-
-<tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 2 </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> problems integrating with current systems or outside services.</font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Test interfaces, compatibility, and establish clear communication routes for problem resolution.</font></th>
-</tr>
-
-<tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 3 </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Data loss or corruption</font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Low  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Automated backup, recovery, redundant storage systems, and routine data backups.</font></th>
-</tr>
-
-<tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 4 </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> User experience issues can lead to poor adoption and customer dissatisfaction. </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Conduct usability tests, gather user input, and refine interfaces.</font></th>
-</tr>
-
-<tr bgcolor="#ffffff" >
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 5 </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Heavy user loads cause performance barriers. </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
-     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Load testing, optimize design, code, caching, resource allocation.</font></th>
-</tr>
-
-</table>
- 
-<h1>Risk Management Plan </h1>
+<h1>Communications Management Plan</h1>
 <h5>Introduction   </h5>
 <p align=" justify">
 The Communications Management Plan plays a vital role in the successful implementation and operation of an inventory and ordering system. Effective communication is essential for ensuring smooth collaboration, managing expectations, and addressing issues promptly throughout the project lifecycle. This plan outlines the communication strategies, channels, stakeholders, and protocols that will be employed to facilitate efficient communication within the project team, with stakeholders, and with system users. <br><br>
@@ -1410,3 +1286,126 @@ Primary Contact Resolution: <br>
 -Identify any lessons learned from the escalation process to improve future communication practices. <br><br>
 
 It is important to tailor the communication escalation process to the specific needs and structure of the organization implementing the inventory and ordering system. Regular review and refinement of the escalation process can help ensure its effectiveness in addressing communication challenges and preventing potential disruptions in the project. <br><br>
+<h1>Risk Management Plan </h1>
+<h5>Introduction   </h5>
+<p align=" justify">
+The Project Team conducted a Risk Management Plan which includes all possible risk that can be mitigated with various steps. <br><br>
+
+To further develop a risk management plan for IO System, the following information should be considered:   <br><br>
+   
+Risk Identification:  The team will be identifying potential risks that are connected to all operations of the IO System. These potential risks include data breaches, system failures, supplier disruptions, inaccurate inventory tracking, and insufficient user training.  <br>
+ 
+Risk Assessment: The team will evaluate the identified potential risks for its occurrence and potential impact. These risks will be assigned based on rating of the risk, considering factors such as severity, frequency, and detectability.  <br>
+
+Risk Mitigation Strategies: The team will develop strategies to mitigate the identified risks. It can be preventive, detective, and corrective measures. Example: 
+ Providing comprehensive user training and documentation to minimize errors resulting from insufficient user knowledge.  
+Establishing alternative supplier options or maintaining safety stock to mitigate the risk of supplier disruptions. <br><br>
+
+ 
+
+Contingency Planning: The team will develop contingency plans for high-risk events that cannot be eliminated. For example, prepare backup systems or backup computers to maintain operations during system outages. 
+</p>
+
+<h5> Top Three Risks  </h5>
+<p align=" justify">
+1. Data Breaches and Security Threats: The risk is having unauthorized access to sensitive data, customer information, or financial records can lead to data breaches, identity theft and/or reputational damage. The mitigation of this is implement security measures such as encryption and secure authentication mechanisms such as MFAs. Moreover, conduct regular security testing to identify vulnerabilities. <br> <br>
+ 
+2. Performance Issues: The risks are system failures, unplanned downtime, and/or slow performance. It can impact the customer experience and can lead to revenue loss. The mitigation is to regularly monitor system performance, optimize code, and database queries for efficiency. Moreover, implement a scalable infrastructure to handle increased traffic during peak periods. <br> <br>
+
+3. Inventory Management Issues: The risk is dependencies on suppliers for inventory, raw materials, or product availability can lead to disruptions in the supply chain, delay of orders, and customer dissatisfaction. The mitigation is to establish strong relationships with suppliers and maintain alternative supplier options. Implement effective inventory management practices such as real-time tracking, and demand forecasting to ensure optimal stock levels. <br> <br>
+
+<h5>Risk Management Approach  </h5>
+<p align=" justify">
+
+The following steps will be taken to manage risks in the IO System project:    <br><br>
+
+- Risk Identification:  The team will be identifying potential risks that are connected to all operations of the IO System. These potential risks include data breaches, system failures, supplier disruptions, inaccurate inventory tracking, and insufficient user training. <br><br>
+
+- Risk Assessment: The team will evaluate the identified potential risks for its occurrence and potential impact. These risks will be assigned based on rating of the risk, considering factors such as severity, frequency, and detectability. <br><br>
+
+- Risk Prioritization: The team will prioritize risks based on their ratings to determine which ones are required to act on and identify mitigation. Focusing on higher risks can help the system to be more efficient and accurate. <br><br>
+
+- Risk Mitigation Strategies: The team will develop strategies to mitigate the identified risks. It can be preventive, detective, and corrective measures. Example: 
+ Providing comprehensive user training and documentation to minimize errors resulting from insufficient user knowledge. Establishing alternative supplier options or maintaining safety stock to mitigate the risk of  supplier disruptions. <br><br>
+
+- Continuous Improvement: The team will regularly review and update the risk management approach based on changing circumstances, emerging risks, and lessons learned. This can help improve the system’s resilience and minimize risks over time. <br><br> </p>
+
+
+<h5>Risk Identification  </h5>
+<p align=" justify">
+
+Some of the potential risks identified for the IO System project include:   <br><br>
+
+-Data Security 
+ Risk of data breaches, unauthorized access, or theft of sensitive information such as customer data and financial information. <br><br>
+
+- System Availability and Performance 
+ Risk of system failure, downtime, and/or slow performance that can disrupt operations and impact order processing or inventory management.  <br><br>
+
+- Inventory Accuracy and Management 
+ Risk of inaccurate inventory tracking, leading to stockouts, overstocking, or inventory discrepancies. <br><br>
+
+- User Error and Training 
+ Risk of human errors in order processing, inventory management, and/or data entry that can lead to incorrect orders, stock discrepancies, and/or system malfunctions. <br><br>
+
+- Change Management 
+ Risk of resistance to system changes or updates, such as adding new categories, brands, products, and/or product quantities. <br><br> </p>
+
+<h4>Risk Registry</h4>
+<p align="justify">
+<table width = "60%" align = "center">
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Risk ID </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Risk Description </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Category </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Likelihood  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Impact</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Mitigation   </font></th>    
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 1 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> System security flaws lead to unauthorized access or data breaches.  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Strengthening security through encryption, access restrictions, and regular audits.</font></th>
+</tr>
+
+<tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 2 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> problems integrating with current systems or outside services.</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Test interfaces, compatibility, and establish clear communication routes for problem resolution.</font></th>
+</tr>
+
+<tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 3 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Data loss or corruption</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Low  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Automated backup, recovery, redundant storage systems, and routine data backups.</font></th>
+</tr>
+
+<tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 4 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> User experience issues can lead to poor adoption and customer dissatisfaction. </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Conduct usability tests, gather user input, and refine interfaces.</font></th>
+</tr>
+
+<tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> 5 </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Heavy user loads cause performance barriers. </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Medium  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> High  </font></th>  
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> <p align="justify">Load testing, optimize design, code, caching, resource allocation.</font></th>
+</tr>
+
+</table>
+ 
