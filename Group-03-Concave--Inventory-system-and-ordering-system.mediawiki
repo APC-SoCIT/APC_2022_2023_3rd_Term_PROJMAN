@@ -1150,3 +1150,54 @@ It is crucial to engage with stakeholders early in the project to understand the
 </tr>
 
 </table>
+
+<h5>Roles</h5>
+<p align=" justify">
+The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.<br><br>
+
+<table width = "60%" align = "center">
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Name</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Role</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Contact Information</font></th>
+
+</tr>
+
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Mrs. Maria Theresa Reyes </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Sponsor </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> mtrf24@gmail.com  </font></th>
+
+</tr>
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Ken Angelo Carangan </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Product Owner </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> kgcarangan@student.apc.edu.ph </font></th>
+
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Stefano Franco Binay  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Manager</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Ssjbinay@student.apc.edu.ph </font></th>
+
+</tr>
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Marcus Jorell Medina </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Scrum Master / QA  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> mcmedina2@student.apc.edu.ph</font></th>
+
+</tr>
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Jan Terence Francisco </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Developer</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> jrfrancisco@student.apc.edu.ph </font></th>
+
+</tr>
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Ryan Candari  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Documentation Manager </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> rscandari@student.apc.edu.ph </font></th>
+
+</tr>
+</table>
+
