@@ -1151,7 +1151,7 @@ It is crucial to engage with stakeholders early in the project to understand the
 
 </table>
 
-<h5>Roles</h5>
+<h5>Project Team Directory</h5>
 <p align=" justify">
 The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.<br><br>
 
@@ -1197,6 +1197,97 @@ The following table presents contact information for all persons identified in t
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Ryan Candari  </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Documentation Manager </font></th>
      <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> rscandari@student.apc.edu.ph </font></th>
+
+</tr>
+</table>
+
+<h5>Communication Methods and Technologies </h5>
+<p align=" justify">
+When considering communication methods and technologies for an inventory and ordering system, it's important to choose approaches that enable efficient and effective communication among stakeholders. Here are some commonly used methods and technologies: <br><br>
+1.Email: <br>
+-Email is a widely used communication method for exchanging formal messages, notifications, and documentation. <br>
+-It allows for clear and detailed communication, attachments, and the ability to reach multiple recipients simultaneously. <br><br>
+2.Meetings and Workshops: <br>
+-In-person or virtual meetings and workshops facilitate interactive discussions, brainstorming, and problem-solving. <br>
+-They are ideal for addressing complex topics, gathering feedback, and ensuring effective collaboration among stakeholders. <br><br>
+3.Project Management Tools: <br>
+-Project management software platforms, such as Jira, Trello, or Asana, provide centralized communication and collaboration features. <br>
+-These tools allow for task assignments, progress tracking, document sharing, and team discussions, promoting transparency and accountability. <br><br>
+4.Instant Messaging and Chat Platforms: <br>
+-Instant messaging and chat platforms, such as Slack, Microsoft Teams, or Google Chat, enable real-time communication and quick information exchange. <br>
+-They offer features like group chats, direct messaging, file sharing, and integration with other project management tools. <br><br>
+5.Video Conferencing: <br>
+-Video conferencing tools, such as Zoom, Microsoft Teams, or Google Meet, enable face-to-face communication and virtual meetings. <br>
+-They facilitate remote collaboration, screen sharing, and visual presentations, enhancing engagement and understanding among stakeholders. <br><br>
+6.Collaboration and Document Sharing Platforms: <br>
+-Online platforms like Google Drive, Microsoft SharePoint, or Dropbox allow for collaborative document creation, editing, and sharing. <br>
+-They ensure that stakeholders have access to up-to-date documentation, reducing version control issues and facilitating concurrent work. <br><br>
+7.Intranet or Portal: <br>
+-An intranet or web portal dedicated to the inventory and ordering system provides a centralized location for sharing information, updates, and resources. <br>
+-It can include FAQs, user guides, training materials, and announcements, promoting self-service and easy access to relevant information. <br><br>
+8.Mobile Applications: <br>
+-Mobile applications designed specifically for the inventory and ordering system can provide real-time updates, order tracking, and instant communication. <br>
+-They offer convenience and accessibility for system users and stakeholders on the go. <br><br>
+9.Notification Systems: <br>
+-Automated notification systems, such as SMS alerts, push notifications, or email notifications, can provide timely updates and notifications regarding order status, system changes, or important events. <br><br>
+10.Help Desk and Support Ticketing Systems: <br>
+-Help desk systems and support ticketing platforms enable efficient communication between system users and the support team. <br>
+-They provide a structured way to log, track, and resolve issues, ensuring timely support and resolution.<br><br>
+ 
+The choice of communication methods and technologies should align with the needs and preferences of stakeholders, the complexity of the information being shared, and the level of urgency for communication. A combination of different methods and technologies may be necessary to accommodate diverse stakeholder requirements and ensure effective communication within the inventory and ordering system. <br><br>
+
+<h5>Communications Matrix</h5>
+<p align=" justify">
+<table width = "60%" align = "center">
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> CHANNEL</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> PURPOSE</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> MEDIUM</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> FREQUENCY</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> AUDIENCE</font></th>
+
+</tr>
+
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Planning Meeting </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Introduce the project, its goals, and its expectations. </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Video Conference </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> At the start of the project </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Team, Project Sponsor, Product Owner </font></th>
+
+</tr>
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Team Meetings </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Coordination, collaboration, and project task reviews </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Video Conference </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Regularly</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Team </font></th>
+
+</tr>
+
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Technical and development Meetings  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Discuss the project's system development and technical aspects. Remove any obstacles or technological issues to advance. </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Video Conference </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Regularly</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Scrum Master, Scrum Member, Project Team </font></th>
+
+</tr>
+   <tr bgcolor="#184376">
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Sprint Meeting </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Plan and review sprint activities </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Video Conference </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> During Sprint </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Team </font></th>
+
+</tr>
+
+     <tr bgcolor="#ffffff" >
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Project Status Report  </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Provide updates regarding the project progress and milestones </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Video Conference </font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Regularly</font></th>
+     <th text-align = "left" width="220" height = "40"><font color = "#E1E5ED"> Regularly</font></th>
 
 </tr>
 </table>
